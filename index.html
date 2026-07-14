@@ -240,6 +240,76 @@
 
   #f1 { flex: 1 1 220px; }
 
+  /* elpris */
+  #elpris { flex: 1 1 220px; display: flex; flex-direction: column; }
+
+  #el-now {
+    font-family: 'Inter Tight', sans-serif;
+    font-weight: 300;
+    font-size: clamp(22px, 4.4vmin, 40px);
+    font-variant-numeric: tabular-nums;
+  }
+
+  #el-now .unit { font-size: 0.45em; color: var(--ink-dim); font-weight: 400; }
+
+  #el-bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 3px;
+    height: 7vmin;
+    min-height: 34px;
+    margin: 1.4vmin 0 1vmin;
+  }
+
+  .el-bar {
+    flex: 1;
+    background: var(--ink-faint);
+    opacity: 0.5;
+    border-radius: 2px 2px 0 0;
+  }
+
+  .el-bar.now { background: var(--amber); opacity: 1; }
+  .el-bar.cheap { background: #79a86b; opacity: 0.95; }
+
+  #el-hint { font-size: clamp(11px, 1.9vmin, 16px); color: var(--ink-dim); font-variant-numeric: tabular-nums; }
+  #el-hint b { color: #9cc48d; font-weight: 500; }
+
+  /* f1 weekend sessions */
+  .f1-session {
+    display: flex;
+    justify-content: space-between;
+    gap: 2vmin;
+    font-size: clamp(12px, 2.1vmin, 18px);
+    color: var(--ink-dim);
+    font-variant-numeric: tabular-nums;
+    line-height: 1.5;
+  }
+
+  .f1-session.past { opacity: 0.35; }
+  .f1-session.next { color: var(--ink); }
+  .f1-session.next .st { color: var(--amber); font-weight: 600; }
+
+  #f1 a.pitwall {
+    display: inline-block;
+    margin-top: 1.4vmin;
+    font-size: clamp(11px, 1.9vmin, 15px);
+    color: var(--amber);
+    text-decoration: none;
+    opacity: 0.9;
+  }
+
+  /* SL deviations */
+  .deviation {
+    display: flex;
+    gap: 1.2vmin;
+    margin-top: 1.4vmin;
+    font-size: clamp(12px, 2vmin, 17px);
+    color: var(--amber);
+    line-height: 1.35;
+  }
+
+  .deviation::before { content: '⚠'; flex-shrink: 0; }
+
   #f1-body {
     font-size: clamp(14px, 2.4vmin, 22px);
     line-height: 1.45;
@@ -448,6 +518,13 @@
     <div class="panel" id="trains">
       <h2>Pendeltåg · Jakobsberg</h2>
       <div id="train-list"><div class="dep"><span class="dest">Hämtar avgångar …</span></div></div>
+      <div id="train-deviations"></div>
+    </div>
+    <div class="panel" id="elpris">
+      <h2>Elpris · SE3</h2>
+      <div id="el-now">--</div>
+      <div id="el-bars"></div>
+      <div id="el-hint"></div>
     </div>
     <div class="panel" id="f1">
       <h2>Nästa F1-race</h2>
@@ -502,11 +579,18 @@ const CONFIG = {
     { name: 'STHLM', section: 'Sverige · Stockholm', url: 'https://www.svt.se/nyheter/lokalt/stockholm/rss.xml' },
   ],
   maxPerSection: 4,
+  // Electricity price area (Stockholm = SE3)
+  elprisArea: 'SE3',
+  // Show full session schedule when the race is this close
+  f1WeekendWithinDays: 4,
+  pitwallUrl: 'https://paivh.github.io/Pitwall/',
   corsProxy: 'https://api.allorigins.win/raw?url=',
   // refresh intervals (ms)
   weatherEvery: 15 * 60 * 1000,
   newsEvery: 15 * 60 * 1000,
   trainsEvery: 60 * 1000,
+  elprisEvery: 30 * 60 * 1000,
+  deviationsEvery: 5 * 60 * 1000,
   f1Every: 6 * 60 * 60 * 1000,
 };
 
@@ -882,7 +966,108 @@ function closeModal() {
 $('m-close').addEventListener('click', closeModal);
 $('modal').addEventListener('click', (e) => { if (e.target.id === 'modal') closeModal(); });
 
+/* ---------- elpris: elprisetjustnu.se (no key) ---------- */
+
+async function elFetch(day) {
+  const url = `https://www.elprisetjustnu.se/api/v1/prices/${day.getFullYear()}/${pad(day.getMonth() + 1)}-${pad(day.getDate())}_${CONFIG.elprisArea}.json`;
+  try {
+    const r = await fetch(url);
+    if (!r.ok) throw new Error(r.status);
+    return await r.json();
+  } catch (e) {
+    try {
+      const r = await fetch(CONFIG.corsProxy + encodeURIComponent(url));
+      if (!r.ok) throw new Error(r.status);
+      return await r.json();
+    } catch (e2) { return []; } // tomorrow's prices 404 until ~13:00 — that's fine
+  }
+}
+
+async function loadElpris() {
+  try {
+    const now = new Date();
+    const [today, tomorrow] = await Promise.all([
+      elFetch(now), elFetch(new Date(now.getTime() + 86400000)),
+    ]);
+    const all = [...today, ...tomorrow].map((p) => ({
+      start: new Date(p.time_start), end: new Date(p.time_end), ore: p.SEK_per_kWh * 100,
+    }));
+    if (!all.length) { $('elpris').classList.add('hidden'); return; }
+    $('elpris').classList.remove('hidden');
+
+    const cur = all.find((p) => p.start <= now && now < p.end) || all[0];
+    $('el-now').innerHTML = `${cur.ore.toFixed(0)}<span class="unit"> öre/kWh</span>`;
+
+    // upcoming prices, averaged per hour (handles both hourly and 15-min data)
+    const byHour = new Map();
+    for (const p of all.filter((p) => p.end > now)) {
+      const k = `${p.start.toDateString()}-${p.start.getHours()}`;
+      if (!byHour.has(k)) byHour.set(k, { start: p.start, vals: [] });
+      byHour.get(k).vals.push(p.ore);
+    }
+    const hours = [...byHour.values()].slice(0, 12)
+      .map((h) => ({ start: h.start, ore: h.vals.reduce((a, b) => a + b, 0) / h.vals.length }));
+    if (!hours.length) return;
+
+    const lo = Math.min(0, ...hours.map((h) => h.ore));
+    const hi = Math.max(...hours.map((h) => h.ore), lo + 1);
+    const cheapest = hours.reduce((a, b) => (a.ore <= b.ore ? a : b));
+
+    const bars = $('el-bars');
+    bars.innerHTML = '';
+    hours.forEach((h, i) => {
+      const el = document.createElement('div');
+      el.className = 'el-bar' + (i === 0 ? ' now' : '') + (h === cheapest && i !== 0 ? ' cheap' : '');
+      el.style.height = `${Math.max(6, ((h.ore - lo) / (hi - lo)) * 100)}%`;
+      el.title = `${pad(h.start.getHours())}:00 · ${h.ore.toFixed(0)} öre`;
+      bars.appendChild(el);
+    });
+
+    $('el-hint').innerHTML = `billigast <b>${pad(cheapest.start.getHours())}:00 · ${cheapest.ore.toFixed(0)} öre</b> · kommande 12 h`;
+    stamp();
+  } catch (e) {
+    $('elpris').classList.add('hidden');
+  }
+}
+
+/* ---------- SL deviations (open API, no key) ---------- */
+
+async function loadDeviations() {
+  try {
+    const siteId = await findSiteId();
+    const url = `https://deviations.integration.sl.se/v1/messages?future=true&site=${siteId}`;
+    let d;
+    try {
+      const r = await fetch(url);
+      if (!r.ok) throw new Error(r.status);
+      d = await r.json();
+    } catch (e) {
+      const r = await fetch(CONFIG.corsProxy + encodeURIComponent(url));
+      d = await r.json();
+    }
+    const box = $('train-deviations');
+    box.innerHTML = '';
+    const seen = new Set();
+    for (const m of (Array.isArray(d) ? d : [])) {
+      const v = (m.message_variants || []).find((x) => x.language === 'sv') || (m.message_variants || [])[0];
+      const header = v && v.header && v.header.trim();
+      if (!header || seen.has(header)) continue;
+      seen.add(header);
+      const el = document.createElement('div');
+      el.className = 'deviation';
+      el.textContent = header;
+      box.appendChild(el);
+      if (seen.size >= 2) break;
+    }
+  } catch (e) { /* no deviations shown is fine */ }
+}
+
 /* ---------- F1 next race (Jolpica / Ergast) ---------- */
+
+const F1_SESSIONS = [
+  ['FirstPractice', 'FP1'], ['SecondPractice', 'FP2'], ['ThirdPractice', 'FP3'],
+  ['SprintQualifying', 'Sprintkval'], ['Sprint', 'Sprint'], ['Qualifying', 'Kval'],
+];
 
 async function loadF1() {
   try {
@@ -890,16 +1075,40 @@ async function loadF1() {
     const d = await r.json();
     const races = d.MRData.RaceTable.Races;
     const now = Date.now();
-    const next = races.find((x) => new Date(`${x.date}T${x.time || '12:00:00Z'}`).getTime() > now);
+    // keep the current race on screen until ~3h after lights out
+    const next = races.find((x) => new Date(`${x.date}T${x.time || '12:00:00Z'}`).getTime() + 3 * 3600e3 > now);
     if (!next) { $('f1-body').textContent = 'Säsongen är slut 🏁'; return; }
-    const start = new Date(`${next.date}T${next.time || '12:00:00Z'}`);
-    const days = Math.ceil((start - now) / 86400000);
-    const when = days === 0 ? 'idag!'
-      : days === 1 ? 'imorgon'
-      : `om <span class="count">${days} dagar</span>`;
-    $('f1-body').innerHTML = `<div class="race">${next.raceName}</div>`
-      + `<div>${when}</div>`
-      + `<div class="sub">${next.Circuit.circuitName} · ${start.toLocaleDateString('sv-SE', { day: 'numeric', month: 'short' })} ${start.toLocaleTimeString('sv-SE', { hour: '2-digit', minute: '2-digit' })}</div>`;
+
+    const raceStart = new Date(`${next.date}T${next.time || '12:00:00Z'}`);
+    const days = Math.ceil((raceStart - now) / 86400000);
+
+    if (days <= CONFIG.f1WeekendWithinDays) {
+      // race weekend: full session schedule in local time
+      const sessions = [];
+      for (const [key, label] of F1_SESSIONS) {
+        if (next[key] && next[key].date) {
+          sessions.push({ label, t: new Date(`${next[key].date}T${next[key].time || '12:00:00Z'}`) });
+        }
+      }
+      sessions.push({ label: 'Race 🏁', t: raceStart });
+      sessions.sort((a, b) => a.t - b.t);
+      const upNext = sessions.find((s) => s.t.getTime() > now);
+
+      let html = `<div class="race">${next.raceName}</div>`
+        + `<div class="sub">${next.Circuit.circuitName}</div>`;
+      for (const s of sessions) {
+        const cls = s.t.getTime() < now ? 'past' : (s === upNext ? 'next' : '');
+        html += `<div class="f1-session ${cls}"><span>${s.label}</span>`
+          + `<span class="st">${s.t.toLocaleDateString('sv-SE', { weekday: 'short' })} ${s.t.toLocaleTimeString('sv-SE', { hour: '2-digit', minute: '2-digit' })}</span></div>`;
+      }
+      html += `<a class="pitwall" href="${CONFIG.pitwallUrl}">Öppna Pitwall ↗</a>`;
+      $('f1-body').innerHTML = html;
+    } else {
+      const when = days === 1 ? 'imorgon' : `om <span class="count">${days} dagar</span>`;
+      $('f1-body').innerHTML = `<div class="race">${next.raceName}</div>`
+        + `<div>${when}</div>`
+        + `<div class="sub">${next.Circuit.circuitName} · ${raceStart.toLocaleDateString('sv-SE', { day: 'numeric', month: 'short' })} ${raceStart.toLocaleTimeString('sv-SE', { hour: '2-digit', minute: '2-digit' })}</div>`;
+    }
     stamp();
   } catch (e) {
     $('f1').classList.add('hidden');
@@ -927,6 +1136,8 @@ setInterval(tickClock, 1000);
 loadWeather();
 loadNameday();
 loadTrains();
+loadElpris();
+loadDeviations();
 loadNews();
 loadF1();
 keepAwake();
@@ -934,6 +1145,8 @@ keepAwake();
 setInterval(loadWeather, CONFIG.weatherEvery);
 setInterval(loadNews, CONFIG.newsEvery);
 setInterval(loadTrains, CONFIG.trainsEvery);
+setInterval(loadElpris, CONFIG.elprisEvery);
+setInterval(loadDeviations, CONFIG.deviationsEvery);
 setInterval(loadF1, CONFIG.f1Every);
 setInterval(loadNameday, 6 * 60 * 60 * 1000);
 </script>

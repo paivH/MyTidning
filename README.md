@@ -3,7 +3,7 @@
 A single-file bedside morning dashboard for a wall-mounted Android tablet.
 No API keys, no backend, no build step — same recipe as Pitwall.
 
-**Shows:** big clock · Swedish date + namnsdag/röda dagar · current weather + 5-hour strip + sunrise/sunset (Open-Meteo) · pendeltåg departures from Jakobsberg (SL open Transport API) · SVT + BBC headlines (RSS) · next F1 race countdown (Jolpica).
+**Shows:** big clock · Swedish date + namnsdag/röda dagar · current weather + 5-hour strip + sunrise/sunset (Open-Meteo) · pendeltåg departures from Jakobsberg (SL open Transport API) · SVT + BBC headlines (RSS) · next F1 race countdown (Jolpica) — expands to a full session schedule with Pitwall link on race weekends · spot electricity prices for SE3 (elprisetjustnu.se) with cheapest-hour hint · SL service disruptions for the station.
 
 **Signature:** the background follows the real sun — near-black at night, a warm amber glow rises around actual sunrise, cool tones during the day. Between 22:00–06:00 it drops to a dim clock-only night mode (tap the screen to wake it for 60 s).
 
