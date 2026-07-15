@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T20:57:07.554Z",
+ "updated": "2026-07-15T22:02:28.253Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-   "date": "2026-07-15T18:41:21.000Z",
+   "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+   "date": "2026-07-15T21:55:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-   "desc": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks."
+   "desc": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran."
   },
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
-   "date": "2026-07-15T13:32:05.000Z",
+   "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
+   "date": "2026-07-15T21:21:19.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Civilian casualties are reported in four Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea."
+   "desc": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Skottlossning mot fönster i Norrköping",
+   "date": "2026-07-15T21:11:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/skottlossning-mot-fonster-i-norrkoping",
+   "desc": "Någon har skjutit mot ett fönster i Klockaretorpet i Norrköping under onsdagskvällen. Ingen person har skadats. – Vi tror att någon har haft intentionen att beröva någon annan livet, säger polisens presstalesperson Martina Gradian."
   },
   {
    "src": "SVT",
@@ -74,20 +82,12 @@
    "desc": "Nationalförsamlingen i Frankrike har röstat igenom ett lagförslag som ska möjliggöra dödshjälp för svårt sjuka. Premiärminister Sébastien Lecornu ska nu be Frankrikes konstitutionella råd att granska förslaget. Om det godkänns också där blir det lag."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Brand i Karlskronas skärgård – helikoptrar vattenbombar",
-   "date": "2026-07-15T17:24:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/blekinge/brand-i-karlskronas-skargard-helikoptrar-vattenbombar",
-   "desc": "Det brinner i terrängen i Utlängan i Karlskrona kommun. Branden uppges vara 300 meter lång och 50 meter bred. På plats är helikoptrar som vattenbombar branden. – Det ska ha gett god effekt, säger räddningstjänstens ledningsoperatör."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Pendeltågsstationen Stockholm City utrymd",
    "date": "2026-07-15T20:44:45.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/pendeltagsstationen-stockholm-city-utrymd",
-   "desc": "Pendeltågsstationen Stockholm City i centrala Stockholm har utrymts på grund av ett brandlarm."
+   "desc": "Pendeltågsstationen Stockholm City i centrala Stockholm har utrymts på grund av ett brandlarm. – Man får inte gå av eller på vid stationen, säger Andreas Strömberg, presschef på SL."
   },
   {
    "src": "STHLM",
