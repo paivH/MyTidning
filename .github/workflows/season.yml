@@ -1,0 +1,35 @@
+# .github/workflows/season.yml
+name: Seasonal food idea
+
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 03:30 UTC ≈ 05:30 Swedish summer time, before your morning
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: season
+  cancel-in-progress: true
+
+jobs:
+  season:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate idea
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/season.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "gryning-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add season.json
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "season: update ingredient idea"
+          git push
