@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-15T09:59:18.298Z",
+ "updated": "2026-07-15T11:41:14.860Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-   "date": "2026-07-15T09:06:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports."
+   "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+   "date": "2026-07-15T11:08:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+   "desc": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks."
   },
   {
    "src": "BBC",
@@ -28,18 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "China economic growth falls sharply, missing target",
-   "date": "2026-07-15T09:40:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports."
+   "title": "Three killed as Russian bombing of Odesa continues",
+   "date": "2026-07-15T10:17:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+   "desc": "In recent days, Russia and Ukraine have launched attacks on each others' infrastructure for shipping goods."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
-   "date": "2026-07-15T09:57:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
-   "desc": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya."
+   "title": "China economic growth falls sharply, missing target",
+   "date": "2026-07-15T10:21:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports."
   },
   {
    "src": "SVT",
@@ -84,6 +84,22 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Barn till sjukhus efter hundattack",
+   "date": "2026-07-15T11:19:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/barn-till-sjukhus-efter-hundattack",
+   "desc": "En person har förts till sjukhus med ambulanshelikopter efter att ha blivit biten av en hund i Hagaparken. Enligt uppgifter till Aftonbladet ska det vara ett barn som skadats. Polisen bekräftar att det är en ”yngre person”."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Person tagen ur vattnet under Liljeholmsbron",
+   "date": "2026-07-15T11:07:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/person-tagen-ur-vattnet-under-liljeholmsbron",
+   "desc": "En person har tagits upp ur vattnet under Liljeholmsbron efter en misstänkt drunkning. Skadeläget är oklart."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Man häktad för motellmordet i Sigtuna",
    "date": "2026-07-15T08:37:24.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-haktad-for-motellmordet-i-sigtuna",
@@ -104,22 +120,6 @@
    "date": "2026-07-15T03:13:18.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/person-hittad-dod-i-skogsomrade-i-solna",
    "desc": "En person har hittats död i närheten av Råstasjön i Solna. Det finns inget uppenbart som tyder på brott men en förundersökning om mord har inletts."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man allvarligt skadad – mordförsök i Sköndal",
-   "date": "2026-07-15T01:16:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-allvarligt-skadad-mordforsok-i-skondal",
-   "desc": "En man har stickskadats i en lägenhet i Sköndal i södra Stockholm. Polisen utreder misstänkt mordförsök."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Explosion vid port i Hässelby",
-   "date": "2026-07-14T23:32:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/explosion-vid-port-i-hasselby",
-   "desc": "En explosion har inträffat vid ett flerfamiljshus i Hässelby i nordvästra Stockholm natten till onsdag. – Det pågår en stor insats för att leta efter den eller de som utfört brottet, säger Per Fahlström vid polisen."
   }
  ]
 }
