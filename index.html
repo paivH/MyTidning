@@ -185,10 +185,79 @@
   /* ---------- middle: trains + f1 ---------- */
   #row2 {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(43vw, 290px), 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(30vw, 260px), 1fr));
     gap: 2vmin;
     align-items: stretch;
   }
+
+  /* expand buttons + maximized overlay */
+  .panel h2 { position: relative; }
+
+  .expand {
+    position: absolute;
+    right: 0;
+    top: -0.3em;
+    font: inherit;
+    font-size: 1.4em;
+    line-height: 1;
+    background: none;
+    border: none;
+    color: var(--ink-faint);
+    cursor: pointer;
+    padding: 0 0.2em;
+  }
+  .expand:hover, .expand:active { color: var(--amber); }
+
+  body.maximized #app { display: none; }
+
+  #max-host {
+    position: fixed;
+    inset: 0;
+    z-index: 30;
+    background: var(--bg-a);
+    padding: 4vmin 5vmin;
+    display: none;
+    flex-direction: column;
+    gap: 2vmin;
+  }
+  body.maximized #max-host { display: flex; }
+
+  #max-host .max-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  #max-title {
+    font-size: clamp(14px, 2.4vmin, 20px);
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--amber);
+  }
+
+  #max-close {
+    font: inherit;
+    font-size: clamp(14px, 2.3vmin, 19px);
+    color: var(--ink);
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 0.8vmin 2.4vmin;
+    cursor: pointer;
+  }
+
+  #max-body {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    columns: 2;
+    column-gap: 5vmin;
+  }
+  #max-body .news-col { break-inside: avoid; margin-bottom: 2.5vmin; display: block; }
+  #max-body .headline, #max-body .deal { margin-bottom: 1.4vmin; }
+
+  @media (max-width: 800px) { #max-body { columns: 1; } }
 
   .panel {
     background: var(--card);
@@ -551,11 +620,6 @@
   </div>
 
   <div id="row2">
-    <div class="panel" id="trains">
-      <h2>Pendeltåg · Jakobsberg</h2>
-      <div id="train-list"><div class="dep"><span class="dest">Hämtar avgångar …</span></div></div>
-      <div id="train-deviations"></div>
-    </div>
     <div class="panel" id="food">
       <h2>Dagens råvara · i säsong</h2>
       <div id="food-ingredient">—</div>
@@ -563,7 +627,7 @@
       <div id="food-season"></div>
     </div>
     <div class="panel" id="deals">
-      <h2>Erbjudanden · Barkarby</h2>
+      <h2>Erbjudanden · Barkarby<button class="expand" data-panel="deals" title="Visa fler">⤢</button></h2>
       <div id="deals-list"><div class="deal"><span class="what">Väntar på deals.json …</span></div></div>
       <div id="deals-note"></div>
     </div>
@@ -574,13 +638,22 @@
   </div>
 
   <div class="panel" id="news">
+    <h2 class="news-head">Nyheter<button class="expand" data-panel="news" title="Visa fler">⤢</button></h2>
     <div id="news-sections"><div class="headline"><span class="txt">Hämtar rubriker …</span></div></div>
   </div>
 
   <footer>
-    <span id="status">GRYNING</span>
+    <span id="status">GRYNING · <span id="mini-trains">–</span></span>
     <span id="updated"></span>
   </footer>
+</div>
+
+<div id="max-host">
+  <div class="max-bar">
+    <div id="max-title"></div>
+    <button id="max-close" type="button">Stäng ✕</button>
+  </div>
+  <div id="max-body"></div>
 </div>
 
 <div id="modal">
@@ -844,26 +917,15 @@ async function loadTrains() {
       const re = new RegExp(CONFIG.slDestinationFilter, 'i');
       deps = deps.filter((x) => re.test(x.destination || ''));
     }
-    deps = deps.slice(0, 4);
-    const list = $('train-list');
-    list.innerHTML = '';
-    if (!deps.length) {
-      list.innerHTML = '<div class="dep"><span class="dest">Inga avgångar just nu</span></div>';
-      return;
-    }
-    for (const x of deps) {
-      const el = document.createElement('div');
-      el.className = 'dep';
+    deps = deps.slice(0, 2);
+    if (!deps.length) { $('mini-trains').textContent = 'inga tåg'; return; }
+    const parts = deps.map((x) => {
       const disp = x.display || (x.expected || x.scheduled || '').slice(11, 16);
-      const soon = /min|nu/i.test(disp);
-      el.innerHTML = `<span class="when ${soon ? '' : 'later'}">${disp}</span>`
-        + `<span class="dest">${x.destination || ''}</span>`
-        + `<span class="line-badge">${(x.line && x.line.designation) || 'J'}</span>`;
-      list.appendChild(el);
-    }
-    stamp();
+      return `${disp} ${x.destination || ''}`;
+    });
+    $('mini-trains').textContent = 'Pendeltåg ' + parts.join(' · ');
   } catch (e) {
-    $('train-list').innerHTML = '<div class="dep"><span class="dest">SL otillgängligt just nu</span></div>';
+    $('mini-trains').textContent = 'SL otillgängligt';
   }
 }
 
@@ -954,6 +1016,32 @@ function selectHeadlines(items, max) {
   return mixed.slice(0, max);
 }
 
+let lastNewsItems = [];
+
+function buildHeadlineEl(it) {
+  const el = document.createElement('div');
+  el.className = 'headline' + (isBreaking(it) ? ' breaking' : '');
+  el.innerHTML = `<span class="src">${it.src}</span><span class="txt"></span><span class="when">${relTime(it.date)}</span>`;
+  el.querySelector('.txt').textContent = it.title;
+  el.addEventListener('click', (e) => { e.stopPropagation(); openArticle(it); });
+  return el;
+}
+
+function renderNewsInto(container, perSection) {
+  const sectionOrder = [...new Set(CONFIG.feeds.map((f) => f.section))];
+  const bySection = {};
+  lastNewsItems.forEach((i) => (bySection[i.section] ||= []).push(i));
+  container.innerHTML = '';
+  for (const name of sectionOrder) {
+    if (!bySection[name]) continue;
+    const col = document.createElement('div');
+    col.className = 'news-col';
+    col.innerHTML = `<h3>${name}</h3>`;
+    for (const it of selectHeadlines(bySection[name], perSection)) col.appendChild(buildHeadlineEl(it));
+    container.appendChild(col);
+  }
+}
+
 async function loadNews() {
   let items = [];
 
@@ -981,28 +1069,9 @@ async function loadNews() {
     return;
   }
 
-  // group by section, keep CONFIG order
-  const sectionOrder = [...new Set(CONFIG.feeds.map((f) => f.section))];
-  const bySection = {};
-  items.forEach((i) => (bySection[i.section] ||= []).push(i));
-
-  const container = $('news-sections');
-  container.innerHTML = '';
-  for (const name of sectionOrder) {
-    if (!bySection[name]) continue;
-    const col = document.createElement('div');
-    col.className = 'news-col';
-    col.innerHTML = `<h3>${name}</h3>`;
-    for (const it of selectHeadlines(bySection[name], CONFIG.maxPerSection)) {
-      const el = document.createElement('div');
-      el.className = 'headline' + (isBreaking(it) ? ' breaking' : '');
-      el.innerHTML = `<span class="src">${it.src}</span><span class="txt"></span><span class="when">${relTime(it.date)}</span>`;
-      el.querySelector('.txt').textContent = it.title;
-      el.addEventListener('click', (e) => { e.stopPropagation(); openArticle(it); });
-      col.appendChild(el);
-    }
-    container.appendChild(col);
-  }
+  lastNewsItems = items;
+  renderNewsInto($('news-sections'), CONFIG.maxPerSection);
+  if (maxPanel === 'news') openMax('news'); // refresh if currently maximized
   stamp();
 }
 
@@ -1032,26 +1101,35 @@ $('modal').addEventListener('click', (e) => { if (e.target.id === 'modal') close
 
 /* ---------- Barkarby deals (deals.json from the AI action) ---------- */
 
+let lastDeals = [];
+
+function buildDealEl(x) {
+  const el = document.createElement('div');
+  el.className = 'deal';
+  el.innerHTML = '<span class="store"></span><span class="what"></span><span class="price"></span>';
+  el.querySelector('.store').textContent = x.store || '';
+  el.querySelector('.what').textContent = x.item || '';
+  el.querySelector('.price').textContent = x.price || '';
+  return el;
+}
+
+function renderDealsInto(container, limit) {
+  container.innerHTML = '';
+  for (const x of lastDeals.slice(0, limit)) container.appendChild(buildDealEl(x));
+}
+
 async function loadDeals() {
   try {
     const r = await fetch('deals.json?t=' + Date.now());
     if (!r.ok) throw new Error(r.status);
     const d = await r.json();
-    const deals = (d.deals || []).slice(0, 4);
+    const deals = (d.deals || []);
     if (!deals.length) throw new Error('empty');
-    const list = $('deals-list');
-    list.innerHTML = '';
-    for (const x of deals) {
-      const el = document.createElement('div');
-      el.className = 'deal';
-      el.innerHTML = '<span class="store"></span><span class="what"></span><span class="price"></span>';
-      el.querySelector('.store').textContent = x.store || '';
-      el.querySelector('.what').textContent = x.item || '';
-      el.querySelector('.price').textContent = x.price || '';
-      list.appendChild(el);
-    }
+    lastDeals = deals;
+    renderDealsInto($('deals-list'), 4);
     const ageH = d.updated ? (Date.now() - new Date(d.updated)) / 3600e3 : 0;
     $('deals-note').textContent = ageH > 48 ? 'obs: kan vara inaktuella' : '';
+    if (maxPanel === 'deals') openMax('deals'); // refresh if currently maximized
     stamp();
   } catch (e) {
     $('deals-list').innerHTML = '<div class="deal"><span class="what">Inga erbjudanden ännu — aktivera deals-action</span></div>';
@@ -1174,19 +1252,19 @@ async function loadDeviations() {
       const r = await fetch(CONFIG.corsProxy + encodeURIComponent(url));
       d = await r.json();
     }
-    const box = $('train-deviations');
-    box.innerHTML = '';
+    const headers = [];
     const seen = new Set();
     for (const m of (Array.isArray(d) ? d : [])) {
       const v = (m.message_variants || []).find((x) => x.language === 'sv') || (m.message_variants || [])[0];
       const header = v && v.header && v.header.trim();
       if (!header || seen.has(header)) continue;
       seen.add(header);
-      const el = document.createElement('div');
-      el.className = 'deviation';
-      el.textContent = header;
-      box.appendChild(el);
-      if (seen.size >= 2) break;
+      headers.push(header);
+      if (headers.length >= 1) break;
+    }
+    if (headers.length) {
+      const cur = $('mini-trains').textContent;
+      $('mini-trains').innerHTML = `${cur} · <span style="color:var(--amber)">⚠ ${headers[0]}</span>`;
     }
   } catch (e) { /* no deviations shown is fine */ }
 }
@@ -1257,6 +1335,43 @@ async function keepAwake() {
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState === 'visible') keepAwake();
 });
+
+/* ---------- maximize panels ---------- */
+
+let maxPanel = null;
+let maxTimer = null;
+
+function openMax(which) {
+  maxPanel = which;
+  document.body.classList.add('maximized');
+  const body = $('max-body');
+  if (which === 'news') {
+    $('max-title').textContent = 'Nyheter';
+    body.style.columns = '';           // news-cols already 2-up; let them flow
+    renderNewsInto(body, 12);          // many more per section
+  } else if (which === 'deals') {
+    $('max-title').textContent = 'Erbjudanden · Barkarby';
+    body.style.columns = '2';
+    renderDealsInto(body, 40);         // show everything we have
+  }
+  // auto-close after 2 min so a wall display never gets stuck maximized
+  clearTimeout(maxTimer);
+  maxTimer = setTimeout(closeMax, 120 * 1000);
+}
+
+function closeMax() {
+  maxPanel = null;
+  document.body.classList.remove('maximized');
+  clearTimeout(maxTimer);
+}
+
+document.querySelectorAll('.expand').forEach((btn) => {
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    openMax(btn.dataset.panel);
+  });
+});
+$('max-close').addEventListener('click', closeMax);
 
 /* ---------- boot ---------- */
 
