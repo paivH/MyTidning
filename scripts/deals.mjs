@@ -54,12 +54,35 @@ try {
   }
   const data = await res.json();
 
-  // find blocks by type, not position: last text block carries the JSON
+  // find blocks by type, not position: text blocks carry the JSON
   const texts = (data.content || []).filter((b) => b.type === 'text').map((b) => b.text);
   const raw = texts.join('\n');
-  const match = raw.match(/\{[\s\S]*\}/); // extract the JSON object
-  if (!match) throw new Error('No JSON in response');
-  const parsed = JSON.parse(match[0].replace(/```json|```/g, ''));
+
+  // extract JSON robustly: try fenced ```json first, then the LAST balanced {...}
+  function extractJson(s) {
+    const fenced = s.match(/```(?:json)?\s*([\s\S]*?)```/);
+    if (fenced) { try { return JSON.parse(fenced[1]); } catch (e) { /* keep trying */ } }
+    // scan for the last top-level object that parses
+    const starts = [];
+    for (let i = 0; i < s.length; i++) if (s[i] === '{') starts.push(i);
+    for (const start of starts) {
+      let depth = 0;
+      for (let j = start; j < s.length; j++) {
+        if (s[j] === '{') depth++;
+        else if (s[j] === '}') { depth--; if (depth === 0) {
+          try { return JSON.parse(s.slice(start, j + 1)); } catch (e) { break; }
+        } }
+      }
+    }
+    return null;
+  }
+
+  const parsed = extractJson(raw);
+  if (!parsed || !parsed.deals) {
+    console.error('Could not parse deals JSON from model response.');
+    console.error('Raw text was:\n', raw.slice(0, 1500));
+    process.exit(1);
+  }
   const deals = (parsed.deals || []).filter((d) => d.store && d.item)
     .map((d) => ({ store: d.store, item: d.item, price: d.price || '', url: d.url || '' }))
     .slice(0, 6);
