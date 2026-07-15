@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T18:03:17.426Z",
+ "updated": "2026-07-15T19:44:53.258Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-   "date": "2026-07-15T12:26:38.000Z",
+   "date": "2026-07-15T18:41:21.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
    "desc": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks."
   },
@@ -44,7 +44,15 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Gängens ”mordannonser” ska tas bort – på en timme",
+   "title": "Man till sjukhus med ambulanshelikopter efter mopedolycka i Degerfors",
+   "date": "2026-07-15T18:33:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/man-till-sjukhus-med-ambulanshelikopter-efter-mopedolycka-i-degerfors",
+   "desc": "En man i 60-årsåldern blev på onsdagen förd till sjukhus med ambulanshelikopter efter en singelolycka på väg 507 utanför Degerfors."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Gängens ”mordannonser” ska tas bort – inom en timme",
    "date": "2026-07-15T17:47:31.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/gangens-mordannonser-ska-tas-bort-pa-en-timme",
    "desc": "På en timme ska de kriminella annonserna på sociala medier tas bort – annars riskerar företagen böter på fem miljoner kronor. ”Från och med i dag får polisen konkreta verktyg för att snabbt kunna stoppa rekryteringsannonser till grova våldsdåd”, säger justitieminister Gunnar Strömmer (M) till SVT Nyheter."
@@ -72,14 +80,6 @@
    "date": "2026-07-15T15:53:43.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/person-pakord-pa-e22-i-kalmar-vagen-avstangd",
    "desc": "En äldre kvinna på cykel blev påkörd vid en korsning på E22 i Mönsterås."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Snabbast växande ebolautbrottet hittills",
-   "date": "2026-07-15T15:10:03.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/snabbaste-ebolautbrottet-hittills",
-   "desc": "Det pågående ebolautbrottet i Kongo-Kinshasa växer snabbare än något tidigare utbrott, uppger Läkare utan gränser. Fler än 2 000 personer har hittills smittats och 754 har dött. – Vi jagar fortfarande ikapp utbrottet istället för att ligga steget före, säger Trish Newport, ansvarig för organisationens akuta insatser."
   },
   {
    "src": "STHLM",
