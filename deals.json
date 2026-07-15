@@ -1,35 +1,42 @@
 {
- "updated": "2026-07-15T08:07:38.872Z",
+ "updated": "2026-07-15T21:47:41.139Z",
+ "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Riven ost (Arla, Kvibille) 150 g",
-   "price": "20 kr/st"
+   "item": "Svenska jordgubbar 500g",
+   "price": "25 kr",
+   "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Läsk (Trocadero, Loka Crush, Champis) 140-150 cl",
-   "price": "3 för 40 kr"
+   "item": "Grillat kycklinglårfilé 1kg",
+   "price": "59 kr",
+   "url": "https://www.ica.se"
   },
   {
-   "store": "ICA",
-   "item": "Fryst hamburgare 720 g (ICA)",
-   "price": "70 kr/st"
+   "store": "Lidl",
+   "item": "Vattenmelon hel",
+   "price": "19 kr/st",
+   "url": "https://www.lidl.se"
   },
   {
-   "store": "ICA",
-   "item": "Mogen avokado 3-pack (Sydafrika/Peru) 330 g",
-   "price": "34:90 kr"
+   "store": "Lidl",
+   "item": "Grillkol 3kg",
+   "price": "39 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
+   "store": "IKEA",
+   "item": "Glass Daim 500ml",
+   "price": "15 kr",
+   "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "SUP-paddel, justerbar",
-   "price": "90 kr (ord. 129 kr)"
-  },
-  {
-   "store": "Rusta",
-   "item": "Positionsstol Neapel",
-   "price": "324 kr (ord. 499 kr)"
+   "item": "Utemöbelset balkong",
+   "price": "399 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
