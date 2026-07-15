@@ -32,4 +32,10 @@ jobs:
           git add deals.json
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "deals: update Barkarby offers"
-          git push
+          # retry push with rebase in case another workflow pushed first
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "push $i rejected, rebasing…"
+            git pull --rebase --autostash origin main
+            sleep $((RANDOM % 5 + 1))
+          done
