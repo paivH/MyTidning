@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-16T11:16:20.064Z",
+ "updated": "2026-07-16T12:58:27.163Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
-   "date": "2026-07-16T11:11:22.000Z",
+   "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
+   "date": "2026-07-16T12:56:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
    "desc": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military."
   },
@@ -13,33 +13,65 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Iran targets military bases as US launches wave of strikes",
-   "date": "2026-07-16T10:26:05.000Z",
+   "date": "2026-07-16T11:48:49.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
    "desc": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks."
   },
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+   "date": "2026-07-16T12:09:13.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Argentina face action over Falklands banner",
-   "date": "2026-07-15T22:49:47.000Z",
+   "date": "2026-07-16T12:01:37.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
    "desc": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Families of 43 victims await verdict in Genoa bridge disaster",
-   "date": "2026-07-15T23:02:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
-   "desc": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below."
+   "title": "Volunteer firefighter suspected of starting devastating France forest fire",
+   "date": "2026-07-16T12:44:26.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
+   "desc": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Actor Sam Neill died from pneumonia, agent confirms",
-   "date": "2026-07-16T04:28:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
-   "desc": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Mirakel när Melker i Piteå blev påkörd av tåg: ”Huvudet lossnade nästan”",
+   "date": "2026-07-16T12:27:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/mirakel-nar-melker-i-pitea-blev-pakord-av-tag-huvudet-lossnade-nastan",
+   "desc": "En urflippad studentskiva i Umeå slutade i skräck då 22-åriga Melker Löf från Piteå blev överkörd av tåget. Mirakulöst nog överlevde han och står nu på benen igen. Men vägen tillbaka har varit tuff."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Extas när Argentina avgör – se referatet här: ”Kom igen för fan”",
+   "date": "2026-07-16T12:03:08.000Z",
+   "link": "https://www.svt.se/sport/fotboll/extas-nar-argentina-avgor-se-referatet-kom-igen-for-fan",
+   "desc": "Argentina blev klart för VM-final efter Lautaro Martinez segermål i den 92:a minuten mot England. Se och hör hur det lät hemma i Argentina när avgörandet kom."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Eldningsförbud införs i Västerås",
+   "date": "2026-07-16T11:45:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/eldningsforbud-infors-i-vasteras",
+   "desc": "Västerås stad inför ett tillfälligt eldningsförbud i skog och mark på grund av den höga risken för gräs- och skogsbränder."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Skogsbrand vid sjö i Sörmland – räddningstjänsten varnar för extrem brandrisk",
+   "date": "2026-07-16T11:09:45.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/pagaende-skogsbrand-i-strangnas",
+   "desc": "Det pågår en skogsbrand i Strängnäs kommun, vid Finnsjön mellan Åkers styckebruk och Malmköping. Räddningstjänsten får hjälp av helikoptrar med släckningsarbetet. – Det är extrem brandrisk, säger Anna Larsson, vakthavande befäl på räddningstjänsten."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-07-16T11:01:02.000Z",
    "link": "https://www.svt.se/nyheter/uutiset/svenska/professorn-svarar-gor-anvandningen-av-ai-oss-dummare",
    "desc": "Farhågorna kring AI gäller också barns och ungas kunskaper och kognitiva förmågor samt deras motivation att lära sig nya saker, säger Torkel Klingberg, professor i kognitiv neurovetenskap vid Karolinska Institutet. Folkhälsomyndigheten utreder riskerna med användningen av generativ AI för barns och ungas psykiska hälsa och välbefinnande."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Företagare om AI-boomen: Vi måste värna människors kompetens",
-   "date": "2026-07-16T10:59:57.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/svenska/foretagare-om-ai-boomen-vi-maste-varna-manniskors-kompetens",
-   "desc": "Många företag söker efter sätt att effektivisera arbetet med hjälp av AI. Katri Lindgren, företagare och rådgivare inom edtech, ser stora möjligheter med utvecklingen, men hon anser att företag måste värna de anställdas egen kompetens och förmåga att tänka och fatta beslut."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Person avliden efter sjukdomsfall i bil",
-   "date": "2026-07-16T10:58:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/person-avliden-vid-sjukdomsfall-i-bil",
-   "desc": "Räddningstjänsten larmades till väg 919 vid Skogslund efter att en bil kört av vägen och hamnat på en gräsmatta. Föraren, som drabbats av ett sjukdomsfall är avliden, enligt polisens presstalesperson, vilket MVT var först med att berätta."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så skyddar du katten i hettan: Kylmattor och vatten",
-   "date": "2026-07-16T10:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-skyddar-du-katten-i-hettan-kylmattor-och-vatten",
-   "desc": "På Eskilstuna djurskyddsförening i Kälby är man förberedd när den värsta värmen kommer under sommaren. – Vi ser till att de har färskt vatten, vi har kylmattor, kylklampar och så har vi fått aircondition, så katterna mår bra, säger djurvårdaren Rebecka Andersson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Dubbla arbetsplatsolyckor –  man fick lastpall i huvudet",
-   "date": "2026-07-16T09:04:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/man-skadad-i-arbetsplatsolycka-gl9f1f",
-   "desc": "Två män har förts med ambulans till sjukhus efter två arbetsplatsolyckor, som inträffat på två olika företag i Vaggeryds kommun."
   },
   {
    "src": "STHLM",
