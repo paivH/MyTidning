@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-16T20:54:04.722Z",
+ "updated": "2026-07-16T22:00:38.879Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Blasts reported in Iran as US launches new wave of strikes",
+   "date": "2026-07-16T21:44:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -16,14 +24,6 @@
    "date": "2026-07-16T13:08:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
    "desc": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Iran targets military bases as US launches wave of strikes",
-   "date": "2026-07-16T11:48:49.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks."
   },
   {
    "src": "BBC",
@@ -84,10 +84,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "E4:an avstängd efter olycka – två till sjukhus",
+   "title": "Olycka på E4 söder om Stockholm – två till sjukhus",
    "date": "2026-07-16T19:48:19.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/vag-avstangd-efter-olycka-med-flera-fordon",
-   "desc": "På E4 vid trafikplats Fittja i Stockholm har en olycka med två personbilar inträffat. Två personer är förda till sjukhus."
+   "desc": "Två bilar har krockat på E4 vid trafikplats Fittja söder om Stockholm. Två personer har förts till sjukhus med oklart skadeläge. – Den ena bilen voltade och landade på taket, säger Mikael Blomberg, vakthavande befäl vid räddningstjänsten."
   },
   {
    "src": "STHLM",
