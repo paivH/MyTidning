@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T06:10:11.561Z",
+ "updated": "2026-07-17T06:08:43.144Z",
  "verified": false,
  "deals": [
   {
@@ -10,32 +10,32 @@
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé färsk 900g",
+   "item": "Kycklingfilé Kronfågel 900g",
    "price": "69 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Vattenmelon hel",
-   "price": "19,90 kr",
+   "item": "Vattenmelon per st",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
    "item": "Grillkol 3kg",
-   "price": "39,90 kr",
+   "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Glassbägare Sommar 3-pack",
-   "price": "15 kr",
+   "item": "Glassbox Choklad 1L",
+   "price": "19 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utemöbelset balkong",
-   "price": "499 kr",
+   "item": "Utomhuskuddar 2-pack",
+   "price": "99 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
