@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T14:40:18.436Z",
+ "updated": "2026-07-17T16:11:55.554Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Person hittad i vattnet vid Venasjön",
+   "date": "2026-07-17T15:19:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/person-hittad-i-vattnet-vid-venasjon",
+   "desc": "En person har hittats i vattnet vid Venasjön i Söderköpings kommun efter en sökinsats. Räddningstjänst och ambulans är på plats och ger vård."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "En opera om en förlorad barndomsskog – mitt i Lainios kalhygge",
    "date": "2026-07-17T13:42:50.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/en-opera-om-en-forlorad-barndomsskog-mitt-i-lainios-kalhygge",
@@ -72,14 +80,6 @@
    "date": "2026-07-17T10:24:17.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kd-medlem-i-kiruna-avslojades-ha-bakgrund-i-nmr-lamnar-partiet",
    "desc": "En person på Kristdemokraternas listat till kommunvalet i Kiruna har tidigare varit aktiv i Nordiska motståndsrörelsen. Efter samtal med gruppledaren Krister Pounu lämnar han nu partiet. – Han är djupt ångerfull, säger Pounu."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Zlatans Norgehån: ”Inget riktigt topplag”",
-   "date": "2026-07-17T09:40:48.000Z",
-   "link": "https://www.svt.se/sport/fotboll/zlatans-norgehan-inget-riktigt-topplag",
-   "desc": "Zlatan Ibrahimovic är inte imponerad av Englands VM-insats. Men medan han kritiserade engelsmännen delade han också ut en känga till Norge."
   },
   {
    "src": "STHLM",
