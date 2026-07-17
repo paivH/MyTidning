@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T16:11:55.554Z",
+ "updated": "2026-07-17T17:36:39.286Z",
  "items": [
   {
    "src": "BBC",
@@ -44,10 +44,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Person hittad i vattnet vid Venasjön",
+   "title": "Störningar av navigationssystem på Östersjön ökar",
+   "date": "2026-07-17T17:00:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/storningar-av-navigationssystem-pa-ostersjon-okar",
+   "desc": "Satellitnavigeringen i Östersjöområdet utsätts nu både för kontinuerlig jamming och mer systematisk spoofing, alltså störningar från främmande makt. Manipulerade GNSS‑signaler sprider sig geografiskt och gör störningarna mer svårupptäckta. Det är oroväckande att man har den typen av störningar, säger Andreas Holmgren, enhetschef på Transportstyrelsen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man död efter drunkningslarm vid Venasjön",
    "date": "2026-07-17T15:19:14.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/person-hittad-i-vattnet-vid-venasjon",
-   "desc": "En person har hittats i vattnet vid Venasjön i Söderköpings kommun efter en sökinsats. Räddningstjänst och ambulans är på plats och ger vård."
+   "desc": "En man har avlidit efter att ha hittats i vattnet vid Venasjön i Söderköpings kommun."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-07-17T12:09:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/aldre-man-dod-efter-trafikolycka-i-angered",
    "desc": "En äldre man har omkommit efter en trafikolycka i Angered i Göteborg. Ytterligare tre personer har förts till sjukhus efter olyckan. Skadeläget är oklart."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "KD-medlem i Kiruna avslöjades ha bakgrund i NMR – lämnar partiet",
-   "date": "2026-07-17T10:24:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kd-medlem-i-kiruna-avslojades-ha-bakgrund-i-nmr-lamnar-partiet",
-   "desc": "En person på Kristdemokraternas listat till kommunvalet i Kiruna har tidigare varit aktiv i Nordiska motståndsrörelsen. Efter samtal med gruppledaren Krister Pounu lämnar han nu partiet. – Han är djupt ångerfull, säger Pounu."
   },
   {
    "src": "STHLM",
