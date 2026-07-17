@@ -1,29 +1,21 @@
 {
- "updated": "2026-07-17T04:12:52.120Z",
+ "updated": "2026-07-17T06:36:38.613Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US launches fresh wave of strikes as Iran says civilian infrastructure hit",
-   "date": "2026-07-17T04:02:31.000Z",
+   "title": "US launches new strikes as Iran says civilian infrastructure hit",
+   "date": "2026-07-17T06:21:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-   "desc": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz."
+   "desc": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-   "date": "2026-07-16T16:36:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-   "desc": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-   "date": "2026-07-16T13:08:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
-   "desc": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine."
+   "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+   "date": "2026-07-17T04:08:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence."
   },
   {
    "src": "BBC",
@@ -36,15 +28,31 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Fifa 'assessing match reports' over Falklands banner",
-   "date": "2026-07-16T18:44:43.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands."
+   "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+   "date": "2026-07-17T05:16:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+   "desc": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Philippines condemns monkey video on Chinese media as racist",
+   "date": "2026-07-17T02:37:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+   "desc": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ellen, 22 år tar sig till yrkes-VM i Kina – siktar på Fashion week",
+   "title": "Recension: ”The Odyssey” av Christopher Nolan",
+   "date": "2026-07-17T06:23:02.000Z",
+   "link": "https://www.svt.se/kultur/recension-the-odyssey-av-christopher-nolan",
+   "desc": "Christopher Nolans ”The Odyssey” är en blockbuster värdig Homeros förlaga. Hantverksmässigt klanderfri med en stjärnspäckad skådespelarensemble. Småtrist att Odysseus fått en rejäl kalldusch för att passa tidsandan, tycker filmkritiker Kristoffer Viita."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Frisören Ellen, 22, ska till VM i Kina – siktar på Fashion week",
    "date": "2026-07-17T03:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/gavleborg/ellen-22-ar-tar-sig-till-yrkes-vm-i-kina-siktar-pa-fashion-week",
    "desc": "Ellen Rudd, 22 år från Gävle utbildade sig till Frisör i Falun, och efter en guldmedalj i yrkes-SM bär det nu av mot VM i Kina."
@@ -68,18 +76,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt barnvåldtäkt i Ystad – två gripna",
+   "title": "Misstänkt barnvåldtäkt i Ystad – två anhållna",
    "date": "2026-07-17T02:48:09.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-barnvaldtakt-i-ystad-tva-gripna",
-   "desc": "Två personer har gripits misstänkta för att ha våldtagit ett barn under 15 år i Ystad under torsdagskvällen, rapporterar Sydsvenskan."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Trump anklagar Kina för att ha påverkat valet i USA",
-   "date": "2026-07-17T01:04:27.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/donald-trump-talar-till-nationen",
-   "desc": "Donald Trump höll under natten till fredag ett tv-sänt tal där han hävdar att det finns brister i USA:s valsystem. – Vita huset släpper nu underrättelsedokument som avslöjar chockerande sårbarheter, säger Trump. Kina pekas ut som boven i dramat."
+   "desc": "En 18-årig man har anhållits misstänkt för att ha våldtagit ett barn under 15 år, och en 17-årig pojke har anhållits och misstänks för försök till våldtäkt mot barn."
   },
   {
    "src": "STHLM",
