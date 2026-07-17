@@ -1,19 +1,19 @@
 {
- "updated": "2026-07-17T11:04:47.870Z",
+ "updated": "2026-07-17T12:41:53.269Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US launches new strikes as Iran says civilian infrastructure hit",
+   "title": "Iran accuses US of hitting civilian infrastructure",
    "date": "2026-07-17T10:57:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-   "desc": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz."
+   "desc": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-   "date": "2026-07-17T09:12:06.000Z",
+   "date": "2026-07-17T11:37:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
    "desc": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections."
   },
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Äldre man död efter trafikolycka i Angered",
+   "date": "2026-07-17T12:09:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/aldre-man-dod-efter-trafikolycka-i-angered",
+   "desc": "En äldre man har omkommit efter en trafikolycka i Angered i Göteborg. Ytterligare tre personer har förts till sjukhus efter olyckan. Skadeläget är oklart."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "KD-medlem i Kiruna avslöjades ha bakgrund i NMR – lämnar partiet",
    "date": "2026-07-17T10:24:17.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kd-medlem-i-kiruna-avslojades-ha-bakgrund-i-nmr-lamnar-partiet",
@@ -60,10 +68,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här faller rotorbladet efter branden i vindkraftverket i Mjölby",
+   "title": "Här faller del av vindkraftverket ner efter branden i Mjölby",
    "date": "2026-07-17T09:40:30.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/vindkraftverk-brinner-utanfor-mjolby",
-   "desc": "Ett vindkraftverk brinner utanför Mjölby. Branden pågår i ett maskinrum på 50 meters höjd. – Det är en fullt utvecklad brand i maskinrummet, 50 meter upp, säger Jonas Penton, vakthavande befäl hos räddningstjänsten."
+   "desc": "Ett vindkraftverk utanför Mjölby har brunnit. Branden startade i maskinrummet, omkring 50 meter över marken. Branden är nu släckt och samtliga rotorblad har fallit till marken."
   },
   {
    "src": "SVT",
@@ -74,20 +82,12 @@
    "desc": "Den tidigare toppolitikern får sitt fängelsestraff skärpt av Göta hovrätt. Hovrätten höjer straffet från tre till fyra års fängelse för grov kvinnofridskränkning, samtidigt som domstolen gör vissa ändringar i vilka gärningar mannen döms för."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man hamnade i vattnet i Eskilstuna – räddades av förbipasserande",
-   "date": "2026-07-17T08:46:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/man-hamnade-i-vattnet-i-eskilstuna-raddades-av-forbipasserande",
-   "desc": "En man hamnade i Eskilstunaån av okänd anledning under fredagsmorgonen. Förbipasserande kastade ut en livboj när de fick syn på mannen, uppger räddningstjänsten. – Det var en snabb insats, säger Kenneth Karlsson, vakthavande befäl vid räddningstjänsten."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Man begärs häktad efter mord i Sköndal",
+   "title": "Man häktad efter mord i Sköndal",
    "date": "2026-07-17T10:35:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-begars-haktad-efter-mord-i-skondal",
-   "desc": "En man har begärts häktad efter det misstänkta mordet i Sköndal tidigare i veckan. Mannens försvarare vill inte uttala sig om hur hans klient ställer sig till anklagelserna."
+   "desc": "En man har häktats efter det misstänkta mordet i Sköndal tidigare i veckan. Mannen nekar till brott."
   },
   {
    "src": "STHLM",
