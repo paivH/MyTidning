@@ -1,21 +1,21 @@
 {
- "updated": "2026-07-17T09:07:00.833Z",
+ "updated": "2026-07-17T11:04:47.870Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US launches new strikes as Iran says civilian infrastructure hit",
-   "date": "2026-07-17T08:10:12.000Z",
+   "date": "2026-07-17T10:57:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
    "desc": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-   "date": "2026-07-17T04:08:27.000Z",
+   "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+   "date": "2026-07-17T09:12:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence."
+   "desc": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections."
   },
   {
    "src": "BBC",
@@ -44,42 +44,58 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "KD-medlem i Kiruna avslöjades ha bakgrund i NMR – lämnar partiet",
+   "date": "2026-07-17T10:24:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kd-medlem-i-kiruna-avslojades-ha-bakgrund-i-nmr-lamnar-partiet",
+   "desc": "En person på Kristdemokraternas listat till kommunvalet i Kiruna har tidigare varit aktiv i Nordiska motståndsrörelsen. Efter samtal med gruppledaren Krister Pounu lämnar han nu partiet. – Han är djupt ångerfull, säger Pounu."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Zlatans Norgehån: ”Inget riktigt topplag”",
+   "date": "2026-07-17T09:40:48.000Z",
+   "link": "https://www.svt.se/sport/fotboll/zlatans-norgehan-inget-riktigt-topplag",
+   "desc": "Zlatan Ibrahimovic är inte imponerad av Englands VM-insats. Men medan han kritiserade engelsmännen delade han också ut en känga till Norge."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här faller rotorbladet efter branden i vindkraftverket i Mjölby",
+   "date": "2026-07-17T09:40:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/vindkraftverk-brinner-utanfor-mjolby",
+   "desc": "Ett vindkraftverk brinner utanför Mjölby. Branden pågår i ett maskinrum på 50 meters höjd. – Det är en fullt utvecklad brand i maskinrummet, 50 meter upp, säger Jonas Penton, vakthavande befäl hos räddningstjänsten."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hovrätten skärper domen mot tidigare Växjöpolitiker – längre fängelsestraff",
+   "date": "2026-07-17T09:10:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/hovratten-skarper-domen-mot-tidigare-vaxjopolitiker-langre-fangelsestraff",
+   "desc": "Den tidigare toppolitikern får sitt fängelsestraff skärpt av Göta hovrätt. Hovrätten höjer straffet från tre till fyra års fängelse för grov kvinnofridskränkning, samtidigt som domstolen gör vissa ändringar i vilka gärningar mannen döms för."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Man hamnade i vattnet i Eskilstuna – räddades av förbipasserande",
    "date": "2026-07-17T08:46:43.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/man-hamnade-i-vattnet-i-eskilstuna-raddades-av-forbipasserande",
    "desc": "En man hamnade i Eskilstunaån av okänd anledning under fredagsmorgonen. Förbipasserande kastade ut en livboj när de fick syn på mannen, uppger räddningstjänsten. – Det var en snabb insats, säger Kenneth Karlsson, vakthavande befäl vid räddningstjänsten."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Nolan-fans reser till London för att se ”The Odyssey”",
-   "date": "2026-07-17T08:13:54.000Z",
-   "link": "https://www.svt.se/kultur/nolan-fans-reser-till-london-for-att-se-the-odyssey",
-   "desc": "Filmfantaster reser långa vägar för att se Christopher Nolans ”The Odyssey” i analog Imax. Nicola Camoglio är på väg till London för att se filmen i vad som han kallar ”rätt bildformat”."
+   "title": "Man begärs häktad efter mord i Sköndal",
+   "date": "2026-07-17T10:35:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-begars-haktad-efter-mord-i-skondal",
+   "desc": "En man har begärts häktad efter det misstänkta mordet i Sköndal tidigare i veckan. Mannens försvarare vill inte uttala sig om hur hans klient ställer sig till anklagelserna."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ny badavrådan i Västerås – vattnet otjänligt vid Björnöbadet",
-   "date": "2026-07-17T07:53:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/ny-badavradan-i-vasteras-vattnet-otjanligt-vid-bjornobadet",
-   "desc": "Vattenprover visar att vattnet är otjänligt på Björnöbadet i Västerås. I väntan på nytt prov avråder Västerås stad från att bada på platsen. – Det är förhöjda värden av intestinala enterokocker, alltså bakterier som finns i tarmkanalen hos däggdjur, säger Robert Eveby, miljö- och hälsoskyddsinspektör på Västerås stad."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lodjur har dödat två lamm i Sävsjö kommun",
-   "date": "2026-07-17T07:44:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lodjur-har-dodat-tva-lamm-i-savsjo-kommun",
-   "desc": "Två lamm har hittats döda efter en lodjursattack i Sävsjö kommun."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SMHI varnar – risk för skyfall",
-   "date": "2026-07-17T07:14:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/smhi-varnar-risk-for-skyfall",
-   "desc": "SMHI har gått ut med en gul varning för skyfallsliknande regn under lördagen."
+   "title": "Nära tusen klagomål på värmen i SL-trafiken",
+   "date": "2026-07-17T10:00:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nara-tusen-klagomal-pa-varmen-i-sl-trafiken",
+   "desc": "Den som åkt kollektivt den senaste veckan har nog känt att det varit rätt lökigt, särskilt på bussarna. Faktum är att SL under sommaren fått in nära 900 klagomål på värmen, och de senaste dagarna har det varit betydligt fler än vanligt."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-07-16T19:48:19.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/vag-avstangd-efter-olycka-med-flera-fordon",
    "desc": "Två bilar har krockat på E4 vid trafikplats Fittja söder om Stockholm. Två personer har förts till sjukhus med oklart skadeläge. – Den ena bilen voltade och landade på taket, säger Mikael Blomberg, vakthavande befäl vid räddningstjänsten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 16 juli",
-   "date": "2026-07-16T17:55:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-16-juli-70o0ct",
-   "desc": "Detta har hänt under torsdagen 16 juli i Stockholms län"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Solkurvor har orsakat förseningar i kollektivtrafiken",
-   "date": "2026-07-16T15:44:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/solkurvor-orsakar-forseningar-i-kollektivtrafiken",
-   "desc": "Under torsdagen har solkurvor orsakat förseningar i Stockholms kollektivtrafik. Alla gröna linjens tåg har påverkats med förseningar. På Saltsjöbanan mellan Igelboda och Saltsjöbaden har trafiken varit inställd – Vid den här typen av värme är risken stor för förseningar, säger Andreas Strömberg, presschef på SL."
   }
  ]
 }
