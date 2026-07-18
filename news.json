@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-18T06:01:53.762Z",
+ "updated": "2026-07-18T08:17:38.379Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US strikes hit Iran for seventh consecutive night",
+   "date": "2026-07-18T07:33:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+   "desc": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,14 +16,6 @@
    "date": "2026-07-18T01:29:47.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
    "desc": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US strikes hit Iran for seventh consecutive night",
-   "date": "2026-07-18T04:40:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-   "desc": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz."
   },
   {
    "src": "BBC",
@@ -28,18 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+   "date": "2026-07-18T07:05:19.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+   "desc": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "White House defends Argentina team over Falklands banner",
    "date": "2026-07-17T22:12:54.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
    "desc": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
-   "date": "2026-07-17T20:00:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-   "desc": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tak har rasat in på  köpcentrum i Uddevalla",
+   "date": "2026-07-18T07:02:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/tak-har-rasat-in-pa-kopcentrum-i-uddevalla",
+   "desc": "En tak har rasat in i en godisbutik vid Torp köpcentrum i Uddevalla. Räddningstjänsten är på plats och utreder händelsen, och personalen är utrymd."
   },
   {
    "src": "SVT",
@@ -60,18 +68,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Endast 13 skräpböter på ett år: ”Alldeles för få”",
-   "date": "2026-07-18T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/endast-13-skrapboter-pa-ett-ar-alldeles-for-fa",
-   "desc": "Endast 13 böter för nedskräpning delades ut i Gävleborgs län.När vi berättar det för personer på stan i Hudiksvall är reaktionerna tydliga. – Det är ju bara en per månad, säger Agneta Borg, genomresande i Hudiksvall."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Stort slagsmål i Mölndal – flera polispatruller på plats",
+   "title": "Två Gothia cup-kopplade bråk under fredagskvällen",
    "date": "2026-07-17T19:25:45.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/stort-slagsmal-i-molndal-flera-polispatruller-pa-plats",
-   "desc": "Polisen larmades på fredagskvällen om ett stort slagsmål i Mölndal där omkring 20 personer ska ha varit inblandade. Enligt polisen misstänks bråket ha brutit ut mellan Gothia cuplag."
+   "desc": "Polisen larmades på fredagskvällen om ett stort slagsmål vid en skola i Mölndal där omkring 20 personer ska ha varit inblandade. Enligt polisen ska de iblandade ha koppling till Gothia cup. Senare på kvällen larmades polisen om ytterligare ett bråk på en annan skola där lag från turneringen bor."
   },
   {
    "src": "SVT",
