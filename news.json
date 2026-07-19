@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T21:23:34.661Z",
+ "updated": "2026-07-19T22:24:46.050Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Spanien vinner VM-guld – Ferran Torres sänkte Argentina i förlängning",
+   "date": "2026-07-19T22:01:54.000Z",
+   "link": "https://www.svt.se/sport/fotboll/spanien-vinner-vm-guld-ferran-torres-sankte-argentina-i-forlangning",
+   "desc": "Spanien har vunnit VM-guld för andra gången. Ferran Torres, 26, blev stor hjälte i finalen mot Argentina med sitt 1–0-mål i förlängning."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Sverige förlorar finalen i U20-EM efter jätterysare",
    "date": "2026-07-19T18:29:08.000Z",
    "link": "https://www.svt.se/sport/handboll/sverige-forlorar-finalen-i-u20-em-efter-jatterysare",
@@ -72,14 +80,6 @@
    "date": "2026-07-19T10:08:20.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/elfel-stoppar-tagen-mellan-surahammar-och-virsbo",
    "desc": "Ett elfel på tågsträckan mellan Västerås och Ludvika ser ut att stoppa trafiken i flera dagar. Först på tisdagskvällen beräknas tågen kunna trafikera spåren igen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Husbil brann efter kollision på E45 i Sorsele",
-   "date": "2026-07-19T09:49:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/husbil-brinner-efter-kollission-pa-e45-i-sorsele",
-   "desc": "En husbil började brinna efter att ha krockat med en personbil på E45 i Sorsele. Tre personer var inblandade i olyckan."
   },
   {
    "src": "STHLM",
