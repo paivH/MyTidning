@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-19T04:25:51.509Z",
+ "updated": "2026-07-19T07:04:48.971Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-   "date": "2026-07-19T00:18:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region."
+   "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+   "date": "2026-07-19T05:10:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+   "desc": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait."
   },
   {
    "src": "BBC",
@@ -15,7 +15,7 @@
    "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
    "date": "2026-07-19T02:17:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\"."
+   "desc": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent."
   },
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Man föll från balkong i Stockholm – kvinna och man misstänks för mordförsök",
+   "date": "2026-07-19T04:28:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-grovt-brott-vid-flerfamiljshus-i-stockholm",
+   "desc": "En man och kvinna har gripits misstänkta för mordförsök i Hässelby efter att en man har fallit från en balkong. Han bedöms ha livshotande skador. Under söndagsmorgonen pågår en stor polisinsats i ett bostadsområde i Hässelby gård utanför Stockholm."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Kritik mot nya reklamskärmar i tunnelbanan: ”Störande”",
    "date": "2026-07-19T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kritik-mot-nya-reklamskarmar-i-tunnelbanan-storande",
@@ -112,14 +120,6 @@
    "date": "2026-07-17T14:19:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/storre-skogsbrand-pa-rano",
    "desc": "En skogsbrand i Haninge pågick under fredagen och räddningstjänsten arbetade intensivt för att förhindra att elden spred sig. – Branden omfattar omkring 4 000 kvadratmeter, vilket räknas som en större skogsbrand, säger Kenneth Karlsson vakthavande befäl Södertörns brandförsvar."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man häktad efter mord i Sköndal",
-   "date": "2026-07-17T10:35:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-begars-haktad-efter-mord-i-skondal",
-   "desc": "En man har häktats efter det misstänkta mordet i Sköndal tidigare i veckan. Mannen nekar till brott."
   },
   {
    "src": "BBC",
