@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T08:23:24.832Z",
+ "updated": "2026-07-20T11:21:06.469Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,22 @@
    "date": "2026-07-19T19:45:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
    "desc": "The US military reports another death a day after two of its soldiers were killed in Jordan."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Boy, 13, dies during World Cup celebrations in Spain",
+   "date": "2026-07-20T10:02:44.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+   "desc": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+   "date": "2026-07-20T11:18:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+   "desc": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz."
   },
   {
    "src": "BBC",
@@ -26,20 +42,36 @@
    "desc": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Tate brothers arrested in US as further UK charges take total to 59",
-   "date": "2026-07-19T12:53:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ryanairs möjliga förklaring till olyckan: ”Främmande föremål”",
+   "date": "2026-07-20T10:22:02.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ryanairs-mojliga-forklaring-till-olyckan-frammande-foremal",
+   "desc": "I början av juli sögs en man delvis ut ur ett Ryanairflyg efter att fönstret bredvid honom krossats. Nu har utredningen kommit med en möjlig förklaring till olyckan. ”De första indikationerna tyder på att det verkar röra sig om skador orsakade av ett främmande föremål på motorn vid start i Thessaloniki”, säger Ryanairs vd Michael O´Leary."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-   "date": "2026-07-19T18:25:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-   "desc": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "15-åring sprängde sig själv – hovrätten fastställer domen",
+   "date": "2026-07-20T09:30:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/15-aring-sprangde-sig-sjalv-hovratten-faststaller-dom",
+   "desc": "En 15-årig pojke sprängde sig själv av misstag i Östberga förra året. Nu fastställer Svea hovrätt tingsrättens dom mot de inblandade vännerna och uppdragsgivaren."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bebis dog – ”birth center” BB Gårda i Göteborg anmäls",
+   "date": "2026-07-20T09:13:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/bebis-dog-birth-center-i-goteborg-anmals",
+   "desc": "En förlossning som påbörjades vid ett ”birth center” – BB Gårda i Göteborg – slutade med att bebisen dog. Nu anmäler sjukhuset barnmorskan på centret till Ivo, rapporterar GP."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man död efter fall från tredje våningen – utreds som mord",
+   "date": "2026-07-20T08:37:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-efter-fall-fran-tredje-vaningen-utreds-som-mord",
+   "desc": "En man i 40-årsåldern som tros ha fallit från en balkong i västra Stockholm under helgen har avlidit, skriver Aftonbladet. Händelsen utreds som mord."
   },
   {
    "src": "SVT",
@@ -50,36 +82,20 @@
    "desc": "En maskerad man dök upp vid stängningsdags och visade upp en pistol för butikspersonal. Nu åtalas en man i 18-årsåldern för att ha rånat Coop i Djurås i april."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Efter lyxinköpen till förskolan – rektor åtalas",
-   "date": "2026-07-20T08:01:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-lyxinkopen-till-forskolan-rektor-atalas",
-   "desc": "Efter att ha gjort inköp av bland annat möbler och designlampor som sedan sålts vidare, åtalas nu en tidigare rektor i Jönköpings kommun. Det handlar om inköp för över en miljon."
+   "title": "15-åring sprängde sig själv – hovrätten fastställer domen",
+   "date": "2026-07-20T09:30:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/15-aring-sprangde-sig-sjalv-hovratten-faststaller-dom",
+   "desc": "En 15-årig pojke sprängde sig själv av misstag i Östberga förra året. Nu fastställer Svea hovrätt tingsrättens dom mot de inblandade vännerna och uppdragsgivaren."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Släckning i Drammen väntas pågå i tio dygn till",
-   "date": "2026-07-20T07:54:34.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/slackning-i-drammen-vantas-paga-i-tio-dygn-till",
-   "desc": "Räddningstjänsten räknar med att det kommer att ta ytterligare tio dagar innan storbranden i norska Drammen är helt släckt."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Operatören räds inte vintern – nu rullar elbussar i Kiruna",
-   "date": "2026-07-20T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/operatoren-rads-inte-vintern-nu-rullar-elbussar-i-kiruna",
-   "desc": "På andra håll i norra Sverige har införandet av eldrivna bussar i lokaltrafiken orsakat stora problem. Nu rullar elbussar i Kiruna och den nya operatören lovar att det kommer att fungera även när det blir som kallast till vintern."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så undviker du att förväxla svampar i skogen: ”Lite lurigt”",
-   "date": "2026-07-20T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-undviker-du-att-forvaxla-svampar-i-skogen-lite-lurigt",
-   "desc": "Toppig giftspindling eller trattkantarell? Svampkonsulenten Annika Fritsch delar med sig av tips för att minska risken för förväxling av svampar i skogen."
+   "title": "Man död efter fall från tredje våningen – utreds som mord",
+   "date": "2026-07-20T08:37:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-efter-fall-fran-tredje-vaningen-utreds-som-mord",
+   "desc": "En man i 40-årsåldern som tros ha fallit från en balkong i västra Stockholm under helgen har avlidit, skriver Aftonbladet. Händelsen utreds som mord."
   },
   {
    "src": "STHLM",
@@ -100,26 +116,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Man föll från balkong i Stockholm – två misstänks för mordförsök",
+   "title": "Man död efter fall från balkong i Hässelby",
    "date": "2026-07-19T04:28:43.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-grovt-brott-vid-flerfamiljshus-i-stockholm",
-   "desc": "En man och kvinna har anhållits misstänkta för mordförsök i Hässelby efter att en man har fallit från en balkong. Han bedöms ha livshotande skador."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kritik mot nya reklamskärmar i tunnelbanan: ”Störande”",
-   "date": "2026-07-19T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kritik-mot-nya-reklamskarmar-i-tunnelbanan-storande",
-   "desc": "På 14 tunnelbanestationer i Stockholm ska traditionella reklamaffischer ersättas med digitala reklamskärmar. Satsningen har väckt debatt på sociala medier och kritiserats av resenärer. Men nu svarar SL att de nya skyltarna kommer gynna stockholmarna."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 18 juli",
-   "date": "2026-07-18T17:58:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-18-juli-q0jmxt",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under lördagen den 18 juli."
+   "desc": "Den man som föll från en balkong i Hässelby under lördagskvällen har avlidit av sina skador. Två personer sitter sedan tidigare anhållna misstänkta för mordförsök."
   },
   {
    "src": "BBC",
