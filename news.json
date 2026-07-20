@@ -1,18 +1,18 @@
 {
- "updated": "2026-07-20T21:41:13.177Z",
+ "updated": "2026-07-20T22:56:51.108Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Trump imposes 50% tariff on Canadian imports",
-   "date": "2026-07-20T21:35:33.000Z",
+   "date": "2026-07-20T22:26:34.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-   "desc": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours."
+   "desc": "The duties mark a major escalation in trade tensions between the North American neighbours."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
+   "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
    "date": "2026-07-20T21:09:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
    "desc": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz."
@@ -44,10 +44,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Brand i Bräcke",
+   "title": "Bil har kört in i gym i Sundsvall",
+   "date": "2026-07-20T22:32:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/bil-har-kort-in-i-gym-i-sundsvall",
+   "desc": "En personbil har kraschat in i ett gym i centrala Sundsvall."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Brand i Pilgrimstad",
    "date": "2026-07-20T21:30:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/brand-i-bracke-gqysls",
-   "desc": "Flera räddningsenheter har larmats till en brand i Bräcke kommun. Enligt polisen är det någon slags fabriksbyggnad som brinner."
+   "desc": "15 brandbilar har larmats till en brand i Pilgrimstad i Bräcke kommun. Enligt polisen är det någon slags fabriksbyggnad som brinner."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-07-20T16:31:23.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/svart-himmel-over-moskva-efter-ukrainas-attacker",
    "desc": "Ukrainas luftkampanj mot Ryssland har fortsatt med nya attacker mot Moskvaregionen. Man siktade på oljeanläggningar, men slog också mot två stora lager tillhörande Wildberries, Rysslands största e-handelsbolag. – Ett uppenbart militärt mål, säger militärexpert Joakim Paasikivi."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Har Spanien och Fifa suddat bort Trump på vinnarbilderna?",
-   "date": "2026-07-20T16:14:07.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/har-spanien-och-fifa-suddat-bort-trump-pa-vinnarbilderna",
-   "desc": "Medan de spanska världsmästarna firar VM-segern och poserar för fotograferna står en fripassagerare bredvid dem på pokalpodiet – Donald Trump. I sociala medier ryktas det nu att presidenten suddats bort när Fifa och Spaniens landslag postat vinnarbilderna i sociala medier."
   },
   {
    "src": "STHLM",
