@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T02:38:15.802Z",
+ "updated": "2026-07-21T05:46:57.123Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-   "date": "2026-07-21T01:51:15.000Z",
+   "date": "2026-07-21T02:41:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
    "desc": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz."
   },
@@ -44,10 +44,26 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Här förbereder Mjällbysupportrarna tifot inför Champions League-kvalet",
+   "date": "2026-07-21T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/har-forbereder-mjallbysupportrarna-tifot-infor-champions-league-kvalet",
+   "desc": "Under tisdagkvällen inleds Mjällby AIF:s historiska Europa-spel, när laget tar emot Lincoln Red Imps på Strandvallen. Inför det har 15 supportrar limmat, skissat och målat för att få ihop tifot till den historiska matchen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kalix först med att använda konsten i kampen mot ALS",
+   "date": "2026-07-21T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kalix-forst-med-att-anvanda-konsten-i-kampen-mot-als",
+   "desc": "Kalix blir den första kommunen i Sverige där initiativet Art Against ALS genomför ett konstnärligt pilotprojekt i samverkan med Börje Salming ALS-stiftelse. En idé har mynnat ut i en konstutställning. – Det är spännande, tycker brodern Stig Salming."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Bil har kört in i gym i Sundsvall",
    "date": "2026-07-20T22:32:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/bil-har-kort-in-i-gym-i-sundsvall",
-   "desc": "En personbil har kraschat in i ett gym i centrala Sundsvall."
+   "desc": "En personbil har kraschat in i ett gym i centrala Sundsvall. Utreds som vårdslöshet i trafik av polisen."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "En kraftig brand utbröt på måndagskvällen i en byggnad i Pilgrimstad, Bräcke kommun. När räddningstjänsten kom till platsen var byggnaden helt övertänd."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "3000 kunder strömlösa i Mönsterås",
-   "date": "2026-07-20T19:34:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/3000-kunder-stromlosa-i-monsteras",
-   "desc": "Just nu är det ett större strömavbrott i Mönsterås kommun där 3000 kunder påverkas."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hade fjärrstyrd rörbomb i bokhylla – misstänks för flera olika brott",
-   "date": "2026-07-20T17:21:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/hade-fjarrstyrd-rorbomb-i-bokhylla-misstanks-for-flera-olika-brott",
-   "desc": "På tisdagen hålls rättegång mot en man i 40-årsåldern efter att polisen hittat en rörbomb i hans hem i Flens kommun. Den hittades efter en större insats – där regionala insatsstyrkan kallades in."
+   "title": "Ny satsning gör det gratis att skrota båten",
+   "date": "2026-07-21T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ny-satsning-gor-det-gratis-att-skrota-baten",
+   "desc": "När skroten blir för dyr väljer många båtägare att helt enkelt sänka farkosten – något som skapar stora miljöproblem. För att förhindra detta inför Havs- och vattenmyndigheten nu en premie som gör det gratis att skrota båten."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-20T08:37:56.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-efter-fall-fran-tredje-vaningen-utreds-som-mord",
    "desc": "En man i 40-årsåldern som tros ha fallit från en balkong i västra Stockholm under helgen har avlidit, skriver Aftonbladet. Händelsen utreds som mord."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 19 juli",
-   "date": "2026-07-19T17:50:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-19-juli-vbei0v",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 19 juli."
   },
   {
    "src": "BBC",
