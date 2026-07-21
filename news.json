@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-21T05:46:57.123Z",
+ "updated": "2026-07-21T08:22:13.328Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-   "date": "2026-07-21T00:34:47.000Z",
+   "date": "2026-07-21T07:56:13.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
    "desc": "The duties mark a major escalation in trade tensions between the North American neighbours."
   },
@@ -13,9 +13,9 @@
    "src": "BBC",
    "section": "Världen",
    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-   "date": "2026-07-21T02:41:28.000Z",
+   "date": "2026-07-21T06:16:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-   "desc": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz."
+   "desc": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan."
   },
   {
    "src": "BBC",
@@ -36,10 +36,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-   "date": "2026-07-20T21:03:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-   "desc": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US."
+   "title": "'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials",
+   "date": "2026-07-21T02:16:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så mycket minskar dödsfallen i trafiken",
+   "date": "2026-07-21T07:31:33.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/sa-mycket-minskar-dodsfallen-i-trafiken",
+   "desc": "Allt färre personer omkommer i trafikolyckor globalt, visar nya siffror från Världshälsoorganisationen WHO. Sedan 2011 har antalet sjunkit med 21 procent."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jim Gottfridsson återvänder till Sverige – klar för IFK Ystad",
+   "date": "2026-07-21T06:34:51.000Z",
+   "link": "https://www.svt.se/sport/handboll/jim-gottfridsson-atervander-till-sverige-klar-for-ifk-ystad",
+   "desc": "Jim Gottfridsson väljer att vända hem till Sverige och IFK Ystad. Landslagsstjärnan har skrivit på ett treårskontrakt. – När möjligheten att komma hem till IFK Ystad blev verklighet kändes beslutet helt rätt, säger han till klubbens hemsida."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ebba Anderssons plan inför hemma-VM 2027: ”Väldigt krävande”",
+   "date": "2026-07-21T06:06:45.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/ebba-anderssons-plan-infor-hemma-vm-2027-valdigt-kravande",
+   "desc": "Ett hemma-VM i Falun väntar i vinter och för Ebba Andersson börjar planen inför det stora målet att sätta sig. – Det kan innebära att jag väljer bort någon världscupshelg, säger Ebba Andersson till SVT Sport."
   },
   {
    "src": "SVT",
@@ -58,28 +82,12 @@
    "desc": "Kalix blir den första kommunen i Sverige där initiativet Art Against ALS genomför ett konstnärligt pilotprojekt i samverkan med Börje Salming ALS-stiftelse. En idé har mynnat ut i en konstutställning. – Det är spännande, tycker brodern Stig Salming."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Bil har kört in i gym i Sundsvall",
-   "date": "2026-07-20T22:32:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/bil-har-kort-in-i-gym-i-sundsvall",
-   "desc": "En personbil har kraschat in i ett gym i centrala Sundsvall. Utreds som vårdslöshet i trafik av polisen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "USA inför strafftullar – Kanada har 30 dagar på sig",
-   "date": "2026-07-20T21:54:07.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/trumps-hot-kan-infora-50-procentiga-tullar-mot-kanada",
-   "desc": "USA inför 50-procentiga tullar mot Kanada. Beslutet börjar gälla om 30 dagar om landet inte avskaffar sitt ”diskriminerande” handelshinder, uppger Donald Trump enligt Washington Post."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kraftig brand i Pilgrimstad: ”Väldigt mycket giftig rök”",
-   "date": "2026-07-20T21:30:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/brand-i-bracke-gqysls",
-   "desc": "En kraftig brand utbröt på måndagskvällen i en byggnad i Pilgrimstad, Bräcke kommun. När räddningstjänsten kom till platsen var byggnaden helt övertänd."
+   "title": "Kvinna misshandlad i hemmet – man gripen",
+   "date": "2026-07-21T06:02:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-misshandlad-i-hemmet-man-gripen",
+   "desc": "En man i 65-årsåldern ska ha misshandlat en kvinna i hemmet i Råcksta på måndagskvällen. Kvinnan ringde in till polisen medan mannen sov. – Hon uppgav till oss att det hade förekommit även tidigare, säger Marcus Björling hos polisen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-20T09:30:20.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/15-aring-sprangde-sig-sjalv-hovratten-faststaller-dom",
    "desc": "En 15-årig pojke sprängde sig själv av misstag i Östberga förra året. Nu fastställer Svea hovrätt tingsrättens dom mot de inblandade vännerna och uppdragsgivaren."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man död efter fall från tredje våningen – utreds som mord",
-   "date": "2026-07-20T08:37:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-efter-fall-fran-tredje-vaningen-utreds-som-mord",
-   "desc": "En man i 40-årsåldern som tros ha fallit från en balkong i västra Stockholm under helgen har avlidit, skriver Aftonbladet. Händelsen utreds som mord."
   },
   {
    "src": "BBC",
