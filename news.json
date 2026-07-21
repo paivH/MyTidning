@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-21T16:20:59.723Z",
+ "updated": "2026-07-21T17:52:57.828Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-   "date": "2026-07-21T11:42:41.000Z",
+   "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+   "date": "2026-07-21T17:33:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
    "desc": "The duties mark a major escalation in trade tensions between the North American neighbours."
   },
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Mjällbys drömstart i CL-kvalet – tog storseger efter klassmål",
+   "date": "2026-07-21T17:52:20.000Z",
+   "link": "https://www.svt.se/sport/fotboll/mjallbys-dromstart-i-cl-kvalet-tog-storseger-efter-klassmal",
+   "desc": "Drömstart för Mjällby i Champions League-kvalet. Hemma mot Lincoln Red Imps blev det seger med 3–0 efter ett högklassigt kombinationsmål."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hanna Öberg gravid – påverkar nästa säsong",
+   "date": "2026-07-21T17:09:52.000Z",
+   "link": "https://www.svt.se/sport/skidskytte/hanna-oberg-gravid-missar-nasta-sasong",
+   "desc": "Hanna Öberg är gravid och nästa säsong påverkas i stor omfattning."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tre personer till sjukhus efter krock vid Kvidinge",
+   "date": "2026-07-21T16:56:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/tre-personer-till-sjukhus-efter-krock-vid-kvidinge",
+   "desc": "Tre personer fördes till sjukhus efter en krock på väg 21 vid Kvidinge. Vägen var helt avstängd men är nu öppen igen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "18-åring från Åtvidaberg döms för mordannonser på Signal",
+   "date": "2026-07-21T16:28:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/18-aring-fran-atvidaberg-doms-for-mordannonser-pa-signal",
+   "desc": "En 18-åring från Åtvidaberg döms av Linköpings tingsrätt till 3 år och 6 månader i fängelse för stämpling till brotten mord och grov allmänfarlig ödeläggelse."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Här röjer de upp efter ovädret i Djurås",
    "date": "2026-07-21T15:10:28.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/dalarna/har-rojer-de-upp-efter-ovadret-i-djuras",
    "desc": "Nedfallna träd och hagel så kraftigt att det har orsakat skador på väggar. I Gagnef kämpar invånarna och kommunen nu för att röja upp efter det kraftiga oväder som drog in över trakten på fredagen. – Det är mycket döda och lutande träd så vi uppmanar allmänheten att hålla sig undan, säger arbetsledare Einar Eriksson"
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Orenat avloppsvatten efter strömavbrott – avråder från bad",
-   "date": "2026-07-21T14:36:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/orenat-avloppsvatten-efter-stromavbrott-avrader-fran-bad",
-   "desc": "Mönsterås kommun avråder från bad vid två badplatser i Timmernabben. Detta efter att orenat avloppsvatten runnit ut i havet, som en följd av det stora strömavbrottet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fullbelagt på länets stora campingar – av norrmän: ”Alla får inte plats”",
-   "date": "2026-07-21T14:31:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/fullbelagt-pa-lanets-stora-campingar-av-norrman-alla-far-inte-plats",
-   "desc": "Motorveckan fyller nu campingen i Lycksele, fotbollsfestivalen campingen i Umeå och den risiga nordnorska sommaren gör att norrmännen flyr till solen i Skellefteå. Nu är det minst sagt högtryck på länets största campingar. – Alla får inte plats just nu, säger Mikael Stenman, receptionschef på Ansia Camping i Lycksele."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Dömde mannen i gruvhålsfallet misshandlades på anstalten Salberga",
-   "date": "2026-07-21T14:08:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/domde-mannen-i-gruvhalsfallet-misshandlades-pa-anstalten-salberga",
-   "desc": "Den man som dömdes för att ha våldtagit och försökt döda en kvinna i ett gruvhål i Norberg har misshandlats på anstalten Salberg för tre år sedan. Nu väcks åtal mot hans medfånge som misstänks ligga bakom misshandeln."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Åtalade serieblottaren kan dömas till fängelse",
-   "date": "2026-07-21T13:42:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/atalade-serieblottaren-kan-domas-till-fangelse",
-   "desc": "Efter två dagars huvudförhandling tidigare i sommar beslutade Jönköpings tingsrätt att mannen som åtalats för ha blottat sig för flera kvinnor, skulle genomgå en rättspsykiatrisk undersökning."
+   "title": "Nyheter från dagen: 21 juli",
+   "date": "2026-07-21T17:52:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-21-juli-1bmxel",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under tisdagen den 21 juli."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-20T18:28:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-20-juli-uza1jz",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under måndagen den 20 juli."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stort strömavbrott i Nynäshamn – tusentals kunder drabbades",
-   "date": "2026-07-20T14:12:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stort-stromavbrott-i-nynashamn-tusentals-drabbade",
-   "desc": "Nynäshamn har drabbats av stort strömavbrott klockan 11:20 under måndagen. En rovfågel låg bakom kortslutningen som lämnade 3294 kunder utan ström. – Just det här har inte hänt så länge jag har jobbat här, säger Sarah Östberg."
   },
   {
    "src": "BBC",
