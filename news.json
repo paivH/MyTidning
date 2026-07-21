@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T12:22:16.015Z",
+ "updated": "2026-07-21T14:33:29.700Z",
  "items": [
   {
    "src": "BBC",
@@ -28,58 +28,58 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "India's 'cockroach' protest continues a day after police crackdown",
-   "date": "2026-07-21T08:44:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss",
-   "desc": "Delhi witnessed overwhelming violence on Monday, with at least 60 protesters wounded. Police said 118 of their men were also injured."
+   "title": "Row escalates in Ukraine over army chief's future",
+   "date": "2026-07-21T12:33:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-   "date": "2026-07-20T21:30:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen."
+   "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+   "date": "2026-07-21T12:48:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+   "desc": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kastade flygblad med antisemitiskt budskap utanför polishus – döms till rättspsykiatrisk vård",
+   "title": "Dömde mannen i gruvhålsfallet misshandlades på anstalten Salberga",
+   "date": "2026-07-21T14:08:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/domde-mannen-i-gruvhalsfallet-misshandlades-pa-anstalten-salberga",
+   "desc": "Den man som dömdes för att ha våldtagit och försökt döda en kvinna i ett gruvhål i Norberg har misshandlats på anstalten Salberg för tre år sedan. Nu väcks åtal mot hans medfånge som misstänks ligga bakom misshandeln."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Åtalade serieblottaren kan dömas till fängelse",
+   "date": "2026-07-21T13:42:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/atalade-serieblottaren-kan-domas-till-fangelse",
+   "desc": "Efter två dagars huvudförhandling tidigare i sommar beslutade Jönköpings tingsrätt att mannen som åtalats för ha blottat sig för flera kvinnor, skulle genomgå en rättspsykiatrisk undersökning."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Olycka på E4 – motorcyklist till sjukhus",
+   "date": "2026-07-21T13:26:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/olycka-pa-e4-motorcyklist-till-sjukhus",
+   "desc": "En motorcykelolycka inträffade på tisdagseftermiddagen på E4 strax söder om Jönköping."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Umeåkvinna åtalad – tullen beslagtog 30 000 narkotikaklassade kapslar",
+   "date": "2026-07-21T12:59:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/umeakvinna-atalad-tullen-beslagtog-30-000-narkotikaklassade-kapslar",
+   "desc": "Tullen i Malmö gjorde en stickprovskontroll och hittade 30 000 narkotikaklassade kapslar. En tidigare ostraffad Umeåkvinna i 60-årsåldern åtalas för grov narkotikasmuggling."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man spred antisemitiska budskap utanför polishuset i Nyköping – döms till vård",
    "date": "2026-07-21T12:11:55.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/kastade-flygblad-med-antisemitiskt-budskap-vid-polisen-doms-till-rattspsykiatrisk-vard",
    "desc": "En man ertappades på film med att slänga ut flygblad med antisemitiskt budskap utanför Nyköpings polishus tidigare i år. Nu döms han till rättspsykiatrisk vård med särskild utskrivningsprövning för hets mot folkgrupp."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Båtar brinner i marina – räddningstjänsten bekämpar branden i Lennartsfors",
-   "date": "2026-07-21T11:38:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/batar-brinner-i-marina-raddningstjansten-bekampar-branden-i-lennartsfors",
-   "desc": "Minst tre båtar brinner i hamnen i Lennartsfors. Och det finns risk för spridning. – Vi måste vara försiktiga när det gäller båtar av den här typen. Det kan finnas gasol och bränsle ombord, säger Jon Bergkvist, vakthavande befäl för Räddningsregion Bergslagen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Många vill låta hunden ärva – men juridiskt är husdjur bara egendom",
-   "date": "2026-07-21T10:41:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/manga-vill-lata-hunden-arva-men-juridiskt-ar-husdjur-bara-egendom",
-   "desc": "Enligt en ny Sifo-undersökning vill var sjätte husdjursägare att deras djur ska ärva deras pengar när de dör. – Man får väl välja vem som ska ärva en, säger Sanna Åkerlund Gebeyehu, en av de hundägare vi hittade på stan i Norrköping."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Olycka i vattenkraftverk i Himalaya – tio döda",
-   "date": "2026-07-21T10:06:42.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/olycka-i-vattenkraftverk-i-himalaya-10-doda",
-   "desc": "En olycka har inträffat i en tunnel i ett vattenkraftverksprojekt i Himalaya i Indien, rapporterar nyhetsbyrån AP. Minst tio personer har dött och sjutton saknas."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hästmyrorna kom rekordtidigt  – så undviker du skadedjuret",
-   "date": "2026-07-21T09:59:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/hastmyrorna-kom-rekordtidigt-sa-undviker-du-skadedjuret",
-   "desc": "Hästmyran har vaknat tidigare än någonsin på grund av en varm vår och tidig försommar. Nordens termiter, som skadedjuret också kallas, kan ställa till med stora problem. – Du kan trampa genom golvet om de slagit fäste i golvåsarna, säger Kenneth Nordström, Anticimex."
   },
   {
    "src": "STHLM",
