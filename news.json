@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T15:37:28.462Z",
+ "updated": "2026-07-22T17:13:57.914Z",
  "items": [
   {
    "src": "BBC",
@@ -20,14 +20,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-   "date": "2026-07-22T15:19:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Tankers make sharp U-turns after Houthi shipping threat",
    "date": "2026-07-22T14:42:49.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
@@ -36,10 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-   "date": "2026-07-22T14:52:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-   "desc": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight."
+   "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+   "date": "2026-07-22T14:14:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
+   "desc": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+   "date": "2026-07-22T15:50:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+   "desc": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kidnapparliga åtalas – hade buntband och pistolattrapp i bilen",
+   "date": "2026-07-22T16:15:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/kidnapparliga-atalas-hade-buntband-och-pistolattrapp-i-bilen",
+   "desc": "Sex män i åldrarna 18 till 24 år åtalas vid Norrköpings tingsrätt för förberedelse till människorov. Vem de var ute efter att kidnappa har dock inte polisen lyckats klargöra i sin utredning."
   },
   {
    "src": "SVT",
@@ -74,14 +82,6 @@
    "desc": "President Volodymyr Zelenskyj sparkade till sist den hårt kritiserade försvarschefen Oleksandr Syrskyj efter den senaste tidens stora protester i Ukraina. Han ersätts av Mychaljo Drapatyj, en erfaren militär med en modernare framtoning än sin föregångare."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man åtalas – misstänks ha attackerat granne med machete",
-   "date": "2026-07-22T13:22:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/man-atalas-misstanks-ha-attackerat-granne-med-machete",
-   "desc": "En man åtalas för grov misshandel att ha huggit en man i armen med machete så att han fick sårskada och fraktur. Åklagaren menar att attacken var livsfarlig."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Badlarm vid Tanto – en dag efter att avrådan tagits bort",
@@ -95,7 +95,7 @@
    "title": "Översvämningar i Stockholm – vatten i tunnelbanan",
    "date": "2026-07-22T13:10:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/vattenkaos-i-tunnelbanan-i-stockholm",
-   "desc": "Det kraftiga regnet har lett till översvämningar vid flera tunnelbanestationer. Vattnet väller in vid både Hötorget och Solna station."
+   "desc": "Det kraftiga regnet har lett till översvämningar vid flera tunnelbanestationer. Vattnet vällde in vid både Hötorget och Solna station."
   },
   {
    "src": "STHLM",
