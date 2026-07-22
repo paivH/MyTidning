@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T17:13:57.914Z",
+ "updated": "2026-07-22T18:39:33.684Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Svagt stöd i USA när Trumps krig i Iran drar ut på tiden",
+   "date": "2026-07-22T17:15:34.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/svagt-stod-i-usa-nar-trumps-krig-i-iran-drar-ut-pa-tiden",
+   "desc": "När USA:s krigsminister försvarade kostnaden för kriget i senaten möttes han av kritik från senatorer och demonstranter. Stödet bland amerikanerna för Trumps krigsföring i Iran är lågt. – Någonstans kommer tålamodet ta slut, säger USA-experten Dag Blanck."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Kidnapparliga åtalas – hade buntband och pistolattrapp i bilen",
    "date": "2026-07-22T16:15:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/kidnapparliga-atalas-hade-buntband-och-pistolattrapp-i-bilen",
@@ -74,12 +82,12 @@
    "desc": "Sedan den 1 juli har Norrköping drabbats av en våg av våldsbrott. Enligt polisen är flera av händelserna kopplade till kriminella nätverk medan andra bedöms som isolerade."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Vem är Mychajlo Drapatyj – Ukrainas nya försvarschef?",
-   "date": "2026-07-22T14:25:55.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/vem-ar-mychajlo-drapatyj-ukrainas-nya-forsvarschef",
-   "desc": "President Volodymyr Zelenskyj sparkade till sist den hårt kritiserade försvarschefen Oleksandr Syrskyj efter den senaste tidens stora protester i Ukraina. Han ersätts av Mychaljo Drapatyj, en erfaren militär med en modernare framtoning än sin föregångare."
+   "title": "Nyheter från dagen: 22 juli",
+   "date": "2026-07-22T17:59:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-22-juli-ama2nz",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under onsdagen den 22 juli."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-22T08:50:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kopierad-nazi-skylt-inget-brott-utredning-nedlagd",
    "desc": "Åklagare lägger ner utredningen om hets mot folkgrupp i samband med en propalestinsk demonstration i lördags."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Flera skadade i brand i flerfamiljshus i Nynäshamn",
-   "date": "2026-07-22T06:17:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-i-flerfamiljshus-i-nynashamn-lwkygy",
-   "desc": "En lägenhetsbrand bröt ut i ett flerfamiljshus i Nynäshamn på onsdagsmorgonen. Flera personer har förts till sjukhus efter att ha andats in rök."
   },
   {
    "src": "BBC",
