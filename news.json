@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-22T18:39:33.684Z",
+ "updated": "2026-07-22T20:09:42.290Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
-   "date": "2026-07-22T14:49:12.000Z",
+   "date": "2026-07-22T20:05:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
    "desc": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers."
   },
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-   "date": "2026-07-22T10:15:03.000Z",
+   "date": "2026-07-22T18:57:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
    "desc": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz."
   },
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Misstänkt mord i Stockholm – man föll från balkong",
+   "date": "2026-07-22T19:22:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mord-i-stockholm-man-foll-fran-balkong",
+   "desc": "En man har dött efter att han fallit från en balkong i Rinkeby i Stockholm. Två personer som befann sig i lägenheten har gripits."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 22 juli",
    "date": "2026-07-22T17:59:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-22-juli-ama2nz",
@@ -111,14 +119,6 @@
    "title": "Utredningen läggs ned – kopierade skylten inget brott",
    "date": "2026-07-22T08:52:32.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/utredningen-laggs-ned-kopierade-skylten-inget-brott",
-   "desc": "Åklagare lägger ner utredningen om hets mot folkgrupp i samband med en propalestinsk demonstration i lördags."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kopierad nazi-skylt inget brott – utredning nedlagd",
-   "date": "2026-07-22T08:50:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kopierad-nazi-skylt-inget-brott-utredning-nedlagd",
    "desc": "Åklagare lägger ner utredningen om hets mot folkgrupp i samband med en propalestinsk demonstration i lördags."
   },
   {
