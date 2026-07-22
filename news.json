@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-21T23:27:47.324Z",
+ "updated": "2026-07-22T00:56:16.690Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-   "date": "2026-07-21T19:57:38.000Z",
+   "date": "2026-07-21T23:59:34.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
    "desc": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov."
   },
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "En död efter mc-olycka i Falkenberg",
+   "date": "2026-07-22T00:40:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/en-dod-efter-mc-olycka-i-falkenberg",
+   "desc": "En person har omkommit efter en mc-olycka på väg 150 i Falkenbergs kommun. Motorcykeln ska ha kolliderat med en älg, enligt Hallands nyheter."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Misstänkt mordförsök i Botkyrka",
    "date": "2026-07-21T20:16:32.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordforsok-i-botkyrka-w3wtmv",
@@ -72,14 +80,6 @@
    "date": "2026-07-21T17:09:52.000Z",
    "link": "https://www.svt.se/sport/skidskytte/hanna-oberg-gravid-missar-nasta-sasong",
    "desc": "Hanna Öberg är gravid och nästa säsong påverkas i stor omfattning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tre personer till sjukhus efter krock vid Kvidinge",
-   "date": "2026-07-21T16:56:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/tre-personer-till-sjukhus-efter-krock-vid-kvidinge",
-   "desc": "Tre personer fördes till sjukhus efter en krock på väg 21 vid Kvidinge. Vägen var helt avstängd men är nu öppen igen."
   },
   {
    "src": "STHLM",
