@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T21:36:00.878Z",
+ "updated": "2026-07-22T22:58:39.648Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-   "date": "2026-07-22T18:57:46.000Z",
+   "date": "2026-07-22T22:17:54.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
    "desc": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz."
   },
@@ -40,6 +40,14 @@
    "date": "2026-07-22T14:14:16.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
    "desc": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt mord i Stockholm – man föll från balkong",
+   "date": "2026-07-22T19:22:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mord-i-stockholm-man-foll-fran-balkong",
+   "desc": "En man har dött efter att han fallit från en balkong i Rinkeby i Stockholm. Två personer som befann sig i lägenheten har gripits."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-07-22T14:54:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/hundratals-bon-av-helveteslarven-har-dammsugits-bort",
    "desc": "Skadedjursbekämpare har under veckan kämpat med att dammsuga bort bon av den så kallade ”helveteslarven” på Amager. Men trots att över 300 bon har tagits bort, är det fortfarande arbete kvar."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Polischefen efter våldsbrotten i Norrköping: ”Vi har en oro”",
-   "date": "2026-07-22T14:26:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/polischefen-efter-valdsbrotten-i-norrkoping-vi-har-en-oro",
-   "desc": "Sedan den 1 juli har Norrköping drabbats av en våg av våldsbrott. Enligt polisen är flera av händelserna kopplade till kriminella nätverk medan andra bedöms som isolerade."
   },
   {
    "src": "STHLM",
