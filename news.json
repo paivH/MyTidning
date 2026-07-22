@@ -1,45 +1,77 @@
 {
- "updated": "2026-07-22T13:43:23.519Z",
+ "updated": "2026-07-22T15:37:28.462Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
-   "date": "2026-07-22T12:40:46.000Z",
+   "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+   "date": "2026-07-22T14:49:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
    "desc": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
-   "date": "2026-07-22T10:00:04.000Z",
+   "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+   "date": "2026-07-22T10:15:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+   "date": "2026-07-22T15:19:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Tankers make sharp U-turns after Houthi shipping threat",
+   "date": "2026-07-22T14:42:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+   "desc": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
+   "date": "2026-07-22T14:52:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
    "desc": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-   "date": "2026-07-22T05:37:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-   "desc": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Klämningsolycka i Smedjebacken – fördes till sjukhus med helikopter",
+   "date": "2026-07-22T15:13:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/klamningsolycka-i-smedjebacken-fordes-till-sjukhus-med-helikopter",
+   "desc": "En man klämdes fast under ett tungt plåtföremål på Ovako i Smedjebacken under tisdagseftermiddagen och fördes senare till sjukhus med ambulanshelikopter."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-   "date": "2026-07-22T02:15:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-   "desc": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hundratals bon av ”helveteslarven” har dammsugits bort",
+   "date": "2026-07-22T14:54:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/hundratals-bon-av-helveteslarven-har-dammsugits-bort",
+   "desc": "Skadedjursbekämpare har under veckan kämpat med att dammsuga bort bon av den så kallade ”helveteslarven” på Amager. Men trots att över 300 bon har tagits bort, är det fortfarande arbete kvar."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
-   "date": "2026-07-22T08:02:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
-   "desc": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polischefen efter våldsbrotten i Norrköping: ”Vi har en oro”",
+   "date": "2026-07-22T14:26:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/polischefen-efter-valdsbrotten-i-norrkoping-vi-har-en-oro",
+   "desc": "Sedan den 1 juli har Norrköping drabbats av en våg av våldsbrott. Enligt polisen är flera av händelserna kopplade till kriminella nätverk medan andra bedöms som isolerade."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vem är Mychajlo Drapatyj – Ukrainas nya försvarschef?",
+   "date": "2026-07-22T14:25:55.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/vem-ar-mychajlo-drapatyj-ukrainas-nya-forsvarschef",
+   "desc": "President Volodymyr Zelenskyj sparkade till sist den hårt kritiserade försvarschefen Oleksandr Syrskyj efter den senaste tidens stora protester i Ukraina. Han ersätts av Mychaljo Drapatyj, en erfaren militär med en modernare framtoning än sin föregångare."
   },
   {
    "src": "SVT",
@@ -50,36 +82,12 @@
    "desc": "En man åtalas för grov misshandel att ha huggit en man i armen med machete så att han fick sårskada och fraktur. Åklagaren menar att attacken var livsfarlig."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Buss stoppad i Vindeln – föraren tros ha somnat",
-   "date": "2026-07-22T13:13:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/buss-stoppad-i-vindeln-foraren-tros-ha-somnat",
-   "desc": "Passagerare på en buss i Vindeln hörde av sig till polisen och sade att chauffören somnat. Bussen stoppades och föraren misstänks för grov vårdslöshet i trafik. – Vi hanterar det som en störning och fokuserar på att hjälpa resenärerna så att de kommer dit de ska, säger Harriet Söder, vd för länstrafiken."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Översvämningar i Stockholm – vatten i tunnelbanan",
-   "date": "2026-07-22T13:10:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vattenkaos-i-tunnelbanan-i-stockholm",
-   "desc": "Det kraftiga regnet har lett till översvämningar vid flera tunnelbanestationer. Vattnet väller in vid både Hötorget och Solna station. Det rapporterar Expressen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så ska stöket i Strängnäs hamn stoppas – ordningsvakter och väktare: ”Spelar hög musik”",
-   "date": "2026-07-22T13:10:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-ska-stoket-i-strangnas-hamn-stoppas-ordningsvakter-och-vaktare-spelar-hog-musik",
-   "desc": "Efter återkommande problem med stök och störningar under kvällar och nätter i Strängnäs hamn, har kommunen nu satt in extra ordningsvakter som ska lugna tillvaron för besökande och boende."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Polisen: Fler vågar larma vid misstänkt partnervåld",
-   "date": "2026-07-22T13:07:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/polisen-fler-vagar-larma-vid-misstankt-partnervald",
-   "desc": "Allmänheten har blivit bättre på att larma polisen när de misstänker att någon är utsatt för våld i nära relation. – Det är grannar, anhöriga och lärare i barnens skolor, som anmäler, säger Purita Bengtsson, som är förundersökningsledare på Brott i nära relation på Polisen i Värnamo."
+   "title": "Badlarm vid Tanto – en dag efter att avrådan tagits bort",
+   "date": "2026-07-22T13:57:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/badlarm-vid-tanto-en-dag-efter-att-avradan-tagits-bort",
+   "desc": "Det tog bara en dag efter att avrådan för bad vid Tanto strandbad hävdes innan en ny varning kom. Den här gången varnar Södermalms stadsdelsförvaltning för badklåda. – Det är jobbigt för den som drabbas, säger Kalle Rosén, miljö- och hälsoinspektör."
   },
   {
    "src": "STHLM",
@@ -87,7 +95,7 @@
    "title": "Översvämningar i Stockholm – vatten i tunnelbanan",
    "date": "2026-07-22T13:10:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/vattenkaos-i-tunnelbanan-i-stockholm",
-   "desc": "Det kraftiga regnet har lett till översvämningar vid flera tunnelbanestationer. Vattnet väller in vid både Hötorget och Solna station. Det rapporterar Expressen."
+   "desc": "Det kraftiga regnet har lett till översvämningar vid flera tunnelbanestationer. Vattnet väller in vid både Hötorget och Solna station."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "En lägenhetsbrand bröt ut i ett flerfamiljshus i Nynäshamn på onsdagsmorgonen. Flera personer har förts till sjukhus efter att ha andats in rök."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Ibrahim och Axel startade fönsterputs – hjälper unga med sommarjobb",
-   "date": "2026-07-22T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ibrahim-och-axel-startade-fonsterputs-hjalper-unga-med-sommarjobb",
-   "desc": "Det började med att Ibrahim inte lyckades få ett sommarjobb förra året. Då tog han saken i egna händer och startade ett eget fönsterputsarföretag. Och den här sommaren kan han även hjälpa andra arbetslösa ungdomar. – Det är inspirerande att se allas idéer och vad de vill göra, säger Ibrahim."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-07-22T14:14:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p072j6?at_medium=RSS&at_campaign=rss",
+   "desc": "Wes Brown on Michael Carrick and the back four he'd pick to start this season."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-07-15T06:00:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0nyrp61?at_medium=RSS&at_campaign=rss",
    "desc": "Ex-Man Utd and England defender Paul Parker on the World Cup semi-final with Argentina."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-07-14T06:00:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0nyl4lf?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd fans react to the signing of Andrey Santos and links with Youri Tielemans."
   }
  ]
 }
