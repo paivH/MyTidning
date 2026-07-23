@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T19:54:47.579Z",
+ "updated": "2026-07-23T20:59:35.585Z",
  "items": [
   {
    "src": "BBC",
@@ -20,14 +20,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine's ousted defence minister insists on being reinstated",
-   "date": "2026-07-23T17:37:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "France evacuates 20,000 as wildfires spread in south-west",
    "date": "2026-07-23T19:17:42.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
@@ -36,10 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-   "date": "2026-07-23T16:50:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-   "desc": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel."
+   "title": "India activist ends hunger strike after 26 days",
+   "date": "2026-07-23T20:31:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ukraine's ousted defence minister insists on being reinstated",
+   "date": "2026-07-23T17:37:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues."
   },
   {
    "src": "SVT",
