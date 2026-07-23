@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T16:56:09.730Z",
+ "updated": "2026-07-23T18:11:52.014Z",
  "items": [
   {
    "src": "BBC",
@@ -13,9 +13,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-   "date": "2026-07-23T16:17:44.000Z",
+   "date": "2026-07-23T17:58:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
    "desc": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ukraine's ousted defence minister insists on being reinstated",
+   "date": "2026-07-23T17:37:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues."
   },
   {
    "src": "BBC",
@@ -34,12 +42,12 @@
    "desc": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-   "date": "2026-07-23T15:22:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
-   "desc": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tillverkade vattenpipstobak i lägenhet i Eskilstuna – döms till fängelse",
+   "date": "2026-07-23T17:24:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/tillverkade-vattenpipstobak-i-lagenhet-i-eskilstuna-doms-till-fangelse",
+   "desc": "En man i 40-årsåldern döms till fängelse i ett år efter att ha drivit produktion av vattenpipstobak i en lägenhet i Eskilstuna."
   },
   {
    "src": "SVT",
@@ -74,20 +82,12 @@
    "desc": "Under onsdagen fick polisen in flera samtal om svanfamilj som befann sig intill motorvägen vid Sillekrog i Nyköping. – Jag har ingen aning om hur de har hamnat där, det är superkonstigt, säger polisen Elin Nilsson."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Vän om Eeva Kilpi: Dikternas teman är alltid aktuella",
-   "date": "2026-07-23T12:13:03.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/svenska/van-om-eeva-kilpi-dikternas-teman-ar-alltid-aktuella",
-   "desc": "Den finländska författaren och poeten Eeva Kilpi skildrade naturen, livet som karelskt evakuerad och kvinnors villkor i ett omfattande författarskap. I Vallentuna bor Eila Pöllänen, vän till Kilpi, som har tonsatt och översatt hennes dikter – och som beskriver henne som en orädd försvarare av naturen, kvinnor och barn."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Butikspersonal slog vapen ur rånares hand i butik i Årsta",
    "date": "2026-07-23T16:01:46.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/butikspersonal-slog-vapen-ur-ranares-hand-snattade-godis",
-   "desc": "Personal på en butik i Årsta skulle kontrollera en godistjuv. Då valde mannen att dra fram ett vapen. Personalen lyckades slå vapnet ur handen på mannen som flydde kort där efter."
+   "desc": "Personal i en butik i Årsta skulle kontrollera en godistjuv. Då valde mannen att dra fram ett vapen. Personalen lyckades slå vapnet ur handen på mannen som flydde kort därefter."
   },
   {
    "src": "STHLM",
