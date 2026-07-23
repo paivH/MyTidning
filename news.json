@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-23T09:08:30.422Z",
+ "updated": "2026-07-23T11:23:28.165Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US signs landmark nuclear deal with Saudi Arabia",
-   "date": "2026-07-23T00:21:53.000Z",
+   "date": "2026-07-23T09:17:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
    "desc": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme."
   },
@@ -16,6 +16,14 @@
    "date": "2026-07-23T03:48:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
    "desc": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Thousands evacuated in France fires",
+   "date": "2026-07-23T10:53:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+   "desc": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent."
   },
   {
    "src": "BBC",
@@ -34,52 +42,60 @@
    "desc": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-   "date": "2026-07-23T00:15:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-   "desc": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rysslandsexperten Martin Kragh är död",
+   "date": "2026-07-23T10:57:01.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/rysslandsexperten-martin-kragh-ar-dod",
+   "desc": "Martin Kragh, Rysslandsexpert och seniorforskare vid Utrikespolitiska institutet, har avlidit efter en lång tids sjukdom. Det uppger UI i ett pressmeddelande. Han blev 45 år gammal."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Arbetare skickades hem efter nytt gaslarm på SSAB i Luleå",
-   "date": "2026-07-23T08:46:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/arbetare-skickades-hem-efter-nytt-gaslarm-pa-ssab",
-   "desc": "Efter ett nytt gaslarm fick anställda vid SSAB:s stålverksbygge i Luleå gå hem tidigare under onsdagseftermiddagen – men i dag startar arbetet upp igen. – Det handlar om ett isolerat område på byggarbetsplatsen, säger Martin Gidlund, kommunikationsansvarig för SSAB:s omställning i Luleå."
+   "title": "EU ger Google miljardböter",
+   "date": "2026-07-23T10:09:41.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/eu-ger-google-miljardboter",
+   "desc": "EU ger techjätten Google en bot på motsvarande omkring 10 miljarder kronor för brott mot unionens digitala regelverk. Det rapporterar AP. Nu har företaget 60 dagar på sig att åtgärda bristerna – annars riskerar de nya böter."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tränaren pekar ut detaljen bakom Daniel Ståhls framgångar: ”Är briljant”",
-   "date": "2026-07-23T08:42:49.000Z",
-   "link": "https://www.svt.se/sport/friidrott/forklaringen-bakom-daniel-stahls-framgangar-briljant",
-   "desc": "Regerande världsmästaren Daniel Ståhl kastar ofta längst av alla på mästerskap. En stor del bakom framgångarna ligger i svenska diskusstjärnans fötter. – Det är Daniel briljant på, säger Ståhls tränare Staffan Jönsson."
+   "title": "Elfel orsakar stopp i tågtrafiken mellan Hallsberg och Katrineholm",
+   "date": "2026-07-23T09:30:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/elfel-orsakar-stopp-i-tagtrafiken-mellan-hallsberg-och-katrineholm",
+   "desc": "Det är stopp i tågtrafiken mellan Hallsberg och Katrineholm, uppger Trafikverket. – Det är en kontaktledning som har gått av, man vet inte varför riktigt, säger Felicia Danielsson, presskommunikatör vid Trafikverket."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna i Mora kommun misstänks för mord",
-   "date": "2026-07-23T07:59:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/kvinna-i-mora-kommun-misstanks-for-mord",
-   "desc": "En kvinna misstänks på sannolika skäl för mord efter en polisinsats i Mora kommun. Det rapporterar Mora Tidning."
+   "title": "Två får dödade av varg i Vaggeryd",
+   "date": "2026-07-23T09:23:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-far-dodade-av-varg-i-vaggeryd",
+   "desc": "Två tackor har hittats döda efter ett vargangrepp i Vaggeryds kommun natten till torsdagen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stora protester i Albanien",
-   "date": "2026-07-23T07:28:37.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/stora-protester-i-albanien",
-   "desc": "Det har sedan en tid pågått stora protester i Albanien kopplade till bygget av ett megaprojekt värt 43 miljarder. Under torsdagen ägde den största hittills rum och polis besprutade folkhavet med vatten, en demonstrant ska har förts till sjukhus. Även flera poliser ska ha skadats. Mitt under SVT:s sändning träffades reportern och fick flytta på sig."
+   "title": "Klart för storsatsning på regemente i Kristinehamn",
+   "date": "2026-07-23T09:14:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/klart-for-storsatsning-pa-regemente-i-kristinehamn",
+   "desc": "Beslut har fattats om en satsning på upp till cirka 6,5 miljarder kronor på nybyggnation av Bergslagens artilleriregemente A9 i Kristinehamn, skriver regeringen i ett pressmeddelande."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Högg kvinna i halsen med kniv – man åtalas för mord i Skellefteå",
-   "date": "2026-07-23T07:19:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/hogg-kvinna-i-halsen-med-kniv-man-atalas-for-mord-i-skelleftea",
-   "desc": "En man i 35-årsåldern åtalas för mord i Skellefteå. Mannen högg en kvinna i halsen med kniv enligt åtalet. – Kvinnan befann sig hemma hos gärningsmannen när det oprovocerade angreppet skedde, säger kammaråklagare Anna Lundberg."
+   "title": "Så gick det med utökade serveringstillstånd i Stockholm under fotbolls-VM",
+   "date": "2026-07-23T10:00:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-gick-det-med-utokade-serveringstillstand-i-stockholm-under-fotbolls-vm",
+   "desc": "I samband med herrarnas fotbolls-VM valde Stockholms stad att låta krogar ha extraöppet under matcherna, som ibland ägde rum mitt i natten. Men hur har det gått? Enligt polisen har stöket uteblivit – trots det unika beslutet."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Man döms för mordförsök på sin son – lät hundarna attackera",
+   "date": "2026-07-23T09:19:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-doms-for-mordforsok-pa-sin-son-lat-hundarna-attackera",
+   "desc": "En man döms till fängelse i 10 år för att ha försökt mörda sin elvaåriga son i Jordbro. Pappan lät sina hundar attackera sonen och ska ha försökt kasta honom från balkongen."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-07-22T17:59:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-22-juli-ama2nz",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under onsdagen den 22 juli."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Badlarm vid Tanto – en dag efter att avrådan tagits bort",
-   "date": "2026-07-22T13:57:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/badlarm-vid-tanto-en-dag-efter-att-avradan-tagits-bort",
-   "desc": "Det tog bara en dag efter att avrådan för bad vid Tanto strandbad hävdes innan en ny varning kom. Den här gången varnar Södermalms stadsdelsförvaltning för badklåda. – Det är jobbigt för den som drabbas, säger Kalle Rosén, miljö- och hälsoinspektör."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Översvämningar i Stockholm – vatten i tunnelbanan",
-   "date": "2026-07-22T13:10:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vattenkaos-i-tunnelbanan-i-stockholm",
-   "desc": "Det kraftiga regnet har lett till översvämningar vid flera tunnelbanestationer. Vattnet vällde in vid både Hötorget och Solna station."
   },
   {
    "src": "BBC",
