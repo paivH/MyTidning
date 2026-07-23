@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T11:23:28.165Z",
+ "updated": "2026-07-23T12:57:20.893Z",
  "items": [
   {
    "src": "BBC",
@@ -20,26 +20,58 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Thousands evacuated in France fires",
-   "date": "2026-07-23T10:53:43.000Z",
+   "title": "France evacuates 20,000 as wildfires spread in south-west",
+   "date": "2026-07-23T12:17:13.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-   "desc": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent."
+   "desc": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-   "date": "2026-07-23T06:37:23.000Z",
+   "date": "2026-07-23T12:51:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
    "desc": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Tankers make sharp U-turns after Houthi shipping threat",
-   "date": "2026-07-22T14:42:49.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
-   "desc": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows."
+   "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+   "date": "2026-07-23T00:15:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+   "desc": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vän om Eeva Kilpi: Dikternas teman är alltid aktuella",
+   "date": "2026-07-23T12:13:03.000Z",
+   "link": "https://www.svt.se/nyheter/uutiset/svenska/van-om-eeva-kilpi-dikternas-teman-ar-alltid-aktuella",
+   "desc": "Den finländska författaren och poeten Eeva Kilpi skildrade naturen, livet som karelskt evakuerad och kvinnors villkor i ett omfattande författarskap. I Vallentuna bor Eila Pöllänen, vän till Kilpi, som har tonsatt och översatt hennes dikter – och som beskriver henne som en orädd försvarare av naturen, kvinnor och barn."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vem var Eeva Kilpi?",
+   "date": "2026-07-23T12:11:46.000Z",
+   "link": "https://www.svt.se/nyheter/uutiset/svenska/vem-var-eeva-kilpi",
+   "desc": "Eeva Kilpi, som avled den 27 juni, var en av Finlands mest älskade författare. Kilpi, som blev 98 år gammal, skapade under sitt liv ett omfattande författarskap bestående av poesi, noveller och romaner. Hon behandlade teman som flyktingskap samt relationen mellan människan och naturen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Din Pokémon Go-data kan användas till militära drönare",
+   "date": "2026-07-23T12:08:37.000Z",
+   "link": "https://www.svt.se/kultur/din-pokemon-go-data-kan-anvandas-till-militara-dronare",
+   "desc": "Miljontals Pokémon Go-spelare har genom åren skannat verkliga platser för att få belöningar i spelet. Nu visar det sig att skanningarna använts för att träna AI-teknik som i framtiden kan hjälpa militära drönare att navigera i områden där gps inte fungerar, rapporterar The Guardian."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Lada fullt övertänd utanför Sala – elden sprider sig till skog och mark",
+   "date": "2026-07-23T11:09:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/lada-fullt-overtand-i-brand-utanfor-sala-elden-sprider-sig-till-skog-och-mark",
+   "desc": "En fullt utvecklad brand har brutit ut i en lada och spridit sig till andra byggnader i Salbohed utanför Sala. Lågorna har även spridit sig till närliggande skog och mark. – Det brinner ordentligt, säger Mathias Häglund på räddningstjänsten."
   },
   {
    "src": "SVT",
@@ -47,39 +79,7 @@
    "title": "Rysslandsexperten Martin Kragh är död",
    "date": "2026-07-23T10:57:01.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/rysslandsexperten-martin-kragh-ar-dod",
-   "desc": "Martin Kragh, Rysslandsexpert och seniorforskare vid Utrikespolitiska institutet, har avlidit efter en lång tids sjukdom. Det uppger UI i ett pressmeddelande. Han blev 45 år gammal."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "EU ger Google miljardböter",
-   "date": "2026-07-23T10:09:41.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/eu-ger-google-miljardboter",
-   "desc": "EU ger techjätten Google en bot på motsvarande omkring 10 miljarder kronor för brott mot unionens digitala regelverk. Det rapporterar AP. Nu har företaget 60 dagar på sig att åtgärda bristerna – annars riskerar de nya böter."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Elfel orsakar stopp i tågtrafiken mellan Hallsberg och Katrineholm",
-   "date": "2026-07-23T09:30:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/elfel-orsakar-stopp-i-tagtrafiken-mellan-hallsberg-och-katrineholm",
-   "desc": "Det är stopp i tågtrafiken mellan Hallsberg och Katrineholm, uppger Trafikverket. – Det är en kontaktledning som har gått av, man vet inte varför riktigt, säger Felicia Danielsson, presskommunikatör vid Trafikverket."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Två får dödade av varg i Vaggeryd",
-   "date": "2026-07-23T09:23:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-far-dodade-av-varg-i-vaggeryd",
-   "desc": "Två tackor har hittats döda efter ett vargangrepp i Vaggeryds kommun natten till torsdagen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Klart för storsatsning på regemente i Kristinehamn",
-   "date": "2026-07-23T09:14:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/klart-for-storsatsning-pa-regemente-i-kristinehamn",
-   "desc": "Beslut har fattats om en satsning på upp till cirka 6,5 miljarder kronor på nybyggnation av Bergslagens artilleriregemente A9 i Kristinehamn, skriver regeringen i ett pressmeddelande."
+   "desc": "Martin Kragh, Rysslandsexpert och senior forskare vid Utrikespolitiska institutet, har avlidit efter en tids sjukdom. – Sverige har förlorat en stark röst, säger Jakob Hallgren, chef vid Utrikespolitiska institutet."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-07-23T12:16:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p0fb60?at_medium=RSS&at_campaign=rss",
+   "desc": "Wes Brown on no minutes for Mainoo, a possible Rashford return and England's exit."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-07-22T14:14:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p072j6?at_medium=RSS&at_campaign=rss",
    "desc": "Wes Brown on Michael Carrick and the back four he'd pick to start this season."
@@ -144,14 +152,6 @@
    "date": "2026-07-20T11:40:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0nztlp8?at_medium=RSS&at_campaign=rss",
    "desc": "Gaz and Joe rate the United's stars at the World Cup, discuss transfers and pre-season."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-07-15T06:00:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0nyrp61?at_medium=RSS&at_campaign=rss",
-   "desc": "Ex-Man Utd and England defender Paul Parker on the World Cup semi-final with Argentina."
   }
  ]
 }
