@@ -1,19 +1,19 @@
 {
- "updated": "2026-07-23T15:10:18.045Z",
+ "updated": "2026-07-23T16:56:09.730Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Oil prices hit $100 for the first time since May",
-   "date": "2026-07-23T14:50:03.000Z",
+   "date": "2026-07-23T15:31:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The price of Brent crude rose more than 5% on Thursday as the war in the Middle East continues to escalate."
+   "desc": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-   "date": "2026-07-23T15:05:47.000Z",
+   "date": "2026-07-23T16:17:44.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
    "desc": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords."
   },
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "France evacuates 20,000 as wildfires spread in south-west",
-   "date": "2026-07-23T13:25:02.000Z",
+   "date": "2026-07-23T16:41:52.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
    "desc": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
   },
@@ -29,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-   "date": "2026-07-23T14:18:13.000Z",
+   "date": "2026-07-23T16:50:59.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
    "desc": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel."
   },
@@ -37,9 +37,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-   "date": "2026-07-23T12:51:55.000Z",
+   "date": "2026-07-23T15:22:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
    "desc": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "De lever med miljonskulder efter branden i Drammen",
+   "date": "2026-07-23T16:38:37.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/de-lever-med-miljonskulder-efter-branden-i-drammen",
+   "desc": "Paret Ailene och Daylevon förlorade precis allt i branden i Drammen – och kommer inte få en krona i ersättning för sitt nedbrunna hus efter en försäkringsmiss. – Vi har ett bolån på tre miljoner kronor – utan hus, säger Daylevon Karl Bucnag."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Den finländska författaren och poeten Eeva Kilpi skildrade naturen, livet som karelskt evakuerad och kvinnors villkor i ett omfattande författarskap. I Vallentuna bor Eila Pöllänen, vän till Kilpi, som har tonsatt och översatt hennes dikter – och som beskriver henne som en orädd försvarare av naturen, kvinnor och barn."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Vem var Eeva Kilpi?",
-   "date": "2026-07-23T12:11:46.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/svenska/vem-var-eeva-kilpi",
-   "desc": "Eeva Kilpi, som avled den 27 juni, var en av Finlands mest älskade författare. Kilpi, som blev 98 år gammal, skapade under sitt liv ett omfattande författarskap bestående av poesi, noveller och romaner. Hon behandlade teman som flyktingskap samt relationen mellan människan och naturen."
+   "title": "Butikspersonal slog vapen ur rånares hand i butik i Årsta",
+   "date": "2026-07-23T16:01:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/butikspersonal-slog-vapen-ur-ranares-hand-snattade-godis",
+   "desc": "Personal på en butik i Årsta skulle kontrollera en godistjuv. Då valde mannen att dra fram ett vapen. Personalen lyckades slå vapnet ur handen på mannen som flydde kort där efter."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-22T19:22:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mord-i-stockholm-man-foll-fran-balkong",
    "desc": "En man har dött efter att han fallit från en balkong i Rinkeby i Stockholm. Två personer som befann sig i lägenheten har anhållits misstänkta för mord, skriver Expressen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 22 juli",
-   "date": "2026-07-22T17:59:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-22-juli-ama2nz",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under onsdagen den 22 juli."
   },
   {
    "src": "BBC",
