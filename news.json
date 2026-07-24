@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-23T23:27:14.715Z",
+ "updated": "2026-07-24T00:55:58.662Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+   "date": "2026-07-24T00:40:26.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+   "desc": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,6 +16,14 @@
    "date": "2026-07-23T15:31:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
    "desc": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+   "date": "2026-07-23T23:19:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+   "desc": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear."
   },
   {
    "src": "BBC",
@@ -26,28 +42,12 @@
    "desc": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "India activist ends hunger strike after 26 days",
-   "date": "2026-07-23T21:27:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ukraine's ousted defence minister insists on being reinstated",
-   "date": "2026-07-23T17:37:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues."
-  },
-  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Tiotusentals flyr bränderna i södra Europa",
    "date": "2026-07-23T22:25:34.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/tiotusentals-flyr-branderna-i-sodra-europa",
-   "desc": "Flera skogsbränder härjar i södra Europa, vilket fått tiotusentals att fly sina hem. – Vi har packat våra väskor, säger Sofia Krigsman, som befinner sig i Frankrike på semester."
+   "desc": "Flera skogsbränder härjar i södra Europa, vilket fått tiotusentals att fly sina hem. – Vi har packat våra väskor, säger Sofia Krigsman, som befinner sig i Frankrike på semester. Landet ber nu EU om stöd och i delar av Spanien har nödläge utlysts."
   },
   {
    "src": "SVT",
