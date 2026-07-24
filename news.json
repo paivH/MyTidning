@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-24T00:55:58.662Z",
+ "updated": "2026-07-24T04:12:46.155Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-   "date": "2026-07-24T00:40:26.000Z",
+   "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+   "date": "2026-07-24T02:10:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-   "desc": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour."
+   "desc": "The tariffs target 60 trading partners over claims they failed to properly stop forced labour."
   },
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Fotbolls-VM är över – krögaren Önder i Västerås summerar: ”Ledsamt”",
+   "date": "2026-07-24T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/fotbolls-vm-ar-over-krogaren-onder-i-vasteras-summerar-ledsamt",
+   "desc": "Efter 39 dagar av fotbollsfest är det tillbaka till vardagen igen för Västmanlands krögare. Trots flera utsålda matcher blev inte VM någon ekonomisk succé för sportbaren Allstar i Västerås. – Intäkterna och utgifterna har typ gått hand i hand, säger sportbarens ägare Önder Alagöz."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Dåligt väder i Norge – nytt rekord för Pite havsbad: ”Hoppas på sol”",
+   "date": "2026-07-24T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/daligt-vader-i-norge-nytt-rekord-for-pite-havsbad-hoppas-pa-sol",
+   "desc": "Norrmännen flyr survädret i Nordnorge och väljer Norrbottenskusten. En regnig försommar i norra Norge hjälper Pite havsbad att slå förra årets rekordsifffror."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nyköping inför nya regler för ljudmätning vid konserter",
+   "date": "2026-07-24T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/nykoping-infor-nya-regler-for-ljudmatning-vid-konserter",
+   "desc": "De senaste åren har det klagats på höga ljudnivåer från musikevenemang i centrala Nyköping. Men nu hoppas kommunen kunna underlätta för de olika parterna i konflikten – med nya riktlinjer."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Tiotusentals flyr bränderna i södra Europa",
    "date": "2026-07-23T22:25:34.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/tiotusentals-flyr-branderna-i-sodra-europa",
@@ -52,34 +76,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Sent mål ger Hammarby hopp inför returen i Europa League",
-   "date": "2026-07-23T18:52:48.000Z",
-   "link": "https://www.svt.se/sport/fotboll/sent-mal-ger-hammarby-hopp-infor-returen-i-europa-league",
-   "desc": "En sen kvittering gav Hammarby 1–1 mot Anderlecht och hopp inför returen i kvalet till Europa League. – Vi förtjänade att vinna, säger inhoppande kvitteringsskytten Frank Junior Adjei."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tillverkade vattenpipstobak i lägenhet i Eskilstuna – döms till fängelse",
-   "date": "2026-07-23T17:24:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/tillverkade-vattenpipstobak-i-lagenhet-i-eskilstuna-doms-till-fangelse",
-   "desc": "En man i 40-årsåldern döms till fängelse i ett år efter att ha drivit produktion av vattenpipstobak i en lägenhet i Eskilstuna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "De lever med miljonskulder efter branden i Drammen",
-   "date": "2026-07-23T16:38:37.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/de-lever-med-miljonskulder-efter-branden-i-drammen",
-   "desc": "Paret Ailene och Daylevon förlorade precis allt i branden i Drammen – och kommer inte få en krona i ersättning för sitt nedbrunna hus efter en försäkringsmiss. – Vi har ett bolån på tre miljoner kronor – utan hus, säger Daylevon Karl Bucnag."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tidigare kyrkoanställd åtalas för barnpornografibrott",
-   "date": "2026-07-23T13:55:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/tidigare-kyrkoanstalld-atalas-for-barnpornografibrott",
-   "desc": "En tidigare kyrkoanställd i Norrbotten åtalas för barnpornografibrott. Mannen jobbade i samma församling som den präst som står åtalad för grovt barnpornografibrott. – Det är fruktansvärt, säger församlingens chef."
+   "title": "Trump inför nya tullar mot 60 länder",
+   "date": "2026-07-23T21:22:38.000Z",
+   "link": "https://www.svt.se/nyheter/ekonomi/trump-infor-nya-tullar-pa-60-lander",
+   "desc": "USA inför nya tullar mot en lång rad länder från och med fredagen – i samband med att de gamla tullarna löper ut. ”Utfallet för EU blir snarlikt om inte identiskt”, säger bistånds- och utrikeshandelsminister Benjamin Dousa (M) i en skriftlig kommentar."
   },
   {
    "src": "STHLM",
