@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T18:28:48.256Z",
+ "updated": "2026-07-25T19:45:41.177Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "”Fynden” du ska undvika på sommarens loppis",
+   "date": "2026-07-25T19:29:37.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/fynden-du-ska-undvika-pa-sommarens-loppis",
+   "desc": "– Är det något jag kommer vilja ha i längden, eller köper jag det här bara för att jag är i en underbar miljö just nu? Ja, det är frågor man måste ställa sig själv när man är sugen att handla något på en loppmarknad. Det säger loppis-experten Gustav Broström – som ger sina bästa tips för att undvika att hamna i de vanligaste loppisfällorna den här sommaren."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Slagsmål efter trafikolycka utanför Höör",
    "date": "2026-07-25T17:13:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/slagsmal-efter-trafikolycka-utanfor-hoor",
@@ -72,14 +80,6 @@
    "date": "2026-07-25T10:26:52.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/husbil-och-tva-personbilar-kolliderade-vag-34-avstangd",
    "desc": "En seriekrock inträffade på väg 34 i höjd med Målilla när en husbil och två personbilar kolliderade."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Rattfull motorcyklist utan körkort körde omkull",
-   "date": "2026-07-25T10:15:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/rattfull-motorcyklist-utan-korkort-korde-omkull",
-   "desc": "En motorcyklist körde av vägen i höjd med Skeda, söder om Linköping. Föraren klarade sig utan några allvarliga skador, men är nu misstänkt för flera brott."
   },
   {
    "src": "STHLM",
