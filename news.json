@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-25T00:07:51.783Z",
+ "updated": "2026-07-25T03:47:17.839Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-   "date": "2026-07-24T21:47:16.000Z",
+   "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+   "date": "2026-07-25T02:29:36.000Z",
    "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux."
+   "desc": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\"."
   },
   {
    "src": "BBC",
@@ -28,18 +28,50 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+   "date": "2026-07-25T02:14:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+   "desc": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Trump vows to investigate EU over fining of US tech companies",
    "date": "2026-07-24T20:23:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
    "desc": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\""
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-   "date": "2026-07-24T18:13:02.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-   "desc": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polisens tips: Så skyddar du hemmet under semestern",
+   "date": "2026-07-25T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/polisens-tips-sa-skyddar-du-hemmet-under-semestern",
+   "desc": "För många är semestern i full gång, många reser bort – antingen över dagen eller längre. Då finns det risk för att inbrottstjuvarna slår till och därför är det viktigt att skydda din bostad."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här sörjs husdjuren – på Norrlands enda djurkyrkogård: ”Fint ställe”",
+   "date": "2026-07-25T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-sorjs-husdjuren-pa-norrlands-enda-djurkyrkogard-fint-stalle",
+   "desc": "I Ragvaldsträsk utanför Skellefteå ligger Norrlands enda registrerade djurkyrkogård – Djurvilan. I 20 år har paret Anders och Beth Fahlgren drivit verksamheten på sin gård. – Vi är tacksamma att det finns ett sådant här fint ställe att lämna sina husdjur på, säger Caroline Wåhlberg om familjens chihuahua som nu vilar där."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ovanliga medeltidsfyndet visar: Kvinna på Frösön kan ha gjort pilgrimsfärd till Spanien",
+   "date": "2026-07-25T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ovanliga-medeltidsfyndet-visar-kvinna-pa-froson-kan-ha-gjort-pilgrimsfard-till-spanien",
+   "desc": "Forskare vid Stockholms universitet har rekonstruerat ansiktet på en kvinna som begravdes vid Västerhus kapell på 1100-talet. Kvinnan hade ett ovanligt fynd i sin grav."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här låser IT-forensikern upp kriminellas digitala liv",
+   "date": "2026-07-25T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/har-laser-it-forensikern-upp-kriminellas-digitala-liv",
+   "desc": "På Nationellt Forensiskt Centrum, NFC, i Linköping jobbar IT-forensiker med att tillgängliggöra digitala bevis i en tid där kriminella allt snabbare täpper igen sina säkerhetshål."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-07-24T19:23:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/blekinge/kraftig-brand-i-ronneby",
    "desc": "Just nu brinner det kraftigt i en byggnad på Fornanäsvägen i södra delarna av Ronneby."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Efter skjutningen: Nu arrangeras galamiddagen på nytt",
-   "date": "2026-07-24T16:59:36.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/efter-skjutningen-nu-arrangeras-galamiddagen-pa-nytt",
-   "desc": "Efter vårens skottlossning på en galamiddag i Washington D.C. får Vita huset-journalisterna och Donald Trump nu revansch. På fredagskvällen, lokal tid, arrangeras galan på nytt – men nu med stärkt säkerhet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Myndigheten för civilt försvar: Fyra flyg till skogsbränderna i södra Europa",
-   "date": "2026-07-24T14:17:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/myndigheten-for-civilt-forsvar-fyra-flyg-till-skogsbranderna-i-sodra-europa",
-   "desc": "Stora bränder härjar i Frankrike och Spanien. Myndigheten för civilt försvar förbereder nu för att skicka ner fyra skopande plan för att stötta släckningsarbetet. – Det kan tyckas vara väldigt lite men det är kraftfulla resurser, säger Anders Edstam, enhetschef på MCF."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fängelse efter rattfylleri i bil – körde även åkgräsklippare alkoholpåverkad",
-   "date": "2026-07-24T14:04:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/fangelse-efter-rattfylla-pa-akgrasklippare",
-   "desc": "En 64-årig man från Kalmar län döms till fängelse för bland annat rattfylleri efter att ha kört en åkgräsklippare alkoholpåverkad."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SD vill att alla lagar landsbygdstestas – inledde valturné i Söderköping",
-   "date": "2026-07-24T13:02:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/sd-vill-att-alla-lagar-landsbygdstestas-inledde-valturne-i-soderkoping",
-   "desc": "Nu inleder Sverigedemokraterna sin valspurt i valrörelsen – och det gör man med en turné längs Göta kanal. Vid första stoppet i Söderköping var det fokus på landsbygdsfrågor. – Den viktigaste reformen vi presenterat idag är att alla beslut ska utvärderas utifrån hur de påverkar landsbygden, säger Jimmie Åkesson (SD)."
   },
   {
    "src": "STHLM",
@@ -95,7 +95,7 @@
    "title": "Man i 25-årsåldern död i skjutning i Hässelby – en gripen",
    "date": "2026-07-24T18:04:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-skjuten-i-hasselby-qoltlx",
-   "desc": "En man i 25-årsåldern har avlidit efter en skjutning i Hässelby. Anhöriga är underrättade, skriver polisen på sin hemsida."
+   "desc": "En man i 25-årsåldern har avlidit efter en skjutning i Hässelby i Stockholm. Anhöriga är underrättade, skriver polisen på sin hemsida."
   },
   {
    "src": "STHLM",
