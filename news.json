@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T10:10:19.575Z",
+ "updated": "2026-07-25T11:42:36.993Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Husbil och två personbilar kolliderade – väg 34 avstängd",
+   "date": "2026-07-25T10:26:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/husbil-och-tva-personbilar-kolliderade-vag-34-avstangd",
+   "desc": "En seriekrock inträffade på väg 34 i höjd med Målilla när en husbil och två personbilar kolliderade."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rattfull motorcyklist utan körkort körde omkull",
+   "date": "2026-07-25T10:15:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/rattfull-motorcyklist-utan-korkort-korde-omkull",
+   "desc": "En motorcyklist körde av vägen i höjd med Skeda, söder om Linköping. Föraren klarade sig utan några allvarliga skador, men är nu misstänkt för flera brott."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Bilist körde in i mitträcke – väg 27 avstängd",
    "date": "2026-07-25T10:00:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/bilist-korde-in-i-mittracke-vag-27-avstangd",
@@ -66,22 +82,6 @@
    "desc": "En man i 50-årsåldern har omkommit i en olycka med en elsparkcykel i Östersund. Polisen har inlett en förundersökning om vållande till annans död, men det finns ingen misstänkt i ärendet."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "”Fortsatt spänd relation mellan Trump och pressen”",
-   "date": "2026-07-25T05:43:15.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/fortsatt-spand-relation-mellan-trump-och-pressen",
-   "desc": "När presskåren i Washington samlas igen för en ny korrespondentmiddag är det med spänd förväntan. Många var på plats under förra middagen som slutade dramatiskt med skottlossning. Samtidigt är relationen mellan Donald Trump och presskåren fortsatt spänd."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hans mark ska bli lyxresort: ”Det här är stöld och förföljelse”",
-   "date": "2026-07-25T03:57:15.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/hans-mark-ska-bli-lyxresort-det-har-ar-stold-och-forfoljelse",
-   "desc": "I 55 dagar i rad har tusentals albaner demonstrerat mot ett planerat lyxprojekt i ett skyddat naturområde – med kopplingar till Donald Trumps svärson Jared Kushner. För många har naturen blivit en symbol för motståndet. För andra handlar protesterna om något mer personligt."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 24 juli",
@@ -95,7 +95,7 @@
    "title": "Man i 25-årsåldern död i skjutning i Hässelby – tre anhållna",
    "date": "2026-07-24T18:04:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-skjuten-i-hasselby-qoltlx",
-   "desc": "En man i 25-årsåldern har avlidit efter en skjutning i Hässelby i Stockholm. Tre unga män har nu anhållits för mordet."
+   "desc": "En man i 25-årsåldern har avlidit efter en skjutning i Hässelby i Stockholm. Tre unga män har nu anhållits för mordet. – Vi hittade en tom hylsa under cykelturen, berättar vittnet Anders Hallfors."
   },
   {
    "src": "STHLM",
