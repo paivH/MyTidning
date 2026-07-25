@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T14:46:09.935Z",
+ "updated": "2026-07-25T16:01:26.993Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Europas snabbaste bilar intar Mantorp Park – ”För mycket hästkrafter”",
+   "date": "2026-07-25T14:58:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/europas-snabbaste-bilar-intar-mantorp-park-for-mycket-hastkrafter",
+   "desc": "Höga motorljud ligger konstant över området när tusentals besökare samlas på Mantorp Park för dragracingfestivalen. Bland deltagarna finns Kaapo Lehtonen, som rest hela vägen från Finland för att slå sitt personbästa."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Misstänkt våldtäkt på nattklubb i Malmö",
    "date": "2026-07-25T13:36:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-valdtakt-pa-nattklubb-i-malmo",
@@ -74,12 +82,12 @@
    "desc": "En singelolycka inträffade på väg 27 i höjd med Anderstorp när en bilist av okänd anledning körde in i mitträcket."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "USA-fans snuvade på Roxettes jubileumsshow",
-   "date": "2026-07-25T08:46:35.000Z",
-   "link": "https://www.svt.se/kultur/usa-fans-snuvade-pa-roxettes-jubileumsshow",
-   "desc": "Roxettes 14 spelningar i USA och Kanada blir inte av. Det skriver bandet själva på Instagram."
+   "title": "Scouter från Stockholm på väg till jättelägret Jamboree",
+   "date": "2026-07-25T15:17:35.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/scouter-fran-stockholm-pa-vag-till-jattelagret-jamboree",
+   "desc": "Ett specialtåg med nästan 800 scouter rullade från T-Centralen på lördagsmorgonen. De är på väg till ett enormt läger för 18 000 scouter, inklusive 3 000 utländska scouter i Kristianstad, Skåne."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-23T19:34:41.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-23-juli-jftm5z",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdagen den 23 juli."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Butikspersonal slog vapen ur rånares hand i butik i Årsta",
-   "date": "2026-07-23T16:01:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/butikspersonal-slog-vapen-ur-ranares-hand-snattade-godis",
-   "desc": "Personal i en butik i Årsta skulle kontrollera en godistjuv. Då valde mannen att dra fram ett vapen. Personalen lyckades slå vapnet ur handen på mannen i 35-årsåldern som flydde kort därefter."
   },
   {
    "src": "BBC",
