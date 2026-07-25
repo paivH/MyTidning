@@ -1,13 +1,21 @@
 {
- "updated": "2026-07-25T08:29:10.876Z",
+ "updated": "2026-07-25T10:10:19.575Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-   "date": "2026-07-25T02:29:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-   "desc": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\"."
+   "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+   "date": "2026-07-25T06:41:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+   "date": "2026-07-25T06:34:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+   "desc": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
   },
   {
    "src": "BBC",
@@ -34,12 +42,20 @@
    "desc": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-   "date": "2026-07-25T02:14:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-   "desc": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bilist körde in i mitträcke – väg 27 avstängd",
+   "date": "2026-07-25T10:00:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/bilist-korde-in-i-mittracke-vag-27-avstangd",
+   "desc": "En singelolycka inträffade på väg 27 i höjd med Anderstorp när en bilist av okänd anledning körde in i mitträcket."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "USA-fans snuvade på Roxettes jubileumsshow",
+   "date": "2026-07-25T08:46:35.000Z",
+   "link": "https://www.svt.se/kultur/usa-fans-snuvade-pa-roxettes-jubileumsshow",
+   "desc": "Roxettes 14 spelningar i USA och Kanada blir inte av. Det skriver bandet själva på Instagram."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-07-25T03:57:15.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/hans-mark-ska-bli-lyxresort-det-har-ar-stold-och-forfoljelse",
    "desc": "I 55 dagar i rad har tusentals albaner demonstrerat mot ett planerat lyxprojekt i ett skyddat naturområde – med kopplingar till Donald Trumps svärson Jared Kushner. För många har naturen blivit en symbol för motståndet. För andra handlar protesterna om något mer personligt."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Polisens tips: Så skyddar du hemmet under semestern",
-   "date": "2026-07-25T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/polisens-tips-sa-skyddar-du-hemmet-under-semestern",
-   "desc": "För många är semestern i full gång, många reser bort – antingen över dagen eller längre. Då finns det risk för att inbrottstjuvarna slår till och därför är det viktigt att skydda din bostad."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här sörjs husdjuren – på en av Norrlands få djurkyrkogårdar: ”Fint ställe”",
-   "date": "2026-07-25T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-sorjs-husdjuren-pa-norrlands-enda-djurkyrkogard-fint-stalle",
-   "desc": "Det finns få djurkyrkogårdar i Norrland. I Ragvaldsträsk utanför Skellefteå ligger djurkyrkogården Djurvilan. I 20 år har paret Anders och Beth Fahlgren drivit verksamheten på sin gård. – Vi är tacksamma att det finns ett sådant här fint ställe att lämna sina husdjur på, säger Caroline Wåhlberg om familjens chihuahua som nu vilar där."
   },
   {
    "src": "STHLM",
