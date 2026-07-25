@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T22:51:58.971Z",
+ "updated": "2026-07-25T23:57:15.409Z",
  "items": [
   {
    "src": "BBC",
@@ -8,14 +8,6 @@
    "date": "2026-07-25T17:13:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
    "desc": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
-   "date": "2026-07-25T21:33:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
-   "desc": "Police say an intensive manhunt is under way after the incident in Berlin's city centre."
   },
   {
    "src": "BBC",
@@ -40,6 +32,14 @@
    "date": "2026-07-25T06:34:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
    "desc": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+   "date": "2026-07-25T00:06:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+   "desc": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
   },
   {
    "src": "SVT",
