@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T06:14:22.272Z",
+ "updated": "2026-07-25T08:29:10.876Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Man död efter olycka med elsparkcykel i Östersund",
+   "date": "2026-07-25T06:33:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/man-dod-efter-elsparksolycka-i-ostersund-hqiol9",
+   "desc": "En man i 50-årsåldern har omkommit i en olycka med en elsparkcykel i Östersund. Polisen har inlett en förundersökning om vållande till annans död, men det finns ingen misstänkt i ärendet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "”Fortsatt spänd relation mellan Trump och pressen”",
    "date": "2026-07-25T05:43:15.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/fortsatt-spand-relation-mellan-trump-och-pressen",
@@ -68,18 +76,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här sörjs husdjuren – på Norrlands enda djurkyrkogård: ”Fint ställe”",
+   "title": "Här sörjs husdjuren – på en av Norrlands få djurkyrkogårdar: ”Fint ställe”",
    "date": "2026-07-25T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-sorjs-husdjuren-pa-norrlands-enda-djurkyrkogard-fint-stalle",
-   "desc": "I Ragvaldsträsk utanför Skellefteå ligger Norrlands enda registrerade djurkyrkogård – Djurvilan. I 20 år har paret Anders och Beth Fahlgren drivit verksamheten på sin gård. – Vi är tacksamma att det finns ett sådant här fint ställe att lämna sina husdjur på, säger Caroline Wåhlberg om familjens chihuahua som nu vilar där."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ovanliga medeltidsfyndet visar: Kvinna på Frösön kan ha gjort pilgrimsfärd till Spanien",
-   "date": "2026-07-25T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ovanliga-medeltidsfyndet-visar-kvinna-pa-froson-kan-ha-gjort-pilgrimsfard-till-spanien",
-   "desc": "Forskare vid Stockholms universitet har rekonstruerat ansiktet på en kvinna som begravdes vid Västerhus kapell på 1100-talet. Kvinnan hade ett ovanligt fynd i sin grav."
+   "desc": "Det finns få djurkyrkogårdar i Norrland. I Ragvaldsträsk utanför Skellefteå ligger djurkyrkogården Djurvilan. I 20 år har paret Anders och Beth Fahlgren drivit verksamheten på sin gård. – Vi är tacksamma att det finns ett sådant här fint ställe att lämna sina husdjur på, säger Caroline Wåhlberg om familjens chihuahua som nu vilar där."
   },
   {
    "src": "STHLM",
@@ -92,10 +92,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Man i 25-årsåldern död i skjutning i Hässelby – en gripen",
+   "title": "Man i 25-årsåldern död i skjutning i Hässelby – tre anhållna",
    "date": "2026-07-24T18:04:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-skjuten-i-hasselby-qoltlx",
-   "desc": "En man i 25-årsåldern har avlidit efter en skjutning i Hässelby i Stockholm. Anhöriga är underrättade, skriver polisen på sin hemsida."
+   "desc": "En man i 25-årsåldern har avlidit efter en skjutning i Hässelby i Stockholm. Tre unga män har nu anhållits för mordet."
   },
   {
    "src": "STHLM",
