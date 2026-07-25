@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-25T16:01:26.993Z",
+ "updated": "2026-07-25T17:28:56.831Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "More than 250,000 flee wildfires in France and Spain",
+   "date": "2026-07-25T17:13:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -34,12 +42,12 @@
    "desc": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-   "date": "2026-07-24T22:49:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Slagsmål efter trafikolycka utanför Höör",
+   "date": "2026-07-25T17:13:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/slagsmal-efter-trafikolycka-utanfor-hoor",
+   "desc": "Två män har frihetsberövats efter en trafikolycka i Norra Rörum. Efter olyckan uppstod ett bråk där slag ska ha delats ut. Båda är misstänkta för försök till grov misshandel."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "En motorcyklist körde av vägen i höjd med Skeda, söder om Linköping. Föraren klarade sig utan några allvarliga skador, men är nu misstänkt för flera brott."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Bilist körde in i mitträcke – väg 27 stängdes av",
-   "date": "2026-07-25T10:00:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/bilist-korde-in-i-mittracke-vag-27-avstangd",
-   "desc": "En singelolycka inträffade på väg 27 i höjd med Anderstorp när en bilist av okänd anledning körde in i mitträcket."
+   "title": "Nyheter från dagen: 25 juli",
+   "date": "2026-07-25T16:59:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-25-juli-0n0gwz",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under lördagen den 25 juli."
   },
   {
    "src": "STHLM",
@@ -87,7 +95,7 @@
    "title": "Scouter från Stockholm på väg till jättelägret Jamboree",
    "date": "2026-07-25T15:17:35.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/scouter-fran-stockholm-pa-vag-till-jattelagret-jamboree",
-   "desc": "Ett specialtåg med nästan 800 scouter rullade från T-Centralen på lördagsmorgonen. De är på väg till ett enormt läger för 18 000 scouter, inklusive 3 000 utländska scouter i Kristianstad, Skåne."
+   "desc": "Ett specialtåg med nästan 800 scouter rullade från Stockholm central på lördagsmorgonen. De är på väg till ett enormt läger för 18 000 scouter, inklusive 3 000 utländska scouter i Kristianstad, Skåne."
   },
   {
    "src": "STHLM",
@@ -103,7 +111,7 @@
    "title": "Man i 25-årsåldern död i skjutning i Hässelby – tre anhållna",
    "date": "2026-07-24T18:04:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-skjuten-i-hasselby-qoltlx",
-   "desc": "En man i 25-årsåldern har avlidit efter en skjutning i Hässelby i Stockholm. Tre unga män har nu anhållits för mordet. – Vi hittade en tomhylsa under cykelturen, berättar vittnet Anders Hallfors."
+   "desc": "En man i 25-årsåldern har avlidit efter en skjutning i Hässelby i Stockholm. Tre unga män har nu anhållits för mordet. En är 19 år och de två andra är under 18 år, bekräftar åklagarmyndighetens presstalesperson Annika Collin för SVT."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-24T09:01:42.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-forsokte-dranka-exflickvan-misstankt-mordforsok",
    "desc": "En kvinna larmade under fredagsnatten polis efter att hennes expojkvän ska ha försökt dränka henne i Långbro. Mannen misstänks nu för mordförsök."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 23 juli",
-   "date": "2026-07-23T19:34:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-23-juli-jftm5z",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdagen den 23 juli."
   },
   {
    "src": "BBC",
