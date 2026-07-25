@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-25T13:17:00.401Z",
+ "updated": "2026-07-25T14:46:09.935Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-   "date": "2026-07-25T06:41:42.000Z",
+   "date": "2026-07-25T13:51:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
    "desc": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
   },
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Misstänkt våldtäkt på nattklubb i Malmö",
+   "date": "2026-07-25T13:36:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-valdtakt-pa-nattklubb-i-malmo",
+   "desc": "Polisen utreder en misstänkt våldtäkt som ska ha skett på en nattklubb i Malmö under natten till lördag."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Husbil och två personbilar kolliderade – en till sjukhus",
    "date": "2026-07-25T10:26:52.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/husbil-och-tva-personbilar-kolliderade-vag-34-avstangd",
@@ -72,14 +80,6 @@
    "date": "2026-07-25T08:46:35.000Z",
    "link": "https://www.svt.se/kultur/usa-fans-snuvade-pa-roxettes-jubileumsshow",
    "desc": "Roxettes 14 spelningar i USA och Kanada blir inte av. Det skriver bandet själva på Instagram."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man död efter olycka med elsparkcykel i Östersund",
-   "date": "2026-07-25T06:33:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/man-dod-efter-elsparksolycka-i-ostersund-hqiol9",
-   "desc": "En man i 50-årsåldern har omkommit i en olycka med en elsparkcykel i Östersund. Polisen har inlett en förundersökning om vållande till annans död, men det finns ingen misstänkt i ärendet."
   },
   {
    "src": "STHLM",
