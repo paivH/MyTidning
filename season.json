@@ -1,21 +1,21 @@
 {
- "updated": "2026-07-25T05:59:54.160Z",
+ "updated": "2026-07-26T06:19:30.063Z",
  "items": [
   {
-   "ingredient": "kantareller",
-   "idea": "Stek i smör med timjan och flingsalt, servera genast på rostat surdegsbröd som snabb kvällsmat."
-  },
-  {
    "ingredient": "gurka",
-   "idea": "Snabbinlägg i 1:1:1 ättika, socker, vatten med dillkvist – klar på 30 minuter."
+   "idea": "Snabbinlägg gurka i 1:1:1 ättika, socker, vatten med dill och senapsfrön – klart på några timmar."
   },
   {
    "ingredient": "bönor",
-   "idea": "Fermentera hela bönor i 2% saltlake en vecka för syrlig, krispig tillbehörsgodsak."
+   "idea": "Fermentera bönor i 2% saltlake en vecka för syrlig, krispig tillbehör till vardagsmiddagen."
   },
   {
    "ingredient": "purjolök",
-   "idea": "Baka in tunt skivad purjolök i surdegsdegen för en mild, lökig frukostlimpa."
+   "idea": "Baka in stekt purjolök och timjan i limpan för ett saftigt, smakrikt vardagsbröd."
+  },
+  {
+   "ingredient": "kantareller",
+   "idea": "Snabbstek kantareller i smör med vitlök, servera på rostat surdegsbröd – klart på tio minuter."
   }
  ]
 }
