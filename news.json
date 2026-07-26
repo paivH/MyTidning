@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-26T16:55:14.686Z",
+ "updated": "2026-07-26T17:59:36.108Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "What we know so far about the Berlin Pride ramming attack",
-   "date": "2026-07-26T13:40:29.000Z",
+   "date": "2026-07-26T17:45:30.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
    "desc": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
   },
@@ -84,6 +84,22 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 26 juli",
+   "date": "2026-07-26T17:02:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-26-juli-wuphwh",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 26 juli."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Tak på flerbostad har brunnit i södra Stockholm",
+   "date": "2026-07-26T17:00:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tak-pa-flerbostad-brinner-i-sodra-stockholm",
+   "desc": "Det har brunnit i ett tak på ett flerfamiljshus i Tallkrogen. Räddningstjänst är på plats med flera resurser. – Det ska ha börjat brinna i en solpanel, säger Roger Sverndal på räddningstjänsten."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Polisen och RFSL om säkerheten inför Stockholm Pride efter dådet i Berlin",
    "date": "2026-07-26T11:02:17.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisen-om-sakerheten-infor-stockholm-pride-efter-dadet-i-berlin",
@@ -104,22 +120,6 @@
    "date": "2026-07-26T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stockholm-lockar-allt-fler-turister-vi-tror-pa-en-rekordsommar",
    "desc": "När värmeböljorna slår till i resten av Europa söker sig allt fler besökare till den svenska huvudstaden för en ”coolcation”. USA och Tyskland är fortfarande de länder som flest turister reser från, samtidigt som Storbritannien och Sydeuropa visar en stark utveckling. Och med turistboomen kommer också ökande hotellpriser."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 25 juli",
-   "date": "2026-07-25T16:59:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-25-juli-0n0gwz",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under lördagen den 25 juli."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Scouter från Stockholm på väg till jättelägret Jamboree",
-   "date": "2026-07-25T15:17:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/scouter-fran-stockholm-pa-vag-till-jattelagret-jamboree",
-   "desc": "Ett specialtåg med nästan 800 scouter rullade från Stockholm central på lördagsmorgonen. De är på väg till ett enormt läger för 18 000 scouter, inklusive 3 000 utländska scouter i Kristianstad, Skåne."
   },
   {
    "src": "BBC",
