@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T02:55:48.889Z",
+ "updated": "2026-07-26T06:01:28.540Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Emmy, 21, gör Tiktok-serie om Umeå – når tusentals",
+   "date": "2026-07-26T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/emmy-21-gor-tiktok-serie-om-umea-nar-tusentals",
+   "desc": "Umeåbon Emmy Öberg, 21, delar med sig av det mesta på sitt Tiktok-konto. Sedan början av sommaren har hon skapat en egen serie med 50 tips på saker att göra i Umeå – och videorna har fått tusentals visningar. – Jag kände att det kan vara hjälpmedel till folk som ska flytta hit eller jobba, säger hon."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Boende har fått nog av måsarna i Munktellstaden i Eskilstuna: ”De har en koloni”",
+   "date": "2026-07-26T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/boende-har-fatt-nog-av-masarna-i-munktellstaden-i-eskilstuna-de-har-en-koloni",
+   "desc": "Nedbajsade balkonger, skränande måsar och utfall mot människor. Under flera år har boende i Munktellområdet i Eskilstuna vittnat om återkommande problem med måsar och andra fåglar under sommarperioden. Annika Hellsberg, som bott i området i fyra år, har tröttnat. – De har en koloni här, de är överallt, säger hon."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ishaveri i arenan – VSK tvingas flytta bandyskola till Katrineholm: ”Förödande”",
+   "date": "2026-07-26T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/ishaveri-i-arenan-vsk-tvingas-flytta-bandyskola-till-katrineholm-forodande",
+   "desc": "VSK Bandy står utan is inför sommarens viktigaste läger och en annalkande ispremiär. En läcka tvingar föreningen att skjuta upp hela säsongen till slutet av augusti. Det drabbar även klubbens sommarläger, där över 120 barn skulle delta i slutet av juli. – Ibland är känslan: Hade det hänt i en annan idrott, så hade vi inte stått där vi står i dag, säger Ted Andersson, sportchef VSK."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "”Fynden” du ska undvika på sommarens loppis",
    "date": "2026-07-25T19:29:37.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/fynden-du-ska-undvika-pa-sommarens-loppis",
@@ -58,28 +82,12 @@
    "desc": "Två män har frihetsberövats efter en trafikolycka i Norra Rörum. Efter olyckan uppstod ett bråk där slag ska ha delats ut. Båda är misstänkta för försök till grov misshandel."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Europas snabbaste bilar intar Mantorp Park – ”För mycket hästkrafter”",
-   "date": "2026-07-25T14:58:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/europas-snabbaste-bilar-intar-mantorp-park-for-mycket-hastkrafter",
-   "desc": "Höga motorljud ligger konstant över området när tusentals besökare samlas på Mantorp Park för dragracingfestivalen. Bland deltagarna finns Kaapo Lehtonen, som rest hela vägen från Finland för att slå sitt personbästa."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt våldtäkt på nattklubb i Malmö",
-   "date": "2026-07-25T13:36:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-valdtakt-pa-nattklubb-i-malmo",
-   "desc": "Polisen utreder en misstänkt våldtäkt som ska ha skett på en nattklubb i Malmö under natten till lördag."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Husbil och två personbilar kolliderade – en till sjukhus",
-   "date": "2026-07-25T10:26:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/husbil-och-tva-personbilar-kolliderade-vag-34-avstangd",
-   "desc": "En seriekrock inträffade på väg 34 i höjd med Målilla när en husbil och två personbilar kolliderade."
+   "title": "Stockholm lockar allt fler turister – vill ha ”coolcation”",
+   "date": "2026-07-26T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stockholm-lockar-allt-fler-turister-vi-tror-pa-en-rekordsommar",
+   "desc": "När värmeböljorna slår till i resten av Europa söker sig allt fler besökare till den svenska huvudstaden för en ”coolcation”. USA och Tyskland är fortfarande de länder som flest turister reser från, samtidigt som Storbritannien och Sydeuropa visar en stark utveckling. Och med turistboomen kommer också ökande hotellpriser."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-24T18:04:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-skjuten-i-hasselby-qoltlx",
    "desc": "En man i 25-årsåldern har avlidit efter en skjutning i Hässelby i Stockholm. Tre unga män har nu anhållits för mordet. En är 19 år och de två andra är under 18 år, bekräftar åklagarmyndighetens presstalesperson Annika Collin för SVT."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man försökte dränka exflickvän – misstänkt mordförsök",
-   "date": "2026-07-24T09:01:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-forsokte-dranka-exflickvan-misstankt-mordforsok",
-   "desc": "En kvinna larmade under fredagsnatten polis efter att hennes expojkvän ska ha försökt dränka henne i Långbro. Mannen misstänks nu för mordförsök."
   },
   {
    "src": "BBC",
