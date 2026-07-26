@@ -1,13 +1,21 @@
 {
- "updated": "2026-07-26T06:01:28.540Z",
+ "updated": "2026-07-26T08:55:15.420Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "More than 300,000 flee wildfires in France and Spain",
-   "date": "2026-07-26T00:54:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control."
+   "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+   "date": "2026-07-26T08:14:55.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+   "desc": "A 21-year-old suspect has been identified by police, but he has not been found."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+   "date": "2026-07-26T07:21:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 340,000 people have now been evacuated from wildfires in France and Spain."
   },
   {
    "src": "BBC",
@@ -34,12 +42,20 @@
    "desc": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-   "date": "2026-07-25T00:06:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-   "desc": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "SD: Migrationsverket kan bli bättre på att guida återvändare",
+   "date": "2026-07-26T08:17:00.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sd-migrationsverket-kan-bli-battre-pa-att-guida-atervandare",
+   "desc": "Nyheten om att en 67-årig man från Afghanistan inte kommer åt sitt återvandringsbidrag från Migrationsverket väcker reaktioner. Sverigedemokraterna anser att myndigheterna kan bli bättre på att guida dem som får bidraget rätt. – Det är inget oöverkomligt problem, säger Ludvig Aspling (SD), migrationspolitisk talesperson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Två inbrott via fönster i Norrköping – polisen utesluter inte samband",
+   "date": "2026-07-26T07:07:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/tva-inbrott-via-fonster-i-norrkoping-polisen-utesluter-inte-samband",
+   "desc": "Två inbrott i bostad har anmälts i Norrköpingsområdet under de senaste dygnen. I båda fallen har gärningspersonen, eller personerna, tagit sig in via fönster på övervåningen."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "VSK Bandy står utan is inför sommarens viktigaste läger och en annalkande ispremiär. En läcka tvingar föreningen att skjuta upp hela säsongen till slutet av augusti. Det drabbar även klubbens sommarläger, där över 120 barn skulle delta i slutet av juli. – Ibland är känslan: Hade det hänt i en annan idrott, så hade vi inte stått där vi står i dag, säger Ted Andersson, sportchef VSK."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "”Fynden” du ska undvika på sommarens loppis",
-   "date": "2026-07-25T19:29:37.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/fynden-du-ska-undvika-pa-sommarens-loppis",
-   "desc": "– Är det något jag kommer vilja ha i längden, eller köper jag det här bara för att jag är i en underbar miljö just nu? Ja, det är frågor man måste ställa sig själv när man är sugen att handla något på en loppmarknad. Det säger loppis-experten Gustav Broström – som ger sina bästa tips för att undvika att hamna i de vanligaste loppisfällorna den här sommaren."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Slagsmål efter trafikolycka utanför Höör",
-   "date": "2026-07-25T17:13:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/slagsmal-efter-trafikolycka-utanfor-hoor",
-   "desc": "Två män har frihetsberövats efter en trafikolycka i Norra Rörum. Efter olyckan uppstod ett bråk där slag ska ha delats ut. Båda är misstänkta för försök till grov misshandel."
+   "title": "Skott mot lägenhetsdörr i Upplands Väsby",
+   "date": "2026-07-26T06:28:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skott-mot-lagenhetsdorr-i-upplands-vasby",
+   "desc": "Flera skott har skjutits mot en lägenhetsdörr i Upplands Väsby. Ingen är skadad men flera personer ska ha varit inne i bostaden. – Det kunde ha varit allvarligt, säger Mats Eriksson, presstalesperson polisregion Stockholm"
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-24T19:21:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-24-juli-sd8oz4",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 24 juli."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man i 25-årsåldern död i skjutning i Hässelby – tre anhållna",
-   "date": "2026-07-24T18:04:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-skjuten-i-hasselby-qoltlx",
-   "desc": "En man i 25-årsåldern har avlidit efter en skjutning i Hässelby i Stockholm. Tre unga män har nu anhållits för mordet. En är 19 år och de två andra är under 18 år, bekräftar åklagarmyndighetens presstalesperson Annika Collin för SVT."
   },
   {
    "src": "BBC",
