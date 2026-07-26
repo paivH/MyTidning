@@ -1,19 +1,19 @@
 {
- "updated": "2026-07-26T08:55:15.420Z",
+ "updated": "2026-07-26T10:42:16.588Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
-   "date": "2026-07-26T08:14:55.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
-   "desc": "A 21-year-old suspect has been identified by police, but he has not been found."
+   "title": "What we know so far about the Berlin Pride ramming attack",
+   "date": "2026-07-26T09:18:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+   "desc": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
-   "date": "2026-07-26T07:21:11.000Z",
+   "date": "2026-07-26T09:16:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
    "desc": "More than 340,000 people have now been evacuated from wildfires in France and Spain."
   },
@@ -40,6 +40,14 @@
    "date": "2026-07-25T06:34:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
    "desc": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man gripen misstänkt för våldtäkt i Kristianstad",
+   "date": "2026-07-26T10:26:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/man-gripen-misstankt-for-valdtakt-i-kristianstad",
+   "desc": "En man har gripits misstänkt för att ha våldtagit en kvinna i Kristianstad under natten mot söndagen. – Det har skett utomhus, centralt i Kristianstad, säger Sara Andersson som är presstalesperson på polisen."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-07-26T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/boende-har-fatt-nog-av-masarna-i-munktellstaden-i-eskilstuna-de-har-en-koloni",
    "desc": "Nedbajsade balkonger, skränande måsar och utfall mot människor. Under flera år har boende i Munktellområdet i Eskilstuna vittnat om återkommande problem med måsar och andra fåglar under sommarperioden. Annika Hellsberg, som bott i området i fyra år, har tröttnat. – De har en koloni här, de är överallt, säger hon."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ishaveri i arenan – VSK tvingas flytta bandyskola till Katrineholm: ”Förödande”",
-   "date": "2026-07-26T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/ishaveri-i-arenan-vsk-tvingas-flytta-bandyskola-till-katrineholm-forodande",
-   "desc": "VSK Bandy står utan is inför sommarens viktigaste läger och en annalkande ispremiär. En läcka tvingar föreningen att skjuta upp hela säsongen till slutet av augusti. Det drabbar även klubbens sommarläger, där över 120 barn skulle delta i slutet av juli. – Ibland är känslan: Hade det hänt i en annan idrott, så hade vi inte stått där vi står i dag, säger Ted Andersson, sportchef VSK."
   },
   {
    "src": "STHLM",
