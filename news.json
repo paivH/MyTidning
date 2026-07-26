@@ -1,21 +1,21 @@
 {
- "updated": "2026-07-26T10:42:16.588Z",
+ "updated": "2026-07-26T12:00:19.744Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "What we know so far about the Berlin Pride ramming attack",
-   "date": "2026-07-26T09:18:33.000Z",
+   "date": "2026-07-26T11:41:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
    "desc": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
-   "date": "2026-07-26T09:16:46.000Z",
+   "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+   "date": "2026-07-26T11:29:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 340,000 people have now been evacuated from wildfires in France and Spain."
+   "desc": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
   },
   {
    "src": "BBC",
@@ -28,18 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "India's 'cockroach' protest called off after education minister quits",
-   "date": "2026-07-25T17:44:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-   "desc": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
+   "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+   "date": "2026-07-26T10:26:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+   "desc": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-   "date": "2026-07-25T06:34:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-   "desc": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
+   "title": "India's 'cockroach' protest called off after education minister quits",
+   "date": "2026-07-25T17:44:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+   "desc": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
   },
   {
    "src": "SVT",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Polisen om säkerheten inför Stockholm Pride efter dådet i Berlin",
+   "date": "2026-07-26T11:02:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisen-om-sakerheten-infor-stockholm-pride-efter-dadet-i-berlin",
+   "desc": "Flera människor skadades efter att ett fordon kört in i ett Pride-evenemang i Berlin. Inför Pridefestivalen i Stockholm har polisen haft dialog med tyska kollegor. – Just nu ligger planen som den är, säger Mats Eriksson, presstalesperson på Stockholmspolisen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Skott mot lägenhetsdörr i Upplands Väsby",
    "date": "2026-07-26T06:28:32.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/skott-mot-lagenhetsdorr-i-upplands-vasby",
@@ -112,14 +120,6 @@
    "date": "2026-07-25T15:17:35.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/scouter-fran-stockholm-pa-vag-till-jattelagret-jamboree",
    "desc": "Ett specialtåg med nästan 800 scouter rullade från Stockholm central på lördagsmorgonen. De är på väg till ett enormt läger för 18 000 scouter, inklusive 3 000 utländska scouter i Kristianstad, Skåne."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 24 juli",
-   "date": "2026-07-24T19:21:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-24-juli-sd8oz4",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 24 juli."
   },
   {
    "src": "BBC",
