@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T22:31:42.991Z",
+ "updated": "2026-07-26T23:57:21.773Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Zelenskyj träffar Burnham",
+   "date": "2026-07-26T22:37:17.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/zelenskyj-traffar-burnham",
+   "desc": "Ukrainas president Volodymyr Zelenskyj besöker på måndagen Storbritannien för att träffa landets nye premiärminister Andy Burnham."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "EU-politiker protesterar mot fartyg som fraktar rysk gas",
    "date": "2026-07-26T16:39:29.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/eu-politiker-protesterar-mot-fartyg-som-fraktar-rysk-gas",
@@ -72,14 +80,6 @@
    "date": "2026-07-26T08:17:00.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/sd-migrationsverket-kan-bli-battre-pa-att-guida-atervandare",
    "desc": "Nyheten om att en 67-årig man från Afghanistan inte kommer åt sitt återvandringsbidrag från Migrationsverket väcker reaktioner. Sverigedemokraterna anser att myndigheterna kan bli bättre på att guida dem som får bidraget rätt. – Det är inget oöverkomligt problem, säger Ludvig Aspling (SD), migrationspolitisk talesperson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Två inbrott via fönster i Norrköping – polisen utesluter inte samband",
-   "date": "2026-07-26T07:07:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/tva-inbrott-via-fonster-i-norrkoping-polisen-utesluter-inte-samband",
-   "desc": "Två inbrott i bostad har anmälts i Norrköpingsområdet under de senaste dygnen. I båda fallen har gärningspersonen, eller personerna, tagit sig in via fönster på övervåningen."
   },
   {
    "src": "STHLM",
