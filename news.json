@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T15:37:28.616Z",
+ "updated": "2026-07-26T16:55:14.686Z",
  "items": [
   {
    "src": "BBC",
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-   "date": "2026-07-26T11:29:07.000Z",
+   "date": "2026-07-26T16:48:16.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
    "desc": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
   },
@@ -40,6 +40,14 @@
    "date": "2026-07-25T17:44:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
    "desc": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "EU-politiker protesterar mot fartyg som fraktar rysk gas",
+   "date": "2026-07-26T16:39:29.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/eu-politiker-protesterar-mot-fartyg-som-fraktar-rysk-gas",
+   "desc": "Ett tankfartyg som transporterar flytande naturgas från Sibirien får just nu service på ett varv i Danmark. En rad Europapolitiker har därför skrivit ett protestbrev till varvet. – Det är bedrövligt och skamligt av det danska företaget, säger Europaparlamentarikern Karin Karlsbro (L)."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-07-26T07:07:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/tva-inbrott-via-fonster-i-norrkoping-polisen-utesluter-inte-samband",
    "desc": "Två inbrott i bostad har anmälts i Norrköpingsområdet under de senaste dygnen. I båda fallen har gärningspersonen, eller personerna, tagit sig in via fönster på övervåningen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Emmy, 21, gör Tiktok-serie om Umeå – når tusentals",
-   "date": "2026-07-26T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/emmy-21-gor-tiktok-serie-om-umea-nar-tusentals",
-   "desc": "Umeåbon Emmy Öberg, 21, delar med sig av det mesta på sitt Tiktok-konto. Sedan början av sommaren har hon skapat en egen serie med 50 tips på saker att göra i Umeå – och videorna har fått tusentals visningar. – Jag kände att det kan vara hjälpmedel till folk som ska flytta hit eller jobba, säger hon."
   },
   {
    "src": "STHLM",
