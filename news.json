@@ -1,14 +1,6 @@
 {
- "updated": "2026-07-27T03:22:39.812Z",
+ "updated": "2026-07-27T06:48:17.979Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-   "date": "2026-07-26T18:40:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -40,6 +32,22 @@
    "date": "2026-07-26T21:23:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
    "desc": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+   "date": "2026-07-27T01:35:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+   "desc": "Javier Milei made the comments while in Brazil at a rally to launch the campaign of right-wing presidential candidate Flávio Bolsonaro."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kommunen varnar – risk för spridning av vattenpest i sjöarna: ”Den mest aggressiva”",
+   "date": "2026-07-27T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/kommunen-varnar-risk-for-spridning-av-vattenpest-i-sjoarna-den-mest-aggressiva",
+   "desc": "Vattenpest – det är en invasiv art som förekommer i vattensystem i bland annat Katrineholm. För att inte sprida invasiva arter vidare och bidra till övergödning, finns det viktiga saker att tänka på vid klippning av vass och andra växter i sjöar och vattendrag."
   },
   {
    "src": "SVT",
@@ -74,12 +82,20 @@
    "desc": "En man har gripits misstänkt för att ha våldtagit en kvinna i Kristianstad under natten mot söndagen. – Det har skett utomhus, centralt i Kristianstad, säger Sara Andersson som är presstalesperson på polisen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "SD: Migrationsverket kan bli bättre på att guida återvändare",
-   "date": "2026-07-26T08:17:00.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sd-migrationsverket-kan-bli-battre-pa-att-guida-atervandare",
-   "desc": "Nyheten om att en 67-årig man från Afghanistan inte kommer åt sitt återvandringsbidrag från Migrationsverket väcker reaktioner. Sverigedemokraterna anser att myndigheterna kan bli bättre på att guida dem som får bidraget rätt. – Det är inget oöverkomligt problem, säger Ludvig Aspling (SD), migrationspolitisk talesperson."
+   "title": "Guide: Stockholm Pride 2026 – höjdpunkter och tips",
+   "date": "2026-07-27T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/guide-stockholm-pride-2026-hojdpunkter-och-tips",
+   "desc": "Årets pridefestival i Stockholm pågår mellan 27 juli och 1 augusti och kulminerar i den stora prideparaden på lördagen. Men vad kan man egentligen göra under Stockholm Pride? Var går själva paraden? Hur påverkas trafiken? Kostar det något? I SVT:s guide ger vi en kort sammanfattning av det viktigaste."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Här kan besökare hjälpa Östersjön som algbönder",
+   "date": "2026-07-27T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-kan-besokare-hjalpa-ostersjon-som-algbonder",
+   "desc": "Att bli algbonde står kanske inte högst upp på semesterlistan. Men på Nämdö i Stockholms skärgård hoppas man att fler ska byta badhandduken mot vadarstövlar. – Det handlar om en kvarts insats från semestern för att göra en insats för Östersjön, säger forskaren Elin Dahlgren."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-07-26T11:02:17.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisen-om-sakerheten-infor-stockholm-pride-efter-dadet-i-berlin",
    "desc": "Flera människor skadades efter att ett fordon kört in i ett Prideevenemang i Berlin. Inför Pridefestivalen i Stockholm hamnar säkerheten i extra stort fokus. – Det som hände i Berlin hade lika gärna kunnat hända i Stockholm, säger RFSL:s generalsekreterare Felix König."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Skott mot lägenhetsdörr i Upplands Väsby",
-   "date": "2026-07-26T06:28:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skott-mot-lagenhetsdorr-i-upplands-vasby",
-   "desc": "Flera skott har skjutits mot en lägenhetsdörr i Upplands Väsby. Ingen är skadad men flera personer ska ha varit inne i bostaden. – Det kunde ha varit allvarligt, säger Mats Eriksson, presstalesperson polisregion Stockholm"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stockholm lockar allt fler turister – vill ha ”coolcation”",
-   "date": "2026-07-26T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stockholm-lockar-allt-fler-turister-vi-tror-pa-en-rekordsommar",
-   "desc": "När värmeböljorna slår till i resten av Europa söker sig allt fler besökare till den svenska huvudstaden för en ”coolcation”. USA och Tyskland är fortfarande de länder som flest turister reser från, samtidigt som Storbritannien och Sydeuropa visar en stark utveckling. Och med turistboomen kommer också ökande hotellpriser."
   },
   {
    "src": "BBC",
