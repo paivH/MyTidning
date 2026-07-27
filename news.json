@@ -1,21 +1,29 @@
 {
- "updated": "2026-07-27T20:03:40.660Z",
+ "updated": "2026-07-27T21:36:57.182Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
-   "date": "2026-07-27T17:50:42.000Z",
+   "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+   "date": "2026-07-27T20:34:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
    "desc": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Devastating European wildfires in maps - and how they're being tackled",
-   "date": "2026-07-27T15:59:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-   "desc": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever."
+   "title": "Wildfire witnesses describe 'wall of flames', fear and stress",
+   "date": "2026-07-27T19:50:35.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Local and visitors tell the BBC of disbelief and anxiety as wildfires force more than 300,000 people to evacuate."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump says Iran war talks taking place during lull in strikes",
+   "date": "2026-07-27T21:10:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place."
   },
   {
    "src": "BBC",
@@ -28,18 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "More than 600 US military service members injured since Iran War began in February",
-   "date": "2026-07-27T13:31:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-   "desc": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
    "date": "2026-07-27T12:33:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
    "desc": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ung flicka misstänkt för grov misshandel mot jämnårig",
+   "date": "2026-07-27T20:08:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/flicka-i-15-arsaldern-grips-misstankt-for-grov-misshandel-mot-jamnarig",
+   "desc": "En flicka i 15-årsåldern fördes med ambulans till sjukhus efter att ha blivit misshandlad av en flicka i samma ålder. Hon greps av polis och är nu misstänkt för grov misshandel."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-07-27T13:36:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/en-man-blev-fastklamd-mellan-skopan-pa-ett-fordon-ford-till-sjukhus",
    "desc": "En man i 50-årsåldern har avlidit till följd av en arbetsplatsolycka där han blev fastklämd mellan marken och skopan på en hjullastare. Anhöriga är underrättade."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man cyklade på E4 utanför Gränna",
-   "date": "2026-07-27T12:48:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikvarningen-cykel-pa-e4-utanfor-grann",
-   "desc": "Polisen fick samtal vid 14.30-tiden om att någon cyklade på E4 mellan Gränna och Huskvarna. – Flera bilister har ringt in om samma man, säger Angelica Israelsson Silfver, presstalesperson på polisen."
   },
   {
    "src": "STHLM",
