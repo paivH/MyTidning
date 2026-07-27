@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T16:15:05.802Z",
+ "updated": "2026-07-27T18:01:20.331Z",
  "items": [
   {
    "src": "BBC",
@@ -12,18 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Oil price dives as US and Iran pause attacks",
-   "date": "2026-07-27T15:08:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-   "date": "2026-07-27T12:33:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-   "desc": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
+   "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+   "date": "2026-07-27T16:33:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+   "desc": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\"."
   },
   {
    "src": "BBC",
@@ -36,10 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
-   "date": "2026-07-27T15:49:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973."
+   "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+   "date": "2026-07-27T12:33:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+   "desc": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Shots fired at US consulate in Toronto for a second time this year",
+   "date": "2026-07-27T16:56:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kvinna nekades assistanshund på sjukhus – anmäler till DO",
+   "date": "2026-07-27T16:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kvinna-nekades-assistanshund-pa-sjukhus-anmaler-till-do",
+   "desc": "En person med funktionsnedsättning nekades att ha sin assistanshund med sig under inneliggande vård på sjukhus. Nu utreds en psykiatrisk avdelning i Eksjö av Diskrimineringsombudsmannen."
   },
   {
    "src": "SVT",
@@ -63,7 +71,7 @@
    "title": "Man cyklade på E4 utanför Gränna",
    "date": "2026-07-27T12:48:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikvarningen-cykel-pa-e4-utanfor-grann",
-   "desc": "Polisen fick samtal vid 14.30-tiden om att någon cyklade på E4 mellan Gränna och Huskvarna. – Flera bilister har ring in om samma man, säger Angelica Israelsson Silfver, presstalesperson på polisen."
+   "desc": "Polisen fick samtal vid 14.30-tiden om att någon cyklade på E4 mellan Gränna och Huskvarna. – Flera bilister har ringt in om samma man, säger Angelica Israelsson Silfver, presstalesperson på polisen."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-07-27T12:14:40.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/efter-alla-olyckor-transportstyrelsen-ser-over-reglerna-for-elsparkcyklar",
    "desc": "Sju personer dog och 6 624 personer skadades efter olyckor med elsparkcyklar 2025. Det är en kraftig ökning i landet och nu reagerar Transportstyrelsen. – Vi behöver vidta åtgärder mot detta, säger enhetschef Katarina Norén."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Mångmiljardorder för Saab – köpare okänd",
-   "date": "2026-07-27T12:03:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/mangmiljardorder-for-saab-kopare-okand",
-   "desc": "Försvarskoncernen Saab har fått klart med ännu en mångmiljardorder gällande sin flygplansmodell Globaleye. Köparen är dock okänd, Saab anger endast ”ett land i Mellanösternregionen”."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-07-27T16:27:59.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p146t9?at_medium=RSS&at_campaign=rss",
+   "desc": "Mason Mount reflects on Friday's 5-0 friendly win over Rosenborg in Trondheim."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-07-27T12:03:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p12q6q?at_medium=RSS&at_campaign=rss",
    "desc": "Joe and Gaz discuss the pre-season win over Rosenborg and season ticket restrictions."
@@ -144,14 +152,6 @@
    "date": "2026-07-23T12:16:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p0fb60?at_medium=RSS&at_campaign=rss",
    "desc": "Wes Brown on no minutes for Mainoo, a possible Rashford return and England's exit."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-07-22T14:14:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p072j6?at_medium=RSS&at_campaign=rss",
-   "desc": "Wes Brown on Michael Carrick and the back four he'd pick to start this season."
   }
  ]
 }
