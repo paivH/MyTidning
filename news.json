@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-27T06:48:17.979Z",
+ "updated": "2026-07-27T10:39:02.626Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-   "date": "2026-07-27T00:27:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court."
+   "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+   "date": "2026-07-27T06:11:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Several others, including a two-year-old boy, were also injured. Seattle Mayor Katie Wilson says a suspect is in custody."
   },
   {
    "src": "BBC",
@@ -20,10 +20,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What we know so far about the Berlin Pride ramming attack",
-   "date": "2026-07-26T20:34:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-   "desc": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park."
+   "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+   "date": "2026-07-27T09:59:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
+   "date": "2026-07-27T06:48:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Ukrainian president will be Andy Burnham's first international visitor since taking office."
   },
   {
    "src": "BBC",
@@ -34,12 +42,20 @@
    "desc": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
-   "date": "2026-07-27T01:35:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
-   "desc": "Javier Milei made the comments while in Brazil at a rally to launch the campaign of right-wing presidential candidate Flávio Bolsonaro."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Han springer 73 mil för att uppmärksamma hjärnforskning",
+   "date": "2026-07-27T10:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/han-springer-73-mil-for-att-uppmarksamma-hjarnforskning",
+   "desc": "På 18 dagar ska Joakim Kungsman från Malmö springa 73 mil från Göteborg till Stockholm. Nu är han framme i Östergötland och springer längs med Göta kanal. Syftet är att uppmärksamma hjärnforskning och samla in pengar."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Krock mellan lastbil och personbil i Täby – två till sjukhus",
+   "date": "2026-07-27T08:18:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/krock-mellan-lastbil-och-personbil-i-taby-tva-till-sjukhus",
+   "desc": "Det har skett en trafikolycka på E18 utanför Hägernäs i Täby. Olyckan skapade längre köer i norrgående riktning."
   },
   {
    "src": "SVT",
@@ -63,23 +79,15 @@
    "title": "EU-politiker protesterar mot fartyg som fraktar rysk gas",
    "date": "2026-07-26T16:39:29.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/eu-politiker-protesterar-mot-fartyg-som-fraktar-rysk-gas",
-   "desc": "Ett tankfartyg som transporterar flytande naturgas från Sibirien får just nu service på ett varv i Danmark. En rad Europapolitiker har därför skrivit ett protestbrev till varvet. – Det är bedrövligt och skamligt av det danska företaget, säger Europaparlamentarikern Karin Karlsbro (L)."
+   "desc": "Ett tankfartyg som transporterar flytande naturgas från Sibirien har fått service på ett varv i Danmark. En rad Europapolitiker har därför skrivit ett protestbrev till varvet. – Det är bedrövligt och skamligt av det danska företaget, säger Europaparlamentarikern Karin Karlsbro (L)."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna åtalas för kränkande fotografering på äldreboende i Umeå",
-   "date": "2026-07-26T12:06:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/kvinna-atalas-for-krankande-fotografering-pa-aldreboende-i-umea",
-   "desc": "En kvinna i 20-årsåldern åtalas för flera fall av kränkande fotografering av två demenssjuka män på ett äldreboende i Umeå."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man gripen misstänkt för våldtäkt i Kristianstad",
-   "date": "2026-07-26T10:26:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/man-gripen-misstankt-for-valdtakt-i-kristianstad",
-   "desc": "En man har gripits misstänkt för att ha våldtagit en kvinna i Kristianstad under natten mot söndagen. – Det har skett utomhus, centralt i Kristianstad, säger Sara Andersson som är presstalesperson på polisen."
+   "title": "Krock mellan lastbil och personbil i Täby – två till sjukhus",
+   "date": "2026-07-27T08:18:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/krock-mellan-lastbil-och-personbil-i-taby-tva-till-sjukhus",
+   "desc": "Det har skett en trafikolycka på E18 utanför Hägernäs i Täby. Olyckan skapade längre köer i norrgående riktning."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-26T17:00:52.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tak-pa-flerbostad-brinner-i-sodra-stockholm",
    "desc": "Det har brunnit i ett tak på ett flerfamiljshus i Tallkrogen. Räddningstjänst är på plats med flera resurser. – Det ska ha börjat brinna i en solpanel, säger Roger Sverndal på räddningstjänsten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Polisen och RFSL om säkerheten inför Stockholm Pride efter dådet i Berlin",
-   "date": "2026-07-26T11:02:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisen-om-sakerheten-infor-stockholm-pride-efter-dadet-i-berlin",
-   "desc": "Flera människor skadades efter att ett fordon kört in i ett Prideevenemang i Berlin. Inför Pridefestivalen i Stockholm hamnar säkerheten i extra stort fokus. – Det som hände i Berlin hade lika gärna kunnat hända i Stockholm, säger RFSL:s generalsekreterare Felix König."
   },
   {
    "src": "BBC",
