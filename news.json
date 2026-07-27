@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-27T18:01:20.331Z",
+ "updated": "2026-07-27T20:03:40.660Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+   "date": "2026-07-27T17:50:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+   "desc": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -34,14 +42,6 @@
    "desc": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Shots fired at US consulate in Toronto for a second time this year",
-   "date": "2026-07-27T16:56:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack."
-  },
-  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Kvinna nekades assistanshund på sjukhus – anmäler till DO",
@@ -68,18 +68,26 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Man död – blev fastklämd av hjullastare",
+   "date": "2026-07-27T13:36:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/en-man-blev-fastklamd-mellan-skopan-pa-ett-fordon-ford-till-sjukhus",
+   "desc": "En man i 50-årsåldern har avlidit till följd av en arbetsplatsolycka där han blev fastklämd mellan marken och skopan på en hjullastare. Anhöriga är underrättade."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Man cyklade på E4 utanför Gränna",
    "date": "2026-07-27T12:48:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikvarningen-cykel-pa-e4-utanfor-grann",
    "desc": "Polisen fick samtal vid 14.30-tiden om att någon cyklade på E4 mellan Gränna och Huskvarna. – Flera bilister har ringt in om samma man, säger Angelica Israelsson Silfver, presstalesperson på polisen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Efter alla olyckor – Transportstyrelsen ser över reglerna för elsparkcyklar",
-   "date": "2026-07-27T12:14:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/efter-alla-olyckor-transportstyrelsen-ser-over-reglerna-for-elsparkcyklar",
-   "desc": "Sju personer dog och 6 624 personer skadades efter olyckor med elsparkcyklar 2025. Det är en kraftig ökning i landet och nu reagerar Transportstyrelsen. – Vi behöver vidta åtgärder mot detta, säger enhetschef Katarina Norén."
+   "title": "Nyheter från dagen: 27 juli",
+   "date": "2026-07-27T18:01:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-27-juli-6dxuyc",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under måndagen den 27 juli."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-26T17:02:13.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-26-juli-wuphwh",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 26 juli."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Tak på flerbostad har brunnit i södra Stockholm",
-   "date": "2026-07-26T17:00:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tak-pa-flerbostad-brinner-i-sodra-stockholm",
-   "desc": "Det har brunnit i ett tak på ett flerfamiljshus i Tallkrogen. Räddningstjänst är på plats med flera resurser. – Det ska ha börjat brinna i en solpanel, säger Roger Sverndal på räddningstjänsten."
   },
   {
    "src": "BBC",
