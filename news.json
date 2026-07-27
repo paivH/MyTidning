@@ -1,6 +1,22 @@
 {
- "updated": "2026-07-26T23:57:21.773Z",
+ "updated": "2026-07-27T03:22:39.812Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+   "date": "2026-07-26T18:40:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+   "date": "2026-07-27T00:27:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -24,22 +40,6 @@
    "date": "2026-07-26T21:23:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
    "desc": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-   "date": "2026-07-26T21:30:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Ukrainian president will be Andy Burnham's first international visitor since taking office."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-   "date": "2026-07-26T18:40:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
   },
   {
    "src": "SVT",
