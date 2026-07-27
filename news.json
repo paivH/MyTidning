@@ -1,11 +1,19 @@
 {
- "updated": "2026-07-27T13:37:06.472Z",
+ "updated": "2026-07-27T16:15:05.802Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Devastating European wildfires in maps - and how they're being tackled",
+   "date": "2026-07-27T15:59:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+   "desc": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Oil price dives as US and Iran pause attacks",
-   "date": "2026-07-27T11:50:23.000Z",
+   "date": "2026-07-27T15:08:37.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
    "desc": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict."
   },
@@ -20,34 +28,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-   "date": "2026-07-27T10:46:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-   "desc": "Police say two suspects were shooting at each other and one of them is in custody and one at large."
+   "title": "More than 600 US military service members injured since Iran War began in February",
+   "date": "2026-07-27T13:31:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+   "desc": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
-   "date": "2026-07-27T11:03:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
-   "desc": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-   "date": "2026-07-27T10:59:13.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws."
+   "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
+   "date": "2026-07-27T15:49:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Trafikvarningen: Cyklar på E4 utanför Gränna",
+   "title": "Terrorexperten efter dådet i Berlin: ”Kan mycket väl dra igång liknande händelser”",
+   "date": "2026-07-27T13:56:14.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/terrorexperten-efter-dadet-kan-mycket-val-dra-igang-liknande-handelser",
+   "desc": "Tyskland har höjt terrorhotnivån efter det terrordåd som skakade ett Pridefirande i Berlin under lördagen. Västvärlden borde också vara på sin vakt menar terrorexperten Hans Brun – som varnar för att terrordåden kan öka. – Den här typen av attentat har en tendens att klustra sig."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bilderna visar: Så levde närmare 30 katter i misär",
+   "date": "2026-07-27T13:50:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/bilderna-visar-sa-levde-narmare-30-katter-i-misar",
+   "desc": "27 katter har omhändertagits från en man i Katrineholm efter att länsstyrelsen gjort en kontroll av hans bostad. Enligt myndigheten ska katterna ha varit utsatta för kraftigt lidande."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man cyklade på E4 utanför Gränna",
    "date": "2026-07-27T12:48:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikvarningen-cykel-pa-e4-utanfor-grann",
-   "desc": "En cyklist befinner sig på E4 i södergående riktning mellan Gränna och Huskvarna."
+   "desc": "Polisen fick samtal vid 14.30-tiden om att någon cyklade på E4 mellan Gränna och Huskvarna. – Flera bilister har ring in om samma man, säger Angelica Israelsson Silfver, presstalesperson på polisen."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-07-27T12:03:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/mangmiljardorder-for-saab-kopare-okand",
    "desc": "Försvarskoncernen Saab har fått klart med ännu en mångmiljardorder gällande sin flygplansmodell Globaleye. Köparen är dock okänd, Saab anger endast ”ett land i Mellanösternregionen”."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ludvikas kommunalråd åtalas  – misstänks ha hotat och ofredat politiker",
-   "date": "2026-07-27T11:55:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/ludvikas-kommunalrad-atalas-misstanks-ha-hotat-och-ofredat-av-politiker",
-   "desc": "Ett av Ludvikas kommunalråd, Håge Persson (M), åtalas misstänkt för att ha hotat och ofredat politikern Benny Rosengren (DD) efter ett fullmäktigemöte förra hösten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "18-åringen i 764-nätverket inte allvarligt psykiskt sjuk – kan få fängelse",
-   "date": "2026-07-27T11:10:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/18-aringen-i-764-natverket-inte-allvarligt-psyksjuk-kan-fa-fangelse",
-   "desc": "18-åringen som misstänks för grova brott inom 764-nätverket är inte allvarligt psykiskt sjuk, visar en rättspsykiatrisk utredning. Han kan därmed dömas till fängelse."
   },
   {
    "src": "STHLM",
