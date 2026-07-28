@@ -1,17 +1,11 @@
 {
- "updated": "2026-07-27T06:54:59.654Z",
+ "updated": "2026-07-28T06:18:24.623Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färska jordgubbar 500g",
+   "item": "Svenska jordgubbar 500g",
    "price": "25 kr",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
-   "price": "69 kr",
    "url": "https://www.ica.se"
   },
   {
@@ -21,22 +15,28 @@
    "url": "https://www.lidl.se"
   },
   {
-   "store": "Lidl",
-   "item": "Vattenmelon hel",
-   "price": "19 kr/st",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "IKEA",
-   "item": "Glassbägare Söta lördagar",
-   "price": "15 kr",
-   "url": "https://www.ikea.com/se/sv/"
+   "store": "ICA",
+   "item": "Kycklingfilé färsk 1kg",
+   "price": "79 kr/kg",
+   "url": "https://www.ica.se"
   },
   {
    "store": "Rusta",
-   "item": "Utomhuskuddar 2-pack",
+   "item": "Utomhuskudde till loungemöbler",
    "price": "99 kr",
    "url": "https://www.rusta.com/se"
+  },
+  {
+   "store": "IKEA",
+   "item": "Glass Daim 1L",
+   "price": "29 kr",
+   "url": "https://www.ikea.com/se/sv/"
+  },
+  {
+   "store": "Lidl",
+   "item": "Svenska nektariner 1kg",
+   "price": "24 kr/kg",
+   "url": "https://www.lidl.se"
   }
  ]
 }
