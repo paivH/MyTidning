@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T17:52:22.684Z",
+ "updated": "2026-07-28T19:17:37.097Z",
  "items": [
   {
    "src": "BBC",
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
+   "date": "2026-07-28T18:19:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+   "desc": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
    "date": "2026-07-28T16:37:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
@@ -28,18 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-   "date": "2026-07-28T05:01:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-   "desc": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime."
+   "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+   "date": "2026-07-28T15:11:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+   "desc": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US walks out of UN Security Council meeting during France's remarks",
-   "date": "2026-07-28T09:32:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-   "desc": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Lägenhet förstörd efter brand i Helsingborg",
+   "date": "2026-07-28T18:17:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/brand-i-lagenhet-i-helsingborg-riskerar-att-spridas-till-taket",
+   "desc": "Det brann på fjärde våningen i ett lägenhetshus i Helsingborg. Det fanns en risk att elden kunde spridas till vindsvåningen och taket men vid 20.30-tiden var branden släckt. Polisen ska utreda om det finns någon brottsmisstanke."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rattfull bilist körde in i träd",
+   "date": "2026-07-28T18:06:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/bil-har-kort-in-i-trad-oklart-skadelage",
+   "desc": "En personbil körde in i ett träd på Kimstadsvägen i Norrköping. Föraren fördes till sjukhus med nacksmärtor och är nu misstänkt för rattfylleri."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Det är högsäsong för vandring i fjällen. Samtidigt brottas Grövelsjön med vattenproblem. I delar av området har vattnet behövt kokas. Nu i veckan stängs dessutom vattnet av helt för att ledningarna ska spolas."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Försökte rädda flickvännens liv – blev misstänkt för knivdådet i Skellefteå: ”Var i chock”",
-   "date": "2026-07-28T14:49:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/forsokte-radda-flickvannens-liv-blev-misstankt-for-knivdadet-i-skelleftea-var-i-chock",
-   "desc": "I två dygn satt en man frihetsberövad, misstänkt för att ha knivhuggit sin flickvän i Skellefteå. Sanningen var att mannen gjorde allt för att rädda livet på henne. – Han var i chock och sorg och blev anhållen. Det var naturligtvis en fruktansvärd situation för honom, säger Jens Nyström, mannens målsägandebiträde."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bil körde in i mitträcke – en person till sjukhus",
-   "date": "2026-07-28T14:42:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/bil-korde-in-i-mittracke-en-person-till-sjukhus",
-   "desc": "En personbil har kört in i ett mitträcke på riksväg 27, strax norr om Väckelsång. Vägen stängdes av efter olyckan."
+   "title": "Nyheter från dagen: 28 juli",
+   "date": "2026-07-28T18:02:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-28-juli-n9s0ml",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under tisdagen den 28 juli."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-27T08:18:21.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/krock-mellan-lastbil-och-personbil-i-taby-tva-till-sjukhus",
    "desc": "Det har skett en trafikolycka på E18 utanför Hägernäs i Täby. Olyckan skapade längre köer i norrgående riktning."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Guide: Stockholm Pride 2026 – höjdpunkter och tips",
-   "date": "2026-07-27T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/guide-stockholm-pride-2026-hojdpunkter-och-tips",
-   "desc": "Årets pridefestival i Stockholm pågår mellan 27 juli och 1 augusti och kulminerar i den stora prideparaden på lördagen. Men vad kan man egentligen göra under Stockholm Pride? Var går själva paraden? Hur påverkas trafiken? Kostar det något? I SVT:s guide ger vi en kort sammanfattning av det viktigaste."
   },
   {
    "src": "BBC",
