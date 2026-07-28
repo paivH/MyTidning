@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-28T09:16:02.565Z",
+ "updated": "2026-07-28T11:34:35.698Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Zelensky to press Trump on air defences while in Washington",
+   "date": "2026-07-28T10:41:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,34 +20,50 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says Iran war talks taking place during lull in strikes",
-   "date": "2026-07-27T21:10:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "US walks out of UN Security Council meeting during France's remarks",
-   "date": "2026-07-28T08:41:45.000Z",
+   "date": "2026-07-28T09:32:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
    "desc": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zidane confirmed as new France manager",
+   "title": "Zidane confirmed as France head coach",
    "date": "2026-07-28T09:03:49.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Former Real Madrid manager Zinedine Zidane has been confirmed as the new head coach of the France national team."
+   "desc": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ariana Grande sues hackers who leaked music and videos",
-   "date": "2026-07-28T08:37:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
-   "desc": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs."
+   "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+   "date": "2026-07-28T09:45:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+   "desc": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tågförseningar mellan Norrköping och Linköping efter elfel",
+   "date": "2026-07-28T11:16:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/tagforseningar-mellan-norrkoping-och-linkoping-efter-elfel",
+   "desc": "Tågtrafiken mellan Norrköping och Linköping dras med förseningar sedan lunchtid på tisdagen. Ett kontaktledningsbrott gör att tågen turas om att köra på ett spår."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "30-åring åtalas för elva våldtäkter mot kvinna",
+   "date": "2026-07-28T10:47:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/30-aring-atalas-for-elva-valdtakter-mot-kvinna",
+   "desc": "En 30-årig man har åtalats vid Nyköpings tingsrätt misstänkt för flera fall av våldtäkt mot en kvinna under en femårsperiod."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter nioåriga fängelsestraffet: äldrerånarna överklagar domen",
+   "date": "2026-07-28T09:18:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-nioariga-fangelsestraffet-aldreranarna-overklagar-domen",
+   "desc": "De två män i 20-årsåldern som av Jönköpings tingsrätt dömdes till nio års fängelse efter vågen av rån mot äldre kvinnor i vintras, överklagar domen och vill bli frikända. Även de fyra äldre kvinnorna överklagar och vill att männen ska dömas att betala högre skadestånd."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-07-28T08:21:23.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/fem-doda-spadbarn-hittade-i-frankrike",
    "desc": "Kvarlevorna av fem döda spädbarn har hittats i Vaucluse i södra Frankrike, rapporterar Le Figaro."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ryssland kan mobilisera – politiskt känsligt för Putin",
-   "date": "2026-07-28T07:57:06.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/ryssland-kan-mobilisera-politiskt-kansligt-for-putin",
-   "desc": "Allt mer pekar på att Ryssland rustar för en ny större mobilisering. Men varför just nu – och stämmer det? SVT:s utrikesreporter Oscar Schau reder ut. – Det är politiskt känsligt för Putin, säger han i Morgonstudion."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Jordbävning i södra Japan – tsunamivarning utfärdad",
-   "date": "2026-07-28T07:37:41.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-sodra-japan-tsunamivarning-utfardad",
-   "desc": "En jordbävning med en magnitud på 7,1 har registrerats i södra Japan, enligt Reuters. – Då är det kraftiga skakningar i området, säger Björn Lund universitetslektor i seismologi på Uppsala universitet. En tsunamivarning utfärdades utanför ön Kyushu men togs senare bort."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hoten mot AI-topparna ökar – bolagen satsar miljoner på personskydd",
-   "date": "2026-07-28T05:19:58.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/hoten-mot-ai-topparna-okar-bolagen-satsar-miljoner-pa-personskydd",
-   "desc": "När motståndet växer har flera av branschens mäktigaste ledare blivit måltavlor för hot – och techbolagen lägger nu miljonbelopp på säkerhet."
   },
   {
    "src": "STHLM",
