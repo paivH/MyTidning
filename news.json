@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-28T16:05:56.413Z",
+ "updated": "2026-07-28T17:52:22.684Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
-   "date": "2026-07-28T13:25:13.000Z",
+   "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+   "date": "2026-07-28T16:14:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-   "desc": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires."
+   "desc": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde."
   },
   {
    "src": "BBC",
@@ -16,6 +16,14 @@
    "date": "2026-07-28T15:36:29.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
    "desc": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+   "date": "2026-07-28T16:37:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+   "desc": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades."
   },
   {
    "src": "BBC",
@@ -34,12 +42,20 @@
    "desc": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-   "date": "2026-07-28T11:50:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Mjällby vidare i Champions League-kvalet",
+   "date": "2026-07-28T17:51:23.000Z",
+   "link": "https://www.svt.se/sport/fotboll/mjallby-vidare-i-champions-league-kvalet",
+   "desc": "Mjällby spelade 0–0 i Gibraltar. Därmed är laget från Listerlandet vidare i Champions League-kvalet. Dessutom står det redan nu klart att det blir spel i en europeisk ligafas i höst."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man misstänks för rattfylleri efter vårdslös körning på E4",
+   "date": "2026-07-28T17:26:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/man-misstanks-for-rattfylleri-efter-vardslos-korning-pa-e4",
+   "desc": "En man i 45-årsåldern misstänks för rattfylleri och grov olovlig körning efter att flera trafikanter larmat polisen om en vårdslös färd på E4. Enligt uppgifter ska bilen ha varit uppe i hastigheter på närmare 200 kilometer i timmen."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-07-28T14:42:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/bil-korde-in-i-mittracke-en-person-till-sjukhus",
    "desc": "En personbil har kört in i ett mitträcke på riksväg 27, strax norr om Väckelsång. Vägen stängdes av efter olyckan."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt narkotika hittad i bibel på häkte",
-   "date": "2026-07-28T14:05:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-narkotika-hittad-i-bibel-pa-hakte",
-   "desc": "Det som såg ut som en vanlig bibel visade sig innehålla misstänkt narkotika. Nu utreds ett misstänkt smugglingsförsök på häktet i Skänninge, i Mjölby kommun."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Östersund kommun vill se fler åtgärder för elsparkcyklar: ”Är dåligt pålästa”",
-   "date": "2026-07-28T13:43:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ostersund-kommun-vill-se-fler-atgarder-for-elsparkcyklar-ar-daligt-palasta",
-   "desc": "Transportstyrelsen bedömer att många inte följer reglerna för elsparkcyklar, vilket bidrar till ökade olyckor. De åtgärder som nu diskuteras kan kräva insatser från flera myndigheter och ändringar i regelverken – något Östersunds kommun ställer sig positiv till."
   },
   {
    "src": "STHLM",
