@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T19:17:37.097Z",
+ "updated": "2026-07-28T20:41:36.626Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Uefa reacts with fury to Infantino World Cup plan",
+   "title": "Uefa and PM criticise Infantino World Cup plan",
    "date": "2026-07-28T15:36:29.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-   "desc": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup."
+   "desc": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-07-28T15:11:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
    "desc": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Branden sätter press på Macron: ”Skogen måste förändras”",
+   "date": "2026-07-28T19:55:46.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/branden-satter-press-pa-macron-skogen-maste-forandras",
+   "desc": "Kampen mot Frankrikes största skogsbrand på över 70 år fortsätter. Samtidigt riktas blickarna mot skogen själv – och frågan om hur den egentligen borde se ut i ett varmare klimat."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-07-28T17:26:18.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/man-misstanks-for-rattfylleri-efter-vardslos-korning-pa-e4",
    "desc": "En man i 45-årsåldern misstänks för rattfylleri och grov olovlig körning efter att flera trafikanter larmat polisen om en vårdslös färd på E4. Enligt uppgifter ska bilen ha varit uppe i hastigheter på närmare 200 kilometer i timmen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fjällstationen hårt prövad av vattenproblemen i Grövelsjön: ”Inne på vecka fyra”",
-   "date": "2026-07-28T15:12:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/fjallstationen-hart-provad-av-vattenproblemen-i-grovelsjon-inne-pa-vecka-fyra",
-   "desc": "Det är högsäsong för vandring i fjällen. Samtidigt brottas Grövelsjön med vattenproblem. I delar av området har vattnet behövt kokas. Nu i veckan stängs dessutom vattnet av helt för att ledningarna ska spolas."
   },
   {
    "src": "STHLM",
