@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-28T03:45:08.740Z",
+ "updated": "2026-07-28T06:23:29.521Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-   "date": "2026-07-27T20:34:55.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-   "desc": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
+   "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+   "date": "2026-07-28T05:01:19.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+   "desc": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime."
   },
   {
    "src": "BBC",
@@ -20,10 +20,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-   "date": "2026-07-27T16:33:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-   "desc": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\"."
+   "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
+   "date": "2026-07-28T01:53:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+   "desc": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+   "date": "2026-07-28T01:39:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address."
   },
   {
    "src": "BBC",
@@ -34,12 +42,36 @@
    "desc": "Storms and flooding incidents over the last few months have seen fake videos inundating social media."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "A Japanese town wrestles with identity after protests over its first mosque",
-   "date": "2026-07-27T22:08:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-   "desc": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hoten mot AI-topparna ökar – bolagen satsar miljoner på personskydd",
+   "date": "2026-07-28T05:19:58.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/hoten-mot-ai-topparna-okar-bolagen-satsar-miljoner-pa-personskydd",
+   "desc": "När motståndet växer har flera av branschens mäktigaste ledare blivit måltavlor för hot – och techbolagen lägger nu miljonbelopp på säkerhet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Varg och lodjur angrep – flera får dödade",
+   "date": "2026-07-28T05:12:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/varg-och-lodjur-angrep-flera-far-dodade",
+   "desc": "Totalt fem får har dödats i två separata rovdjursangrepp i Sörmland under de senaste dagarna. Ett får dog till följd av ett lodjursangrepp, och fyra efter angrepp av varg."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "I dag faller domen mot Jonas Falk – åtalad för 2,5 ton kokain",
+   "date": "2026-07-28T04:03:42.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/i-dag-faller-domen-mot-jonas-falk-atalad-for-25-ton-kokain",
+   "desc": "Han är en av Sveriges mest omskrivna brottslingar. Under tisdagen faller domen mot Jonas Falk – som står åtalad för fyra fall av synnerligen grovt narkotikabrott som rör 2,5 ton kokain. Samtidigt riktar hans advokat kritik mot utredningen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ung man gripen efter skottlossning i Upplands Väsby",
+   "date": "2026-07-28T04:01:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skottlossning-i-upplands-vasby-0jffmw",
+   "desc": "Skott har avfyrats mot en bostad i Upplands Väsby natten mot tisdag, skriver polisen på sin hemsida. En ung man har gripits. Ingen ska ha skadats i skottlossningen."
   },
   {
    "src": "SVT",
@@ -47,39 +79,15 @@
    "title": "Så åldras kroppen – SVT:s reporter testar formen efter 30",
    "date": "2026-07-28T03:30:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sa-aldras-kroppen-svt-reporter-testar-formen-efter-30",
-   "desc": "På sociala medier flödar klipp om kroppens förfall vid 30-strecket. Men vad är egentligen sant om kroppens åldrande? – Det dröjer väldigt lång tid innan man märker några kliniska symptom av att kroppen har startat igång den degenerativa processen. En åldersprocess som redan startar i de unga åren, säger specialisten Linda Ekenros,"
+   "desc": "På sociala medier flödar klipp om kroppens förfall vid 30-strecket. Men vad är egentligen sant om kroppens åldrande? – Det dröjer väldigt lång tid innan man märker några kliniska symptom av att kroppen har startat igång den degenerativa processen. En åldersprocess som redan startar i de unga åren, säger specialisten Linda Ekenros."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Skygaards teknik upptäcker och stoppar drönare",
-   "date": "2026-07-28T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/skygaards-teknik-upptacker-och-stoppar-dronare",
-   "desc": "Den kommunägda flygplatsen i Norrköping satsar på att bli en arena där drönarbranschen kan testa ny teknik. Ett av företagen som valt Norrköping Airport är Skygaard som utvecklat en teknisk plattform för skydd mot drönare."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kommunen uppmanar fler att använda gratis vattenkällan i Nyköping: ”Har ett överskott”",
-   "date": "2026-07-28T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/kommunen-uppmanar-fler-att-anvanda-gratis-vattenkallan-i-nykoping-har-ett-overskott",
-   "desc": "Utan kostnad så kan privatpersoner i Nyköping hämta hundratals liter källvatten till bevattning eller svalka. Trots det används den relativt sällan och kommunen uppmanar fler att ta chansen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Mer regn behövs för bra svampår i Västerbotten – riskerar torka ut",
-   "date": "2026-07-28T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/mer-regn-behovs-for-bra-svampar-i-vasterbotten-riskerar-torka-ut",
-   "desc": "Svamparna behöver mer regn för att de ska kunna växa till. Just nu står det och väger om det ska bli ett bra svampår eller inte. – Vi behöver massor med regn i augusti. Får vi inte det torkar svamparna bort, säger Sandra Holmblad, svampkonsulent i Umeå."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lokal knarklangare ställs inför rätta – efter den stora chattläckan 2021",
-   "date": "2026-07-28T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lokal-knarklangare-stalls-infor-ratta-efter-den-stora-chattlackan-2021",
-   "desc": "Nu startar rättegången mot en man från Höglandet som åtalats för grovt narkotikabrott. Brotten avslöjades när polis i flera europeiska länder, lyckades knäcka de kriminellas chattmeddelanden i mars 2021."
+   "title": "Ung man gripen efter skottlossning i Upplands Väsby",
+   "date": "2026-07-28T04:01:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skottlossning-i-upplands-vasby-0jffmw",
+   "desc": "Skott har avfyrats mot en bostad i Upplands Väsby natten mot tisdag, skriver polisen på sin hemsida. En ung man har gripits. Ingen ska ha skadats i skottlossningen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-27T03:30:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-kan-besokare-hjalpa-ostersjon-som-algbonder",
    "desc": "Att bli algbonde står kanske inte högst upp på semesterlistan. Men på Nämdö i Stockholms skärgård hoppas man att fler ska byta badhandduken mot vadarstövlar. – Det handlar om en kvarts insats från semestern för att göra en insats för Östersjön, säger forskaren Elin Dahlgren."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 26 juli",
-   "date": "2026-07-26T17:02:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-26-juli-wuphwh",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 26 juli."
   },
   {
    "src": "BBC",
