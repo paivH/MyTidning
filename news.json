@@ -1,14 +1,6 @@
 {
- "updated": "2026-07-28T11:34:35.698Z",
+ "updated": "2026-07-28T13:57:08.646Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Zelensky to press Trump on air defences while in Washington",
-   "date": "2026-07-28T10:41:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -24,6 +16,14 @@
    "date": "2026-07-28T09:32:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
    "desc": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+   "date": "2026-07-28T11:50:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+   "desc": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival."
   },
   {
    "src": "BBC",
@@ -44,42 +44,42 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tågförseningar mellan Norrköping och Linköping efter elfel",
-   "date": "2026-07-28T11:16:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/tagforseningar-mellan-norrkoping-och-linkoping-efter-elfel",
-   "desc": "Tågtrafiken mellan Norrköping och Linköping dras med förseningar sedan lunchtid på tisdagen. Ett kontaktledningsbrott gör att tågen turas om att köra på ett spår."
+   "title": "Östersund kommun vill se fler åtgärder för elsparkcyklar: ”Är dåligt pålästa”",
+   "date": "2026-07-28T13:43:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ostersund-kommun-vill-se-fler-atgarder-for-elsparkcyklar-ar-daligt-palasta",
+   "desc": "Transportstyrelsen bedömer att många inte följer reglerna för elsparkcyklar, vilket bidrar till ökade olyckor. De åtgärder som nu diskuteras kan kräva insatser från flera myndigheter och ändringar i regelverken – något Östersunds kommun ställer sig positiv till."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "30-åring åtalas för elva våldtäkter mot kvinna",
-   "date": "2026-07-28T10:47:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/30-aring-atalas-for-elva-valdtakter-mot-kvinna",
-   "desc": "En 30-årig man har åtalats vid Nyköpings tingsrätt misstänkt för flera fall av våldtäkt mot en kvinna under en femårsperiod."
+   "title": "Rån mot kiosk i Bodafors – en gripen för rån",
+   "date": "2026-07-28T13:42:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hotade-till-sig-cigaretter-en-gripen-for-ran",
+   "desc": "En man i 25-årsåldern har gripits efter ett rån mot en kiosk i Bodafors i Nässjö kommun strax före klockan halv två."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter nioåriga fängelsestraffet: äldrerånarna överklagar domen",
-   "date": "2026-07-28T09:18:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-nioariga-fangelsestraffet-aldreranarna-overklagar-domen",
-   "desc": "De två män i 20-årsåldern som av Jönköpings tingsrätt dömdes till nio års fängelse efter vågen av rån mot äldre kvinnor i vintras, överklagar domen och vill bli frikända. Även de fyra äldre kvinnorna överklagar och vill att männen ska dömas att betala högre skadestånd."
+   "title": "Satellitbilderna visar brändernas framfart",
+   "date": "2026-07-28T13:34:23.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/satellitbilderna-visar-brandernas-framfart",
+   "desc": "Skogsbränderna i Europa i år är långt värre än genomsnittet, både sett till antal och omfattning. Länderna som sticker ut är Frankrike och Spanien. Totalt har en yta motsvarande Gotland brunnit i de två länderna."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Jonas Falk döms till fängelse för narkotikabrott",
-   "date": "2026-07-28T09:02:51.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/jonas-falk-doms-till-fangelse-for-narkotikabrott",
-   "desc": "Han är åtalad för att ha förflyttat 2,3 ton kokain från Sydamerika till Europa. Nu döms Jonas Falk till drygt 9 års fängelse. Jonas Falk är en av Sveriges mest omskrivna brottslingar och har tidigare friats i den stora narkotikahärvan ”Operation Playa”."
+   "title": "Tät skog och blöt myr – så hittade Hemvärnet försvunne mannen",
+   "date": "2026-07-28T13:22:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/tat-skog-och-blot-myr-sa-hittade-hemvarnet-forsvunna-mannen",
+   "desc": "Ett ljud på en myr fick soldaten från Hemvärnet att reagera. Efter över ett dygns sökinsats hittades den försvunna bärplockaren kraftigt nedkyld. Han vårdas nu med livshotande skador. – Om ett motorfordon hade passerat på 2-3 meters håll hade de kört förbi, säger Johan Björnström, militär insatschef vid Hemvärnet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fem döda spädbarn hittade i Frankrike",
-   "date": "2026-07-28T08:21:23.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/fem-doda-spadbarn-hittade-i-frankrike",
-   "desc": "Kvarlevorna av fem döda spädbarn har hittats i Vaucluse i södra Frankrike, rapporterar Le Figaro."
+   "title": "Hovrätten mildrar dom efter blodig attack med släggskaft på pizzeria i Västerås",
+   "date": "2026-07-28T13:13:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/hovratten-mildrar-dom-efter-attack-med-slaggskaft-pa-pizzeria-i-vasteras",
+   "desc": "I tingsrätten dömdes mannen till fängelse i tio år för mordförsök. Hovrätten ändrar nu brottsrubriceringen och dömer istället mannen för grov misshandel till ett betydligt kortare fängelsestraff."
   },
   {
    "src": "STHLM",
