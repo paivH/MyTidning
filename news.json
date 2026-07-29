@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T01:00:00.356Z",
+ "updated": "2026-07-29T04:19:23.759Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Iran and US trade strikes, shattering brief lull in fighting",
-   "date": "2026-07-29T00:51:45.000Z",
+   "date": "2026-07-29T02:47:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
    "desc": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran."
   },
@@ -29,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Trump administration bans new Chinese humanoid robots",
-   "date": "2026-07-29T00:50:33.000Z",
+   "date": "2026-07-29T02:30:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
    "desc": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence."
   },
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Branden sätter press på Macron: ”Skogen måste förändras”",
-   "date": "2026-07-28T19:55:46.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/branden-satter-press-pa-macron-skogen-maste-forandras",
-   "desc": "Kampen mot Frankrikes största skogsbrand på över 70 år fortsätter. Samtidigt riktas blickarna mot skogen själv – och frågan om hur den egentligen borde se ut i ett varmare klimat."
+   "title": "Här fångas tusentals av den invasiva arten i Östersjön: ”Käkar upp våra fiskar”",
+   "date": "2026-07-29T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/har-fangas-tusentals-av-den-invasiva-arten-i-ostersjon-kakar-upp-vara-fiskar",
+   "desc": "Fisken svartmunnad smörbult är problematisk för Östersjön. Därför har det genomförts reduktionsfiske av arten i den sörmländska skärgården. SVT fick följa med ut till en av platserna där man tagit upp tusentals sådana fiskar."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lägenhet förstörd efter brand i Helsingborg",
-   "date": "2026-07-28T18:17:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/brand-i-lagenhet-i-helsingborg-riskerar-att-spridas-till-taket",
-   "desc": "Det brann på fjärde våningen i ett lägenhetshus i Helsingborg. Det fanns en risk att elden kunde spridas till vindsvåningen och taket men vid 20.30-tiden var branden släckt. Polisen ska utreda om det finns någon brottsmisstanke."
+   "title": "Stinkande jordhögar utanför Västerås – nu riskerar företagare miljonvite",
+   "date": "2026-07-29T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/stinkande-jordhogar-utanfor-vasteras-nu-riskerar-foretagare-miljonvite",
+   "desc": "Efter tips från allmänheten hittade miljöinspektörerna stora mängder avfall som inte hanterats rätt. Nu måste ägaren frakta bort massorna från marken utanför Västerås – annars hotar miljonvite."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Rattfull bilist körde in i träd",
-   "date": "2026-07-28T18:06:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/bil-har-kort-in-i-trad-oklart-skadelage",
-   "desc": "En personbil körde in i ett träd på Kimstadsvägen i Norrköping. Föraren fördes till sjukhus med nacksmärtor och är nu misstänkt för rattfylleri."
+   "title": "Taltidning gör om – slår undan benen på Anita och Hjördis",
+   "date": "2026-07-29T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/taltidningen-gor-om-nu-bara-information-fran-regionen",
+   "desc": "I över 50 år har Anita Mäki från Luleå och Hjördis Lindström från Boden prenumererat på Norrbottens taltidning, som innehållit specialanpassade artiklar för synskadade. Från och med april innehåller den endast information om regionen. – Det är ingen taltidning för oss längre, säger Hjördis Lindström."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Mjällby vidare i Champions League-kvalet",
-   "date": "2026-07-28T17:51:23.000Z",
-   "link": "https://www.svt.se/sport/fotboll/mjallby-vidare-i-champions-league-kvalet",
-   "desc": "Mjällby spelade 0–0 i Gibraltar. Därmed är laget från Listerlandet vidare i Champions League-kvalet. Dessutom står det redan nu klart att det blir spel i en europeisk ligafas i höst."
+   "title": "Ny unik forskning från Umeå kring distansjobb – förbättrar arbetsmiljön: ”Trivs bättre”",
+   "date": "2026-07-29T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/ny-unik-forskning-fran-umea-kring-distansjobb-forbattrar-arbetsmiljon-trivs-battre",
+   "desc": "Att kombinera arbete på kontor och på distans förbättrar arbetsmiljön för tjänstemän och gör att det upplevs lättare att hinna med sina arbetsuppgifter. Detta visar en ny studie från Umeå universitet. – Arbetsupplevelsen har förbättrats. Man trivs bättre och ledarskapet upplevs mer tillgängligt, säger Caroline Corneliusson, doktorand vid Institutionen för epidemiologi och global hälsa vid Umeå universitet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man misstänks för rattfylleri efter vårdslös körning på E4",
-   "date": "2026-07-28T17:26:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/man-misstanks-for-rattfylleri-efter-vardslos-korning-pa-e4",
-   "desc": "En man i 45-årsåldern misstänks för rattfylleri och grov olovlig körning efter att flera trafikanter larmat polisen om en vårdslös färd på E4. Enligt uppgifter ska bilen ha varit uppe i hastigheter på närmare 200 kilometer i timmen."
+   "title": "Husbilsfebern sprider sig – nu tar ställplatserna slut i Värmland",
+   "date": "2026-07-29T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/husbilsfebern-sprider-sig-nu-tar-stallplatserna-slut-i-varmland",
+   "desc": "Antalet husbilar som nyregistreras i Sverige har mer än fördubblats på två år – en trend som även syns i resten av Europa. Ställplatserna växer däremot inte i samma takt. På en plats i Kristinehamn får man neka upp till 50 husbilar per dag. – Men det spelar ingen roll var du tittar idag, det är fullt överallt, säger ställplatsägaren Tommy Gustafsson."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Hatstorm mot politiker – på grund av klänning",
+   "date": "2026-07-29T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hatstorm-mot-politiker-pa-grund-av-klanning",
+   "desc": "”Du är psykiskt sjuk”. ”Freak”. ”Dags du söker hjälp”. Det är några av de hundratals kommentarer som rasat in på lokalpolitikern Henrik Juhlins sociala medier. Anledningen? Att han bär klänning. – Det är en liten grupp som verkligen avskyr det här och gör allt för att mota det."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-27T18:01:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-27-juli-6dxuyc",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under måndagen den 27 juli."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Krock mellan lastbil och personbil i Täby – två till sjukhus",
-   "date": "2026-07-27T08:18:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/krock-mellan-lastbil-och-personbil-i-taby-tva-till-sjukhus",
-   "desc": "Det har skett en trafikolycka på E18 utanför Hägernäs i Täby. Olyckan skapade längre köer i norrgående riktning."
   },
   {
    "src": "BBC",
