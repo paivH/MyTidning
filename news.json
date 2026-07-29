@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T07:17:13.438Z",
+ "updated": "2026-07-29T10:06:19.440Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Saudi Arabia joins US in strikes on Iran-backed militia",
-   "date": "2026-07-29T06:54:12.000Z",
+   "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+   "date": "2026-07-29T09:39:56.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-   "desc": "US Central Command says the proxy group launched attacks against US bases and Saudi energy infrastructure."
+   "desc": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+   "date": "2026-07-29T09:51:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+   "desc": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service."
   },
   {
    "src": "BBC",
@@ -34,12 +42,36 @@
    "desc": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump administration bans new Chinese humanoid robots",
-   "date": "2026-07-29T02:30:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Krock på väg 40 – stopp i norrgående riktning",
+   "date": "2026-07-29T09:13:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikolycka-pa-vag-40-totalstopp-i-norrgaende-riktning",
+   "desc": "Väg 40 är avstängd i norrgående riktning efter en trafikolycka mellan två personbilar. En person har förts till sjukhus med ambulans."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Franske dj:n Kavinsky död",
+   "date": "2026-07-29T08:58:24.000Z",
+   "link": "https://www.svt.se/kultur/franske-djn-kavinksy-dod",
+   "desc": "Den franske DJ:n Kavinsky är död, uppger Le Parisien. Han blev 50 år."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sängbrand utanför Sala: ”Någon har tänt på”",
+   "date": "2026-07-29T08:34:24.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sangbrand-utanfor-sala-nagon-har-tant-pa",
+   "desc": "Räddningstjänsten fick rycka ut och släcka en säng som brann utomhus i Salbohed väster om Sala. – Det var en säng som någon tänt eld på, uppger räddningstjänstens ledningsoperatör till SVT."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "När Sverige säljer svalka – Helsingfors säger nej till coolcation-marknadsföring",
+   "date": "2026-07-29T08:04:26.000Z",
+   "link": "https://www.svt.se/nyheter/uutiset/svenska/nar-sverige-saljer-svalka-helsingfors-sager-nej-till-coolcation-marknadsforing",
+   "desc": "Över 40 graders värme, torka och skogsbränder har plågat stora delar av Europa i sommar. Samtidigt marknadsför länder som Sverige och Norge sitt svalare klimat. Men Helsingfors väljer bort coolcation-konceptet – av etiska skäl, enligt stadens officiella turismorganisation."
   },
   {
    "src": "SVT",
@@ -50,36 +82,12 @@
    "desc": "Under onsdagen väcks åtal och bevistalan mot totalt fem personer efter två kraftiga sprängningar i Norrköping i november förra året. Bevistalan väcks även mot en 14-åring."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Förseningar i tågtrafiken efter urspårning i Gnesta",
-   "date": "2026-07-29T06:25:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/forseningar-i-tagtrafiken-efter-ursparning-i-gnesta",
-   "desc": "Ett arbetsfordon har spårat ur i Gnesta – vilket leder till förseningar i tågtrafiken bland annat mellan Stockholm och Göteborg. I nuläget saknas prognos för när fordonet ska bärgas."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Undersköterska slagen på äldreboende – bröt revben",
-   "date": "2026-07-29T05:00:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/valdsamt-pa-aldreboende-personal-skadades",
-   "desc": "Ett äldreboende har anmält att en anställd skadats så svårt att ett revben bröts av, efter att en vårdtagare blivit våldsam."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här fångas tusentals av den invasiva arten i Östersjön: ”Käkar upp våra fiskar”",
-   "date": "2026-07-29T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/har-fangas-tusentals-av-den-invasiva-arten-i-ostersjon-kakar-upp-vara-fiskar",
-   "desc": "Fisken svartmunnad smörbult är problematisk för Östersjön. Därför har det genomförts reduktionsfiske av arten i den sörmländska skärgården. SVT fick följa med ut till en av platserna där man tagit upp tusentals sådana fiskar."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Stinkande jordhögar utanför Västerås – nu riskerar företagare miljonvite",
-   "date": "2026-07-29T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/stinkande-jordhogar-utanfor-vasteras-nu-riskerar-foretagare-miljonvite",
-   "desc": "Efter tips från allmänheten hittade miljöinspektörerna stora mängder avfall som inte hanterats rätt. Nu måste ägaren frakta bort massorna från marken utanför Västerås – annars hotar miljonvite."
+   "title": "18-åring åtalas – planerade mord på yngre flicka",
+   "date": "2026-07-29T07:58:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/18-arig-pojke-atalas-planerade-mord-pa-15-arig-flicka",
+   "desc": "En 18-åring i Upplands Väsby åtalas efter att ha planerat att mörda en yngre flicka. Upprinnelsen till planerna ska vara att flickan blockerat honom på sociala medier. Det rapporterar Nyhetsbyrån Siren."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-28T04:01:22.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/skottlossning-i-upplands-vasby-0jffmw",
    "desc": "Skott har avfyrats mot en bostad i Upplands Väsby natten mot tisdag, skriver polisen på sin hemsida. En ung man greps för händelsen och sitter nu anhållen. Ingen ska ha skadats i skottlossningen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 27 juli",
-   "date": "2026-07-27T18:01:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-27-juli-6dxuyc",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under måndagen den 27 juli."
   },
   {
    "src": "BBC",
