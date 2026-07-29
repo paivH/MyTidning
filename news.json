@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T19:09:10.299Z",
+ "updated": "2026-07-29T20:29:29.295Z",
  "items": [
   {
    "src": "BBC",
@@ -20,7 +20,15 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "France fire crews face searing heat in battle to contain flames",
+   "title": "Fifa opens disciplinary proceedings against Argentina",
+   "date": "2026-07-29T17:21:57.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "France fire crews battle heat as locals tell BBC of fight to save homes",
    "date": "2026-07-29T16:49:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
    "desc": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations."
@@ -28,18 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-   "date": "2026-07-29T11:47:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
-   "desc": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say"
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-   "date": "2026-07-29T17:58:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-   "desc": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
+   "title": "Four women accuse Jared Leto of criminal sexual conduct",
+   "date": "2026-07-29T17:04:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
   },
   {
    "src": "SVT",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-07-29T19:06:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p1k302?at_medium=RSS&at_campaign=rss",
+   "desc": "Ex-Reds forward Fraizer Campbell and fans on 30 years since Solskjaer signed for United."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-07-28T08:00:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p13nqw?at_medium=RSS&at_campaign=rss",
    "desc": "Ex Man Utd defender Danny Simpson ahead of Michael Carrick's first full season in charge."
@@ -144,14 +152,6 @@
    "date": "2026-07-27T12:03:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p12q6q?at_medium=RSS&at_campaign=rss",
    "desc": "Joe and Gaz discuss the pre-season win over Rosenborg and season ticket restrictions."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-07-23T18:53:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p0k86b?at_medium=RSS&at_campaign=rss",
-   "desc": "MUST CEO Duncan Drasdo on potential bans for season-ticket holders."
   }
  ]
 }
