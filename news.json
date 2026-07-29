@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T14:51:57.394Z",
+ "updated": "2026-07-29T16:18:38.436Z",
  "items": [
   {
    "src": "BBC",
@@ -29,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
-   "date": "2026-07-29T14:29:34.000Z",
+   "date": "2026-07-29T15:40:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
    "desc": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
   },
@@ -40,6 +40,22 @@
    "date": "2026-07-29T10:23:29.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
    "desc": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kvinna hittad i resväska i Grekland",
+   "date": "2026-07-29T16:17:01.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/kvinna-hittad-i-resvaska-i-grekland",
+   "desc": "En kropp har hittats i en resväska i Grekland, rapporterar BBC."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sjöräddningssällskapet har avslutat extrasök – misstänkt vrakplats ska undersökas",
+   "date": "2026-07-29T15:03:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/sjoraddningssallskapet-har-avslutat-extrasok-misstankt-vrakplats-ska-undersokas",
+   "desc": "Strax efter 11 avslutade Sjöfartsverket avslutade sökinsatsen efter den mamma och dotter som saknas efter båtolyckan vid Tjörn. Sjöräddningssällskapet valde att söka vidare i fyra ytterligare timmar. – Vi har hittat vrakgods och en plats där vi tror att båten kan ligga, säger Adam Goll-Rasmussen på Sjöräddningssällskapet. Platsen ska nu undersökas av polisens dykare."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-07-29T13:50:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/vildsvin-forstorde-tradgardar-i-strangnas-nu-ska-fyra-kultingar-skjutas",
    "desc": "Strängnäs kommun har fått in flera anmälningar gällande en grupp av unga vildsvin som förstör trädgårdar i Strängnäs. Under torsdagen ska de skjutas av kommunens jägare. – De kommer inte klara sig utan sin mamma, säger Mee Gripler, tillförordnad kommundirektör."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Utredning: Par misstänks ha lurat dödsbon på miljoner",
-   "date": "2026-07-29T12:57:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/utredning-par-misstanks-ha-lurat-dodsbon-pa-miljoner",
-   "desc": "En man och en kvinna som drivit en begravningsverksamhet i Norrbotten misstänks för grov förskingring. Mannen och kvinnan utreds för att under flera år ha tagit stora summor pengar från dödsbon. – Sammantaget rör det sig om flera miljoner, säger åklagaren Jonas Fjellström."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Clas bor på Lövön nära platsen för båtolyckan",
-   "date": "2026-07-29T10:51:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/clas-bor-pa-lovon-nara-platsen-for-batolyckan",
-   "desc": "Clas Darvik bor på Lövön i närheten av platsen där en fritidsbåt förliste efter en misstänkt krock med ett handelsfartyg under tisdagskvällen. – Det är väldigt otäckt. Jag åker här ute ganska ofta, det hade kunnat vara en själv, säger Clas Darvik."
   },
   {
    "src": "STHLM",
