@@ -1,6 +1,38 @@
 {
- "updated": "2026-07-28T23:28:41.224Z",
+ "updated": "2026-07-29T01:00:00.356Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Watch: The moment quake hit Japan",
+   "date": "2026-07-28T15:32:37.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Iran and US trade strikes, shattering brief lull in fighting",
+   "date": "2026-07-29T00:51:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+   "desc": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+   "date": "2026-07-28T23:25:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+   "desc": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump administration bans new Chinese humanoid robots",
+   "date": "2026-07-29T00:50:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,38 +40,6 @@
    "date": "2026-07-28T16:14:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
    "desc": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Uefa and PM criticise Infantino World Cup plan",
-   "date": "2026-07-28T15:36:29.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-   "date": "2026-07-28T18:19:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-   "desc": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-   "date": "2026-07-28T16:37:02.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-   "desc": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-   "date": "2026-07-28T15:11:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-   "desc": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed."
   },
   {
    "src": "SVT",
