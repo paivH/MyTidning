@@ -1,6 +1,22 @@
 {
- "updated": "2026-07-29T16:18:38.436Z",
+ "updated": "2026-07-29T17:46:31.481Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+   "date": "2026-07-29T16:23:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+   "desc": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "France fire crews face searing heat in battle to contain flames",
+   "date": "2026-07-29T16:49:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+   "desc": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,26 +36,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-   "date": "2026-07-29T14:27:13.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-   "desc": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
-   "date": "2026-07-29T15:40:24.000Z",
+   "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
+   "date": "2026-07-29T16:49:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
    "desc": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-   "date": "2026-07-29T10:23:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-   "desc": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "USA:s centralbank Fed lämnar besked om styrräntan",
+   "date": "2026-07-29T17:37:48.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/usas-centralbank-fed-lamnar-besked-om-styrrantan",
+   "desc": "Den nya chefen för USA:s centralbank Federal Reserve, Kevin Warsh, lämnar under onsdagskvällen svensk tid besked om styrräntan. – Ovanligt oförutsägbart, säger SEB:s seniorekonom Robert Bergqvist inför beskedet. SVT sänder live med anledning av beskedet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Uppgift: Amerikanskt gasfartyg träffat av drönare",
+   "date": "2026-07-29T17:25:48.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/uppgift-amerikanskt-gasfartyg-traffat-av-dronare",
+   "desc": "Ett amerikanskt lastfartyg som fraktar flytande naturgas har träffats av en drönare och började då brinna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tromb trasade sönder delar av Tärendö – se förödelsen",
+   "date": "2026-07-29T17:13:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/tromb-trasade-sonder-delar-av-tarendo-se-forodelsen",
+   "desc": "Under tisdagen drog en tromb in efter Kalixälven och fällde hundratals träd. Flera stugor, båtar och mindre byggnader har skadats av virvelvindens framfart. – Hade man suttit på dass så hade man nog gått på toa två gånger, säger Tobias Pekkari."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Branden hotar Bordeaux – men vinodlarna oroar sig mer för klimatet",
+   "date": "2026-07-29T16:20:35.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/branden-hotar-bordeaux-men-vinodlarna-oroar-sig-mer-for-klimatet",
+   "desc": "Frankrike är inne i årets fjärde värmebölja samtidigt som bränderna fortsätter att rasa strax utanför Bordaux – en region som är världskänd för sina viner. Men vinodlarna här oroar sig mer för klimatet."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-07-29T16:17:01.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/kvinna-hittad-i-resvaska-i-grekland",
    "desc": "En kropp har hittats i en resväska i Grekland, rapporterar BBC."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sjöräddningssällskapet har avslutat extrasök – misstänkt vrakplats ska undersökas",
-   "date": "2026-07-29T15:03:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/sjoraddningssallskapet-har-avslutat-extrasok-misstankt-vrakplats-ska-undersokas",
-   "desc": "Strax efter 11 avslutade Sjöfartsverket avslutade sökinsatsen efter den mamma och dotter som saknas efter båtolyckan vid Tjörn. Sjöräddningssällskapet valde att söka vidare i fyra ytterligare timmar. – Vi har hittat vrakgods och en plats där vi tror att båten kan ligga, säger Adam Goll-Rasmussen på Sjöräddningssällskapet. Platsen ska nu undersökas av polisens dykare."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Trafikverket förbereder för högtryck – sänker hastigheten på flera järnvägssträckor",
-   "date": "2026-07-29T14:22:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikverket-forbereder-for-hogtryck-sanker-hastigheten-pa-flera-jarnvagsstrackor",
-   "desc": "Det väntas temperaturer på över 30 grader i södra och västra Sverige under torsdagen. Nu sänker Trafikverket sänker hastigheten på flera järnvägssträckor. – Det gör vi på Trafikverket för att minska risken för olyckor, säger Peter Jonsson, presskommunikatör, i ett pressmeddelande."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man försvunnen i Vidsel – helikopter och dykare utlarmade",
-   "date": "2026-07-29T13:54:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-forsvunnen-i-vidsel-helikopter-och-dykare-soker",
-   "desc": "En stor sökinsats pågår efter en försvunnen man i Vidsel, Älvsbyns kommun. Bland annat har polisens dykgrupp och helikopter larmats ut."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Vildsvin förstörde trädgårdar i Strängnäs – nu ska fyra kultingar skjutas",
-   "date": "2026-07-29T13:50:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/vildsvin-forstorde-tradgardar-i-strangnas-nu-ska-fyra-kultingar-skjutas",
-   "desc": "Strängnäs kommun har fått in flera anmälningar gällande en grupp av unga vildsvin som förstör trädgårdar i Strängnäs. Under torsdagen ska de skjutas av kommunens jägare. – De kommer inte klara sig utan sin mamma, säger Mee Gripler, tillförordnad kommundirektör."
   },
   {
    "src": "STHLM",
