@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-29T10:06:19.440Z",
+ "updated": "2026-07-29T12:27:59.316Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+   "date": "2026-07-29T11:47:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+   "desc": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say"
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,34 +28,50 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+   "date": "2026-07-29T11:42:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+   "desc": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-   "date": "2026-07-29T09:51:49.000Z",
+   "date": "2026-07-29T10:23:29.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
    "desc": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-   "date": "2026-07-28T23:25:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
-   "desc": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Four women accuse Jared Leto of criminal sexual conduct",
-   "date": "2026-07-29T05:00:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Clas bor på Lövön nära platsen för båtolyckan",
+   "date": "2026-07-29T10:51:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/clas-bor-pa-lovon-nara-platsen-for-batolyckan",
+   "desc": "Clas Darvik bor på Lövön i närheten av platsen där en fritidsbåt förliste efter en misstänkt krock med ett handelsfartyg under tisdagskvällen. – Det är väldigt otäckt. Jag åker här ute ganska ofta, det hade kunnat vara en själv, säger Clas Darvik."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Krock på väg 40 – stopp i norrgående riktning",
+   "title": "Efter dödsmisshandeln i Köpenhamn – man fortsatt häktad",
+   "date": "2026-07-29T10:36:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-dodsmisshandeln-i-kopenhamn-man-fortsatt-haktad",
+   "desc": "Den man i 30-årsåldern som misstänks orsakat polismannen Christian Zedigs död omhäktades i dag i Köpenhamn. Han häktas i ytterligare fyra veckor."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Lurades att tro att hon var brottsoffer – blev av med pengar",
+   "date": "2026-07-29T10:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/lurades-att-tro-att-hon-var-brottsoffer-blev-av-med-pengar",
+   "desc": "En äldre kvinna i Skärblacka lurades att tro att hon var utsatt för brott och blev i stället offer för ett bedrägeri. Nu varnar polisen för metoden."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Krock på väg 40 – tre personer drabbade",
    "date": "2026-07-29T09:13:55.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikolycka-pa-vag-40-totalstopp-i-norrgaende-riktning",
-   "desc": "Väg 40 är avstängd i norrgående riktning efter en trafikolycka mellan två personbilar. En person har förts till sjukhus med ambulans."
+   "desc": "Två bilar krockade på väg 40 under förmiddagen. Vägen stängdes av i norrgående riktning men är nu öppen igen. Tre personer drabbades och en person fördes till sjukhus med ambulans."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-07-29T08:58:24.000Z",
    "link": "https://www.svt.se/kultur/franske-djn-kavinksy-dod",
    "desc": "Den franske DJ:n Kavinsky är död, uppger Le Parisien. Han blev 50 år."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sängbrand utanför Sala: ”Någon har tänt på”",
-   "date": "2026-07-29T08:34:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sangbrand-utanfor-sala-nagon-har-tant-pa",
-   "desc": "Räddningstjänsten fick rycka ut och släcka en säng som brann utomhus i Salbohed väster om Sala. – Det var en säng som någon tänt eld på, uppger räddningstjänstens ledningsoperatör till SVT."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "När Sverige säljer svalka – Helsingfors säger nej till coolcation-marknadsföring",
-   "date": "2026-07-29T08:04:26.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/svenska/nar-sverige-saljer-svalka-helsingfors-sager-nej-till-coolcation-marknadsforing",
-   "desc": "Över 40 graders värme, torka och skogsbränder har plågat stora delar av Europa i sommar. Samtidigt marknadsför länder som Sverige och Norge sitt svalare klimat. Men Helsingfors väljer bort coolcation-konceptet – av etiska skäl, enligt stadens officiella turismorganisation."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Efter sprängdåden i Norrköping – nu väcks åtal mot fem personer",
-   "date": "2026-07-29T06:40:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/efter-sprangdaden-i-norrkoping-nu-vacks-atal-mot-fem-personer",
-   "desc": "Under onsdagen väcks åtal och bevistalan mot totalt fem personer efter två kraftiga sprängningar i Norrköping i november förra året. Bevistalan väcks även mot en 14-åring."
   },
   {
    "src": "STHLM",
