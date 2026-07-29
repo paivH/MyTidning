@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T12:27:59.316Z",
+ "updated": "2026-07-29T14:51:57.394Z",
  "items": [
   {
    "src": "BBC",
@@ -12,16 +12,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
-   "date": "2026-07-29T06:10:19.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
-   "desc": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-   "date": "2026-07-29T09:39:56.000Z",
+   "date": "2026-07-29T13:48:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
    "desc": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
   },
@@ -29,9 +21,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-   "date": "2026-07-29T11:42:05.000Z",
+   "date": "2026-07-29T14:27:13.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
    "desc": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+   "date": "2026-07-29T14:29:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+   "desc": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
   },
   {
    "src": "BBC",
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Trafikverket förbereder för högtryck – sänker hastigheten på flera järnvägssträckor",
+   "date": "2026-07-29T14:22:45.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikverket-forbereder-for-hogtryck-sanker-hastigheten-pa-flera-jarnvagsstrackor",
+   "desc": "Det väntas temperaturer på över 30 grader i södra och västra Sverige under torsdagen. Nu sänker Trafikverket sänker hastigheten på flera järnvägssträckor. – Det gör vi på Trafikverket för att minska risken för olyckor, säger Peter Jonsson, presskommunikatör, i ett pressmeddelande."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man försvunnen i Vidsel – helikopter och dykare utlarmade",
+   "date": "2026-07-29T13:54:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-forsvunnen-i-vidsel-helikopter-och-dykare-soker",
+   "desc": "En stor sökinsats pågår efter en försvunnen man i Vidsel, Älvsbyns kommun. Bland annat har polisens dykgrupp och helikopter larmats ut."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vildsvin förstörde trädgårdar i Strängnäs – nu ska fyra kultingar skjutas",
+   "date": "2026-07-29T13:50:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/vildsvin-forstorde-tradgardar-i-strangnas-nu-ska-fyra-kultingar-skjutas",
+   "desc": "Strängnäs kommun har fått in flera anmälningar gällande en grupp av unga vildsvin som förstör trädgårdar i Strängnäs. Under torsdagen ska de skjutas av kommunens jägare. – De kommer inte klara sig utan sin mamma, säger Mee Gripler, tillförordnad kommundirektör."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Utredning: Par misstänks ha lurat dödsbon på miljoner",
+   "date": "2026-07-29T12:57:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/utredning-par-misstanks-ha-lurat-dodsbon-pa-miljoner",
+   "desc": "En man och en kvinna som drivit en begravningsverksamhet i Norrbotten misstänks för grov förskingring. Mannen och kvinnan utreds för att under flera år ha tagit stora summor pengar från dödsbon. – Sammantaget rör det sig om flera miljoner, säger åklagaren Jonas Fjellström."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Clas bor på Lövön nära platsen för båtolyckan",
    "date": "2026-07-29T10:51:44.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/clas-bor-pa-lovon-nara-platsen-for-batolyckan",
    "desc": "Clas Darvik bor på Lövön i närheten av platsen där en fritidsbåt förliste efter en misstänkt krock med ett handelsfartyg under tisdagskvällen. – Det är väldigt otäckt. Jag åker här ute ganska ofta, det hade kunnat vara en själv, säger Clas Darvik."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Efter dödsmisshandeln i Köpenhamn – man fortsatt häktad",
-   "date": "2026-07-29T10:36:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-dodsmisshandeln-i-kopenhamn-man-fortsatt-haktad",
-   "desc": "Den man i 30-årsåldern som misstänks orsakat polismannen Christian Zedigs död omhäktades i dag i Köpenhamn. Han häktas i ytterligare fyra veckor."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lurades att tro att hon var brottsoffer – blev av med pengar",
-   "date": "2026-07-29T10:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/lurades-att-tro-att-hon-var-brottsoffer-blev-av-med-pengar",
-   "desc": "En äldre kvinna i Skärblacka lurades att tro att hon var utsatt för brott och blev i stället offer för ett bedrägeri. Nu varnar polisen för metoden."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Krock på väg 40 – tre personer drabbade",
-   "date": "2026-07-29T09:13:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikolycka-pa-vag-40-totalstopp-i-norrgaende-riktning",
-   "desc": "Två bilar krockade på väg 40 under förmiddagen. Vägen stängdes av i norrgående riktning men är nu öppen igen. Tre personer drabbades och en person fördes till sjukhus med ambulans."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Franske dj:n Kavinsky död",
-   "date": "2026-07-29T08:58:24.000Z",
-   "link": "https://www.svt.se/kultur/franske-djn-kavinksy-dod",
-   "desc": "Den franske DJ:n Kavinsky är död, uppger Le Parisien. Han blev 50 år."
+   "title": "35-åring hade över 300 kilo narkotika i hemmet – får 12 års fängelse",
+   "date": "2026-07-29T14:14:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/35-aring-hade-over-300-kilo-narkotika-i-hemmet-far-12-ars-fangelse",
+   "desc": "Mannen förvarade hundratals kilo narkotika i sin lägenhet i Solna. Nu döms han till 12 års fängelse, vilket Mitt i var först med att rapportera."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-28T08:32:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tonaringar-begars-haktade-efter-dodskjutningen-i-hasselby",
    "desc": "De tre personer som misstänks för dödsskjutningen i Hässelby i fredags har nu häktats. En av de häktade är en 15-årig pojke som misstänks för mord."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Ung man anhållen efter skottlossning i Upplands Väsby",
-   "date": "2026-07-28T04:01:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skottlossning-i-upplands-vasby-0jffmw",
-   "desc": "Skott har avfyrats mot en bostad i Upplands Väsby natten mot tisdag, skriver polisen på sin hemsida. En ung man greps för händelsen och sitter nu anhållen. Ingen ska ha skadats i skottlossningen."
   },
   {
    "src": "BBC",
