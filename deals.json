@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T06:18:24.623Z",
+ "updated": "2026-07-29T06:23:56.907Z",
  "verified": false,
  "deals": [
   {
@@ -9,34 +9,34 @@
    "url": "https://www.ica.se"
   },
   {
+   "store": "ICA",
+   "item": "Grillat kycklinglårfilé 900g",
+   "price": "49 kr",
+   "url": "https://www.ica.se"
+  },
+  {
    "store": "Lidl",
-   "item": "Grillkol 3kg",
-   "price": "39 kr",
+   "item": "Nötfärs 800g 12%",
+   "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
-   "store": "ICA",
-   "item": "Kycklingfilé färsk 1kg",
-   "price": "79 kr/kg",
-   "url": "https://www.ica.se"
+   "store": "Lidl",
+   "item": "Svensk lösviktsgurka",
+   "price": "12 kr/st",
+   "url": "https://www.lidl.se"
+  },
+  {
+   "store": "IKEA",
+   "item": "Glassbägare Sommarglass 500ml",
+   "price": "19 kr",
+   "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
    "item": "Utomhuskudde till loungemöbler",
    "price": "99 kr",
    "url": "https://www.rusta.com/se"
-  },
-  {
-   "store": "IKEA",
-   "item": "Glass Daim 1L",
-   "price": "29 kr",
-   "url": "https://www.ikea.com/se/sv/"
-  },
-  {
-   "store": "Lidl",
-   "item": "Svenska nektariner 1kg",
-   "price": "24 kr/kg",
-   "url": "https://www.lidl.se"
   }
  ]
 }
