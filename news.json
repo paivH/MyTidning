@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T21:28:30.130Z",
+ "updated": "2026-07-29T22:30:05.746Z",
  "items": [
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Four women accuse Jared Leto of criminal sexual conduct",
-   "date": "2026-07-29T17:04:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
+   "title": "Salman Rushdie attacker convicted of terror offenses",
+   "date": "2026-07-29T22:15:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rushdies attentatsman fälls för terrorbrott",
+   "date": "2026-07-29T21:30:14.000Z",
+   "link": "https://www.svt.se/kultur/rushdies-attentatsman-falls-for-terrorbrott",
+   "desc": "Den man som tidigare dömts för mordförsök på författaren Salman Rushdie döms nu även för terrorbrott."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-07-29T16:20:35.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/branden-hotar-bordeaux-men-vinodlarna-oroar-sig-mer-for-klimatet",
    "desc": "Frankrike är inne i årets fjärde värmebölja samtidigt som bränderna fortsätter att rasa strax utanför Bordaux – en region som är världskänd för sina viner. Men vinodlarna här oroar sig mer för klimatet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinna hittad i resväska i Grekland",
-   "date": "2026-07-29T16:17:01.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/kvinna-hittad-i-resvaska-i-grekland",
-   "desc": "En kropp har hittats i en resväska i Grekland, rapporterar BBC."
   },
   {
    "src": "STHLM",
