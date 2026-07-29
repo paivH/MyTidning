@@ -1,21 +1,21 @@
 {
- "updated": "2026-07-29T04:19:23.759Z",
+ "updated": "2026-07-29T07:17:13.438Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Watch: The moment quake hit Japan",
-   "date": "2026-07-28T15:32:37.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July."
+   "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+   "date": "2026-07-29T06:10:19.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
+   "desc": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran and US trade strikes, shattering brief lull in fighting",
-   "date": "2026-07-29T02:47:28.000Z",
+   "title": "Saudi Arabia joins US in strikes on Iran-backed militia",
+   "date": "2026-07-29T06:54:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-   "desc": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran."
+   "desc": "US Central Command says the proxy group launched attacks against US bases and Saudi energy infrastructure."
   },
   {
    "src": "BBC",
@@ -28,18 +28,42 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Four women accuse Jared Leto of criminal sexual conduct",
+   "date": "2026-07-29T05:00:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Trump administration bans new Chinese humanoid robots",
    "date": "2026-07-29T02:30:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
    "desc": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-   "date": "2026-07-28T16:14:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-   "desc": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter sprängdåden i Norrköping – nu väcks åtal mot fem personer",
+   "date": "2026-07-29T06:40:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/efter-sprangdaden-i-norrkoping-nu-vacks-atal-mot-fem-personer",
+   "desc": "Under onsdagen väcks åtal och bevistalan mot totalt fem personer efter två kraftiga sprängningar i Norrköping i november förra året. Bevistalan väcks även mot en 14-åring."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Förseningar i tågtrafiken efter urspårning i Gnesta",
+   "date": "2026-07-29T06:25:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/forseningar-i-tagtrafiken-efter-ursparning-i-gnesta",
+   "desc": "Ett arbetsfordon har spårat ur i Gnesta – vilket leder till förseningar i tågtrafiken bland annat mellan Stockholm och Göteborg. I nuläget saknas prognos för när fordonet ska bärgas."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Undersköterska slagen på äldreboende – bröt revben",
+   "date": "2026-07-29T05:00:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/valdsamt-pa-aldreboende-personal-skadades",
+   "desc": "Ett äldreboende har anmält att en anställd skadats så svårt att ett revben bröts av, efter att en vårdtagare blivit våldsam."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-07-29T03:30:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/stinkande-jordhogar-utanfor-vasteras-nu-riskerar-foretagare-miljonvite",
    "desc": "Efter tips från allmänheten hittade miljöinspektörerna stora mängder avfall som inte hanterats rätt. Nu måste ägaren frakta bort massorna från marken utanför Västerås – annars hotar miljonvite."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Taltidning gör om – slår undan benen på Anita och Hjördis",
-   "date": "2026-07-29T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/taltidningen-gor-om-nu-bara-information-fran-regionen",
-   "desc": "I över 50 år har Anita Mäki från Luleå och Hjördis Lindström från Boden prenumererat på Norrbottens taltidning, som innehållit specialanpassade artiklar för synskadade. Från och med april innehåller den endast information om regionen. – Det är ingen taltidning för oss längre, säger Hjördis Lindström."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ny unik forskning från Umeå kring distansjobb – förbättrar arbetsmiljön: ”Trivs bättre”",
-   "date": "2026-07-29T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/ny-unik-forskning-fran-umea-kring-distansjobb-forbattrar-arbetsmiljon-trivs-battre",
-   "desc": "Att kombinera arbete på kontor och på distans förbättrar arbetsmiljön för tjänstemän och gör att det upplevs lättare att hinna med sina arbetsuppgifter. Detta visar en ny studie från Umeå universitet. – Arbetsupplevelsen har förbättrats. Man trivs bättre och ledarskapet upplevs mer tillgängligt, säger Caroline Corneliusson, doktorand vid Institutionen för epidemiologi och global hälsa vid Umeå universitet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Husbilsfebern sprider sig – nu tar ställplatserna slut i Värmland",
-   "date": "2026-07-29T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/husbilsfebern-sprider-sig-nu-tar-stallplatserna-slut-i-varmland",
-   "desc": "Antalet husbilar som nyregistreras i Sverige har mer än fördubblats på två år – en trend som även syns i resten av Europa. Ställplatserna växer däremot inte i samma takt. På en plats i Kristinehamn får man neka upp till 50 husbilar per dag. – Men det spelar ingen roll var du tittar idag, det är fullt överallt, säger ställplatsägaren Tommy Gustafsson."
   },
   {
    "src": "STHLM",
