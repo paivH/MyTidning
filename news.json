@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-29T17:46:31.481Z",
+ "updated": "2026-07-29T19:09:10.299Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+   "date": "2026-07-29T18:41:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -28,26 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-   "date": "2026-07-29T13:48:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-   "desc": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
-   "date": "2026-07-29T16:49:06.000Z",
+   "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+   "date": "2026-07-29T17:58:42.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
    "desc": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "USA:s centralbank Fed lämnar besked om styrräntan",
+   "title": "Fed lämnar styrräntan oförändrad igen",
    "date": "2026-07-29T17:37:48.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/usas-centralbank-fed-lamnar-besked-om-styrrantan",
-   "desc": "Den nya chefen för USA:s centralbank Federal Reserve, Kevin Warsh, lämnar under onsdagskvällen svensk tid besked om styrräntan. – Ovanligt oförutsägbart, säger SEB:s seniorekonom Robert Bergqvist inför beskedet. SVT sänder live med anledning av beskedet."
+   "desc": "USA:s centralbank Federal reserve lämnar återigen den amerikanska styrräntan oförändrad i intervallet 3,50–3,75 procent."
   },
   {
    "src": "SVT",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 29 juli",
+   "date": "2026-07-29T18:00:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-29-juli-1fxm62",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under onsdagen den 29 juli."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "35-åring hade över 300 kilo narkotika i hemmet – får 12 års fängelse",
    "date": "2026-07-29T14:14:34.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/35-aring-hade-over-300-kilo-narkotika-i-hemmet-far-12-ars-fangelse",
@@ -112,14 +120,6 @@
    "date": "2026-07-28T18:02:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-28-juli-n9s0ml",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under tisdagen den 28 juli."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "15-åring häktas – misstänks för dödskjutningen i Hässelby",
-   "date": "2026-07-28T08:32:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tonaringar-begars-haktade-efter-dodskjutningen-i-hasselby",
-   "desc": "De tre personer som misstänks för dödsskjutningen i Hässelby i fredags har nu häktats. En av de häktade är en 15-årig pojke som misstänks för mord."
   },
   {
    "src": "BBC",
