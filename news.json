@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T16:24:09.620Z",
+ "updated": "2026-07-30T17:55:58.849Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-   "date": "2026-07-29T18:41:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-   "desc": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
+   "title": "Why limited war with the US may suit Iran better than peace",
+   "date": "2026-07-30T17:26:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+   "desc": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+   "date": "2026-07-30T17:19:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+   "desc": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene."
   },
   {
    "src": "BBC",
@@ -28,14 +36,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-   "date": "2026-07-30T16:04:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-   "desc": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
    "date": "2026-07-30T15:20:19.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
@@ -44,10 +44,26 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Larm om skottlossning var duvjakt",
+   "date": "2026-07-30T17:31:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/larm-om-skottlossning-var-duvjakt",
+   "desc": "Polisen larmades på torsdagseftermiddagen till en adress i Varberg efter att en boende hört smällar i närheten av bostaden. Det visar sig att två personer jagat duva i närheten."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Volontären Oscar: ”Jag måste skydda mitt land”",
+   "date": "2026-07-30T16:32:28.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/volontaren-oscar-jag-maste-skydda-mitt-land",
+   "desc": "Tusentals brandmän arbetar med att släcka den stora skogsbranden som härjat i Frankrike i över en vecka. Till sin hjälp har de ett helt nätverk av volontärer som förser deras släckfordon med vatten."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Tusentals korsar Spaniens gräns – begär nödläge",
    "date": "2026-07-30T14:26:58.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/tusentals-korsar-spaniens-grans-begar-nodlage",
-   "desc": "Tusentals springer över gränsen från Marocko över till den spanska exklaven Ceuta, rapporterar AP. Myndigheterna i exklaven har ombett regeringen i Madrid att utlysa ett nödtillstånd – och skicka in militären."
+   "desc": "Tusentals springer över gränsen från Marocko till den spanska exklaven Ceuta. Spanien skickar nu in militär till exklaven, rapporterar Reuters."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-07-30T13:38:42.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/vitmalade-spar-i-alvik-ska-forhindra-olyckor-orsakade-av-varmen",
    "desc": "För att undvika att värmen orsakar problem i kollektivtrafiken i Stockholm har tågrälsen målats med vit färg vid Alvik."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Båtbrand på Vättern – en person simmade in till land",
-   "date": "2026-07-30T12:39:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/brand-pa-bat-i-vattern",
-   "desc": "Räddningstjänsten larmades till en båtolycka på Vätten under torsdagseftermiddagen. Båten hade fattat eld och föraren fick simma in till land. – Min uppfattning är att den har börjat brinna under färd, säger Tobias Arvåsen, räddningsledare."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Skogsbrand vid Södra Örsjön",
-   "date": "2026-07-30T12:28:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/larm-om-skogsbrand-om4eaz",
-   "desc": "Sju enheter skickades till ett område vid Södra Örsjön efter larm om en skogsbrand på torsdagseftermiddagen."
   },
   {
    "src": "STHLM",
