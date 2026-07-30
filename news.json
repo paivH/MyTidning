@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-30T07:53:39.582Z",
+ "updated": "2026-07-30T10:21:26.312Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-   "date": "2026-07-30T05:36:27.000Z",
+   "date": "2026-07-30T08:42:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
    "desc": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
   },
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+   "date": "2026-07-30T09:56:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
    "date": "2026-07-30T01:53:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
@@ -28,26 +36,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-   "date": "2026-07-29T16:49:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-   "desc": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-   "date": "2026-07-29T20:21:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-   "desc": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day."
+   "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+   "date": "2026-07-30T09:34:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
+   "desc": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna hittad död efter båtolyckan utanför Marstrand",
+   "title": "Äventyraren Lina gick sorgevandring – då klev gatuhunden Sam in i hennes liv",
+   "date": "2026-07-30T09:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/aventyraren-lina-gick-sorgevandring-da-klev-gatuhunden-sam-in-i-hennes-liv",
+   "desc": "Äventyraren Lina Hallebratt åkte till Nordmakedonien för att vandra Sammianatrail, tyngd av sorgen efter sin hund Bounty som gått bort. Under vandringen dök gatuhunden Sam upp och nu har han fått flytta med henne hem till Högåsen i Krokoms kommun."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polis utreder misstänkt människohandel utanför Burträsk",
+   "date": "2026-07-30T09:28:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polis-utreder-misstankt-manniskohandel-utanfor-burtrask",
+   "desc": "Polisen i Västerbotten utreder misstänkt människoexploatering efter ett larm om bilbrand utanför Burträsk, natten till onsdag."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Campingens prideflagga nedsågad – igen",
+   "date": "2026-07-30T08:10:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/campingens-prideflagga-nedsagad-igen",
+   "desc": "En regnbågsfärgad flaggstång med en prideflagga har vandaliserats på en camping på norra Öland. – Jag ser det som djupt tragiskt att man ens gör detta, säger campingens ägare Fredrik Fredriksson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kvinna hittad död efter båtolyckan utanför Tjörn",
    "date": "2026-07-30T07:31:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/kvinna-hittad-dod-efter-batolyckan-utanfor-marstrand",
-   "desc": "Den saknade kvinnan har hittats död efter båtolyckan utanför Marstrand – polisen har underrättat anhöriga. – Jag kan inte gå in på några vidare detaljer, säger polisens presstalesperson Tamara Fuentes."
+   "desc": "Den saknade kvinnan har hittats död efter båtolyckan utanför Tjörn. Sökinsatsen efter dottern fortsätter. – Jag kan inte gå in på några vidare detaljer, säger polisens presstalesperson Tamara Fuentes."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-07-30T03:30:09.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/skogbranden-i-vastmanland-2014-blev-en-vackarklocka-for-sveriges-beredskap",
    "desc": "Bränderna som nu rasar i Frankrike och Spanien väcker minnen av den stora skogsbranden i Västmanland sommaren 2014. Katastrofen som blev en vändpunkt och ledde till en omfattande omgörning av Sveriges skogsbrandsberedskap. – Vi har en större förmåga att se riskerna i förväg. I dag sätter vi också in mer resurser redan i början av en händelse, säger Tobias Erdsjö."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Trots konkursen – här sitter skyltarna kvar efter Northvolt i Skellefteå",
-   "date": "2026-07-30T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/trots-konkursen-har-sitter-skyltarna-kvar-efter-northvolt-i-skelleftea",
-   "desc": "I Skellefteå sitter det fortfarande uppe Northvoltskyltar på E4 och lokalvägar – trots att det gått närmare 1,5 år sedan konkursen. Kommunen hoppas att Lyten ska sätta upp nya. – Vi väntar in om de vill skylta om, säger Sara Keisu-Lundh (S), ordförande för samhällsbyggnadsnämnden."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Skördetid väntar på Värmlandsnäs: ”Normalskörd”",
-   "date": "2026-07-30T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/skordetid-vantar-pa-varmlandsnas-normalskord",
-   "desc": "Vid Åhs säteri på Värmlandsnäs räknar man ner dagarna tills det är dags att börja skörda grödorna. – Det är jättekul, säger Evald Harding Kullander, 21. I år väntas spannmålsskörden blir mer normal och inte i närheten av förra årets rekordvolymer."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "MCF: God brandberedskap trots utlånade vattenbombare",
-   "date": "2026-07-30T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/mcf-god-brandberedskap-trots-utlanade-vattenbombare",
-   "desc": "Två vattenskopande flygplan är utlånade till Frankrike och de sista två kan snart vara på väg ner. Men enligt Myndigheten för civilt försvar är beredskapen ändå god här hemma."
   },
   {
    "src": "STHLM",
