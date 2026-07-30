@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T14:40:50.078Z",
+ "updated": "2026-07-30T16:24:09.620Z",
  "items": [
   {
    "src": "BBC",
@@ -21,23 +21,23 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-   "date": "2026-07-30T13:38:50.000Z",
+   "date": "2026-07-30T15:35:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
    "desc": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Thousands evacuated in Crete as Europe battles wildfires",
-   "date": "2026-07-30T12:46:16.000Z",
+   "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+   "date": "2026-07-30T16:04:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
    "desc": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
-   "date": "2026-07-30T09:21:55.000Z",
+   "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
+   "date": "2026-07-30T15:20:19.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
    "desc": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
   },
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Beslutet: Ingen frukostöl på Stockholms barer",
+   "date": "2026-07-30T15:50:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/beslutet-ingen-frukostol-pa-stockholms-barer",
+   "desc": "Det blir ingen ölservering klockan åtta på morgonen i Stockholm. Miljöpartiet vände vid omröstningen och sa nej till förslaget om permanent nattservering – något som väckt kritik från oppositionen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Vitmålade spår i Alvik ska förhindra olyckor orsakade av värmen",
    "date": "2026-07-30T13:38:42.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/vitmalade-spar-i-alvik-ska-forhindra-olyckor-orsakade-av-varmen",
@@ -112,14 +120,6 @@
    "date": "2026-07-29T14:14:34.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/35-aring-hade-over-300-kilo-narkotika-i-hemmet-far-12-ars-fangelse",
    "desc": "Mannen förvarade hundratals kilo narkotika i sin lägenhet i Solna. Nu döms han till 12 års fängelse, vilket Mitt i var först med att rapportera."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "18-åring åtalas – planerade mord på yngre flicka",
-   "date": "2026-07-29T07:58:10.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/18-arig-pojke-atalas-planerade-mord-pa-15-arig-flicka",
-   "desc": "En 18-åring i Upplands Väsby åtalas efter att ha planerat att mörda en yngre flicka. Upprinnelsen till planerna ska vara att flickan blockerat honom på sociala medier. Det rapporterar Nyhetsbyrån Siren."
   },
   {
    "src": "BBC",
