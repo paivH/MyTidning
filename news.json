@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T17:55:58.849Z",
+ "updated": "2026-07-30T19:23:17.489Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "IFK Göteborg vidare i Conference League-kvalet trots dubbla straffmissar",
+   "date": "2026-07-30T19:07:00.000Z",
+   "link": "https://www.svt.se/sport/fotboll/ifk-goteborg-vidare-i-conference-league-kvalet-trots-dubbla-straffmissar",
+   "desc": "IFK Göteborg missade två straffar mot Levadia. Men Blåvitt lyckades till sist vinna dubbelmötet i Conference League-kvalet efter att ha avgjort i förlängning."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Trafikolycka på E18 – fem fordon inblandade",
+   "date": "2026-07-30T18:04:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/trafikolycka-pa-e18-fem-fordon-inblandade",
+   "desc": "En trafikolycka inträffade i höjd med Gruvön på E18 strax före klockan 19. Två lastbilar och tre personbilar var inblandade i krocken."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Larm om skottlossning var duvjakt",
    "date": "2026-07-30T17:31:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/halland/larm-om-skottlossning-var-duvjakt",
@@ -60,26 +76,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tusentals korsar Spaniens gräns – begär nödläge",
+   "title": "Tusentals har korsat gräns till spansk exklav",
    "date": "2026-07-30T14:26:58.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/tusentals-korsar-spaniens-grans-begar-nodlage",
-   "desc": "Tusentals springer över gränsen från Marocko till den spanska exklaven Ceuta. Spanien skickar nu in militär till exklaven, rapporterar Reuters."
+   "desc": "Tusentals har korsat gränsen från Marocko till den spanska exklaven Ceuta på torsdagen. Enligt spanska medier har flera personer dött när de försökt simma över gränsen. Spanien förstärker nu med militär till exklaven, rapporterar Reuters."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Joel, 6, upptäckte branden i Skinnskatteberg – larmade pappa",
-   "date": "2026-07-30T14:23:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/joel-6-upptackte-branden-i-skinnskatteberg-larmade-pappa",
-   "desc": "Vid lunch startade en brand på en udde i skogen utanför Stjärnvik nordöst om Skinnskatteberg, det blev snabbt en yta på 100 kvadratmeter med öppna lågor. Joel Savander, 6, var alldeles i närheten och såg röken: – Då sa jag till pappa: ”Det är en skogsbrand”."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Vitmålade spår i Alvik ska förhindra olyckor orsakade av värmen",
-   "date": "2026-07-30T13:38:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vitmalade-spar-i-alvik-ska-forhindra-olyckor-orsakade-av-varmen",
-   "desc": "För att undvika att värmen orsakar problem i kollektivtrafiken i Stockholm har tågrälsen målats med vit färg vid Alvik."
+   "title": "Nyheter från dagen: 30 juli",
+   "date": "2026-07-30T19:00:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-30-juli-ykd1wc",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdagen den 30 juli."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under onsdagen den 29 juli."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "35-åring hade över 300 kilo narkotika i hemmet – får 12 års fängelse",
-   "date": "2026-07-29T14:14:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/35-aring-hade-over-300-kilo-narkotika-i-hemmet-far-12-ars-fangelse",
-   "desc": "Mannen förvarade hundratals kilo narkotika i sin lägenhet i Solna. Nu döms han till 12 års fängelse, vilket Mitt i var först med att rapportera."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-07-30T18:48:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p1t1zq?at_medium=RSS&at_campaign=rss",
+   "desc": "Fraizer Campbell and United fans have their say on Mason Mount and the midfield revamp."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-07-27T16:27:59.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p146t9?at_medium=RSS&at_campaign=rss",
    "desc": "Mason Mount reflects on Friday's 5-0 friendly win over Rosenborg in Trondheim."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-07-27T12:03:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p12q6q?at_medium=RSS&at_campaign=rss",
-   "desc": "Joe and Gaz discuss the pre-season win over Rosenborg and season ticket restrictions."
   }
  ]
 }
