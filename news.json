@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-30T02:02:25.551Z",
+ "updated": "2026-07-30T05:23:11.954Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+   "date": "2026-07-30T03:33:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,14 +28,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-   "date": "2026-07-29T20:21:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-   "desc": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
    "date": "2026-07-29T16:49:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
@@ -36,10 +36,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Salman Rushdie attacker convicted of terror offences",
-   "date": "2026-07-29T22:15:33.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author."
+   "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+   "date": "2026-07-29T20:21:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+   "desc": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Skogsbranden i Västmanland 2014 blev en väckarklocka för Sveriges beredskap",
+   "date": "2026-07-30T03:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/skogbranden-i-vastmanland-2014-blev-en-vackarklocka-for-sveriges-beredskap",
+   "desc": "Bränderna som nu rasar i Frankrike och Spanien väcker minnen av den stora skogsbranden i Västmanland sommaren 2014. Katastrofen som blev en vändpunkt och ledde till en omfattande omgörning av Sveriges skogsbrandsberedskap. – Vi har en större förmåga att se riskerna i förväg. I dag sätter vi också in mer resurser redan i början av en händelse, säger Tobias Erdsjö."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Trots konkursen – här sitter skyltarna kvar efter Northvolt i Skellefteå",
+   "date": "2026-07-30T03:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/trots-konkursen-har-sitter-skyltarna-kvar-efter-northvolt-i-skelleftea",
+   "desc": "I Skellefteå sitter det fortfarande uppe Northvoltskyltar på E4 och lokalvägar – trots att det gått närmare 1,5 år sedan konkursen. Kommunen hoppas att Lyten ska sätta upp nya. – Vi väntar in om de vill skylta om, säger Sara Keisu-Lundh (S), ordförande för samhällsbyggnadsnämnden."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Skördetid väntar på Värmlandsnäs: ”Normalskörd”",
+   "date": "2026-07-30T03:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/skordetid-vantar-pa-varmlandsnas-normalskord",
+   "desc": "Vid Åhs säteri på Värmlandsnäs räknar man ner dagarna tills det är dags att börja skörda grödorna. – Det är jättekul, säger Evald Harding Kullander, 21. I år väntas spannmålsskörden blir mer normal och inte i närheten av förra årets rekordvolymer."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "MCF: God brandberedskap trots utlånade vattenbombare",
+   "date": "2026-07-30T03:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/mcf-god-brandberedskap-trots-utlanade-vattenbombare",
+   "desc": "Två vattenskopande flygplan är utlånade till Frankrike och de sista två kan snart vara på väg ner. Men enligt Myndigheten för civilt försvar är beredskapen ändå god här hemma."
   },
   {
    "src": "SVT",
@@ -50,36 +82,12 @@
    "desc": "Den man som tidigare dömts för mordförsök på författaren Salman Rushdie döms nu även för terrorbrott."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Fed lämnar styrräntan oförändrad igen",
-   "date": "2026-07-29T17:37:48.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/usas-centralbank-fed-lamnar-besked-om-styrrantan",
-   "desc": "USA:s centralbank Federal reserve lämnar återigen den amerikanska styrräntan oförändrad i intervallet 3,50–3,75 procent."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Uppgift: Amerikanskt gasfartyg träffat av drönare",
-   "date": "2026-07-29T17:25:48.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/uppgift-amerikanskt-gasfartyg-traffat-av-dronare",
-   "desc": "Ett amerikanskt lastfartyg som fraktar flytande naturgas har träffats av en drönare och började då brinna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tromb trasade sönder delar av Tärendö – se förödelsen",
-   "date": "2026-07-29T17:13:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/tromb-trasade-sonder-delar-av-tarendo-se-forodelsen",
-   "desc": "Under tisdagen drog en tromb in efter Kalixälven och fällde hundratals träd. Flera stugor, båtar och mindre byggnader har skadats av virvelvindens framfart. – Hade man suttit på dass så hade man nog gått på toa två gånger, säger Tobias Pekkari."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Branden hotar Bordeaux – men vinodlarna oroar sig mer för klimatet",
-   "date": "2026-07-29T16:20:35.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/branden-hotar-bordeaux-men-vinodlarna-oroar-sig-mer-for-klimatet",
-   "desc": "Frankrike är inne i årets fjärde värmebölja samtidigt som bränderna fortsätter att rasa strax utanför Bordaux – en region som är världskänd för sina viner. Men vinodlarna här oroar sig mer för klimatet."
+   "title": "Frans och Lars dömdes för sin kärlek – nu kan dömda homosexuella få upprättelse",
+   "date": "2026-07-30T03:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/frans-och-lars-domdes-for-sin-karlek-nu-kan-domda-homosexuella-fa-upprattelse",
+   "desc": "Fram till år 1944 var det olagligt att ha homosexuella relationer i Sverige. Nu kommer ett nytt politiskt förslag om att ge postum upprättelse åt dem som dömts för att älska någon med samma kön. – Det blir en möjlighet att belysa den utsattheten som hbtqi-personer har haft både historisk och fram till idag, säger Elias Fjellander, förbundsordförande i RFSL Ungdom."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-29T03:30:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/hatstorm-mot-politiker-pa-grund-av-klanning",
    "desc": "”Du är psykiskt sjuk”. ”Freak”. ”Dags du söker hjälp”. Det är några av de hundratals kommentarer som rasat in på lokalpolitikern Henrik Juhlins sociala medier. Anledningen? Att han bär klänning. – Det är en liten grupp som verkligen avskyr det här och gör allt för att mota det."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 28 juli",
-   "date": "2026-07-28T18:02:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-28-juli-n9s0ml",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under tisdagen den 28 juli."
   },
   {
    "src": "BBC",
