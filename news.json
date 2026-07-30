@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-30T05:23:11.954Z",
+ "updated": "2026-07-30T07:53:39.582Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-   "date": "2026-07-30T03:33:01.000Z",
+   "date": "2026-07-30T05:36:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday."
+   "desc": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
   },
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Kvinna hittad död efter båtolyckan utanför Marstrand",
+   "date": "2026-07-30T07:31:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/kvinna-hittad-dod-efter-batolyckan-utanfor-marstrand",
+   "desc": "Den saknade kvinnan har hittats död efter båtolyckan utanför Marstrand – polisen har underrättat anhöriga. – Jag kan inte gå in på några vidare detaljer, säger polisens presstalesperson Tamara Fuentes."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Skogsbranden i Västmanland 2014 blev en väckarklocka för Sveriges beredskap",
    "date": "2026-07-30T03:30:09.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/skogbranden-i-vastmanland-2014-blev-en-vackarklocka-for-sveriges-beredskap",
@@ -74,20 +82,12 @@
    "desc": "Två vattenskopande flygplan är utlånade till Frankrike och de sista två kan snart vara på väg ner. Men enligt Myndigheten för civilt försvar är beredskapen ändå god här hemma."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Rushdies attentatsman fälls för terrorbrott",
-   "date": "2026-07-29T21:30:14.000Z",
-   "link": "https://www.svt.se/kultur/rushdies-attentatsman-falls-for-terrorbrott",
-   "desc": "Den man som tidigare dömts för mordförsök på författaren Salman Rushdie döms nu även för terrorbrott."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Frans och Lars dömdes för sin kärlek – nu kan dömda homosexuella få upprättelse",
    "date": "2026-07-30T03:30:09.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/frans-och-lars-domdes-for-sin-karlek-nu-kan-domda-homosexuella-fa-upprattelse",
-   "desc": "Fram till år 1944 var det olagligt att ha homosexuella relationer i Sverige. Nu kommer ett nytt politiskt förslag om att ge postum upprättelse åt dem som dömts för att älska någon med samma kön. – Det blir en möjlighet att belysa den utsattheten som hbtqi-personer har haft både historisk och fram till idag, säger Elias Fjellander, förbundsordförande i RFSL Ungdom."
+   "desc": "Fram till år 1944 var det olagligt att ha homosexuella relationer i Sverige. Nu kommer ett nytt politiskt förslag om att ge postum upprättelse åt dem som dömts för att älska någon med samma kön. – Det blir en möjlighet att belysa den utsattheten som hbtqi-personer har haft både historiskt och fram till idag, säger Elias Fjellander, förbundsordförande i RFSL Ungdom."
   },
   {
    "src": "STHLM",
