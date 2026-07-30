@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-30T19:23:17.489Z",
+ "updated": "2026-07-30T20:41:31.508Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Uefa to boycott World Cups if Fifa plans approved",
+   "date": "2026-07-30T16:47:40.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+   "desc": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -32,14 +40,6 @@
    "date": "2026-07-30T15:35:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
    "desc": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-   "date": "2026-07-30T15:20:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-   "desc": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
   },
   {
    "src": "SVT",
@@ -79,7 +79,15 @@
    "title": "Tusentals har korsat gräns till spansk exklav",
    "date": "2026-07-30T14:26:58.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/tusentals-korsar-spaniens-grans-begar-nodlage",
-   "desc": "Tusentals har korsat gränsen från Marocko till den spanska exklaven Ceuta på torsdagen. Enligt spanska medier har flera personer dött när de försökt simma över gränsen. Spanien förstärker nu med militär till exklaven, rapporterar Reuters."
+   "desc": "Tusentals har korsat gränsen från Marocko till den spanska exklaven Ceuta. Enligt spanska medier har flera personer dött när de försökt simma över gränsen. Spanien förstärker nu med militär till exklaven, rapporterar Reuters."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Här invigs Prides nya festivalområde i Slakthusområdet",
+   "date": "2026-07-30T20:20:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-invigs-prides-nya-festivalomrade-i-slakthusomradet",
+   "desc": "På torsdagskvällen invigdes Stockholm Pride sitt nya festivalområde i Slakthusområdet i södra Stockholm. – Vi var på Östermalms IP i 13 år. Det känns som att folk ville ha något nytt, säger festivalledaren Måns Axelsson."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-30T03:30:09.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/frans-och-lars-domdes-for-sin-karlek-nu-kan-domda-homosexuella-fa-upprattelse",
    "desc": "Fram till år 1944 var det olagligt att ha homosexuella relationer i Sverige. Nu kommer ett nytt politiskt förslag om att ge postum upprättelse åt dem som dömts för att älska någon med samma kön. – Det blir en möjlighet att belysa den utsattheten som hbtqi-personer har haft både historiskt och fram till idag, säger Elias Fjellander, förbundsordförande i RFSL Ungdom."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 29 juli",
-   "date": "2026-07-29T18:00:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-29-juli-1fxm62",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under onsdagen den 29 juli."
   },
   {
    "src": "BBC",
