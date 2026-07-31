@@ -1,13 +1,29 @@
 {
- "updated": "2026-07-30T23:32:04.724Z",
+ "updated": "2026-07-31T02:28:26.767Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
-   "date": "2026-07-30T23:30:41.000Z",
+   "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+   "date": "2026-07-31T01:48:36.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-   "desc": "Israel and Hamas have yet to comment on the announcement."
+   "desc": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+   "date": "2026-07-30T21:24:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+   "desc": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+   "date": "2026-07-31T00:52:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+   "desc": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan."
   },
   {
    "src": "BBC",
@@ -20,26 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-   "date": "2026-07-30T10:49:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-   "desc": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Why limited war with the US may suit Iran better than peace",
-   "date": "2026-07-30T17:26:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-   "date": "2026-07-30T21:24:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-   "desc": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene."
+   "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+   "date": "2026-07-31T01:31:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+   "desc": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
   },
   {
    "src": "SVT",
