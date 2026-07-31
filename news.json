@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-31T08:44:12.266Z",
+ "updated": "2026-07-31T11:27:13.727Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+   "date": "2026-07-31T11:14:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+   "desc": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,26 +28,50 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
-   "date": "2026-07-31T08:29:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-   "desc": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "AC Milan and Italy great Baresi dies aged 66",
-   "date": "2026-07-31T07:27:00.000Z",
+   "date": "2026-07-31T09:44:48.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
    "desc": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-   "date": "2026-07-31T05:21:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-   "desc": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth."
+   "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+   "date": "2026-07-31T10:32:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+   "desc": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter fem veckors spårarbete – nu öppnar pendeltågstrafiken till Södertälje igen",
+   "date": "2026-07-31T11:26:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/efter-fem-veckors-spararbete-nu-oppnar-pendeltagstrafiken-till-sodertalje-igen",
+   "desc": "På söndag morgon öppnar pendeltågstrafiken mellan Rönninge och Södertälje centrum igen. Detta efter fem veckor med ersättningsbussar för resenärerna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ökad turistström i Oxelösund efter seg sommarstart",
+   "date": "2026-07-31T10:13:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/okad-turiststrom-i-oxelosund-efter-seg-sommarstart",
+   "desc": "Många turister har lockats till Oxelösund i sommar – enligt Emil Viking som driver flera stora besöksmål i stan. Han har sett en ökning av turister både vid aktiviteter och i hamnen. Och en sak som förvånat honom är att ökningen även har skett de varmaste dagarna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Swedish candy-tillverkare satsar på nya marknader",
+   "date": "2026-07-31T10:10:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/swedish-candy-tillverkare-satsar-pa-nya-marknader",
+   "desc": "Godisjätten Orkla Snacks, som äger Bubs fabrik i Jönköping, köper den nederländska godistillverkaren The European Candy Group. Affären ska göra det möjligt att sälja Bubs på fler marknader."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Grannen: Tjuvar borrade upp låsen",
+   "date": "2026-07-31T09:37:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/grannen-tjuvar-borrade-upp-lasen",
+   "desc": "Det var ingen rolig syn som mötte de boende när de kom hem till lägenheterna på Köpmansgatan i Nässjö. Lådor var utdragna, saker låg utspridda och hemmen hade vänt upp och ner."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-07-31T08:31:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-paverkas-kollektivtrafiken-i-stockholm-av-prideparaden",
    "desc": "Under lördagen hålls årets prideparad i Stockholm. Runt 50 000 personer beräknas delta och cirka en halv miljon åskådare väntas längs Stockholms gator. Med anledning av det påverkas kollektivtrafiken."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Drunkningslarm i Tranås",
-   "date": "2026-07-31T07:38:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/drunkningslarm-i-tranas",
-   "desc": "Räddningstjänsten har fått in ett larm om drunkning vid Nissagölen nära Sommen i Tranås. Området har sökts av med drönare."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "En anhållen efter fartygsolycka utanför Tjörn",
-   "date": "2026-07-31T07:14:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/en-anhallen-efter-fartygsolycka-utanfor-tjorn",
-   "desc": "En person är anhållen efter den allvarliga fartygsolyckan utanför Tjörn. Enligt Åklagarmyndigheten har brottsmisstankar framkommit mot befälhavaren på det norska handelsfartyget."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinna höggs i halsen i Skellefteå – nu inleds rättegången",
-   "date": "2026-07-31T06:58:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/kvinna-hoggs-i-halsen-i-skelleftea-nu-inleds-rattegangen",
-   "desc": "I april blev en kvinna i Skellefteå huggen i halsen med en kniv – och avled senare på sjukhus. Under fredagen inleds rättegången mot den man i 35-årsåldern som är åtalad för mord."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Efter Tjörnolyckan: Svarta lådan säkrad",
-   "date": "2026-07-31T06:54:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/efter-tjornolyckan-svarta-ladan-sakrad",
-   "desc": "Statens Haverikommission har fått tillgång till den svarta lådan från lastfartyget som tros ha kolliderat med en fritidsbåt vid Tjörn. Ett fynd som kan bli viktigt i utredningen. – Det är självklart en förhoppning att hitta tillräckliga svar om kollisionen för att kunna dra en slutsats, säger Johan Albin, utredningsordförande vid Haverikommissionen."
   },
   {
    "src": "STHLM",
