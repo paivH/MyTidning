@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T20:17:10.216Z",
+ "updated": "2026-07-31T21:36:27.659Z",
  "items": [
   {
    "src": "BBC",
@@ -20,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-   "date": "2026-07-31T16:41:59.000Z",
+   "title": "Body of US climber the latest recovered after Pakistan avalanche",
+   "date": "2026-07-31T20:22:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear."
+   "desc": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-07-31T14:26:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
    "desc": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Space X-raket på väg att krocka med månen",
+   "date": "2026-07-31T21:08:47.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/space-x-raket-pa-vag-att-krocka-med-manen",
+   "desc": "En del av en rymdraket som sänts upp av Space X för över ett år sen är på väg att krascha in i månen."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-07-31T13:32:18.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/varmland/fritidshus-i-brand-i-edeback",
    "desc": "Det brinner i ett fritidshus i Edebäck, Hagfors kommun. Larmet kom strax före klockan 15 på fredagseftermiddagen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "18-åring sparkade sönder bilar för 130 000 kronor efter studentfest",
-   "date": "2026-07-31T12:42:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/18-aring-sparkade-sonder-bilar-for-130-000-kronor-efter-studentfest",
-   "desc": "En 18-åring hamnade i fyllecell efter en studentfest i Värnamo i vintras. Innan dess hann han sparka sönder två bilar som stod parkerade."
   },
   {
    "src": "STHLM",
