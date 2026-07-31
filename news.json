@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-31T15:36:29.932Z",
+ "updated": "2026-07-31T17:25:49.821Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-   "date": "2026-07-31T14:20:18.000Z",
+   "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+   "date": "2026-07-31T17:03:47.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco."
+   "desc": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain."
   },
   {
    "src": "BBC",
@@ -20,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "AC Milan and Italy great Baresi dies aged 66",
-   "date": "2026-07-31T09:44:48.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
-   "desc": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces."
+   "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+   "date": "2026-07-31T16:41:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-07-31T14:26:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
    "desc": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Därför ger grafen en missvisande bild av Europas bränder",
+   "date": "2026-07-31T15:49:31.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/darfor-ger-grafen-en-missvisande-bild-av-europas-brander",
+   "desc": "”Media visar bara när saker brinner och lämnar oss dåligt informerade om klimatförändringarna”. Det budskapet sprids just nu i olika varianter tillsammans med påståendet att Europa har brunnit mindre 2026 än något annat år 2012-2025. Men grafen som sprids som bevis utelämnar en avgörande detalj."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Natos europeiska medlemsländer följer nu Donald Trumps uppmaning och ökar sina försvarsutgifter. Beställningarna går dock inte längre i första hand till USA, utan nu satsar man på försvarsindustrin i de egna medlemsländerna. – Nu håller man Europa skyddat, och samtidigt skapar man jobb åt européer. Man köper inte längre från amerikanerna, utan behåller pengarna i Europa, säger den tidigare underrättelsechefen vid Finlands försvarsmakt."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Exporten av finländsk försvarsmateriel på rekordnivåer",
-   "date": "2026-07-31T12:10:27.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/svenska/exporten-av-finlandsk-forsvarsmateriel-pa-rekordnivaer",
-   "desc": "Efter Rysslands anfallskrig mot Ukraina har försvarsbeställningarna ökat kraftigt i Europa. Finland och Sverige pekas ut som nyckelländer, och exporten av finländsk försvarsmateriel nådde rekordnivåer förra året. Samtidigt hinner industrin inte bygga ut produktionen i samma takt som beställningarna kommer."
+   "title": "De firar Stockholm Pride i hundmask: ”Inte bara sex”",
+   "date": "2026-07-31T16:35:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/de-firar-stockholm-pride-i-hundmask-inte-bara-sex",
+   "desc": "De har kommit till Stockholm Pride från alla möjliga platser – människor utklädda till hussar och hundar. Varför gör dom det? Och handlar det bara om sex? Se hur de har picknick, går parad och hör svaret i videon ovan."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Stockholms stad har dragit in stödet till den ideella föreningen som driver kultur- och graffitiparken Snösätra. Detta för att verksamheten inte når upp till vissa kriterier. Nu väcker beskedet kritik och protester. – Staden borde stötta föreningar istället för att trycka ner, säger grundaren Mikael Rickman."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här invigs Prides nya festivalområde i Slakthusområdet",
-   "date": "2026-07-30T20:20:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-invigs-prides-nya-festivalomrade-i-slakthusomradet",
-   "desc": "På torsdagskvällen invigde Stockholm Pride sitt nya festivalområde i Slakthusområdet i södra Stockholm. – Vi var på Östermalms IP i 13 år. Det känns som att folk ville ha något nytt, säger festivalledaren Måns Axelsson."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-07-31T16:22:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p20nb9?at_medium=RSS&at_campaign=rss",
+   "desc": "Fraizer Campbell on United's attacking options and whether a new forward is a priority."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-07-28T08:00:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p13nqw?at_medium=RSS&at_campaign=rss",
    "desc": "Ex Man Utd defender Danny Simpson ahead of Michael Carrick's first full season in charge."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-07-27T16:27:59.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p146t9?at_medium=RSS&at_campaign=rss",
-   "desc": "Mason Mount reflects on Friday's 5-0 friendly win over Rosenborg in Trondheim."
   }
  ]
 }
