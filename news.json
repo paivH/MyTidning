@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T17:25:49.821Z",
+ "updated": "2026-07-31T18:52:39.587Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Totalstopp på E6 – två personbilar i krock",
+   "date": "2026-07-31T18:01:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/totalstopp-pa-e6-tva-personbilar-i-krock",
+   "desc": "Två personbilar har kolliderat och står just nu i ett dike vid sidan av E6, norrgående riktning, i höjd med Snapparp. Räddningstjänsten förmodar att det kommer vara köer på vägen under en längre tid eftersom bråte från bilarna ligger på vägbanan."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Därför ger grafen en missvisande bild av Europas bränder",
    "date": "2026-07-31T15:49:31.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/darfor-ger-grafen-en-missvisande-bild-av-europas-brander",
@@ -74,12 +82,20 @@
    "desc": "En 18-åring hamnade i fyllecell efter en studentfest i Värnamo i vintras. Innan dess hann han sparka sönder två bilar som stod parkerade."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Europa litar nu på sin egen försvarsindustri i stället för USA",
-   "date": "2026-07-31T12:10:48.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/svenska/europa-litar-nu-pa-sin-egen-forsvarsindustri-i-stallet-for-usa",
-   "desc": "Natos europeiska medlemsländer följer nu Donald Trumps uppmaning och ökar sina försvarsutgifter. Beställningarna går dock inte längre i första hand till USA, utan nu satsar man på försvarsindustrin i de egna medlemsländerna. – Nu håller man Europa skyddat, och samtidigt skapar man jobb åt européer. Man köper inte längre från amerikanerna, utan behåller pengarna i Europa, säger den tidigare underrättelsechefen vid Finlands försvarsmakt."
+   "title": "Fullt utvecklad brand i lada utanför Norrtälje",
+   "date": "2026-07-31T18:35:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fullt-utvecklad-brand-i-lada",
+   "desc": "Det brinner i en lada i Bergby utanför Norrtälje. – Det finns spridningsrisk både till terräng och närliggande byggnader, säger Marie Nordahl vid räddningstjänsten."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 31 juli",
+   "date": "2026-07-31T18:00:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-31-juli-e8sgnn",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 31 juli."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-07-31T13:50:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/drunkingslarm-pa-morko-person-ford-till-sjukhus",
    "desc": "Räddningstjänsten fick in larm om drunkning på Mörkö i Järna vid 15-tiden under fredagseftermiddagen. – En person har förts till sjukhus, säger Agneta Gustafsson, presstalesperson på SOS alarm."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Så påverkas kollektivtrafiken i Stockholm av prideparaden",
-   "date": "2026-07-31T08:31:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-paverkas-kollektivtrafiken-i-stockholm-av-prideparaden",
-   "desc": "Under lördagen hålls årets prideparad i Stockholm. Runt 50 000 personer beräknas delta och cirka en halv miljon åskådare väntas längs Stockholms gator. Med anledning av det påverkas kollektivtrafiken."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Graffitiparken i Snösätra stoppas efter tvist med kommunen",
-   "date": "2026-07-31T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/graffitiparken-i-snosatra-stoppas-efter-tvist-med-kommunen",
-   "desc": "Stockholms stad har dragit in stödet till den ideella föreningen som driver kultur- och graffitiparken Snösätra. Detta för att verksamheten inte når upp till vissa kriterier. Nu väcker beskedet kritik och protester. – Staden borde stötta föreningar istället för att trycka ner, säger grundaren Mikael Rickman."
   },
   {
    "src": "BBC",
