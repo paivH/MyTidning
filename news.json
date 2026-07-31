@@ -1,21 +1,21 @@
 {
- "updated": "2026-07-31T13:15:11.151Z",
+ "updated": "2026-07-31T15:36:29.932Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-   "date": "2026-07-31T13:04:04.000Z",
+   "date": "2026-07-31T14:20:18.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-   "desc": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600."
+   "desc": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-   "date": "2026-07-31T04:25:49.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-   "desc": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza."
+   "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+   "date": "2026-07-31T15:18:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+   "desc": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated."
   },
   {
    "src": "BBC",
@@ -36,10 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Fifa says 'nobody selling football' as plan continues",
-   "date": "2026-07-31T08:21:37.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-   "desc": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups."
+   "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+   "date": "2026-07-31T14:26:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Person förd till sjukhus efter garagebrand i Askersund",
+   "date": "2026-07-31T15:12:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/orebro/person-ford-till-sjukhus-efter-garagebrand-i-askersund",
+   "desc": "Under fredagseftermiddagen startade en brand i ett garage, precis intill ett bostadshus i Askersunds kommun."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fritidshus i brand i Edebäck",
+   "date": "2026-07-31T13:32:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/fritidshus-i-brand-i-edeback",
+   "desc": "Det brinner i ett fritidshus i Edebäck, Hagfors kommun. Larmet kom strax före klockan 15 på fredagseftermiddagen."
   },
   {
    "src": "SVT",
@@ -66,20 +82,20 @@
    "desc": "Efter Rysslands anfallskrig mot Ukraina har försvarsbeställningarna ökat kraftigt i Europa. Finland och Sverige pekas ut som nyckelländer, och exporten av finländsk försvarsmateriel nådde rekordnivåer förra året. Samtidigt hinner industrin inte bygga ut produktionen i samma takt som beställningarna kommer."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Dold rapport avslöjar: Flera allvarliga brister i Elsa-fallet",
-   "date": "2026-07-31T11:53:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/orebro/dold-rapport-avslojar-flera-allvarliga-brister-i-elsa-fallet",
-   "desc": "Örebro kommuns hantering av Elsafallet visar flera allvarliga brister enligt en extern granskning. Men rapporten diariefördes inte, kan SVT avslöja. Enligt granskningen uppfyllde kommunens hantering inte kraven på rättssäkerhet och barnrättsperspektiv."
+   "title": "Masskritik mot säkerheten på Stockholm Pride",
+   "date": "2026-07-31T14:38:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/masskritik-mot-sakerheten-pa-stockholm-pride",
+   "desc": "Under torsdagskvällen invigdes Stockholm Prides nya festivalområde i Slakthusområdet. Men redan efter första kvällen riktar många besökare skarp kritik mot säkerheten och vittnar om hur nödutgångar blockerades. ”Jag såg människor svimma precis bredvid mig och bäras ut”, skriver en besökare på sociala medier. ”Kändes som vi var boskap på väg till slakt”, skriver en annan."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Efter fem veckors spårarbete – nu öppnar pendeltågstrafiken till Södertälje igen",
-   "date": "2026-07-31T11:26:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/efter-fem-veckors-spararbete-nu-oppnar-pendeltagstrafiken-till-sodertalje-igen",
-   "desc": "På söndag morgon öppnar pendeltågstrafiken mellan Rönninge och Södertälje centrum igen. Detta efter fem veckor med ersättningsbussar för resenärerna."
+   "title": "Drunkingslarm på Mörkö – person förd till sjukhus",
+   "date": "2026-07-31T13:50:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/drunkingslarm-pa-morko-person-ford-till-sjukhus",
+   "desc": "Räddningstjänsten fick in larm om drunkning på Mörkö i Järna vid 15-tiden under fredagseftermiddagen. – En person har förts till sjukhus, säger Agneta Gustafsson, presstalesperson på SOS alarm."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-07-30T20:20:55.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-invigs-prides-nya-festivalomrade-i-slakthusomradet",
    "desc": "På torsdagskvällen invigde Stockholm Pride sitt nya festivalområde i Slakthusområdet i södra Stockholm. – Vi var på Östermalms IP i 13 år. Det känns som att folk ville ha något nytt, säger festivalledaren Måns Axelsson."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 30 juli",
-   "date": "2026-07-30T19:00:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-30-juli-ykd1wc",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdagen den 30 juli."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Beslutet: Ingen frukostöl på Stockholms barer",
-   "date": "2026-07-30T15:50:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/beslutet-ingen-frukostol-pa-stockholms-barer",
-   "desc": "Det blir ingen ölservering klockan åtta på morgonen i Stockholm. Miljöpartiet vände vid omröstningen och sa nej till förslaget om permanent nattservering – något som väckt kritik från oppositionen."
   },
   {
    "src": "BBC",
