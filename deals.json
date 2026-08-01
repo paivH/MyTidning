@@ -1,24 +1,18 @@
 {
- "updated": "2026-07-30T06:18:54.987Z",
+ "updated": "2026-08-01T06:20:22.368Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska jordgubbar 500g",
-   "price": "25 kr",
+   "item": "Svenska tomater i lösvikt",
+   "price": "24 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
-   "price": "59 kr",
+   "item": "Grillat fläskkarré",
+   "price": "79 kr/kg",
    "url": "https://www.ica.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Nötfärs 800g",
-   "price": "49 kr",
-   "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
@@ -27,15 +21,21 @@
    "url": "https://www.lidl.se"
   },
   {
+   "store": "Lidl",
+   "item": "Kycklingfilé 1kg",
+   "price": "69 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
    "store": "IKEA",
-   "item": "Glass Daim 500ml",
-   "price": "19 kr",
+   "item": "Glassbar 1L",
+   "price": "25 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utegrill kolmodell",
-   "price": "299 kr",
+   "item": "Utemöbelset i rotting",
+   "price": "899 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
