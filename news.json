@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T00:02:10.551Z",
+ "updated": "2026-08-01T03:59:34.539Z",
  "items": [
   {
    "src": "BBC",
@@ -28,8 +28,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-   "date": "2026-07-31T10:32:17.000Z",
+   "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+   "date": "2026-08-01T02:21:29.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
    "desc": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
   },
@@ -44,10 +44,34 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Anna, 34, från Ödeshög kan bli Sveriges bästa bussförare",
+   "date": "2026-08-01T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/anna-34-fran-odeshog-kan-bli-sveriges-basta-bussforare",
+   "desc": "Varje morgon ansvarar hon för att skolbarn i Mjölby kommer tryggt till skolan. Nu har Anna Ermanbrinks Larsson från Ödeshög tagit sig hela vägen till finalen i Bussförar-SM, där Sveriges skickligaste bussförare utses."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rädslan sitter kvar – tre år efter Stalker-dokumentären: ”Obehaglig känsla”",
+   "date": "2026-08-01T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/radslan-sitter-kvar-tre-ar-efter-stalker-dokumentaren-obehaglig-kansla",
+   "desc": "I flera års tid fick Felix Åkerlund, 32, från Skellefteå anonyma sms med hot och trakasserier – ovetande om att det var från hans bästa tjejkompis. Nu delar han med sig av sin historia och föreläser om tuffa tiden. – Det finns en stor okunskap kring vad det innebär att vara stalkad eller förföljd i dag, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Traktorsläp i Borlänge välte – flera till sjukhus",
+   "date": "2026-08-01T00:32:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/traktorslap-valte-flera-till-sjukhus",
+   "desc": "Ett traktorsläp med ungefär 20 personer på flaket har vält på väg 635 i Borlänge kommun."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Fifa backar – ska inte längre sälja VM-andelar",
    "date": "2026-07-31T23:55:28.000Z",
    "link": "https://www.svt.se/sport/fotboll/fifa-backar-ska-inte-langre-salja-vm-andelar",
-   "desc": "Internationella fotbollsförbundet Fifa drar tillbaka förslaget om privata investeringar, rapporterar nyhetsbyrån AFP."
+   "desc": "Fifa drar tillbaka förslaget om att sälja VM-andelar till riskkapitalbolag. Beskedet kommer efter att många förbund hotat att bojkotta mästerskapet."
   },
   {
    "src": "SVT",
@@ -58,28 +82,12 @@
    "desc": "En del av en rymdraket som sänts upp av Space X för över ett år sen är på väg att krascha in i månen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Två personbilar krockade på E6",
-   "date": "2026-07-31T18:01:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/halland/totalstopp-pa-e6-tva-personbilar-i-krock",
-   "desc": "Två personbilar kolliderade och hamnade sedan i diket vid sidan av E6 i höjd med Snapparp."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Därför ger grafen en missvisande bild av Europas bränder",
-   "date": "2026-07-31T15:49:31.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/darfor-ger-grafen-en-missvisande-bild-av-europas-brander",
-   "desc": "”Media visar bara när saker brinner och lämnar oss dåligt informerade om klimatförändringarna”. Det budskapet sprids just nu i olika varianter tillsammans med påståendet att Europa har brunnit mindre 2026 än något annat år 2012-2025. Men grafen som sprids som bevis utelämnar en avgörande detalj."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Person förd till sjukhus efter garagebrand i Askersund",
-   "date": "2026-07-31T15:12:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/orebro/person-ford-till-sjukhus-efter-garagebrand-i-askersund",
-   "desc": "Under fredagseftermiddagen startade en brand i ett garage, precis intill ett bostadshus i Askersunds kommun."
+   "title": "Kritiken mot Stockholm Pride: ”Representerar inte den jag är”",
+   "date": "2026-08-01T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kritiken-mot-stockholm-pride-representerar-inte-den-jag-ar",
+   "desc": "I helgen väntas tusentals delta i prideparaden som äger rum i centrala Stockholm. Men samtidigt möts evenemanget av kritik. I veckan samlades omkring 300 flator, queers och transpersoner på Medborgarplatsen i en årlig motdemonstration mot Stockholm Pride. – Det enda vi får från Stockholm Pride är pinkwashing, säger aktivisten Purity Tumukwasibwe."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-07-31T14:38:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/masskritik-mot-sakerheten-pa-stockholm-pride",
    "desc": "Under torsdagskvällen invigdes Stockholm Prides nya festivalområde i Slakthusområdet. Men redan efter första kvällen riktar många besökare skarp kritik mot säkerheten och vittnar om hur nödutgångar blockerades. ”Jag såg människor svimma precis bredvid mig och bäras ut”, skriver en besökare på sociala medier. ”Kändes som vi var boskap på väg till slakt”, skriver en annan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Drunkingslarm på Mörkö – person förd till sjukhus",
-   "date": "2026-07-31T13:50:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/drunkingslarm-pa-morko-person-ford-till-sjukhus",
-   "desc": "Räddningstjänsten fick in larm om drunkning på Mörkö i Järna vid 15-tiden under fredagseftermiddagen. – En person har förts till sjukhus, säger Agneta Gustafsson, presstalesperson på SOS alarm."
   },
   {
    "src": "BBC",
