@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T22:56:41.061Z",
+ "updated": "2026-08-01T00:02:10.551Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Fifa backar – ska inte längre sälja VM-andelar",
+   "date": "2026-07-31T23:55:28.000Z",
+   "link": "https://www.svt.se/sport/fotboll/fifa-backar-ska-inte-langre-salja-vm-andelar",
+   "desc": "Internationella fotbollsförbundet Fifa drar tillbaka förslaget om privata investeringar, rapporterar nyhetsbyrån AFP."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Space X-raket på väg att krocka med månen",
    "date": "2026-07-31T21:08:47.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/space-x-raket-pa-vag-att-krocka-med-manen",
@@ -72,14 +80,6 @@
    "date": "2026-07-31T15:12:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/orebro/person-ford-till-sjukhus-efter-garagebrand-i-askersund",
    "desc": "Under fredagseftermiddagen startade en brand i ett garage, precis intill ett bostadshus i Askersunds kommun."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fritidshus i brand i Edebäck",
-   "date": "2026-07-31T13:32:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/fritidshus-i-brand-i-edeback",
-   "desc": "Det brinner i ett fritidshus i Edebäck, Hagfors kommun. Larmet kom strax före klockan 15 på fredagseftermiddagen."
   },
   {
    "src": "STHLM",
