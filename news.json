@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-01T03:59:34.539Z",
+ "updated": "2026-08-01T06:36:47.509Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Fifa scraps controversial World Cup investment plan",
+   "date": "2026-08-01T05:42:31.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+   "desc": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,18 +20,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-   "date": "2026-07-31T15:18:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-   "desc": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated."
+   "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+   "date": "2026-08-01T05:01:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Body of US climber the latest recovered after Pakistan avalanche",
-   "date": "2026-07-31T20:22:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-   "desc": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing."
+   "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+   "date": "2026-08-01T04:06:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+   "desc": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
   },
   {
    "src": "BBC",
@@ -34,12 +42,20 @@
    "desc": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-   "date": "2026-07-31T14:26:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ett år efter nya könslagen – reformen fortsätter splittra Tidölaget",
+   "date": "2026-08-01T05:25:03.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ett-ar-efter-nya-konslagen-reformen-fortsatter-splittra-tidolaget",
+   "desc": "Runt 2 000 personer har ansökt om att ändra juridiskt kön sedan den nya könstillhörighetslagen trädde i kraft. Inom Tidösamarbetet råder delade meningar om lagen ska vara kvar efter valet. – Vi kommer att fortsätta kämpa för att ha den här lagstiftningen, säger L-ledaren Simona Mohamsson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Björnstam i norr inventeras",
+   "date": "2026-08-01T04:00:02.000Z",
+   "link": "https://www.svt.se/nyheter/sapmi/bjornstam-i-norr-inventeras",
+   "desc": "Den 1 augusti börjar årets björninventering i Norrbotten. Inventering av björnstammen sker vart femte år med hjälp av jägare och allmänhet som samlar in spillning."
   },
   {
    "src": "SVT",
@@ -63,23 +79,7 @@
    "title": "Traktorsläp i Borlänge välte – flera till sjukhus",
    "date": "2026-08-01T00:32:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/dalarna/traktorslap-valte-flera-till-sjukhus",
-   "desc": "Ett traktorsläp med ungefär 20 personer på flaket har vält på väg 635 i Borlänge kommun."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fifa backar – ska inte längre sälja VM-andelar",
-   "date": "2026-07-31T23:55:28.000Z",
-   "link": "https://www.svt.se/sport/fotboll/fifa-backar-ska-inte-langre-salja-vm-andelar",
-   "desc": "Fifa drar tillbaka förslaget om att sälja VM-andelar till riskkapitalbolag. Beskedet kommer efter att många förbund hotat att bojkotta mästerskapet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Space X-raket på väg att krocka med månen",
-   "date": "2026-07-31T21:08:47.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/space-x-raket-pa-vag-att-krocka-med-manen",
-   "desc": "En del av en rymdraket som sänts upp av Space X för över ett år sen är på väg att krascha in i månen."
+   "desc": "Under natten välte ett traktorsläp med ungefär 20 personer på flaket, på väg 635 i Borlänge kommun. Tio personer fördes till sjukhus, varav sex är lätt skadade och en svårt skadad, enligt Region Dalarna. – Sällskapet på flaket var på en gemensam festlighet, säger polisens presstalesperson Mats Öhman."
   },
   {
    "src": "STHLM",
@@ -87,7 +87,7 @@
    "title": "Kritiken mot Stockholm Pride: ”Representerar inte den jag är”",
    "date": "2026-08-01T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kritiken-mot-stockholm-pride-representerar-inte-den-jag-ar",
-   "desc": "I helgen väntas tusentals delta i prideparaden som äger rum i centrala Stockholm. Men samtidigt möts evenemanget av kritik. I veckan samlades omkring 300 flator, queers och transpersoner på Medborgarplatsen i en årlig motdemonstration mot Stockholm Pride. – Det enda vi får från Stockholm Pride är pinkwashing, säger aktivisten Purity Tumukwasibwe."
+   "desc": "I helgen väntas tusentals delta i prideparaden som äger rum i centrala Stockholm. Men samtidigt möts evenemanget av kritik. I veckan samlades omkring 400 flator, queers och transpersoner på Medborgarplatsen i en årlig motdemonstration mot Stockholm Pride. – Det enda vi får från Stockholm Pride är pinkwashing, säger aktivisten Purity Tumukwasibwe."
   },
   {
    "src": "STHLM",
