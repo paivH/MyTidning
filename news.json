@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T16:55:44.031Z",
+ "updated": "2026-08-01T17:58:18.585Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Call for 'full review' as pressure grows on Infantino",
-   "date": "2026-08-01T16:29:10.000Z",
+   "date": "2026-08-01T17:07:46.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
    "desc": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean."
   },
@@ -47,7 +47,7 @@
    "title": "Uppgifter: Gängtoppen gripen i Jonas Falks hus",
    "date": "2026-08-01T16:24:02.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/uppgifter-gangtoppen-gripen-i-jonas-falks-hus",
-   "desc": "Emin Muqa Kulic tillhör toppskiktet i Dalennätverket och har av polisen beskrivits som Mikael ”Greken” Tenezos högra hand. Nu har han enligt uppgift till SVT gripits av polis i Spanien. Gängmannen från Stockholm ska, enligt vad SVT erfar, ha gripits i ett hus som ägs av Jonas Falk, som för bara några dagar sedan dömdes till ett långt fängelsestraff för narkotikabrott."
+   "desc": "Emin Muqa Kulic tillhör toppskiktet i Dalennätverket och har av polisen beskrivits som Mikael ”Greken” Tenezos högra hand. Nu har han enligt uppgift till SVT gripits av polis i Spanien. Gängmannen ska, enligt vad SVT erfar, ha gripits i ett hus som var Jonas Falks bostad. Falk dömdes för bara några dagar sedan till ett långt fängelsestraff för narkotikabrott."
   },
   {
    "src": "SVT",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 1 augusti",
+   "date": "2026-08-01T17:33:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-1-augusti-dvjngw",
+   "desc": "Det här har vi på SVT Nyheter Stockholms län rapporterat om lördagen den 1 augusti."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Kritiken mot Stockholm Pride: ”Representerar inte den jag är”",
    "date": "2026-08-01T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kritiken-mot-stockholm-pride-representerar-inte-den-jag-ar",
@@ -112,14 +120,6 @@
    "date": "2026-07-31T16:35:22.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/de-firar-stockholm-pride-i-hundmask-inte-bara-sex",
    "desc": "De har kommit till Stockholm Pride från alla möjliga platser – människor utklädda till hussar och hundar. Varför gör dom det? Och handlar det bara om sex? Se hur de har picknick, går parad och hör svaret i videon ovan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Masskritik mot säkerheten på Stockholm Pride",
-   "date": "2026-07-31T14:38:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/masskritik-mot-sakerheten-pa-stockholm-pride",
-   "desc": "Under torsdagskvällen invigdes Stockholm Prides nya festivalområde i Slakthusområdet. Men redan efter första kvällen riktar många besökare skarp kritik mot säkerheten och vittnar om hur nödutgångar blockerades. ”Jag såg människor svimma precis bredvid mig och bäras ut”, skriver en besökare på sociala medier. ”Kändes som vi var boskap på väg till slakt”, skriver en annan."
   },
   {
    "src": "BBC",
