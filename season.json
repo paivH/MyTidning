@@ -1,21 +1,21 @@
 {
- "updated": "2026-07-31T06:28:11.200Z",
+ "updated": "2026-08-01T06:13:33.368Z",
  "items": [
   {
-   "ingredient": "bönor",
-   "idea": "Snabbinlagda bönor: koka 5 min, häll över 1:1:1 ättika, vatten, socker med senapsfrön, kyl en timme."
-  },
-  {
-   "ingredient": "chili",
-   "idea": "Fermentera chili i 2% saltlag en vecka, mixa till sriracha, låt smakerna djupna ytterligare."
+   "ingredient": "plommon",
+   "idea": "Snabbinlagda plommon i ättika, socker och vatten 1:1:1 med kryddnejlika, klara efter ett dygn i kylen."
   },
   {
    "ingredient": "kantareller",
-   "idea": "Snabbstek kantareller i smör med vitlök och timjan, servera på rostat surdegsbröd som vardagsmiddag."
+   "idea": "Stek kantareller i smör och vitlök, servera på nybakat surdegsbröd med lite salt och persilja."
   },
   {
-   "ingredient": "purjolök",
-   "idea": "Knåda tunt skivad purjolök i brödsdegen innan jäsning för en mild, len smaklimpa."
+   "ingredient": "kålrot",
+   "idea": "Syrad kålrot i 2% saltlake med dillfrön, låt fermentera på bänken i sju dagar."
+  },
+  {
+   "ingredient": "majs",
+   "idea": "Grillad majs med chilismör och lime, klart på tio minuter – snabb vardagsmiddag."
   }
  ]
 }
