@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-02T16:54:59.691Z",
+ "updated": "2026-08-02T17:59:08.888Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Helicopters fighting Greece wildfires collide in mid-air",
-   "date": "2026-08-02T15:21:56.000Z",
+   "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+   "date": "2026-08-02T17:30:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-   "desc": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames."
+   "desc": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
   },
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 2 augusti",
+   "date": "2026-08-02T17:47:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-2-augusti-6o1m5a",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 2 augusti."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Man gripen efter att ha brutit sig in i villa – flydde i kajak",
    "date": "2026-08-02T06:30:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-gripen-efter-att-brutit-sig-in-i-villa-flydde-i-kajak",
@@ -112,14 +120,6 @@
    "date": "2026-08-01T17:33:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-1-augusti-dvjngw",
    "desc": "Det här har vi på SVT Nyheter Stockholms län rapporterat om lördagen den 1 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kritiken mot Stockholm Pride: ”Representerar inte den jag är”",
-   "date": "2026-08-01T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kritiken-mot-stockholm-pride-representerar-inte-den-jag-ar",
-   "desc": "I helgen väntas tusentals delta i prideparaden som äger rum i centrala Stockholm. Men samtidigt möts evenemanget av kritik. I veckan samlades omkring 400 flator, queers och transpersoner på Medborgarplatsen i en årlig motdemonstration mot Stockholm Pride. – Det enda vi får från Stockholm Pride är pinkwashing, säger aktivisten Purity Tumukwasibwe."
   },
   {
    "src": "BBC",
