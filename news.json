@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-02T14:26:31.494Z",
+ "updated": "2026-08-02T15:37:42.692Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Helicopters fighting Greece wildfires collide in mid-air",
+   "date": "2026-08-02T15:21:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+   "desc": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,6 +16,14 @@
    "date": "2026-08-02T11:12:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
    "desc": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+   "date": "2026-08-02T15:02:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+   "desc": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah."
   },
   {
    "src": "BBC",
@@ -26,28 +42,12 @@
    "desc": "The vessel with at least 250 people on board caught fire off Madura island."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-   "date": "2026-08-01T23:03:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-   "date": "2026-08-01T22:23:20.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-   "desc": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?"
-  },
-  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Befälhavaren häktas efter båtolyckan utanför Tjörn",
    "date": "2026-08-02T13:11:55.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/befalhavaren-haktas-efter-batolyckan-utanfor-tjorn",
-   "desc": "Befälhavaren för det fartyg som var inbladat i båtolyckan utanför Tjörn häktas nu misstänkt för vållande till annans död. Mannen nekar till brott."
+   "desc": "Befälhavaren för det fartyg som var inblandat i båtolyckan utanför Tjörn häktas nu misstänkt för vållande till annans död. Mannen nekar till brott."
   },
   {
    "src": "SVT",
