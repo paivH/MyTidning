@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-02T04:51:54.339Z",
+ "updated": "2026-08-02T07:30:05.383Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-   "date": "2026-08-02T03:05:16.000Z",
+   "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+   "date": "2026-08-02T06:24:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend."
+   "desc": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed."
   },
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "En gripen misstänkt för mordbrand i Linköping",
+   "date": "2026-08-02T07:13:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/en-gripen-misstankt-for-mordbrand-i-linkoping",
+   "desc": "En man i 20-årsåldern greps nu på söndagsmorgonen misstänkt för att ha anlagt en brand i ett trapphus på Barnhemsgatan i centrala Linköping."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Milad kom från Syrien 2015 – nu är han polis i Sverige",
    "date": "2026-08-02T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/milad-kom-fran-syrien-2015-nu-ar-han-polis-i-sverige",
@@ -74,12 +82,12 @@
    "desc": "Tre män i 20-35-årsåldern är anhållna och misstänkta för flera brott efter en stor polisinsats i Åby, norr om Norrköping, under fredagskvällen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ett år efter nya könslagen – reformen fortsätter splittra Tidölaget",
-   "date": "2026-08-01T05:25:03.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ett-ar-efter-nya-konslagen-reformen-fortsatter-splittra-tidolaget",
-   "desc": "Runt 2 000 personer har ansökt om att ändra juridiskt kön sedan den nya könstillhörighetslagen trädde i kraft. Inom Tidösamarbetet råder delade meningar om lagen ska vara kvar efter valet. – Vi kommer att fortsätta kämpa för att ha den här lagstiftningen, säger L-ledaren Simona Mohamsson."
+   "title": "Man gripen efter att ha brutit sig in i villa – flydde i kajak",
+   "date": "2026-08-02T06:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-gripen-efter-att-brutit-sig-in-i-villa-flydde-i-kajak",
+   "desc": "Vid sjutiden på söndagsmorgonen larmades polisen till en villa i Huddinge, då en kvinna hade mött en okänd man i sitt hus. När hon konfronterade honom flydde han ut via en stege och sedan en kajak ut på sjön. – Vi omringade sjön med flera patruller och väntade ut honom, säger Ola Österling vid Stockholmspolisen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-01T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kritiken-mot-stockholm-pride-representerar-inte-den-jag-ar",
    "desc": "I helgen väntas tusentals delta i prideparaden som äger rum i centrala Stockholm. Men samtidigt möts evenemanget av kritik. I veckan samlades omkring 400 flator, queers och transpersoner på Medborgarplatsen i en årlig motdemonstration mot Stockholm Pride. – Det enda vi får från Stockholm Pride är pinkwashing, säger aktivisten Purity Tumukwasibwe."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Fullt utvecklad brand i lada utanför Norrtälje",
-   "date": "2026-07-31T18:35:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fullt-utvecklad-brand-i-lada",
-   "desc": "Det brinner i en lada i Bergby utanför Norrtälje. – Det finns spridningsrisk både till terräng och närliggande byggnader, säger Marie Nordahl vid räddningstjänsten."
   },
   {
    "src": "BBC",
