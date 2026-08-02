@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-02T01:07:48.359Z",
+ "updated": "2026-08-02T04:51:54.339Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+   "date": "2026-08-02T03:05:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,26 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Call for 'full review' as pressure grows on Infantino",
-   "date": "2026-08-01T17:07:46.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-   "desc": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Tourist plane crashes in Peru, killing 13",
-   "date": "2026-08-02T00:29:55.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-   "desc": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
    "date": "2026-08-01T23:03:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
    "desc": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "The Sopranos star Vincent Pastore dies aged 80",
+   "date": "2026-08-01T22:57:55.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+   "desc": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Milad kom från Syrien 2015 – nu är han polis i Sverige",
+   "date": "2026-08-02T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/milad-kom-fran-syrien-2015-nu-ar-han-polis-i-sverige",
+   "desc": "Den 20 juli började nio nya poliser jobba i Sörmland. En av dem är 29-åriga Milad Oskani, som kom till Sverige som flykting 2015. – Det är roligare än jag hade väntat mig, jag trivs jättebra, säger han."
   },
   {
    "src": "SVT",
@@ -74,12 +82,20 @@
    "desc": "Runt 2 000 personer har ansökt om att ändra juridiskt kön sedan den nya könstillhörighetslagen trädde i kraft. Inom Tidösamarbetet råder delade meningar om lagen ska vara kvar efter valet. – Vi kommer att fortsätta kämpa för att ha den här lagstiftningen, säger L-ledaren Simona Mohamsson."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Björnstam i norr inventeras",
-   "date": "2026-08-01T04:00:02.000Z",
-   "link": "https://www.svt.se/nyheter/sapmi/bjornstam-i-norr-inventeras",
-   "desc": "Den 1 augusti börjar årets björninventering i Norrbotten. Inventering av björnstammen sker vart femte år med hjälp av jägare och allmänhet som samlar in spillning."
+   "title": "Här är landets lägsta kommunskatt: ”Bevis på att det fungerar”",
+   "date": "2026-08-02T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-ar-landets-lagsta-kommunskatt-bevis-pa-att-det-fungerar",
+   "desc": "Österåkers kommun har sedan 2004 sänkt kommunskatten och har sedan 2019 har kommunen Sveriges lägsta. Men åsikterna om framtiden går isär. SVT har pratat med tre partier som går till val med tre olika löften om Sveriges lägsta kommunskatt."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Här dansar de på vattnet under Liljeholmsbron",
+   "date": "2026-08-02T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-dansar-de-pa-vattnet",
+   "desc": "Du kanske har hört eller sett dem, dansarna som håller till under Liljeholmsbron. På en ponton i vattnet har en kreativ mötesplats skapats, som ett sätt att levandegöra fler delar av staden."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-07-31T18:35:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/fullt-utvecklad-brand-i-lada",
    "desc": "Det brinner i en lada i Bergby utanför Norrtälje. – Det finns spridningsrisk både till terräng och närliggande byggnader, säger Marie Nordahl vid räddningstjänsten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 31 juli",
-   "date": "2026-07-31T18:00:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-31-juli-e8sgnn",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 31 juli."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "De firar Stockholm Pride i hundmask: ”Inte bara sex”",
-   "date": "2026-07-31T16:35:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/de-firar-stockholm-pride-i-hundmask-inte-bara-sex",
-   "desc": "De har kommit till Stockholm Pride från alla möjliga platser – människor utklädda till hussar och hundar. Varför gör dom det? Och handlar det bara om sex? Se hur de har picknick, går parad och hör svaret i videon ovan."
   },
   {
    "src": "BBC",
