@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T12:34:15.914Z",
+ "updated": "2026-08-02T14:26:31.494Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Befälhavaren häktas efter båtolyckan utanför Tjörn",
+   "date": "2026-08-02T13:11:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/befalhavaren-haktas-efter-batolyckan-utanfor-tjorn",
+   "desc": "Befälhavaren för det fartyg som var inbladat i båtolyckan utanför Tjörn häktas nu misstänkt för vållande till annans död. Mannen nekar till brott."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "En gripen misstänkt för mordbrand i Linköping",
    "date": "2026-08-02T07:13:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/en-gripen-misstankt-for-mordbrand-i-linkoping",
@@ -74,14 +82,6 @@
    "desc": "Virala klipp, unga världsstjärnor och tävlingar inför tusentals åskådare. Den norska sporten döds har vuxit snabbt – samtidigt pressas både höjderna och riskerna. – Tänk dig en trippel espresso och en kalldusch. Det är bra att vara lite galen, säger dödshopparen Viktor Jonsson."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt grovt vapenbrott – tre anhållna efter polisinsats i Åby utanför Norrköping",
-   "date": "2026-08-01T07:25:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-grovt-vapenbrott-tre-anhallna-efter-polisinsats-i-aby-utanfor-norrkoping",
-   "desc": "Tre män i 20-35-årsåldern är anhållna och misstänkta för flera brott efter en stor polisinsats i Åby, norr om Norrköping, under fredagskvällen."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Man gripen efter att ha brutit sig in i villa – flydde i kajak",
@@ -95,7 +95,7 @@
    "title": "Här är landets lägsta kommunskatt: ”Bevis på att det fungerar”",
    "date": "2026-08-02T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-ar-landets-lagsta-kommunskatt-bevis-pa-att-det-fungerar",
-   "desc": "Österåkers kommun har sedan 2004 sänkt kommunskatten och har sedan 2019 har kommunen Sveriges lägsta. Men åsikterna om framtiden går isär. SVT har pratat med tre partier som går till val med tre olika löften om Sveriges lägsta kommunskatt."
+   "desc": "Österåkers kommun har sedan 2004 sänkt kommunskatten och sedan 2019 har kommunen Sveriges lägsta. Men åsikterna om framtiden går isär. SVT har pratat med tre partier som går till val med tre olika löften om Sveriges lägsta kommunskatt."
   },
   {
    "src": "STHLM",
