@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-01T06:13:33.368Z",
+ "updated": "2026-08-02T06:16:44.699Z",
  "items": [
   {
-   "ingredient": "plommon",
-   "idea": "Snabbinlagda plommon i ättika, socker och vatten 1:1:1 med kryddnejlika, klara efter ett dygn i kylen."
+   "ingredient": "päron",
+   "idea": "Snabbsyra päronskivor i 1:1:1 ättika, socker, vatten med stjärnanis – klart på 20 minuter, gott till ost."
   },
   {
-   "ingredient": "kantareller",
-   "idea": "Stek kantareller i smör och vitlök, servera på nybakat surdegsbröd med lite salt och persilja."
-  },
-  {
-   "ingredient": "kålrot",
-   "idea": "Syrad kålrot i 2% saltlake med dillfrön, låt fermentera på bänken i sju dagar."
+   "ingredient": "grönkål",
+   "idea": "Fermentera grönkål med 2% salt i 5 dagar för en syrlig, krispig kimchi-liknande tillbehör till middagen."
   },
   {
    "ingredient": "majs",
-   "idea": "Grillad majs med chilismör och lime, klart på tio minuter – snabb vardagsmiddag."
+   "idea": "Baka snabbt majsbröd med stekta majskorn, vetemjöl och kärnmjölk – gyllene skorpa på 25 minuter i ugnen."
+  },
+  {
+   "ingredient": "chili",
+   "idea": "Wokad chili med vitlök och räkor, klart på 15 minuter – supersnabb vardagsmiddag för hela familjen."
   }
  ]
 }
