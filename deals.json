@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-02T06:26:01.474Z",
+ "updated": "2026-08-03T06:51:18.655Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska jordgubbar 500g",
-   "price": "25 kr",
+   "item": "Svenska nektariner i lösvikt",
+   "price": "34 kr/kg",
    "url": "https://www.ica.se"
   },
   {
@@ -16,14 +16,14 @@
   },
   {
    "store": "Lidl",
-   "item": "Svensk lax i lösvikt",
-   "price": "89 kr/kg",
+   "item": "Vattenmelon hel",
+   "price": "19 kr/st",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Melon Galia",
-   "price": "12 kr/st",
+   "item": "Grillkol Grillmeister 3kg",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "store": "Rusta",
-   "item": "Utegrill trekant",
-   "price": "199 kr",
+   "item": "Utomhuskuddar 2-pack",
+   "price": "99 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
