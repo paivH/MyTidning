@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-03T17:24:02.659Z",
+ "updated": "2026-08-03T19:05:09.472Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+   "date": "2026-08-03T18:04:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Three children were killed when the drone crashed at a popular resort on the Black Sea."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -13,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-   "date": "2026-08-03T15:59:48.000Z",
+   "date": "2026-08-03T17:41:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
    "desc": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership."
   },
@@ -34,12 +42,12 @@
    "desc": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russian anti-war politician says he has fled the country",
-   "date": "2026-08-03T15:41:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-   "desc": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Startskottet har gått – nu börjar valrörelsen på allvar”",
+   "date": "2026-08-03T18:51:29.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/startskottet-har-gatt-nu-borjar-valrorelsen-pa-allvar",
+   "desc": "De två statsministerkandidaterna gav sig idag ut på valturné. Därmed har det officiella startskottet gått för årets valrörelse. En valrörelse som redan kan vara avgjord om inte Tidöpartierna presterar en historisk upphämtning under de 41 dagar som återstår till valdagen."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-03T10:04:05.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/flygstrejk-hos-sas",
    "desc": "Förhandlingarna mellan SAS och kabinfacket på Fellesforbundet har brutit samman efter att ett förslag till nytt kollektivavtal röstades ned. Därmed har man utlyst en strejk som inleds nu på lördag."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Åklagaren bekräftar: Mordoffret i Kungsör en man i 60-årsåldern",
-   "date": "2026-08-03T09:51:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/aklagaren-bekraftar-mordoffret-i-kungsor-en-man-i-60-arsaldern",
-   "desc": "För snart två veckor sedan hittades en man död på en adress i centrala Kungsör. Åklagaren är fortsatt förtegen om mordutredningen men bekräftar för SVT att offret är i 60-årsåldern."
   },
   {
    "src": "STHLM",
