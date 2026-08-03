@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-03T08:46:35.858Z",
+ "updated": "2026-08-03T12:19:07.114Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump suggests new talks with Iran to begin on Monday",
-   "date": "2026-08-03T08:03:15.000Z",
+   "title": "Iran denies Trump's claim that new talks will begin on Monday",
+   "date": "2026-08-03T10:23:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-   "desc": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume."
+   "desc": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access."
   },
   {
    "src": "BBC",
@@ -21,9 +21,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-   "date": "2026-08-03T06:53:09.000Z",
+   "date": "2026-08-03T10:58:48.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
    "desc": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+   "date": "2026-08-03T08:40:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+   "desc": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash."
   },
   {
    "src": "BBC",
@@ -34,52 +42,60 @@
    "desc": "Both countries have said that they will not hesitate to conduct joint interventions in the future."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-   "date": "2026-08-03T01:03:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-   "desc": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Olycka med flera fordon på E45 – vägen avstängd",
+   "date": "2026-08-03T11:53:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/olycka-med-flera-fordon-pa-e45-vagen-avstangd",
+   "desc": "En olycka med lastbil och flera personbilar har inträffat på E45 strax söder om Strömsund. Vägen är helt avstängd under räddningsarbetet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hon blir ny Diskrimineringsombudsman",
-   "date": "2026-08-03T08:06:01.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/hon-blir-ny-diskrimineringsombudsman",
-   "desc": "Petra Mårselius blir ny Diskrimineringsombudsman (DO), det meddelar jämställdhetsminister Nina Larsson (L) på en pressträff."
+   "title": "Flygstrejk hos SAS i Norge",
+   "date": "2026-08-03T10:04:05.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/flygstrejk-hos-sas",
+   "desc": "Förhandlingarna mellan SAS och kabinfacket på Fellesforbundet har brutit samman. Därmed har man utlyst en strejk som inleds nu på lördag, rapporterar ett flertal norska medier."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Så undviker du förhastade beslut efter semestern – tre tips",
-   "date": "2026-08-03T07:42:55.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sa-undviker-du-forhastade-beslut-efter-semestern-tre-tips",
-   "desc": "Sensommaren är här, och med den ses oftast en ökning av stora livsbeslut som skilsmässor och jobbyten. Men risken är också att de tas för lättvindigt – psykologen Maria Farm ger sina bästa tips för att undvika dem."
+   "title": "Åklagaren bekräftar: Mordoffret i Kungsör en man i 60-årsåldern",
+   "date": "2026-08-03T09:51:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/aklagaren-bekraftar-mordoffret-i-kungsor-en-man-i-60-arsaldern",
+   "desc": "För snart två veckor sedan hittades en man död på en adress i centrala Kungsör. Åklagaren är fortsatt förtegen om mordutredningen men bekräftar för SVT att offret är i 60-årsåldern."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fynden på Adam Ståhls sociala medier: ”Börjar skaka nu”",
-   "date": "2026-08-03T04:44:49.000Z",
-   "link": "https://www.svt.se/sport/fotboll/fynden-pa-adam-stahls-sociala-medier-borjar-skaka-nu",
-   "desc": "Djurgårdens lagkapten Adam Ståhl vrider sig i stolen. Han börjar ”skaka”. – Men förhelvete, garvar han i SVT:s serie ”Allsvenska profiler” när ett gammalt sociala medier-inlägg lyfts."
+   "title": "Oro bland bärplockare efter björnattacken i Lycksele",
+   "date": "2026-08-03T09:37:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/oro-bland-barplockare-efter-bjornattacken-i-lycksele",
+   "desc": "En björn attackerade en kvinnlig bärplockare utanför Lycksele sent på fredagen. Nu finns en oro att det ska hända igen. – Vi är väldigt rädda, säger den polska plockaren Henryk Ptak."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man död efter arbetsplatsolycka i Piteå",
-   "date": "2026-08-03T04:18:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-avliden-efter-arbetsplatsolycka-i-pitea",
-   "desc": "En man i 60-årsåldern har avlidit efter en arbetsplatsolycka i Piteå. Anhöriga är underrättade."
+   "title": "Bekräftat: Svensk gängtopp gripen i Spanien",
+   "date": "2026-08-03T08:34:18.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/bekraftat-svensk-gangtopp-gripen-i-spanien",
+   "desc": "Svenska gängtoppen Emin Muqa Kulic, 21, är gripen. Tillslaget skedde under natten till lördagen och han ska, enligt SVT:s uppgifter, ha gripits i Jonas Falks tidigare bostad."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Hela Kuba utan ström igen",
-   "date": "2026-08-03T04:02:38.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/nytt-avbrott-pa-kuba",
-   "desc": "Kuba har på nytt drabbats av ett landsomfattande strömavbrott, meddelar det statliga elbolaget UNE."
+   "title": "SVT:s reporter vinner internationellt pris för sitt nyhetsinslag",
+   "date": "2026-08-03T12:00:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/svts-reporter-vinner-internationellt-pris-for-sitt-nyhetsinslag",
+   "desc": "Det internationella priset Mojo awards har tilldelats SVT-medarbetaren och Norrtäljereportern Tomas Blideman för hans nyhetsinslag om Sjöräddningen. Med Gopro-kameror och mobiltelefon filmade Blideman sig själv när han vinschas upp i skarpt läge. – Jättekul att denna typ av journalistik uppmärksammas. Som ensamreporter kan det ofta kännas som att man jobbar i det fördolda, säger SVT:s Tomas Blideman."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Amerikanskans diss mot Stockholm viral på sociala medier",
+   "date": "2026-08-03T10:00:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/amerikanskans-diss-mot-stockholm-viral-pa-sociala-medier",
+   "desc": "Stockholm spås slå turistrekord i år och på sociala medier går begreppet ”scandi summer” varmt. Men enligt den amerikanska turisten Renne är Stockholmshypen oförtjänt – och nu har hennes diss av huvudstaden blivit viral på Tiktok och Instagram. – Det påminner mig om Salt Lake City i Utah, säger hon."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-08-02T17:47:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-2-augusti-6o1m5a",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 2 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man gripen efter att ha brutit sig in i villa – flydde i kajak",
-   "date": "2026-08-02T06:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-gripen-efter-att-brutit-sig-in-i-villa-flydde-i-kajak",
-   "desc": "Vid sjutiden på söndagsmorgonen larmades polisen till en villa i Huddinge, då en kvinna hade mött en okänd man i sitt hus. När hon konfronterade honom flydde han ut via en stege och sedan en kajak ut på sjön. – Vi omringade sjön med flera patruller och väntade ut honom, säger Ola Österling vid Stockholmspolisen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här är landets lägsta kommunskatt: ”Bevis på att det fungerar”",
-   "date": "2026-08-02T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-ar-landets-lagsta-kommunskatt-bevis-pa-att-det-fungerar",
-   "desc": "Österåkers kommun har sedan 2004 sänkt kommunskatten och sedan 2019 har kommunen Sveriges lägsta. Men åsikterna om framtiden går isär. SVT har pratat med tre partier som går till val med tre olika löften om Sveriges lägsta kommunskatt."
   },
   {
    "src": "BBC",
