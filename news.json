@@ -1,13 +1,21 @@
 {
- "updated": "2026-08-03T12:19:07.114Z",
+ "updated": "2026-08-03T15:24:41.817Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran denies Trump's claim that new talks will begin on Monday",
-   "date": "2026-08-03T10:23:35.000Z",
+   "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+   "date": "2026-08-03T14:18:30.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-   "desc": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access."
+   "desc": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+   "date": "2026-08-03T14:38:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
   },
   {
    "src": "BBC",
@@ -21,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-   "date": "2026-08-03T10:58:48.000Z",
+   "date": "2026-08-03T14:20:56.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
    "desc": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official."
   },
@@ -34,12 +42,20 @@
    "desc": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US and Japan take action to prop up yen in rare joint move",
-   "date": "2026-08-03T07:30:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-   "desc": "Both countries have said that they will not hesitate to conduct joint interventions in the future."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Motocross och personbil kolliderade – två till sjukhus",
+   "date": "2026-08-03T15:14:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/krock-mellan-personbil-och-motorcross",
+   "desc": "Två personer har förts till sjukhus efter en krock mellan en motocross och en personbil. Enligt polisen ska motocrossen ha kört in i bilen bakifrån. Det finns inga uppgifter om skadeläge."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Malmö stad avråder från bad i Västra hamnen",
+   "date": "2026-08-03T13:59:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/malmo-stad-avrader-fran-bad-i-vastra-hamnen",
+   "desc": "Avrådan för bad gäller Sundspromenaden och Scaniabadet på Västra hamnen i Malmö. Vattnet ska vara grumligt och Malmö stad misstänker att det kan röra sig om algblomning."
   },
   {
    "src": "SVT",
@@ -47,15 +63,15 @@
    "title": "Olycka med flera fordon på E45 – vägen avstängd",
    "date": "2026-08-03T11:53:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/olycka-med-flera-fordon-pa-e45-vagen-avstangd",
-   "desc": "En olycka med lastbil och flera personbilar har inträffat på E45 strax söder om Strömsund. Vägen är helt avstängd under räddningsarbetet."
+   "desc": "En olycka med lastbil och flera personbilar inträffade vid 13-tiden på E45 strax söder om Strömsund. Vägen stängdes av helt under räddningsarbetet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Flygstrejk hos SAS i Norge",
    "date": "2026-08-03T10:04:05.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/flygstrejk-hos-sas",
-   "desc": "Förhandlingarna mellan SAS och kabinfacket på Fellesforbundet har brutit samman. Därmed har man utlyst en strejk som inleds nu på lördag, rapporterar ett flertal norska medier."
+   "link": "https://www.svt.se/nyheter/utrikes/flygstrejk-hos-sas",
+   "desc": "Förhandlingarna mellan SAS och kabinfacket på Fellesforbundet har brutit samman efter att ett förslag till nytt kollektivavtal röstades ned. Därmed har man utlyst en strejk som inleds nu på lördag."
   },
   {
    "src": "SVT",
@@ -66,28 +82,12 @@
    "desc": "För snart två veckor sedan hittades en man död på en adress i centrala Kungsör. Åklagaren är fortsatt förtegen om mordutredningen men bekräftar för SVT att offret är i 60-årsåldern."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Oro bland bärplockare efter björnattacken i Lycksele",
-   "date": "2026-08-03T09:37:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/oro-bland-barplockare-efter-bjornattacken-i-lycksele",
-   "desc": "En björn attackerade en kvinnlig bärplockare utanför Lycksele sent på fredagen. Nu finns en oro att det ska hända igen. – Vi är väldigt rädda, säger den polska plockaren Henryk Ptak."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bekräftat: Svensk gängtopp gripen i Spanien",
-   "date": "2026-08-03T08:34:18.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/bekraftat-svensk-gangtopp-gripen-i-spanien",
-   "desc": "Svenska gängtoppen Emin Muqa Kulic, 21, är gripen. Tillslaget skedde under natten till lördagen och han ska, enligt SVT:s uppgifter, ha gripits i Jonas Falks tidigare bostad."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "SVT:s reporter vinner internationellt pris för sitt nyhetsinslag",
    "date": "2026-08-03T12:00:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/svts-reporter-vinner-internationellt-pris-for-sitt-nyhetsinslag",
-   "desc": "Det internationella priset Mojo awards har tilldelats SVT-medarbetaren och Norrtäljereportern Tomas Blideman för hans nyhetsinslag om Sjöräddningen. Med Gopro-kameror och mobiltelefon filmade Blideman sig själv när han vinschas upp i skarpt läge. – Jättekul att denna typ av journalistik uppmärksammas. Som ensamreporter kan det ofta kännas som att man jobbar i det fördolda, säger SVT:s Tomas Blideman."
+   "desc": "Det internationella priset Mojo awards har tilldelats SVT-medarbetaren och Norrtäljereportern Tomas Blideman för hans nyhetsinslag om Sjöräddningen. Med Gopro-kameror och mobiltelefon filmade Blideman sig själv när han vinschades upp i skarpt läge. – Jättekul att denna typ av journalistik uppmärksammas. Som ensamreporter kan det ofta kännas som att man jobbar i det fördolda, säger SVT:s Tomas Blideman."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,22 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-08-03T15:00:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p2ds2m?at_medium=RSS&at_campaign=rss",
+   "desc": "Bryan Mbuemo on his form, Champions League football and targets for the new season."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-08-03T13:16:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p2dnvh?at_medium=RSS&at_campaign=rss",
+   "desc": "Joe and Gaz are joined by Joe Smith to discuss pre-season so far."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-07-31T16:22:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p20nb9?at_medium=RSS&at_campaign=rss",
    "desc": "Fraizer Campbell on United's attacking options and whether a new forward is a priority."
@@ -136,22 +152,6 @@
    "date": "2026-07-30T18:48:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p1t1zq?at_medium=RSS&at_campaign=rss",
    "desc": "Fraizer Campbell and United fans have their say on Mason Mount and the midfield revamp."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-07-29T19:06:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p1k302?at_medium=RSS&at_campaign=rss",
-   "desc": "Ex-Reds forward Fraizer Campbell and fans on 30 years since Solskjaer signed for United."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-07-28T08:00:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p13nqw?at_medium=RSS&at_campaign=rss",
-   "desc": "Ex Man Utd defender Danny Simpson ahead of Michael Carrick's first full season in charge."
   }
  ]
 }
