@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-03T05:01:13.998Z",
+ "updated": "2026-08-03T08:46:35.858Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Trump suggests new talks with Iran to begin on Monday",
-   "date": "2026-08-03T00:11:18.000Z",
+   "date": "2026-08-03T08:03:15.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
    "desc": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume."
   },
@@ -20,26 +20,42 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+   "date": "2026-08-03T06:53:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+   "desc": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US and Japan take action to prop up yen in rare joint move",
+   "date": "2026-08-03T07:30:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+   "desc": "Both countries have said that they will not hesitate to conduct joint interventions in the future."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
    "date": "2026-08-03T01:03:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
    "desc": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Massive Attack respond after Singapore ban over Palestine display",
-   "date": "2026-08-03T01:31:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
-   "desc": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hon blir ny Diskrimineringsombudsman",
+   "date": "2026-08-03T08:06:01.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/hon-blir-ny-diskrimineringsombudsman",
+   "desc": "Petra Mårselius blir ny Diskrimineringsombudsman (DO), det meddelar jämställdhetsminister Nina Larsson (L) på en pressträff."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-   "date": "2026-08-02T23:15:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så undviker du förhastade beslut efter semestern – tre tips",
+   "date": "2026-08-03T07:42:55.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sa-undviker-du-forhastade-beslut-efter-semestern-tre-tips",
+   "desc": "Sensommaren är här, och med den ses oftast en ökning av stora livsbeslut som skilsmässor och jobbyten. Men risken är också att de tas för lättvindigt – psykologen Maria Farm ger sina bästa tips för att undvika dem."
   },
   {
    "src": "SVT",
@@ -60,26 +76,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nytt elavbrott på Kuba",
+   "title": "Hela Kuba utan ström igen",
    "date": "2026-08-03T04:02:38.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/nytt-avbrott-pa-kuba",
-   "desc": "Kuba har på nytt drabbats av ett landsomfattande strömavbrott, rapporterar det statliga elbolaget UNE."
+   "desc": "Kuba har på nytt drabbats av ett landsomfattande strömavbrott, meddelar det statliga elbolaget UNE."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "EU förbjöd ryskt stål – miljardhandel fortsätter genom undantag",
-   "date": "2026-08-03T03:58:36.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/eu-forbjod-ryskt-stal-miljardhandel-fortsatter-genom-undantag",
-   "desc": "När Ryssland inledde sin fullskaliga invasion av Ukraina svarade EU med några av de mest omfattande sanktionerna i unionens historia. Bland annat förbjöds import av ryskt stål. Men ett undantag blev kvar. Och miljontals ton ryskt stål importeras fortfarande varje år till EU-länder. Nu har steg tagits mot att handeln ska upphöra."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här är kommunen där V och SD är överens i var tredje fråga",
-   "date": "2026-08-03T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/har-ar-kommunen-dar-sd-och-v-ar-overens-i-var-tredje-fraga",
-   "desc": "De brukar stå långt ifrån i politiken. Men i Strängnäs är Sverigedemokraterna och Vänsterpartiet överens om var tredje fråga i SVT:s valkompass. – Ett bra förslag är ett bra förslag, och kommer det från Vänsterpartiet kommer vi rösta för bifall, säger Linda Hefvelin (SD)."
+   "title": "Polisjakt i Upplands Väsby – förare kraschade i bostadsområde",
+   "date": "2026-08-03T05:57:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisjakt-i-upplands-vasby-forare-kraschade-i-bostadsomrade",
+   "desc": "En bil kraschade i ett bostadsområde under natten efter en biljakt med polisen. Föraren är en man i 40-årsåldern och har gripits misstänkt för grovt vårdslöshet i trafik och grovt rattfylleri."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-02T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-ar-landets-lagsta-kommunskatt-bevis-pa-att-det-fungerar",
    "desc": "Österåkers kommun har sedan 2004 sänkt kommunskatten och sedan 2019 har kommunen Sveriges lägsta. Men åsikterna om framtiden går isär. SVT har pratat med tre partier som går till val med tre olika löften om Sveriges lägsta kommunskatt."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här dansar de på vattnet under Liljeholmsbron",
-   "date": "2026-08-02T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-dansar-de-pa-vattnet",
-   "desc": "Du kanske har hört eller sett dem, dansarna som håller till under Liljeholmsbron. På en ponton i vattnet har en kreativ mötesplats skapats, som ett sätt att levandegöra fler delar av staden."
   },
   {
    "src": "BBC",
