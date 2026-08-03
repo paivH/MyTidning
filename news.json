@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T20:43:10.449Z",
+ "updated": "2026-08-03T22:05:16.366Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Över 6 000 döda i jordbävningarna i Venezuela",
+   "date": "2026-08-03T21:34:38.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/over-6-000-doda-i-jordbavningarna-i-venezuela",
+   "desc": "Antalet människor som bekräftats döda i jordbävningarna i Venezuela i juni uppgår nu till 6 125, meddelar Jorge Rodriguez, talman i det venezuelanska parlamentet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Uppgifter: Ali Shehab får livstids fängelse",
+   "date": "2026-08-03T20:44:10.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/uppgifter-ali-shehab-far-livstids-fangelse",
+   "desc": "Ali Shehab ska ha blivit dömd till livstids fängelse av en domstol i Baghdad, enligt källor till SVT. Shehab ses som en ledande person i det svenska kriminella nätverket Foxtrot."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "”Startskottet har gått – nu börjar valrörelsen på allvar”",
    "date": "2026-08-03T18:51:29.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/startskottet-har-gatt-nu-borjar-valrorelsen-pa-allvar",
@@ -64,22 +80,6 @@
    "date": "2026-08-03T15:14:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/krock-mellan-personbil-och-motorcross",
    "desc": "Två personer har förts till sjukhus efter en krock mellan en crossmotorcykel och en personbil. Enligt polisen ska motocrossen ha kört in i bilen bakifrån. En man i 25-årsåldern har allvarliga skador."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Malmö stad avråder från bad i Västra hamnen",
-   "date": "2026-08-03T13:59:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/malmo-stad-avrader-fran-bad-i-vastra-hamnen",
-   "desc": "Avrådan för bad gäller Sundspromenaden och Scaniabadet på Västra hamnen i Malmö. Vattnet ska vara grumligt och Malmö stad misstänker att det kan röra sig om algblomning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Olycka med flera fordon på E45 – vägen avstängd",
-   "date": "2026-08-03T11:53:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/olycka-med-flera-fordon-pa-e45-vagen-avstangd",
-   "desc": "En olycka med lastbil och flera personbilar inträffade vid 13-tiden på E45 strax söder om Strömsund. Vägen stängdes av helt under räddningsarbetet."
   },
   {
    "src": "STHLM",
