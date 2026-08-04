@@ -1,11 +1,19 @@
 {
- "updated": "2026-08-04T02:08:35.639Z",
+ "updated": "2026-08-04T05:29:41.245Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "EU calls for stronger borders after Ceuta migrant crossings",
+   "date": "2026-08-03T21:43:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+   "desc": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-   "date": "2026-08-03T18:04:30.000Z",
+   "date": "2026-08-04T03:37:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
    "desc": "Three children were killed when the drone crashed at a popular resort on the Black Sea."
   },
@@ -20,26 +28,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-   "date": "2026-08-03T15:57:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-   "desc": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say."
+   "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+   "date": "2026-08-03T23:25:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+   "desc": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-   "date": "2026-08-03T16:27:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
+   "title": "France wildfires reveal hundreds of WW2 shells in village",
+   "date": "2026-08-04T04:22:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
-   "date": "2026-08-03T20:05:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-   "desc": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så många tror att skogsbränderna hänger ihop med klimatförändringar",
+   "date": "2026-08-04T04:00:25.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sa-manga-tror-att-skogsbranderna-hanger-ihop-med-klimatforandringar",
+   "desc": "Nästan 80 procent av svenskarna ser ett mycket eller ganska stort samband mellan värmerekord, skogsbränder och klimatförändringar, enligt en opinionsundersökning från Indikator. Men synen på klimatets roll skiljer sig åt beroende på hur man röstar och vilket kön man tillhör. – Det är inte förvånande, säger Daniel Lindvall, docent i sociologi vid Uppsala universitet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Två allvarliga klätterolyckor på en månad i Bohuslän: ”Sällsynt”",
+   "date": "2026-08-04T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/tva-allvarliga-klatterolyckor-pa-en-manad-i-bohuslan-sallsynt",
+   "desc": "På mindre än en månad har två klättrare fallit allvarligt i Bohuslän – en av dem avled senare av sina skador. SVT Nyheter Väst har besökt Galgeberget i Lysekil, där den ena olyckan inträffade, och pratat med klätterexperter om vad som kan ha hänt och hur klättring med egna säkringar går till."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Unika projektet: Här ska tjäderägg samlas in från övergivna bon",
+   "date": "2026-08-04T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/unika-projektet-har-ska-tjaderagg-samlas-in-fran-overgivna-bon",
+   "desc": "Tjäderägg från hela landet ska samlas in utanför Nyköping i ett unikt projekt. Vanligtvis är det förbjudet att ta vilda ägg – men Svenska jägareförbundet har fått ett särskilt tillstånd. Målet är sedan att föda upp tjädrarna för att kunna studera dem."
   },
   {
    "src": "SVT",
@@ -58,28 +82,12 @@
    "desc": "Ali Shehab ska ha blivit dömd till livstids fängelse av en domstol i Baghdad, enligt källor till SVT. Shehab ses som en ledande person i det svenska kriminella nätverket Foxtrot."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "”Startskottet har gått – nu börjar valrörelsen på allvar”",
-   "date": "2026-08-03T18:51:29.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/startskottet-har-gatt-nu-borjar-valrorelsen-pa-allvar",
-   "desc": "De två statsministerkandidaterna gav sig idag ut på valturné. Därmed har det officiella startskottet gått för årets valrörelse. En valrörelse som redan kan vara avgjord om inte Tidöpartierna presterar en historisk upphämtning under de 41 dagar som återstår till valdagen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Två skogsbränder på kort tid",
-   "date": "2026-08-03T16:37:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/skogsbrand-utanfor-bor",
-   "desc": "Risken för skogsbrand är hög i länet och på måndagen inkom två larm till räddningstjänsten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Crossmotorcykel och personbil kolliderade – två till sjukhus",
-   "date": "2026-08-03T15:14:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/krock-mellan-personbil-och-motorcross",
-   "desc": "Två personer har förts till sjukhus efter en krock mellan en crossmotorcykel och en personbil. Enligt polisen ska motocrossen ha kört in i bilen bakifrån. En man i 25-årsåldern har allvarliga skador."
+   "title": "Besökare i skärgården vittnar om sämre mobiltäckning",
+   "date": "2026-08-04T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/besokare-i-skargarden-vittnar-om-samre-mobiltackning",
+   "desc": "Flera besökare i Stockholms skärgård upplever att mobiltäckningen har försämrats under det senaste året. En av dem är Frida Gustafsson, som oroar sig för vilka konsekvenser det kan få om en olycka inträffar."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "På Café brus har unga sina första sommarjobb, sida vid sida med pensionärer. Tillsammans driver de cafét för att skapa en plats där olika generationer kan mötas, äta hembakat och motverka ensamhet."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 2 augusti",
-   "date": "2026-08-02T17:47:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-2-augusti-6o1m5a",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 2 augusti."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-08-04T05:00:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p2dyb8?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd defender Leny Yoro on whether they can win the Premier League title this season."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-07-31T16:22:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p20nb9?at_medium=RSS&at_campaign=rss",
    "desc": "Fraizer Campbell on United's attacking options and whether a new forward is a priority."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-07-30T18:48:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p1t1zq?at_medium=RSS&at_campaign=rss",
-   "desc": "Fraizer Campbell and United fans have their say on Mason Mount and the midfield revamp."
   }
  ]
 }
