@@ -1,11 +1,19 @@
 {
- "updated": "2026-08-04T15:53:50.463Z",
+ "updated": "2026-08-04T17:43:47.679Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+   "date": "2026-08-04T17:26:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+   "desc": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-   "date": "2026-08-04T15:33:03.000Z",
+   "date": "2026-08-04T17:06:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
    "desc": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
   },
@@ -13,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-   "date": "2026-08-04T15:36:53.000Z",
+   "date": "2026-08-04T16:07:29.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
    "desc": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
   },
@@ -28,18 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "More than 150 migrants rescued after boat catches fire in Channel",
-   "date": "2026-08-04T14:37:42.000Z",
+   "title": "More than 170 migrants rescued after boat catches fire in Channel",
+   "date": "2026-08-04T17:25:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-   "desc": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
+   "desc": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Analysis: Trump challenged by cold reality from top allies",
-   "date": "2026-08-04T09:11:39.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-   "desc": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Se fansens reaktion när Herman Liv äntrar HV-isen",
+   "date": "2026-08-04T17:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/se-fansens-reaktion-nar-herman-liv-antrar-hv-isen",
+   "desc": "HV 71 gick under måndagen på is och det var en spelare som fick extra vrål från publiken."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ny strejk utlyst på Tesla-anläggningar",
+   "date": "2026-08-04T16:48:45.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ny-strejk-utlyst-pa-tesla-anlaggningar",
+   "desc": "IF Metall har återigen beslutat att ta ut medlemmar i strejk på Tesla-anläggningar, skriver Dagens Arbete. Anledningen är att parterna inte lyckats komma överens. En blockad av allt arbete i Teslas verkstäder på sex orter träder i kraft den 13 augusti."
   },
   {
    "src": "SVT",
@@ -66,28 +82,12 @@
    "desc": "Yasin blir den första skandinaviska rapparen som skrivit på kontrakt med skivbolagsjätten Atlantic Records, rapporterar Musikindustrin."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Skogsbrand utanför Borensberg – räddningstjänsten: ”Har inte kontroll”",
-   "date": "2026-08-04T14:35:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/skogsbrand-utanfor-borensberg-raddningstjansten-har-inte-kontroll",
-   "desc": "En skogsbrand har brutit ut öster om Borensberg i Motala kommun. Räddningstjänsten har lokaliserat branden till området vid Gäddgölen, där släckningsarbetet pågår."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Två bilar i krock på E22 vid Norje",
-   "date": "2026-08-04T14:32:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/blekinge/e22-avstangd-tva-bilar-i-krock",
-   "desc": "Två bilar var inblandade i en trafikolycka på E22 i höjd med Norje. Vägen var avstängd i riktning mot Kristianstad under räddningsarbetet, men nu är det åter full framkomlighet."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Misstanke om brott på skärgårdsö",
    "date": "2026-08-04T15:28:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-hittad-skadad-pa-skargardso-misstanke-om-brott",
-   "desc": "En kvinna har hittats skadad på en ö i Stockholms skärgård, enligt uppgifter till Aftonbladet."
+   "desc": "En kvinna har hittats skadad på en ö i Stockholms skärgård, enligt uppgifter till Aftonbladet. En insats pågår på platsen men polisen är förtegen."
   },
   {
    "src": "STHLM",
