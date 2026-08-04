@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-03T06:51:18.655Z",
+ "updated": "2026-08-04T06:19:27.611Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska nektariner i lösvikt",
-   "price": "34 kr/kg",
+   "item": "Svenska nektariner",
+   "price": "24 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
-   "price": "69 kr",
+   "item": "Grillat kycklinglårfilé 1kg",
+   "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
@@ -22,20 +22,20 @@
   },
   {
    "store": "Lidl",
-   "item": "Grillkol Grillmeister 3kg",
+   "item": "Grillkol 3kg",
    "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
-   "price": "59 kr",
+   "item": "Köttbullar 1kg (frys)",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utomhuskuddar 2-pack",
-   "price": "99 kr",
+   "item": "Utekudde till loungemöbel",
+   "price": "79 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
