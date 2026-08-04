@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-04T11:02:36.420Z",
+ "updated": "2026-08-04T13:15:01.537Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "More than 150 migrants rescued after boat catches fire in Channel",
-   "date": "2026-08-04T10:52:01.000Z",
+   "date": "2026-08-04T11:19:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
    "desc": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-   "date": "2026-08-04T09:35:06.000Z",
+   "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+   "date": "2026-08-04T11:19:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-   "desc": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine."
+   "desc": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
   },
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Polisen utreder misshandel efter bengalbråk i VSK-klacken",
+   "date": "2026-08-04T12:31:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/polisen-utreder-misshandel-efter-bengalbrak-i-vsk-klacken",
+   "desc": "Polisen har inlett en förundersökning om misstänkt misshandel efter ett bråk på Västerås SK:s bortasektion under måndagens match borta mot Djurgården."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så tänker Norrköpingsborna inför valet: ”Känner mig mer osäker i år”",
+   "date": "2026-08-04T12:11:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/sa-tanker-norrkopingsborna-infor-valet-kanner-mig-mer-osaker-i-ar",
+   "desc": "Valdagen närmar sig och för många väljare är beslutet redan fattat. För andra återstår valet mellan flera alternativ. SVT Nyheter Öst gick ut på stan i Norrköping för att höra hur invånarna resonerar."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Larm om drunkning i sjön Fängen – räddningsdykare på plats",
+   "date": "2026-08-04T11:28:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/larm-om-drunkning-i-sjon-fangen",
+   "desc": "Räddningstjänsten är på plats vid sjön Fängen i Vaggeryds kommun efter ett larm om drunkning. En man och en hund ska ha simmat ut i vattnet och mannen har inte återvänt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "157 personer räddade från brinnande gummibåt",
    "date": "2026-08-04T10:33:48.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/157-personer-raddade-fran-brinnande-gummibat",
@@ -58,36 +82,12 @@
    "desc": "När en man i Jönköping i april öppnade dörren stod två personer som sa sig vara poliser utanför. Med vapenliknande föremål i hand tvingade de ner mannen på golvet, band hans händer och stal sedan elektronik, kläder och parfymer. Nu döms de till fängelse."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Uppgifter till SVT: Foxtrot-bröder från Nyköping dömda till livstids fängelse i Irak",
-   "date": "2026-08-04T09:49:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/uppgifter-till-svt-foxtrot-broder-fran-nykoping-domda-till-livstids-fangelse-i-irak",
-   "desc": "Två bröder från Nyköping har dömts till livstids fängelse i Irak för narkotikabrott, enligt uppgifter till SVT. – De har ingått i en Foxtrot-cell med Irak som bas där de rekryterat ungdomar till våldsdåd i Norden, säger SVT:s Diamant Salihu."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lotsen misstänkt för brott efter båtolyckan utanför Tjörn",
-   "date": "2026-08-04T07:39:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/ytterligare-en-person-misstanks-efter-batolyckan-pa-tjorn",
-   "desc": "Utöver befälhavaren för fraktfartyget Misje Verde misstänks nu ytterligare en person efter båtolyckan utanför Tjörn förra veckan. Sjöfartsverket bekräftar för SVT att det är lotsen på fartyget som misstänks. Enligt handlingar till tingsrätten tilldelades den misstänkta en advokat under gårdagen. Två personer dog i olyckan och två skadades."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Svår olycka utanför Habo – en person allvarligt skadad",
-   "date": "2026-08-04T06:46:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/allvarlig-olycka-utanfor-habo-195an-avstangd",
-   "desc": "En person är mycket allvarligt skadad efter en frontalkrock mellan en lastbil och en personbil utanför Habo på tisdagsmorgonen."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Norra tunnelbaneentrén på Slussen rivs",
    "date": "2026-08-04T07:33:43.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/norra-tunnelbaneentren-pa-slussen-rivs-efter-atta-ar",
-   "desc": "I åtta har det legat en provisorisk uppgång från tunnelbanan på Slussen. Men nu ska den bort."
+   "desc": "I åtta år har det legat en provisorisk uppgång från tunnelbanan på Slussen. Men nu ska den bort."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-08-04T13:01:17.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p2lc68?at_medium=RSS&at_campaign=rss",
+   "desc": "MUWST Chair Deborah Henry on Marc Skinner's departure as head coach of United Women."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-08-04T05:00:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p2dyb8?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd defender Leny Yoro on whether they can win the Premier League title this season."
@@ -144,14 +152,6 @@
    "date": "2026-08-03T13:16:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p2dnvh?at_medium=RSS&at_campaign=rss",
    "desc": "Joe and Gaz are joined by Joe Smith to discuss pre-season so far."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-07-31T16:22:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p20nb9?at_medium=RSS&at_campaign=rss",
-   "desc": "Fraizer Campbell on United's attacking options and whether a new forward is a priority."
   }
  ]
 }
