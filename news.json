@@ -1,13 +1,21 @@
 {
- "updated": "2026-08-04T13:15:01.537Z",
+ "updated": "2026-08-04T15:53:50.463Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "More than 150 migrants rescued after boat catches fire in Channel",
-   "date": "2026-08-04T11:19:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-   "desc": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
+   "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+   "date": "2026-08-04T15:33:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+   "desc": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+   "date": "2026-08-04T15:36:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+   "desc": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
   },
   {
    "src": "BBC",
@@ -20,66 +28,82 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "More than 150 migrants rescued after boat catches fire in Channel",
+   "date": "2026-08-04T14:37:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+   "desc": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Analysis: Trump challenged by cold reality from top allies",
    "date": "2026-08-04T09:11:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
    "desc": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "What will happen when a SpaceX rocket collides with the Moon?",
-   "date": "2026-08-04T09:13:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
-   "desc": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-   "date": "2026-08-04T10:34:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Prideflagga utanför sjukhuset i Fagersta brändes",
+   "date": "2026-08-04T15:12:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/prideflagga-utanfor-sjukhuset-i-fagersta-brandes",
+   "desc": "I helgen vandaliserades prideflaggan utanför sjukhuset i Fagersta. En eller flera okända personer har tänt eld på den och kastat den mot sjukhusets entré. – Om man kan göra så här mot en flagga, vad kan man då göra mot mig som öppen gaykille? undrar Henrik Andersson, ambulanssjuksköterska och skyddsombud."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Polisen utreder misshandel efter bengalbråk i VSK-klacken",
-   "date": "2026-08-04T12:31:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/polisen-utreder-misshandel-efter-bengalbrak-i-vsk-klacken",
-   "desc": "Polisen har inlett en förundersökning om misstänkt misshandel efter ett bråk på Västerås SK:s bortasektion under måndagens match borta mot Djurgården."
+   "title": "Majoriteten av SD-väljare tror inte att värmerekord beror på klimatförändringar",
+   "date": "2026-08-04T14:58:28.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/majoriteten-av-sd-valjare-tror-inte-att-varmerekord-beror-pa-klimatforandringar",
+   "desc": "En majoritet av SD:s väljare tror att klimatförändringarna inte alls eller i ganska liten utsträckning hänger ihop med skogsbränderna i Europa och värmerekorden, visar nya siffror från Indikator. Det gör att SD:s väljare sticker ut. – Att man har väldigt varmt eller extrema vädersituationer där är inget nytt, det har man alltid haft, säger partiledare Jimmie Åkesson (SD)."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Så tänker Norrköpingsborna inför valet: ”Känner mig mer osäker i år”",
-   "date": "2026-08-04T12:11:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/sa-tanker-norrkopingsborna-infor-valet-kanner-mig-mer-osaker-i-ar",
-   "desc": "Valdagen närmar sig och för många väljare är beslutet redan fattat. För andra återstår valet mellan flera alternativ. SVT Nyheter Öst gick ut på stan i Norrköping för att höra hur invånarna resonerar."
+   "title": "Yasin skriver kontrakt med storbolag",
+   "date": "2026-08-04T14:53:51.000Z",
+   "link": "https://www.svt.se/kultur/yasin-skriver-kontrakt-med-storbolag",
+   "desc": "Yasin blir den första skandinaviska rapparen som skrivit på kontrakt med skivbolagsjätten Atlantic Records, rapporterar Musikindustrin."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Larm om drunkning i sjön Fängen – räddningsdykare på plats",
-   "date": "2026-08-04T11:28:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/larm-om-drunkning-i-sjon-fangen",
-   "desc": "Räddningstjänsten är på plats vid sjön Fängen i Vaggeryds kommun efter ett larm om drunkning. En man och en hund ska ha simmat ut i vattnet och mannen har inte återvänt."
+   "title": "Skogsbrand utanför Borensberg – räddningstjänsten: ”Har inte kontroll”",
+   "date": "2026-08-04T14:35:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/skogsbrand-utanfor-borensberg-raddningstjansten-har-inte-kontroll",
+   "desc": "En skogsbrand har brutit ut öster om Borensberg i Motala kommun. Räddningstjänsten har lokaliserat branden till området vid Gäddgölen, där släckningsarbetet pågår."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "157 personer räddade från brinnande gummibåt",
-   "date": "2026-08-04T10:33:48.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/157-personer-raddade-fran-brinnande-gummibat",
-   "desc": "På väg från Frankrike till Storbritannien ska en båt med migranter ha börjat brinna under tisdagsmorgonen. Fransk och brittisk kustbevakning har genomfört en större räddningsoperation och 157 ska ha räddats från lågorna."
+   "title": "Två bilar i krock på E22 vid Norje",
+   "date": "2026-08-04T14:32:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/e22-avstangd-tva-bilar-i-krock",
+   "desc": "Två bilar var inblandade i en trafikolycka på E22 i höjd med Norje. Vägen var avstängd i riktning mot Kristianstad under räddningsarbetet, men nu är det åter full framkomlighet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Låtsades vara poliser – tvingade ner man på golvet",
-   "date": "2026-08-04T10:08:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/latsades-vara-poliser-tvingade-ner-man-pa-golvet",
-   "desc": "När en man i Jönköping i april öppnade dörren stod två personer som sa sig vara poliser utanför. Med vapenliknande föremål i hand tvingade de ner mannen på golvet, band hans händer och stal sedan elektronik, kläder och parfymer. Nu döms de till fängelse."
+   "title": "Misstanke om brott på skärgårdsö",
+   "date": "2026-08-04T15:28:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-hittad-skadad-pa-skargardso-misstanke-om-brott",
+   "desc": "En kvinna har hittats skadad på en ö i Stockholms skärgård, enligt uppgifter till Aftonbladet."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Efter vårens uppgång – nu rasar bostadspriserna i Stockholm",
+   "date": "2026-08-04T14:07:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-varens-uppgang-nu-rasar-bostadspriserna-i-stockholm",
+   "desc": "Efter vårens prisuppgång vände bostadsmarknaden nedåt i juli. Störst var nedgången för bostadsrätter i Storstockholm, där priserna föll med hela 7,1 procent."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "17-åring döms för granatdåd – hund dog",
+   "date": "2026-08-04T13:27:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/17-aring-doms-for-granatdad-hund-dog",
+   "desc": "En 17-årig pojke döms för att ha kastat in en handgranat i en villa i Västerhaninge i mars vilket ledde till att en hund dog. Han döms också för en butiksbrand i Järfälla."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-08-04T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/besokare-i-skargarden-vittnar-om-samre-mobiltackning",
    "desc": "Flera besökare i Stockholms skärgård upplever att mobiltäckningen har försämrats under det senaste året. En av dem är Frida Gustafsson, som oroar sig för vilka konsekvenser det kan få om en olycka inträffar."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "SVT:s reporter vinner internationellt pris för sitt nyhetsinslag",
-   "date": "2026-08-03T12:00:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/svts-reporter-vinner-internationellt-pris-for-sitt-nyhetsinslag",
-   "desc": "Det internationella priset Mojo awards har tilldelats SVT-medarbetaren och Norrtäljereportern Tomas Blideman för hans nyhetsinslag om Sjöräddningen. Med Gopro-kameror och mobiltelefon filmade Blideman sig själv när han vinschades upp i skarpt läge. – Jättekul att denna typ av journalistik uppmärksammas. Som ensamreporter kan det ofta kännas som att man jobbar i det fördolda, säger SVT:s Tomas Blideman."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Amerikanskans diss mot Stockholm viral på sociala medier",
-   "date": "2026-08-03T10:00:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/amerikanskans-diss-mot-stockholm-viral-pa-sociala-medier",
-   "desc": "Stockholm spås slå turistrekord i år och på sociala medier går begreppet ”scandi summer” varmt. Men enligt den amerikanska turisten Renne är Stockholmshypen oförtjänt – och nu har hennes diss av huvudstaden blivit viral på Tiktok och Instagram. – Det påminner mig om Salt Lake City i Utah, säger hon."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Polisjakt i Upplands Väsby – förare kraschade i bostadsområde",
-   "date": "2026-08-03T05:57:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisjakt-i-upplands-vasby-forare-kraschade-i-bostadsomrade",
-   "desc": "En bil kraschade i ett bostadsområde under natten efter en biljakt med polisen. Föraren är en man i 40-årsåldern och har gripits misstänkt för grovt vårdslöshet i trafik och grovt rattfylleri."
   },
   {
    "src": "BBC",
