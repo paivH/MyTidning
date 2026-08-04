@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T05:29:41.245Z",
+ "updated": "2026-08-04T08:02:55.283Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,26 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Analysis: Trump challenged by cold reality from top allies",
+   "date": "2026-08-04T00:02:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+   "desc": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
    "date": "2026-08-04T03:37:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
    "desc": "Three children were killed when the drone crashed at a popular resort on the Black Sea."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+   "date": "2026-08-04T07:42:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+   "desc": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine."
   },
   {
    "src": "BBC",
@@ -26,20 +42,20 @@
    "desc": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-   "date": "2026-08-03T23:25:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
-   "desc": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ytterligare en person misstänks efter båtolyckan utanför Tjörn",
+   "date": "2026-08-04T07:39:45.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ytterligare-en-person-misstanks-efter-batolyckan-pa-tjorn",
+   "desc": "Utöver befälhavaren för fraktfartyget Misje Verde misstänks nu ytterligare en person efter båtolyckan utanför Tjörn förra veckan. Enligt handlingar till tingsrätten tilldelades den misstänkta en advokat under gårdagen. Två personer dog i olyckan och två skadades."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "France wildfires reveal hundreds of WW2 shells in village",
-   "date": "2026-08-04T04:22:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Olycka utanför Habo – en allvarligt skadad",
+   "date": "2026-08-04T06:46:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/allvarlig-olycka-utanfor-habo-195an-avstangd",
+   "desc": "En person är mycket allvarligt skadad efter en frontalkrock mellan en lastbil och en personbil utanför Habo på tisdagsmorgonen."
   },
   {
    "src": "SVT",
@@ -60,26 +76,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Unika projektet: Här ska tjäderägg samlas in från övergivna bon",
+   "title": "Zombielaxar i Torneälven – döda och sjuka fiskar oroar experter",
    "date": "2026-08-04T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/unika-projektet-har-ska-tjaderagg-samlas-in-fran-overgivna-bon",
-   "desc": "Tjäderägg från hela landet ska samlas in utanför Nyköping i ett unikt projekt. Vanligtvis är det förbjudet att ta vilda ägg – men Svenska jägareförbundet har fått ett särskilt tillstånd. Målet är sedan att föda upp tjädrarna för att kunna studera dem."
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/zombielaxar-i-tornealven-doda-och-sjuka-fiskar-oroar-experter",
+   "desc": "En stark ökning av laxfiskar registreras i år i Torne älv i jämförelse med förra året. Samtidigt ökar dock även antal rapporter av sjuka eller döda fiskar till Statens veterinärmedicinska anstalt (SVA). – Läget är inte akut, men det behöver tas på allvar, säger Hampus Hällbom, biträdande statsveterinär på SVA."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Över 6 000 döda i jordbävningarna i Venezuela",
-   "date": "2026-08-03T21:34:38.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/over-6-000-doda-i-jordbavningarna-i-venezuela",
-   "desc": "Antalet människor som bekräftats döda i jordbävningarna i Venezuela i juni uppgår nu till 6 125, meddelar Jorge Rodriguez, talman i det venezuelanska parlamentet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Uppgifter: Ali Shehab får livstids fängelse",
-   "date": "2026-08-03T20:44:10.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/uppgifter-ali-shehab-far-livstids-fangelse",
-   "desc": "Ali Shehab ska ha blivit dömd till livstids fängelse av en domstol i Baghdad, enligt källor till SVT. Shehab ses som en ledande person i det svenska kriminella nätverket Foxtrot."
+   "title": "Norra tunnelbaneentrén på Slussen rivs",
+   "date": "2026-08-04T07:33:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/norra-tunnelbaneentren-pa-slussen-rivs-efter-atta-ar",
+   "desc": "I åtta har det legat en provisorisk uppgång från tunnelbanan på Slussen. Men nu ska den bort."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-03T05:57:59.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisjakt-i-upplands-vasby-forare-kraschade-i-bostadsomrade",
    "desc": "En bil kraschade i ett bostadsområde under natten efter en biljakt med polisen. Föraren är en man i 40-årsåldern och har gripits misstänkt för grovt vårdslöshet i trafik och grovt rattfylleri."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Botkyrka har flest ensamma äldre – här möter de unga på sommarcaféet",
-   "date": "2026-08-03T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/botkyrka-har-flest-ensamma-aldre-har-moter-de-unga-pa-sommarcafeet",
-   "desc": "På Café brus har unga sina första sommarjobb, sida vid sida med pensionärer. Tillsammans driver de cafét för att skapa en plats där olika generationer kan mötas, äta hembakat och motverka ensamhet."
   },
   {
    "src": "BBC",
