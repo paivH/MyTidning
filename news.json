@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T19:26:22.418Z",
+ "updated": "2026-08-04T20:51:09.252Z",
  "items": [
   {
    "src": "BBC",
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-   "date": "2026-08-04T18:37:12.000Z",
+   "date": "2026-08-04T19:30:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
    "desc": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
   },
@@ -36,10 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "More than 170 migrants rescued after boat catches fire in Channel",
-   "date": "2026-08-04T17:25:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-   "desc": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
+   "title": "Arrests in Egypt after people allegedly impersonate judges",
+   "date": "2026-08-04T19:25:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+   "desc": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flicka anmäld försvunnen – stor sökinsats",
+   "date": "2026-08-04T20:35:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/flicka-anmald-forsvunnen-stor-sokinsats",
+   "desc": "Vid 21-tiden larmades räddningstjänst till Ytterjärna där en flicka har försvunnit, det skriver Sveriges Radio. En stor sökinsats av räddningstjänst och flyg- och sjöräddningen pågår."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kräftexport från Turkiet hotas av uttorkande sjöar",
+   "date": "2026-08-04T19:54:46.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/kraftexport-fran-turkiet-hotas-av-uttorkande-sjoar",
+   "desc": "Turkiet är av de största exportörerna av kräftor till Sverige. Men det turkiska kräftfisket står inför allvarligt hot. Ett 60-tal insjöar i Turkiet hotas att helt torka ut. – Bara i år har ytan sjunkit med 55 centimeter. Fortsätter det så kommer sjön försvinna, säger fiskaren Nusret Kaya."
   },
   {
    "src": "SVT",
@@ -66,22 +82,6 @@
    "desc": "HV 71 gick under måndagen på is och det var en spelare som fick extra vrål från publiken."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ny strejk utlyst på Tesla-anläggningar",
-   "date": "2026-08-04T16:48:45.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ny-strejk-utlyst-pa-tesla-anlaggningar",
-   "desc": "IF Metall har återigen beslutat att ta ut medlemmar i strejk på Tesla-anläggningar, skriver Dagens Arbete. Anledningen är att parterna inte lyckats komma överens. En blockad av allt arbete i Teslas verkstäder på sex orter träder i kraft den 13 augusti."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Prideflagga utanför sjukhuset i Fagersta brändes",
-   "date": "2026-08-04T15:12:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/prideflagga-utanfor-sjukhuset-i-fagersta-brandes",
-   "desc": "I helgen vandaliserades prideflaggan utanför sjukhuset i Fagersta. En eller flera okända personer har tänt eld på den och kastat den mot sjukhusets entré. – Om man kan göra så här mot en flagga, vad kan man då göra mot mig som öppen gaykille? undrar Henrik Andersson, ambulanssjuksköterska och skyddsombud."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 4 augusti",
@@ -95,7 +95,7 @@
    "title": "Stor insats vid skärgårdsö – misstanke om brott",
    "date": "2026-08-04T15:28:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-hittad-skadad-pa-skargardso-misstanke-om-brott",
-   "desc": "En insats pågår sedan tisdagseftermiddagen på en ö i Stockholms skärgård. Enligt uppgifter till Aftonbladet har en kvinna hittats skadad."
+   "desc": "En insats pågår sedan tisdagseftermiddagen på en ö i Stockholms skärgård. Enligt uppgifter till Aftonbladet har en kvinna hittats skadad, något som polisen inte har bekräftat."
   },
   {
    "src": "STHLM",
