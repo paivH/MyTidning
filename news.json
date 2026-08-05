@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-05T08:03:21.926Z",
+ "updated": "2026-08-05T10:59:19.930Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+   "date": "2026-08-05T10:49:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,18 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-   "date": "2026-08-05T07:48:02.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The head of Kyiv's military administration said Russia is \"once again massively attacking\" the region around the city."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-   "date": "2026-08-05T00:19:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
+   "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
+   "date": "2026-08-05T08:29:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
+   "desc": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home."
   },
   {
    "src": "BBC",
@@ -36,50 +36,58 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Afghan boxer arrives at Greek court in connection with death of Scottish woman",
-   "date": "2026-08-05T07:59:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
-   "desc": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh."
+   "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+   "date": "2026-08-05T00:19:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt mordförsök i Sundsvall – två gripna",
-   "date": "2026-08-05T06:51:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/misstankt-mordforsok-i-sundsvall-tva-gripna",
-   "desc": "En skadad kvinna hittades i ett trapphus i centrala Sundsvall sent på tisdagskvällen. Två personer har frihetsberövats och polisen rubricerar händelsen som försök till mord. Kvinnan vårdas nu på universitetssjukhuset i Umeå."
+   "title": "Uppgift: Drönarbomb hittad på tysk flygplats",
+   "date": "2026-08-05T10:28:29.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/uppgift-dronarbomb-hittad-pa-tysk-flygplats",
+   "desc": "En drönare hittades på en flygplats i Leipzig sent på tisdagskvällen. Enligt tyska Bild var den lastad med sprängmedel. Händelsen ledde till att flera flyg fick omdirigeras från flygplatsen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Varannan svensk mindre sugen på semester i Europa efter extremvärmen",
-   "date": "2026-08-05T04:00:01.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/varannan-svensk-mindre-sugen-pa-semester-i-europa-efter-extremvarmen",
-   "desc": "Europa har plågats av värmeböljor och bränder. Och nästan hälften av svenskarna tror att extremvärme kommer att göra dem mindre benägna att sommarsemestra i Europa i framtiden. – Ekonomiskt kan Sverige tjäna på det här, säger reseexpert Lottie Knutson."
+   "title": "Trots torka väntas god skörd i Östergötland",
+   "date": "2026-08-05T10:15:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/trots-torka-vantas-god-skord-i-ostergotland",
+   "desc": "Det är torrt i skog och mark, men i Östergötland ser grödorna ut att ha klarat sig relativt bra och nu går tröskorna på högvarv."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tv-profilen Linda Hammar är död",
-   "date": "2026-08-05T03:47:15.000Z",
-   "link": "https://www.svt.se/kultur/tv-profilen-linda-hammar-ar-dod",
-   "desc": "Tv-profilen Linda Hammar har avlidit, 53 år gammal. Det meddelar hennes bror Filip Hammar i ett inlägg på Instagram."
+   "title": "Fårägare om skjutna vargen: Det var det femte angreppet",
+   "date": "2026-08-05T10:13:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/faragare-om-skjutna-vargen-det-var-det-femte-angreppet",
+   "desc": "Fåret Bärta blev ett av vargens offer när fårbonden från Vaggeryd fick påhälsning i hagen. Nu håller han fåren nära boningshuset på nätterna."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Monica bor och guidar i ett vikingatida maktcentrum",
-   "date": "2026-08-05T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/monica-bor-och-guidar-i-ett-vikingatida-maktcentrum",
-   "desc": "Det finns många historiskt märkvärdiga platser i Östergötland. En av de mer märkvärdiga hittas i Aska, några kilometer utanför Vadstena."
+   "title": "Brorenovering väntar vid Vilbergen – risk för köer",
+   "date": "2026-08-05T08:16:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/brorenovering-vantar-vid-vilbergen-risk-for-koer",
+   "desc": "Bilister som passerar Vilbergen i Norrköping kan få räkna med längre restider i höst. Den 10 augusti inleds en renovering av broarna på Gamla Övägen över Söderleden, ett arbete som väntas påverka trafiken i omkring åtta veckor."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna anmäld försvunnen – hittad efter stor sökinsats",
-   "date": "2026-08-04T20:35:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/flicka-anmald-forsvunnen-stor-sokinsats",
-   "desc": "Vid 21-tiden larmades räddningstjänst till Ekensberg där en kvinna försvunnit. Hon hittades snart efter att räddningsjänstens och flyg- och sjöräddningens insats hade påbörjat."
+   "title": "Sekunder från fara när fritidsbåtar möter jättelika fartyg",
+   "date": "2026-08-05T08:07:02.000Z",
+   "link": "https://www.svt.se/nyheter/uutiset/sekunder-fran-fara-nar-fritidsbatar-moter-jattelika-fartyg",
+   "desc": "I sommarens trånga farleder delar små fritidsbåtar vatten med stora handelsfartyg. En plötslig kursändring kan räcka för att skapa en farlig situation – eftersom de stora fartygen varken kan bromsa eller väja snabbt."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Min valfråga i Stockholms län – vad är viktigast för dig?",
+   "date": "2026-08-05T10:35:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/min-valfraga-i-stockholms-lan-vad-ar-viktigast-for-dig",
+   "desc": "13 september är det val till riksdagen – men också lokala val till kommuner och regioner. Vilken lokal fråga tycker du att SVT Nyheter Stockholm och Södertälje ska bevaka inför valet? Hör av dig till oss!"
   },
   {
    "src": "STHLM",
@@ -111,15 +119,7 @@
    "title": "Kvinna hittad död i Stockholms skärgård – misstänkt mord",
    "date": "2026-08-04T15:28:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-hittad-skadad-pa-skargardso-misstanke-om-brott",
-   "desc": "En insats pågår sedan tisdagseftermiddagen på en ö i Stockholms skärgård. Polisen uppger att en kvinna i 50-årsåldern har hittats död. Händelsen utreds som mord."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Efter vårens uppgång – nu rasar bostadspriserna i Stockholm",
-   "date": "2026-08-04T14:07:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-varens-uppgang-nu-rasar-bostadspriserna-i-stockholm",
-   "desc": "Efter vårens prisuppgång vände bostadsmarknaden nedåt i juli. Störst var nedgången för bostadsrätter i Storstockholm, där priserna föll med hela 7,1 procent."
+   "desc": "En insats pågår sedan tisdagseftermiddagen på en ö i Stockholms skärgård. Polisen uppger att en kvinna i 50-årsåldern har hittats död. Händelsen utreds som mord. – Det är en person av intresse i utredningen som polisen söker just nu. Jag vill inte kommentera vilken roll mannen har. Det pågår ett intensivt arbete just nu, säger åklagare Emma Olsson. Enligt uppgifter till Expressen ska mannen ha en relation till den avlidna kvinnan."
   },
   {
    "src": "BBC",
