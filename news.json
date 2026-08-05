@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-05T20:43:07.749Z",
+ "updated": "2026-08-05T22:09:20.689Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+   "date": "2026-08-05T21:21:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+   "desc": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\"."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -28,18 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
-   "date": "2026-08-05T11:19:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-   "desc": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "UN rights chief alarmed by rise in Iran executions since March",
-   "date": "2026-08-05T14:04:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-   "desc": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests."
+   "title": "Fifa admits mistakes but Infantino remains president",
+   "date": "2026-08-05T21:37:08.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made."
   },
   {
    "src": "SVT",
@@ -87,7 +87,7 @@
    "title": "Misstänkt farligt föremål i Stockholm",
    "date": "2026-08-05T20:20:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-i-stockholm",
-   "desc": "Polisen utreder ett misstänkt farligt föremål på en restauranglokal på Folkungagatan i Stockholm, det skriver polisen på sin hemsida."
+   "desc": "Polisen utreder ett misstänkt farligt föremål på en restauranglokal på Folkungagatan i Stockholm."
   },
   {
    "src": "STHLM",
