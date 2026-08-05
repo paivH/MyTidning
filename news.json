@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T19:00:24.359Z",
+ "updated": "2026-08-05T20:43:07.749Z",
  "items": [
   {
    "src": "BBC",
@@ -12,18 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-   "date": "2026-08-05T16:20:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November."
+   "title": "Drone carrying explosives found at German airport, police say",
+   "date": "2026-08-05T20:01:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+   "desc": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Drone carrying explosives found at German airport, police say",
-   "date": "2026-08-05T16:06:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-   "desc": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
+   "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+   "date": "2026-08-05T20:03:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation."
   },
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Misstänkt farligt föremål i Stockholm",
+   "date": "2026-08-05T20:20:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-i-stockholm",
+   "desc": "Polisen utreder ett misstänkt farligt föremål på en restauranglokal på Folkungagatan i Stockholm, det skriver polisen på sin hemsida."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 5 augusti",
    "date": "2026-08-05T18:17:21.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-5-augusti-udix36",
@@ -112,14 +120,6 @@
    "date": "2026-08-05T10:35:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/min-valfraga-i-stockholms-lan-vad-ar-viktigast-for-dig",
    "desc": "13 september är det val till riksdagen – men också lokala val till kommuner och regioner. Vilken lokal fråga tycker du att SVT Nyheter Stockholm och Södertälje ska bevaka inför valet? Hör av dig till oss!"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Mässlingslarm på barnsjukhus i Stockholm",
-   "date": "2026-08-05T06:43:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/masslingslarm-pa-barnsjukhus-i-stockholm",
-   "desc": "En patient har testat positiv för mässling på Sachsska barn- och ungdomssjukhuset, som är en del av Södersjukhuset. Patienten blev smittad utomlands. – Smittspårning pågår på Södersjukhuset, skriver pressavdelningen i ett meddelande."
   },
   {
    "src": "BBC",
