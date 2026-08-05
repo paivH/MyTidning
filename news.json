@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-05T05:28:47.357Z",
+ "updated": "2026-08-05T08:03:21.926Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-   "date": "2026-08-04T17:26:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,18 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
-   "date": "2026-08-05T05:08:43.000Z",
+   "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+   "date": "2026-08-05T07:48:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-   "date": "2026-08-04T21:45:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-   "desc": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
+   "desc": "The head of Kyiv's military administration said Russia is \"once again massively attacking\" the region around the city."
   },
   {
    "src": "BBC",
@@ -40,6 +24,30 @@
    "date": "2026-08-05T00:19:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
    "desc": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+   "date": "2026-08-05T07:04:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+   "desc": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Afghan boxer arrives at Greek court in connection with death of Scottish woman",
+   "date": "2026-08-05T07:59:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
+   "desc": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt mordförsök i Sundsvall – två gripna",
+   "date": "2026-08-05T06:51:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/misstankt-mordforsok-i-sundsvall-tva-gripna",
+   "desc": "En skadad kvinna hittades i ett trapphus i centrala Sundsvall sent på tisdagskvällen. Två personer har frihetsberövats och polisen rubricerar händelsen som försök till mord. Kvinnan vårdas nu på universitetssjukhuset i Umeå."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Vid 21-tiden larmades räddningstjänst till Ekensberg där en kvinna försvunnit. Hon hittades snart efter att räddningsjänstens och flyg- och sjöräddningens insats hade påbörjat."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kräftexport från Turkiet hotas av uttorkande sjöar",
-   "date": "2026-08-04T19:54:46.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/kraftexport-fran-turkiet-hotas-av-uttorkande-sjoar",
-   "desc": "Turkiet är av de största exportörerna av kräftor till Sverige. Men det turkiska kräftfisket står inför allvarligt hot. Ett 60-tal insjöar i Turkiet hotas att helt torka ut. – Bara i år har ytan sjunkit med 55 centimeter. Fortsätter det så kommer sjön försvinna, säger fiskaren Nusret Kaya."
+   "title": "Mässlingslarm på barnsjukhus i Stockholm",
+   "date": "2026-08-05T06:43:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/masslingslarm-pa-barnsjukhus-i-stockholm",
+   "desc": "En patient har testat positiv för mässling på Sachsska barn- och ungdomssjukhuset, som är en del av Södersjukhuset. Patienten blev smittad utomlands. – Smittspårning pågår på Södersjukhuset, skriver pressavdelningen i ett meddelande."
   },
   {
    "src": "STHLM",
@@ -100,7 +108,7 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna hittat död i Stockholms skärgård – misstänkt mord",
+   "title": "Kvinna hittad död i Stockholms skärgård – misstänkt mord",
    "date": "2026-08-04T15:28:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-hittad-skadad-pa-skargardso-misstanke-om-brott",
    "desc": "En insats pågår sedan tisdagseftermiddagen på en ö i Stockholms skärgård. Polisen uppger att en kvinna i 50-årsåldern har hittats död. Händelsen utreds som mord."
@@ -112,14 +120,6 @@
    "date": "2026-08-04T14:07:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-varens-uppgang-nu-rasar-bostadspriserna-i-stockholm",
    "desc": "Efter vårens prisuppgång vände bostadsmarknaden nedåt i juli. Störst var nedgången för bostadsrätter i Storstockholm, där priserna föll med hela 7,1 procent."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "17-åring döms för granatdåd – hund dog",
-   "date": "2026-08-04T13:27:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/17-aring-doms-for-granatdad-hund-dog",
-   "desc": "En 17-årig pojke döms för att ha kastat in en handgranat i en villa i Västerhaninge i mars vilket ledde till att en hund dog. Han döms också för en butiksbrand i Järfälla."
   },
   {
    "src": "BBC",
