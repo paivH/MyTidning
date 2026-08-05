@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-05T17:00:27.118Z",
+ "updated": "2026-08-05T19:00:24.359Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+   "date": "2026-08-05T18:19:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,14 +28,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-   "date": "2026-08-05T12:26:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
    "date": "2026-08-05T11:19:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
@@ -40,6 +40,22 @@
    "date": "2026-08-05T14:04:09.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
    "desc": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nästan 30 år efter Trustorhärvan – nu träder Joachim Posener fram",
+   "date": "2026-08-05T17:00:06.000Z",
+   "link": "https://www.svt.se/kultur/nastan-30-ar-efter-trustorharvan-nu-trader-joachim-posener-fram",
+   "desc": "Trustorhärvan är en av Sveriges mest uppmärksammade finansskandaler. Nästan 30 år efter att den briserade träder nyckelpersonerna – bland annat ekobrottslingen Joachim Posener – fram i en ny dokumentär på Netflix. – Jag kan stå för vad jag har gjort, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Trustor-avslöjaren sågar Netflix storsatsning: ”Gullar med brottslingar”",
+   "date": "2026-08-05T17:00:06.000Z",
+   "link": "https://www.svt.se/kultur/trustor-avslojaren-sagar-netflix-storsatsning-gullar-med-brottslingar",
+   "desc": "Gunnar Lindstedt – journalisten som avslöjade Trustorhärvan – sågar Netflix nya storsatsning. Han är djupt kritisk till att dokumentären inte redovisar vilka brott Trustor-mannen Thomas Jisander är dömd för. – Varför gullar man med brottslingar?, säger han till SVT."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Det är inte de politiska sakfrågorna som orsakat mest debatt hittills i valrörelsen. Nej, det är att SD-profilen Richard Jomshof kallat politiska motståndare för quislingar, dvs landsförrädare."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Flera stickskadade i centrala London – kvinna gripen",
-   "date": "2026-08-05T13:52:17.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/flera-knivstuckna-i-centrala-london",
-   "desc": "En kvinna attackerade fyra män med ett vasst föremål i centrala London, rapporterar brittiska medier. Den 47-åriga kvinnan, som uppges lida av psykisk ohälsa, har gripits."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Påkörd polisman avfyrade sitt vapen – tre personer gripna för mordförsök",
-   "date": "2026-08-05T13:49:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/biljakt-i-centrala-helsingborg-efter-misstankt-skottlossning",
-   "desc": "Delar av Drottninggatan i centrala Helsingborg är avstängd. En bil lämnade platsen i hög hastighet efter att ha kört på en polis. Därefter avfyrade polismannen sitt vapen."
+   "title": "Nyheter från dagen: 5 augusti",
+   "date": "2026-08-05T18:17:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-5-augusti-udix36",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om onsdagen 5 augusti."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-05T06:43:14.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/masslingslarm-pa-barnsjukhus-i-stockholm",
    "desc": "En patient har testat positiv för mässling på Sachsska barn- och ungdomssjukhuset, som är en del av Södersjukhuset. Patienten blev smittad utomlands. – Smittspårning pågår på Södersjukhuset, skriver pressavdelningen i ett meddelande."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här anordnas seglarläger för hemlösa på Ekerö",
-   "date": "2026-08-05T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-anordnas-seglarlager-for-hemlosa-pa-ekero",
-   "desc": "På Lovön i Mälaren arrangeras en seglingsvecka för människor i utsatta livssituationer. Britt Breman och Taina Lindfors träffades på lägret förra året och blev vänner. – Det har betytt mycket för mig att få träffa människor, säger Britt."
   },
   {
    "src": "BBC",
