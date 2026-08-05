@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T02:07:43.858Z",
+ "updated": "2026-08-05T05:28:47.357Z",
  "items": [
   {
    "src": "BBC",
@@ -7,23 +7,23 @@
    "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
    "date": "2026-08-04T17:26:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime."
+   "desc": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-   "date": "2026-08-05T01:05:21.000Z",
+   "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+   "date": "2026-08-05T03:44:30.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
    "desc": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
-   "date": "2026-08-05T01:35:29.000Z",
+   "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
+   "date": "2026-08-05T05:08:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings."
+   "desc": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city."
   },
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Varannan svensk mindre sugen på semester i Europa efter extremvärmen",
+   "date": "2026-08-05T04:00:01.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/varannan-svensk-mindre-sugen-pa-semester-i-europa-efter-extremvarmen",
+   "desc": "Europa har plågats av värmeböljor och bränder. Och nästan hälften av svenskarna tror att extremvärme kommer att göra dem mindre benägna att sommarsemestra i Europa i framtiden. – Ekonomiskt kan Sverige tjäna på det här, säger reseexpert Lottie Knutson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tv-profilen Linda Hammar är död",
+   "date": "2026-08-05T03:47:15.000Z",
+   "link": "https://www.svt.se/kultur/tv-profilen-linda-hammar-ar-dod",
+   "desc": "Tv-profilen Linda Hammar har avlidit, 53 år gammal. Det meddelar hennes bror Filip Hammar i ett inlägg på Instagram."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Monica bor och guidar i ett vikingatida maktcentrum",
+   "date": "2026-08-05T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/monica-bor-och-guidar-i-ett-vikingatida-maktcentrum",
+   "desc": "Det finns många historiskt märkvärdiga platser i Östergötland. En av de mer märkvärdiga hittas i Aska, några kilometer utanför Vadstena."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Kvinna anmäld försvunnen – hittad efter stor sökinsats",
    "date": "2026-08-04T20:35:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sodertalje/flicka-anmald-forsvunnen-stor-sokinsats",
@@ -58,28 +82,12 @@
    "desc": "Turkiet är av de största exportörerna av kräftor till Sverige. Men det turkiska kräftfisket står inför allvarligt hot. Ett 60-tal insjöar i Turkiet hotas att helt torka ut. – Bara i år har ytan sjunkit med 55 centimeter. Fortsätter det så kommer sjön försvinna, säger fiskaren Nusret Kaya."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Svenska gripen i Thailand för mångmiljonbedrägeri",
-   "date": "2026-08-04T19:07:49.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/svenska-gripen-i-thailand-for-mangmiljonbedrageri",
-   "desc": "En svensk kvinna som har varit internationellt efterlyst har gripits av thailändsk polis i Phuket, rapporter engelskspråkiga Thaiexaminer. Hon misstänks för att ha deltagit i organiserade telefonbedrägerier som har genererat miljontals kronor."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tungt för Mjällby – tappade ledning till förlust i Champions League-kvalet",
-   "date": "2026-08-04T17:52:37.000Z",
-   "link": "https://www.svt.se/sport/fotboll/tungt-for-mjallby-tappade-ledning-till-forlust-i-champions-league-kvalet",
-   "desc": "Mjällby förlorade mot Slovan Bratislava med 1–2 i det första mötet. Hemmalagets mål kom på en straff som godkändes först efter en lång VAR-granskning. – Det är svårt att förstå. Vi tappar greppet om matchen efter kvitteringen, säger tränaren Karl Marius Aksum."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Se fansens reaktion när Herman Liv äntrar HV-isen",
-   "date": "2026-08-04T17:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/se-fansens-reaktion-nar-herman-liv-antrar-hv-isen",
-   "desc": "HV 71 gick under måndagen på is och det var en spelare som fick extra vrål från publiken."
+   "title": "Här anordnas seglarläger för hemlösa på Ekerö",
+   "date": "2026-08-05T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-anordnas-seglarlager-for-hemlosa-pa-ekero",
+   "desc": "På Lovön i Stockholms skärgård arrangeras en seglingsvecka för människor i utsatta livssituationer. Britt Breman och Taina Lindfors träffades på lägret förra året och blev vänner: ”Det har betytt mycket för mig att få träffa människor”, säger Britt."
   },
   {
    "src": "STHLM",
@@ -95,7 +103,7 @@
    "title": "Kvinna hittat död i Stockholms skärgård – misstänkt mord",
    "date": "2026-08-04T15:28:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-hittad-skadad-pa-skargardso-misstanke-om-brott",
-   "desc": "En insats pågår sedan tisdagseftermiddagen på en ö i Stockholms skärgård. Polisen uppger nu att en kvinna i 50-årsåldern har hittats död. Händelsen utreds som mord."
+   "desc": "En insats pågår sedan tisdagseftermiddagen på en ö i Stockholms skärgård. Polisen uppger att en kvinna i 50-årsåldern har hittats död. Händelsen utreds som mord."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-04T13:27:20.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/17-aring-doms-for-granatdad-hund-dog",
    "desc": "En 17-årig pojke döms för att ha kastat in en handgranat i en villa i Västerhaninge i mars vilket ledde till att en hund dog. Han döms också för en butiksbrand i Järfälla."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Norra tunnelbaneentrén på Slussen rivs",
-   "date": "2026-08-04T07:33:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/norra-tunnelbaneentren-pa-slussen-rivs-efter-atta-ar",
-   "desc": "I åtta år har det legat en provisorisk uppgång från tunnelbanan på Slussen. Men nu ska den bort."
   },
   {
    "src": "BBC",
