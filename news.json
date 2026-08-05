@@ -1,45 +1,53 @@
 {
- "updated": "2026-08-05T10:59:19.930Z",
+ "updated": "2026-08-05T12:59:08.131Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-   "date": "2026-08-05T10:49:41.000Z",
+   "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+   "date": "2026-08-05T12:26:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
    "desc": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-   "date": "2026-08-05T03:44:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-   "desc": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
+   "title": "Drone carrying explosives found at German airport, police say",
+   "date": "2026-08-05T12:48:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+   "desc": "The drone was found in the cargo area near a Ukrainian aircraft before another suspected object collided with a cargo aircraft in mid-air."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-   "date": "2026-08-05T08:29:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
-   "desc": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home."
+   "title": "Pakistan restricts international media reporting",
+   "date": "2026-08-05T11:19:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
+   "desc": "Anyone working for foreign media, including Pakistanis, will now need permission to report from anywhere outside three major cities."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-   "date": "2026-08-05T07:04:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
-   "desc": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising."
+   "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
+   "date": "2026-08-05T12:33:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+   "desc": "The player only realised he binned the life-changing ticket after family told him the numbers he played for years had been drawn."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-   "date": "2026-08-05T00:19:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
+   "title": "Mexican influencer shot dead during livestream",
+   "date": "2026-08-05T11:00:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+   "desc": "César Gastélum, who was known for comedy and lifestyle posts, was killed at close range by a man on a motorbike."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polisen: 188 kriminella gripna utomlands i år",
+   "date": "2026-08-05T11:21:36.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/polisen-188-kriminella-gripna-utomlands-i-ar",
+   "desc": "De misstänks organisera mord, masskjutningar och sprängdåd från andra länder. Hittills i år har 188 svenska kriminella gripits utomlands, visar nya siffror. – Det tar aldrig slut. Det kommer alltid nya aktörer. Det finns ingen lista vi kan beta av, säger Noa-chefen Johan Olsson."
   },
   {
    "src": "SVT",
@@ -47,7 +55,7 @@
    "title": "Uppgift: Drönarbomb hittad på tysk flygplats",
    "date": "2026-08-05T10:28:29.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/uppgift-dronarbomb-hittad-pa-tysk-flygplats",
-   "desc": "En drönare hittades på en flygplats i Leipzig sent på tisdagskvällen. Enligt tyska Bild var den lastad med sprängmedel. Händelsen ledde till att flera flyg fick omdirigeras från flygplatsen."
+   "desc": "En drönare hittades på en flygplats i Leipzig sent på tisdagskvällen. Enligt tyska Bild ska drönaren vara skarp. Tyska säkerhetsmyndigheter har klassat incidenten som ett attentatsförsök."
   },
   {
    "src": "SVT",
@@ -60,7 +68,7 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fårägare om skjutna vargen: Det var det femte angreppet",
+   "title": "Fårägaren om skjutna vargen: Det var det femte angreppet",
    "date": "2026-08-05T10:13:46.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/faragare-om-skjutna-vargen-det-var-det-femte-angreppet",
    "desc": "Fåret Bärta blev ett av vargens offer när fårbonden från Vaggeryd fick påhälsning i hagen. Nu håller han fåren nära boningshuset på nätterna."
@@ -72,14 +80,6 @@
    "date": "2026-08-05T08:16:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/brorenovering-vantar-vid-vilbergen-risk-for-koer",
    "desc": "Bilister som passerar Vilbergen i Norrköping kan få räkna med längre restider i höst. Den 10 augusti inleds en renovering av broarna på Gamla Övägen över Söderleden, ett arbete som väntas påverka trafiken i omkring åtta veckor."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sekunder från fara när fritidsbåtar möter jättelika fartyg",
-   "date": "2026-08-05T08:07:02.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/sekunder-fran-fara-nar-fritidsbatar-moter-jattelika-fartyg",
-   "desc": "I sommarens trånga farleder delar små fritidsbåtar vatten med stora handelsfartyg. En plötslig kursändring kan räcka för att skapa en farlig situation – eftersom de stora fartygen varken kan bromsa eller väja snabbt."
   },
   {
    "src": "STHLM",
@@ -103,7 +103,7 @@
    "title": "Här anordnas seglarläger för hemlösa på Ekerö",
    "date": "2026-08-05T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-anordnas-seglarlager-for-hemlosa-pa-ekero",
-   "desc": "På Lovön i Stockholms skärgård arrangeras en seglingsvecka för människor i utsatta livssituationer. Britt Breman och Taina Lindfors träffades på lägret förra året och blev vänner: ”Det har betytt mycket för mig att få träffa människor”, säger Britt."
+   "desc": "På Lovön i Stockholms skärgård arrangeras en seglingsvecka för människor i utsatta livssituationer. Britt Breman och Taina Lindfors träffades på lägret förra året och blev vänner. – Det har betytt mycket för mig att få träffa människor, säger Britt."
   },
   {
    "src": "STHLM",
