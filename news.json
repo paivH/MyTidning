@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T23:32:16.192Z",
+ "updated": "2026-08-05T02:07:43.858Z",
  "items": [
   {
    "src": "BBC",
@@ -13,9 +13,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-   "date": "2026-08-04T19:00:43.000Z",
+   "date": "2026-08-05T01:05:21.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
    "desc": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
+   "date": "2026-08-05T01:35:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings."
   },
   {
    "src": "BBC",
@@ -28,18 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-   "date": "2026-08-04T11:19:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-   "desc": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Arrests in Egypt after people allegedly impersonate judges",
-   "date": "2026-08-04T19:25:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-   "desc": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people."
+   "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+   "date": "2026-08-05T00:19:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
   },
   {
    "src": "SVT",
