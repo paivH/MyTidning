@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T10:07:33.174Z",
+ "updated": "2026-08-06T12:24:53.818Z",
  "items": [
   {
    "src": "BBC",
@@ -31,7 +31,7 @@
    "title": "Iranian footballers who defied Tehran become Australian citizens",
    "date": "2026-08-06T09:04:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
-   "desc": "There were among seven women to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran."
+   "desc": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran."
   },
   {
    "src": "BBC",
@@ -44,42 +44,66 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Miljonförlust för Holmgrens bil – men bolaget ser en vändning",
+   "date": "2026-08-06T10:48:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/miljonforlust-for-holmgrens-bil-men-bolaget-ser-en-vandning",
+   "desc": "Holmgrens Bil ökade försäljningen under 2025 jämfört med året innan. Men bolaget redovisar återigen röda siffror. Resultatet före skatt landade på minus 60 miljoner kronor, där förluster på återtagna privatleasingbilar är en viktig förklaring."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Utländska medborgare gripna – flög drönare över skyddsobjekt",
+   "date": "2026-08-06T10:41:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/utlandska-medbrogare-gripna-flog-dronare-over-skyddsobjekt",
+   "desc": "Polisen har gripit två utländska medborgare på Lovön – för brott mot avbildningsförbundet. Enligt polisens sajt har de flugit med drönare."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Stränder förorenade efter oljeutsläpp i Obbola: ”Otrevligt”",
+   "date": "2026-08-06T10:10:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/strander-fororenade-efter-oljeutslapp-i-obbola-otrevligt",
+   "desc": "Tallolja har runnit ut från SCA:s fabrik i Obbola och förorenat stränder i området. Nu avråder kommunen folk från att bada. – Det är en organisk restprodukt från trä. Oljan är inte farlig, men det ser otrevligt ut på vissa ställen, säger SCA:s presschef, Robert Östholm."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Synen på journalistiken lika polariserad som klimatfrågan”",
+   "date": "2026-08-06T10:08:13.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/synen-pa-journalistiken-lika-polariserad-som-klimatfragan",
+   "desc": "För mycket! För lite! För alarmistisk! För lågmäld! Svenskarnas syn på mediernas klimatrapportering är lika delad som när det handlar om klimatfrågan i stort."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Åkesson om uranbrytning: ”Lagen ska inte vara trubbig”",
    "date": "2026-08-06T09:55:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/akesson-om-uranbrytning-lagen-ska-inte-vara-trubbig",
    "desc": "Sverigedemokraternas partiledare Jimmie Åkesson har tillsammans med Tidöpartierna slopat det kommunala vetot om uranbrytning för att snabba på processerna. Han är kritisk till att det nu utreds ett nytt veto mot brytning i alunskiffer. – Lagstiftningen ska inte vara så trubbig, säger han."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "NCC krävs på fem miljoner efter dödsolyckan utanför Northvolt",
-   "date": "2026-08-06T09:04:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/ncc-kravs-pa-miljonbelopp-efter-dodsolyckan-utanfor-northvolt",
-   "desc": "Efter arbetsplatsolyckan utanför Northvoltfabriken i Skellefteå där en man omkom och en annan skadades allvarligt krävs nu byggföretaget NCC på fem miljoner i företagsbot. – Det har dragit ut på tiden, konstaterar miljöåklagare Åse Schoultz."
+   "title": "Smittspårningen avslutad – ingen mässlingsmitta på Sös",
+   "date": "2026-08-06T11:29:35.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/smittsparningen-avslutad-ingen-masslingsmitta-pa-sos",
+   "desc": "Södersjukhuset har nu avslutat smittspårningen efter mässling efter att ett mässlingsfall upptäcktes på barnakuten tidigare i veckan. – Tack vare snabb smittspårning och att vi snabbt kunde erbjuda vaccin och antikroppar till berörda patienter, anhöriga och medarbetare är risken mycket liten att någon av dem drabbas av sjukdom, säger Annelie Liljegren, chefläkare på Södersjukhuset i ett pressmeddelande."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Pojken utskriven från sjukhus efter båtolyckan",
-   "date": "2026-08-06T06:21:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/pojken-utskriven-fran-sjukhus-efter-batolyckan",
-   "desc": "Den pojke som skadades efter båtolyckan vid Tjörn har fått lämna sjukhuset. Det meddelar Sahlgrenska universitetssjukhusets presstjänst. Sedan tidigare har mannen som skadades i olyckan skrivits ut från sjukhuset."
+   "title": "En månad med halverad SL-biljett – så tycker politikerna",
+   "date": "2026-08-06T10:57:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-manad-med-halverad-sl-biljett-sa-tycker-politikerna",
+   "desc": "Under första månaden av det halverade priset på SL:s månadskort har försäljningen skjutit i höjden. Miljöpartiet ser positivt på ökningen samtidigt som Moderaterna, vars regering står för prisreduceringen, tonar ned vad en sådan ökning har för effekt på det faktiska resandet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Allt fler överlever stroke – halvering av dödsfallen",
-   "date": "2026-08-06T04:03:41.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/allt-fler-overlever-stroke-halvering-av-dodsfallen",
-   "desc": "Dödligheten i Sverige, där stroke anges som underliggande dödsorsak, har mer än halverats under 2000-talet. – Det är en fantastisk utveckling. Ett av de största framstegen vi har sett inom medicinen under många år, säger neurologiprofessorn Bo Norrving."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Denise skickades hem trots stroke – läkaren skyllde på långa ögonfransar",
-   "date": "2026-08-06T04:03:29.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/denise-skickades-hem-trots-stroke-lakaren-skyllde-pa-langa-ogonfransar",
-   "desc": "När 34-åriga Denise kom hem från gymmet en dag blev hon plötsligt yr och illamående. Hennes tillstånd förvärrades och hon fick svårt att se på ena ögat. Men trots symtomen skickades Denise hem."
+   "title": "Utländska medborgare gripna – flög drönare över skyddsobjekt",
+   "date": "2026-08-06T10:41:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/utlandska-medbrogare-gripna-flog-dronare-over-skyddsobjekt",
+   "desc": "Polisen har gripit två utländska medborgare på Lovön – för brott mot avbildningsförbundet. Enligt polisens sajt har de flugit med drönare."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-08-05T18:17:21.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-5-augusti-udix36",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om onsdagen 5 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Oron efter misstänkta mordet: ”Låste min dörr för första gången”",
-   "date": "2026-08-05T14:44:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/oron-efter-mordet-laste-min-dorr-for-forsta-gangen",
-   "desc": "För grannarna på den lilla ön i Stockholms skärgård kom larmet om ett misstänkt kvinnomord som en chock. – Det är första gången man har låst en låst en dörr när man gått och lagt sig, säger grannen Patrik."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nynäskalaset ställs in – för få sålda biljetter",
-   "date": "2026-08-05T13:16:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nynaskalaset-stalls-in-for-fa-salda-biljetter",
-   "desc": "Det skulle bli musikfestival i Nynäshamn i helgen men tre dagar före öppnandet kom beskedet att Nynäskalaset ställs in. – Vi hoppades i flera veckor på fler sålda biljetter, säger Fredrik Fernström, festivalarrangör och vd Haj-Faj AB."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Min valfråga i Stockholms län – vad är viktigast för dig?",
-   "date": "2026-08-05T10:35:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/min-valfraga-i-stockholms-lan-vad-ar-viktigast-for-dig",
-   "desc": "13 september är det val till riksdagen – men också lokala val till kommuner och regioner. Vilken lokal fråga tycker du att SVT Nyheter Stockholm och Södertälje ska bevaka inför valet? Hör av dig till oss!"
   },
   {
    "src": "BBC",
