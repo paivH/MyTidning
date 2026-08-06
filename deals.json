@@ -1,30 +1,30 @@
 {
- "updated": "2026-08-05T06:19:28.711Z",
+ "updated": "2026-08-06T06:21:54.404Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska nektariner",
-   "price": "24 kr/kg",
+   "item": "Svenska plommon i lösvikt",
+   "price": "34 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Grillkorv Gutköps 800g",
-   "price": "25 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
    "store": "ICA",
-   "item": "Kycklingfilet Kronfågel 900g",
+   "item": "Kycklingfilé Kronfågel 900g",
    "price": "69 kr",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Rusta",
-   "item": "Utemöbelset balkong 3 delar",
-   "price": "399 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Färsk lax fillet 400g",
+   "price": "59 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Svenska nektariner 1kg",
+   "price": "24 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
@@ -33,10 +33,10 @@
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Lidl",
-   "item": "Svenska blåbär 400g",
-   "price": "19 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Utegrill kolgrill",
+   "price": "299 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
