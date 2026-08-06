@@ -1,13 +1,21 @@
 {
- "updated": "2026-08-06T00:52:28.714Z",
+ "updated": "2026-08-06T04:08:50.154Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-   "date": "2026-08-06T00:32:42.000Z",
+   "date": "2026-08-06T01:19:59.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
    "desc": "Neither the US or Oman have commented on the proposed agreement on the vital waterway."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Infantino sorry for errors but stays Fifa president",
+   "date": "2026-08-05T21:37:08.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans."
   },
   {
    "src": "BBC",
@@ -20,26 +28,50 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+   "date": "2026-08-05T23:28:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Drone carrying explosives found at German airport, police say",
    "date": "2026-08-05T20:01:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
    "desc": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-   "date": "2026-08-05T20:03:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Allt fler överlever stroke – halvering av dödsfallen",
+   "date": "2026-08-06T04:03:41.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/allt-fler-overlever-stroke-halvering-av-dodsfallen",
+   "desc": "Dödligheten i Sverige, där stroke anges som underliggande dödsorsak, har mer än halverats under 2000-talet. – Det är en fantastisk utveckling. Ett av de största framstegen vi har sett inom medicinen under många år, säger neurologiprofessorn Bo Norrving."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Infantino sorry for errors but stays Fifa president",
-   "date": "2026-08-05T21:37:08.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Denise skickades hem trots stroke – läkaren skyllde på långa ögonfransar",
+   "date": "2026-08-06T04:03:29.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/denise-skickades-hem-trots-stroke-lakaren-skyllde-pa-langa-ogonfransar",
+   "desc": "När 34-åriga Denise kom hem från gymmet en dag blev hon plötsligt yr och illamående. Hennes tillstånd förvärrades och hon fick svårt att se på ena ögat. Men trots symtomen skickades Denise hem."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Petades som MUF-ordförande – nu siktar Matilda (M) på riksdagen",
+   "date": "2026-08-06T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/petades-som-muf-ordforande-nu-siktar-matilda-m-pa-riksdagen",
+   "desc": "2020 valdes Matilda Ekeblad (M) till ordförande för MUF – men förlorade posten efter bara två år. Nu är hon en av toppkandidaterna på Moderaternas riksdagslista i Östergötland. – På sätt och vis är det min comeback till rikspolitiken, säger hon."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Eva i Mariefred har räddat djur i över 50 år: ”Gör det jag kan”",
+   "date": "2026-08-06T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/eva-i-mariefred-har-raddat-djur-i-over-50-ar-gor-det-jag-kan",
+   "desc": "I över 50 år har Eva Söderberg, 70, i Mariefred hjälpt vanskötta och övergivna djur. Hemma på gården har hon sin egna flock som alla har en egen bakgrund och historia."
   },
   {
    "src": "SVT",
@@ -50,44 +82,12 @@
    "desc": "Trustorhärvan är en av Sveriges mest uppmärksammade finansskandaler. Nästan 30 år efter att den briserade träder nyckelpersonerna – bland annat ekobrottslingen Joachim Posener – fram i en ny dokumentär på Netflix. – Jag kan stå för vad jag har gjort, säger han."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Trustor-avslöjaren sågar Netflix storsatsning: ”Gullar med brottslingar”",
-   "date": "2026-08-05T17:00:06.000Z",
-   "link": "https://www.svt.se/kultur/trustor-avslojaren-sagar-netflix-storsatsning-gullar-med-brottslingar",
-   "desc": "Gunnar Lindstedt – journalisten som avslöjade Trustorhärvan – sågar Netflix nya storsatsning. Han är djupt kritisk till att dokumentären inte redovisar vilka brott Trustor-mannen Thomas Jisander är dömd för. – Varför gullar man med brottslingar?, säger han till SVT."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "18-åring begärd häktad för söndagsmorgonens mordbrand i Linköping",
-   "date": "2026-08-05T14:31:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/18-aring-begard-haktad-for-sondagsmorgonens-mordbrand-i-linkoping",
-   "desc": "En 18-årig man begärdes idag häktad vid Linköpings tingsrätt misstänkt för att ha anlagt en brand i ett trapphus på Barnhemsgatan i centrala Linköping i söndags morse."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Explosion i Malmö – vittnet: ”Enorm smäll”",
-   "date": "2026-08-05T14:16:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/larm-om-explosion-pa-lugnet-i-malmo",
-   "desc": "En explosion inträffade på Kaptensgatan på Lugnet i Malmö under onsdagseftermiddagen. Nationella bombskyddet kallades till platsen för att undersöka föremålet. Avspärrningarna är nu hävda."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "”Skadar Åkessons ambition att visa SD:s regeringsduglighet”",
-   "date": "2026-08-05T14:15:36.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/skadar-akessons-ambition-att-visa-sds-regeringsduglighet",
-   "desc": "Det är inte de politiska sakfrågorna som orsakat mest debatt hittills i valrörelsen. Nej, det är att SD-profilen Richard Jomshof kallat politiska motståndare för quislingar, dvs landsförrädare."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Misstänkt farligt föremål i Stockholm – två frihetsberövade",
    "date": "2026-08-05T20:20:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-i-stockholm",
-   "desc": "Polisen har utrett ett misstänkt farligt föremålsom kastades in i en restauranglokal på Folkungagatan i Stockholm. Två personer har frihetsberövats, säger polisen."
+   "desc": "Polisen har utrett ett misstänkt farligt föremål som kastades in i en restauranglokal på Folkungagatan i Stockholm. Två personer har frihetsberövats, säger polisen."
   },
   {
    "src": "STHLM",
