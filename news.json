@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-07T06:44:05.696Z",
+ "updated": "2026-08-07T08:11:01.738Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Meta fined $567m in largest child safety ruling against social media giant",
-   "date": "2026-08-07T00:54:03.000Z",
+   "date": "2026-08-07T08:06:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
    "desc": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
   },
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Misstänks för mordet i skärgården – begärs häktad",
+   "date": "2026-08-07T07:33:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstanks-for-mordet-i-skargarden-begars-haktad",
+   "desc": "Den man i 50-årsåldern som misstänks för mord på en kvinna i skärgården har nu begärts häktad på sannolika skäl misstänkt för mord."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Experten reagerar på omtalade detaljen i Jackson Koivuns sving",
    "date": "2026-08-07T05:54:48.000Z",
    "link": "https://www.svt.se/sport/golf/experten-reagerar-pa-omtalade-detaljen-i-jackson-koivuns-sving",
@@ -68,18 +76,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man åtalas för dubbelmordet i Brattås",
+   "title": "Man åtalad för dubbelmordet i Brattås – nekar till brott trots dna-träff",
    "date": "2026-08-07T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/i-dag-vantas-atalet-om-dubbelmordet-i-brattas-2005",
-   "desc": "En man i 45-årsåldern åtalas för dubbelmordet i Brattås i Härnösand på försommaren 2005. Mannens dna har säkrats på ett av mordoffren, men han har hela tiden nekat till brott – och säger sig ha en förklaring till allt. – Efter slutförd förundersökning anser jag det finns tillräckliga skäl för att väcka åtal för två fall av mord och min bedömning är att bevisläget är gott, säger senior åklagare Hanna Flordal som är förundersökningsledare."
+   "desc": "En man i 45-årsåldern åtalas mot sitt nekande för dubbelmordet i Brattås i Härnösand på försommaren 2005. Enligt rättsläkarutlåtandet är det inte uteslutet att mordoffret Gerd Wiklund var vid liv när hon släpades in i ladugården i Brattås, där hon sedan hittades död tillsammans med Tor Öberg."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "En vild duva har flyttat in hos Karin i Karlstad",
-   "date": "2026-08-07T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/en-vild-duva-har-flyttat-in-hos-karin-i-karlstad",
-   "desc": "I februari traskade duvan ”Plutten” in hemma hos Karin Granlund – och där bor han kvar. – Nu har han maten där, och bor och sover här, säger hon."
+   "title": "Misstänks för mordet i skärgården – begärs häktad",
+   "date": "2026-08-07T07:33:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstanks-for-mordet-i-skargarden-begars-haktad",
+   "desc": "Den man i 50-årsåldern som misstänks för mord på en kvinna i skärgården har nu begärts häktad på sannolika skäl misstänkt för mord."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-06T14:37:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kallade-israels-regering-for-nazistjudar-s-kandidat-i-stockholm-hoppar-av",
    "desc": "En S-kandidat i det kommande kommunalvalet i Stockholms stad har nu hoppat av. Beskedet kommer efter att Expressen granskat mannens inlägg i sociala medier."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Smittspårningen avslutad – ingen mässlingsmitta på Sös",
-   "date": "2026-08-06T11:29:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/smittsparningen-avslutad-ingen-masslingsmitta-pa-sos",
-   "desc": "Södersjukhuset har nu avslutat smittspårningen efter mässling efter att ett mässlingsfall upptäcktes på barnakuten tidigare i veckan. – Tack vare snabb smittspårning och att vi snabbt kunde erbjuda vaccin och antikroppar till berörda patienter, anhöriga och medarbetare är risken mycket liten att någon av dem drabbas av sjukdom, säger Annelie Liljegren, chefläkare på Södersjukhuset i ett pressmeddelande."
   },
   {
    "src": "BBC",
