@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-07T03:26:21.124Z",
+ "updated": "2026-08-07T05:13:20.525Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Meta fined $567m in largest child safety ruling against social media giant",
+   "date": "2026-08-07T00:54:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+   "desc": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,14 +16,6 @@
    "date": "2026-08-06T18:53:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
    "desc": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Meta fined $567m in largest child safety ruling against social media giant",
-   "date": "2026-08-07T00:54:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-   "desc": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children."
   },
   {
    "src": "BBC",
@@ -29,57 +29,65 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-   "date": "2026-08-07T02:07:46.000Z",
+   "date": "2026-08-07T04:02:18.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
    "desc": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-   "date": "2026-08-06T17:38:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-   "desc": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday."
+   "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+   "date": "2026-08-07T00:34:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+   "desc": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Motorcyklist påkörd av lastbil på E4",
-   "date": "2026-08-06T17:38:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/motorcyklist-pakord-av-lastbil-pa-e4",
-   "desc": "En motorcyklist ska ha blivit påkörd bakifrån på E4 utanför Örkelljunga. Enligt räddningstjänsten är föraren allvarligt skadad. – Enligt vittnen ska lastbilen ha lämnat platsen efter olyckan, säger Mattias Johansson på Räddningstjänsten nordväst."
+   "title": "Villabrand utanför Åtvidaberg",
+   "date": "2026-08-07T05:00:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/villabrand-utanfor-atvidaberg",
+   "desc": "Räddningstjänsten larmades vid klockan 01.50 till en brand i en villa öster om Åtvidaberg."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Mc-förare till sjukhus efter krock med personbil",
-   "date": "2026-08-06T16:31:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/en-person-skadad-efter-krock-med-personbil-i-st-sigfrid",
-   "desc": "En motorcykel och en personbil kolliderade i St Sigfrid utanför Nybro på torsdagskvällen. Motorcyklisten fördes till sjukhus med allvarliga skador."
+   "title": "Åtal väntas mot misstänkt för dubbelmordet i Brattås 2005",
+   "date": "2026-08-07T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/i-dag-vantas-atalet-om-dubbelmordet-i-brattas-2005",
+   "desc": "Under fredagen väntas åtalet mot den man i 45-årsåldern som på sannolika skäl misstänks för dubbelmordet i Brattås i Härnösand på försommaren 2005. Mannens dna har säkrats på ett av mordoffren, men han har hela tiden nekat till brott – och säger sig ha en förklaring till allt."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "V-ledamöters kampanj för palestinska fångar väcker kritik",
-   "date": "2026-08-06T16:21:16.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/v-ledamoters-kampanj-for-palestinska-fangar-vacker-kritik",
-   "desc": "Vänsterpartistiska riksdagsledamöter genomförde en brevkampanj för palestinska fångar. Kampanjen har visat sig vara riktad till bland annat dömda brottslingar något som V fått starkt kritik för."
+   "title": "En vild duva har flyttat in hos Karin i Karlstad",
+   "date": "2026-08-07T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/en-vild-duva-har-flyttat-in-hos-karin-i-karlstad",
+   "desc": "I februari traskade duvan ”Plutten” in hemma hos Karin Granlund – och där bor han kvar. – Nu har han maten där, och bor och sover här, säger hon."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Barn påkört av buss i Taberg",
-   "date": "2026-08-06T16:01:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/person-pakord-av-buss-i-taberg",
-   "desc": "Ett barn i tioårsåldern blev påkörd av en buss på Tahevägen i Taberg på torsdagen. Barnet fördes till sjukhus och enligt Länssjukhuset Ryhov är barnet allvarligt skadad."
+   "title": "Årets kräftsäsong igång – Fortsatt många men små kräftor i Vättern",
+   "date": "2026-08-07T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/arets-kraftsasong-igang-fortsatt-manga-men-sma-kraftor",
+   "desc": "Årets kräftsäsong är här och för yrkesfiskarna är det bråda dagar. I Vättern är det gott om kräftor, men många av dem är små och smala, berättar yrkesfiskaren Andreas Tevell."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man gripen för våldtäkt inom äldreomsorgen i Skellefteå",
-   "date": "2026-08-06T14:15:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-gripen-for-valdtakt-inom-aldreomsorgen-i-skelleftea",
-   "desc": "En man i Skellefteå har gripits och anhållits misstänkt för flera sexövergrepp under den tid han jobbat inom äldreomsorgen. – Brotten har begåtts under en lång period, säger åklagaren Viktoria Lundqvist. Äldre- och socialförsäkringsminister Anna Tenje (M) förväntar sig att kommunen vidtar åtgärder."
+   "title": "Artist fattade eld i Visby – allvarligt skadad",
+   "date": "2026-08-07T02:19:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/artist-fattade-eld-i-visby-allvarligt-skadad",
+   "desc": "En artist fattade eld under en eldshow på Medeltidsveckan i Visby."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nya larm om problem efter att Region Stockholm tog över ätstörningsvården",
+   "date": "2026-08-07T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nya-larm-om-problem-efter-att-region-stockholm-tog-over-atstorningsvarden",
+   "desc": "När Region Stockholm tog över ätstörningsvården i egen regi i slutet av 2024 lovades en mer individanpassad vård, särskilt för patienter med samsjuklighet som autism. Men patienter och personal som SVT varit i kontakt med beskriver en annan verklighet."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-06T11:29:35.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/smittsparningen-avslutad-ingen-masslingsmitta-pa-sos",
    "desc": "Södersjukhuset har nu avslutat smittspårningen efter mässling efter att ett mässlingsfall upptäcktes på barnakuten tidigare i veckan. – Tack vare snabb smittspårning och att vi snabbt kunde erbjuda vaccin och antikroppar till berörda patienter, anhöriga och medarbetare är risken mycket liten att någon av dem drabbas av sjukdom, säger Annelie Liljegren, chefläkare på Södersjukhuset i ett pressmeddelande."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "En månad med halverad SL-biljett – så tycker politikerna",
-   "date": "2026-08-06T10:57:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-manad-med-halverad-sl-biljett-sa-tycker-politikerna",
-   "desc": "Under första månaden av det halverade priset på SL:s månadskort har försäljningen skjutit i höjden. Miljöpartiet ser positivt på ökningen samtidigt som Moderaterna, vars regering står för prisreduceringen, tonar ned vad en sådan ökning har för effekt på det faktiska resandet."
   },
   {
    "src": "BBC",
