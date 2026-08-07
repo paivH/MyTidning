@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T16:22:40.320Z",
+ "updated": "2026-08-07T17:21:44.168Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Meta fined $567m in largest child safety ruling against social media giant",
-   "date": "2026-08-07T09:22:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-   "desc": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
+   "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+   "date": "2026-08-07T16:33:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+   "desc": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week."
   },
   {
    "src": "BBC",
@@ -28,18 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-   "date": "2026-08-07T15:59:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-   "desc": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week."
+   "title": "Meta fined $567m in largest child safety ruling against social media giant",
+   "date": "2026-08-07T09:22:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+   "desc": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Mexico and Peru restore diplomatic relations after asylum row",
-   "date": "2026-08-07T15:38:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-   "desc": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025."
+   "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+   "date": "2026-08-07T16:13:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+   "desc": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter eldolyckan i Visby – extra säkerhetstänk under medeltidsdagarna i Arboga",
+   "date": "2026-08-07T16:22:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/efter-eldolyckan-i-visby-extra-sakerhetstank-under-medeltidsdagarna-i-arboga",
+   "desc": "En kvinna skadades i går allvarligt när hon fattade eld under ett uppträdande på medeltidsveckan i Visby. Något som satt extra fokus på säkerheten inför eldshowerna i Arboga. – Det kan faktiskt gå åt helvete även för dem som är proffs, säger Gustav Norman från Arbogariddarna."
   },
   {
    "src": "SVT",
@@ -47,7 +55,7 @@
    "title": "Ilona efter frisörbesöket: ”Jag såg ut som en häxa”",
    "date": "2026-08-07T16:00:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ilona-efter-frisorbesoket-jag-sag-ut-som-en-haxa",
-   "desc": "Ilona Rudnicki från Björköby utanför Vetlanda tog nyligen en drop-in tid hos en frisör på Höglandet. Önskemålet var att han skulle toppa hennes hår men istället klippte han av 15 cm. Nu har hon anmält händelsen till Allmänna reklamationsnämnden."
+   "desc": "Ilona Rudnicki från Björköby utanför Vetlanda tog nyligen en drop-in tid hos en frisör på Höglandet. Önskemålet var att han skulle toppa hennes hår men istället klippte han av 15 centimeter. Nu har hon anmält händelsen till Allmänna reklamationsnämnden."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-07T13:57:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/sa-ser-unga-pa-kraftskivan-jag-vet-inte-ens-varfor-man-har-det",
    "desc": "Kräftskivan har länge varit en självklar del av den svenska sensommaren. Men hur stark är traditionen bland dagens unga? SVT Nyheter Öst frågade Linköpingsbor huruvida de samlas kring kräftor och snapsvisor, eller inte."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Långa köer efter stängningen av Ullebergsleden i Karlstad",
-   "date": "2026-08-07T13:52:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/langa-koer-efter-stangningen-av-ullebergsleden-i-karlstad",
-   "desc": "Bilköerna har ringlat långa efter att Ullebergsleden i Karlstad stängdes för trafik natten till den 4 augusti. Kommunen har fått in många synpunkter och gör justeringar för att underlätta flödet. – Vi har förståelse för att det är frustrerande, säger Mathilda Rusman, projektledare."
   },
   {
    "src": "STHLM",
