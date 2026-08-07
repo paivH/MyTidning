@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-06T06:21:54.404Z",
+ "updated": "2026-08-07T05:27:19.078Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska plommon i lösvikt",
-   "price": "34 kr/kg",
+   "item": "Färska blåbär 400g",
+   "price": "25 kr",
    "url": "https://www.ica.se"
   },
   {
@@ -16,8 +16,8 @@
   },
   {
    "store": "Lidl",
-   "item": "Färsk lax fillet 400g",
-   "price": "59 kr",
+   "item": "Grillkol 3kg",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
@@ -28,14 +28,14 @@
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
-   "price": "49 kr",
+   "item": "Köttbullar 1kg (frys)",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utegrill kolgrill",
-   "price": "299 kr",
+   "item": "Utemöbelset i rotting, 4-sits",
+   "price": "1495 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
