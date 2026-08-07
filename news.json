@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-07T15:24:12.906Z",
+ "updated": "2026-08-07T16:22:40.320Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
-   "date": "2026-08-07T15:17:59.000Z",
+   "title": "Seven killed after Thai student opens fire at home and school",
+   "date": "2026-08-07T15:51:16.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
    "desc": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school."
   },
@@ -21,25 +21,41 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "date": "2026-08-07T14:41:15.000Z",
+   "date": "2026-08-07T15:48:49.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
    "desc": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-   "date": "2026-08-07T00:34:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-   "desc": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
+   "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+   "date": "2026-08-07T15:59:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+   "desc": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-   "date": "2026-08-07T05:44:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-   "desc": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
+   "title": "Mexico and Peru restore diplomatic relations after asylum row",
+   "date": "2026-08-07T15:38:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+   "desc": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ilona efter frisörbesöket: ”Jag såg ut som en häxa”",
+   "date": "2026-08-07T16:00:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ilona-efter-frisorbesoket-jag-sag-ut-som-en-haxa",
+   "desc": "Ilona Rudnicki från Björköby utanför Vetlanda tog nyligen en drop-in tid hos en frisör på Höglandet. Önskemålet var att han skulle toppa hennes hår men istället klippte han av 15 cm. Nu har hon anmält händelsen till Allmänna reklamationsnämnden."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Katter i Västerås omhändertogs efter livesändning på Tiktok",
+   "date": "2026-08-07T15:23:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/katter-i-vasteras-omhandertogs-efter-livesandning-pa-tiktok",
+   "desc": "Länsstyrelsen i Västmanland har omhändertagit en kattmamma och hennes ungar efter flera anmälningar om vanvård."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-07T13:52:44.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/varmland/langa-koer-efter-stangningen-av-ullebergsleden-i-karlstad",
    "desc": "Bilköerna har ringlat långa efter att Ullebergsleden i Karlstad stängdes för trafik natten till den 4 augusti. Kommunen har fått in många synpunkter och gör justeringar för att underlätta flödet. – Vi har förståelse för att det är frustrerande, säger Mathilda Rusman, projektledare."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Familjens ord om stödet efter Christians död: ”Visat att kärlek är starkare än hatet”",
-   "date": "2026-08-07T13:41:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/familjens-ord-om-stodet-efter-christians-dod-visat-att-karlek-ar-starkare-an-hatet",
-   "desc": "Under fredagen hölls en begravningsceremoni för Christian Zedig i Eksjö. I ett uttalande uttrycker familjen tacksamhet för stödet de fått efter Christians död. ”När vår älskade Christian togs ifrån oss på ett så ofattbart sätt har vi mötts av en värme och medmänsklighet som burit oss genom den mörkaste tiden i våra liv.”"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så ska V vända trenden – fem öre per kilowattimme ska bli kvar i länet",
-   "date": "2026-08-07T13:25:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-ska-v-vanda-trenden-fem-ore-per-kilowattimme-ska-bli-kvar-i-lanet",
-   "desc": "Vänsterpartiet backade med nästa fyra procentenheter i riksdagsvalet bland de röstande norrbottningarna 2022. Nu vill partiledare Nooshi Dadgostar vända på trenden genom att få pengarna att stanna kvar i regionen. – Vi kommer föra in det tidigt i regeringsförhandlingarna, säger hon."
   },
   {
    "src": "STHLM",
