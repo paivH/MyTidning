@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T18:09:51.038Z",
+ "updated": "2026-08-07T19:27:51.939Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-   "date": "2026-08-07T16:33:50.000Z",
+   "date": "2026-08-07T18:56:33.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
    "desc": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week."
   },
@@ -40,6 +40,14 @@
    "date": "2026-08-07T16:13:45.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
    "desc": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vita huset överväger att sparka Fed-topp",
+   "date": "2026-08-07T18:48:19.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/vita-huset-overvager-att-sparka-fed-topp",
+   "desc": "Donald Trump gör nya försök att tvinga bort Fed-toppen Lisa Cook. Vita huset ska ha meddelat Cook i veckan att man ”överväger” att sparka henne, enligt källor till ABC News."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-07T15:23:59.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/katter-i-vasteras-omhandertogs-efter-livesandning-pa-tiktok",
    "desc": "Länsstyrelsen i Västmanland har omhändertagit en kattmamma och hennes ungar efter flera anmälningar om vanvård."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Träning i skuggan av hotet: Taiwan förbereder sig för det värsta",
-   "date": "2026-08-07T15:08:36.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/traning-i-skuggan-av-hotet-taiwan-forbereder-sig-for-det-varsta",
-   "desc": "Kina har ökat det militära trycket på Taiwan de senaste åren och på ön pågår nu regelbundet militära övningar. SVT har följt med på en av dem. – Personligen anser jag att vi på allvar är hotade. Det märks inte minst på Kinas omfattande militärövningar utanför våra vatten, säger ingenjören Lee An-Pang."
   },
   {
    "src": "STHLM",
