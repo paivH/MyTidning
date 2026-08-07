@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-07T08:11:01.738Z",
+ "updated": "2026-08-07T09:30:30.549Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Meta fined $567m in largest child safety ruling against social media giant",
-   "date": "2026-08-07T08:06:40.000Z",
+   "date": "2026-08-07T09:22:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
    "desc": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
   },
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Rebeckas femte Håkankonsert i år – först i kön i Huskvarna",
+   "date": "2026-08-07T08:43:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/rebeckas-femte-hakankonsert-i-ar-forst-i-kon-i-huskvarna",
+   "desc": "Rebecka har varit på fyra av Håkan Hellströms konserter i år, ikväll blir hennes femte."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Dotterns känslor efter Brattås-åtalet: ”Helt nytt för mig”",
+   "date": "2026-08-07T08:19:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/dotterns-kanslor-efter-brattas-atalet-helt-nytt-for-mig",
+   "desc": "Barbro Öberg har längtat efter att mordet på hennes pappa Tor Öberg och Gerd Viklund ska klaras upp. SVT har träffat henne kort efter att ett åtal väckts mot den man i 45-årsåldern som suttit häktad misstänkt för dubbelmordet i Brattås, Härnösand."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Chockbeskedet: Nyförvärvet i HV71 slutar med hockey",
+   "date": "2026-08-07T08:14:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/chockbeskedet-nyforvarvet-i-hv71-slutar-med-hockey",
+   "desc": "HV71:s nyförvärv Noah Philp bryter sitt kontrakt och avslutar karriären med omedelbar verkan. Nu tvingas klubben jaga en ny center inför SHL-premiären."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Misstänks för mordet i skärgården – begärs häktad",
    "date": "2026-08-07T07:33:12.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstanks-for-mordet-i-skargarden-begars-haktad",
@@ -58,28 +82,12 @@
    "desc": "Försök inte med detta hemma. Golfstjärnskottet Jackson Koivun, 21, har en rörelse som hade kunnat förstöra vilken rygg som helst. – Det sticker verkligen ut, säger HBO Max-experten Wille Schauman."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Stopp i trafiken på E4 söder om Gränna",
-   "date": "2026-08-07T05:36:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/stopp-i-trafiken-pa-e4-soder-om-granna",
-   "desc": "Trafikverket varnar om en stillastående lastbil på E4 söder om Gränna. Långa köer skapas vid platsen och polisen uppmanar till försiktighet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Villabrand utanför Åtvidaberg",
-   "date": "2026-08-07T05:00:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/villabrand-utanfor-atvidaberg",
-   "desc": "Räddningstjänsten larmades vid klockan 01.50 till en brand i en villa öster om Åtvidaberg."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man åtalad för dubbelmordet i Brattås – nekar till brott trots dna-träff",
-   "date": "2026-08-07T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/i-dag-vantas-atalet-om-dubbelmordet-i-brattas-2005",
-   "desc": "En man i 45-årsåldern åtalas mot sitt nekande för dubbelmordet i Brattås i Härnösand på försommaren 2005. Enligt rättsläkarutlåtandet är det inte uteslutet att mordoffret Gerd Wiklund var vid liv när hon släpades in i ladugården i Brattås, där hon sedan hittades död tillsammans med Tor Öberg."
+   "title": "Man åtalas för mordbrand på Stora Essingen",
+   "date": "2026-08-07T08:39:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-atalas-for-mordbrand-pa-stora-essingen",
+   "desc": "I våras fruktade boende på Stora Essingen att en pyroman härjade på ön. Nu åtalas en man i 30-årsåldern för mordbrand. Han åtalas dock inte för den uppmärksammade branden i en villa i slutet av april."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-06T16:10:46.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-for-tag-till-och-fran-stockholm-central",
    "desc": "En nedriven kontaktledning stoppade tillfälligt fjärr- och regionaltåg till och från Stockholm Central under torsdagskvällen, skriver Sveriges Radios trafikredaktion."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kallade Israels regering för ”nazistjudar” – S-kandidat i Stockholm hoppar av",
-   "date": "2026-08-06T14:37:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kallade-israels-regering-for-nazistjudar-s-kandidat-i-stockholm-hoppar-av",
-   "desc": "En S-kandidat i det kommande kommunalvalet i Stockholms stad har nu hoppat av. Beskedet kommer efter att Expressen granskat mannens inlägg i sociala medier."
   },
   {
    "src": "BBC",
