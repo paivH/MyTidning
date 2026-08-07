@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T11:42:38.735Z",
+ "updated": "2026-08-07T12:54:38.222Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "date": "2026-08-07T11:38:28.000Z",
+   "date": "2026-08-07T12:02:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
    "desc": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
   },
@@ -36,10 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-   "date": "2026-08-06T18:53:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-   "desc": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
+   "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+   "date": "2026-08-07T09:50:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+   "desc": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man misstänkt för sexbrott på äldreboende släppt",
+   "date": "2026-08-07T12:47:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-misstankt-for-sexbrott-pa-aldreboende-slappt",
+   "desc": "Den man som stängts av från jobbet efter misstänkta sexövergrepp på ett vård- och omsorgsboende i Skellefteå har släppts på fri fot. Tingsrätten häver åklagarens beslut att hålla honom anhållen. – Vi är inte förvånade, säger mannens advokat, Mikael Stenman."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sverige vill se färre ryska turister – Spanien fortsätter ta emot många",
+   "date": "2026-08-07T12:07:22.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/sverige-vill-se-farre-ryska-turister-spanien-fortsatter-ta-emot-manga",
+   "desc": "Sverige har tillsammans med tio andra europeiska länder uppmanat EU att kraftigt begränsa turistvisum för ryska medborgare. Samtidigt fortsätter Spanien att vara ett av de Schengenländer som utfärdar flest sådana visum."
   },
   {
    "src": "SVT",
@@ -66,28 +82,12 @@
    "desc": "Rebecka har varit på fyra av Håkan Hellströms konserter i år, ikväll blir hennes femte."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Dotterns känslor efter Brattås-åtalet: ”Helt nytt för mig”",
-   "date": "2026-08-07T08:19:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/dotterns-kanslor-efter-brattas-atalet-helt-nytt-for-mig",
-   "desc": "Barbro Öberg har längtat efter att mordet på hennes pappa Tor Öberg och Gerd Viklund ska klaras upp. SVT har träffat henne kort efter att ett åtal väckts mot den man i 45-årsåldern som suttit häktad misstänkt för dubbelmordet i Brattås, Härnösand."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tränaren om att nyförvärvet i HV71 slutar med hockey",
-   "date": "2026-08-07T08:14:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/chockbeskedet-nyforvarvet-i-hv71-slutar-med-hockey",
-   "desc": "HV71:s nyförvärv Noah Philp bryter sitt kontrakt och avslutar karriären med omedelbar verkan. Nu tvingas klubben jaga en ny center inför SHL-premiären."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Elfel i Häggvik – stor påverkan på tågtrafiken",
+   "title": "Gräsbrand i Häggvik stoppar tågtrafiken – stor påverkan",
    "date": "2026-08-07T11:30:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/elfel-i-haggvik-stor-paverkan-pa-tagtrafiken",
-   "desc": "Ett elfel har inträffat på järnvägsspåret mellan Häggvik och Märsta. Pendeltåg och fjärrtåg påverkas och ännu finns ingen prognos när spåret kan återgå i trafik."
+   "desc": "En gräsbrand har brutit ut i Odensala mellan Häggvik och Märsta. Tågtrafiken på linjen Stockholm-Uppsala har därför stoppats medans räddningstjänstens släckningsarbete pågår. – Vi undersöker nu om en kontaktledning på platsen brinner, säger räddningstjänstens ledningsbefäl Mathias Häglund."
   },
   {
    "src": "STHLM",
