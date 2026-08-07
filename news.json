@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T10:49:15.587Z",
+ "updated": "2026-08-07T11:42:38.735Z",
  "items": [
   {
    "src": "BBC",
@@ -12,18 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-   "date": "2026-08-07T00:34:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-   "desc": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
+   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "date": "2026-08-07T11:38:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-   "date": "2026-08-07T01:57:02.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-   "desc": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
+   "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+   "date": "2026-08-07T00:34:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+   "desc": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
   },
   {
    "src": "BBC",
@@ -76,10 +76,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Chockbeskedet: Nyförvärvet i HV71 slutar med hockey",
+   "title": "Tränaren om att nyförvärvet i HV71 slutar med hockey",
    "date": "2026-08-07T08:14:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/chockbeskedet-nyforvarvet-i-hv71-slutar-med-hockey",
    "desc": "HV71:s nyförvärv Noah Philp bryter sitt kontrakt och avslutar karriären med omedelbar verkan. Nu tvingas klubben jaga en ny center inför SHL-premiären."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Elfel i Häggvik – stor påverkan på tågtrafiken",
+   "date": "2026-08-07T11:30:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/elfel-i-haggvik-stor-paverkan-pa-tagtrafiken",
+   "desc": "Ett elfel har inträffat på järnvägsspåret mellan Häggvik och Märsta. Pendeltåg och fjärrtåg påverkas och ännu finns ingen prognos när spåret kan återgå i trafik."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-07T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nya-larm-om-problem-efter-att-region-stockholm-tog-over-atstorningsvarden",
    "desc": "När Region Stockholm tog över ätstörningsvården i egen regi i slutet av 2024 lovades en mer individanpassad vård, särskilt för patienter med samsjuklighet som autism. Men patienter och personal som SVT varit i kontakt med beskriver en annan verklighet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 6 augusti",
-   "date": "2026-08-06T18:29:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-6-augusti-ftnlpv",
-   "desc": "Det här har SVT Nyheter Stockholm berättat om torsdagen 6 augusti."
   },
   {
    "src": "BBC",
