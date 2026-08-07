@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-07T14:11:10.407Z",
+ "updated": "2026-08-07T15:24:12.906Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+   "date": "2026-08-07T15:17:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+   "desc": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -13,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "date": "2026-08-07T13:18:33.000Z",
+   "date": "2026-08-07T14:41:15.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
    "desc": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
   },
@@ -34,12 +42,12 @@
    "desc": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-   "date": "2026-08-07T13:32:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-   "desc": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Träning i skuggan av hotet: Taiwan förbereder sig för det värsta",
+   "date": "2026-08-07T15:08:36.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/traning-i-skuggan-av-hotet-taiwan-forbereder-sig-for-det-varsta",
+   "desc": "Kina har ökat det militära trycket på Taiwan de senaste åren och på ön pågår nu regelbundet militära övningar. SVT har följt med på en av dem. – Personligen anser jag att vi på allvar är hotade. Det märks inte minst på Kinas omfattande militärövningar utanför våra vatten, säger ingenjören Lee An-Pang."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-07T13:25:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-ska-v-vanda-trenden-fem-ore-per-kilowattimme-ska-bli-kvar-i-lanet",
    "desc": "Vänsterpartiet backade med nästa fyra procentenheter i riksdagsvalet bland de röstande norrbottningarna 2022. Nu vill partiledare Nooshi Dadgostar vända på trenden genom att få pengarna att stanna kvar i regionen. – Vi kommer föra in det tidigt i regeringsförhandlingarna, säger hon."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kung Harald till sjukhus för kontroll",
-   "date": "2026-08-07T13:01:03.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/uppgifter-kung-harald-till-sjukhus",
-   "desc": "Norges kung Harald fördes till sjukhus med ambulans under fredagen, skriver norska Se og Hør. Uppgifterna tillbakavisas av norska hovet. ”Kungen var på en planerad kontroll”, skriver kungahuset i ett mejl till SVT Nyheter."
   },
   {
    "src": "STHLM",
