@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T09:30:30.549Z",
+ "updated": "2026-08-07T10:49:15.587Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Han kliver fram som Vänsterpartiets nya namn i Sävsjö",
+   "date": "2026-08-07T09:57:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/han-kliver-fram-som-vansterpartiets-nya-namn-i-savsjo",
+   "desc": "Gårdagens årsmöte för Vänsterpartiet i Sävsjö resulterade i att åtta namn nu finns på den öppna listan inför valet i september. Som ordförande i lokalföreningen och partiets förstanamn till fullmäktige sitter nu Ahmad Alhindy."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Norska kravet: Vill att Gianni Infantino avgår",
+   "date": "2026-08-07T09:22:33.000Z",
+   "link": "https://www.svt.se/sport/fotboll/norska-kravet-vill-att-gianni-infantino-avgar",
+   "desc": "Norska fotbollsförbundet vill byta ut Gianni Infantino som Fifas ordförande. Det meddelar man nu under en presskonferens. – Vi kommer att be honom att avgå, säger Lise Klaveness, ordförande för norska fotbollsförbundet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Rebeckas femte Håkankonsert i år – först i kön i Huskvarna",
    "date": "2026-08-07T08:43:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/rebeckas-femte-hakankonsert-i-ar-forst-i-kon-i-huskvarna",
@@ -66,20 +82,12 @@
    "desc": "HV71:s nyförvärv Noah Philp bryter sitt kontrakt och avslutar karriären med omedelbar verkan. Nu tvingas klubben jaga en ny center inför SHL-premiären."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Misstänks för mordet i skärgården – begärs häktad",
-   "date": "2026-08-07T07:33:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstanks-for-mordet-i-skargarden-begars-haktad",
-   "desc": "Den man i 50-årsåldern som misstänks för mord på en kvinna i skärgården har nu begärts häktad på sannolika skäl misstänkt för mord."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Experten reagerar på omtalade detaljen i Jackson Koivuns sving",
-   "date": "2026-08-07T05:54:48.000Z",
-   "link": "https://www.svt.se/sport/golf/experten-reagerar-pa-omtalade-detaljen-i-jackson-koivuns-sving",
-   "desc": "Försök inte med detta hemma. Golfstjärnskottet Jackson Koivun, 21, har en rörelse som hade kunnat förstöra vilken rygg som helst. – Det sticker verkligen ut, säger HBO Max-experten Wille Schauman."
+   "title": "60 hushåll i Sundbyberg tvingas flytta ut efter chockbesked",
+   "date": "2026-08-07T10:15:35.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/60-hushall-i-sundbyberg-tvingas-flytta-ut-efter-chockbesked",
+   "desc": "Förra veckan fick de boende i ett lägenhetshus i Hallonbergen veta att de tvingas flytta inom två månader, eftersom fastigheten ska rivas. SVT har träffat flera av de drabbade som vittnar om svårigheter att hitta nya hem på kort varsel. – Jag är ensam och sjuk. Ska jag hamna på gatan? säger hyresgästen Katfal Zhour Ilia."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-06T18:29:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-6-augusti-ftnlpv",
    "desc": "Det här har SVT Nyheter Stockholm berättat om torsdagen 6 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stopp för tåg till och från Stockholm Central",
-   "date": "2026-08-06T16:10:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-for-tag-till-och-fran-stockholm-central",
-   "desc": "En nedriven kontaktledning stoppade tillfälligt fjärr- och regionaltåg till och från Stockholm Central under torsdagskvällen, skriver Sveriges Radios trafikredaktion."
   },
   {
    "src": "BBC",
