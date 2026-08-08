@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T17:56:11.765Z",
+ "updated": "2026-08-08T18:35:24.226Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-   "date": "2026-08-08T16:34:18.000Z",
+   "date": "2026-08-08T17:58:42.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
    "desc": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
   },
@@ -52,10 +52,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fullt utvecklad brand i garage utanför Norrköping",
+   "title": "Garage utanför Norrköping totalförstört efter brand",
    "date": "2026-08-08T15:43:42.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/fullt-utvecklad-brand-i-garage-utanfor-norrkoping",
-   "desc": "Det brinner kraftigt i ett garage på Vikbolandet utanför Norrköping. Räddningstjänsten är på plats med flera resurser och insatsen kommer att ta flera timmar."
+   "desc": "Det brann kraftigt i ett garage på Vikbolandet utanför Norrköping under lördagseftermiddagen. Räddningstjänsten var på plats med flera resurser och insatsen tog flera timmar. Under kvällen kommer de att vara kvar för bevakning."
   },
   {
    "src": "SVT",
@@ -80,6 +80,14 @@
    "date": "2026-08-08T14:23:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/blekinge/folkfest-i-karlskrona-stortorget-har-blivit-beachvolley-plan",
    "desc": "Sten har byts ut mot sand. Det spelas beachvolley hela helgen på Stortorget i Karlskrona. Tävlande från hela landet och flera lokalbor har tagit sig ut för att njuta av sporten."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 8 augusti",
+   "date": "2026-08-08T17:59:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-8-augusti-svtmu6",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om lördagen 8 augusti."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-07T20:55:34.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-i-atervinningscentral-i-rosersberg",
    "desc": "Det började brinna kraftigt på en återvinningscentral i Rosersberg i Sigtuna kommun under fredagskvällen. En stor insats pågick fortfarande tidigt på lördagsmorgonen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 7 augusti",
-   "date": "2026-08-07T17:42:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-augusti-s3rw4u",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om fredagen 7 augusti."
   },
   {
    "src": "BBC",
