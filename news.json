@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T21:32:14.613Z",
+ "updated": "2026-08-08T22:24:14.989Z",
  "items": [
   {
    "src": "BBC",
@@ -40,6 +40,86 @@
    "date": "2026-08-08T17:23:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
    "desc": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”I fel händer kan AI vara ett mycket farligt vapen”",
+   "date": "2026-08-08T19:24:52.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/i-fel-hander-kan-ai-vara-ett-mycket-farligt-vapen",
+   "desc": "Den senaste tidens incidenter visar på riskerna med artificiell intelligens: cyberangrepp, virus och manipulation. Nu är AI-säkerhet i fokus igen – hur kan man undvika att tekniken hamnar i fel händer?"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sarah Sjöström inför första mästerskapet som mamma: ”Helt otroligt”",
+   "date": "2026-08-08T16:24:01.000Z",
+   "link": "https://www.svt.se/sport/simning/sarah-sjostrom-infor-forsta-masterskapet-som-mamma-helt-otroligt",
+   "desc": "Sarah Sjöström är på plats i Paris inför EM. Den svenska simstjärnan ska göra sitt första mästerskap som mamma. – Det känns helt otroligt, säger Sjöström till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Garage utanför Norrköping totalförstört efter brand",
+   "date": "2026-08-08T15:43:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/fullt-utvecklad-brand-i-garage-utanfor-norrkoping",
+   "desc": "Det brann kraftigt i ett garage på Vikbolandet utanför Norrköping under lördagseftermiddagen. Räddningstjänsten var på plats med flera resurser och insatsen tog flera timmar. Under kvällen kommer de att vara kvar för bevakning."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Djurgården tog efterlängtad seger – upp på kvalplats efter kross",
+   "date": "2026-08-08T14:58:37.000Z",
+   "link": "https://www.svt.se/sport/fotboll/djurgarden-tog-efterlangtad-seger-upp-pa-kvalplats-efter-kross",
+   "desc": "Ett krisande Djurgården hade bara gjort sju mål på hela säsongen inför mötet med Uppsala. Efteråt hade lagets målskörd mer än dubblerats. Blårändernas japanskor låg bakom 8–0-krossen på ”Krillan”."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här åker Öis-kaptenen på rött kort – då vann AIK",
+   "date": "2026-08-08T14:44:17.000Z",
+   "link": "https://www.svt.se/sport/fotboll/har-aker-ois-kaptenen-pa-rott-kort-sen-vande-aik",
+   "desc": "Mardrömsminuter för Öis. Hemmalagets kapten Daniel Paulson åkte på rött kort. Sedan vände AIK och vann. – Det känns tungt att sätta laget i den situationen, säger Paulson till SVT Sport."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 8 augusti",
+   "date": "2026-08-08T17:59:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-8-augusti-svtmu6",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om lördagen 8 augusti."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Bilfanatiker vallfärdar till Bro för att se svenska veteranbilarna",
+   "date": "2026-08-08T15:57:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bilfanatiker-vallfardar-till-bro-for-att-se-svenska-veteranbilarna",
+   "desc": "Nästa generations entusiaster möter gamla veteranbilar på bilträffen i Bro Park. Här samlas folk från hela Europa för att hylla det nedlagda bilmärket Saab. Se de klassiska veteranbilarna i klippet."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Kriminalvården når inte alla som behöver behandling",
+   "date": "2026-08-08T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kriminalvarden-nar-inte-alla-som-behover-behandling",
+   "desc": "Kriminalvården uppskattar att omkring 75 procent av deras klienter har medel- till hög risk för återfall i brott. Men statistik visar att myndigheten inte når motsvarande antal intagna med behandling. Linda Johnsson, 34, fick vänta i två år på ett behandlingsprogram och hann bara delta i fyra månader innan hon frigavs."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt brandattentat mot villa i Botkyrka",
+   "date": "2026-08-08T03:13:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-botkyrka",
+   "desc": "Räddningstjänsten har släckt en mindre brand i en villa i Botkyrka natten mot lördag. – Vi misstänker att man har kastat brännbar vätska in i huset, säger Per Tillander, vakthavande befäl vid räddningstjänsten."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Brand i återvinningscentral i Rosersberg",
+   "date": "2026-08-07T20:55:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-i-atervinningscentral-i-rosersberg",
+   "desc": "Det började brinna kraftigt på en återvinningscentral i Rosersberg i Sigtuna kommun under fredagskvällen. En stor insats pågick fortfarande tidigt på lördagsmorgonen."
   },
   {
    "src": "BBC",
