@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T08:35:40.119Z",
+ "updated": "2026-08-08T09:33:24.158Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Amanda Bohlin vinner Cykelvasan för andra året i rad",
+   "date": "2026-08-08T09:07:19.000Z",
+   "link": "https://www.svt.se/sport/cykel/amanda-bohlin-vinner-cykelvasan-for-andra-aret-i-rad",
+   "desc": "Förra året avgjorde Amanda Bohlin Cykelvasan i en spurtduell. I år var hon överlägsen när hon försvarade titeln – på ny rekordtid. – Perfekta förutsättningar och bra ben, säger Bohlin till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Todd Blanche godkänd som justitieminister i USA",
+   "date": "2026-08-08T08:48:44.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/todd-blanche-godkand-som-justitieminister-i-usa",
+   "desc": "Donald Trumps tidigare advokat Todd Blanche har godkänts av senaten som ny justitieminister."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Maradonas ”Guds hand”-boll säljs på auktion",
    "date": "2026-08-08T05:37:58.000Z",
    "link": "https://www.svt.se/sport/fotboll/maradonas-guds-hand-boll-saljs-pa-auktion",
@@ -64,22 +80,6 @@
    "date": "2026-08-08T04:02:13.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/helikopterturismen-okar-i-fjallen-det-ar-kul-att-flyga",
    "desc": "Det flygs allt mer helikopter i de svenska fjällen. Köerna ringlar långa uppe på fjällstationen vid Kebnekaise. Men Länsstyrelsen i Norrbotten vill se en reglering och beskriver situationen som allt mer ohållbar. – Det blir ju ett ökat buller så det är klart att det påverkar djurlivet i fjällen, säger Susanne Friberg, avdelningschef på samhällsavdelningen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Macheteman högg fastighetsskötare i armen – döms till fängelse",
-   "date": "2026-08-08T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/macheteman-hogg-fastighetsskotare-i-armen-doms-till-fangelse",
-   "desc": "En man i 40-årsåldern har dömts till fängelse för grov misshandel. Mannen högg en fastighetsskötare med machete i Köpings kommun."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Försvarsforskaren: Risken för valpåverkan i Sverige är 100 procent”",
-   "date": "2026-08-08T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/forsvarsforskaren-risken-for-valpaverkan-i-sverige-ar-100-procent",
-   "desc": "Flera val i Europa har senaste åren drabbats av otillåten påverkan och Sveriges regering har tidigare varnat för en stor risk för valpåverkan även här. David Lindahl, forskare vid FOI i Linköping, delar den bilden. – Vi har främmande makt som aktivt försöker hela tiden, säger han."
   },
   {
    "src": "STHLM",
