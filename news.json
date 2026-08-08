@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T11:01:37.222Z",
+ "updated": "2026-08-08T11:53:02.454Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Drönare sprängdes nära gasledning i Bulgarien",
+   "date": "2026-08-08T11:32:47.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/dronare-sprangdes-nara-gasledning-i-bulgarien",
+   "desc": "En oidentifierad drönare tog sig under lördagsmorgonen in i Bulgariens luftrum, säger landets premiärminister. Drönaren ska ha sprängts nära gränsen till Rumänien."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man död under rally-SM i Vimmerby",
+   "date": "2026-08-08T11:09:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/man-dod-under-rally-sm-i-vimmerby",
+   "desc": "En man i 70-årsåldern har avlidit i samband med SM i rally som just nu pågår i Vimmerby. Polisen är förtegen kring händelseförloppet och omständigheterna är oklara."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Buss har vält i Norge – flera skadade",
    "date": "2026-08-08T10:06:20.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/buss-har-valt-i-norge-flera-allvarligt-skadade",
@@ -64,22 +80,6 @@
    "date": "2026-08-08T08:48:44.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/todd-blanche-godkand-som-justitieminister-i-usa",
    "desc": "Donald Trumps tidigare advokat Todd Blanche har godkänts av senaten som ny justitieminister."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Maradonas ”Guds hand”-boll säljs på auktion",
-   "date": "2026-08-08T05:37:58.000Z",
-   "link": "https://www.svt.se/sport/fotboll/maradonas-guds-hand-boll-saljs-pa-auktion",
-   "desc": "Fotbollen som Diego Maradona gjorde sitt kända ”Guds hand”-mål med väntas säljas för miljonbelopp på auktion i Texas senare i augusti."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bebis opererades inne i mammans mage: ”Enorm skillnad”",
-   "date": "2026-08-08T04:21:11.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/bebis-opererades-inne-i-mammans-mage-enorm-skillnad",
-   "desc": "Läkare har för tredje gången utfört en operation på ett foster med den ovanliga missbildningen gastroschis. Ingreppet gjorde att pojken Theo kunde lämna sjukhuset bara några dagar efter födseln. – Det här gör en enorm skillnad för familjer som kan åka hem med sitt nyfödda barn redan kort efter födseln, säger professor Paolo de Coppi, barnkirurg, till BBC."
   },
   {
    "src": "STHLM",
