@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T13:41:51.282Z",
+ "updated": "2026-08-08T14:28:04.342Z",
  "items": [
   {
    "src": "BBC",
@@ -29,17 +29,33 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-   "date": "2026-08-07T22:13:55.000Z",
+   "date": "2026-08-08T14:25:19.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
    "desc": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
-   "date": "2026-08-08T12:01:42.000Z",
+   "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+   "date": "2026-08-08T13:49:09.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
    "desc": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Folkfest i Karlskrona –  Stortorget har blivit beachvolley plan",
+   "date": "2026-08-08T14:23:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/folkfest-i-karlskrona-stortorget-har-blivit-beachvolley-plan",
+   "desc": "Sten har byts ut mot sand. Det spelas beachvolley hela helgen på Stortorget i Karlskrona. Tävlande från hela landet och flera lokalbor har tagit sig ut för att njuta av sporten."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Valter Nilsson inför sin största konsert: ”Min dröm har examensfest”",
+   "date": "2026-08-08T13:50:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/valter-nilsson-infor-sin-storsta-konsert-min-drom-har-examensfest",
+   "desc": "Göteborgssonen Valter Nilsson är en stigande stjärna på artisthimlen. Halvvägs genom sin Sverigeturné uppträder han på hemmaplan under lördagskvällen. 12 000 personer har köpt biljetter för att se honom spela på Bananpiren."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-08T12:43:43.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/andersson-s-vill-se-fler-industrietableringar-lovar-statligt-stod",
    "desc": "Industrietableringar som leder till fler bostäder och bättre välfärd. Det var nyckelorden från S-ledaren Magdalena Andersson när hon besökte Noliamässan i Piteå."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Experten: Irankriget har gett huthierna enorma möjligheter",
-   "date": "2026-08-08T12:31:42.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/experten-irankriget-har-gett-huthierna-enorma-mojligheter",
-   "desc": "Den Iranstödda huthirörelsen har de senaste veckorna intensifierat sina attacker mot saudiska mål. Nu finns en oro att Jemen allt mer dras in i kriget mellan USA, Israel och Iran – som också kan få stora konsekvenser för världshandeln."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Väg 50 stängdes av efter trafikolycka söder om Kopparberg",
-   "date": "2026-08-08T12:30:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/orebro/vag-50-avstangd-efter-trafikolycka",
-   "desc": "En motorcykel och en bil har krockat på väg 50 söder om Kopparberg i Ljusnarsbergs kommun. Vägen var avstängd i båda riktningar under räddningsarbetet."
   },
   {
    "src": "STHLM",
