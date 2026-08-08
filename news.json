@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T01:45:27.832Z",
+ "updated": "2026-08-08T03:21:34.810Z",
  "items": [
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Misstänkt mordbrand i Botkyrka",
+   "date": "2026-08-08T03:13:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-botkyrka",
+   "desc": "Räddningstjänsten har släckt en mindre brand i en villa i Botkyrka natten mot lördag. – Vi misstänker att man har kastat brännbar vätska in i huset, säger Per Tillander, vakthavande befäl vid räddningstjänsten."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 7 augusti",
    "date": "2026-08-07T17:42:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-augusti-s3rw4u",
@@ -112,14 +120,6 @@
    "date": "2026-08-07T08:39:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-atalas-for-mordbrand-pa-stora-essingen",
    "desc": "I våras fruktade boende på Stora Essingen att en pyroman härjade på ön. Nu åtalas en man i 30-årsåldern för mordbrand. Han åtalas dock inte för den uppmärksammade branden i en villa i slutet av april."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänks för mordet i skärgården – häktas av Nacka tingsrätt",
-   "date": "2026-08-07T07:33:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstanks-for-mordet-i-skargarden-begars-haktad",
-   "desc": "Den man i 50-årsåldern som misstänks för mord på en kvinna i skärgården häktas nu på sannolika skäl misstänkt för mord. Kvinnan ska enligt åklagaren haft omfattande skador. – Vi har fått preliminära uppgifter från rättsläkaren. Hennes kropp visar spår av omfattande våld och det är både skador från ett eggvasst föremål men också trubbigt våld, säger åklagaren Emma Olsson i Nacka tingsrätt."
   },
   {
    "src": "BBC",
