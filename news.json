@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T19:25:54.476Z",
+ "updated": "2026-08-08T19:53:15.268Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "”I fel händer kan AI vara ett mycket farligt vapen”",
+   "date": "2026-08-08T19:24:52.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/i-fel-hander-kan-ai-vara-ett-mycket-farligt-vapen",
+   "desc": "Den senaste tidens incidenter visar på riskerna med artificiell intelligens: cyberangrepp, virus och manipulation. Nu är AI-säkerhet i fokus igen – hur undvika att tekniken hamnar i fel händer?"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Sarah Sjöström inför första mästerskapet som mamma: ”Helt otroligt”",
    "date": "2026-08-08T16:24:01.000Z",
    "link": "https://www.svt.se/sport/simning/sarah-sjostrom-infor-forsta-masterskapet-som-mamma-helt-otroligt",
@@ -72,14 +80,6 @@
    "date": "2026-08-08T14:44:17.000Z",
    "link": "https://www.svt.se/sport/fotboll/har-aker-ois-kaptenen-pa-rott-kort-sen-vande-aik",
    "desc": "Mardrömsminuter för Öis. Hemmalagets kapten Daniel Paulson åkte på rött kort. Sedan vände AIK och vann. – Det känns tungt att sätta laget i den situationen, säger Paulson till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Folkfest i Karlskrona –  Stortorget har blivit beachvolleyplan",
-   "date": "2026-08-08T14:23:15.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/blekinge/folkfest-i-karlskrona-stortorget-har-blivit-beachvolley-plan",
-   "desc": "Sten har byts ut mot sand. Det spelas beachvolley hela helgen på Stortorget i Karlskrona. Tävlande från hela landet och flera lokalbor har tagit sig ut för att njuta av sporten."
   },
   {
    "src": "STHLM",
