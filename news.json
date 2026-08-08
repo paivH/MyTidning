@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T11:53:02.454Z",
+ "updated": "2026-08-08T12:39:28.421Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Experten: Irankriget har gett huthierna enorma möjligheter",
+   "date": "2026-08-08T12:31:42.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/experten-irankriget-har-gett-huthierna-enorma-mojligheter",
+   "desc": "Den Iranstödda huthirörelsen har de senaste veckorna intensifierat sina attacker mot saudiska mål. Nu finns en oro att Jemen allt mer dras in i kriget mellan USA, Israel och Iran – som också kan få stora konsekvenser för världshandeln."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Väg 50 avstängd efter trafikolycka söder om Kopparberg",
+   "date": "2026-08-08T12:30:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/orebro/vag-50-avstangd-efter-trafikolycka",
+   "desc": "En motorcykel och en bil har krockat på väg 50 söder om Kopparberg i Ljusnarsbergs kommun. Enligt Trafikverket är vägen avstängd i båda riktningar under räddningsarbetet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Drönare sprängdes nära gasledning i Bulgarien",
    "date": "2026-08-08T11:32:47.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/dronare-sprangdes-nara-gasledning-i-bulgarien",
@@ -64,22 +80,6 @@
    "date": "2026-08-08T10:06:20.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/buss-har-valt-i-norge-flera-allvarligt-skadade",
    "desc": "En buss har kört av vägen längs med E6 i Trøndelag i Norge, rapporterar norska medier. Runt 30 passagerare befann sig ombord, där flera ska ha skadats, säger lokal polis enligt Dagbladet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Amanda Bohlin vinner Cykelvasan för andra året i rad",
-   "date": "2026-08-08T09:07:19.000Z",
-   "link": "https://www.svt.se/sport/cykel/amanda-bohlin-vinner-cykelvasan-for-andra-aret-i-rad",
-   "desc": "Förra året avgjorde Amanda Bohlin Cykelvasan i en spurtduell. I år var hon överlägsen när hon försvarade titeln – på ny rekordtid. – Perfekta förutsättningar och bra ben, säger Bohlin till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Todd Blanche godkänd som justitieminister i USA",
-   "date": "2026-08-08T08:48:44.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/todd-blanche-godkand-som-justitieminister-i-usa",
-   "desc": "Donald Trumps tidigare advokat Todd Blanche har godkänts av senaten som ny justitieminister."
   },
   {
    "src": "STHLM",
