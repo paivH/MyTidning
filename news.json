@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T14:28:04.342Z",
+ "updated": "2026-08-08T14:59:15.326Z",
  "items": [
   {
    "src": "BBC",
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+   "date": "2026-08-08T13:49:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+   "desc": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "The phone book that led us to Assad's spy chief in hiding",
    "date": "2026-08-07T23:23:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
@@ -32,14 +40,6 @@
    "date": "2026-08-08T14:25:19.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
    "desc": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-   "date": "2026-08-08T13:49:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-   "desc": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
   },
   {
    "src": "SVT",
