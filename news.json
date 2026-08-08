@@ -1,27 +1,19 @@
 {
- "updated": "2026-08-08T15:36:25.896Z",
+ "updated": "2026-08-08T16:28:24.143Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Child among three killed in Russian missile attacks near Kyiv",
-   "date": "2026-08-08T13:29:38.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-   "date": "2026-08-08T13:23:16.000Z",
+   "date": "2026-08-08T15:56:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
    "desc": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-   "date": "2026-08-08T13:49:09.000Z",
+   "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+   "date": "2026-08-08T16:19:29.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
    "desc": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
   },
@@ -42,6 +34,46 @@
    "desc": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta."
   },
   {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+   "date": "2026-08-08T15:44:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sarah Sjöström inför första mästerskapet som mamma: ”Helt otroligt”",
+   "date": "2026-08-08T16:24:01.000Z",
+   "link": "https://www.svt.se/sport/simning/sarah-sjostrom-infor-forsta-masterskapet-som-mamma-helt-otroligt",
+   "desc": "Sarah Sjöström är på plats i Paris inför EM. Den svenska simstjärnan ska göra sitt första mästerskap som mamma. – Det känns helt otroligt, säger Sjöström till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fullt utvecklad brand i garage utanför Norrköping",
+   "date": "2026-08-08T15:43:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/fullt-utvecklad-brand-i-garage-utanfor-norrkoping",
+   "desc": "Det brinner kraftigt i ett garage på Vikbolandet utanför Norrköping. Räddningstjänsten är på plats med flera resurser och insatsen kommer att ta flera timmar."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Djurgården tog efterlängtad seger – upp på kvalplats efter kross",
+   "date": "2026-08-08T14:58:37.000Z",
+   "link": "https://www.svt.se/sport/fotboll/djurgarden-tog-efterlangtad-seger-upp-pa-kvalplats-efter-kross",
+   "desc": "Ett krisande Djurgården hade bara gjort sju mål på hela säsongen inför mötet med Uppsala. Efteråt hade lagets målskörd mer än dubblerats. Blårändernas japanskor låg bakom 8–0-krossen på ”Krillan”."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här åker Öis-kaptenen på rött kort – då vann AIK",
+   "date": "2026-08-08T14:44:17.000Z",
+   "link": "https://www.svt.se/sport/fotboll/har-aker-ois-kaptenen-pa-rott-kort-sen-vande-aik",
+   "desc": "Mardrömsminuter för Öis. Hemmalagets kapten Daniel Paulson åkte på rött kort. Sedan vände AIK och vann. – Det känns tungt att sätta laget i den situationen, säger Paulson till SVT Sport."
+  },
+  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Folkfest i Karlskrona –  Stortorget har blivit beachvolley plan",
@@ -50,36 +82,12 @@
    "desc": "Sten har byts ut mot sand. Det spelas beachvolley hela helgen på Stortorget i Karlskrona. Tävlande från hela landet och flera lokalbor har tagit sig ut för att njuta av sporten."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Valter Nilsson inför sin största konsert: ”Min dröm har examensfest”",
-   "date": "2026-08-08T13:50:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/valter-nilsson-infor-sin-storsta-konsert-min-drom-har-examensfest",
-   "desc": "Göteborgssonen Valter Nilsson är en stigande stjärna på artisthimlen. Halvvägs genom sin Sverigeturné uppträder han på hemmaplan under lördagskvällen. 12 000 personer har köpt biljetter för att se honom spela på Bananpiren."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Debutanten i Ångaloppet swimrun: ”Ska bara överleva”",
-   "date": "2026-08-08T13:37:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/debutanten-i-angaloppet-swimrun-ska-bara-overleva",
-   "desc": "Det beskrivs som ett av Sveriges största tävlingslopp i sin klass. När simning och löpning kombineras så blir det swimrun – SVT var med när årets Ångalopp blåstes igång."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här gör Noah Christoffersson mål på AIK – igen",
-   "date": "2026-08-08T13:20:22.000Z",
-   "link": "https://www.svt.se/sport/fotboll/har-gor-noah-christoffersson-mal-pa-aik-igen",
-   "desc": "Noah Christoffersson gjorde hattrick mot AIK förra helgen. När lagen nu möttes igen behövde han bara tretton minuter för att näta. – Det är inte ofta man gör sådana mål, säger han till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Andersson (S) vill se fler industrietableringar – lovar statligt stöd",
-   "date": "2026-08-08T12:43:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/andersson-s-vill-se-fler-industrietableringar-lovar-statligt-stod",
-   "desc": "Industrietableringar som leder till fler bostäder och bättre välfärd. Det var nyckelorden från S-ledaren Magdalena Andersson när hon besökte Noliamässan i Piteå."
+   "title": "Bilfanatiker vallfärdar till Bro för att se svenska veteranbilarna",
+   "date": "2026-08-08T15:57:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bilfanatiker-vallfardar-till-bro-for-att-se-svenska-veteranbilarna",
+   "desc": "Nästa generations entusiaster möter gamla veteranbilar på bilträffen i Bro Park. Här samlas folk från hela Europa för att hylla det nedlagda bilmärket Saab. Se de klassiska veteranbilarna i klippet."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-07T17:42:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-augusti-s3rw4u",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om fredagen 7 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Gräsbrand i Häggvik stoppade tågtrafiken – stor påverkan",
-   "date": "2026-08-07T11:30:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/elfel-i-haggvik-stor-paverkan-pa-tagtrafiken",
-   "desc": "En gräsbrand bröt ut i Odensala mellan Häggvik och Märsta under fredagseftermiddagen. Tågtrafik på linjen Stockholm-Uppsala stoppades medan räddningstjänstens släckningsarbete pågick."
   },
   {
    "src": "BBC",
