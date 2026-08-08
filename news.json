@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T06:44:30.256Z",
+ "updated": "2026-08-08T07:45:14.155Z",
  "items": [
   {
    "src": "BBC",
@@ -100,6 +100,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Brand i återvinningscentral i Rosersberg",
+   "date": "2026-08-07T20:55:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-i-atervinningscentral-i-rosersberg",
+   "desc": "Det började brinna kraftigt på en återvinningscentral i Rosersberg i Sigtuna kommun under fredagskvällen. En stor insats pågick fortfarande tidigt på lördagsmorgonen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 7 augusti",
    "date": "2026-08-07T17:42:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-augusti-s3rw4u",
@@ -112,14 +120,6 @@
    "date": "2026-08-07T11:30:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/elfel-i-haggvik-stor-paverkan-pa-tagtrafiken",
    "desc": "En gräsbrand bröt ut i Odensala mellan Häggvik och Märsta under fredagseftermiddagen. Tågtrafik på linjen Stockholm-Uppsala stoppades medan räddningstjänstens släckningsarbete pågick."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "60 hushåll i Sundbyberg tvingas flytta ut efter chockbesked",
-   "date": "2026-08-07T10:15:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/60-hushall-i-sundbyberg-tvingas-flytta-ut-efter-chockbesked",
-   "desc": "Förra veckan fick de boende i ett lägenhetshus i Hallonbergen veta att de tvingas flytta inom två månader, eftersom fastigheten ska rivas. SVT har träffat flera av de drabbade som vittnar om svårigheter att hitta nya hem på kort varsel. – Jag är ensam och sjuk. Ska jag hamna på gatan? säger hyresgästen Katfal Zhour Ilia."
   },
   {
    "src": "BBC",
