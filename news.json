@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-08T12:39:28.421Z",
+ "updated": "2026-08-08T13:41:51.282Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Child among three killed in Russian missile attacks near Kyiv",
-   "date": "2026-08-08T06:12:56.000Z",
+   "date": "2026-08-08T13:29:38.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
    "desc": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
-   "date": "2026-08-08T10:19:46.000Z",
+   "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+   "date": "2026-08-08T13:23:16.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-   "desc": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off."
+   "desc": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
   },
   {
    "src": "BBC",
@@ -36,10 +36,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-   "date": "2026-08-07T21:19:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-   "desc": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
+   "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+   "date": "2026-08-08T12:01:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+   "desc": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Debutanten i Ångaloppet swimrun: ”Ska bara överleva”",
+   "date": "2026-08-08T13:37:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/debutanten-i-angaloppet-swimrun-ska-bara-overleva",
+   "desc": "Det beskrivs som ett av Sveriges största tävlingslopp i sin klass. När simning och löpning kombineras så blir det swimrun – SVT var med när årets Ångalopp blåstes igång."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här gör Noah Christoffersson mål på AIK – igen",
+   "date": "2026-08-08T13:20:22.000Z",
+   "link": "https://www.svt.se/sport/fotboll/har-gor-noah-christoffersson-mal-pa-aik-igen",
+   "desc": "Noah Christoffersson gjorde hattrick mot AIK förra helgen. När lagen nu möttes igen behövde han bara tretton minuter för att näta."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Andersson (S) vill se fler industrietableringar – lovar statligt stöd",
+   "date": "2026-08-08T12:43:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/andersson-s-vill-se-fler-industrietableringar-lovar-statligt-stod",
+   "desc": "Industrietableringar som leder till fler bostäder och bättre välfärd. Det var nyckelorden från S-ledaren Magdalena Andersson när hon besökte Noliamässan i Piteå."
   },
   {
    "src": "SVT",
@@ -52,34 +76,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Väg 50 avstängd efter trafikolycka söder om Kopparberg",
+   "title": "Väg 50 stängdes av efter trafikolycka söder om Kopparberg",
    "date": "2026-08-08T12:30:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/orebro/vag-50-avstangd-efter-trafikolycka",
-   "desc": "En motorcykel och en bil har krockat på väg 50 söder om Kopparberg i Ljusnarsbergs kommun. Enligt Trafikverket är vägen avstängd i båda riktningar under räddningsarbetet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Drönare sprängdes nära gasledning i Bulgarien",
-   "date": "2026-08-08T11:32:47.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/dronare-sprangdes-nara-gasledning-i-bulgarien",
-   "desc": "En oidentifierad drönare tog sig under lördagsmorgonen in i Bulgariens luftrum, säger landets premiärminister. Drönaren ska ha sprängts nära gränsen till Rumänien."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man död under rally-SM i Vimmerby",
-   "date": "2026-08-08T11:09:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/man-dod-under-rally-sm-i-vimmerby",
-   "desc": "En man i 70-årsåldern har avlidit i samband med SM i rally som just nu pågår i Vimmerby. Polisen är förtegen kring händelseförloppet och omständigheterna är oklara."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Buss har vält i Norge – flera skadade",
-   "date": "2026-08-08T10:06:20.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/buss-har-valt-i-norge-flera-allvarligt-skadade",
-   "desc": "En buss har kört av vägen längs med E6 i Trøndelag i Norge, rapporterar norska medier. Runt 30 passagerare befann sig ombord, där flera ska ha skadats, säger lokal polis enligt Dagbladet."
+   "desc": "En motorcykel och en bil har krockat på väg 50 söder om Kopparberg i Ljusnarsbergs kommun. Vägen var avstängd i båda riktningar under räddningsarbetet."
   },
   {
    "src": "STHLM",
