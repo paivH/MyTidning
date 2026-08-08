@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T10:28:07.506Z",
+ "updated": "2026-08-08T11:01:37.222Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,14 @@
    "date": "2026-08-08T06:12:56.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
    "desc": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+   "date": "2026-08-08T10:19:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+   "desc": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off."
   },
   {
    "src": "BBC",
@@ -34,20 +42,12 @@
    "desc": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-   "date": "2026-08-07T14:20:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-   "desc": "The student says she feared never seeing her mother again after the attack killed five teachers."
-  },
-  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Buss har vält i Norge – flera allvarligt skadade",
+   "title": "Buss har vält i Norge – flera skadade",
    "date": "2026-08-08T10:06:20.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/buss-har-valt-i-norge-flera-allvarligt-skadade",
-   "desc": "En buss har kört av vägen längs med E6 i Trøndelag i Norge, rapporterar norska medier. Runt 30 passagerare befann sig ombord, där flera ska ha skadats allvarligt, säger lokal polis enligt Dagbladet."
+   "desc": "En buss har kört av vägen längs med E6 i Trøndelag i Norge, rapporterar norska medier. Runt 30 passagerare befann sig ombord, där flera ska ha skadats, säger lokal polis enligt Dagbladet."
   },
   {
    "src": "SVT",
