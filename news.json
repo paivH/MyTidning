@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-08T03:21:34.810Z",
+ "updated": "2026-08-08T04:34:25.934Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Child among three killed in Russian missile attacks near Kyiv",
+   "date": "2026-08-08T04:23:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -28,18 +36,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "date": "2026-08-07T17:42:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
+   "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+   "date": "2026-08-08T00:02:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-   "date": "2026-08-07T16:13:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-   "desc": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bebis opererades inne i mammans mage: ”Enorm skillnad”",
+   "date": "2026-08-08T04:21:11.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/bebis-opererades-inne-i-mammans-mage-enorm-skillnad",
+   "desc": "Läkare har för tredje gången utfört en operation på ett foster med den ovanliga missbildningen gastroschis. Ingreppet gjorde att pojken Theo kunde lämna sjukhuset bara några dagar efter födseln. – Det här gör en enorm skillnad för familjer som kan åka hem med sitt nyfödda barn redan kort efter födseln, säger professor Paolo de Coppi, barnkirurg, till BBC."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Helikopterturismen ökar i fjällen – ”det är kul att flyga”",
+   "date": "2026-08-08T04:02:13.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/helikopterturismen-okar-i-fjallen-det-ar-kul-att-flyga",
+   "desc": "Det flygs allt mer helikopter i de svenska fjällen. Köerna ringlar långa uppe på fjällstationen vid Kebnekaise. Men Länsstyrelsen i Norrbotten vill se en reglering och beskriver situationen som allt mer ohållbar. – Det blir ju ett ökat buller så det är klart att det påverkar djurlivet i fjällen, säger Susanne Friberg, avdelningschef på samhällsavdelningen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Macheteman högg fastighetsskötare i armen – döms till fängelse",
+   "date": "2026-08-08T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/macheteman-hogg-fastighetsskotare-i-armen-doms-till-fangelse",
+   "desc": "En man i 40-årsåldern har dömts till fängelse för grov misshandel. Mannen högg en fastighetsskötare med machete i Köpings kommun."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Försvarsforskaren: Risken för valpåverkan i Sverige är 100 procent”",
+   "date": "2026-08-08T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/forsvarsforskaren-risken-for-valpaverkan-i-sverige-ar-100-procent",
+   "desc": "Flera val i Europa har senaste åren drabbats av otillåten påverkan och Sveriges regering har tidigare varnat för en stor risk för valpåverkan även här. David Lindahl, forskare vid FOI i Linköping, delar den bilden. – Vi har främmande makt som aktivt försöker hela tiden, säger han."
   },
   {
    "src": "SVT",
@@ -50,41 +82,17 @@
    "desc": "En diplomatisk kris råder mellan Spanien och Italien sedan migrationskaoset på Ceuta. Nu varnar Spanien med flera åtgärder – om inte Italien backar."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Vita huset överväger att sparka Fed-topp",
-   "date": "2026-08-07T18:48:19.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/vita-huset-overvager-att-sparka-fed-topp",
-   "desc": "Donald Trump gör nya försök att tvinga bort Fed-toppen Lisa Cook. Vita huset ska ha meddelat Cook i veckan att man ”överväger” att sparka henne, enligt källor till ABC News."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Experten om försvarsavtalet: ”Visar på en ny verklighet”",
-   "date": "2026-08-07T17:58:50.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/experten-om-forsvarsavtalet-visar-pa-en-ny-verklighet",
-   "desc": "Saudiarabien, Pakistan och Turkiet har skrivit under ett gemensamt försvarsavtal. Den något oväntade trion kan vara först ut i en värld av nya försvarsallianser, tror Mellanösternexperten Alexander Atarodi. – Donald Trumps anarkistiska utrikespolitik har rört om hela den globala säkerhetsordningen, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Efter eldolyckan i Visby – extra säkerhetstänk under medeltidsdagarna i Arboga",
-   "date": "2026-08-07T16:22:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/efter-eldolyckan-i-visby-extra-sakerhetstank-under-medeltidsdagarna-i-arboga",
-   "desc": "En kvinna skadades i går allvarligt när hon fattade eld under ett uppträdande på medeltidsveckan i Visby. Något som satt extra fokus på säkerheten inför eldshowerna i Arboga. – Det kan faktiskt gå åt helvete även för dem som är proffs, säger Gustav Norman från Arbogariddarna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ilona efter frisörbesöket: ”Jag såg ut som en häxa”",
-   "date": "2026-08-07T16:00:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ilona-efter-frisorbesoket-jag-sag-ut-som-en-haxa",
-   "desc": "Ilona Rudnicki från Björköby utanför Vetlanda tog nyligen en drop-in tid hos en frisör på Höglandet. Önskemålet var att han skulle toppa hennes hår men istället klippte han av 15 centimeter. Nu har hon anmält händelsen till Allmänna reklamationsnämnden."
+   "title": "Kriminalvården når inte alla som behöver behandling",
+   "date": "2026-08-08T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kriminalvarden-nar-inte-alla-som-behover-behandling",
+   "desc": "Kriminalvården uppskattar att omkring 75 procent av deras klienter har medel- till hög risk för återfall i brott. Men statistik visar att myndigheten inte når motsvarande antal intagna med behandling. Linda Johnsson, 34, fick vänta i två år på ett behandlingsprogram och hann bara delta i fyra månader innan hon frigavs."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt mordbrand i Botkyrka",
+   "title": "Brand i villa i Botkyrka",
    "date": "2026-08-08T03:13:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-botkyrka",
    "desc": "Räddningstjänsten har släckt en mindre brand i en villa i Botkyrka natten mot lördag. – Vi misstänker att man har kastat brännbar vätska in i huset, säger Per Tillander, vakthavande befäl vid räddningstjänsten."
@@ -112,14 +120,6 @@
    "date": "2026-08-07T10:15:35.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/60-hushall-i-sundbyberg-tvingas-flytta-ut-efter-chockbesked",
    "desc": "Förra veckan fick de boende i ett lägenhetshus i Hallonbergen veta att de tvingas flytta inom två månader, eftersom fastigheten ska rivas. SVT har träffat flera av de drabbade som vittnar om svårigheter att hitta nya hem på kort varsel. – Jag är ensam och sjuk. Ska jag hamna på gatan? säger hyresgästen Katfal Zhour Ilia."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man åtalas för mordbrand på Stora Essingen",
-   "date": "2026-08-07T08:39:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-atalas-for-mordbrand-pa-stora-essingen",
-   "desc": "I våras fruktade boende på Stora Essingen att en pyroman härjade på ön. Nu åtalas en man i 30-årsåldern för mordbrand. Han åtalas dock inte för den uppmärksammade branden i en villa i slutet av april."
   },
   {
    "src": "BBC",
