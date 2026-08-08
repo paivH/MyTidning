@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T09:33:24.158Z",
+ "updated": "2026-08-08T10:28:07.506Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Buss har vält i Norge – flera allvarligt skadade",
+   "date": "2026-08-08T10:06:20.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/buss-har-valt-i-norge-flera-allvarligt-skadade",
+   "desc": "En buss har kört av vägen längs med E6 i Trøndelag i Norge, rapporterar norska medier. Runt 30 passagerare befann sig ombord, där flera ska ha skadats allvarligt, säger lokal polis enligt Dagbladet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Amanda Bohlin vinner Cykelvasan för andra året i rad",
    "date": "2026-08-08T09:07:19.000Z",
    "link": "https://www.svt.se/sport/cykel/amanda-bohlin-vinner-cykelvasan-for-andra-aret-i-rad",
@@ -72,14 +80,6 @@
    "date": "2026-08-08T04:21:11.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/bebis-opererades-inne-i-mammans-mage-enorm-skillnad",
    "desc": "Läkare har för tredje gången utfört en operation på ett foster med den ovanliga missbildningen gastroschis. Ingreppet gjorde att pojken Theo kunde lämna sjukhuset bara några dagar efter födseln. – Det här gör en enorm skillnad för familjer som kan åka hem med sitt nyfödda barn redan kort efter födseln, säger professor Paolo de Coppi, barnkirurg, till BBC."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Helikopterturismen ökar i fjällen – ”det är kul att flyga”",
-   "date": "2026-08-08T04:02:13.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/helikopterturismen-okar-i-fjallen-det-ar-kul-att-flyga",
-   "desc": "Det flygs allt mer helikopter i de svenska fjällen. Köerna ringlar långa uppe på fjällstationen vid Kebnekaise. Men Länsstyrelsen i Norrbotten vill se en reglering och beskriver situationen som allt mer ohållbar. – Det blir ju ett ökat buller så det är klart att det påverkar djurlivet i fjällen, säger Susanne Friberg, avdelningschef på samhällsavdelningen."
   },
   {
    "src": "STHLM",
