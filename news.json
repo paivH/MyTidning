@@ -1,13 +1,21 @@
 {
- "updated": "2026-08-09T20:43:21.652Z",
+ "updated": "2026-08-09T21:27:38.948Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "date": "2026-08-09T14:18:10.000Z",
+   "date": "2026-08-09T21:25:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
    "desc": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+   "date": "2026-08-09T20:58:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
   },
   {
    "src": "BBC",
@@ -32,14 +40,6 @@
    "date": "2026-08-09T15:34:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
    "desc": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Drones spotted over German base days after Leipzig bomb incident",
-   "date": "2026-08-09T16:18:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts."
   },
   {
    "src": "SVT",
@@ -87,7 +87,7 @@
    "title": "Trafikolycka vid Kungens kurva – tre bilar i krock",
    "date": "2026-08-09T19:06:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-vid-kungens-kurva-tre-bilar-i-krock",
-   "desc": "Tre bilar har krockat på E4 söder om Stockholm, vid Kungens kurva, på söndagskvällen. Räddningstjänst och polis är på plats."
+   "desc": "Tre bilar krockade på E4 söder om Stockholm, vid Kungens kurva, på söndagskvällen. Ingen ska ha skadats."
   },
   {
    "src": "STHLM",
