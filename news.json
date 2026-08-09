@@ -1,6 +1,22 @@
 {
- "updated": "2026-08-09T11:54:50.688Z",
+ "updated": "2026-08-09T12:41:37.373Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "date": "2026-08-09T12:12:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ancient Roman shipwreck discovered off Sicily coast",
+   "date": "2026-08-09T12:27:26.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+   "desc": "Italy's culture minister says it is one of the most important underwater archaeological finds in years."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -21,25 +37,25 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-   "date": "2026-08-09T10:02:52.000Z",
+   "date": "2026-08-09T12:39:18.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
    "desc": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-   "date": "2026-08-09T06:46:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km)."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ny succé för Viktor Svensk – knäcker norrmannen igen",
+   "date": "2026-08-09T12:35:21.000Z",
+   "link": "https://www.svt.se/sport/orientering/ny-succe-for-viktor-svensk-knacker-norrmannen-igen",
+   "desc": "Sveriges första lag låg illa till efter första sträckan. Sedan knäckte Viktor Svensk norske stjärnan Kasper Fosser på sista sträckan – och knep segern i herrstafetten. – Jag hade mycket tankar på slutet på hur jag ska lösa detta, säger Svensk till SVT Sport."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-   "date": "2026-08-08T19:18:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Dijan Vukojevic slog till med drömmål mot MFF: ”Det är världsklass!”",
+   "date": "2026-08-09T12:24:05.000Z",
+   "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-slog-till-med-drommal-mot-mff-det-ar-varldsklass",
+   "desc": "Årets mål i allsvenskan? Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det borta mot Malmö. – Det är galet att ens komma på tanken, säger TV4:s expert Jens Fjellström."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-09T10:51:58.000Z",
    "link": "https://www.svt.se/sport/orientering/sverige-trea-i-stafetten-efter-drama-pa-sistastrackan",
    "desc": "Efter två suveräna sträckor från unga världscupsdebutanterna Freja Hjerne och Klara Borg hade Sverige pallkänning inför den avslutande sträckan. Då gick Sanna Fast på en nit – men lyckades ändå springa i mål som trea. – Ja, fy alltså! Det var en riktig katastroföppning, säger en bedrövad Fast till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Simmaren Melker Rosengren jämförs med Hollywood-svensken: ”Ganska snygg”",
-   "date": "2026-08-09T09:42:59.000Z",
-   "link": "https://www.svt.se/sport/simning/simmaren-melker-rosengren-jamfors-med-hollywood-svensken-ganska-snygg",
-   "desc": "Lagkompisarna jämför honom med en Hollywood-kändis som setts i flera storfilmer. Men hur lika är de båda svenskarna? För SVT Sport berättar EM-aktuelle Melker Rosengren vilken skådespelare det handlar om. – Han är ganska snygg, så jag får ta det som en komplimang, säger simmaren."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Förstagångsväljarna Ayda och Ester fixar politisk debatt i Hallsberg",
-   "date": "2026-08-09T09:28:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/orebro/forstagangsvaljarna-ayda-och-ester-fixar-politisk-debatt-i-hallsberg",
-   "desc": "Ayda Kayedpour, 20 år, och Ester Hjärtsjö Heidenrich, 18 år, ska rösta för första gången i höst – men känner sig osäkra på vad de olika kommunpartierna vill. Nu tar de saken i egna händer och bjuder in politikerna till debatt, vilket NA var först med att rapportera om."
   },
   {
    "src": "STHLM",
