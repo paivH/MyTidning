@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T17:59:09.769Z",
+ "updated": "2026-08-09T18:51:59.660Z",
  "items": [
   {
    "src": "BBC",
@@ -29,9 +29,9 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-   "date": "2026-08-09T13:08:21.000Z",
+   "date": "2026-08-09T18:03:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km)."
+   "desc": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km)."
   },
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 9 augusti",
+   "date": "2026-08-09T18:09:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-9-augusti-27ekjs",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om söndagen 9 augusti."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Skogsbrand i skärgården",
    "date": "2026-08-09T14:40:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/aktiv-skogsbrand-i-skargarden",
@@ -112,14 +120,6 @@
    "date": "2026-08-08T17:59:52.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-8-augusti-svtmu6",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om lördagen 8 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bilfanatiker vallfärdar till Bro för att se svenska veteranbilarna",
-   "date": "2026-08-08T15:57:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bilfanatiker-vallfardar-till-bro-for-att-se-svenska-veteranbilarna",
-   "desc": "Nästa generations entusiaster möter gamla veteranbilar på bilträffen i Bro Park. Här samlas folk från hela Europa för att hylla det nedlagda bilmärket Saab. Se de klassiska veteranbilarna i klippet."
   },
   {
    "src": "BBC",
