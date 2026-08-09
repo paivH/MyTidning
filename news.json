@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T08:37:31.019Z",
+ "updated": "2026-08-09T09:35:14.074Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Förstagångsväljarna Ayda och Ester fixar politisk debatt i Hallsberg",
+   "date": "2026-08-09T09:28:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/orebro/forstagangsvaljarna-ayda-och-ester-fixar-politisk-debatt-i-hallsberg",
+   "desc": "Ayda Kayedpour, 20 år, och Ester Hjärtsjö Heidenrich, 18 år, ska rösta för första gången i höst – men känner sig osäkra på vad de olika kommunpartierna vill. Nu tar de saken i egna händer och bjuder in politikerna till debatt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter pappans bortgång – se lagkamratens fina hyllning till Messi",
+   "date": "2026-08-09T08:51:12.000Z",
+   "link": "https://www.svt.se/sport/fotboll/efter-pappans-bortgang-se-lagkamratens-fina-hyllning-till-messi",
+   "desc": "Leo Messi är i sorg efter att hans pappa Jorge avlidit. I Inter Miamis Leagues Cup-match passade lagkompisen Rodrigo De Paul på att hylla sin landsman vid ett målfirande."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Svårt skadad kostymklädd man hittad vid sjukhuset i Uddevalla",
    "date": "2026-08-09T08:32:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/svart-skadad-kostymkladd-man-hittad-vid-sjukhuset-i-uddevalla",
@@ -64,22 +80,6 @@
    "date": "2026-08-09T07:52:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/varmland/har-flyger-karlstads-segelflygsklubb-igen-efter-tragiska-dodsolyckan",
    "desc": "Förra helgen kraschade ett bogserplan vid en bogsering av ett segelflygplan på Karlstads flygplats. I planet satt 60-årige Richard Jonsson. Han var en erfaren pilot och ett känt namn i svenska segelflygkretsar. – Han var en pilot som spred stor glädje och stor entusiasm för det han älskade, säger vännen Roger Cato, som själv satt i det segelflyg som bogserades."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Armand Duplantis om det nya boendet i Monaco: ”Här börjar vi något nytt”",
-   "date": "2026-08-09T06:40:54.000Z",
-   "link": "https://www.svt.se/sport/friidrott/armand-duplantis-om-det-nya-boendet-i-monaco-har-borjar-vi-nagot-nytt",
-   "desc": "Armand Duplantis har haft några hektiska månader. Han har både gift sig – och flyttat till Monaco. – Här börjar vi något nytt, tillsammans som gift par, säger Mondo när SVT besöker honom i den nya hemstaden."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Gravida kvinnor dör – undviker sjukhus i eboladrabbade Kongo-Kinshasa",
-   "date": "2026-08-09T06:25:32.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/gravida-kvinnor-dor-undviker-sjukhus-i-eboladrabbade-kongo-kinshasa",
-   "desc": "Ebolautbrottet i Kongo-Kinshasa beskrivs som det snabbast växande i historien. Över 1 800 personer har hittills dött, enligt myndigheterna. Landets redan höga mödradödlighet ökar, och det varnas nu för en dold kris i smittans spår när gravida undviker sjukvården."
   },
   {
    "src": "STHLM",
