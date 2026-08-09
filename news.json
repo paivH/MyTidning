@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T06:06:48.853Z",
+ "updated": "2026-08-09T07:30:59.621Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Armand Duplantis om det nya boendet i Monaco: ”Här börjar vi något nytt”",
+   "date": "2026-08-09T06:40:54.000Z",
+   "link": "https://www.svt.se/sport/friidrott/armand-duplantis-om-det-nya-boendet-i-monaco-har-borjar-vi-nagot-nytt",
+   "desc": "Armand Duplantis har haft några hektiska månader. Han har både gift sig – och flyttat till Monaco. – Här börjar vi något nytt, tillsammans som gift par, säger Mondo när SVT besöker honom i den nya hemstaden."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Gravida kvinnor dör – undviker sjukhus i eboladrabbade Kongo-Kinshasa",
+   "date": "2026-08-09T06:25:32.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/gravida-kvinnor-dor-undviker-sjukhus-i-eboladrabbade-kongo-kinshasa",
+   "desc": "Ebolautbrottet i Kongo-Kinshasa beskrivs som det snabbast växande i historien. Över 1 800 personer har hittills dött, enligt myndigheterna. Landets redan höga mödradödlighet ökar, och det varnas nu för en dold kris i smittans spår när gravida undviker sjukvården."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Svensk guldsuccé i JVM – Liam Belo Da Silva vann tiokampen",
+   "date": "2026-08-09T04:55:48.000Z",
+   "link": "https://www.svt.se/sport/friidrott/svensk-guldsucce-i-jvm-liam-belo-da-silva-vann-tiokampen",
+   "desc": "Sverige har tagit sitt första guld i junior-VM i amerikanska Eugene. Växjö-killen Liam Belo Da Silva vann tiokampen i stor stil. – Jag skärpte till mig och gav mig själv möjligheten att vinna guldet, säger han till Svensk friidrott."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Åkesson om väljarnas skepsis mot SD: ”Förstår det”",
    "date": "2026-08-09T03:53:04.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/akesson-om-valjarnas-skepsis-mot-sd-forstar-det",
@@ -56,30 +80,6 @@
    "date": "2026-08-09T03:30:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/avgick-som-partiledare-nu-toppar-demirok-c-listan-i-ostergotland",
    "desc": "Först tog han plats i riksdagen, sedan blev han partiledare – och efter intern kritik fick han avgå. Den senaste mandatperioden har varit minst sagt händelserik för Muharrem Demirok (C) – och nu vill han behålla sin plats i riksdagen. – Den absolut viktigaste frågan för mig är att vi får en ny regering, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Därför väljer fler scouting: ”Folk står på kö”",
-   "date": "2026-08-09T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/darfor-valjer-fler-scouting-folk-star-pa-ko",
-   "desc": "Allt fler Scouter samlas kring lägereldarna i Gävleborgs län. Det ökande intresset märks inte minst i Iggesund. – Det är så stort intresse att vi har kölistor i flera åldersgrupper, säger Lias Wiklund, scoutledare i Iggesund scoutkår."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Varnar för ”bilhandlaren” i Malmö: ”Blivit djupt lurad”",
-   "date": "2026-08-09T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/varnar-for-bilhandlaren-i-malmo-blivit-djupt-lurad",
-   "desc": "Företaget Volta vars AB har polisanmälts flera gånger efter att de ska ha lurat av folk deras bilar. När SVT åker för att hitta bilhandlaren i Malmö finns de inte där. – Jag kommer aldrig våga lita på en människa igen, säger Anna i Stockholm."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lucas, 18, från Vingåker laddar för VM i lerduveskytte: ”Gäller att fokusera”",
-   "date": "2026-08-09T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/lucas-18-fran-vingaker-laddar-for-vm-i-lerduveskytte-galler-att-fokusera",
-   "desc": "Tre skyttar från Vingåkers jaktskytteklubb är uttagna till landslaget i compak sporting, en variant av lerduveskytte som avgörs i Italien i mitten av augusti. Yngst är 18-årige Lucas Johansson. – Det ska bli roligt och en upplevelse att komma till andra länder, säger han."
   },
   {
    "src": "STHLM",
