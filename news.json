@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T18:51:59.660Z",
+ "updated": "2026-08-09T19:29:39.790Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Tre dagar utan vatten – torkan blottlägger Ungerns slitna vattennät",
+   "date": "2026-08-09T19:07:55.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tre-dagar-utan-vatten-torkan-blottlagger-ungerns-slitna-vattennat",
+   "desc": "När kranarna plötsligt slutade fungera fick invånarna i den ungerska staden Szentendre hämta vatten ur tankar som ställts ut på gatan. Under tre dygn levde de utan rinnande vatten. Men vattenkrisen handlar inte bara om extremtorkan som nu råder i Ungern."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Transporter, livsmedel och energi – så kan torkan i Donau slå mot hela Europa",
+   "date": "2026-08-09T19:07:27.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/transporter-livsmedel-och-energi-sa-kan-torkan-i-donau-sla-mot-hela-europa",
+   "desc": "Under sommarens rekordvärme i Europa har Donau drabbats av dramatiskt låga vattennivåer. Regeringar längs floden arbetar hårt för att försöka möta konsekvenserna – och på sikt kan problemen sprida sig även till resten av Europa."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Ryskt par tältade i skogen – hålls nu i migrationsförvar",
    "date": "2026-08-09T15:41:49.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/ryskt-par-taltade-i-skogen-halls-nu-i-migrationsforvar",
@@ -66,20 +82,12 @@
    "desc": "SMHI varnar för stor till extremt stor risk för bränder i hela Götaland, delar av Svealand och Gävleborgs län. Varningen gäller framöver."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ny succé för Viktor Svensk – knäcker norrmannen igen",
-   "date": "2026-08-09T12:35:21.000Z",
-   "link": "https://www.svt.se/sport/orientering/ny-succe-for-viktor-svensk-knacker-norrmannen-igen",
-   "desc": "Sveriges första lag låg illa till efter första sträckan. Sedan knäckte Viktor Svensk norske stjärnan Kasper Harlem Fosser på sista sträckan – och knep segern i herrstafetten. – Jag hade mycket tankar på slutet på hur jag skulle lösa detta, säger Svensk till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Dijan Vukojevic slog till med drömmål mot MFF: ”Det är världsklass!”",
-   "date": "2026-08-09T12:24:05.000Z",
-   "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-slog-till-med-drommal-mot-mff-det-ar-varldsklass",
-   "desc": "Årets mål i allsvenskan? Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det i 2–1-segern borta mot Malmö. – Vad säger man? Wow, säger han till SVT Sport. – Tyvärr försvinner bollen i solen, säger Robin Olsen."
+   "title": "Trafikolycka vid Kungens kurva – tre bilar i krock",
+   "date": "2026-08-09T19:06:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-vid-kungens-kurva-tre-bilar-i-krock",
+   "desc": "Tre bilar har krockat på E4 söder om Stockholm, vid Kungens kurva, på söndagskvällen. Räddningstjänst och polis är på plats."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-09T00:46:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/skottlossning-i-trangsund-i-huddinge",
    "desc": "Flera skott avlossades genom en lägenhetsdörr i Trångsund natten mot söndagen. Det befann sig flera personer i lägenheten, men ingen skadades. – Vi genomför en insats i Stockholm, sade Ola Österling hos polisen vid halv tre-tiden."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 8 augusti",
-   "date": "2026-08-08T17:59:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-8-augusti-svtmu6",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om lördagen 8 augusti."
   },
   {
    "src": "BBC",
