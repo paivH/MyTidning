@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T15:26:49.741Z",
+ "updated": "2026-08-09T15:57:48.362Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Ryskt par tältade i skogen – hålls nu i migrationsförvar",
+   "date": "2026-08-09T15:41:49.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ryskt-par-taltade-i-skogen-halls-nu-i-migrationsforvar",
+   "desc": "Ryska medborgarna Semjon och Tatjana åkte på semesterresa från Spanien till Sverige. Det slutade i Migrationsverkets förvar – och nu är de rädda att bli utvisade till Ryssland. Polisen bekräftar att det finns ett ”pågående ärende”."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fem veckor kvar till val – nu drar valaffischeringen igång",
+   "date": "2026-08-09T15:39:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/fem-veckor-kvar-till-val-nu-drar-valaffischeringen-igang",
+   "desc": "Det är fem veckor kvar till valdagen vilket innebär att partierna nu får börja sätta upp sina valaffischer. SVT Värmland hängde på när Socialdemokraterna och Sverigedemokraterna jagade de bästa platserna att visa upp sina budskap."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Extrem brandrisk på flera håll i landet",
    "date": "2026-08-09T12:49:30.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/halland/extrem-brandrisk-pa-flera-hall-i-landet",
@@ -63,23 +79,7 @@
    "title": "Dijan Vukojevic slog till med drömmål mot MFF: ”Det är världsklass!”",
    "date": "2026-08-09T12:24:05.000Z",
    "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-slog-till-med-drommal-mot-mff-det-ar-varldsklass",
-   "desc": "Årets mål i allsvenskan? Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det i 2–1-segern borta mot Malmö. – Vad säger man? Wow, säger han till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "”Vi kristna är rädda för våldet”",
-   "date": "2026-08-09T11:52:52.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/vi-kristna-ar-radda-for-valdet",
-   "desc": "I den stilla öknen utanför Damaskus ber alla de religiösa grupperna sida vid sida. Men bakom gemenskapen finns en oro. – Många är rädda, säger Sandra Awad, en kristen kvinna som hoppas på en framtid utan våld och splittring för Syrien."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "S lovar extra barnbidrag inför jul- och sommarlov",
-   "date": "2026-08-09T11:05:49.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/s-lovar-extra-barnbidrag-infor-jul-och-sommarlov",
-   "desc": "Socialdemokraterna går till val på att dubbla barn- och studiebidraget inför varje jul- och sommarlov. Det skulle innebära 5 000 kronor mer per år för en tvåbarnsfamilj. Satsningen är inte inkomstprövande utan omfattar alla med barn. – Det kan vara ett ganska smart sätt att hålla ihop ett samhälle, att även den som är rik får en cancerbehandling, och barnbidrag för barnen när de är små, säger Mikael Damberg."
+   "desc": "Årets mål i allsvenskan? Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det i 2–1-segern borta mot Malmö. – Vad säger man? Wow, säger han till SVT Sport. – Tyvärr försvinner bollen i solen, säger Robin Olsen."
   },
   {
    "src": "STHLM",
