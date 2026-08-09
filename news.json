@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T07:30:59.621Z",
+ "updated": "2026-08-09T08:37:31.019Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Svårt skadad kostymklädd man hittad vid sjukhuset i Uddevalla",
+   "date": "2026-08-09T08:32:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/svart-skadad-kostymkladd-man-hittad-vid-sjukhuset-i-uddevalla",
+   "desc": "En man i 40-årsåldern klädd i kostym hittades natten till söndag svårt skadad på en väg vid sjukhuset i Uddevalla. Polisen söker nu vittnen till händelsen. – Vi är beroende av att det finns någon som sett någonting, säger Christian Brattgård, polisens presstalesperson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så organiserades migrantvågen i Ceuta på nätet",
+   "date": "2026-08-09T08:02:24.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/sa-organiserades-migrantvagen-i-ceuta-pa-natet",
+   "desc": "På bara några dagar tog sig cirka 72 000 människor från Marocko till den spanska exklaven Ceuta. Migrantvågen tycks ha tagit de spanska myndigheterna med överraskning. Men på sociala medier syntes tydliga tecken på att migranter mobiliserade dagarna före, visar SVT:s undersökning."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här flyger Karlstads segelflygsklubb igen efter tragiska dödsolyckan",
+   "date": "2026-08-09T07:52:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/har-flyger-karlstads-segelflygsklubb-igen-efter-tragiska-dodsolyckan",
+   "desc": "Förra helgen kraschade ett bogserplan vid en bogsering av ett segelflygplan på Karlstads flygplats. I planet satt 60-årige Richard Jonsson. Han var en erfaren pilot och ett känt namn i svenska segelflygkretsar. – Han var en pilot som spred stor glädje och stor entusiasm för det han älskade, säger vännen Roger Cato, som själv satt i det segelflyg som bogserades."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Armand Duplantis om det nya boendet i Monaco: ”Här börjar vi något nytt”",
    "date": "2026-08-09T06:40:54.000Z",
    "link": "https://www.svt.se/sport/friidrott/armand-duplantis-om-det-nya-boendet-i-monaco-har-borjar-vi-nagot-nytt",
@@ -58,30 +82,6 @@
    "desc": "Ebolautbrottet i Kongo-Kinshasa beskrivs som det snabbast växande i historien. Över 1 800 personer har hittills dött, enligt myndigheterna. Landets redan höga mödradödlighet ökar, och det varnas nu för en dold kris i smittans spår när gravida undviker sjukvården."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Svensk guldsuccé i JVM – Liam Belo Da Silva vann tiokampen",
-   "date": "2026-08-09T04:55:48.000Z",
-   "link": "https://www.svt.se/sport/friidrott/svensk-guldsucce-i-jvm-liam-belo-da-silva-vann-tiokampen",
-   "desc": "Sverige har tagit sitt första guld i junior-VM i amerikanska Eugene. Växjö-killen Liam Belo Da Silva vann tiokampen i stor stil. – Jag skärpte till mig och gav mig själv möjligheten att vinna guldet, säger han till Svensk friidrott."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Åkesson om väljarnas skepsis mot SD: ”Förstår det”",
-   "date": "2026-08-09T03:53:04.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/akesson-om-valjarnas-skepsis-mot-sd-forstar-det",
-   "desc": "Jimmie Åkesson säger att han förstår att en del väljare är skeptiska till tanken på SD-ministrar. Han uppmanar dem att rösta på andra partier. – Så att deras förhandlingsposition blir så bra som möjligt, säger SD-ledaren."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Avgick som partiledare – nu toppar Demirok (C) listan i Östergötland",
-   "date": "2026-08-09T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/avgick-som-partiledare-nu-toppar-demirok-c-listan-i-ostergotland",
-   "desc": "Först tog han plats i riksdagen, sedan blev han partiledare – och efter intern kritik fick han avgå. Den senaste mandatperioden har varit minst sagt händelserik för Muharrem Demirok (C) – och nu vill han behålla sin plats i riksdagen. – Den absolut viktigaste frågan för mig är att vi får en ny regering, säger han."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Kvinnojouren ser kraftig ökning av rättsliga trakasserier",
@@ -92,10 +92,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Skottlossning i Trångsund i Huddinge",
+   "title": "Skottlossning i Trångsund i Huddinge i natt",
    "date": "2026-08-09T00:46:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/skottlossning-i-trangsund-i-huddinge",
-   "desc": "Flera skott har avlossats genom en lägenhetsdörr i Trångsund natten mot söndagen. Det befann sig flera personer i lägenheten, men ingen skadades. – Vi genomför en insats i Stockholm, säger Ola Österling hos polisen."
+   "desc": "Flera skott avlossades genom en lägenhetsdörr i Trångsund natten mot söndagen. Det befann sig flera personer i lägenheten, men ingen skadades. – Vi genomför en insats i Stockholm, sade Ola Österling hos polisen vid halv tre-tiden."
   },
   {
    "src": "STHLM",
