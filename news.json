@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T19:29:39.790Z",
+ "updated": "2026-08-09T19:59:40.670Z",
  "items": [
   {
    "src": "BBC",
@@ -20,14 +20,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-   "date": "2026-08-09T04:32:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
    "date": "2026-08-09T18:03:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
@@ -40,6 +32,14 @@
    "date": "2026-08-09T15:34:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
    "desc": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Drones spotted over German base days after Leipzig bomb incident",
+   "date": "2026-08-09T16:18:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts."
   },
   {
    "src": "SVT",
