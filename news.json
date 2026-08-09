@@ -1,13 +1,21 @@
 {
- "updated": "2026-08-09T13:45:39.014Z",
+ "updated": "2026-08-09T14:30:36.057Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "date": "2026-08-09T12:12:10.000Z",
+   "date": "2026-08-09T14:18:10.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
    "desc": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+   "date": "2026-08-09T12:39:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
   },
   {
    "src": "BBC",
@@ -34,14 +42,6 @@
    "desc": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-   "date": "2026-08-09T12:39:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
-  },
-  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Extrem brandrisk på flera håll i landet",
@@ -63,7 +63,7 @@
    "title": "Dijan Vukojevic slog till med drömmål mot MFF: ”Det är världsklass!”",
    "date": "2026-08-09T12:24:05.000Z",
    "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-slog-till-med-drommal-mot-mff-det-ar-varldsklass",
-   "desc": "Årets mål i allsvenskan? Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det borta mot Malmö. – Jag ser att han är långt ute och då är det bara att köra, säger han till TV4."
+   "desc": "Årets mål i allsvenskan? Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det i 2–1-segern borta mot Malmö. – Jag ser att han är långt ute och då är det bara att köra, säger han till TV4."
   },
   {
    "src": "SVT",
@@ -79,7 +79,7 @@
    "title": "S lovar extra barnbidrag inför jul- och sommarlov",
    "date": "2026-08-09T11:05:49.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/s-lovar-extra-barnbidrag-infor-jul-och-sommarlov",
-   "desc": "Socialdemokraterna går till val på att dubbla barn- och studiebidraget inför varje jul- och sommarlov. Det skulle innebära 5 000 kronor mer per år för en tvåbarnsfamilj."
+   "desc": "Socialdemokraterna går till val på att dubbla barn- och studiebidraget inför varje jul- och sommarlov. Det skulle innebära 5 000 kronor mer per år för en tvåbarnsfamilj. Satsningen är inte inkomstprövande utan omfattar alla med barn. – Det kan vara ganska smart sätt att hålla ihop ett samhälle, att även den som är rik får en cancerbehandling, och barnbidrag för barnen när de är små, säger Mikael Damberg."
   },
   {
    "src": "STHLM",
