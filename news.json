@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T23:56:41.284Z",
+ "updated": "2026-08-09T01:43:49.399Z",
  "items": [
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Skottlossning i Trångsund i Huddinge",
+   "date": "2026-08-09T00:46:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skottlossning-i-trangsund-i-huddinge",
+   "desc": "Flera skott har avlossats genom en lägenhetsdörr i Trångsund natten mot söndagen. Det befann sig flera personer i lägenheten, men ingen skadades. – Vi genomför en insats i Stockholm, säger Ola Österling hos polisen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 8 augusti",
    "date": "2026-08-08T17:59:52.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-8-augusti-svtmu6",
@@ -112,14 +120,6 @@
    "date": "2026-08-08T03:13:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-botkyrka",
    "desc": "Räddningstjänsten har släckt en mindre brand i en villa i Botkyrka natten mot lördag. – Vi misstänker att man har kastat brännbar vätska in i huset, säger Per Tillander, vakthavande befäl vid räddningstjänsten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Brand i återvinningscentral i Rosersberg",
-   "date": "2026-08-07T20:55:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-i-atervinningscentral-i-rosersberg",
-   "desc": "Det började brinna kraftigt på en återvinningscentral i Rosersberg i Sigtuna kommun under fredagskvällen. En stor insats pågick fortfarande tidigt på lördagsmorgonen."
   },
   {
    "src": "BBC",
