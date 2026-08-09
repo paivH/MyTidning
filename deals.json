@@ -1,42 +1,42 @@
 {
- "updated": "2026-08-08T04:46:11.921Z",
+ "updated": "2026-08-09T04:54:53.525Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska blåbär 400g",
-   "price": "19 kr",
+   "item": "Svenska nektariner",
+   "price": "24 kr/kg",
    "url": "https://www.ica.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Grillkorv Wilhelm Brandenburg 400g",
+   "price": "25 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
-   "price": "59 kr",
+   "item": "Färsk laxfilé",
+   "price": "99 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Solmogna tomater i lösvikt",
-   "price": "24 kr/kg",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Grillkol 3kg",
-   "price": "39 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Utegrill 3-brännare",
+   "price": "899 kr",
+   "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (Restaurangen)",
-   "price": "49 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Rusta",
-   "item": "Utemöbler, matgrupp 4 personer",
-   "price": "1495 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Svenska blåbär 250g",
+   "price": "19 kr",
+   "url": "https://www.lidl.se"
   }
  ]
 }
