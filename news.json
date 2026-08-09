@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T14:30:36.057Z",
+ "updated": "2026-08-09T15:26:49.741Z",
  "items": [
   {
    "src": "BBC",
@@ -7,7 +7,7 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "date": "2026-08-09T14:18:10.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed."
+   "desc": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
   },
   {
    "src": "BBC",
@@ -28,18 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Fifa criticises campaign to oust president Infantino",
-   "date": "2026-08-08T22:06:44.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-   "desc": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
    "date": "2026-08-08T23:43:44.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
    "desc": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+   "date": "2026-08-09T04:32:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
   },
   {
    "src": "SVT",
@@ -63,7 +63,7 @@
    "title": "Dijan Vukojevic slog till med drömmål mot MFF: ”Det är världsklass!”",
    "date": "2026-08-09T12:24:05.000Z",
    "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-slog-till-med-drommal-mot-mff-det-ar-varldsklass",
-   "desc": "Årets mål i allsvenskan? Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det i 2–1-segern borta mot Malmö. – Jag ser att han är långt ute och då är det bara att köra, säger han till TV4."
+   "desc": "Årets mål i allsvenskan? Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det i 2–1-segern borta mot Malmö. – Vad säger man? Wow, säger han till SVT Sport."
   },
   {
    "src": "SVT",
@@ -79,7 +79,15 @@
    "title": "S lovar extra barnbidrag inför jul- och sommarlov",
    "date": "2026-08-09T11:05:49.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/s-lovar-extra-barnbidrag-infor-jul-och-sommarlov",
-   "desc": "Socialdemokraterna går till val på att dubbla barn- och studiebidraget inför varje jul- och sommarlov. Det skulle innebära 5 000 kronor mer per år för en tvåbarnsfamilj. Satsningen är inte inkomstprövande utan omfattar alla med barn. – Det kan vara ganska smart sätt att hålla ihop ett samhälle, att även den som är rik får en cancerbehandling, och barnbidrag för barnen när de är små, säger Mikael Damberg."
+   "desc": "Socialdemokraterna går till val på att dubbla barn- och studiebidraget inför varje jul- och sommarlov. Det skulle innebära 5 000 kronor mer per år för en tvåbarnsfamilj. Satsningen är inte inkomstprövande utan omfattar alla med barn. – Det kan vara ett ganska smart sätt att hålla ihop ett samhälle, att även den som är rik får en cancerbehandling, och barnbidrag för barnen när de är små, säger Mikael Damberg."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Aktiv skogsbrand i skärgården",
+   "date": "2026-08-09T14:40:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/aktiv-skogsbrand-i-skargarden",
+   "desc": "En skogsbrand bröt ut på ön Höga Fladkläppen i skärgården vid 15-tiden. Det finns ingen bebyggelse på ön men enligt räddningstjänsten finns en risk att branden sprider sig. – Vi är på plats med massor av enheter. Det är uppskattat till ungefär 2000 kvadratmeter, säger Alex Westerberg på räddningstjänsten."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-08T15:57:21.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/bilfanatiker-vallfardar-till-bro-for-att-se-svenska-veteranbilarna",
    "desc": "Nästa generations entusiaster möter gamla veteranbilar på bilträffen i Bro Park. Här samlas folk från hela Europa för att hylla det nedlagda bilmärket Saab. Se de klassiska veteranbilarna i klippet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kriminalvården når inte alla som behöver behandling",
-   "date": "2026-08-08T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kriminalvarden-nar-inte-alla-som-behover-behandling",
-   "desc": "Kriminalvården uppskattar att omkring 75 procent av deras klienter har medel- till hög risk för återfall i brott. Men statistik visar att myndigheten inte når motsvarande antal intagna med behandling. Linda Johnsson, 34, fick vänta i två år på ett behandlingsprogram och hann bara delta i fyra månader innan hon frigavs."
   },
   {
    "src": "BBC",
