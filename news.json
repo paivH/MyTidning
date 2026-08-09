@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T09:35:14.074Z",
+ "updated": "2026-08-09T10:30:02.181Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Hundreds arrested over French wildfires, but who is to blame?",
-   "date": "2026-08-08T23:59:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-   "desc": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month."
+   "title": "Fifa criticises campaign to oust president Infantino",
+   "date": "2026-08-08T22:06:44.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+   "desc": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+   "date": "2026-08-09T10:02:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+   "date": "2026-08-09T06:46:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km)."
   },
   {
    "src": "BBC",
@@ -26,20 +42,12 @@
    "desc": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-   "date": "2026-08-09T04:32:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-   "date": "2026-08-08T15:56:39.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-   "desc": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Simmaren Melker Rosengren jämförs med Hollywood-svensken: ”Ganska snygg”",
+   "date": "2026-08-09T09:42:59.000Z",
+   "link": "https://www.svt.se/sport/simning/simmaren-melker-rosengren-jamfors-med-hollywood-svensken-ganska-snygg",
+   "desc": "Lagkompisarna jämför honom med en Hollywood-kändis som setts i flera storfilmer. Men hur lika är de båda svenskarna? För SVT Sport berättar EM-aktuelle Melker Rosengren vilken skådespelare det handlar om. – Han är ganska snygg, så jag får ta det som en komplimang, säger simmaren."
   },
   {
    "src": "SVT",
@@ -47,7 +55,7 @@
    "title": "Förstagångsväljarna Ayda och Ester fixar politisk debatt i Hallsberg",
    "date": "2026-08-09T09:28:13.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/orebro/forstagangsvaljarna-ayda-och-ester-fixar-politisk-debatt-i-hallsberg",
-   "desc": "Ayda Kayedpour, 20 år, och Ester Hjärtsjö Heidenrich, 18 år, ska rösta för första gången i höst – men känner sig osäkra på vad de olika kommunpartierna vill. Nu tar de saken i egna händer och bjuder in politikerna till debatt."
+   "desc": "Ayda Kayedpour, 20 år, och Ester Hjärtsjö Heidenrich, 18 år, ska rösta för första gången i höst – men känner sig osäkra på vad de olika kommunpartierna vill. Nu tar de saken i egna händer och bjuder in politikerna till debatt, vilket NA var först med att rapportera om."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-09T08:02:24.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/sa-organiserades-migrantvagen-i-ceuta-pa-natet",
    "desc": "På bara några dagar tog sig cirka 72 000 människor från Marocko till den spanska exklaven Ceuta. Migrantvågen tycks ha tagit de spanska myndigheterna med överraskning. Men på sociala medier syntes tydliga tecken på att migranter mobiliserade dagarna före, visar SVT:s undersökning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här flyger Karlstads segelflygsklubb igen efter tragiska dödsolyckan",
-   "date": "2026-08-09T07:52:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/har-flyger-karlstads-segelflygsklubb-igen-efter-tragiska-dodsolyckan",
-   "desc": "Förra helgen kraschade ett bogserplan vid en bogsering av ett segelflygplan på Karlstads flygplats. I planet satt 60-årige Richard Jonsson. Han var en erfaren pilot och ett känt namn i svenska segelflygkretsar. – Han var en pilot som spred stor glädje och stor entusiasm för det han älskade, säger vännen Roger Cato, som själv satt i det segelflyg som bogserades."
   },
   {
    "src": "STHLM",
