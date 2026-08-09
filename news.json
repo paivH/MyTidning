@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T12:41:37.373Z",
+ "updated": "2026-08-09T13:45:39.014Z",
  "items": [
   {
    "src": "BBC",
@@ -44,10 +44,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Extrem brandrisk på flera håll i landet",
+   "date": "2026-08-09T12:49:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/extrem-brandrisk-pa-flera-hall-i-landet",
+   "desc": "SMHI varnar för stor till extremt stor risk för bränder i hela Götaland, delar av Svealand och Gävleborgs län. Varningen gäller framöver."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Ny succé för Viktor Svensk – knäcker norrmannen igen",
    "date": "2026-08-09T12:35:21.000Z",
    "link": "https://www.svt.se/sport/orientering/ny-succe-for-viktor-svensk-knacker-norrmannen-igen",
-   "desc": "Sveriges första lag låg illa till efter första sträckan. Sedan knäckte Viktor Svensk norske stjärnan Kasper Fosser på sista sträckan – och knep segern i herrstafetten. – Jag hade mycket tankar på slutet på hur jag ska lösa detta, säger Svensk till SVT Sport."
+   "desc": "Sveriges första lag låg illa till efter första sträckan. Sedan knäckte Viktor Svensk norske stjärnan Kasper Harlem Fosser på sista sträckan – och knep segern i herrstafetten. – Jag hade mycket tankar på slutet på hur jag skulle lösa detta, säger Svensk till SVT Sport."
   },
   {
    "src": "SVT",
@@ -55,7 +63,7 @@
    "title": "Dijan Vukojevic slog till med drömmål mot MFF: ”Det är världsklass!”",
    "date": "2026-08-09T12:24:05.000Z",
    "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-slog-till-med-drommal-mot-mff-det-ar-varldsklass",
-   "desc": "Årets mål i allsvenskan? Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det borta mot Malmö. – Det är galet att ens komma på tanken, säger TV4:s expert Jens Fjellström."
+   "desc": "Årets mål i allsvenskan? Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det borta mot Malmö. – Jag ser att han är långt ute och då är det bara att köra, säger han till TV4."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-09T11:05:49.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/s-lovar-extra-barnbidrag-infor-jul-och-sommarlov",
    "desc": "Socialdemokraterna går till val på att dubbla barn- och studiebidraget inför varje jul- och sommarlov. Det skulle innebära 5 000 kronor mer per år för en tvåbarnsfamilj."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sverige trea i stafetten – efter drama på sistasträckan",
-   "date": "2026-08-09T10:51:58.000Z",
-   "link": "https://www.svt.se/sport/orientering/sverige-trea-i-stafetten-efter-drama-pa-sistastrackan",
-   "desc": "Efter två suveräna sträckor från unga världscupsdebutanterna Freja Hjerne och Klara Borg hade Sverige pallkänning inför den avslutande sträckan. Då gick Sanna Fast på en nit – men lyckades ändå springa i mål som trea. – Ja, fy alltså! Det var en riktig katastroföppning, säger en bedrövad Fast till SVT Sport."
   },
   {
    "src": "STHLM",
