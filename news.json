@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T05:54:20.946Z",
+ "updated": "2026-08-10T07:24:36.476Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Fröken Snusk uppträder i Växjö – trots avbokning",
+   "date": "2026-08-10T07:18:06.000Z",
+   "link": "https://www.svt.se/kultur/froken-snusk-upptrader-i-vaxjo-trots-avbokning",
+   "desc": "Fröken Snusk blev avbokad av Växjös stadsfestival Karl-Oskardagarna efter att det framkommit att hon ska spela med Sverigedemokraternas partiledare Jimmie Åkessons dansband Åkezzonz. Nu kommer hon istället att uppträda på en tacorestaurang i Växjö."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polisen får flyga drönare utom synhåll i Norrköping – första gången i landet",
+   "date": "2026-08-10T06:15:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/polisen-far-flyga-dronare-utom-synhall-i-norrkoping-forsta-gangen-i-landet",
+   "desc": "Norrköpingspolisen har fått klartecken att flyga drönare utom synhåll. Det meddelar Transportstyrelsen under måndagen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rysslands enda antikrigsparti kan stoppas från dumavalet",
+   "date": "2026-08-10T05:51:40.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/rysslands-enda-antikrigsparti-kan-stoppas-fran-dumavalet",
+   "desc": "I september väljer ryssarna en ny statsduma. Samtidigt hålls regionala och kommunala val på flera håll i landet. Jabloko är det enda partiet i valet som öppet kräver att kriget i Ukraina ska stoppas – men nu riskerar partiet själv att bli stoppat."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Här är böckerna att ha koll på hösten 2026",
    "date": "2026-08-10T05:26:04.000Z",
    "link": "https://www.svt.se/kultur/bokhosten-2026-sex-undergang-och-influencers-eccvgc",
@@ -56,30 +80,6 @@
    "date": "2026-08-10T03:30:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/mattias-jagar-salar-i-skargarden-det-har-behover-manniskor-se",
    "desc": "I Östersjön pågår just nu licensjakt på säl. SVT följde med jägaren Mattias Landin till skärgården vid Sörmlands- och Östgötakusten. – Det här behöver många människor se, hur mycket säl det finns idag, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Regeringen vill lösa bristen på domare i inlandet – med fler utbildningsorter",
-   "date": "2026-08-10T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/regeringen-vill-losa-bristen-pa-domare-i-inlandet-med-fler-utbildningsorter",
-   "desc": "Gör domarutbildningen tillgänglig på fler orter. Det hoppas regeringen ska få fler att söka sig till tingsrätter i glesbygd som har svårt att rekrytera."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "”En väg in” till BUP blev ett svart hål – Anna väntade i månader",
-   "date": "2026-08-10T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/vardpersonalens-larm-om-en-vag-in-ett-svart-hal",
-   "desc": "”En väg in” skulle ge snabbare hjälp till barn och unga med psykisk ohälsa i Norrbotten. I stället vittnar föräldrar och vårdpersonal om ett svart hål där det inte går att komma fram. – Vi har haft jättebekymmer med tillgängligheten, säger Malin Hemphälä, verksamhetschef för barn- och föräldrahälsan inom Region Norrbotten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Efter replokalskrisen: L och KD vänder om studieförbunden",
-   "date": "2026-08-10T03:30:06.000Z",
-   "link": "https://www.svt.se/kultur/efter-replokalskrisen-l-och-kd-vander-om-studieforbunden",
-   "desc": "Efter en historisk nedskärning på folkbildningen har det larmats om akut brist på replokaler. Nu vill regeringspartierna Liberalerna och Kristdemokraterna satsa mer pengar på studieförbunden de kommande åren."
   },
   {
    "src": "STHLM",
