@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T19:52:47.014Z",
+ "updated": "2026-08-10T20:37:42.488Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Jakob Ingebrigtsens succé i comebacken – tog EM-guld",
+   "date": "2026-08-10T19:56:28.000Z",
+   "link": "https://www.svt.se/sport/friidrott/jakob-ingebrigtsen-succe-i-comebacken-tar-em-guld",
+   "desc": "Jakob Ingebrigtsen har inte tävlat sedan VM förra året. Nu gjorde han comeback på 5 000 meter – och tog hem EM-guldet efter en superspurt. – Han är helt otrolig, säger SVT:s expert Alhaji Jeng."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Fanny Roos fyra i EM-finalen: ”Väldigt surt”",
    "date": "2026-08-10T18:58:20.000Z",
    "link": "https://www.svt.se/sport/friidrott/fanny-roos-fyra-i-em-finalen",
@@ -72,14 +80,6 @@
    "date": "2026-08-10T18:55:15.000Z",
    "link": "https://www.svt.se/sport/fotboll/sirius-tappade-2-0-mot-bp-efter-mardromsminuter",
    "desc": "När Isak Bjerkebo satte 2–0 till Sirius trodde nog de flesta på en femte raka seger för serieledarna. Men det slutade med delad pott på Studenternas, efter två snabba BP-mål. Efter matchen var Sirius tränare Andreas Engelmark rejält förbaskad på domarinsatsen. – Det är ett haveri hur man kommunicerar, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Gunnar Strömmer (M): ”Regeringen ser allvarligt på det inträffade”",
-   "date": "2026-08-10T15:05:04.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/gunnar-strommer-m-regeringen-ser-allvarligt-pa-det-intraffade",
-   "desc": "Säkerhetspolisen har stoppat en rysk underrättelseoperation – som bland annat skulle skada Sveriges rykte. Tre personer har fått lämna landet, efter beslut av regeringen. – Regeringen ser allvarligt på det inträffade, säger justitieminister Gunnar Strömmer (M)."
   },
   {
    "src": "STHLM",
