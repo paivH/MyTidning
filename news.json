@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T10:17:02.871Z",
+ "updated": "2026-08-10T11:29:36.058Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Marius Borg Høiby får behålla sin fotboja",
+   "date": "2026-08-10T10:54:13.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/marius-borg-hoiby-far-behalla-sin-fotboja",
+   "desc": "Marius Borg Høiby har suttit häktad hemma på kronprinsparets sommarresidens Skaugum – med en elektronisk fotboja han helst vill slippa. På måndagen var den norske ”bonusprinsen” tillbaka i Oslo tingsrätt, där häktningen förlängdes i fyra veckor till."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Timrås beslut om Google-etableringen skjuts upp",
    "date": "2026-08-10T10:04:16.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/beslut-om-google-etableringen-skjuts-upp",
@@ -70,16 +78,8 @@
    "section": "Sverige · Stockholm",
    "title": "Här anländer första persontåget från Finland till Sverige – på 38 år",
    "date": "2026-08-10T09:07:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-anlander-forsta-persontaget-fran-finland-till-sverige-pa-34-ar",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-anlander-forsta-persontaget-fran-finland-till-sverige-pa-38-ar",
    "desc": "Det första persontåget på 38 år mellan Finland och Sverige invigdes under måndagsmorgonen. Stämningen var god när tåget stannade i Haparanda. – Det känns väldigt spännande, säger Helge Niska som åkte tåget som ung."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Polisens nya vapen: Dna avslöjar mördarens ålder",
-   "date": "2026-08-10T08:57:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/polisens-nya-vapen-dna-avslojar-mordarens-alder",
-   "desc": "Snart kan åldern på okända brottslingar uppskattas genom fördjupad dna-analys. Under senhösten inför polisen den nya forensiska metoden i sitt utredningsarbete – och siktet är inställt på misstänkta mördare och våldtäktsmän."
   },
   {
    "src": "STHLM",
@@ -92,10 +92,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Strömavbrott på tunnelbanans röda linje – stationen i Alby stängt",
+   "title": "Strömavbrott på tunnelbanans röda linje – stationen i Alby stängd",
    "date": "2026-08-10T10:04:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stromavbrott-pa-tunnelbanans-roda-linje-stationen-i-alby-stangt",
-   "desc": "Tunnelbanans röda linje stannar inte i Alby sedan klockan 08:30 i morse, vilket Mitt i var först att rapportera om. En brand i ett elskåp orsakade ett strömavbrott."
+   "desc": "Tunnelbanans röda linje stannar inte i Alby sedan klockan 08.30 i morse, vilket Mitt i var först att rapportera om. En brand i ett elskåp orsakade ett strömavbrott."
   },
   {
    "src": "STHLM",
