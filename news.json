@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T14:54:36.165Z",
+ "updated": "2026-08-10T15:57:08.940Z",
  "items": [
   {
    "src": "BBC",
@@ -12,6 +12,22 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "World's oceans hit record-high July temperatures",
+   "date": "2026-08-10T10:24:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+   "desc": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+   "date": "2026-08-10T14:43:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Evidence that South African special forces murdered top detective shared with BBC",
    "date": "2026-08-09T23:05:29.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
@@ -20,26 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "China evacuates one million from homes as massive storm arrives",
-   "date": "2026-08-10T07:23:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-   "date": "2026-08-10T09:51:07.000Z",
+   "date": "2026-08-10T15:21:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
    "desc": "Chalong Riewrang called a YouTube livestream to say he had shot a government official."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-   "date": "2026-08-10T12:23:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-   "desc": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Gunnar Strömmer (M): ”Regeringen ser allvarligt på det inträffade”",
+   "date": "2026-08-10T15:05:04.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/gunnar-strommer-m-regeringen-ser-allvarligt-pa-det-intraffade",
+   "desc": "Säkerhetspolisen har stoppat en rysk underrättelseoperation – som bland annat skulle skada Sveriges rykte. – Regeringen ser allvarligt på det inträffade, säger justitieminister Gunnar Strömmer (M)."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-10T14:18:41.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/bedragare-latsas-vara-blombud-polisen-varnar",
    "desc": "Polisen går nu ut och varnar för bedragare som utger sig för att vara blombud. På det sättet har de lurat äldre personer på deras bankkort. Bland annat i Timrå och Härnösand."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Rysk underrättelseofficer i hemligt möte med agent – på pub i Sverige",
-   "date": "2026-08-10T13:59:02.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/rysk-underrattelseofficer-i-hemligt-mote-med-agent-pa-pub-i-sverige",
-   "desc": "Säkerhetspolisen har stoppat en pågående rysk underrättelseoperation – och avslöjat en hemlig agent på ett annat lands ambassad i Stockholm. – Målet har varit att inhämta information från svenskt centralt politiskt beslutsfattande, säger Christoffer Wedelin, biträdande operativ chef på Säpo."
   },
   {
    "src": "STHLM",
