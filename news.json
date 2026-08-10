@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T17:48:38.123Z",
+ "updated": "2026-08-10T18:51:59.331Z",
  "items": [
   {
    "src": "BBC",
@@ -36,10 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Evidence that South African special forces murdered top detective shared with BBC",
-   "date": "2026-08-09T23:05:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
+   "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+   "date": "2026-08-10T17:50:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease."
   },
   {
    "src": "SVT",
@@ -47,7 +47,7 @@
    "title": "Gunnar Strömmer (M): ”Regeringen ser allvarligt på det inträffade”",
    "date": "2026-08-10T15:05:04.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/gunnar-strommer-m-regeringen-ser-allvarligt-pa-det-intraffade",
-   "desc": "Säkerhetspolisen har stoppat en rysk underrättelseoperation – som bland annat skulle skada Sveriges rykte. – Regeringen ser allvarligt på det inträffade, säger justitieminister Gunnar Strömmer (M)."
+   "desc": "Säkerhetspolisen har stoppat en rysk underrättelseoperation – som bland annat skulle skada Sveriges rykte. Tre personer har fått lämna landet, efter beslut av regeringen. – Regeringen ser allvarligt på det inträffade, säger justitieminister Gunnar Strömmer (M)."
   },
   {
    "src": "SVT",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 10 augusti",
+   "date": "2026-08-10T17:52:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-10-augusti-si13d5",
+   "desc": "Det här har vi på SVT Nyheter Stockholm rapporterat om måndagen den 10 augusti"
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Två 16-åringar döms för mordförsök i Farsta – man träffades av sex skott",
    "date": "2026-08-10T14:00:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-16-aringar-doms-for-mordforsok-i-farsta-man-traffades-av-sex-skott",
@@ -112,14 +120,6 @@
    "date": "2026-08-10T03:30:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-mycket-kostar-det-att-ta-en-dusch-storst-prisskillnader-i-stockholms-lan",
    "desc": "VA-taxorna har stigit betydligt i Sverige, visar en ny rapport. Och prisskillnaderna är stora mellan kommunerna. – Det är orimligt. Ingen skulle acceptera att priset på mjölk var fyra gånger dyrare i Vaxholm jämfört med Solna, säger Björn Berggren, ordförande för Nils Holgersson-gruppen som tagit fram rapporten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Trafikolycka vid Kungens kurva – tre bilar i krock",
-   "date": "2026-08-09T19:06:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-vid-kungens-kurva-tre-bilar-i-krock",
-   "desc": "Tre bilar krockade på E4 söder om Stockholm, vid Kungens kurva, på söndagskvällen. Ingen ska ha skadats."
   },
   {
    "src": "BBC",
