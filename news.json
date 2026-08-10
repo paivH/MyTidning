@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T20:37:42.488Z",
+ "updated": "2026-08-10T21:37:19.017Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Wictor Petersson om detaljen bakom EM-bronset",
+   "date": "2026-08-10T21:21:42.000Z",
+   "link": "https://www.svt.se/sport/friidrott/wictor-petersson-om-detaljen-bakom-em-bronset",
+   "desc": "Wictor Petersson tog ett historiskt EM-brons. Se hans analys efter bronset – där han pekar ut en detalj. – Då får jag en sån kick i det, säger han till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Wictor Petersson tog historiskt EM-brons",
+   "date": "2026-08-10T20:34:42.000Z",
+   "link": "https://www.svt.se/sport/friidrott/wictor-petersson-tog-historiskt-em-brons",
+   "desc": "Wictor Petersson har skrivit blågul historia. För första gången har en svensk tagit en mästerskapsmedalj i kulstötning utomhus. – Det ska upp på cv:t, säger han till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Jakob Ingebrigtsens succé i comebacken – tog EM-guld",
    "date": "2026-08-10T19:56:28.000Z",
    "link": "https://www.svt.se/sport/friidrott/jakob-ingebrigtsen-succe-i-comebacken-tar-em-guld",
@@ -64,22 +80,6 @@
    "date": "2026-08-10T18:55:19.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/gavleborg/ryska-turisterna-campade-intill-saab-chefen-ville-fiska-fran-bryggan",
    "desc": "Det ryska paret sattes i förvar och skapade rubriker sedan de slagit läger intill en fastighet där en individ med personskydd vistas. Nu kan SVT Gävleborg avslöja att den individen är Saabs vd Micael Johansson. Det var hans vakter som konfronterade ryssarna. – Min roll är ganska delikat. Det var därför skyddsvakterna kollade de här personerna, säger Micael Johansson till SVT Gävleborg."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Västerås tog revansch på Djurgården",
-   "date": "2026-08-10T18:55:19.000Z",
-   "link": "https://www.svt.se/sport/fotboll/vasteras-tog-revansch-pa-djurgarden",
-   "desc": "Sex mål i baken senast mot formstarka Djurgården. I dag tog västmanlänningarna revansch och vann efter att Mikkel Ladefogeds ersättare Bonaventure Lendambi satte matchens enda mål. – Jätteskönt. Ren lättnad, säger Västerås målvakt Elis Jäger till TV4 Play."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sirius tappade 2–0 mot BP – efter mardrömsminuter",
-   "date": "2026-08-10T18:55:15.000Z",
-   "link": "https://www.svt.se/sport/fotboll/sirius-tappade-2-0-mot-bp-efter-mardromsminuter",
-   "desc": "När Isak Bjerkebo satte 2–0 till Sirius trodde nog de flesta på en femte raka seger för serieledarna. Men det slutade med delad pott på Studenternas, efter två snabba BP-mål. Efter matchen var Sirius tränare Andreas Engelmark rejält förbaskad på domarinsatsen. – Det är ett haveri hur man kommunicerar, säger han."
   },
   {
    "src": "STHLM",
