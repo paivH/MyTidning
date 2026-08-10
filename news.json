@@ -1,13 +1,21 @@
 {
- "updated": "2026-08-10T12:10:38.126Z",
+ "updated": "2026-08-10T13:53:43.075Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-   "date": "2026-08-10T10:03:58.000Z",
+   "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+   "date": "2026-08-10T12:54:13.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-   "desc": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine."
+   "desc": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Evidence that South African special forces murdered top detective shared with BBC",
+   "date": "2026-08-09T23:05:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+   "desc": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
   },
   {
    "src": "BBC",
@@ -28,18 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-   "date": "2026-08-10T05:16:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Forensics revealed that the 'realistic' looking body was in fact not human."
+   "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+   "date": "2026-08-10T12:23:21.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+   "desc": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-   "date": "2026-08-10T09:33:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hög brandrisk i Östergötland –  kan bli eldningsförbud",
+   "date": "2026-08-10T13:25:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/hog-brandrisk-i-ostergotland-kan-bli-eldningsforbud",
+   "desc": "Det är mycket torrt i skog och mark och i Östergötland lyser brandriskkartan röd, speciellt i trakter runt Norrköping."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kraftigt jordskalv i Colombia",
+   "date": "2026-08-10T12:45:12.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/kraftigt-jordskalv-i-colombia-fedl4d",
+   "desc": "Ett kraftigt jordskalv med magnituden 7,4 har inträffat i Colombia, uppger både EMSC och Colombias geologiska institut. Skalvet skedde på 96 kilometers djup. – Som tur var. Det kommer nog inte att bli lika allvarligt som i Venezuela eller Turkiet, säger Björn Lund, seismolog vid Uppsala universitet."
   },
   {
    "src": "SVT",
@@ -63,23 +79,7 @@
    "title": "Våldsam singelolycka utanför Strängnäs – en person till sjukhus",
    "date": "2026-08-10T09:52:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/valdsam-singelolycka-utanfor-strangnas-en-person-till-sjukhus",
-   "desc": "En person har förts till sjukhus efter en våldsam singelolycka utanför Strängnäs."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Allt fler bötfälls på Mälartåg – har ökat med över 500 procent",
-   "date": "2026-08-10T09:09:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/allt-fler-botfalls-pa-malartag-okat-med-over-500-procent",
-   "desc": "Den 2 februari i år skärptes biljettkontrollerna på Mälartåg och en speciell kontrollgrupp infördes. Sedan dess har antalet bötfällda resenärer ökat med 536 procent. – Det görs 1,3 miljoner resor med oss varje månad, de allra flesta reser med rätt biljett, säger Katarina Myrberg, pressansvarig vid Mälardalstrafik."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här anländer första persontåget från Finland till Sverige – på 38 år",
-   "date": "2026-08-10T09:07:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-anlander-forsta-persontaget-fran-finland-till-sverige-pa-38-ar",
-   "desc": "Det första persontåget på 38 år mellan Finland och Sverige invigdes under måndagsmorgonen. Stämningen var god när tåget stannade i Haparanda. – Det känns väldigt spännande, säger Helge Niska som åkte tåget som ung."
+   "desc": "En person har förts till sjukhus efter en våldsam singelolycka utanför Strängnäs. Föraren ska vara vaken och talbar, enligt polisen."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-08-10T13:17:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p3q6bx?at_medium=RSS&at_campaign=rss",
+   "desc": "Gaz is joined by Jay Motty to discuss the summer window and Jose Mourinho's new comments."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-08-04T17:59:03.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p2nd6m?at_medium=RSS&at_campaign=rss",
    "desc": "BBC Sport's Simon Stone discusses Man Utd’s latest club statements on ticket touting."
@@ -144,14 +152,6 @@
    "date": "2026-08-04T05:00:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p2dyb8?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd defender Leny Yoro on whether they can win the Premier League title this season."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-03T15:00:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p2ds2m?at_medium=RSS&at_campaign=rss",
-   "desc": "Bryan Mbuemo on his form, Champions League football and targets for the new season."
   }
  ]
 }
