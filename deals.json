@@ -1,29 +1,29 @@
 {
- "updated": "2026-08-09T04:54:53.525Z",
+ "updated": "2026-08-10T05:15:58.409Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska nektariner",
-   "price": "24 kr/kg",
+   "item": "Svenska plommon lösvikt",
+   "price": "34 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Grillkorv Wilhelm Brandenburg 400g",
-   "price": "25 kr",
+   "item": "Kycklingfilé Rio Mare 900g",
+   "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
-   "item": "Färsk laxfilé",
+   "item": "Färsk laxfilé Norge",
    "price": "99 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Rusta",
-   "item": "Utegrill 3-brännare",
-   "price": "899 kr",
+   "item": "Utegrill kolmodell",
+   "price": "249 kr",
    "url": "https://www.rusta.com/se"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "store": "Lidl",
-   "item": "Svenska blåbär 250g",
-   "price": "19 kr",
+   "item": "Skolstartspaket pennor & block",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   }
  ]
