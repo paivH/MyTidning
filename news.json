@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-10T07:24:36.476Z",
+ "updated": "2026-08-10T08:56:52.723Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "China evacuates one million from homes as massive storm arrives",
+   "date": "2026-08-10T07:23:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -34,12 +42,20 @@
    "desc": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ancient Roman shipwreck discovered off Sicily coast",
-   "date": "2026-08-09T12:27:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-   "desc": "Italy's culture minister says it is one of the most important underwater archaeological finds in years."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt övergrepp på LSS-boende i Luleå – anställd avstängd",
+   "date": "2026-08-10T08:15:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/misstankt-overgrepp-pa-lss-boende-i-lulea-anstalld-avstangd",
+   "desc": "En brukare på ett LSS-boende i Luleå har uppgett att hen utsatts för ett sexuellt övergrepp av en anställd. Den anställde är avstängd från arbete under tiden händelsen utreds."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Arbetsplatsolycka i Åshammar – skadades av fallande glas",
+   "date": "2026-08-10T07:20:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/arbetsplatsolycka-i-ashammar-skadades-av-fallande-glas",
+   "desc": "Strax efter klockan sex på måndagsmorgonen fick polisen larm om en arbetsplatsolycka i Åshammar i Sandvikens kommun."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-10T05:51:40.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/rysslands-enda-antikrigsparti-kan-stoppas-fran-dumavalet",
    "desc": "I september väljer ryssarna en ny statsduma. Samtidigt hålls regionala och kommunala val på flera håll i landet. Jabloko är det enda partiet i valet som öppet kräver att kriget i Ukraina ska stoppas – men nu riskerar partiet själv att bli stoppat."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här är böckerna att ha koll på hösten 2026",
-   "date": "2026-08-10T05:26:04.000Z",
-   "link": "https://www.svt.se/kultur/bokhosten-2026-sex-undergang-och-influencers-eccvgc",
-   "desc": "Boken har blivit en accessoar och fokus har flyttats från böcker till författarsamtal. Läsglasögon är tydligen sexigt mer än användbart. Med de senaste årens litteraturdebatt i bakhuvudet blir jag nästan förvånad över hur många av höstens böcker jag faktiskt ser fram emot att läsa."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Mattias jagar sälar i skärgården: ”Det här behöver människor se”",
-   "date": "2026-08-10T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/mattias-jagar-salar-i-skargarden-det-har-behover-manniskor-se",
-   "desc": "I Östersjön pågår just nu licensjakt på säl. SVT följde med jägaren Mattias Landin till skärgården vid Sörmlands- och Östgötakusten. – Det här behöver många människor se, hur mycket säl det finns idag, säger han."
   },
   {
    "src": "STHLM",
