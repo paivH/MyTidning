@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T18:51:59.331Z",
+ "updated": "2026-08-10T19:52:47.014Z",
  "items": [
   {
    "src": "BBC",
@@ -28,18 +28,50 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-   "date": "2026-08-10T16:10:56.000Z",
+   "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+   "date": "2026-08-10T19:17:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region."
+   "desc": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-   "date": "2026-08-10T17:50:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease."
+   "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+   "date": "2026-08-10T16:52:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+   "desc": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fanny Roos fyra i EM-finalen: ”Väldigt surt”",
+   "date": "2026-08-10T18:58:20.000Z",
+   "link": "https://www.svt.se/sport/friidrott/fanny-roos-fyra-i-em-finalen",
+   "desc": "Fanny Roos jagade sin första internationella mästerskapsmedalj utomhus. Då fick hon nöja sig med en fjärdeplats. – Fyra känns väldigt surt just nu, säger hon till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ryska turisterna i Gävle campade nära fastighet kopplad till Saabs vd",
+   "date": "2026-08-10T18:55:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/ryska-turisterna-campade-intill-saab-chefen-ville-fiska-fran-bryggan",
+   "desc": "Det ryska paret sattes i förvar och skapade rubriker sedan de slagit läger intill en fastighet där en individ med personskydd vistas. Nu kan SVT Gävleborg avslöja att den individen är Saabs vd Micael Johansson. Det var hans vakter som konfronterade ryssarna. – Min roll är ganska delikat. Det var därför skyddsvakterna kollade de här personerna, säger Micael Johansson till SVT Gävleborg."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Västerås tog revansch på Djurgården",
+   "date": "2026-08-10T18:55:19.000Z",
+   "link": "https://www.svt.se/sport/fotboll/vasteras-tog-revansch-pa-djurgarden",
+   "desc": "Sex mål i baken senast mot formstarka Djurgården. I dag tog västmanlänningarna revansch och vann efter att Mikkel Ladefogeds ersättare Bonaventure Lendambi satte matchens enda mål. – Jätteskönt. Ren lättnad, säger Västerås målvakt Elis Jäger till TV4 Play."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sirius tappade 2–0 mot BP – efter mardrömsminuter",
+   "date": "2026-08-10T18:55:15.000Z",
+   "link": "https://www.svt.se/sport/fotboll/sirius-tappade-2-0-mot-bp-efter-mardromsminuter",
+   "desc": "När Isak Bjerkebo satte 2–0 till Sirius trodde nog de flesta på en femte raka seger för serieledarna. Men det slutade med delad pott på Studenternas, efter två snabba BP-mål. Efter matchen var Sirius tränare Andreas Engelmark rejält förbaskad på domarinsatsen. – Det är ett haveri hur man kommunicerar, säger han."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-08-10T15:05:04.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/gunnar-strommer-m-regeringen-ser-allvarligt-pa-det-intraffade",
    "desc": "Säkerhetspolisen har stoppat en rysk underrättelseoperation – som bland annat skulle skada Sveriges rykte. Tre personer har fått lämna landet, efter beslut av regeringen. – Regeringen ser allvarligt på det inträffade, säger justitieminister Gunnar Strömmer (M)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så vill centern skapa tusentals nya jobb i Jönköpings län",
-   "date": "2026-08-10T14:52:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sa-vill-centern-skapa-tusentals-nya-jobb-i-jonkopings-lan",
-   "desc": "Centerpartiet lovar 150 000 nya jobb i Sverige under nästa mandatperiod om man får makten. När partiledaren Elisabeth Thand Ringqvist (C) under måndagen besökte småföretagartäta Jönköpings län lovade hon bland annat att göra det billigare att anställa de som idag står längst från arbetsmarknaden."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kommunen erkänner missen: Kontrollerna räckte inte till",
-   "date": "2026-08-10T14:36:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/kommunen-erkanner-missen-kontrollerna-rackte-inte-till",
-   "desc": "En chef i Gnesta kommun misstänks ha använt skattemedel för att betala en privat skuld. Nu medger kommunen att de egna kontrollerna inte räckte till för att stoppa händelsen. Något som P4 Sörmland var först att berätta om. – Vi har rutiner och kontroller, men de har visat sig inte vara tillräckliga, säger Jesper Dahl, stabschef på Gnesta kommun."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så motiveras omtalade avbokningen av Fröken Snusk: ”Lite väl on the nose”",
-   "date": "2026-08-10T14:27:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/sa-motiveras-omtalade-avbokningen-av-froken-snusk-lite-val-on-the-nose",
-   "desc": "Fröken Snusks medverkan på Karl-Oskardagarna i Växjö ställdes in efter att det blivit känt att artisten ska medverka på Sverigedemokraternas valmöte i Göteborg. Trots kritik mot beslutet står arrangören fast. – Det är uppenbart att hon är en integrerad del av deras valkampanj och fanbärare för deras turné, säger säger Nils-Petter Nilsson, VD/Centrumledare i Växjö."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bedragare låtsas vara blombud – polisen varnar",
-   "date": "2026-08-10T14:18:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/bedragare-latsas-vara-blombud-polisen-varnar",
-   "desc": "Polisen går nu ut och varnar för bedragare som utger sig för att vara blombud. På det sättet har de lurat äldre personer på deras bankkort. Bland annat i Timrå och Härnösand."
   },
   {
    "src": "STHLM",
