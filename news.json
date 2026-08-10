@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-09T23:58:46.584Z",
+ "updated": "2026-08-10T02:16:23.418Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "date": "2026-08-09T21:25:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,26 +12,34 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "date": "2026-08-09T21:25:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Evidence that South African special forces murdered top detective shared with BBC",
+   "date": "2026-08-09T23:05:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+   "desc": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Drones spotted over German base days after Leipzig bomb incident",
+   "date": "2026-08-09T16:18:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Ancient Roman shipwreck discovered off Sicily coast",
    "date": "2026-08-09T12:27:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
    "desc": "Italy's culture minister says it is one of the most important underwater archaeological finds in years."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-   "date": "2026-08-09T22:27:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km)."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-   "date": "2026-08-09T15:34:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-   "desc": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio."
   },
   {
    "src": "SVT",
