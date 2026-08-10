@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T21:37:19.017Z",
+ "updated": "2026-08-10T22:33:16.208Z",
  "items": [
   {
    "src": "BBC",
@@ -8,14 +8,6 @@
    "date": "2026-08-10T14:34:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
    "desc": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "World's oceans hit record-high July temperatures",
-   "date": "2026-08-10T10:24:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-   "desc": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe."
   },
   {
    "src": "BBC",
@@ -32,6 +24,14 @@
    "date": "2026-08-10T19:17:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
    "desc": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Canada flight cancelled after child refuses to wear seat belt",
+   "date": "2026-08-10T21:06:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+   "desc": "The incident has sparked a debate over child safety and discipline on commercial planes."
   },
   {
    "src": "BBC",
