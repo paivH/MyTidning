@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-10T08:56:52.723Z",
+ "updated": "2026-08-10T10:17:02.871Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+   "date": "2026-08-10T10:03:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+   "desc": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,74 +20,82 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-   "date": "2026-08-09T20:58:18.000Z",
+   "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+   "date": "2026-08-10T09:51:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+   "desc": "Chalong Riewrang called a YouTube livestream to say he had shot a government official."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+   "date": "2026-08-10T05:16:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Forensics revealed that the 'realistic' looking body was in fact not human."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+   "date": "2026-08-10T09:33:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
    "desc": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "date": "2026-08-09T21:25:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Evidence that South African special forces murdered top detective shared with BBC",
-   "date": "2026-08-09T23:05:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Drones spotted over German base days after Leipzig bomb incident",
-   "date": "2026-08-09T16:18:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Timrås beslut om Google-etableringen skjuts upp",
+   "date": "2026-08-10T10:04:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/beslut-om-google-etableringen-skjuts-upp",
+   "desc": "Kommunstyrelsen i Timrå skulle besluta om Googles etablering i Torsboda under måndagsförmiddagen. Nu skjuts beslutet fram efter att ”nya uppgifter” ska ha framkommit."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt övergrepp på LSS-boende i Luleå – anställd avstängd",
-   "date": "2026-08-10T08:15:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/misstankt-overgrepp-pa-lss-boende-i-lulea-anstalld-avstangd",
-   "desc": "En brukare på ett LSS-boende i Luleå har uppgett att hen utsatts för ett sexuellt övergrepp av en anställd. Den anställde är avstängd från arbete under tiden händelsen utreds."
+   "title": "Våldsam singelolycka utanför Strängnäs – en person till sjukhus",
+   "date": "2026-08-10T09:52:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/valdsam-singelolycka-utanfor-strangnas-en-person-till-sjukhus",
+   "desc": "En person har förts till sjukhus efter en våldsam singelolycka utanför Strängnäs."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Arbetsplatsolycka i Åshammar – skadades av fallande glas",
-   "date": "2026-08-10T07:20:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/arbetsplatsolycka-i-ashammar-skadades-av-fallande-glas",
-   "desc": "Strax efter klockan sex på måndagsmorgonen fick polisen larm om en arbetsplatsolycka i Åshammar i Sandvikens kommun."
+   "title": "Allt fler bötfälls på Mälartåg – har ökat med över 500 procent",
+   "date": "2026-08-10T09:09:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/allt-fler-botfalls-pa-malartag-okat-med-over-500-procent",
+   "desc": "Den 2 februari i år skärptes biljettkontrollerna på Mälartåg och en speciell kontrollgrupp infördes. Sedan dess har antalet bötfällda resenärer ökat med 536 procent. – Det görs 1,3 miljoner resor med oss varje månad, de allra flesta reser med rätt biljett, säger Katarina Myrberg, pressansvarig vid Mälardalstrafik."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fröken Snusk uppträder i Växjö – trots avbokning",
-   "date": "2026-08-10T07:18:06.000Z",
-   "link": "https://www.svt.se/kultur/froken-snusk-upptrader-i-vaxjo-trots-avbokning",
-   "desc": "Fröken Snusk blev avbokad av Växjös stadsfestival Karl-Oskardagarna efter att det framkommit att hon ska spela med Sverigedemokraternas partiledare Jimmie Åkessons dansband Åkezzonz. Nu kommer hon istället att uppträda på en tacorestaurang i Växjö."
+   "title": "Här anländer första persontåget från Finland till Sverige – på 38 år",
+   "date": "2026-08-10T09:07:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-anlander-forsta-persontaget-fran-finland-till-sverige-pa-34-ar",
+   "desc": "Det första persontåget på 38 år mellan Finland och Sverige invigdes under måndagsmorgonen. Stämningen var god när tåget stannade i Haparanda. – Det känns väldigt spännande, säger Helge Niska som åkte tåget som ung."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Polisen får flyga drönare utom synhåll i Norrköping – första gången i landet",
-   "date": "2026-08-10T06:15:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/polisen-far-flyga-dronare-utom-synhall-i-norrkoping-forsta-gangen-i-landet",
-   "desc": "Norrköpingspolisen har fått klartecken att flyga drönare utom synhåll. Det meddelar Transportstyrelsen under måndagen."
+   "title": "Polisens nya vapen: Dna avslöjar mördarens ålder",
+   "date": "2026-08-10T08:57:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/polisens-nya-vapen-dna-avslojar-mordarens-alder",
+   "desc": "Snart kan åldern på okända brottslingar uppskattas genom fördjupad dna-analys. Under senhösten inför polisen den nya forensiska metoden i sitt utredningsarbete – och siktet är inställt på misstänkta mördare och våldtäktsmän."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Rysslands enda antikrigsparti kan stoppas från dumavalet",
-   "date": "2026-08-10T05:51:40.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/rysslands-enda-antikrigsparti-kan-stoppas-fran-dumavalet",
-   "desc": "I september väljer ryssarna en ny statsduma. Samtidigt hålls regionala och kommunala val på flera håll i landet. Jabloko är det enda partiet i valet som öppet kräver att kriget i Ukraina ska stoppas – men nu riskerar partiet själv att bli stoppat."
+   "title": "Efter SVT:s granskning – flera ministrar reagerar på kritiken mot ätstörningsvården",
+   "date": "2026-08-10T10:04:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-svts-granskning-flera-ministrar-reagerar-pa-kritiken-mot-atstorningsvarden",
+   "desc": "Patienter och personal vittnar om en ätstörningsvård i Stockholm som blivit mindre individanpassad, trots löften om bättre vård. Regeringens ministrar kommenterar nu kritiken, och socialminister Jakob Forssmed (KD) vill se en extern granskning av verksamheten."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Strömavbrott på tunnelbanans röda linje – stationen i Alby stängt",
+   "date": "2026-08-10T10:04:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stromavbrott-pa-tunnelbanans-roda-linje-stationen-i-alby-stangt",
+   "desc": "Tunnelbanans röda linje stannar inte i Alby sedan klockan 08:30 i morse, vilket Mitt i var först att rapportera om. En brand i ett elskåp orsakade ett strömavbrott."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-08-09T18:09:10.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-9-augusti-27ekjs",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om söndagen 9 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Skogsbrand i skärgården",
-   "date": "2026-08-09T14:40:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/aktiv-skogsbrand-i-skargarden",
-   "desc": "En skogsbrand bröt ut på ön Höga Fladkläppen i skärgården vid 15-tiden. Det finns ingen bebyggelse på ön men enligt räddningstjänsten finns en risk att branden sprider sig. – Vi är på plats med massor av enheter. Det är uppskattat till ungefär 2000 kvadratmeter, säger Alex Westerberg på räddningstjänsten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinnojouren ser kraftig ökning av rättsliga trakasserier",
-   "date": "2026-08-09T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinnojouren-ser-kraftig-okning-av-rattsliga-trakasserier",
-   "desc": "Kvinnojouren i Södertälje ser att allt fler förövare använder lagar och myndighetssystem för att kontrollera kvinnan även efter att relationen tagit slut. Nu deltar kvinnojouren i ett forskningsprojekt för att förbättra kunskapsläget om fenomenet ”rättsliga trakasserier”."
   },
   {
    "src": "BBC",
