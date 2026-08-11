@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T08:13:15.117Z",
+ "updated": "2026-08-11T09:30:08.536Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "al-Assad döms till döden för brott mot mänskligheten",
+   "date": "2026-08-11T08:48:51.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/al-assad-doms-till-doden-for-brott-mot-manskligheten",
+   "desc": "Syriens förre ledare Bashar al-Assad döms till dödsstraff för brott mot mänskligheten i en syrisk domstol, skriver AP. al-Assad befinner sig i exil i Ryssland, därav döms han i sin frånvaro."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Svensk kvinna skjuten i Lissabon",
+   "date": "2026-08-11T08:44:21.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/svensk-kvinna-skjuten-i-lissabon",
+   "desc": "En svensk kvinna i 40-årsåldern har skjutits i Lissabon i Portugal, erfar TT. Polisen jagar de misstänkta."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Kvinna döms för mordbrand – tände eld på sin egen lägenhet",
    "date": "2026-08-11T07:58:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-doms-for-mordbrand-tande-eld-pa-sin-egen-lagenhet",
@@ -64,22 +80,6 @@
    "date": "2026-08-11T04:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/vaxjoforetag-designar-nya-asiatiska-eurovision",
    "desc": "Eurovision ska nu expandera in i Asien och det Växjöbaserade företaget VXO Design har fått uppdraget att sköta sångtävlingens grafik. – Det här känns både stort och väldigt roligt, säger företagets grundare Lotta Beving i ett pressmeddelande."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Behrang Safari: Det behöver Malmö FF",
-   "date": "2026-08-11T04:20:41.000Z",
-   "link": "https://www.svt.se/sport/fotboll/behrang-safari-det-behover-malmo-ff",
-   "desc": "Malmö FF ligger en bit från toppen av allsvenskan. Behrang Safari har en tydlig kravbild för en förändring. – Det där har aldrig funnits tidigare, säger experten i SVT:s Fotbollsstudion."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hettan i Europa kan få matpriserna att stiga",
-   "date": "2026-08-11T04:10:50.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/hettan-i-europa-kan-fa-matpriserna-att-stiga",
-   "desc": "Europa plågas av värmeböljor och bränder – något som kan få konsekvenser för de svenska matpriserna i höst. De förstörda skördarna kommer i ett redan ansträngt läge där krigen i Ukraina och Iran redan har drivit upp kostnaderna. – Det är definitivt ett allvarligt läge, säger Shon Ferguson, ekonomiprofessor vid Sveriges lantbruksuniversitet."
   },
   {
    "src": "STHLM",
