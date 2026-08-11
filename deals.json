@@ -1,41 +1,41 @@
 {
- "updated": "2026-08-10T05:15:58.409Z",
+ "updated": "2026-08-11T04:57:35.094Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska plommon lösvikt",
-   "price": "34 kr/kg",
+   "item": "Svenska plommon i lösvikt",
+   "price": "39 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Kycklingfilé Rio Mare 900g",
+   "item": "Kycklingfilé 900g",
    "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
-   "item": "Färsk laxfilé Norge",
+   "item": "Färsk lax fillet",
    "price": "99 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Rusta",
-   "item": "Utegrill kolmodell",
+   "item": "Utegrill kolgrill",
    "price": "249 kr",
    "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
    "item": "Köttbullar 1kg fryst",
-   "price": "59 kr",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Lidl",
-   "item": "Skolstartspaket pennor & block",
-   "price": "39 kr",
+   "item": "Svensk skolstart pennskrin",
+   "price": "19 kr",
    "url": "https://www.lidl.se"
   }
  ]
