@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T05:51:27.863Z",
+ "updated": "2026-08-11T07:00:06.080Z",
  "items": [
   {
    "src": "BBC",
@@ -76,10 +76,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ny forskning visar: När chefen tar föräldraledigt blomstrar företaget",
+   "title": "Forskning visar: När chefen tar föräldraledigt kan företaget blomstra",
    "date": "2026-08-11T03:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ny-forskning-visar-nar-chefen-tar-foraldraledigt-blomstrar-foretaget",
    "desc": "Att gå på föräldraledighet kan väcka en del funderingar. Inte bara kring livet med en ny familjemedlem, utan också kring jobbet. Vem tar över? Hinner kollegorna med? En studie från Jönköping International Business School visar dock att chefens frånvaro kan ge företaget en oväntad skjuts framåt."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Guide: Kulturfestivalen i Stockholm 2026",
+   "date": "2026-08-11T06:50:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/guide-kulturfestivalen-i-stockholm-2026",
+   "desc": "Stockholms största stadsfestival pågår i år mellan 12 till 16 augusti och bjuder på artister som Agnes, Otto Knows och Greekazo. Men vad kan man egentligen göra under Kulturfestivalen? Hur påverkas trafiken? Kostar det något? I SVT:s guide ger vi en kort sammanfattning av det viktigaste du behöver veta inför evenemanget."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-10T10:04:50.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-svts-granskning-flera-ministrar-reagerar-pa-kritiken-mot-atstorningsvarden",
    "desc": "Patienter och personal vittnar om en ätstörningsvård i Stockholm som blivit mindre individanpassad, trots löften om bättre vård. Regeringens ministrar kommenterar nu kritiken, och socialminister Jakob Forssmed (KD) vill se en extern granskning av verksamheten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Efter strömavbrott på röda linjen – tunnelbanan stannar i Alby igen",
-   "date": "2026-08-10T10:04:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stromavbrott-pa-tunnelbanans-roda-linje-stationen-i-alby-stangt",
-   "desc": "Tunnelbanans röda linje stannade inte i Alby från klockan 08.30 till 13:30 under måndagen, vilket Mitt i var först att rapportera om. En brand i ett elskåp orsakade ett strömavbrott."
   },
   {
    "src": "BBC",
