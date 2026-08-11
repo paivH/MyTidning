@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T04:48:19.846Z",
+ "updated": "2026-08-11T05:51:27.863Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "”Jag hade fel, 'The Odyssey' är en toppenfilm”",
+   "date": "2026-08-11T05:30:15.000Z",
+   "link": "https://www.svt.se/kultur/jag-hade-fel-the-odyssey-ar-en-toppenfilm",
+   "desc": "Inför biosommaren, långt innan premiären, spådde Kulturnyheternas filmredaktör att Christopher Nolans ”The Odyssey” skulle bli succéregissörens första magplask."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Växjöföretag designar nya asiatiska Eurovision",
    "date": "2026-08-11T04:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/vaxjoforetag-designar-nya-asiatiska-eurovision",
@@ -72,14 +80,6 @@
    "date": "2026-08-11T03:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ny-forskning-visar-nar-chefen-tar-foraldraledigt-blomstrar-foretaget",
    "desc": "Att gå på föräldraledighet kan väcka en del funderingar. Inte bara kring livet med en ny familjemedlem, utan också kring jobbet. Vem tar över? Hinner kollegorna med? En studie från Jönköping International Business School visar dock att chefens frånvaro kan ge företaget en oväntad skjuts framåt."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Jens skog brann upp – så ser Bodträskfors ut 20 år senare",
-   "date": "2026-08-11T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-ser-bodtraskfors-ut-20-ar-efter-enorma-skogsbranden",
-   "desc": "År 2006 förlorade Jens Enberg 270 hektar skog i en av de största skogsbränderna i Sveriges historia. I dag är han nöjd med sin ungskog, som fortfarande visar spår av det som hände för 20 år sedan. – Man har fått respekt för eld, säger Jens."
   },
   {
    "src": "STHLM",
