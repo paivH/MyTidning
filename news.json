@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-11T19:11:56.080Z",
+ "updated": "2026-08-11T20:09:28.791Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+   "date": "2026-08-11T19:09:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,14 +28,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-   "date": "2026-08-11T14:50:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-   "desc": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Russia releases former US Marine reported in poor health",
    "date": "2026-08-11T17:02:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
@@ -36,18 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Watch: Family escapes home during Colombia earthquake",
-   "date": "2026-08-11T10:12:21.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-   "desc": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years."
+   "title": "Lebanon parliament votes to abolish death penalty",
+   "date": "2026-08-11T15:24:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+   "desc": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kraftig brand i industribyggnad i Skillingaryd – ”omfattande insats”",
+   "title": "Slovan Bratislava slog ut Mjällby i Champions League-kvalet",
+   "date": "2026-08-11T20:03:29.000Z",
+   "link": "https://www.svt.se/sport/fotboll/slovan-bratislava-slog-ut-mjallby-i-champions-league-kvalet",
+   "desc": "En bra första halvlek väckte visst hopp för Mjällby. Men Slovan Bratislava blev för svåra. Slovakerna vann matchen med 2–0 och gick vidare med totalt 4–1. Nu får Blekingelaget sikta in sig på kvalet till Europa League."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Industribrand i Skillingaryd – omfattande insats",
    "date": "2026-08-11T17:59:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kraftig-brand-i-industribyggnad-i-skillingaryd-omfattande-insats",
-   "desc": "Det brinner i en industrilokal i Skillingaryd. Enligt räddningstjänsten är det en omfattande insats på platsen."
+   "desc": "Det brinner i en industrilokal i Skillingaryd under tisdagskvällen. Enligt räddningstjänsten är det en omfattande insats på platsen."
   },
   {
    "src": "SVT",
@@ -63,7 +71,7 @@
    "title": "Sarah Sjöström snabbast i semin på 50 m fjäril: ”Kändes bra”",
    "date": "2026-08-11T17:32:51.000Z",
    "link": "https://www.svt.se/sport/simning/sarah-sjostrom-snabbast-av-alla-i-semin-pa-50-m-fjaril",
-   "desc": "Sarah Sjöström fortsätter att imponera i sin återkomst i mästerskapsbassängen. I semifinalen på 50 meter fjäril var Sjöström snabbast av alla med tiden 25,12. Även Sara Junevik tog sig vidare till final med fjärde bästa tid. – Vi får se om det blir en tid under 25 sekunder imorgon, säger Sarah Sjöström till SVT Sport."
+   "desc": "Sarah Sjöström fortsätter att imponera i sin återkomst i mästerskapsbassängen. I semifinalen på 50 meter fjäril var Sjöström snabbast av alla med tiden 25.12. Även Sara Junevik tog sig vidare till final med fjärde bästa tid. – Vi får se om det blir en tid under 25 sekunder imorgon, säger Sarah Sjöström till SVT Sport."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-11T16:39:36.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/snart-solformorkelse-sa-blir-vadret-nara-horisonten",
    "desc": "Snart svartnar det över Sverige. Nästan. För under onsdagskvällen den 12 augusti slocknar solen över Europa – och partiellt över Sverige. Men var och när syns förmörkelsen som bäst? – Solen kommer stå ganska lågt, nära horisonten, berättar SVT:s meteorolog Leon Lee."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kristdemokraterna i Kramfors om Pride: ”Promiskuös livsstil”",
-   "date": "2026-08-11T14:54:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/kristdemokraterna-i-kramfors-om-pride-promiskuos-livsstil",
-   "desc": "Kramfors kommun borde inte hissa några prideflaggor – i alla fall om Kristdemokraterna får bestämma. I SVT:s valkompass skrev partiet att flaggan inte är en symbol för frihet, utan trycker undan människor som inte står för en ”promiskuös livsstil”. Nu backar partiet från uttalandet."
   },
   {
    "src": "STHLM",
