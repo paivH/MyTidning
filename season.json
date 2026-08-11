@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-09T04:43:56.806Z",
+ "updated": "2026-08-11T04:47:01.888Z",
  "items": [
   {
-   "ingredient": "grönkål",
-   "idea": "Massera grönkål med 2% salt, packa hårt i burk, fermentera 5 dagar till syrlig snabbkimchi."
-  },
-  {
-   "ingredient": "majs",
-   "idea": "Grilla majskolvar 8 minuter, pensla med smör och chiliflakes, servera direkt som snabb vardagsrätt."
-  },
-  {
    "ingredient": "plommon",
-   "idea": "Picklade plommon: koka ättika, socker, vatten 1:1:1, häll över halverade plommon, kyl två dagar."
+   "idea": "Snabbpickla plommonklyftor i ättika, socker och kanel, 20 min – perfekt till ost eller grillat kött."
   },
   {
    "ingredient": "kantareller",
-   "idea": "Stek kantareller i smör, knåda ner i surdegen före andra jäsningen för nötigt smakrikt bröd."
+   "idea": "Stek kantareller hastigt i smör med vitlök, toppa på rostat surdegsbröd – snabb vardagsmiddag."
+  },
+  {
+   "ingredient": "majs",
+   "idea": "Fermentera majskorn i saltlake 3-5 dagar för syrlig, krispig tillbehör till tacos eller sallad."
+  },
+  {
+   "ingredient": "grönkål",
+   "idea": "Baka grönkål i degen som surdegsbröd, ge brödet djup smak och vacker grön nyans."
   }
  ]
 }
