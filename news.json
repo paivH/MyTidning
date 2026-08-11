@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T15:57:14.840Z",
+ "updated": "2026-08-11T16:58:16.850Z",
  "items": [
   {
    "src": "BBC",
@@ -13,9 +13,9 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-   "date": "2026-08-11T09:39:58.000Z",
+   "date": "2026-08-11T16:19:44.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally."
+   "desc": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-08-11T10:12:21.000Z",
    "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
    "desc": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Snart solförmörkelse – så blir vädret: ”Nära horisonten”",
+   "date": "2026-08-11T16:39:36.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/snart-solformorkelse-sa-blir-vadret-nara-horisonten",
+   "desc": "Snart svartnar det över Sverige. Nästan. För under onsdagskvällen den 12 augusti slocknar solen över Europa – och partiellt över Sverige. Men var och när syns förmörkelsen som bäst? – Solen kommer stå ganska lågt, nära horisonten, berättar SVT:s meteorolog Leon Lee."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-11T13:20:38.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/ungern-har-valt-en-ny-president",
    "desc": "Ungern har under tisdagen valt en ny president, skriver Reuters. Andras Baka, tidigare domare i Högsta domstolen, tar över efter den Orbán-lojale Tamás Sulyok."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Oppositionen vill stoppa förslaget – hoppas på L-ledamöter: ”Väldigt jämnt”",
-   "date": "2026-08-11T13:04:44.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/oppositionen-vill-stoppa-forslaget-hoppas-pa-l-ledamoter-valdigt-jamnt",
-   "desc": "Oppositionen försöker stoppa en av Tidöpartiernas prestigereformer – och hoppas att L-ledamöter ansluter sig till motståndarsidan. Simona Mohamsson (L) är dock lugn, trots att hon inte fått några garantier från alla sina ledamöter. – Jag går inte till riksdagsgruppen och frågar exakt hur de ska rösta, säger hon."
   },
   {
    "src": "STHLM",
