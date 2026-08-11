@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T11:19:43.607Z",
+ "updated": "2026-08-11T12:07:54.002Z",
  "items": [
   {
    "src": "BBC",
@@ -7,7 +7,7 @@
    "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
    "date": "2026-08-11T09:58:45.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey."
+   "desc": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey."
   },
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Bensinpriset höjs igen",
+   "date": "2026-08-11T11:42:56.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/bensinpriset-hojs-igen-499x2t",
+   "desc": "Oljepriset steg tydligt i går och flera kedjor höjer nu bensin- och dieselpriserna med 50 respektive 85 öre litern."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Daniel Ståhl klar för EM-final – trots övertrampsdrama",
+   "date": "2026-08-11T11:30:42.000Z",
+   "link": "https://www.svt.se/sport/friidrott/daniel-stahl-klar-for-em-final-trots-overtrampsdrama",
+   "desc": "Det satt hårdare inne än förväntat – men Daniel Ståhl är klar för EM-final i diskus. Detta trots att hans längsta kast blivit ogiltigförklarat i efterhand på grund av ett övertramp. – Jag kände det inte själv men det är som det är, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "KD-toppen: Ebba Buschs satsning tar väljare från L",
    "date": "2026-08-11T11:11:53.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/kd-toppen-ebba-buschs-satsning-tar-valjare-fran-l",
@@ -55,7 +71,7 @@
    "title": "Melwin Lycke Holms ilska efter uttåget: ”Fan!”",
    "date": "2026-08-11T11:08:35.000Z",
    "link": "https://www.svt.se/sport/friidrott/melwin-lycke-holms-ilska-efter-uttaget-fan",
-   "desc": "Det blir ingen EM-final för Melwin Lycke Holm. Och efter uttåget i kvalet var han rejält frustrerad över sin insats. – Så jävla trist alltså... Fy fan! Säger han."
+   "desc": "Det blir ingen EM-final för höjdhopparen Melwin Lycke Holm. Och efter uttåget i kvalet var han rejält frustrerad över sin insats. – Så jävla trist alltså... Fy fan! Säger han."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Den väger 530 kilo och matas med tonvis av hästskit. ”Pumpanörden” Fredrik Linderson i Gamleby är helt säker på att hans pumpa är den största i hela landet just nu. – Jag har ganska bra koll på hur de andra ligger till, säger han och skrattar."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Man döms till fängelse för knivattack i Storvik",
-   "date": "2026-08-11T09:46:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/man-doms-till-fangelse-for-knivattack-i-storvik",
-   "desc": "En man i 50-årsåldern som i juli knivhögg en man i Storvik, har dömts till fängelse i två år för grov misshandel, rapporterar P4."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "al-Assad döms till döden för brott mot mänskligheten",
-   "date": "2026-08-11T08:48:51.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/al-assad-doms-till-doden-for-brott-mot-manskligheten",
-   "desc": "Syriens förre ledare Bashar al-Assad döms till dödsstraff för brott mot mänskligheten i en syrisk domstol, skriver AP. al-Assad befinner sig i exil i Ryssland, därav döms han i sin frånvaro."
+   "title": "Signalfel mellan Stockholm och Södertälje – förseningar i tågtrafiken",
+   "date": "2026-08-11T12:00:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/signalfel-mellan-stockholm-och-sodertalje-forseningar-i-tagtrafiken",
+   "desc": "Ett signalfel skapar förseningar i tågtrafiken mellan Stockholm C och Södertälje Syd. Det skriver SJ på sin hemsida."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-11T06:50:41.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/guide-kulturfestivalen-i-stockholm-2026",
    "desc": "Stockholms största stadsfestival pågår i år mellan 12 och 16 augusti och bjuder på artister som Agnes, Otto Knows och Greekazo. Men vad kan man egentligen göra under Kulturfestivalen? Hur påverkas trafiken? Kostar det något? I SVT:s guide ger vi en kort sammanfattning av det viktigaste du behöver veta inför evenemanget."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stöket i Mariakvarteren upplevs öka – här möts skolbarn och missbrukare",
-   "date": "2026-08-11T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/otryggheten-i-mariakvarteren-okar-har-mots-skolbarn-och-missbrukare",
-   "desc": "I Mariakvarteren på Södermalm möts ett kluster av beroendevårdskliniker med boende och skolbarn. De senaste åren har kvarteret backat i polisens trygghetsundersökning, trots att även Södermalmspolisen finns i området. Samtidigt riktas kritik mot att patienter som försöker ta sig ur missbruk vårdas i ett område som klassas som öppen drogscen."
   },
   {
    "src": "BBC",
