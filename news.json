@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T10:57:29.750Z",
+ "updated": "2026-08-12T11:48:27.124Z",
  "items": [
   {
    "src": "BBC",
@@ -36,10 +36,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
-   "date": "2026-08-12T09:55:40.000Z",
+   "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
+   "date": "2026-08-12T11:32:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
    "desc": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Andreas Kramers missräkning: Sist i semifinalen på 800 meter",
+   "date": "2026-08-12T11:33:21.000Z",
+   "link": "https://www.svt.se/sport/friidrott/andreas-kramers-fiasko-sist-i-semifinalen-pa-800-meter",
+   "desc": "Andreas Kramers främsta merit är ett EM-silver på 800 meter. Men någon repris från 2018 blev det inte i år. Han slutade sist i sin semifinal på EM i Birmingham. – Klart jag är besviken, säger Kramer."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vanessa Kamgas styrkebesked – direkt till EM-final",
+   "date": "2026-08-12T11:18:15.000Z",
+   "link": "https://www.svt.se/sport/friidrott/vannesa-kamgas-styrkebesked-direkt-till-em-final",
+   "desc": "Vanessa Kamga behövde bara ett kast i diskuskvalet för att nå över kvalgränsen. Hon är därmed klar för diskusfinal på friidrotts-EM i Birmingham. – Det känns jättebra, säger hon efter att ha kastat 64,65."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Dag för dag: Så blir vädret på Way out west 2026",
+   "date": "2026-08-12T11:01:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/dag-for-dag-sa-blir-vadret-pa-way-out-west-2026",
+   "desc": "Vågar du lämna regnjackan hemma? Det ser ut att bli varma dagar i Slottsskogen – men regnskurar kan ställa till det under Way out west. – Tror man klarar sig ganska bra med en snygg band-t-shirt , säger Marcus Sjöstedt, meteorolog på SVT."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-08-12T09:25:22.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sodertalje/lagen-utnyttjas-av-forovare-ministern-kunskapen-behover-okas",
    "desc": "Enligt Kvinnojouren i Södertälje utsätts allt fler för ”rättsliga trakasserier”. Det kan handla om upprepade falska orosanmälningar eller utdragna vårdnads- eller bodelningstvister efter en relation tagit slut. – Det här är ju en fruktansvärd situation för en kvinna, säger jämställdhetsminister Nina Larsson (L)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Chatta om valrörelsen med SVT:s politikreportrar",
-   "date": "2026-08-12T08:34:19.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/chatta-om-valrorelsen-med-svts-politikreportrar",
-   "desc": "Om knappt en månad går svenskarna till valurnorna. Vad undrar du om valrörelsen 2026? Ställ dina frågor i SVT:s chatt!"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Flicka förd till sjukhus med livshotande skador efter mopedolycka",
-   "date": "2026-08-12T08:29:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/olycka-pa-56an-kvinna-ford-till-sjukhus-med-livshotande-skador",
-   "desc": "En bil och en moped krockade på väg 56 vid Igelsta norr om Västerås på onsdagsmorgonen. Mopedföraren, en flicka mellan 12 och 17 år, fördes till sjukhus. Enligt Region Västmanland har hon livshotande skador."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Larm om explosion på Råslätt i Jönköping – var trasig leksaksbil",
-   "date": "2026-08-12T08:20:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/larm-om-explosion-pa-raslatt-i-jonkoping",
-   "desc": "Det kom ett larm om en explosion i närheten av badhuset på Råslätt på onsdagsförmiddagen. Räddningstjänst och polis var på väg till platsen men avbröt sedan insatsen efter att det upptäcktes att en söndrig leksaksbil var orsaken till larmet."
   },
   {
    "src": "STHLM",
