@@ -1,21 +1,13 @@
 {
- "updated": "2026-08-12T14:23:06.177Z",
+ "updated": "2026-08-12T15:28:39.861Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-   "date": "2026-08-12T03:44:55.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-   "desc": "Journalists and White House staff who were on board the jet were unaware the president had left."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-   "date": "2026-08-12T00:14:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-   "desc": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher."
+   "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
+   "date": "2026-08-12T14:44:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+   "desc": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat."
   },
   {
    "src": "BBC",
@@ -42,6 +34,30 @@
    "desc": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
   },
   {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+   "date": "2026-08-12T11:28:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+   "desc": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ny skarvkoloni hittad i Nyköping – kommunen ansöker om skyddsjakt",
+   "date": "2026-08-12T14:54:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/ny-skarvkoloni-hittad-i-nykoping-kommunen-ansoker-om-skyddsjakt",
+   "desc": "En ny boplats för den fiskätande fågeln skarv har upptäckts på en ö mellan Nyköping och Oxelösund. Enligt Nyköpings kommun utgör kolonin ett starkt hot mot det lokala fiskbeståndet och nu har en ansökan om skyddsjakt lämnats in till länsstyrelsen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "EBU ändrar Eurovision 2027 – hårdare krav på värdskap",
+   "date": "2026-08-12T14:30:04.000Z",
+   "link": "https://www.svt.se/kultur/ebu-andrar-eurovision-2027-hardare-krav-pa-vardskap",
+   "desc": "Eurovision skärper reglerna inför 2027. Alla artister måste vara 18 år, och EBU förtydligar även reglerna för värdskap och förinspelat ljud."
+  },
+  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Då införs vattkoppsvaccinet i Sörmland – blir gratis för barn",
@@ -64,22 +80,6 @@
    "date": "2026-08-12T12:44:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/hobbyastronomens-tips-infor-kvallens-solformorkelse",
    "desc": "Snart sveper månens skugga fram över jorden. Ulf Jonsson, hobbyastronom i Luleå, är redo. – Se till att ha fri sikt mot nordväst, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Junevik och Sjöström går för svensk dubbel: ”Det är stora möjligheter”",
-   "date": "2026-08-12T12:25:42.000Z",
-   "link": "https://www.svt.se/sport/simning/junevik-och-sjostrom-gar-for-svensk-dubbel-det-ar-stora-mojligheter",
-   "desc": "Dubbelt svenskt och dubbelt Sara(h) i EM-final på 50 meter fjäril. Och visst finns det dessutom goda möjligheter till dubbelt firande efteråt. – Det hade varit otroligt kul, och jag tror att det är möjligt, säger Sara Junevik till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt sexualbrott på sjukhus – anställd frihetsberövades",
-   "date": "2026-08-12T12:13:15.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/misstankt-sexualbrott-pa-sjukhus-anstalld-frihetsberovad",
-   "desc": "En anställd på Länssjukhuset Ryhov har frihetsberövats av polis, misstänkt för sexualbrott mot en patient, det uppger Region Jönköpings län."
   },
   {
    "src": "STHLM",
