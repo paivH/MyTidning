@@ -1,13 +1,21 @@
 {
- "updated": "2026-08-12T15:28:39.861Z",
+ "updated": "2026-08-12T16:27:04.166Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
-   "date": "2026-08-12T14:44:48.000Z",
+   "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+   "date": "2026-08-12T15:57:18.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-   "desc": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat."
+   "desc": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israeli settlers besieging Palestinian families in West Bank village",
+   "date": "2026-08-12T16:14:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+   "desc": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
   },
   {
    "src": "BBC",
@@ -20,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Israeli settlers besieging Palestinian families in West Bank village",
-   "date": "2026-08-12T14:03:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-   "desc": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
+   "title": "LA Lakers to be sold in record $12.5bn deal",
+   "date": "2026-08-12T16:11:04.000Z",
+   "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise."
   },
   {
    "src": "BBC",
@@ -34,12 +42,20 @@
    "desc": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-   "date": "2026-08-12T11:28:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-   "desc": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kritiken mot S bankförslag: ”Kostnaderna hamnar på kunderna”",
+   "date": "2026-08-12T16:15:21.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/kritiken-mot-s-bankforslag-kostnaderna-hamnar-pa-kunderna",
+   "desc": "Socialdemokraternas förslag om en ökad bankskatt sågas av Svenska bankföreningen och flera av de svenska storbankerna. – Liksom för andra varor och tjänster kan man räkna med att kostnaderna i slutändan bärs av kunderna, säger Svenska bankföreningens vd Hans Lindberg i en skriftlig kommentar."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kanadagässens bajskaos sabbar badglädjen i Kungsör",
+   "date": "2026-08-12T15:33:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/kanadagassens-bajskaos-sabbar-badgladjen-i-kungsor",
+   "desc": "Bryggan vid Bottens badplats i Kungsör har en flock oönskade badgäster. Under sommaren har bajsande Kanadagäss fått besökare att klaga hos kommunen. Som nu undersöker mer långsiktiga åtgärder än att städa två gånger i veckan."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-12T12:59:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/da-infors-vattkoppsvaccinet-i-sormland-blir-gratis-for-barn",
    "desc": "Vattkoppsvaccinet kommer att erbjudas i det allmänna vaccinationsprogrammet från och med nästa år. Vaccinet kommer att vara gratis för barn som inte redan haft sjukdomen. – På sikt kommer det innebära att alla barn som brukar få vattkoppor idag, slipper få den sjukdomen, säger Malin Enarsson, smittskyddsläkare i Sörmland."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SVT rapporterar direkt från Way out west 2026",
-   "date": "2026-08-12T12:59:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/svt-rapporterar-direkt-fran-way-out-west-2026",
-   "desc": "Nu slår Way out west upp portarna och Slottsskogen i Göteborg fylls med musik, mat och mode. Har någon blöja på sig i publiken? Hur mår de som har flipflops på fötterna? Och framför allt: Hur är konserterna? SVT rapporterar om alla snackisar från festivalen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hobbyastronomens tips inför  kvällens solförmörkelse",
-   "date": "2026-08-12T12:44:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/hobbyastronomens-tips-infor-kvallens-solformorkelse",
-   "desc": "Snart sveper månens skugga fram över jorden. Ulf Jonsson, hobbyastronom i Luleå, är redo. – Se till att ha fri sikt mot nordväst, säger han."
   },
   {
    "src": "STHLM",
