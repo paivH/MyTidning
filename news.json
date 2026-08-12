@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T06:52:30.786Z",
+ "updated": "2026-08-12T08:13:41.656Z",
  "items": [
   {
    "src": "BBC",
@@ -36,10 +36,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Baby Shark Boy set to make K-pop debut",
+   "title": "Baby Shark boy set to make K-pop debut",
    "date": "2026-08-12T03:26:32.000Z",
    "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
    "desc": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tre personer sköts till döds – nu ska trippelmordet avgöras i hovrätten",
+   "date": "2026-08-12T08:06:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/uppsala/tre-personer-skots-till-dods-nu-ska-trippelmordet-avgoras-i-hovratten",
+   "desc": "Skjutna i bland annat huvudet mördades tre personer i en frisörsalong i Uppsala dagen före valborg förra året. Nu tar hovrätten upp trippelmordet – där den livstidsdömde skytten vill frias."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Wranå och Kennedy blir skådespelare i ny SVT-komedi",
+   "date": "2026-08-12T07:50:50.000Z",
+   "link": "https://www.svt.se/kultur/wrana-och-kennedy-blir-skadespelare-i-ny-svt-komedi",
+   "desc": "Två välkända sportprofiler testar på skådespelaryrket. OS-guldmedaljören Isabella Wranå och Hammarbyikonen Kennedy Bakirciolgu dyker upp i komediserien ”Agent-ish” i SVT i höst. – Jättekul! Det var lite svårt att lära sig manus utantill, men det gick, säger Bakircioglu."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”The office”-skådespelaren Lucy Davis obotligt sjuk",
+   "date": "2026-08-12T07:48:43.000Z",
+   "link": "https://www.svt.se/kultur/the-office-skadespelare-lucy-davis-obotligt-sjuk",
+   "desc": "Komediskådespelaren Lucy Davis har obotlig bröstcancer, skriver hon på Instagram."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jordbävning i Colombia – detta vet vi",
+   "date": "2026-08-12T07:36:36.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-colombia-detta-vet-vi",
+   "desc": "Över 250 personer har dött efter det kraftiga jordskalvet i Colombia. Ännu väntas dödssiffran stiga, men det finns även en väsentlig skillnad från de nyligen inträffade jordbävningarna i Venezuela."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-08-12T06:19:20.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/bygg-din-egen-tittlada-battre-an-glasogon-for-solformorkelse",
    "desc": "Ikväll kan man se solförmörkelsen i stora delar av Sverige runt klockan 19. Och det går att se den på ett säkert sätt utan att skada ögonen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Brand på färja på Bali – stor insats",
-   "date": "2026-08-12T05:27:48.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/brand-pa-farja-pa-bali-stor-insats",
-   "desc": "Det brinner ombord på en passagerarfärja på Bali. Nu pågår en räddningsinsats för att evakuera de 131 passagerarna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Flyr ut ur huset i Colombia – rasar sekunder senare",
-   "date": "2026-08-12T05:25:10.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/flyr-ut-ur-huset-i-colombia-rasar-sekunder-senare",
-   "desc": "Minst 254 personer har omkommit efter jordbävningen i Colombia, och dödssiffran väntas nu stiga. På filmer syns hur invånare flyr sina hem strax innan husen rasar."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Musikhjälpen 2026 återvänder till Linköping: ”Fantastiskt roligt”",
-   "date": "2026-08-12T04:39:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/musikhjalpen-atervander-till-linkoping-fantastiskt-roligt",
-   "desc": "Den 30 november till 6 december 2026 sänds Musikhjälpen från Stora torget i Linköping. Det blir andra gången den årliga insamlingen och glasburen kommer till staden. – Vi vet att det här är en toppenstad för Musikhjälpen, säger projektledare Karl-Johan Paulsson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Följ med in i ”the Kill Zone”",
-   "date": "2026-08-12T03:39:40.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/folj-med-in-i-the-kill-zone",
-   "desc": "Vid fronten i Ukraina finns inte längre en tydlig kontaktlinje. Ryssar och ukrainare befinner sig samtidigt i en föränderlig och livsfarlig gråzon där drönarna ser allt – ”the Kill Zone”. – Alla som rör sig öppet dör, säger soldaten Dmytro till SVT."
   },
   {
    "src": "STHLM",
