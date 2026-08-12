@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-12T16:27:04.166Z",
+ "updated": "2026-08-12T17:29:35.650Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-   "date": "2026-08-12T15:57:18.000Z",
+   "date": "2026-08-12T16:34:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
    "desc": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
   },
@@ -28,18 +28,34 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Major Russian grain export terminal hit in Ukraine Black Sea port attack",
+   "date": "2026-08-12T17:20:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+   "desc": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "LA Lakers to be sold in record $12.5bn deal",
    "date": "2026-08-12T16:11:04.000Z",
    "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
    "desc": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US inflation eases as food and fuel costs cool",
-   "date": "2026-08-12T14:09:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sarah Sjöström vinner sitt 18:e EM-guld – Sara Junevik tar brons",
+   "date": "2026-08-12T16:50:41.000Z",
+   "link": "https://www.svt.se/sport/simning/sarah-sjostrom-tar-sitt-18e-em-guld",
+   "desc": "Sarah Sjöström fortsätter skriva sim-historia. Den svenska stjärnan vinner 50 meter fjäril – hennes 18:e EM-guld i långbana. Med det går hon upp som delad etta som mesta EM-guldmedaljör på damsidan. På pallen får hon sällskap av landslagskompisen Sara Junevik, som tar brons. – Det är mäktigt, och extra glädjande att Junevik tar bronset, säger SVT:s expert Lars Frölander."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nya regler införs för musik genererad av ”AI-artister”",
+   "date": "2026-08-12T16:43:15.000Z",
+   "link": "https://www.svt.se/kultur/nya-regler-infors-for-musik-genererad-av-ai-artister",
+   "desc": "Musik skapad av AI-artister portas från rättighetsorganisationen IFPI:s Sverigetopplista. Det framgår av IFPI:s nya regler, som börjar gälla i samband med nästa publicering av Sverigetopplistan den 21 augusti. Samtidigt lanserar Spotify i dag en ”AI-Persona”-märkning för musik skapad av AI-artister."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "En ny boplats för den fiskätande fågeln skarv har upptäckts på en ö mellan Nyköping och Oxelösund. Enligt Nyköpings kommun utgör kolonin ett starkt hot mot det lokala fiskbeståndet och nu har en ansökan om skyddsjakt lämnats in till länsstyrelsen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "EBU ändrar Eurovision 2027 – hårdare krav på värdskap",
-   "date": "2026-08-12T14:30:04.000Z",
-   "link": "https://www.svt.se/kultur/ebu-andrar-eurovision-2027-hardare-krav-pa-vardskap",
-   "desc": "Eurovision skärper reglerna inför 2027. Alla artister måste vara 18 år, och EBU förtydligar även reglerna för värdskap och förinspelat ljud."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Då införs vattkoppsvaccinet i Sörmland – blir gratis för barn",
-   "date": "2026-08-12T12:59:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/da-infors-vattkoppsvaccinet-i-sormland-blir-gratis-for-barn",
-   "desc": "Vattkoppsvaccinet kommer att erbjudas i det allmänna vaccinationsprogrammet från och med nästa år. Vaccinet kommer att vara gratis för barn som inte redan haft sjukdomen. – På sikt kommer det innebära att alla barn som brukar få vattkoppor idag, slipper få den sjukdomen, säger Malin Enarsson, smittskyddsläkare i Sörmland."
+   "title": "Nyheter från dagen: 12 augusti",
+   "date": "2026-08-12T17:18:45.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-12-augusti-f9shkc",
+   "desc": "Detta har hänt i Stockholms län onsdag 12 augusti"
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-11T12:00:41.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/signalfel-mellan-stockholm-och-sodertalje-forseningar-i-tagtrafiken",
    "desc": "Ett signalfel skapade under tisdagseftermiddagen förseningar i tågtrafiken mellan Stockholm C och Södertälje Syd."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Barn under 15 misstänks för dåd på Södermalm",
-   "date": "2026-08-11T10:31:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/barn-under-15-misstanks-for-dad-pa-sodermalm",
-   "desc": "Två barn under 15 år misstänks för att ha kastat in ett föremål på en restaurang på Södermalm förra veckan. Enligt P4 Stockholm misstänks båda för bland annat försök till mord."
   },
   {
    "src": "BBC",
