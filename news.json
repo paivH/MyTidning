@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T00:06:21.628Z",
+ "updated": "2026-08-12T03:03:30.995Z",
  "items": [
   {
    "src": "BBC",
@@ -12,18 +12,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-   "date": "2026-08-11T21:14:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-   "desc": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman."
+   "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+   "date": "2026-08-12T00:14:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+   "desc": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-   "date": "2026-08-11T20:39:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
-   "desc": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president."
+   "title": "Trump says he switched planes after Nato summit because of possible threat",
+   "date": "2026-08-12T02:45:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+   "desc": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+   "date": "2026-08-11T21:14:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+   "desc": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman."
   },
   {
    "src": "BBC",
@@ -34,12 +42,12 @@
    "desc": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-   "date": "2026-08-11T16:19:44.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Trump bekräftar flygbyte efter hot",
+   "date": "2026-08-12T02:36:05.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/trump-bekraftar-flygbyte-efter-hot",
+   "desc": "USA:s president Donald Trump bekräftar att han lämnade Natotoppmötet i Ankara i ett annat plan än Air Force One på grund av säkerhetsskäl. – De ville att jag skulle vara på en annan flygning, på ett annat plan, säger Trump enligt AP."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-11T17:52:58.000Z",
    "link": "https://www.svt.se/sport/bordtennis/truls-moregardh-utslagen-direkt-i-hemmaturneringen",
    "desc": "Missräkning för Truls Möregårdh. Den regerande mästaren föll direkt i Europe Smash i Malmö och är därmed utslagen. – Jag var uppenbart väldigt nervös och kom in i det ganska fel, säger han till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sarah Sjöström snabbast i semin på 50 m fjäril: ”Kändes bra”",
-   "date": "2026-08-11T17:32:51.000Z",
-   "link": "https://www.svt.se/sport/simning/sarah-sjostrom-snabbast-av-alla-i-semin-pa-50-m-fjaril",
-   "desc": "Sarah Sjöström fortsätter att imponera i sin återkomst i mästerskapsbassängen. I semifinalen på 50 meter fjäril var Sjöström snabbast av alla med tiden 25.12. Även Sara Junevik tog sig vidare till final med fjärde bästa tid. – Vi får se om det blir en tid under 25 sekunder imorgon, säger Sarah Sjöström till SVT Sport."
   },
   {
    "src": "STHLM",
