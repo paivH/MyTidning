@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T05:13:02.107Z",
+ "updated": "2026-08-12T06:52:30.786Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says he switched planes after Nato summit because of possible threat",
+   "title": "Trump confirms he switched planes after Nato summit because of possible threat",
    "date": "2026-08-12T03:44:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-   "desc": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One."
+   "desc": "Journalists and White House staff who were on board the jet were unaware the president had left."
   },
   {
    "src": "BBC",
@@ -44,7 +44,31 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Musikhjälpen återvänder till Linköping: ”Fantastiskt roligt”",
+   "title": "Bygg din egen ”tittlåda” – bättre än glasögon för solförmörkelse",
+   "date": "2026-08-12T06:19:20.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/bygg-din-egen-tittlada-battre-an-glasogon-for-solformorkelse",
+   "desc": "Ikväll kan man se solförmörkelsen i stora delar av Sverige runt klockan 19. Och det går att se den på ett säkert sätt utan att skada ögonen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Brand på färja på Bali – stor insats",
+   "date": "2026-08-12T05:27:48.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/brand-pa-farja-pa-bali-stor-insats",
+   "desc": "Det brinner ombord på en passagerarfärja på Bali. Nu pågår en räddningsinsats för att evakuera de 131 passagerarna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flyr ut ur huset i Colombia – rasar sekunder senare",
+   "date": "2026-08-12T05:25:10.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/flyr-ut-ur-huset-i-colombia-rasar-sekunder-senare",
+   "desc": "Minst 254 personer har omkommit efter jordbävningen i Colombia, och dödssiffran väntas nu stiga. På filmer syns hur invånare flyr sina hem strax innan husen rasar."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Musikhjälpen 2026 återvänder till Linköping: ”Fantastiskt roligt”",
    "date": "2026-08-12T04:39:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/musikhjalpen-atervander-till-linkoping-fantastiskt-roligt",
    "desc": "Den 30 november till 6 december 2026 sänds Musikhjälpen från Stora torget i Linköping. Det blir andra gången den årliga insamlingen och glasburen kommer till staden. – Vi vet att det här är en toppenstad för Musikhjälpen, säger projektledare Karl-Johan Paulsson."
@@ -56,30 +80,6 @@
    "date": "2026-08-12T03:39:40.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/folj-med-in-i-the-kill-zone",
    "desc": "Vid fronten i Ukraina finns inte längre en tydlig kontaktlinje. Ryssar och ukrainare befinner sig samtidigt i en föränderlig och livsfarlig gråzon där drönarna ser allt – ”the Kill Zone”. – Alla som rör sig öppet dör, säger soldaten Dmytro till SVT."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Döde mannen i Bredselet kan ha dragits med i Storforsen: ”Vet inte varför”",
-   "date": "2026-08-12T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/dode-mannen-i-bredselet-kan-ha-dragits-med-i-storforsen-vet-inte-varfor",
-   "desc": "Efter att en död kropp hittades i vattnet nedströms Storforsen inväntar polisen ett slutligt utlåtande från rättsläkaren innan man kan säkerställa dödsorsaken. – Vi vet inte om de skador som fanns på kroppen har uppkommit när den låg i vattnet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Politiskt bråk i Skinnskatteberg om Hitler-nidbild – en månad innan valet",
-   "date": "2026-08-12T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/politiskt-brak-i-skinnskatteberg-om-hitler-nidbild-en-manad-innan-valet",
-   "desc": "Skinnskattebergs kommunalråd Jonny Emtin (SD) har polisanmält Vänsterpartiets Fredrik Skog för förtal. Anledningen är att Skog postat en nidbild av Emtin som Adolf Hitler. Det gjorde han för två år sedan, men enligt Emtin har han postat den igen i maj. – Det är ren lögn, säger Fredrik Skog (V)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Simon, 23, körde full – nu är han rullstolsburen: ”Kommer aldrig förlåta mig själv”",
-   "date": "2026-08-12T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/simon-23-korde-full-nu-ar-han-rullstolsburen-kommer-aldrig-forlata-mig-sjalv",
-   "desc": "För ett år sedan körde Simon Wahlgren från Vingåker bil med 1,39 promille alkohol i blodet. Han tappade kontrollen över fordonet, körde ner i ett dike och voltade fem gånger. I dag är han förlamad från naveln och ner och lever med en allvarlig hjärnskada. – Jag får stå mitt kast."
   },
   {
    "src": "STHLM",
