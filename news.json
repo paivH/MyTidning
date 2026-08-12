@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T19:38:53.567Z",
+ "updated": "2026-08-12T20:38:52.753Z",
  "items": [
   {
    "src": "BBC",
@@ -28,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-   "date": "2026-08-12T16:34:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "date": "2026-08-12T20:16:55.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Leavitt will depart from her role to spend time with her young children and family, the president says."
   },
   {
    "src": "BBC",
@@ -47,7 +47,7 @@
    "title": "Se solförmörkelsen från segelbåten i Luleå",
    "date": "2026-08-12T19:06:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-solformorkelsen-fran-segelbaten-i-lulea",
-   "desc": "Luleås båtliv är rikt under sommaren – och på onsdagskvällen tömdes marinorna. Mängder med segel- och motorbåtar gav sig ut på Stadsfjärden för att se solförmörkelsen och SVT hänger med när Urban Fägnell kryssar fram."
+   "desc": "Luleås båtliv är rikt under sommaren – och på onsdagskvällen tömdes marinorna. Mängder med segel- och motorbåtar gav sig ut på Stadsfjärden för att se solförmörkelsen och SVT hängde med när Urban Fägnell kryssade fram."
   },
   {
    "src": "SVT",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Den tydligaste solförmörkelsen i Sverige sedan 2015",
+   "date": "2026-08-12T20:23:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/den-tydligaste-solformorkelsen-i-sverige-sedan-2015",
+   "desc": "Idag är det solförmörkelse i Sverige och på Observatorielunden samlades stockholmare för att se den partiella förmörkelsen, omkring 81 procent av solens yta täcktes av månen. – En så här stor händer väldigt sällan, nästa kommer nog inte vara förens om 100 år ungefär, säger Marcell Ziegler styrelse ledamot i Astronomisk Ungdoms lokalförening i Stockholm."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Man död i drunkningsolycka i Hökarängen",
    "date": "2026-08-12T17:53:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-i-drunkningsolycka-i-hokarangen",
@@ -112,14 +120,6 @@
    "date": "2026-08-12T03:30:09.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/smugglade-in-12-kilo-khat-skulle-till-brollop-i-stockholm",
    "desc": "En man döms för att ha smugglat in den narkotikaklassade växten khat till Sverige, efter att Tullverket tog honom på bar gärning vid Stockholms centralstation. – Fördelen med de här khat-kurirerna är att de är rätt enkla att se eftersom de har väldigt stora väskor med sig, säger Stefan Granath, biträdande avdelningschef på Tullverket."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 11 augusti",
-   "date": "2026-08-11T17:50:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-11-augusti-jn19t1",
-   "desc": "Detta har hänt i Stockholms län tisdagen den 11 augusti"
   },
   {
    "src": "BBC",
