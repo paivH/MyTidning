@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-12T18:28:41.607Z",
+ "updated": "2026-08-12T19:38:53.567Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-   "date": "2026-08-12T16:34:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
+   "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+   "date": "2026-08-12T17:47:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+   "desc": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
   },
   {
    "src": "BBC",
@@ -20,26 +20,34 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+   "date": "2026-08-12T19:21:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+   "date": "2026-08-12T16:34:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+   "desc": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
    "date": "2026-08-12T11:28:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
    "desc": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-   "date": "2026-08-12T17:47:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-   "desc": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "LA Lakers to be sold in record $12.5bn deal",
-   "date": "2026-08-12T16:11:04.000Z",
-   "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Se solförmörkelsen från segelbåten i Luleå",
+   "date": "2026-08-12T19:06:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-solformorkelsen-fran-segelbaten-i-lulea",
+   "desc": "Luleås båtliv är rikt under sommaren – och på onsdagskvällen tömdes marinorna. Mängder med segel- och motorbåtar gav sig ut på Stadsfjärden för att se solförmörkelsen och SVT hänger med när Urban Fägnell kryssar fram."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-12T15:33:11.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/kanadagassens-bajskaos-sabbar-badgladjen-i-kungsor",
    "desc": "Bryggan vid Bottens badplats i Kungsör har en flock oönskade badgäster. Under sommaren har bajsande Kanadagäss fått besökare att klaga hos kommunen. Som nu undersöker mer långsiktiga åtgärder än att städa två gånger i veckan."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ny skarvkoloni hittad i Nyköping – kommunen ansöker om skyddsjakt",
-   "date": "2026-08-12T14:54:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/ny-skarvkoloni-hittad-i-nykoping-kommunen-ansoker-om-skyddsjakt",
-   "desc": "En ny boplats för den fiskätande fågeln skarv har upptäckts på en ö mellan Nyköping och Oxelösund. Enligt Nyköpings kommun utgör kolonin ett starkt hot mot det lokala fiskbeståndet och nu har en ansökan om skyddsjakt lämnats in till länsstyrelsen."
   },
   {
    "src": "STHLM",
