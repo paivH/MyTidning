@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T13:00:09.749Z",
+ "updated": "2026-08-12T14:23:06.177Z",
  "items": [
   {
    "src": "BBC",
@@ -29,17 +29,33 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Israeli settlers besieging Palestinian families in West Bank village",
-   "date": "2026-08-12T12:16:22.000Z",
+   "date": "2026-08-12T14:03:48.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
    "desc": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-   "date": "2026-08-12T11:28:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-   "desc": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies."
+   "title": "US inflation eases as food and fuel costs cool",
+   "date": "2026-08-12T14:09:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Då införs vattkoppsvaccinet i Sörmland – blir gratis för barn",
+   "date": "2026-08-12T12:59:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/da-infors-vattkoppsvaccinet-i-sormland-blir-gratis-for-barn",
+   "desc": "Vattkoppsvaccinet kommer att erbjudas i det allmänna vaccinationsprogrammet från och med nästa år. Vaccinet kommer att vara gratis för barn som inte redan haft sjukdomen. – På sikt kommer det innebära att alla barn som brukar få vattkoppor idag, slipper få den sjukdomen, säger Malin Enarsson, smittskyddsläkare i Sörmland."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "SVT rapporterar direkt från Way out west 2026",
+   "date": "2026-08-12T12:59:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/svt-rapporterar-direkt-fran-way-out-west-2026",
+   "desc": "Nu slår Way out west upp portarna och Slottsskogen i Göteborg fylls med musik, mat och mode. Har någon blöja på sig i publiken? Hur mår de som har flipflops på fötterna? Och framför allt: Hur är konserterna? SVT rapporterar om alla snackisar från festivalen."
   },
   {
    "src": "SVT",
@@ -63,23 +79,15 @@
    "title": "Misstänkt sexualbrott på sjukhus – anställd frihetsberövades",
    "date": "2026-08-12T12:13:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/misstankt-sexualbrott-pa-sjukhus-anstalld-frihetsberovad",
-   "desc": "En anställd på Länssjukhuset Ryhov har frihetsberövats av polis, misstänkt för sexualbrott mot en patient. Det uppger Region Jönköpings län."
+   "desc": "En anställd på Länssjukhuset Ryhov har frihetsberövats av polis, misstänkt för sexualbrott mot en patient, det uppger Region Jönköpings län."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Häktades för grov olovlig underrättelseverksamhet – målet avskrivet",
-   "date": "2026-08-12T12:05:09.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/haktades-for-grov-olovlig-underrattelseverksamhet-malet-avskrivet",
-   "desc": "Två män har sedan i juli varit häktade på sannolika skäl misstänkta för grov olovlig underrättelseverksamhet mot Sverige. Nu har målet avskrivits, enligt handlingar från Stockholms tingsrätt."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Oskar Edlunds succé: Till final på 400 häck efter svenskt rekord",
-   "date": "2026-08-12T11:58:57.000Z",
-   "link": "https://www.svt.se/sport/friidrott/oskar-edlunds-succe-till-final-pa-400-hack-efter-svenskt-rekord",
-   "desc": "Oskar Edlund är i storform. Han krossade motståndet i sin EM-semifinal – och slog svenskt rekord. Tiden: 47,81. – Ett bra planerat lopp, konstaterar han."
+   "title": "Floristen My, 19, från Järfälla ska till yrkes-VM i Shanghai",
+   "date": "2026-08-12T13:12:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/floristen-my-19-fran-jarfalla-ska-till-yrkes-vm-i-shanghai",
+   "desc": "My Trotzig har precis tagit studenten från floristutbildningen på S:t Eriks gymnasium i Stockholm. Nu ska hon tävla i yrkes-VM i Kina med det svenska landslaget. – Man ska inte dissa yrkeslinjerna på en gång för det är väldigt roligt, säger hon."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-11T10:31:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/barn-under-15-misstanks-for-dad-pa-sodermalm",
    "desc": "Två barn under 15 år misstänks för att ha kastat in ett föremål på en restaurang på Södermalm förra veckan. Enligt P4 Stockholm misstänks båda för bland annat försök till mord."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Leshi, 17, tar svenskt guld i fysik-OS – första gången på 44 år",
-   "date": "2026-08-11T10:18:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/leshi-17-vinner-guld-i-fysik-os-forsta-gangen-pa-44-ar",
-   "desc": "17-åriga Leshi Zhang från Solna tog hem guldmedaljen i fysik-OS för gymnasielever. Det är Sveriges första guld i tävlingen på 44 år. – Jag blev jätteglad, men var inte så chockad, säger vinnaren."
   },
   {
    "src": "BBC",
