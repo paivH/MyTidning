@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T17:59:09.968Z",
+ "updated": "2026-08-13T19:12:01.269Z",
  "items": [
   {
    "src": "BBC",
@@ -12,6 +12,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+   "date": "2026-08-13T16:05:35.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
    "date": "2026-08-13T04:55:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
@@ -20,18 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-   "date": "2026-08-13T01:31:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-   "desc": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-   "date": "2026-08-13T17:21:00.000Z",
+   "date": "2026-08-13T19:07:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-   "desc": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since November."
+   "desc": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
   },
   {
    "src": "BBC",
@@ -40,6 +40,30 @@
    "date": "2026-08-13T15:30:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
    "desc": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Motorcykel och moped kolliderade i Habo",
+   "date": "2026-08-13T18:56:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/motorcykel-och-moped-kolliderade-i-habo",
+   "desc": "En trafikolycka inträffade vid 20-tiden på torsdagskvällen i Bränninge i Habo när en motorcykel och en moped kolliderade."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hammarby missar Europaspel – Amin Boudri utvisad i returen mot Raków",
+   "date": "2026-08-13T18:55:33.000Z",
+   "link": "https://www.svt.se/sport/fotboll/hammarby-missar-europaspel-amin-boudri-utvisad-i-returen-mot-rakow",
+   "desc": "Hammarby är utslaget ur Conference League-kvalet och missar därmed Europaspel. Hemma mot Raków Częstochowa föll man med 0–1 – efter att Amin Boudri dragit på sig ett rött kort. – Jag är jävligt arg och frustrerad, säger Paulos Abraham i Aftonbladets sändning."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Svensk skräll i Europe Smash – Elias Ranefur vidare efter drama",
+   "date": "2026-08-13T18:06:32.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/svensk-skrall-i-europe-smash-elias-ranefur-vidare",
+   "desc": "Svensk skräll i Europe Smash. Elias Ranefur, rankad 64, är vidare efter att ha besegrat 12:e-rankade kinesen Ruibo Wen. – Jag är supernöjd med matchen och prestationen, säger Ranefur till SVT Sport."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-08-13T14:50:30.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/brand-i-maskin-pa-torvmosse-i-surahammar",
    "desc": "En maskin brann på en torvmosse sydväst om samhället i Surahammar, och det var stor spridningsrisk till torvhögar i närheten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Mannen som misstänks för sexbrott på sjukhus inte längre frihetsberövad",
-   "date": "2026-08-13T14:41:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/mannen-som-misstanks-for-sexbrott-pa-sjukhus-inte-langre-frihetsberovad",
-   "desc": "Den man som utreds för att ha begått ett sexualbrott mot en patient på Länssjukhuset Ryhov i Jönköping är inte längre frihetsberövad. Samtidigt pågår en utredning kring om liknande händelser skett."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Västmanland har tredje högst arbetslöshet – trots minskning: ”Går åt rätt håll”",
-   "date": "2026-08-13T14:41:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/vastmanland-har-tredje-hogst-arbetsloshet-trots-minskning-gar-at-ratt-hall",
-   "desc": "Arbetslösheten i Västmanland har minskat till 7,9 procent. Samtidigt är återhämtningen på arbetsmarknaden fortsatt långsam, enligt Arbetsförmedlingen. – Det är bra siffror, men inte tillräckligt bra, säger Maziyar Khallagi, sektionschef på Arbetsförmedlingen i Västmanland."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Efter varningarna – få rapporter om ögonskador av solförmörkelsen",
-   "date": "2026-08-13T14:37:08.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/efter-varningarna-fa-rapporter-om-ogonskador-av-solformorkelsen",
-   "desc": "Solförmörkelsen fick många svenskar att vända blicken mot skyn, men den tycks inte ha belastat sjukvården nämnvärt. I Stockholm har ”ett fåtal” har hört av sig till S:t Eriks ögonsjukhus och på 1177 har man tagit emot ett tjugotal samtal från personer i länet som fått symptom efter att sett månen passera mellan solen och jorden."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-08-13T18:07:02.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p4dpwk?at_medium=RSS&at_campaign=rss",
+   "desc": "Michael Carrick on Marcus Rashford, Kobbie Mainoo and Man Utd's summer business."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-08-10T13:17:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p3q6bx?at_medium=RSS&at_campaign=rss",
    "desc": "Gaz is joined by Jay Motty to discuss the summer window and Jose Mourinho's new comments."
@@ -144,14 +152,6 @@
    "date": "2026-08-04T13:01:17.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p2lc68?at_medium=RSS&at_campaign=rss",
    "desc": "MUWST Chair Deborah Henry on Marc Skinner's departure as head coach of United Women."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-04T05:00:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p2dyb8?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd defender Leny Yoro on whether they can win the Premier League title this season."
   }
  ]
 }
