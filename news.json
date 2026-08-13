@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T13:56:08.778Z",
+ "updated": "2026-08-13T14:55:52.849Z",
  "items": [
   {
    "src": "BBC",
@@ -44,42 +44,42 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Mannen som misstänks för sexbrott på sjukhus inte längre frihetsberövad",
+   "date": "2026-08-13T14:41:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/mannen-som-misstanks-for-sexbrott-pa-sjukhus-inte-langre-frihetsberovad",
+   "desc": "Den man som utreds för att ha begått ett sexualbrott mot en patient på Länssjukhuset Ryhov i Jönköping är inte längre frihetsberövad. Samtidigt pågår en utredning kring om liknande händelser skett."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Västmanland har tredje högst arbetslöshet – trots minskning: ”Går åt rätt håll”",
+   "date": "2026-08-13T14:41:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/vastmanland-har-tredje-hogst-arbetsloshet-trots-minskning-gar-at-ratt-hall",
+   "desc": "Arbetslösheten i Västmanland har minskat till 7,9 procent. Samtidigt är återhämtningen på arbetsmarknaden fortsatt långsam, enligt Arbetsförmedlingen. – Det är bra siffror, men inte tillräckligt bra, säger Maziyar Khallagi, sektionschef på Arbetsförmedlingen i Västmanland."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter varningarna – få rapporter om ögonskador av solförmörkelsen",
+   "date": "2026-08-13T14:37:08.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/efter-varningarna-fa-rapporter-om-ogonskador-av-solformorkelsen",
+   "desc": "Solförmörkelsen fick många svenskar att vända blicken mot skyn, men den tycks inte ha belastat sjukvården nämnvärt. I Stockholm har ”ett fåtal” har hört av sig till S:t Eriks ögonsjukhus och på 1177 har man tagit emot ett tjugotal samtal från personer i länet som fått symptom efter att sett månen passera mellan solen och jorden."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Åklagaren vill ha mer tid för att utreda båtolyckan vid Tjörn",
+   "date": "2026-08-13T14:19:51.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/aklagaren-vill-ha-mer-tid-for-att-utreda-batolyckan-vid-tjorn",
+   "desc": "Åklagaren har skickat in en ansökan om att få mer tid för att utreda båtolyckan utanför Tjörn. Sedan tidigare var beskedet att åtal skulle komma klockan 11 på fredagen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Aggressiv man gick till attack i Bellevuemoskén",
    "date": "2026-08-13T13:05:09.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/aggressiv-man-gick-till-attack-i-bellevuemosken",
    "desc": "En man i 60-årsåldern gick till attack mot två yngre män i Bellevuemoskén i Göteborg under torsdagseftermiddagen. Polis kallades till platsen och kunde säkra mannen, som stängts in i ett rum av allmänheten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Låga vattennivåer halverar produktionen – så påverkas elpriserna",
-   "date": "2026-08-13T12:06:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/laga-vattennivaer-halverar-produktionen-sa-paverkas-elpriserna",
-   "desc": "Vattennivåerna är just nu ovanligt låga i de stora sjöarna i Östergötland. För Tekniska verken innebär det en halvering av elproduktionen från vattenkraft. – Vi har en situation som man får backa ungefär tio år i tiden för att hitta något vi kan jämföra med, säger Ola Palmquist på Tekniska verken."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Explosion i hamnen i Rotterdam – en död",
-   "date": "2026-08-13T11:42:14.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/explosion-i-rotterdam-en-dod",
-   "desc": "En explosion inträffade i hamnen Europoort i nederländska Rotterdam på torsdagen. En person har dött och flera skadats, uppger den lokala polisen enligt Reuters."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt våldtäkt på hotellrum i Sundsvall",
-   "date": "2026-08-13T11:25:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/misstankt-valdtakt-pa-hotellrum-i-sundsvall",
-   "desc": "Natten till torsdagen greps en man i 60-årsåldern i Sundsvall misstänkt för våldtäkt mot en kvinna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Eldningsförbud införs i Eskilstuna: ”Extremt torrt i skog och mark”",
-   "date": "2026-08-13T11:14:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-nara-ar-raddningstjansten-att-infora-ett-eldningsforbud-pratar-om-det-varje-dag",
-   "desc": "Det är mycket torrt i skog och mark på flera håll i Sörmland. Under torsdagen införde räddningstjänsten i Eskilstuna skärpt eldningsförbud i hela kommunen. Ett förbud har varit nära förestående flera dagar innan beslutet togs. – Vi pratar om det varje dag, säger Camilla Dahlén, räddningschef i Eskilstuna."
   },
   {
    "src": "STHLM",
