@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T08:49:51.801Z",
+ "updated": "2026-08-13T10:00:25.945Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Inga telefoner i skolan – Ronnaelever välkomnar ny lag",
+   "date": "2026-08-13T09:55:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/inga-telefoner-i-skolan-ronnaelever-valkomnar-ny-lag",
+   "desc": "När skolan börjar nästa vecka ska elevernas mobiler samlas in på morgnarna och inte återlämnas förrän barnen går hem. – Det är bra, för man kommer inte kunna fuska, säger Ben Furgal, som ska börja sexan i Ronnaskolan i Södertälje."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Röklukt ombord flyg – vänder tillbaka mot Arlanda",
+   "date": "2026-08-13T09:15:14.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
+   "desc": "Ett flyg som lyft från Arlanda har tvingats vända tillbaka – efter röklukt, det rapporterar TV4 Nyheterna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Här är de tyngsta frågorna i torsdagens omröstning",
    "date": "2026-08-13T08:42:45.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/har-ar-de-tyngsta-fragorna-i-torsdagens-omrostning",
@@ -64,22 +80,6 @@
    "date": "2026-08-13T05:42:28.000Z",
    "link": "https://www.svt.se/nyheter/ekonomi/tre-tips-sa-kapar-du-kostnaderna-for-prenumerationer",
    "desc": "Streamingtjänster du inte visste att du hade eller onödigt dyrt mobilabonnemang? SVT:s ekonomikommentator Alexander Norén listar tre tips för att kapa dina prenumerationskostnader."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Läcka på Söder i Eskilstuna – se vattnet forsa fram",
-   "date": "2026-08-13T05:33:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/vattenlacka-pa-soder-i-eskilstuna-oklart-vad-som-hant",
-   "desc": "En vattenläcka uppstod på Södra Bangårdsgatan i Eskilstuna under torsdagsmorgonen. Totalt 36 adresser är påverkade och boende får hämta vatten från utställda vattentankar. Även vårdcentralen Tunafors och Coop-butiken på Sveaplan är drabbade."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Färre än hälften av familjeparkeringarna används av småbarnsföräldrar",
-   "date": "2026-08-13T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/farre-an-halften-av-familjeparkeringarna-anvands-av-smabarnsforaldrar",
-   "desc": "Bara fem av tolv som använder familjeparkeringen vid den stora matbutiken har barn. Det visar SVT:s reporters räkning som under en timma haft koll på bilarna. – Jag tycker det är fel, det är ju för oss som har barn, säger småbarnsmamman Jenna Nytjärn."
   },
   {
    "src": "STHLM",
