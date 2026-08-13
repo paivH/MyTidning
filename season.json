@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-12T05:12:17.560Z",
+ "updated": "2026-08-13T05:16:33.914Z",
  "items": [
   {
-   "ingredient": "päron",
-   "idea": "Snabbsyra päronskivor i 1 dl ättika, 1 dl vatten, 1 dl socker – klara på 30 minuter till ost."
+   "ingredient": "äpplen",
+   "idea": "Fermentera tärnade äpplen med 2% salt i 5 dagar till syrlig, krispig kompott."
   },
   {
    "ingredient": "kantareller",
-   "idea": "Snabbstek kantareller i smör med vitlök, servera på ristat surdegsbröd som enkel vardagsrätt."
-  },
-  {
-   "ingredient": "grönkål",
-   "idea": "Fermentera grönkål med salt och chili i en burk i 5 dagar för hemgjord kimchi."
+   "idea": "Snabbstek kantareller i smör 5 minuter, toppa rostat surdegsbröd med timjan och salt."
   },
   {
    "ingredient": "majs",
-   "idea": "Baka majsbröd med rostade majskorn i degen och en skvätt surdeg för knaprig krust."
+   "idea": "Picklad majs: koka lake 1:1:1 ättika-socker-vatten, häll över råskurna kolvar, kyl en natt."
+  },
+  {
+   "ingredient": "grönkål",
+   "idea": "Baka surdegsbröd med finhackad grönkål inbakad i degen, jäs 8 timmar innan gräddning."
   }
  ]
 }
