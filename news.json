@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T10:00:25.945Z",
+ "updated": "2026-08-13T11:21:00.588Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,14 @@
    "date": "2026-08-13T04:55:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
    "desc": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "UK defends seizing shadow fleet tanker after Putin threat",
+   "date": "2026-08-13T11:05:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+   "desc": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
   },
   {
    "src": "BBC",
@@ -28,18 +36,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Why are 'human fridges' being sold in Japan?",
-   "date": "2026-08-12T22:07:47.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-   "desc": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down."
+   "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+   "date": "2026-08-13T01:19:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+   "desc": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Indian actor's video with endangered gibbon sparks investigation",
-   "date": "2026-08-13T07:05:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
-   "desc": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så nära är räddningstjänsten att införa ett eldningsförbud: ”Pratar om det varje dag”",
+   "date": "2026-08-13T11:14:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-nara-ar-raddningstjansten-att-infora-ett-eldningsforbud-pratar-om-det-varje-dag",
+   "desc": "Det är mycket torrt i skog och mark på flera håll i Sörmland. Varje dag gör räddningstjänsten i Eskilstuna tillsammans med kollegor i länet bedömningen om ett eldningsförbud behöver införas. – Vi pratar om det varje dag, säger Camilla Dahlén, räddningschef i Eskilstuna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kravet: ”Låt vaktbolag eskortera ambulanser vid riskfyllda utryckningar”",
+   "date": "2026-08-13T10:59:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kravet-fran-ambulansfacket-lat-vaktbolag-eskortera-vid-riskfyllda-utryckningar",
+   "desc": "Specialutbildade väktare som kan eskortera ambulanssjukvårdare vid utryckningar när polisen inte har möjlighet att följa med i riskfyllda miljöer. Det kräver nu Ambulansförbundet och relaterar bland annat till mordet i Harmånger i september förr året då en ambulanssjukvårdare knivhöggs till döds. – Det borde vara en självklarhet att ha samma skydd som finns till exempel på sjukhus eller i tunnelbanan, säger Henrik Johansson, förbundssekreterare i Ambulansförbundet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fler söker hjälp för ätstörning – skolstarten kan bli extra tuff",
+   "date": "2026-08-13T10:54:51.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/fler-soker-hjalp-for-atstorning-skolstarten-kan-bli-extra-tuff",
+   "desc": "Samtalen om ätstörningar har ökat markant hos organisationen Tjejzonen de senaste åren. För många drabbade kan skolstarten vara extra tuff. – Det blir en stor förändring i rutinerna, säger Linnea Konnberg, volontär på Tjejzonen."
   },
   {
    "src": "SVT",
@@ -54,32 +78,24 @@
    "section": "Sverige · Stockholm",
    "title": "Röklukt ombord flyg – vänder tillbaka mot Arlanda",
    "date": "2026-08-13T09:15:14.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
    "desc": "Ett flyg som lyft från Arlanda har tvingats vända tillbaka – efter röklukt, det rapporterar TV4 Nyheterna."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Här är de tyngsta frågorna i torsdagens omröstning",
-   "date": "2026-08-13T08:42:45.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/har-ar-de-tyngsta-fragorna-i-torsdagens-omrostning",
-   "desc": "Under torsdagen samlas politikerna till en extrainkallad sommarriksdag. På dagordningen står flera tunga beslut om Sveriges rätts- och migrationspolitik. Här är en guide till några av förslagen som det ska röstas om – och var partierna står."
+   "title": "Kravet på regionen: ”Låt vaktbolag eskortera ambulanser”",
+   "date": "2026-08-13T10:59:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kravet-fran-ambulansfacket-lat-vaktbolag-eskortera-vid-riskfyllda-utryckningar",
+   "desc": "Specialutbildade väktare som kan eskortera ambulanssjukvårdare vid utryckningar när polisen inte har möjlighet att följa med i riskfyllda miljöer. Det kräver nu Ambulansförbundet och relaterar bland annat till mordet i Harmånger i september förr året då en ambulanssjukvårdare knivhöggs till döds. – Det borde vara en självklarhet att ha samma skydd som finns till exempel på sjukhus eller i tunnelbanan, säger Henrik Johansson, förbundssekreterare i Ambulansförbundet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Nick Reiner åtalas för mordet på föräldrarna",
-   "date": "2026-08-13T06:13:49.000Z",
-   "link": "https://www.svt.se/kultur/nick-reiner-atalas-for-mordet-pa-foraldrarna",
-   "desc": "I vintras dödades filmregissören Rob Reiner och hans fru Michele Singer Reiner i sitt hem. Nu har deras son, Nick Reiner, åtalats för morden."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tre tips: Så kapar du kostnaderna för prenumerationer",
-   "date": "2026-08-13T05:42:28.000Z",
-   "link": "https://www.svt.se/nyheter/ekonomi/tre-tips-sa-kapar-du-kostnaderna-for-prenumerationer",
-   "desc": "Streamingtjänster du inte visste att du hade eller onödigt dyrt mobilabonnemang? SVT:s ekonomikommentator Alexander Norén listar tre tips för att kapa dina prenumerationskostnader."
+   "title": "Röklukt ombord flyg – vänder tillbaka mot Arlanda",
+   "date": "2026-08-13T09:15:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
+   "desc": "Ett flyg som lyft från Arlanda har tvingats vända tillbaka – efter röklukt, det rapporterar TV4 Nyheterna."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-08-12T20:23:44.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/den-tydligaste-solformorkelsen-i-sverige-sedan-2015",
    "desc": "Idag är det solförmörkelse i Sverige och på Observatorielunden samlades stockholmare för att se den partiella förmörkelsen, omkring 81 procent av solens yta täcktes av månen. – En så här stor händer väldigt sällan, nästa kommer nog inte vara förens om 100 år ungefär, säger Marcell Ziegler styrelse ledamot i Astronomisk Ungdoms lokalförening i Stockholm."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man död i drunkningsolycka i Hökarängen",
-   "date": "2026-08-12T17:53:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-i-drunkningsolycka-i-hokarangen",
-   "desc": "Efter ett larm om drunkningstillbud fördes en man till sjukhus, där han senare avled."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 12 augusti",
-   "date": "2026-08-12T17:18:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-12-augusti-f9shkc",
-   "desc": "Detta har hänt i Stockholms län onsdag 12 augusti"
   },
   {
    "src": "BBC",
