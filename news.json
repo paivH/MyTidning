@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T11:21:00.588Z",
+ "updated": "2026-08-13T12:08:06.244Z",
  "items": [
   {
    "src": "BBC",
@@ -44,7 +44,15 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Så nära är räddningstjänsten att införa ett eldningsförbud: ”Pratar om det varje dag”",
+   "title": "Misstänkt våldtäkt på hotellrum i Sundsvall",
+   "date": "2026-08-13T11:25:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/misstankt-valdtakt-pa-hotellrum-i-sundsvall",
+   "desc": "Natten till torsdagen greps en man i 60-årsåldern i Sundsvall misstänkt för våldtäkt mot en kvinna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så nära är räddningstjänstens eldningsförbud: ”Pratar om det varje dag”",
    "date": "2026-08-13T11:14:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-nara-ar-raddningstjansten-att-infora-ett-eldningsforbud-pratar-om-det-varje-dag",
    "desc": "Det är mycket torrt i skog och mark på flera håll i Sörmland. Varje dag gör räddningstjänsten i Eskilstuna tillsammans med kollegor i länet bedömningen om ett eldningsförbud behöver införas. – Vi pratar om det varje dag, säger Camilla Dahlén, räddningschef i Eskilstuna."
@@ -74,17 +82,9 @@
    "desc": "När skolan börjar nästa vecka ska elevernas mobiler samlas in på morgnarna och inte återlämnas förrän barnen går hem. – Det är bra, för man kommer inte kunna fuska, säger Ben Furgal, som ska börja sexan i Ronnaskolan i Södertälje."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Röklukt ombord flyg – vänder tillbaka mot Arlanda",
-   "date": "2026-08-13T09:15:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
-   "desc": "Ett flyg som lyft från Arlanda har tvingats vända tillbaka – efter röklukt, det rapporterar TV4 Nyheterna."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kravet på regionen: ”Låt vaktbolag eskortera ambulanser”",
+   "title": "Kravet: ”Låt vaktbolag eskortera ambulanser vid riskfyllda utryckningar”",
    "date": "2026-08-13T10:59:42.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kravet-fran-ambulansfacket-lat-vaktbolag-eskortera-vid-riskfyllda-utryckningar",
    "desc": "Specialutbildade väktare som kan eskortera ambulanssjukvårdare vid utryckningar när polisen inte har möjlighet att följa med i riskfyllda miljöer. Det kräver nu Ambulansförbundet och relaterar bland annat till mordet i Harmånger i september förr året då en ambulanssjukvårdare knivhöggs till döds. – Det borde vara en självklarhet att ha samma skydd som finns till exempel på sjukhus eller i tunnelbanan, säger Henrik Johansson, förbundssekreterare i Ambulansförbundet."
