@@ -1,21 +1,13 @@
 {
- "updated": "2026-08-13T15:57:23.058Z",
+ "updated": "2026-08-13T16:57:36.901Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-   "date": "2026-08-13T15:40:31.000Z",
+   "date": "2026-08-13T16:20:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
    "desc": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "UK defends seizing shadow fleet tanker after Putin threat",
-   "date": "2026-08-13T15:05:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-   "desc": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
   },
   {
    "src": "BBC",
@@ -36,6 +28,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+   "date": "2026-08-13T16:30:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+   "desc": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Person fined after using foghorn to wake sleeping polar bear",
    "date": "2026-08-13T15:30:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
@@ -44,10 +44,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Sara Curtis nya succé – världsrekord för andra dagen i rad",
+   "date": "2026-08-13T16:45:04.000Z",
+   "link": "https://www.svt.se/sport/simning/sara-curtis-nya-succe-varldsrekord-for-andra-dagen-i-rad",
+   "desc": "Italienskan Sara Curtis succé fortsätter. För andra dagen i rad slog hon till med världsrekord på 50 meter ryggsim. – Då får Sarah (Sjöström) se upp, säger SVT:s kommentator Niklas Nord."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Brand i maskin på torvmosse i Surahammar",
    "date": "2026-08-13T14:50:30.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/brand-i-maskin-pa-torvmosse-i-surahammar",
-   "desc": "En maskin brinner på en torvmosse sydväst om samhället i Surahammar, och det är stor spridningsrisk till torvhögar i närheten."
+   "desc": "En maskin brann på en torvmosse sydväst om samhället i Surahammar, och det var stor spridningsrisk till torvhögar i närheten."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Solförmörkelsen fick många svenskar att vända blicken mot skyn, men den tycks inte ha belastat sjukvården nämnvärt. I Stockholm har ”ett fåtal” har hört av sig till S:t Eriks ögonsjukhus och på 1177 har man tagit emot ett tjugotal samtal från personer i länet som fått symptom efter att sett månen passera mellan solen och jorden."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Åklagaren vill ha mer tid för att utreda båtolyckan vid Tjörn",
-   "date": "2026-08-13T14:19:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/aklagaren-vill-ha-mer-tid-for-att-utreda-batolyckan-vid-tjorn",
-   "desc": "Åklagaren har skickat in en ansökan om att få mer tid för att utreda båtolyckan utanför Tjörn. Sedan tidigare var beskedet att åtal skulle komma klockan 11 på fredagen."
+   "title": "Övertänd villa i skogen: ”Inte under kontroll”",
+   "date": "2026-08-13T16:03:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/overtand-villa-i-skogen-inte-under-kontroll",
+   "desc": "En villa i Vallentuna står i en fullt utvecklad brand. Enligt räddningstjänsten finns det risk för spridning till både skogen intill och kringliggande hus. – Det kan sprida sig till andra hus men det ska vi lyckas stoppa, säger räddningstjänstens vakthavande befäl Tobias Åkesson."
   },
   {
    "src": "STHLM",
@@ -87,7 +95,7 @@
    "title": "Villa i brand på ö utanför Nacka",
    "date": "2026-08-13T15:07:11.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/villa-i-brand-pa-o-utanfor-nacka",
-   "desc": "En brand har brutit ut i en villa på Tegelön söder om Vaxholm. Både ambulans och räddningstjänst är på plats och släckningsarbete pågår."
+   "desc": "En brand har brutit ut i en villa på Tegelön söder om Vaxholm. Både ambulans och räddningstjänst är på plats och släckningsarbete pågår. –Vi kommer låta huset brinna upp under kontrollerade former, säger räddningstjänstens vakthavande befäl Tobias Åkesson."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-13T09:15:14.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
    "desc": "Ett flyg som lyft från Arlanda har tvingats vända tillbaka – efter röklukt, det rapporterar TV4 Nyheterna."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "C-toppens sätt att hantera press: Ropar ”kuken”",
-   "date": "2026-08-13T05:00:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/c-toppens-satt-att-hantera-press-ropade-kuken-till-kollegorna",
-   "desc": "Jonas Naddebo (C) öppnar upp om svåra tiden som mobbad i skolan, svordomarna i stressade situationer och vad som oroar honom på riktigt inför framtiden."
   },
   {
    "src": "BBC",
