@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T07:21:16.445Z",
+ "updated": "2026-08-13T08:49:51.801Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Israeli settlers besieging Palestinian families in West Bank village",
-   "date": "2026-08-12T16:14:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-   "desc": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
+   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "date": "2026-08-13T08:12:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+   "desc": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
   },
   {
    "src": "BBC",
@@ -28,18 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Three men will be executed on the same day as death penalties rise in US",
-   "date": "2026-08-12T20:52:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Despite growing opposition to the death penalty, one state is behind the rising numbers."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Why are 'human fridges' being sold in Japan?",
    "date": "2026-08-12T22:07:47.000Z",
    "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
    "desc": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Indian actor's video with endangered gibbon sparks investigation",
+   "date": "2026-08-13T07:05:35.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
+   "desc": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här är de tyngsta frågorna i torsdagens omröstning",
+   "date": "2026-08-13T08:42:45.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/har-ar-de-tyngsta-fragorna-i-torsdagens-omrostning",
+   "desc": "Under torsdagen samlas politikerna till en extrainkallad sommarriksdag. På dagordningen står flera tunga beslut om Sveriges rätts- och migrationspolitik. Här är en guide till några av förslagen som det ska röstas om – och var partierna står."
   },
   {
    "src": "SVT",
@@ -63,7 +71,7 @@
    "title": "Läcka på Söder i Eskilstuna – se vattnet forsa fram",
    "date": "2026-08-13T05:33:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/vattenlacka-pa-soder-i-eskilstuna-oklart-vad-som-hant",
-   "desc": "En vattenläcka uppstod på Södra Bangårdsgatan i Eskilstuna under torsdagsmorgonen."
+   "desc": "En vattenläcka uppstod på Södra Bangårdsgatan i Eskilstuna under torsdagsmorgonen. Totalt 36 adresser är påverkade och boende får hämta vatten från utställda vattentankar. Även vårdcentralen Tunafors och Coop-butiken på Sveaplan är drabbade."
   },
   {
    "src": "SVT",
@@ -74,17 +82,9 @@
    "desc": "Bara fem av tolv som använder familjeparkeringen vid den stora matbutiken har barn. Det visar SVT:s reporters räkning som under en timma haft koll på bilarna. – Jag tycker det är fel, det är ju för oss som har barn, säger småbarnsmamman Jenna Nytjärn."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Unik dna-analys på hundhår stärkte bevisen mot Gaboros mördare",
-   "date": "2026-08-13T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/unik-dna-analys-pa-hundhar-starkte-bevisen-mot-mordaren",
-   "desc": "Norrköpings tingsrätts dom i mordet på rapparen Gaboro överklagades och i veckan avslutades förhandlingen i Göta hovrätt i Jönköping. Till hovrättsförhandlingen kunde polisens utredare lägga fram banbrytande bevis som så här långt är unikt i svensk kriminalhistoria."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "C-toppens sätt att hantera press: Ropade ”kuken” till kollegorna",
+   "title": "C-toppens sätt att hantera press: Ropar ”kuken”",
    "date": "2026-08-13T05:00:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/c-toppens-satt-att-hantera-press-ropade-kuken-till-kollegorna",
    "desc": "Jonas Naddebo (C) öppnar upp om svåra tiden som mobbad i skolan, svordomarna i stressade situationer och vad som oroar honom på riktigt inför framtiden."
