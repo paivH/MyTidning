@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T16:57:36.901Z",
+ "updated": "2026-08-13T17:59:09.968Z",
  "items": [
   {
    "src": "BBC",
@@ -29,9 +29,9 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-   "date": "2026-08-13T16:30:06.000Z",
+   "date": "2026-08-13T17:21:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-   "desc": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November."
+   "desc": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since November."
   },
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 13 augusti",
+   "date": "2026-08-13T17:46:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-13-augusti-yavlq0",
+   "desc": "Detta har hänt i Stockholms län torsdagen den 13 augusti"
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Övertänd villa i skogen: ”Inte under kontroll”",
    "date": "2026-08-13T16:03:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/overtand-villa-i-skogen-inte-under-kontroll",
@@ -112,14 +120,6 @@
    "date": "2026-08-13T10:59:42.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kravet-fran-ambulansfacket-lat-vaktbolag-eskortera-vid-riskfyllda-utryckningar",
    "desc": "Specialutbildade väktare som kan eskortera ambulanssjukvårdare vid utryckningar när polisen inte har möjlighet att följa med i riskfyllda miljöer. Det kräver nu Ambulansförbundet och relaterar bland annat till mordet i Harmånger i september förr året då en ambulanssjukvårdare knivhöggs till döds. – Det borde vara en självklarhet att ha samma skydd som finns till exempel på sjukhus eller i tunnelbanan, säger Henrik Johansson, förbundssekreterare i Ambulansförbundet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Röklukt ombord flyg – vänder tillbaka mot Arlanda",
-   "date": "2026-08-13T09:15:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
-   "desc": "Ett flyg som lyft från Arlanda har tvingats vända tillbaka – efter röklukt, det rapporterar TV4 Nyheterna."
   },
   {
    "src": "BBC",
