@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T05:54:23.928Z",
+ "updated": "2026-08-13T07:21:16.445Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Nick Reiner åtalas för mordet på föräldrarna",
+   "date": "2026-08-13T06:13:49.000Z",
+   "link": "https://www.svt.se/kultur/nick-reiner-atalas-for-mordet-pa-foraldrarna",
+   "desc": "I vintras dödades filmregissören Rob Reiner och hans fru Michele Singer Reiner i sitt hem. Nu har deras son, Nick Reiner, åtalats för morden."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Tre tips: Så kapar du kostnaderna för prenumerationer",
    "date": "2026-08-13T05:42:28.000Z",
    "link": "https://www.svt.se/nyheter/ekonomi/tre-tips-sa-kapar-du-kostnaderna-for-prenumerationer",
@@ -52,34 +60,26 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Vattenläcka på Söder i Eskilstuna – oklart vad som hänt",
+   "title": "Läcka på Söder i Eskilstuna – se vattnet forsa fram",
    "date": "2026-08-13T05:33:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/vattenlacka-pa-soder-i-eskilstuna-oklart-vad-som-hant",
-   "desc": "En vattenläcka uppstod på Södra Bandgårdsgatan i Eskilstuna under torsdagsmorgonen."
+   "desc": "En vattenläcka uppstod på Södra Bangårdsgatan i Eskilstuna under torsdagsmorgonen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Sarah Sjöström vinner sitt 18:e EM-guld – Sara Junevik tar brons",
-   "date": "2026-08-12T16:50:41.000Z",
-   "link": "https://www.svt.se/sport/simning/sarah-sjostrom-tar-sitt-18e-em-guld",
-   "desc": "Sarah Sjöström fortsätter skriva sim-historia. Den svenska stjärnan vinner 50 meter fjäril – hennes 18:e EM-guld i långbana. Med det går hon upp som delad etta som mesta EM-guldmedaljör på damsidan. På pallen får hon sällskap av landslagskompisen Sara Junevik, som tar brons. – Det är mäktigt, och extra glädjande att Junevik tar bronset, säger SVT:s expert Lars Frölander."
+   "title": "Färre än hälften av familjeparkeringarna används av småbarnsföräldrar",
+   "date": "2026-08-13T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/farre-an-halften-av-familjeparkeringarna-anvands-av-smabarnsforaldrar",
+   "desc": "Bara fem av tolv som använder familjeparkeringen vid den stora matbutiken har barn. Det visar SVT:s reporters räkning som under en timma haft koll på bilarna. – Jag tycker det är fel, det är ju för oss som har barn, säger småbarnsmamman Jenna Nytjärn."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nya regler införs för musik genererad av ”AI-artister”",
-   "date": "2026-08-12T16:43:15.000Z",
-   "link": "https://www.svt.se/kultur/nya-regler-infors-for-musik-genererad-av-ai-artister",
-   "desc": "Musik skapad av AI-artister portas från rättighetsorganisationen IFPI:s Sverigetopplista. Det framgår av IFPI:s nya regler, som börjar gälla i samband med nästa publicering av Sverigetopplistan den 21 augusti. Samtidigt lanserar Spotify i dag en ”AI-Persona”-märkning för musik skapad av AI-artister."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kritiken mot S bankförslag: ”Kostnaderna hamnar på kunderna”",
-   "date": "2026-08-12T16:15:21.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/kritiken-mot-s-bankforslag-kostnaderna-hamnar-pa-kunderna",
-   "desc": "Socialdemokraternas förslag om en ökad bankskatt sågas av Svenska bankföreningen och flera av de svenska storbankerna. – Liksom för andra varor och tjänster kan man räkna med att kostnaderna i slutändan bärs av kunderna, säger Svenska bankföreningens vd Hans Lindberg i en skriftlig kommentar."
+   "title": "Unik dna-analys på hundhår stärkte bevisen mot Gaboros mördare",
+   "date": "2026-08-13T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/unik-dna-analys-pa-hundhar-starkte-bevisen-mot-mordaren",
+   "desc": "Norrköpings tingsrätts dom i mordet på rapparen Gaboro överklagades och i veckan avslutades förhandlingen i Göta hovrätt i Jönköping. Till hovrättsförhandlingen kunde polisens utredare lägga fram banbrytande bevis som så här långt är unikt i svensk kriminalhistoria."
   },
   {
    "src": "STHLM",
