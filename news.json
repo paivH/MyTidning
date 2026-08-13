@@ -1,6 +1,22 @@
 {
- "updated": "2026-08-13T14:55:52.849Z",
+ "updated": "2026-08-13T15:57:23.058Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+   "date": "2026-08-13T15:40:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+   "desc": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "UK defends seizing shadow fleet tanker after Putin threat",
+   "date": "2026-08-13T15:05:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+   "desc": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,22 +24,6 @@
    "date": "2026-08-13T04:55:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
    "desc": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "UK defends seizing shadow fleet tanker after Putin threat",
-   "date": "2026-08-13T11:05:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-   "desc": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-   "date": "2026-08-13T08:12:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-   "desc": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
   },
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-   "date": "2026-08-13T01:19:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-   "desc": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+   "title": "Person fined after using foghorn to wake sleeping polar bear",
+   "date": "2026-08-13T15:30:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Brand i maskin på torvmosse i Surahammar",
+   "date": "2026-08-13T14:50:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/brand-i-maskin-pa-torvmosse-i-surahammar",
+   "desc": "En maskin brinner på en torvmosse sydväst om samhället i Surahammar, och det är stor spridningsrisk till torvhögar i närheten."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Åklagaren har skickat in en ansökan om att få mer tid för att utreda båtolyckan utanför Tjörn. Sedan tidigare var beskedet att åtal skulle komma klockan 11 på fredagen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Aggressiv man gick till attack i Bellevuemoskén",
-   "date": "2026-08-13T13:05:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/aggressiv-man-gick-till-attack-i-bellevuemosken",
-   "desc": "En man i 60-årsåldern gick till attack mot två yngre män i Bellevuemoskén i Göteborg under torsdagseftermiddagen. Polis kallades till platsen och kunde säkra mannen, som stängts in i ett rum av allmänheten."
+   "title": "Villa i brand på ö utanför Nacka",
+   "date": "2026-08-13T15:07:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/villa-i-brand-pa-o-utanfor-nacka",
+   "desc": "En brand har brutit ut i en villa på Tegelön söder om Vaxholm. Både ambulans och räddningstjänst är på plats och släckningsarbete pågår."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-13T05:00:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/c-toppens-satt-att-hantera-press-ropade-kuken-till-kollegorna",
    "desc": "Jonas Naddebo (C) öppnar upp om svåra tiden som mobbad i skolan, svordomarna i stressade situationer och vad som oroar honom på riktigt inför framtiden."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Är ordningsvakter lösningen på drogscenerna i Sundbyberg?",
-   "date": "2026-08-13T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ar-ordningsvakter-losningen-pa-drogscenerna-i-sundbyberg",
-   "desc": "Rissne och Hallonbergen centrum står fortfarande på polisens lista över öppna drogscener i Sundbyberg, trots att situationen har förbättrats de senaste två åren. Enligt oppositionsrådet Gustaf Reinfeldt (M) ska fler ordningsvakter och övervakningskameror motverka problemet – men kommunledningen menar att det inte är aktuellt."
   },
   {
    "src": "BBC",
