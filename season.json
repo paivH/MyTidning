@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-13T05:16:33.914Z",
+ "updated": "2026-08-14T05:13:10.888Z",
  "items": [
   {
-   "ingredient": "äpplen",
-   "idea": "Fermentera tärnade äpplen med 2% salt i 5 dagar till syrlig, krispig kompott."
-  },
-  {
    "ingredient": "kantareller",
-   "idea": "Snabbstek kantareller i smör 5 minuter, toppa rostat surdegsbröd med timjan och salt."
+   "idea": "Stek kantareller hastigt i smör med timjan, servera på rostat surdegsbröd med flingsalt."
   },
   {
-   "ingredient": "majs",
-   "idea": "Picklad majs: koka lake 1:1:1 ättika-socker-vatten, häll över råskurna kolvar, kyl en natt."
+   "ingredient": "tomater",
+   "idea": "Fermentera körsbärstomater i 2% saltlag i fem dagar för en syrlig, spännande snacks."
   },
   {
-   "ingredient": "grönkål",
-   "idea": "Baka surdegsbröd med finhackad grönkål inbakad i degen, jäs 8 timmar innan gräddning."
+   "ingredient": "kålrot",
+   "idea": "Pickla kålrot i lag av ättika, socker och vatten (1:1:2), klar efter ett dygn."
+  },
+  {
+   "ingredient": "äpplen",
+   "idea": "Baka äppelbröd med grovt rivet äpple i degen – ger fukt, sötma och saftighet."
   }
  ]
 }
