@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T12:56:45.030Z",
+ "updated": "2026-08-14T14:15:29.628Z",
  "items": [
   {
    "src": "BBC",
@@ -12,6 +12,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+   "date": "2026-08-14T12:19:21.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "US says dozens of countries helped China dodge Trump's tariffs",
    "date": "2026-08-14T08:39:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
@@ -20,18 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-   "date": "2026-08-13T21:43:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-   "desc": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-   "date": "2026-08-13T23:06:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-   "desc": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+   "title": "Builders unearth €9m gold loot sealed in walls of Belgian property",
+   "date": "2026-08-14T13:18:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes."
   },
   {
    "src": "BBC",
@@ -40,6 +40,22 @@
    "date": "2026-08-14T10:55:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
    "desc": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Befälhavaren för Misje Verde fortsatt häktad efter båtolyckan utanför Tjörn",
+   "date": "2026-08-14T13:22:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/fortsatt-haktning-for-befalhavare-pa-misje-verde",
+   "desc": "Göteborgs tingsrätt har beslutat om fortsatt häktning för befälhavaren på Misje Verde, fraktfartyget som körde på en fritidsbåt i Hakefjorden utanför Tjörn. En mamma och hennes dotter dog i olyckan. Åtal ska vara väckt senast den 28 augusti."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hon bor granne med olycksplatsen: ”Jätteläskigt”",
+   "date": "2026-08-14T13:03:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/hon-bor-granne-med-olycksplatsen-jattelaskigt",
+   "desc": "Sara Eriksson bor granne med olycksplatsen i Västermo där en pojke i tonåren omkom på torsdagen. På fredagen lade hon tillsammans med sina söner ned en prydnadsängel för att hedra minnet av den omkomna pojken. – Vi som bor här har sagt att det känts som en tidsfråga innan en olycka skulle ske, säger hon."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-14T12:16:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/proggbandent-ragnarok-atersamlas-ska-hylla-jojje-wadenius",
    "desc": "Det har gått över 50 år sedan proggbandet Ragnarök spelade tillsammans i Växjö för första gången. I helgen är det dags igen – när bandet återförenas på Herrgård Deluxe för en konsert till minne av musikern och kompositören Jojje Wadenius."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Elias Ranefur vidare i Europe Smash i Malmö",
-   "date": "2026-08-14T11:50:09.000Z",
-   "link": "https://www.svt.se/sport/bordtennis/elias-ranefur-vidare-i-europe-smash-i-malmo",
-   "desc": "Elias Ranefur dansar vidare i storturneringen i Malmö. Han är klar för kvartsfinal efter ännu en skräll. – Det finns ingen anledning att stoppa här, säger Ranefur till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Polisen utreder mord i Kalmar län",
-   "date": "2026-08-14T11:47:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/polisen-utreder-mord-i-kalmar-lan",
-   "desc": "Polisen utreder just nu ett misstänkt mord som begåtts tidigare i sommar i Kalmar län."
   },
   {
    "src": "STHLM",
