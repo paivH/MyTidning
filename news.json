@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T10:55:02.473Z",
+ "updated": "2026-08-14T11:41:22.111Z",
  "items": [
   {
    "src": "BBC",
@@ -37,9 +37,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Stolen Matisse artworks recovered by police in Brazil",
-   "date": "2026-08-14T08:34:19.000Z",
+   "date": "2026-08-14T10:55:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
    "desc": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flera radhus brinner i Arboga",
+   "date": "2026-08-14T11:24:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/larm-om-brand-i-radhus-i-arboga",
+   "desc": "Strax efter 13 på fredagen kom larm om brand i radhus i Arboga. Enligt räddningstjänsten är det flera radhus som är påverkade."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-14T09:13:21.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/dricksvatten-ska-kokas-i-are",
    "desc": "Det är fel på en distributionsanläggning för dricksvatten i Åre by, därför uppmanas boende i centrala Åre att koka sitt dricksvatten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så blir vädret under Ironman i Kalmar: ”Kan bli lite svettigt”",
-   "date": "2026-08-14T09:09:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/sa-blir-vadret-under-ironman-i-kalmar-kan-bli-lite-svettigt",
-   "desc": "På lördagen går årets Ironman Kalmar av stapeln. Här berättar meterolog Marcus Sjöstedt hur de tävlande och publiken kommer få det under dagen. – Det kan bli lite svettigt, men vi har lite svalkande vindar från Östersjön."
   },
   {
    "src": "STHLM",
