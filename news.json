@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T03:05:26.968Z",
+ "updated": "2026-08-14T05:13:52.589Z",
  "items": [
   {
    "src": "BBC",
@@ -12,18 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-   "date": "2026-08-13T19:46:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
+   "title": "US says dozens of countries helped China dodge Trump's tariffs",
+   "date": "2026-08-14T03:09:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+   "desc": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-   "date": "2026-08-13T04:55:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-   "desc": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
+   "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+   "date": "2026-08-13T19:46:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
   },
   {
    "src": "BBC",
@@ -36,50 +36,66 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-   "date": "2026-08-13T23:06:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-   "desc": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+   "title": "Person fined after using foghorn to wake sleeping polar bear",
+   "date": "2026-08-13T15:30:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Motorcykel och moped kolliderade i Habo",
-   "date": "2026-08-13T18:56:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/motorcykel-och-moped-kolliderade-i-habo",
-   "desc": "En trafikolycka inträffade vid 20-tiden på torsdagskvällen i Bränninge i Habo när en motorcykel och en moped kolliderade."
+   "title": "Hit leder spåren efter ryska spionmötet: ”Beställde öl”",
+   "date": "2026-08-14T03:47:56.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/hit-leder-sparen-efter-ryska-spionmotet-bestallde-ol",
+   "desc": "I hemlighet möttes agenten och hans ryska hanterare – för att planera sin underrättelseoperation mot Sverige. SVT har följt deras spår och kan nu berätta att de leder till en kyrka på Södermalm och till en pub i en förort – nästan en mil bort. – De brukade komma hit och beställa öl och wienerschnitzel, säger barägaren Sohail Akther till SVT."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hammarby missar Europaspel – Amin Boudri utvisad i returen mot Raków",
-   "date": "2026-08-13T18:55:33.000Z",
-   "link": "https://www.svt.se/sport/fotboll/hammarby-missar-europaspel-amin-boudri-utvisad-i-returen-mot-rakow",
-   "desc": "Hammarby är utslaget ur Conference League-kvalet och missar därmed Europaspel. Hemma mot Raków Częstochowa föll man med 0–1 – efter att Amin Boudri dragit på sig ett rött kort. – Han spelade med mycket känslor och passion men ibland blir det fel, säger Nahir Besara efter matchen."
+   "title": "Labradoren Astrid  hjälper när utsatta barn förhörs av polis",
+   "date": "2026-08-14T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/labradoren-astrid-hjalper-nar-utsatta-barn-forhors-av-polis",
+   "desc": "Till vardags används labradoren Astrid för att söka spår på brottsplatser. Nu har hon en ny uppgift: Att göra barn som utsatts för sexualbrott trygga vid polisförhör. – Det fungerar jättebra och jag tycker verkligen att hon har varit till hjälp, säger förhörsledare Linda Linnros."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Svensk skräll i Europe Smash – Elias Ranefur vidare efter drama",
-   "date": "2026-08-13T18:06:32.000Z",
-   "link": "https://www.svt.se/sport/bordtennis/svensk-skrall-i-europe-smash-elias-ranefur-vidare",
-   "desc": "Svensk skräll i Europe Smash. Elias Ranefur, rankad 64, är vidare efter att ha besegrat 12:e-rankade kinesen Ruibo Wen. – Jag är supernöjd med matchen och prestationen, säger Ranefur till SVT Sport."
+   "title": "SM i öppet vatten i Eskilstunaån: ”Lite läskigt”",
+   "date": "2026-08-14T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/sm-i-oppet-vatten-i-eskilstunaan-lite-laskigt",
+   "desc": "För första gången på länge ska en simtävling genomföras i Eskilstunaån, SM i öppet vatten. Tester har genomförts för att säkerställa vattnets kvalitet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Sara Curtis nya succé – världsrekord för andra dagen i rad",
-   "date": "2026-08-13T16:45:04.000Z",
-   "link": "https://www.svt.se/sport/simning/sara-curtis-nya-succe-varldsrekord-for-andra-dagen-i-rad",
-   "desc": "Italienskan Sara Curtis succé fortsätter. För andra dagen i rad slog hon till med världsrekord på 50 meter ryggsim. – Då får Sarah (Sjöström) se upp, säger SVT:s kommentator Niklas Nord."
+   "title": "Sundsvallsfilmare skildrar kvinnliga journalister i Afghanistan",
+   "date": "2026-08-14T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sundsvallsfilmare-skildrar-kvinnliga-journalister-i-afghanistan",
+   "desc": "Under sju år har Måns Berthas från Sundsvall arbetat med en dokumentär som skildrar livet för fyra kvinnliga journalister i Afghanistan. Den 15 augusti kommer resultatet i SVT play. – Vi var nära på att ge upp flera gånger, så det är oerhört skönt att vi fick till det, säger Måns Berthas."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Brand i maskin på torvmosse i Surahammar",
-   "date": "2026-08-13T14:50:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/brand-i-maskin-pa-torvmosse-i-surahammar",
-   "desc": "En maskin brann på en torvmosse sydväst om samhället i Surahammar, och det var stor spridningsrisk till torvhögar i närheten."
+   "title": "Här rivs ett helt kvarter för Norrbotniabanan – och återvinns: ”Stort intresse”",
+   "date": "2026-08-14T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/gigantiskt-aterbruk-nar-helt-kvarter-rivs-i-skelleftea",
+   "desc": "Trafikverket har nu börjat riva 23 villor i ett par villakvarter i Skellefteå som ligger i vägen för byggandet av Norrbotniabanan. Så mycket som möjligt säljs som återbruk – och intresset är större än väntat. – Entreprenören hinner i dagsläget inte höra av sig till alla intressenter, säger Trafikverkets projektledare David Nilsson."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nike Örbrink (KD) om kollapsen: ”Låg under ett täcke i två veckor”",
+   "date": "2026-08-14T05:00:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nike-orbrink-kd-om-kollapsen-lag-under-ett-tacke-i-tva-veckor",
+   "desc": "Nike Örbrink, Kristdemokraternas gruppledare i Stockholm, berättar om hur hon en dag föll ner på golvet, utmattad av stress. – Jag låg under ett täcke i två veckor. Min hjärna hade stängt av. Jag kunde inte ens bestämma mig vad jag skulle ha på mig."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Biljettbedragarnas nya metod inför Midnattsloppet: ”Inte sett förut”",
+   "date": "2026-08-14T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/biljettbedragarnas-nya-metod-infor-midnattsloppet-inte-sett-forut",
+   "desc": "Inför helgens Midnattslopp i Stockholm är trycket högt på de slutsålda startplatserna. Men den höga efterfrågan riskerar att dra till sig biljettbedragare, och i år varnar arrangörerna för ett nytt tillvägagångssätt. – Man är stressad över att få tag på en biljett, säger en person som blivit lurad på sin startplats till SVT."
   },
   {
    "src": "STHLM",
@@ -92,10 +108,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Övertänd villa i skogen: ”Inte under kontroll”",
+   "title": "Villa i skogen i Vallentuna brann",
    "date": "2026-08-13T16:03:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/overtand-villa-i-skogen-inte-under-kontroll",
-   "desc": "En villa i Vallentuna står i en fullt utvecklad brand. Enligt räddningstjänsten finns det risk för spridning till både skogen intill och kringliggande hus. – Det kan sprida sig till andra hus men det ska vi lyckas stoppa, säger räddningstjänstens vakthavande befäl Tobias Åkesson."
+   "desc": "Räddningstjänsten larmades till en fullt utvecklad brand i en villa i ett skogsområde i Vallentuna vid 17-tiden på torsdagseftermiddagen. Då fanns det risk för att branden skulle sprida sig både till skogen intill och till kringliggande hus. Branden var släckt runt kl. 19.30."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-08-13T15:07:11.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/villa-i-brand-pa-o-utanfor-nacka",
    "desc": "En brand har brutit ut i en villa på Tegelön söder om Vaxholm. Både ambulans och räddningstjänst är på plats och släckningsarbete pågår. – Vi kommer att låta huset brinna upp under kontrollerade former, säger räddningstjänstens vakthavande befäl Tobias Åkesson."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinna död efter motorcykelolycka på Centralbron",
-   "date": "2026-08-13T12:52:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-dod-efter-motorcykelolycka-pa-centralbron",
-   "desc": "En kvinna har avlidit efter en motorcykelolycka som inträffade på Centralbron i Stockholm."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kravet: ”Låt vaktbolag eskortera ambulanser vid riskfyllda utryckningar”",
-   "date": "2026-08-13T10:59:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kravet-fran-ambulansfacket-lat-vaktbolag-eskortera-vid-riskfyllda-utryckningar",
-   "desc": "Specialutbildade väktare som kan eskortera ambulanssjukvårdare vid utryckningar när polisen inte har möjlighet att följa med i riskfyllda miljöer. Det kräver nu Ambulansförbundet och relaterar bland annat till mordet i Harmånger i september förr året då en ambulanssjukvårdare knivhöggs till döds. – Det borde vara en självklarhet att ha samma skydd som finns till exempel på sjukhus eller i tunnelbanan, säger Henrik Johansson, förbundssekreterare i Ambulansförbundet."
   },
   {
    "src": "BBC",
