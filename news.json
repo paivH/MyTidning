@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T16:21:34.952Z",
+ "updated": "2026-08-14T17:26:50.072Z",
  "items": [
   {
    "src": "BBC",
@@ -12,18 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Unprecedented' rain in Japan kills eight people",
-   "date": "2026-08-14T10:36:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-   "desc": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
+   "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+   "date": "2026-08-14T17:03:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+   "desc": "Two families have been trapped in their homes in the occupied West Bank for several days."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump asks Supreme Court to allow ballroom work to continue",
-   "date": "2026-08-14T15:10:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
+   "title": "'Unprecedented' rain in Japan kills eight people",
+   "date": "2026-08-14T10:36:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+   "desc": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
   },
   {
    "src": "BBC",
@@ -40,6 +40,22 @@
    "date": "2026-08-14T10:55:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
    "desc": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Lägenhetsbrand i Norrköping",
+   "date": "2026-08-14T17:23:24.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/lagenhetsbrand-i-norrkoping-wm5suz",
+   "desc": "Vid klockan 18.45 larmades räddningstjänst och polis till en lägenhetsbrand på Bäckgatan i stadsdelen Hageby i Norrköping."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Gustav följde eldinfernot i Kroatien från hotellet: ”Otäckt”",
+   "date": "2026-08-14T17:09:38.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/gustav-foljde-eldinfernot-i-kroatien-fran-hotellet-otackt",
+   "desc": "Gustav Rahm och hans flickvän följde den kraftiga skogsbranden i Kroatien från hotellbalkongen. När branden kom närmare packade de sina väskor. – Det är den största branden jag har sett, berättar Gustav Rahm."
   },
   {
    "src": "SVT",
@@ -66,22 +82,6 @@
    "desc": "Under torsdagen berättade polisen om en död man som hittats i ett öde torp utanför Värnamo för fyra år sedan. Man efterlyste då tips som kunde hjälpa till att identifiera honom. Redan idag har en person DNA-testats, det uppger Sveriges Radio P4 Jönköping"
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fröken Snusk och Rasmus Gozzi efter avbokningen: ”Här för att provocera”",
-   "date": "2026-08-14T15:08:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/froken-snusk-och-rasmus-gozzi-efter-avbokningen-har-for-att-provocera",
-   "desc": "Fröken Snusk blev avbokad från Karl-Oskardagarna efter att ha samarbetat med Sverigedemokraterna. Men producenten bakom tycker inte att samarbetet nödvändigtvis är ett politiskt ställningstagande. – Vi har inte gjort några politiska uttalanden, vi är här för att väcka en samhällsdebatt, säger Rasmus Gozzi."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "”Vi får dansa regndans” – oro  för rekordlåg vattennivå i Solgen",
-   "date": "2026-08-14T14:48:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/vi-far-dansa-regndans-oro-for-rekordlag-vattenniva-i-solgen",
-   "desc": "Vattennivån i sjön Solgen utanför Eksjö är så låg att badgäster tvingas gå omkring 70 meter över torr sjöbotten för att nå vattnet. Nu oroar sig boende och föreningar för konsekvenserna för turismen, fisket och naturen – och vill att den hundraåriga vattendomen ses över"
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Politiker öppnar upp för väktare inom ambulansen",
@@ -95,7 +95,7 @@
    "title": "”Omfattande” skogsbrand i Åkersberga",
    "date": "2026-08-14T14:48:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/omfattande-skogsbrand-i-akersberga",
-   "desc": "En skogsbrand har brutit ut i Boda utanför Åkersberga. Ännu är det inte helt klart hur stor branden är och risken för spridning är stor. – Den är omfattande, minst ett par fotbollsplaner, säger Räddningstjänstens vakthavande befäl Nathalie Winqvist."
+   "desc": "En skogsbrand har brutit ut i Boda utanför Åkersberga. Räddningstjänsten har omringat branden, som är stor som en fotbollsplan. – Men vi arbetar fortsatt med att få den under kontroll, säger Pyar Andersson, presstalesperson vid Räddnigstjänsten i Stockholm."
   },
   {
    "src": "STHLM",
