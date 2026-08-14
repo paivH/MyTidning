@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-14T18:24:48.991Z",
+ "updated": "2026-08-14T19:27:37.019Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+   "date": "2026-08-14T18:25:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -32,14 +40,6 @@
    "date": "2026-08-14T13:18:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
    "desc": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Stolen Matisse artworks recovered by police in Brazil",
-   "date": "2026-08-14T10:55:39.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-   "desc": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
   },
   {
    "src": "SVT",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 14 augusti",
+   "date": "2026-08-14T19:16:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-14-augusti-hh3f8z",
+   "desc": "Detta har hänt i Stockholms län onsdag 12 augusti"
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Politiker öppnar upp för väktare inom ambulansen",
    "date": "2026-08-14T16:04:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiker-oppnar-upp-for-vaktare-inom-ambulansen",
@@ -95,7 +103,7 @@
    "title": "”Omfattande” skogsbrand i Åkersberga",
    "date": "2026-08-14T14:48:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/omfattande-skogsbrand-i-akersberga",
-   "desc": "En skogsbrand har brutit ut i Boda utanför Åkersberga. Räddningstjänsten har omringat branden, som är stor som en fotbollsplan. – Men vi arbetar fortsatt med att få den under kontroll, säger Pyar Andersson, presstalesperson vid Räddnigstjänsten i Stockholm."
+   "desc": "En skogsbrand har brutit ut i Boda utanför Åkersberga. Räddningstjänsten har omringat branden, som är stor som en fotbollsplan. – Men vi arbetar fortsatt med att få den under kontroll, säger Pyar Andersson, presstalesperson vid räddningstjänsten i Stockholm."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-14T09:30:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/moderaternas-krav-flytta-beroendevarden-fran-maria-sjukhus",
    "desc": "Efter SVT:s reportage om situationen vid Maria sjukhus vill Moderaterna sprida ut dess beroendevårdverksamhet över olika platser i Stockholmsregionen. – Det är lika orimligt som att anordna AA-möten på Systembolaget, säger oppositionsborgarrådet Cristofer Fjellner (M)."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nike Örbrink (KD) om kollapsen: ”Låg under ett täcke i två veckor”",
-   "date": "2026-08-14T05:00:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nike-orbrink-kd-om-kollapsen-lag-under-ett-tacke-i-tva-veckor",
-   "desc": "Nike Örbrink, Kristdemokraternas gruppledare i Stockholm, berättar om hur hon en dag föll ner på golvet, utmattad av stress. – Jag låg under ett täcke i två veckor. Min hjärna hade stängt av. Jag kunde inte ens bestämma mig vad jag skulle ha på mig."
   },
   {
    "src": "BBC",
