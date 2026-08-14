@@ -1,21 +1,13 @@
 {
- "updated": "2026-08-14T09:34:36.607Z",
+ "updated": "2026-08-14T10:55:02.473Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Unprecedented' rain in Japan kills six people",
-   "date": "2026-08-14T07:00:56.000Z",
+   "title": "'Unprecedented' rain in Japan kills eight people",
+   "date": "2026-08-14T10:36:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
    "desc": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-   "date": "2026-08-13T20:12:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-   "desc": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
   },
   {
    "src": "BBC",
@@ -42,6 +34,38 @@
    "desc": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
   },
   {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Stolen Matisse artworks recovered by police in Brazil",
+   "date": "2026-08-14T08:34:19.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+   "desc": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Premiär för kräftfiske i Råneå – Klara, 18: ”Mysigt”",
+   "date": "2026-08-14T10:41:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/premiar-for-kraftfiske-i-ranea-klara-18-mysigt",
+   "desc": "Under torsdagskvällen inleddes det årliga kräftfisket i Råneå. Då gav sig 18-åriga Klara Hammar ut på älven tillsammans med pappa Peter Hammar. – I dag är det barnen som driver på och vill fiska, säger Peter Hammar."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kvinna döms för olovlig avlyssning – misstänkte att hennes man vänstrade",
+   "date": "2026-08-14T10:14:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kvinna-doms-for-olovlig-avlyssning-misstankte-att-hennes-man-vanstrade",
+   "desc": "En kvinna i 40-årsåldern döms av Jönköpings tingsrätt till olovlig avslyssning efter att i hemlighet ha spelat in sin makes telefonsamtal med en annan kvinna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tidöpartierna tillsätter ”slöserikommission”",
+   "date": "2026-08-14T10:01:41.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/tidopartierna-tillsatter-sloserikommission",
+   "desc": "Tidöpartierna tillsätter en utredning för att öka effektiviteten i statlig verksamhet. Syftet är att hushålla med statens medel. På fredagen presenterade de detta som en ”slöserikommission”."
+  },
+  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Dricksvatten ska kokas i Åre",
@@ -58,28 +82,12 @@
    "desc": "På lördagen går årets Ironman Kalmar av stapeln. Här berättar meterolog Marcus Sjöstedt hur de tävlande och publiken kommer få det under dagen. – Det kan bli lite svettigt, men vi har lite svalkande vindar från Östersjön."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Sarah Sjöström till semifinal på 50 fritt",
-   "date": "2026-08-14T07:47:05.000Z",
-   "link": "https://www.svt.se/sport/simning/sarah-sjostrom-till-semifinal-pa-50-fritt",
-   "desc": "Sarah Sjöström gjorde jobbet i försöken på 50 fritt. Hon säkrade en plats i semifinal med en tid på 24,21 sekunder. – Det här är en väldigt bra tid och inget som jag trodde att jag skulle simma för några månader sedan, säger hon till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sopbil började brinna under färd – chauffören körde till brandstationen",
-   "date": "2026-08-14T05:49:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sopbil-brinner-borjat-brinna-under-fard",
-   "desc": "En sopbil har börjat brinna under färd på Rosenlund i Jönköping. Larmet kom in strax innan klockan halv åtta. – Räddningstjänsten är på plats och släcker branden i bilen säger SOS ledningsoperatör. Ingen person ska vara skadad."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hit leder spåren efter ryska spionmötet: ”Beställde öl”",
-   "date": "2026-08-14T03:47:56.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/hit-leder-sparen-efter-ryska-spionmotet-bestallde-ol",
-   "desc": "I hemlighet möttes agenten och hans ryska hanterare – för att planera sin underrättelseoperation mot Sverige. SVT har följt deras spår och kan nu berätta att de leder till en kyrka på Södermalm och till en pub i en förort – nästan en mil bort. – De brukade komma hit och beställa öl och wienerschnitzel, säger barägaren Sohail Akther till SVT."
+   "title": "Korvkiosk på Telefonplan i brand",
+   "date": "2026-08-14T10:32:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/korvkiosk-pa-telefonplan-i-brand",
+   "desc": "Telegrillen på Telefonplan i Stockholm har börjat brinna. Ingen uppges vara skadad. – Insidan är totalförstörd, säger vittnet Axel Lindberg till SVT."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-13T17:46:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-13-augusti-yavlq0",
    "desc": "Detta har hänt i Stockholms län torsdagen den 13 augusti"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Villa i skogen i Vallentuna brann",
-   "date": "2026-08-13T16:03:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/overtand-villa-i-skogen-inte-under-kontroll",
-   "desc": "Räddningstjänsten larmades till en fullt utvecklad brand i en villa i ett skogsområde i Vallentuna vid 17-tiden på torsdagseftermiddagen. Då fanns det risk för att branden skulle sprida sig både till skogen intill och till kringliggande hus. Branden var släckt runt kl. 19.30. – Det brann ordentligt, säger vakthavande befäl Martin Johansson på fredagsmorgonen."
   },
   {
    "src": "BBC",
