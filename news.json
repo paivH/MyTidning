@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T14:15:29.628Z",
+ "updated": "2026-08-14T15:20:41.478Z",
  "items": [
   {
    "src": "BBC",
@@ -28,7 +28,7 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Builders unearth €9m gold loot sealed in walls of Belgian property",
+   "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
    "date": "2026-08-14T13:18:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
    "desc": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes."
@@ -44,10 +44,34 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Befälhavaren för Misje Verde fortsatt häktad efter båtolyckan utanför Tjörn",
+   "title": "Efterlysning av tips om död man i Värnamo har gett resultat – person har DNA-testats",
+   "date": "2026-08-14T15:11:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efterlysning-av-tips-om-dod-man-i-varnamo-har-gett-resultat-person-har-dna-testats",
+   "desc": "Under torsdagen berättade polisen om en död man som hittats i ett ödetorp utanför Värnamo för fyra år sedan. Man efterlyste då tips som kunde hjälpa till att identifiera honom. Redan idag har en person dna-testats, det uppger Sveriges Radio P4 Jönköping"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fröken Snusk och Rasmus Gozzi efter avbokningen: ”Här för att provocera”",
+   "date": "2026-08-14T15:08:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/froken-snusk-och-rasmus-gozzi-efter-avbokningen-har-for-att-provocera",
+   "desc": "Fröken Snusk blev avbokad från Karl-Oskardagarna efter att ha samarbetat med Sverigedemokraterna. Men producenten bakom tycker inte att samarbetet nödvändigtvis är ett politiskt ställningstagande. – Vi har inte gjort några politiska uttalanden, vi är här för att väcka en samhällsdebatt, säger Rasmus Gozzi."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Vi får dansa regndans” – oro  för rekordlåg vattennivå i Solgen",
+   "date": "2026-08-14T14:48:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/vi-far-dansa-regndans-oro-for-rekordlag-vattenniva-i-solgen",
+   "desc": "Vattennivån i sjön Solgen utanför Eksjö är så låg att badgäster tvingas gå omkring 70 meter över torr sjöbotten för att nå vattnet. Nu oroar sig boende och föreningar för konsekvenserna för turismen, fisket och naturen – och vill att den hundraåriga vattendomen ses över"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Åklagaren: Fritidsbåten syntes på radarn i god tid före olyckan",
    "date": "2026-08-14T13:22:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/fortsatt-haktning-for-befalhavare-pa-misje-verde",
-   "desc": "Göteborgs tingsrätt har beslutat om fortsatt häktning för befälhavaren på Misje Verde, fraktfartyget som körde på en fritidsbåt i Hakefjorden utanför Tjörn. En mamma och hennes dotter dog i olyckan. Åtal ska vara väckt senast den 28 augusti."
+   "desc": "Enligt åklagare James van Reis har både lots och befälhavaren medgett att fritidsbåten som blev påkörd av fraktfartyget Misje Verde kunde ses på radarn före olyckan. Båda nekar fortsatt till brott. På fredagen beslutade Göteborgs tingsrätt om fortsatt häktning för befälhavaren. Åtal ska vara väckt senast 28 augusti."
   },
   {
    "src": "SVT",
@@ -58,28 +82,12 @@
    "desc": "Sara Eriksson bor granne med olycksplatsen i Västermo där en pojke i tonåren omkom på torsdagen. På fredagen lade hon tillsammans med sina söner ned en prydnadsängel för att hedra minnet av den omkomna pojken. – Vi som bor här har sagt att det känts som en tidsfråga innan en olycka skulle ske, säger hon."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Carl varnar efter koattacken: ”Ta inte med hunden in”",
-   "date": "2026-08-14T12:25:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/carl-varnar-efter-koattacken-ta-inte-med-hunden-in",
-   "desc": "Efter dödsolyckan i en kohage i Valdemarsvik tycker lantbrukaren Carl Wendler att man inte ska underskatta kor. Han uppmanar också hundägare att aldrig ta med hunden in till en kobesättning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här tjuvstartar Antikrundan i Karlstad – experten gjorde hembesök: ”Hemlig agent”",
-   "date": "2026-08-14T12:22:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/har-tjuvstartar-antikrundan-i-karlstad-experten-gjorde-hembesok-hemlig-agent",
-   "desc": "Fredag den 21 augusti kommer populära SVT-programmet Antikrundan till Mariebergsskogen i Karlstad – men programmets antikexpert Rickard Thunér har redan smygstartat med hembesök i länet. – Jag är här som en hemlig agent och bara rekar, säger Rickard Thunér."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Proggbandent Ragnarök återsamlas – ska hylla Jojje Wadenius",
-   "date": "2026-08-14T12:16:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/proggbandent-ragnarok-atersamlas-ska-hylla-jojje-wadenius",
-   "desc": "Det har gått över 50 år sedan proggbandet Ragnarök spelade tillsammans i Växjö för första gången. I helgen är det dags igen – när bandet återförenas på Herrgård Deluxe för en konsert till minne av musikern och kompositören Jojje Wadenius."
+   "title": "”Omfattande” skogsbrand i Åkersberga",
+   "date": "2026-08-14T14:48:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/omfattande-skogsbrand-i-akersberga",
+   "desc": "En skogsbrand har brutit ut i Boda utanför Åkersberga. Ännu är det inte helt klart hur stor branden är och risken för spridning är stor. – Den är omfattande, minst ett par fotbollsplaner, säger Räddningstjänstens vakthavande befäl Nathalie Winqvist."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-14T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/biljettbedragarnas-nya-metod-infor-midnattsloppet-inte-sett-forut",
    "desc": "Inför helgens Midnattslopp i Stockholm är trycket högt på de slutsålda startplatserna. Men den höga efterfrågan riskerar att dra till sig biljettbedragare, och i år varnar arrangörerna för ett nytt tillvägagångssätt. – Man är stressad över att få tag på en biljett, säger en person som blivit lurad på sin startplats till SVT."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 13 augusti",
-   "date": "2026-08-13T17:46:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-13-augusti-yavlq0",
-   "desc": "Detta har hänt i Stockholms län torsdagen den 13 augusti"
   },
   {
    "src": "BBC",
