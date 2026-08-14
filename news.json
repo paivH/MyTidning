@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-14T15:20:41.478Z",
+ "updated": "2026-08-14T16:21:34.952Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'Unprecedented' rain in Japan kills eight people",
-   "date": "2026-08-14T10:36:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-   "desc": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,10 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US says dozens of countries helped China dodge Trump's tariffs",
-   "date": "2026-08-14T08:39:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-   "desc": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies."
+   "title": "'Unprecedented' rain in Japan kills eight people",
+   "date": "2026-08-14T10:36:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+   "desc": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump asks Supreme Court to allow ballroom work to continue",
+   "date": "2026-08-14T15:10:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+   "desc": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
   },
   {
    "src": "BBC",
@@ -44,10 +44,26 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Minnesplakett tillägnad legenden Michael B Tretow invigd i Norrköping",
+   "date": "2026-08-14T15:40:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/minnesplakett-tillagnad-legenden-michael-b-tretow-invigd-i-norrkoping",
+   "desc": "Förra året avled Michael B Tretow, Abbas legendariske ljudtekniker. På fredagseftermiddagen avtäcktes en minnesplakett på adressen Kungsgatan 21 i Norrköping."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Luger om falska Way out west-biljetter i omlopp: ”Scammers ser nu sin chans”",
+   "date": "2026-08-14T15:34:45.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/luger-om-falska-way-out-west-biljetter-i-omlopp-scammers-ser-nu-sin-chans",
+   "desc": "Ett 30-tal anmälningar om falska biljetter till Way Out West hade polisen fått in redan tidigt på fredagen, precis i början av festivalens andra dag. Men antalet misstänkta bedrägerier på andrahandsmarknaden kan vara betydligt större. – Jag tror många många scammers ser sin chans nu för det är ju slutsålt, säger Filip Hiltmann, pressansvarig Luger."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Efterlysning av tips om död man i Värnamo har gett resultat – person har DNA-testats",
    "date": "2026-08-14T15:11:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efterlysning-av-tips-om-dod-man-i-varnamo-har-gett-resultat-person-har-dna-testats",
-   "desc": "Under torsdagen berättade polisen om en död man som hittats i ett ödetorp utanför Värnamo för fyra år sedan. Man efterlyste då tips som kunde hjälpa till att identifiera honom. Redan idag har en person dna-testats, det uppger Sveriges Radio P4 Jönköping"
+   "desc": "Under torsdagen berättade polisen om en död man som hittats i ett öde torp utanför Värnamo för fyra år sedan. Man efterlyste då tips som kunde hjälpa till att identifiera honom. Redan idag har en person DNA-testats, det uppger Sveriges Radio P4 Jönköping"
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Vattennivån i sjön Solgen utanför Eksjö är så låg att badgäster tvingas gå omkring 70 meter över torr sjöbotten för att nå vattnet. Nu oroar sig boende och föreningar för konsekvenserna för turismen, fisket och naturen – och vill att den hundraåriga vattendomen ses över"
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Åklagaren: Fritidsbåten syntes på radarn i god tid före olyckan",
-   "date": "2026-08-14T13:22:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/fortsatt-haktning-for-befalhavare-pa-misje-verde",
-   "desc": "Enligt åklagare James van Reis har både lots och befälhavaren medgett att fritidsbåten som blev påkörd av fraktfartyget Misje Verde kunde ses på radarn före olyckan. Båda nekar fortsatt till brott. På fredagen beslutade Göteborgs tingsrätt om fortsatt häktning för befälhavaren. Åtal ska vara väckt senast 28 augusti."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hon bor granne med olycksplatsen: ”Jätteläskigt”",
-   "date": "2026-08-14T13:03:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/hon-bor-granne-med-olycksplatsen-jattelaskigt",
-   "desc": "Sara Eriksson bor granne med olycksplatsen i Västermo där en pojke i tonåren omkom på torsdagen. På fredagen lade hon tillsammans med sina söner ned en prydnadsängel för att hedra minnet av den omkomna pojken. – Vi som bor här har sagt att det känts som en tidsfråga innan en olycka skulle ske, säger hon."
+   "title": "Politiker öppnar upp för väktare inom ambulansen",
+   "date": "2026-08-14T16:04:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiker-oppnar-upp-for-vaktare-inom-ambulansen",
+   "desc": "Efter Ambulansförbundets krav på ökad säkerhet vid riskfyllda ambulansutryckningar öppnar nu både styret i region Stockholm och oppositionen upp för att ha väktare som ska kunna följa med vid riskfyllda situationer då polisen inte har resurser. – Vi vill ge tio miljoner kronor extra i budgeten för att stärka säkerheten för ambulanspersonal, säger Axel Conradi (M)."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-14T05:00:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nike-orbrink-kd-om-kollapsen-lag-under-ett-tacke-i-tva-veckor",
    "desc": "Nike Örbrink, Kristdemokraternas gruppledare i Stockholm, berättar om hur hon en dag föll ner på golvet, utmattad av stress. – Jag låg under ett täcke i två veckor. Min hjärna hade stängt av. Jag kunde inte ens bestämma mig vad jag skulle ha på mig."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Biljettbedragarnas nya metod inför Midnattsloppet: ”Inte sett förut”",
-   "date": "2026-08-14T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/biljettbedragarnas-nya-metod-infor-midnattsloppet-inte-sett-forut",
-   "desc": "Inför helgens Midnattslopp i Stockholm är trycket högt på de slutsålda startplatserna. Men den höga efterfrågan riskerar att dra till sig biljettbedragare, och i år varnar arrangörerna för ett nytt tillvägagångssätt. – Man är stressad över att få tag på en biljett, säger en person som blivit lurad på sin startplats till SVT."
   },
   {
    "src": "BBC",
