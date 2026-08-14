@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-14T05:13:52.589Z",
+ "updated": "2026-08-14T06:52:29.115Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'Unprecedented' rains in Japan kill four people",
+   "date": "2026-08-14T04:54:13.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+   "desc": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -34,12 +42,12 @@
    "desc": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Person fined after using foghorn to wake sleeping polar bear",
-   "date": "2026-08-13T15:30:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sopbil började brinna under färd – chauffören körde till brandstationen",
+   "date": "2026-08-14T05:49:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sopbil-brinner-borjat-brinna-under-fard",
+   "desc": "En sopbil har börjat brinna under färd på Rosenlund i Jönköping. Larmet kom in strax innan klockan halv åtta. – Räddningstjänsten är på plats och släcker branden i bilen säger SOS ledningsoperatör. Ingen person ska vara skadad."
   },
   {
    "src": "SVT",
@@ -52,7 +60,7 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Labradoren Astrid  hjälper när utsatta barn förhörs av polis",
+   "title": "Labradoren Astrid hjälper när utsatta barn förhörs av polis",
    "date": "2026-08-14T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/dalarna/labradoren-astrid-hjalper-nar-utsatta-barn-forhors-av-polis",
    "desc": "Till vardags används labradoren Astrid för att söka spår på brottsplatser. Nu har hon en ny uppgift: Att göra barn som utsatts för sexualbrott trygga vid polisförhör. – Det fungerar jättebra och jag tycker verkligen att hon har varit till hjälp, säger förhörsledare Linda Linnros."
@@ -72,14 +80,6 @@
    "date": "2026-08-14T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sundsvallsfilmare-skildrar-kvinnliga-journalister-i-afghanistan",
    "desc": "Under sju år har Måns Berthas från Sundsvall arbetat med en dokumentär som skildrar livet för fyra kvinnliga journalister i Afghanistan. Den 15 augusti kommer resultatet i SVT play. – Vi var nära på att ge upp flera gånger, så det är oerhört skönt att vi fick till det, säger Måns Berthas."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här rivs ett helt kvarter för Norrbotniabanan – och återvinns: ”Stort intresse”",
-   "date": "2026-08-14T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/gigantiskt-aterbruk-nar-helt-kvarter-rivs-i-skelleftea",
-   "desc": "Trafikverket har nu börjat riva 23 villor i ett par villakvarter i Skellefteå som ligger i vägen för byggandet av Norrbotniabanan. Så mycket som möjligt säljs som återbruk – och intresset är större än väntat. – Entreprenören hinner i dagsläget inte höra av sig till alla intressenter, säger Trafikverkets projektledare David Nilsson."
   },
   {
    "src": "STHLM",
@@ -111,15 +111,15 @@
    "title": "Villa i skogen i Vallentuna brann",
    "date": "2026-08-13T16:03:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/overtand-villa-i-skogen-inte-under-kontroll",
-   "desc": "Räddningstjänsten larmades till en fullt utvecklad brand i en villa i ett skogsområde i Vallentuna vid 17-tiden på torsdagseftermiddagen. Då fanns det risk för att branden skulle sprida sig både till skogen intill och till kringliggande hus. Branden var släckt runt kl. 19.30."
+   "desc": "Räddningstjänsten larmades till en fullt utvecklad brand i en villa i ett skogsområde i Vallentuna vid 17-tiden på torsdagseftermiddagen. Då fanns det risk för att branden skulle sprida sig både till skogen intill och till kringliggande hus. Branden var släckt runt kl. 19.30. – Det brann ordentligt, säger vakthavande befäl Martin Johansson på fredagsmorgonen."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Villa i brand på ö utanför Nacka",
+   "title": "Villa brann ner på ö utanför Nacka",
    "date": "2026-08-13T15:07:11.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/villa-i-brand-pa-o-utanfor-nacka",
-   "desc": "En brand har brutit ut i en villa på Tegelön söder om Vaxholm. Både ambulans och räddningstjänst är på plats och släckningsarbete pågår. – Vi kommer att låta huset brinna upp under kontrollerade former, säger räddningstjänstens vakthavande befäl Tobias Åkesson."
+   "desc": "En brand bröt ut i en villa på Tegelön söder om Vaxholm under torsdagseftermiddagen. Huset gick inte att rädda. Både ambulans och räddningstjänst var på plats under släckningsarbetet. – Vi kommer att låta huset brinna upp under kontrollerade former, sa räddningstjänstens vakthavande befäl Tobias Åkesson på torsdagseftermiddagen."
   },
   {
    "src": "BBC",
