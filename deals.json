@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T05:26:58.118Z",
+ "updated": "2026-08-14T05:24:40.434Z",
  "verified": false,
  "deals": [
   {
@@ -10,32 +10,32 @@
   },
   {
    "store": "Lidl",
-   "item": "Färsk kycklingfilé 900g",
+   "item": "Kycklingfilé färsk 900g",
    "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
-   "item": "Skolstart pennskrin, olika färger",
-   "price": "39 kr",
+   "item": "Färsk laxfilé Norge",
+   "price": "99 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Rusta",
-   "item": "Utegrill kolmodell",
-   "price": "249 kr",
+   "item": "Utemöbelset 4 delar",
+   "price": "899 kr",
    "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
-   "price": "59 kr",
+   "item": "Köttbullar 500g fryst",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Lidl",
-   "item": "Svenska äpplen 2kg nät",
-   "price": "29 kr",
+   "item": "Skolstart pennfodral",
+   "price": "19 kr",
    "url": "https://www.lidl.se"
   }
  ]
