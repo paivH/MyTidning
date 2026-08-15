@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T04:25:57.334Z",
+ "updated": "2026-08-15T04:56:14.151Z",
  "items": [
   {
    "src": "BBC",
@@ -20,7 +20,7 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+   "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
    "date": "2026-08-14T17:36:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
    "desc": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
@@ -79,7 +79,7 @@
    "title": "Jordbävning i Indonesien – tsunamivarning utfärdades",
    "date": "2026-08-15T00:32:04.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-indonesien-tsunamivarning-utfardad",
-   "desc": "En kraftig jordbävning med magnitud 7,7 har inträffat utanför Indonesiens kust, uppger USA:s geologiska myndighet USGS. Minst fem personer har dött."
+   "desc": "En kraftig jordbävning med magnitud 7,7 har inträffat utanför Indonesiens kust, uppger USA:s geologiska myndighet USGS. Minst 20 personer har dött."
   },
   {
    "src": "STHLM",
