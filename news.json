@@ -1,21 +1,13 @@
 {
- "updated": "2026-08-15T19:43:40.807Z",
+ "updated": "2026-08-15T20:17:22.906Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-   "date": "2026-08-15T13:35:57.000Z",
+   "date": "2026-08-15T20:00:15.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
    "desc": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-   "date": "2026-08-15T16:02:49.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
   },
   {
    "src": "BBC",
@@ -28,18 +20,42 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+   "date": "2026-08-15T16:02:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+   "date": "2026-08-15T19:41:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+   "desc": "The declaration was made on the national day of the central European country, which has a population of just 44,000."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
    "date": "2026-08-14T17:36:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
    "desc": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "South Korea proposes talks to officially end war with North",
-   "date": "2026-08-15T14:40:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Samuel Pihlström tar EM-silver på 1 500 meter",
+   "date": "2026-08-15T20:12:53.000Z",
+   "link": "https://www.svt.se/sport/friidrott/samuel-pihlstrom-xilln9",
+   "desc": "Samuel Pihlström säkrar ett EM-silver 1 500 meter – efter en jättespurt. Medaljen kommer bara minuter efter Andreas Almgrens EM-guld på 10 000 meter. – Det är helt makalöst! säger SVT:s kommentator Jacob Hård."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Andreas Almgren krossade fältet från spets – tog hem EM-guldet efter uppvisning",
+   "date": "2026-08-15T19:54:24.000Z",
+   "link": "https://www.svt.se/sport/friidrott/andreas-almgren-krossade-faltet-fran-spets-tog-hem-em-guldet-efter-uppvisning",
+   "desc": "Andreas Almgren fick på karriärens största fullträff när han vann EM-guld på 10 000 meter efter att ha krossat fältet. – Hade någon löpare i hela världen hängt med Almgren i dag? frågar sig SVT-kommentatorn Jacob Hård."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-15T14:55:17.000Z",
    "link": "https://www.svt.se/sport/beachvolleyboll/holting-nilssonandersson-till-semifinal-kan-bli-helsvenskt-mote",
    "desc": "Jacob Hölting Nilsson och Elmer Andersson fortsätter imponera i EM. Världsettorna är klara för semifinal.r – Vi visar karaktär, säger Hölting Nilsson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Skådespelaren Örjan Ramberg död",
-   "date": "2026-08-15T13:22:33.000Z",
-   "link": "https://www.svt.se/kultur/skadespelaren-orjan-ramberg-dod",
-   "desc": "Skådespelaren Örjan Ramberg är död, uppger hans dotter Tilde Fröling. Han blev 78 år."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Se oväntade besöket utanför stugan i Rörbäck",
-   "date": "2026-08-15T12:49:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-ovantade-besoket-utanfor-stugan-i-rorback",
-   "desc": "Genom köksfönstret vid sin sommarstuga i Rörbäck möttes paret Sixten Niemelä och Eivor Nylund av en ovanlig syn: Ett lodjur. – Det var mäktigt, säger Eivor Nylund."
   },
   {
    "src": "STHLM",
