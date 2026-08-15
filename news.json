@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T05:50:02.851Z",
+ "updated": "2026-08-15T06:31:15.269Z",
  "items": [
   {
    "src": "BBC",
@@ -20,8 +20,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
-   "date": "2026-08-15T04:12:55.000Z",
+   "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+   "date": "2026-08-15T06:21:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
    "desc": "The earthquake struck off Flores island in the country's east early on Saturday morning."
   },
@@ -60,14 +60,6 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här får fjällrävarna extra mat – följ med på stödutfodring",
-   "date": "2026-08-15T03:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-far-fjallravarna-extra-mat-folj-med-pa-stodutfodring",
-   "desc": "Trots att länsstyrelsen i Västerbotten stödutfodrar de starkt hotade fjällrävarna – så återhämtar sig populationen bara sakta. Nu avslutas ett stort nordiskt projekt och man söker nya finansiärer för att rädda rävarna. – De är helt beroende av människan idag, säger naturbevakaren Ulf Eskilsson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
    "title": "Vi höll laglig hastighet – så många körde om",
    "date": "2026-08-15T03:30:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/vi-holl-laglig-hastighet-sa-manga-korde-om",
@@ -80,6 +72,14 @@
    "date": "2026-08-15T03:30:03.000Z",
    "link": "https://www.svt.se/kultur/filmtips-blod-dod-och-sex-i-slasher-satiren-teenage-sex-and-death-at-camp-miasma",
    "desc": "En av dom mest uppmärksammade filmerna från årets Cannesfestival går upp på bio i helgen. En blodig och queer slasher-satir av amerikanska regissören Jane Schoenbrun. Kulturnyheternas filmredaktör uppmanar tonåringar och föräldrar att se den, men inte tillsammans."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jordbävning i Indonesien – tsunamivarning utfärdades",
+   "date": "2026-08-15T00:32:04.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-indonesien-tsunamivarning-utfardad",
+   "desc": "En kraftig jordbävning med magnitud 7,7 har inträffat utanför Indonesiens kust, uppger USA:s geologiska myndighet USGS. Minst 20 personer har dött."
   },
   {
    "src": "STHLM",
