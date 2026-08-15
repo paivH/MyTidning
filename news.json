@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T16:19:07.608Z",
+ "updated": "2026-08-15T16:48:58.802Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Sarah Sjöström tar EM-silver på 50 meter frisim",
+   "date": "2026-08-15T16:40:52.000Z",
+   "link": "https://www.svt.se/sport/simning/sarah-sjostrom-tar-em-silver-pa-50-meter-frisim",
+   "desc": "Sarah Sjöström tar sin andra medalj under Europamästerskapet i Paris. På 50 meter frisim blev det ett silver för den svenska stjärnan. Medaljen är Sjöströms 98:e i internationella mästerskap."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Fredriks sorg efter radhusbranden i Arboga: ”Går inte att ta in”",
    "date": "2026-08-15T15:03:13.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/fredriks-sorg-efter-radhusbranden-i-arboga-gar-inte-att-ta-in",
@@ -55,7 +63,7 @@
    "title": "Hölting Nilsson/Andersson till semifinal – helsvenskt möte väntar",
    "date": "2026-08-15T14:55:17.000Z",
    "link": "https://www.svt.se/sport/beachvolleyboll/holting-nilssonandersson-till-semifinal-kan-bli-helsvenskt-mote",
-   "desc": "Jacob Hölting Nilsson och Elmer Andersson fortsätter imponera i EM. Världsettorna är klara för semifinal. – Vi visar karaktär, säger Hölting Nilsson."
+   "desc": "Jacob Hölting Nilsson och Elmer Andersson fortsätter imponera i EM. Världsettorna är klara för semifinal.r – Vi visar karaktär, säger Hölting Nilsson."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-15T12:49:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-ovantade-besoket-utanfor-stugan-i-rorback",
    "desc": "Genom köksfönstret vid sin sommarstuga i Rörbäck möttes paret Sixten Niemelä och Eivor Nylund av en ovanlig syn: Ett lodjur. – Det var mäktigt, säger Eivor Nylund."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Carmen Cernjul missade EM-final på 1 500 meter",
-   "date": "2026-08-15T11:43:40.000Z",
-   "link": "https://www.svt.se/sport/friidrott/carmen-cernjul-missade-em-final-pa-1-500-meter",
-   "desc": "För sex dagar sedan blev Carmen Cernjul fyra på junior-VM:s 3 000 meter. I dag sprang hon halva distansen på senior-EM. Då blev det inget finalavancemang. – Benen svarade inte, säger hon."
   },
   {
    "src": "STHLM",
