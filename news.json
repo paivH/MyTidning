@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T17:44:39.714Z",
+ "updated": "2026-08-15T18:22:34.609Z",
  "items": [
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 15 augusti",
+   "date": "2026-08-15T17:45:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-15-augusti-iniypi",
+   "desc": "Detta har hänt i Stockholms län torsdagen den 15 augusti"
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Fler scener när Kulturfestivalen växer: ”Man lär sig nya grejer”",
    "date": "2026-08-15T15:04:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/fler-scener-nar-kulturfestivalen-vaxer-man-lar-sig-nya-grejer",
@@ -112,14 +120,6 @@
    "date": "2026-08-14T19:16:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-14-augusti-hh3f8z",
    "desc": "Detta har hänt i Stockholms län onsdag 12 augusti"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Politiker öppnar upp för väktare inom ambulansen",
-   "date": "2026-08-14T16:04:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiker-oppnar-upp-for-vaktare-inom-ambulansen",
-   "desc": "Efter Ambulansförbundets krav på ökad säkerhet vid riskfyllda ambulansutryckningar öppnar nu både styret i region Stockholm och oppositionen upp för att ha väktare som ska kunna följa med vid riskfyllda situationer då polisen inte har resurser. – Vi vill ge tio miljoner kronor extra i budgeten för att stärka säkerheten för ambulanspersonal, säger Axel Conradi (M)."
   },
   {
    "src": "BBC",
