@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T09:21:30.756Z",
+ "updated": "2026-08-15T09:48:44.300Z",
  "items": [
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-   "date": "2026-08-14T17:03:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-   "desc": "Two families have been trapped in their homes in the occupied West Bank for several days."
+   "title": "South Korea proposes talks to officially end war with North",
+   "date": "2026-08-15T09:35:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+   "desc": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Perseus Karlström fyra i kaotiskt EM-maraton i gång",
+   "date": "2026-08-15T09:33:57.000Z",
+   "link": "https://www.svt.se/sport/friidrott/perseus-karlstrom-fyra-i-kaotiskt-em-maraton-i-gang",
+   "desc": "Perseus Karlström var ett medaljhopp inför tidernas första EM-maratonlopp i gång. Men han var aldrig riktigt nära. Det slutade med en fjärdeplats – i en kaotisk tävling. – Det är beklagligt, säger SVT Sports kommentator Gustav Zetterlund om upplägget på tävlingen."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Många kan säkert känna igen situationen där man som bilist håller den tillåtna hastigheten men ändå upplevs som ett hinder i trafiken och blir omkörd. Att många har bråttom i trafiken märktes på E4 när SVT gav sig ut för att testa."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Filmtips: blod, död och sex i slasher-satiren ”Teenage sex and death at Camp Miasma”",
-   "date": "2026-08-15T03:30:03.000Z",
-   "link": "https://www.svt.se/kultur/filmtips-blod-dod-och-sex-i-slasher-satiren-teenage-sex-and-death-at-camp-miasma",
-   "desc": "En av dom mest uppmärksammade filmerna från årets Cannesfestival går upp på bio i helgen. En blodig och queer slasher-satir av amerikanska regissören Jane Schoenbrun. Kulturnyheternas filmredaktör uppmanar tonåringar och föräldrar att se den, men inte tillsammans."
+   "title": "Amanda, 15, har sprungit midnattsloppet 14 gånger",
+   "date": "2026-08-15T09:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/amanda-15-har-sprungit-midnattsloppet-14-ganger",
+   "desc": "Varje år sen hon fyllde ett har, nu 15-åriga, Amanda Billing sprungit Midnattsloppet på Södermalm. Genom videorna fångade av hennes föräldrar får vi följa Amandas springsteg de senaste 15 åren. Men nu är det osäkert om hon kommer kunna fullfölja det femtonde loppet."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-14T14:48:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/omfattande-skogsbrand-i-akersberga",
    "desc": "En skogsbrand har brutit ut i Boda utanför Åkersberga. Räddningstjänsten har omringat branden, som är stor som en fotbollsplan. – Men vi arbetar fortsatt med att få den under kontroll, säger Pyar Andersson, presstalesperson vid räddningstjänsten i Stockholm."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Korvkiosk på Telefonplan i brand",
-   "date": "2026-08-14T10:32:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/korvkiosk-pa-telefonplan-i-brand",
-   "desc": "Telegrillen på Telefonplan i Stockholm har börjat brinna. Ingen uppges vara skadad. – Insidan är totalförstörd, säger vittnet Axel Lindberg till SVT."
   },
   {
    "src": "BBC",
