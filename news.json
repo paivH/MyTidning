@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T04:56:14.151Z",
+ "updated": "2026-08-15T05:23:09.358Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,14 @@
    "date": "2026-08-14T19:20:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
    "desc": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+   "date": "2026-08-15T00:01:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+   "desc": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021."
   },
   {
    "src": "BBC",
@@ -32,14 +40,6 @@
    "date": "2026-08-14T12:19:21.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
    "desc": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-   "date": "2026-08-14T17:03:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-   "desc": "Two families have been trapped in their homes in the occupied West Bank for several days."
   },
   {
    "src": "SVT",
