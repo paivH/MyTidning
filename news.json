@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T11:16:21.888Z",
+ "updated": "2026-08-15T11:43:28.116Z",
  "items": [
   {
    "src": "BBC",
@@ -8,14 +8,6 @@
    "date": "2026-08-15T08:52:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
    "desc": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-   "date": "2026-08-14T18:54:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-   "desc": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention."
   },
   {
    "src": "BBC",
@@ -36,10 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+   "date": "2026-08-15T11:24:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Among those killed in the strike on Ansar included three children and two women, state media reports."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "South Korea proposes talks to officially end war with North",
    "date": "2026-08-15T09:35:23.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
    "desc": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Försvunnen pojke hittad i vattnet utanför Uppsala",
+   "date": "2026-08-15T11:22:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/uppsala/forsvunnen-person-hittad-i-vattnet-utanfor-uppsala",
+   "desc": "En försvunnen pojke har hittats i vattnet vid en badplats i Fjällnora utanför Uppsala. Polis och ambulans är på plats. Stranden har utrymts."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-15T03:30:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/teresa-carvalho-s-vill-stoppa-rekrytering-till-gangen-en-extra-drivkraft",
    "desc": "Teresa Carvalho (S) från Norrköping toppar Socialdemokraternas riksdagslista i Östergötland. Som partiets rättspolitiska talesperson har kampen mot de kriminella gängen blivit hennes huvudfråga i valrörelsen. – Bäst vore om S och M gjorde upp om kriminalpolitiken, säger hon."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Vi höll laglig hastighet – så många körde om",
-   "date": "2026-08-15T03:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/vi-holl-laglig-hastighet-sa-manga-korde-om",
-   "desc": "Många kan säkert känna igen situationen där man som bilist håller den tillåtna hastigheten men ändå upplevs som ett hinder i trafiken och blir omkörd. Att många har bråttom i trafiken märktes på E4 när SVT gav sig ut för att testa."
   },
   {
    "src": "STHLM",
