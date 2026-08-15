@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T23:46:15.750Z",
+ "updated": "2026-08-15T01:00:47.380Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Jordbävning i Indonesien – tsunamivarning utfärdad",
+   "date": "2026-08-15T00:32:04.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-indonesien-tsunamivarning-utfardad",
+   "desc": "En kraftig jordbävning med magnitud 7,7 har inträffat utanför Indonesiens kust, uppger USA:s geologiska myndighet USGS. En tsunamivarning har utfärdats."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Ingen blöj-trend på Way out west: ”Där går min gräns”",
    "date": "2026-08-14T19:45:24.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/ingen-bloj-trend-pa-way-out-west-dar-gar-min-grans",
@@ -72,14 +80,6 @@
    "date": "2026-08-14T15:40:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/minnesplakett-tillagnad-legenden-michael-b-tretow-invigd-i-norrkoping",
    "desc": "Förra året avled Michael B Tretow, Abbas legendariske ljudtekniker. På fredagseftermiddagen avtäcktes en minnesplakett på adressen Kungsgatan 21 i Norrköping."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Luger om falska Way out west-biljetter i omlopp: ”Scammers ser nu sin chans”",
-   "date": "2026-08-14T15:34:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/luger-om-falska-way-out-west-biljetter-i-omlopp-scammers-ser-nu-sin-chans",
-   "desc": "Ett 30-tal anmälningar om falska biljetter till Way Out West hade polisen fått in redan tidigt på fredagen, precis i början av festivalens andra dag. Men antalet misstänkta bedrägerier på andrahandsmarknaden kan vara betydligt större. – Jag tror många många scammers ser sin chans nu för det är ju slutsålt, säger Filip Hiltmann, pressansvarig Luger."
   },
   {
    "src": "STHLM",
