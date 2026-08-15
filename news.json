@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T14:46:59.945Z",
+ "updated": "2026-08-15T15:15:53.158Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Fredriks sorg efter radhusbranden i Arboga: ”Går inte att ta in”",
+   "date": "2026-08-15T15:03:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/fredriks-sorg-efter-radhusbranden-i-arboga-gar-inte-att-ta-in",
+   "desc": "Fredrik Göranzons hem förstördes i radhusbranden i Arboga. Han fick besked om branden av en granne – och skyndade hem. – Fem minuter senare ringde grannen upp och sa ”du kan sakta ned. Det är redan kört”, berättar Fredrik Göranzon."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hölting Nilsson/Andersson till semifinal – kan bli helsvenskt möte",
+   "date": "2026-08-15T14:55:17.000Z",
+   "link": "https://www.svt.se/sport/beachvolleyboll/holting-nilssonandersson-till-semifinal-kan-bli-helsvenskt-mote",
+   "desc": "Jacob Hölting Nilsson och Elmer Andersson fortsätter imponera i EM. Världsettorna är klara för semifinal – och den kan bli helsvensk. – Vi visar karaktär, säger Hölting Nilsson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Skådespelaren Örjan Ramberg död",
    "date": "2026-08-15T13:22:33.000Z",
    "link": "https://www.svt.se/kultur/skadespelaren-orjan-ramberg-dod",
@@ -66,20 +82,12 @@
    "desc": "För sex dagar sedan blev Carmen Cernjul fyra på junior-VM:s 3 000 meter. I dag sprang hon halva distansen på senior-EM. Då blev det inget finalavancemang. – Benen svarade inte, säger hon."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Försvunnen pojke hittad i vattnet utanför Uppsala",
-   "date": "2026-08-15T11:22:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/uppsala/forsvunnen-person-hittad-i-vattnet-utanfor-uppsala",
-   "desc": "En försvunnen pojke har hittats i vattnet vid en badplats i Fjällnora utanför Uppsala och förts till sjukhus med ambulanshelikopter. Stranden har utrymts."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Perseus Karlström fyra i kaotiskt EM-maraton i gång",
-   "date": "2026-08-15T09:33:57.000Z",
-   "link": "https://www.svt.se/sport/friidrott/perseus-karlstrom-fyra-i-kaotiskt-em-maraton-i-gang",
-   "desc": "Perseus Karlström var ett medaljhopp inför tidernas första EM-maratonlopp i gång. Men han var aldrig riktigt nära. Det slutade med en fjärdeplats – i en kaotisk tävling. – Det var ganska bökigt, konstaterar Karlström."
+   "title": "Fler scener när Kulturfestivalen växer: ”Man lär sig nya grejer”",
+   "date": "2026-08-15T15:04:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fler-scener-nar-kulturfestivalen-vaxer-man-lar-sig-nya-grejer",
+   "desc": "Stockholm fylls just nu av musik, dans, konst och aktiviteter när Kulturfestivalen pågår på flera platser i centrala stan. I år har festivalområdet utökats från sex till nio scener och tre nya områden. – Det är väl ett sätt att få personer att lämna sin lägenheter och göra roliga saker. Samtidigt som man lär sig nya grejer, säger Tove Johansson under tiden som hon tecknar danskroki."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-14T16:04:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiker-oppnar-upp-for-vaktare-inom-ambulansen",
    "desc": "Efter Ambulansförbundets krav på ökad säkerhet vid riskfyllda ambulansutryckningar öppnar nu både styret i region Stockholm och oppositionen upp för att ha väktare som ska kunna följa med vid riskfyllda situationer då polisen inte har resurser. – Vi vill ge tio miljoner kronor extra i budgeten för att stärka säkerheten för ambulanspersonal, säger Axel Conradi (M)."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "”Omfattande” skogsbrand i Åkersberga",
-   "date": "2026-08-14T14:48:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/omfattande-skogsbrand-i-akersberga",
-   "desc": "En skogsbrand har brutit ut i Boda utanför Åkersberga. Räddningstjänsten har omringat branden, som är stor som en fotbollsplan. – Men vi arbetar fortsatt med att få den under kontroll, säger Pyar Andersson, presstalesperson vid räddningstjänsten i Stockholm."
   },
   {
    "src": "BBC",
