@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T05:23:09.358Z",
+ "updated": "2026-08-15T05:50:02.851Z",
  "items": [
   {
    "src": "BBC",
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+   "date": "2026-08-15T04:12:55.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+   "desc": "The earthquake struck off Flores island in the country's east early on Saturday morning."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
    "date": "2026-08-14T18:25:38.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
@@ -34,12 +42,12 @@
    "desc": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-   "date": "2026-08-14T12:19:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Lånestopp nästa mandatperiod – löfte från M och S",
+   "date": "2026-08-15T05:38:27.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/lanestopp-nasta-mandatperiod-lofte-fran-m-och-s",
+   "desc": "Regeringen har kritiserats för att ha lånat ovanligt mycket pengar under mandatperioden. Nu lovar både Ulf Kristersson (M) och Mikael Damberg (S) att strama åt statens finanser om de vinner valet. – Alla permanenta utgiftsreformer nästa mandatperiod måste vara finansierade, säger Kristersson."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-15T03:30:03.000Z",
    "link": "https://www.svt.se/kultur/filmtips-blod-dod-och-sex-i-slasher-satiren-teenage-sex-and-death-at-camp-miasma",
    "desc": "En av dom mest uppmärksammade filmerna från årets Cannesfestival går upp på bio i helgen. En blodig och queer slasher-satir av amerikanska regissören Jane Schoenbrun. Kulturnyheternas filmredaktör uppmanar tonåringar och föräldrar att se den, men inte tillsammans."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Jordbävning i Indonesien – tsunamivarning utfärdades",
-   "date": "2026-08-15T00:32:04.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-indonesien-tsunamivarning-utfardad",
-   "desc": "En kraftig jordbävning med magnitud 7,7 har inträffat utanför Indonesiens kust, uppger USA:s geologiska myndighet USGS. Minst 20 personer har dött."
   },
   {
    "src": "STHLM",
