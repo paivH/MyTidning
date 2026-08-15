@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T05:24:40.434Z",
+ "updated": "2026-08-15T04:20:13.770Z",
  "verified": false,
  "deals": [
   {
@@ -16,26 +16,26 @@
   },
   {
    "store": "ICA",
-   "item": "Färsk laxfilé Norge",
+   "item": "Färsk lax fillet Norge",
    "price": "99 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Rusta",
-   "item": "Utemöbelset 4 delar",
-   "price": "899 kr",
+   "item": "Utegrill kompakt",
+   "price": "249 kr",
    "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 500g fryst",
-   "price": "49 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Lidl",
-   "item": "Skolstart pennfodral",
-   "price": "19 kr",
+   "item": "Skolstart pennskrin",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   }
  ]
