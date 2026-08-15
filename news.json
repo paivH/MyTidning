@@ -1,21 +1,13 @@
 {
- "updated": "2026-08-15T08:22:39.315Z",
+ "updated": "2026-08-15T08:53:42.828Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 20 dead after 7.7-magnitude earthquake strikes Indonesia",
-   "date": "2026-08-15T08:21:01.000Z",
+   "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+   "date": "2026-08-15T08:52:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-   "desc": "The earthquake struck off Flores island in the country's east early on Saturday morning."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
-   "date": "2026-08-15T07:53:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-   "desc": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much."
+   "desc": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
   },
   {
    "src": "BBC",
@@ -40,6 +32,14 @@
    "date": "2026-08-14T17:36:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
    "desc": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+   "date": "2026-08-14T17:03:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+   "desc": "Two families have been trapped in their homes in the occupied West Bank for several days."
   },
   {
    "src": "SVT",
