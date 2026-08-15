@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-15T07:52:27.809Z",
+ "updated": "2026-08-15T08:22:39.315Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-   "date": "2026-08-15T07:22:22.000Z",
+   "title": "At least 20 dead after 7.7-magnitude earthquake strikes Indonesia",
+   "date": "2026-08-15T08:21:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
    "desc": "The earthquake struck off Flores island in the country's east early on Saturday morning."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-   "date": "2026-08-15T01:41:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-   "desc": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday."
+   "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+   "date": "2026-08-15T07:53:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+   "desc": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-08-14T17:36:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
    "desc": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man död efter motorcykelolycka i Nynäshamn",
+   "date": "2026-08-15T07:54:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-efter-motorcykelolycka-i-nynashamn",
+   "desc": "En motorcyklist körde av vägen i närheten av Frölunda i Nynäshamns kommun under fredagskvällen. Mannen, som var i 50-årsåldern, har avlidit."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "En av dom mest uppmärksammade filmerna från årets Cannesfestival går upp på bio i helgen. En blodig och queer slasher-satir av amerikanska regissören Jane Schoenbrun. Kulturnyheternas filmredaktör uppmanar tonåringar och föräldrar att se den, men inte tillsammans."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Jordbävning i Indonesien – tsunamivarning utfärdades",
-   "date": "2026-08-15T00:32:04.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-indonesien-tsunamivarning-utfardad",
-   "desc": "En kraftig jordbävning med magnitud 7,7 har inträffat utanför Indonesiens kust, uppger USA:s geologiska myndighet USGS. Minst 20 personer har dött."
+   "title": "Man död efter motorcykelolycka i Nynäshamn",
+   "date": "2026-08-15T07:54:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-efter-motorcykelolycka-i-nynashamn",
+   "desc": "En motorcyklist körde av vägen i närheten av Frölunda i Nynäshamns kommun under fredagskvällen. Mannen, som var i 50-årsåldern, har avlidit."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-14T10:32:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/korvkiosk-pa-telefonplan-i-brand",
    "desc": "Telegrillen på Telefonplan i Stockholm har börjat brinna. Ingen uppges vara skadad. – Insidan är totalförstörd, säger vittnet Axel Lindberg till SVT."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Moderaternas krav: Flytta beroendevården från Maria sjukhus",
-   "date": "2026-08-14T09:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/moderaternas-krav-flytta-beroendevarden-fran-maria-sjukhus",
-   "desc": "Efter SVT:s reportage om situationen vid Maria sjukhus vill Moderaterna sprida ut dess beroendevårdverksamhet över olika platser i Stockholmsregionen. – Det är lika orimligt som att anordna AA-möten på Systembolaget, säger oppositionsborgarrådet Cristofer Fjellner (M)."
   },
   {
    "src": "BBC",
