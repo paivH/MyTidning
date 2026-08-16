@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T06:33:28.899Z",
+ "updated": "2026-08-16T07:27:30.105Z",
  "items": [
   {
    "src": "BBC",
@@ -12,6 +12,22 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+   "date": "2026-08-16T06:53:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+   "desc": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+   "date": "2026-08-16T07:04:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+   "desc": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
    "date": "2026-08-15T20:58:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
@@ -20,26 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-   "date": "2026-08-15T20:21:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
    "date": "2026-08-15T19:41:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
    "desc": "The declaration was made on the national day of the central European country, which has a population of just 44,000."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-   "date": "2026-08-15T21:03:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-   "desc": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
   },
   {
    "src": "SVT",
