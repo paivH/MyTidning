@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T13:27:27.545Z",
+ "updated": "2026-08-16T13:53:29.639Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Dijan Vukojevic matchvinnare igen för Degerfors – körde över IFK Göteborg",
+   "date": "2026-08-16T13:48:46.000Z",
+   "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-matchvinnare-igen-for-degerfors-korde-over-ifk-goteborg",
+   "desc": "Under säsongens 15 första matcher gjorde Dijan Vukojevic inte ett enda mål. Nu har han helt plötsligt gjort fyra på två matcher. De två sista ledde Degerfors till seger mot bottenkonkurrenten IFK Göteborg. – Det är nåt flow man kommer in i, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ryskt parti i exil: ”Vi skapar ett politiskt alternativ till Putin”",
+   "date": "2026-08-16T13:43:09.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ryskt-parti-i-exil-vi-skapar-ett-politiskt-alternativ-till-putin",
+   "desc": "Den ryska oppositionen har tagit ett nytt steg i exil. För första gången i Putins Ryssland har oppositionella bildat ett politiskt parti utanför landets gränser – med ambitionen att en dag ta över makten i Moskva."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Forskningsfartyg på grund utanför Möja",
    "date": "2026-08-16T10:09:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/forskningsfartyg-pa-grund-utanfor-moja",
@@ -64,22 +80,6 @@
    "date": "2026-08-16T07:37:04.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/filmen-visar-sa-gick-dodsmisshandeln-av-christian-zedig-till",
    "desc": "På ett klipp som danska tidningen BT publicerat syns hur två ölburkar kastas – sedan går en man till attack. Bråket ledde till den 32-årige polismannens Christian Zedigs död."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Mc-förare vårdas med allvarliga skador efter olycka",
-   "date": "2026-08-16T06:06:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mc-forare-vardas-med-allvarliga-skador-efter-olycka",
-   "desc": "Natten till söndagen fördes en mc-förare till sjukhus efter en krock på Bergslagsvägen i riktning mot Vällingby. Föraren vårdas på sjukhus med allvarliga skador."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "12 döda i bussolycka i Ungern",
-   "date": "2026-08-16T06:05:55.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/12-doda-i-bussolycka-i-ungern",
-   "desc": "Tolv personer har dött och åtminstone 10 skadats i en bussolycka på en motorväg i Ungern under natten. ”Mina uppriktiga kondoleanser till de drabbades familjer”, skriver premiärminister Peter Magyar."
   },
   {
    "src": "STHLM",
