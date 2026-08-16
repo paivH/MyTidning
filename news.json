@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T15:17:03.616Z",
+ "updated": "2026-08-16T15:44:38.525Z",
  "items": [
   {
    "src": "BBC",
@@ -44,15 +44,23 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Färjeolycka i centrala Stockholm",
-   "date": "2026-08-16T14:53:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
-   "desc": "F Djurgårdsfärjan i centrala Stockholm. – Djurgårdsfärjan har kört in i kajen, säger Karolina Wichman, presstalesperson på SL:s pressjour. SVT:s reporter på plats har sett två personer föras ut på bår"
+   "title": "Misstänkt mord i Uppsala – person frihetsberövad",
+   "date": "2026-08-16T15:22:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-mord-i-uppsala-person-frihetsberovad",
+   "desc": "Polisen utreder ett misstänkt mord i Uppsala. En person är frihetsberövad, säger polisen till TT."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Pågående polisinsats på Ljusterö – en person gripen",
+   "title": "Färjeolycka i centrala Stockholm – två till sjukhus",
+   "date": "2026-08-16T14:53:24.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
+   "desc": "Flera personer har skadats i en färjeolycka vid nöjesfältet Gröna Lund i centrala Stockholm. – Djurgårdsfärjan har kört in i kajen, säger Karolina Wichman, presstalesperson på SL:s pressjour. Två personer har förts till sjukhus med oklart skadeläge."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "En person gripen efter polisinsats på Ljusterö",
    "date": "2026-08-16T14:08:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
    "desc": "Just nu pågår en stor polisinsats på Ljusterö i Stockholms skärgård. En person är gripen. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
@@ -74,20 +82,12 @@
    "desc": "Den ryska oppositionen har tagit ett nytt steg i exil. För första gången i Putins Ryssland har oppositionella bildat ett politiskt parti utanför landets gränser – med ambitionen att en dag ta över makten i Moskva."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Forskningsfartyg på grund utanför Möja",
-   "date": "2026-08-16T10:09:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forskningsfartyg-pa-grund-utanfor-moja",
-   "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen. Strax efter lunchtid lyckades man dra loss fartyget."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Färjeolycka i centrala Stockholm",
+   "title": "Färjeolycka i centrala Stockholm – två till sjukhus",
    "date": "2026-08-16T14:53:24.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
-   "desc": "Flera personer har skadats i en färjeolycka vid nöjesfältet Gröna Lund i centrala Stockholm. – Djurgårdsfärjan har kört in i kajen, säger Karolina Wichman, presstalesperson på SL:s pressjour. SVT:s reporter på plats har sett två personer föras ut från båten på bår."
+   "desc": "Flera personer har skadats i en färjeolycka vid nöjesfältet Gröna Lund i centrala Stockholm. – Djurgårdsfärjan har kört in i kajen, säger Karolina Wichman, presstalesperson på SL:s pressjour. Två personer har förts till sjukhus med oklart skadeläge."
   },
   {
    "src": "STHLM",
@@ -127,7 +127,7 @@
    "title": "Manchester United",
    "date": "2026-08-16T14:36:05.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p4vdlp?at_medium=RSS&at_campaign=rss",
-   "desc": "Harry Maguire believes Marcs Rashford will improve United, following defeat to AC Milan."
+   "desc": "Harry Maguire believes Marcus Rashford will improve United, following defeat to AC Milan."
   },
   {
    "src": "BBC",
