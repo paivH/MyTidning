@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-16T17:43:02.074Z",
+ "updated": "2026-08-16T18:22:16.660Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-   "date": "2026-08-16T15:50:12.000Z",
+   "date": "2026-08-16T18:04:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
    "desc": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
   },
@@ -37,7 +37,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-   "date": "2026-08-16T17:18:56.000Z",
+   "date": "2026-08-16T17:44:23.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
    "desc": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
   },
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 16 augusti",
+   "date": "2026-08-16T17:49:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-16-augusti-yc24og",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 16 augusti."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Färjeolycka i centrala Stockholm – två till sjukhus",
    "date": "2026-08-16T14:53:24.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
@@ -112,14 +120,6 @@
    "date": "2026-08-16T10:09:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/forskningsfartyg-pa-grund-utanfor-moja",
    "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen. Strax efter lunchtid lyckades man dra loss fartyget."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Efter amerikanskans diss – politikerna möts på Stureplan",
-   "date": "2026-08-16T09:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-amerikanskans-diss-politikerna-mots-pa-stureplan",
-   "desc": "En amerikansk turist blev viral när hon dissade Stockholm och blottade dess främsta komplex – att staden är dötrist. Klippet väckte diskussion i sociala medier, där flera krävde åtgärder från politikerna. Nu möts Christofer Fjellner (M) och Emilia Bjuggren (S) i en debatt om hur man ska göra huvudstaden mer levande."
   },
   {
    "src": "BBC",
