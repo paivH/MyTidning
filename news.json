@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-16T19:43:02.664Z",
+ "updated": "2026-08-16T20:16:44.006Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+   "date": "2026-08-16T19:58:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+   "desc": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,26 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-   "date": "2026-08-16T17:44:23.000Z",
+   "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+   "date": "2026-08-16T19:50:36.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-   "desc": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-   "date": "2026-08-16T12:37:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-   "date": "2026-08-16T18:46:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "desc": "A search-and-rescue operation is under way after properties were uprooted from their foundations."
+   "desc": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
   },
   {
    "src": "BBC",
@@ -40,6 +32,14 @@
    "date": "2026-08-16T19:00:23.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
    "desc": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+   "date": "2026-08-16T18:46:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+   "desc": "A search-and-rescue operation is under way after properties were uprooted from their foundations."
   },
   {
    "src": "SVT",
