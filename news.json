@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-16T21:15:56.569Z",
+ "updated": "2026-08-16T21:43:10.399Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump says US will scale back military drills with South Korea",
+   "date": "2026-08-16T21:27:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+   "desc": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -28,18 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-   "date": "2026-08-16T19:00:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-   "desc": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
+   "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+   "date": "2026-08-16T13:34:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+   "desc": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-   "date": "2026-08-16T18:46:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "desc": "A search-and-rescue operation is under way after properties were uprooted from their foundations."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Trump: Ska minska militära övningar med Sydkorea",
+   "date": "2026-08-16T21:18:09.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/trump-ska-minska-militara-ovningar-med-sydkorea",
+   "desc": "USA:s president Donald Trump har instruerat krigsminister Pete Hegseth att kraftigt minska de gemensamma militärövningarna med Sydkorea. Anledningen är den ”goda relationen” till Kim Jong-un."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-16T14:53:24.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
    "desc": "Två personer fick föras till sjukhus med lindriga skador i färjeolyckan vid nöjesfältet Gröna Lund i centrala Stockholm. 14-åriga Dino Muka befann sig ombord på Djurgårdsfärjan när den kraschade in i bryggan. – Rätt många föll framåt och det hördes skrik, berättar han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "En person gripen efter polisinsats på Ljusterö",
-   "date": "2026-08-16T14:08:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
-   "desc": "Det pågick en stor polisinsats på Ljusterö i Stockholms skärgård. En person är gripen. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
   },
   {
    "src": "STHLM",
