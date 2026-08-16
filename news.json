@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T14:18:22.479Z",
+ "updated": "2026-08-16T14:47:38.082Z",
  "items": [
   {
    "src": "BBC",
@@ -44,10 +44,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Uppgifter: Pågående polisinsats på Ljusterö",
+   "title": "Pågående polisinsats på Ljusterö",
    "date": "2026-08-16T14:08:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
-   "desc": "Just nu pågår en polisinsats på Ljusterö i Stockholms skärgård, enligt Aftonbladet."
+   "desc": "Just nu pågår en stor polisinsats på Ljusterö i Stockholms skärgård. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
   },
   {
    "src": "SVT",
@@ -84,10 +84,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Uppgifter: Pågående polisinsats på Ljusterö",
+   "title": "Pågående polisinsats på Ljusterö",
    "date": "2026-08-16T14:08:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
-   "desc": "Just nu pågår en polisinsats på Ljusterö i Stockholms skärgård, enligt Aftonbladet."
+   "desc": "Just nu pågår en stor polisinsats på Ljusterö i Stockholms skärgård. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-08-16T14:36:05.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p4vdlp?at_medium=RSS&at_campaign=rss",
+   "desc": "Harry Maguire believes Marcs Rashford will improve United, following defeat to AC Milan."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-08-14T08:00:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p4dt20?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd boss Michael Carrick on Bruno Fernandes, the Champions League and expectations."
@@ -144,14 +152,6 @@
    "date": "2026-08-10T13:17:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p3q6bx?at_medium=RSS&at_campaign=rss",
    "desc": "Gaz is joined by Jay Motty to discuss the summer window and Jose Mourinho's new comments."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-04T17:59:03.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p2nd6m?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sport's Simon Stone discusses Man Utd’s latest club statements on ticket touting."
   }
  ]
 }
