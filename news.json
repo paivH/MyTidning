@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T17:15:43.438Z",
+ "updated": "2026-08-16T17:43:02.074Z",
  "items": [
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Two dead and evacuation under way as fires break out on Greek island",
-   "date": "2026-08-16T16:14:26.000Z",
+   "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+   "date": "2026-08-16T17:18:56.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-   "desc": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report."
+   "desc": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så kan El Niño påverka din kycklingmiddag",
+   "date": "2026-08-16T17:13:34.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/sa-kan-el-nino-paverka-din-kycklingmiddag",
+   "desc": "Världen står inför en ovanligt kraftig El Niño – vissa talar till och med om en super-El Niño. Fenomenet kan påverka vädret över stora delar av världen – och i förlängningen det som hamnar på din tallrik."
   },
   {
    "src": "SVT",
@@ -63,7 +71,7 @@
    "title": "En person gripen efter polisinsats på Ljusterö",
    "date": "2026-08-16T14:08:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
-   "desc": "Just nu pågår en stor polisinsats på Ljusterö i Stockholms skärgård. En person är gripen. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
+   "desc": "Det pågick en stor polisinsats på Ljusterö i Stockholms skärgård. En person är gripen. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-16T13:48:46.000Z",
    "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-matchvinnare-igen-for-degerfors-korde-over-ifk-goteborg",
    "desc": "Under säsongens 15 första matcher gjorde Dijan Vukojevic inte ett enda mål. Nu har han helt plötsligt gjort fyra på två matcher. De två sista ledde Degerfors till seger mot bottenkonkurrenten IFK Göteborg. – Det är nåt flow man kommer in i, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ryskt parti i exil: ”Vi skapar ett politiskt alternativ till Putin”",
-   "date": "2026-08-16T13:43:09.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/ryskt-parti-i-exil-vi-skapar-ett-politiskt-alternativ-till-putin",
-   "desc": "Den ryska oppositionen har tagit ett nytt steg i exil. För första gången i Putins Ryssland har oppositionella bildat ett politiskt parti utanför landets gränser – med ambitionen att en dag ta över makten i Moskva."
   },
   {
    "src": "STHLM",
