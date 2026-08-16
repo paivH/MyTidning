@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T13:53:29.639Z",
+ "updated": "2026-08-16T14:18:22.479Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Uppgifter: Pågående polisinsats på Ljusterö",
+   "date": "2026-08-16T14:08:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
+   "desc": "Just nu pågår en polisinsats på Ljusterö i Stockholms skärgård, enligt Aftonbladet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Dijan Vukojevic matchvinnare igen för Degerfors – körde över IFK Göteborg",
    "date": "2026-08-16T13:48:46.000Z",
    "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-matchvinnare-igen-for-degerfors-korde-over-ifk-goteborg",
@@ -63,7 +71,7 @@
    "title": "Forskningsfartyg på grund utanför Möja",
    "date": "2026-08-16T10:09:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/forskningsfartyg-pa-grund-utanfor-moja",
-   "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen."
+   "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen. Strax efter lunchtid lyckades man dra loss fartyget."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "En hel radhuslänga förstördes i branden i Arboga – och en annan länga fick stora materiella skador. Se bilderna före och efter branden i videon."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Filmen visar: Så gick dödsmisshandeln av Christian Zedig till",
-   "date": "2026-08-16T07:37:04.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/filmen-visar-sa-gick-dodsmisshandeln-av-christian-zedig-till",
-   "desc": "På ett klipp som danska tidningen BT publicerat syns hur två ölburkar kastas – sedan går en man till attack. Bråket ledde till den 32-årige polismannens Christian Zedigs död."
+   "title": "Uppgifter: Pågående polisinsats på Ljusterö",
+   "date": "2026-08-16T14:08:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
+   "desc": "Just nu pågår en polisinsats på Ljusterö i Stockholms skärgård, enligt Aftonbladet."
   },
   {
    "src": "STHLM",
@@ -95,7 +103,7 @@
    "title": "Forskningsfartyg på grund utanför Möja",
    "date": "2026-08-16T10:09:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/forskningsfartyg-pa-grund-utanfor-moja",
-   "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen."
+   "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen. Strax efter lunchtid lyckades man dra loss fartyget."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-16T06:06:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/mc-forare-vardas-med-allvarliga-skador-efter-olycka",
    "desc": "Natten till söndagen fördes en mc-förare till sjukhus efter en krock på Bergslagsvägen i riktning mot Vällingby. Föraren vårdas på sjukhus med allvarliga skador."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 15 augusti",
-   "date": "2026-08-15T17:45:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-15-augusti-iniypi",
-   "desc": "Detta har hänt i Stockholms län torsdagen den 15 augusti"
   },
   {
    "src": "BBC",
