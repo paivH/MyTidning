@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T18:22:16.660Z",
+ "updated": "2026-08-16T18:54:56.634Z",
  "items": [
   {
    "src": "BBC",
@@ -20,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-   "date": "2026-08-16T12:53:43.000Z",
+   "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+   "date": "2026-08-16T18:46:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "desc": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas."
+   "desc": "A search-and-rescue operation is under way after properties were uprooted from their foundations."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-08-16T17:44:23.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
    "desc": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "AI-bolagen anställer filosofer: ”Plockas upp ganska snabbt”",
+   "date": "2026-08-16T18:25:00.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ai-bolagen-anstaller-filosofer-plockas-upp-ganska-snabbt",
+   "desc": "Samtidigt som dagens AI-modeller brottas med tendenser att vara för inställsamma och självsäkra, växer ett intresse i branschen för filosofiska frågor. Åsa Wikforss, professor i teoretisk filosofi, ser att fler filosofer numera rekryteras för att bland annat hjälpa AI-modellerna att resonera bättre med hjälp av filosofi. – Filosofer anställs nu med en lön som de aldrig skulle fått på ett universitet, säger hon."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-16T14:08:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
    "desc": "Det pågick en stor polisinsats på Ljusterö i Stockholms skärgård. En person är gripen. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Dijan Vukojevic matchvinnare igen för Degerfors – körde över IFK Göteborg",
-   "date": "2026-08-16T13:48:46.000Z",
-   "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-matchvinnare-igen-for-degerfors-korde-over-ifk-goteborg",
-   "desc": "Under säsongens 15 första matcher gjorde Dijan Vukojevic inte ett enda mål. Nu har han helt plötsligt gjort fyra på två matcher. De två sista ledde Degerfors till seger mot bottenkonkurrenten IFK Göteborg. – Det är nåt flow man kommer in i, säger han."
   },
   {
    "src": "STHLM",
