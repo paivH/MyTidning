@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T10:18:57.833Z",
+ "updated": "2026-08-16T10:47:50.240Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Forskningsfartyg på grund utanför Möja",
+   "date": "2026-08-16T10:09:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forskningsfartyg-pa-grund-utanfor-moja",
+   "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Se radhusområdet i Arboga före och efter branden",
    "date": "2026-08-16T09:06:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/se-radhusomradet-i-arboga-fore-och-efter-branden",
@@ -74,20 +82,12 @@
    "desc": "Tolv personer har dött och åtminstone 10 skadats i en bussolycka på en motorväg i Ungern under natten. ”Mina uppriktiga kondoleanser till de drabbades familjer”, skriver premiärminister Peter Magyar."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så blir inskolningen på förskolan lättare för ditt barn – förskollärarens råd",
-   "date": "2026-08-16T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-blir-inskolningen-pa-forskolan-lattare-for-ditt-barn-forskollararens-rad",
-   "desc": "Augusti innebär ny termin och skola för många barn och unga och för dem som är allra yngst är det första stegen till en vardag utanför hemmet. Enligt pedagogen Caroline Ekberg på Chokladfabrikens förskola i Torshälla, finns det en del att tänka på inför förskolepremiären."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Forskningsfartyg på grund utanför Möja",
    "date": "2026-08-16T10:09:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/forskningsfartyg-pa-grund-utanfor-moja",
-   "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen, rapporterar Dagens Nyheter."
+   "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen."
   },
   {
    "src": "STHLM",
