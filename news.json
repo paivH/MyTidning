@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T05:52:28.145Z",
+ "updated": "2026-08-16T06:33:28.899Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Mc-förare vårdas med allvarliga skador efter olycka",
+   "date": "2026-08-16T06:06:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mc-forare-vardas-med-allvarliga-skador-efter-olycka",
+   "desc": "Natten till söndagen fördes en mc-förare till sjukhus efter en krock på Bergslagsvägen i riktning mot Vällingby. Föraren vårdas på sjukhus med allvarliga skador."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "12 döda i bussolycka i Ungern",
+   "date": "2026-08-16T06:05:55.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/12-doda-i-bussolycka-i-ungern",
+   "desc": "Tolv personer har dött och åtminstone 10 skadats i en bussolycka på en motorväg i Ungern under natten. ”Mina uppriktiga kondoleanser till de drabbades familjer”, skriver premiärminister Peter Magyar."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Så blir inskolningen på förskolan lättare för ditt barn – förskollärarens råd",
    "date": "2026-08-16T03:30:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-blir-inskolningen-pa-forskolan-lattare-for-ditt-barn-forskollararens-rad",
@@ -66,20 +82,12 @@
    "desc": "I senaste valet var det betydligt färre som röstade i många glesbygdsområden än i landet som helhet. I norra Värmland känner sig många svikna av politikerna och menar att valdebatten överhuvudtaget inte handlar om dem. – Allt fokus är på större städer, säger undersköterskan Lovisa Gustavsson. SVT har rest längs riksväg 62 i Klarälvens dalgång."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Samuel Pihlström tar EM-silver på 1 500 meter",
-   "date": "2026-08-15T20:12:53.000Z",
-   "link": "https://www.svt.se/sport/friidrott/samuel-pihlstrom-xilln9",
-   "desc": "Samuel Pihlström säkrar ett EM-silver på 1 500 meter – efter en jättespurt. Medaljen kunde han fira tillsammans med Andreas Almgren, som bara minuter tidigare vunnit EM-guld på 10 000 meter. – Det är helt makalöst! säger SVT:s kommentator Jacob Hård."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Andreas Almgren krossade fältet från spets – tog hem EM-guldet efter uppvisning",
-   "date": "2026-08-15T19:54:24.000Z",
-   "link": "https://www.svt.se/sport/friidrott/andreas-almgren-krossade-faltet-fran-spets-tog-hem-em-guldet-efter-uppvisning",
-   "desc": "Andreas Almgren fick på karriärens största fullträff när han vann EM-guld och slog mästerskapsrekord på 10 000 meter efter att ha krossat fältet. – Det fick bära eller brista. Det kan inte bli bättre än så här, säger Almgren till SVT Sport."
+   "title": "Mc-förare vårdas med allvarliga skador efter olycka",
+   "date": "2026-08-16T06:06:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mc-forare-vardas-med-allvarliga-skador-efter-olycka",
+   "desc": "Natten till söndagen fördes en mc-förare till sjukhus efter en krock på Bergslagsvägen i riktning mot Vällingby. Föraren vårdas på sjukhus med allvarliga skador."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-15T07:54:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-efter-motorcykelolycka-i-nynashamn",
    "desc": "En motorcyklist körde av vägen i närheten av Frölunda i Nynäshamns kommun under fredagskvällen. Mannen, som var i 50-årsåldern, har avlidit."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 14 augusti",
-   "date": "2026-08-14T19:16:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-14-augusti-hh3f8z",
-   "desc": "Detta har hänt i Stockholms län onsdag 12 augusti"
   },
   {
    "src": "BBC",
