@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-16T14:47:38.082Z",
+ "updated": "2026-08-16T15:17:03.616Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-   "date": "2026-08-16T10:52:08.000Z",
+   "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+   "date": "2026-08-16T15:14:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
+   "desc": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
   },
   {
    "src": "BBC",
@@ -44,10 +44,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Pågående polisinsats på Ljusterö",
+   "title": "Färjeolycka i centrala Stockholm",
+   "date": "2026-08-16T14:53:24.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
+   "desc": "F Djurgårdsfärjan i centrala Stockholm. – Djurgårdsfärjan har kört in i kajen, säger Karolina Wichman, presstalesperson på SL:s pressjour. SVT:s reporter på plats har sett två personer föras ut på bår"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Pågående polisinsats på Ljusterö – en person gripen",
    "date": "2026-08-16T14:08:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
-   "desc": "Just nu pågår en stor polisinsats på Ljusterö i Stockholms skärgård. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
+   "desc": "Just nu pågår en stor polisinsats på Ljusterö i Stockholms skärgård. En person är gripen. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
   },
   {
    "src": "SVT",
@@ -74,20 +82,20 @@
    "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen. Strax efter lunchtid lyckades man dra loss fartyget."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Se radhusområdet i Arboga före och efter branden",
-   "date": "2026-08-16T09:06:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/se-radhusomradet-i-arboga-fore-och-efter-branden",
-   "desc": "En hel radhuslänga förstördes i branden i Arboga – och en annan länga fick stora materiella skador. Se bilderna före och efter branden i videon."
+   "title": "Färjeolycka i centrala Stockholm",
+   "date": "2026-08-16T14:53:24.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
+   "desc": "Flera personer har skadats i en färjeolycka vid nöjesfältet Gröna Lund i centrala Stockholm. – Djurgårdsfärjan har kört in i kajen, säger Karolina Wichman, presstalesperson på SL:s pressjour. SVT:s reporter på plats har sett två personer föras ut från båten på bår."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Pågående polisinsats på Ljusterö",
+   "title": "En person gripen efter polisinsats på Ljusterö",
    "date": "2026-08-16T14:08:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
-   "desc": "Just nu pågår en stor polisinsats på Ljusterö i Stockholms skärgård. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
+   "desc": "Just nu pågår en stor polisinsats på Ljusterö i Stockholms skärgård. En person är gripen. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-16T09:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-amerikanskans-diss-politikerna-mots-pa-stureplan",
    "desc": "En amerikansk turist blev viral när hon dissade Stockholm och blottade dess främsta komplex – att staden är dötrist. Klippet väckte diskussion i sociala medier, där flera krävde åtgärder från politikerna. Nu möts Christofer Fjellner (M) och Emilia Bjuggren (S) i en debatt om hur man ska göra huvudstaden mer levande."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Mc-förare vårdas med allvarliga skador efter olycka",
-   "date": "2026-08-16T06:06:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mc-forare-vardas-med-allvarliga-skador-efter-olycka",
-   "desc": "Natten till söndagen fördes en mc-förare till sjukhus efter en krock på Bergslagsvägen i riktning mot Vällingby. Föraren vårdas på sjukhus med allvarliga skador."
   },
   {
    "src": "BBC",
