@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-16T08:56:17.340Z",
+ "updated": "2026-08-16T09:25:29.565Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
-   "date": "2026-08-16T08:14:56.000Z",
+   "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+   "date": "2026-08-16T09:04:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit."
+   "desc": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
   },
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Se radhusområdet i Arboga före och efter branden",
+   "date": "2026-08-16T09:06:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/se-radhusomradet-i-arboga-fore-och-efter-branden",
+   "desc": "En hel radhuslänga förstördes i branden i Arboga – och en annan länga fick stora materiella skador. Se bilderna före och efter branden."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Filmen visar: Så gick dödsmisshandeln av Christian Zedig till",
    "date": "2026-08-16T07:37:04.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/filmen-visar-sa-gick-dodsmisshandeln-av-christian-zedig-till",
@@ -72,14 +80,6 @@
    "date": "2026-08-16T03:30:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-blir-inskolningen-pa-forskolan-lattare-for-ditt-barn-forskollararens-rad",
    "desc": "Augusti innebär ny termin och skola för många barn och unga och för dem som är allra yngst är det första stegen till en vardag utanför hemmet. Enligt pedagogen Caroline Ekberg på Chokladfabrikens förskola i Torshälla, finns det en del att tänka på inför förskolepremiären."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Människorna vid riksväg 62: ”Städerna är allt och glesbygden ingenting”",
-   "date": "2026-08-16T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/manniskorna-vid-riksvag-62-staderna-ar-allt-och-glesbygden-ingenting",
-   "desc": "En timme till sjukhus och tandläkare. Sex mil till barnens fotbollsträning. Villkoren i glesbygd skrämmer inte de boende vid riksväg 62. När det gäller valet däremot känner de sig helt bortglömda. I klippen berättar de mer om livet långt från storstäderna."
   },
   {
    "src": "STHLM",
