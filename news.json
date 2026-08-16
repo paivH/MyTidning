@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-16T09:51:08.607Z",
+ "updated": "2026-08-16T10:18:57.833Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-   "date": "2026-08-16T09:04:14.000Z",
+   "date": "2026-08-16T10:09:10.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
    "desc": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
   },
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Forskningsfartyg på grund utanför Möja",
+   "date": "2026-08-16T10:09:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forskningsfartyg-pa-grund-utanfor-moja",
+   "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen, rapporterar Dagens Nyheter."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Efter amerikanskans diss – politikerna möts på Stureplan",
    "date": "2026-08-16T09:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-amerikanskans-diss-politikerna-mots-pa-stureplan",
@@ -112,14 +120,6 @@
    "date": "2026-08-15T15:04:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/fler-scener-nar-kulturfestivalen-vaxer-man-lar-sig-nya-grejer",
    "desc": "Stockholm fylls just nu av musik, dans, konst och aktiviteter när Kulturfestivalen pågår på flera platser i centrala stan. I år har festivalområdet utökats från sex till nio scener och tre nya områden. – Det är väl ett sätt att få personer att lämna sin lägenheter och göra roliga saker. Samtidigt som man lär sig nya grejer, säger Tove Johansson under tiden som hon tecknar danskroki."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Amanda, 15, har sprungit midnattsloppet 14 gånger",
-   "date": "2026-08-15T09:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/amanda-15-har-sprungit-midnattsloppet-14-ganger",
-   "desc": "Varje år sen hon fyllde ett har, nu 15-åriga, Amanda Billing sprungit Midnattsloppet på Södermalm. Genom videorna fångade av hennes föräldrar får vi följa Amandas springsteg de senaste 15 åren. Men nu är det osäkert om hon kommer kunna fullfölja det femtonde loppet."
   },
   {
    "src": "BBC",
