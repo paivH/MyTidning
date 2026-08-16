@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T12:31:35.223Z",
+ "updated": "2026-08-16T13:27:27.545Z",
  "items": [
   {
    "src": "BBC",
@@ -13,17 +13,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-   "date": "2026-08-16T08:23:38.000Z",
+   "date": "2026-08-16T12:37:21.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed."
+   "desc": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-   "date": "2026-08-16T08:49:32.000Z",
+   "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+   "date": "2026-08-16T12:53:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "desc": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
+   "desc": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas."
   },
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Valrörelsens första slag: Kampen om Sergels torg",
+   "date": "2026-08-16T13:13:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/valrorelsens-forsta-slag-kampen-om-sergels-torg",
+   "desc": "De politiska ungdomsförbunden stod laddade för att säkra de bästa platserna för partiernas valaffischer på söndagen. Flera av dem hade varit på plats sedan lördagskvällen. – Den som vinner Plattan vinner valet, säger Lisa Diaz (S), tidigare distriktsordförande SSU."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Forskningsfartyg på grund utanför Möja",
    "date": "2026-08-16T10:09:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/forskningsfartyg-pa-grund-utanfor-moja",
@@ -112,14 +120,6 @@
    "date": "2026-08-15T17:45:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-15-augusti-iniypi",
    "desc": "Detta har hänt i Stockholms län torsdagen den 15 augusti"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Fler scener när Kulturfestivalen växer: ”Man lär sig nya grejer”",
-   "date": "2026-08-15T15:04:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fler-scener-nar-kulturfestivalen-vaxer-man-lar-sig-nya-grejer",
-   "desc": "Stockholm fylls just nu av musik, dans, konst och aktiviteter när Kulturfestivalen pågår på flera platser i centrala stan. I år har festivalområdet utökats från sex till nio scener och tre nya områden. – Det är väl ett sätt att få personer att lämna sin lägenheter och göra roliga saker. Samtidigt som man lär sig nya grejer, säger Tove Johansson under tiden som hon tecknar danskroki."
   },
   {
    "src": "BBC",
