@@ -1,13 +1,21 @@
 {
- "updated": "2026-08-16T18:54:56.634Z",
+ "updated": "2026-08-16T19:18:05.044Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-   "date": "2026-08-16T18:04:25.000Z",
+   "date": "2026-08-16T19:03:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
    "desc": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+   "date": "2026-08-16T17:44:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+   "desc": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
   },
   {
    "src": "BBC",
@@ -28,18 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-   "date": "2026-08-16T10:53:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-   "desc": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-   "date": "2026-08-16T17:44:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-   "desc": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
+   "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+   "date": "2026-08-16T19:00:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+   "desc": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
   },
   {
    "src": "SVT",
