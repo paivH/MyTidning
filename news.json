@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T07:27:30.105Z",
+ "updated": "2026-08-16T07:54:49.697Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Filmen visar: Så gick dödsmisshandeln av Christian Zedig till",
+   "date": "2026-08-16T07:37:04.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/filmen-visar-sa-gick-dodsmisshandeln-av-christian-zedig-till",
+   "desc": "På klippet syns hur två ölburkar kastas – sedan går mannen till attack. Danska tidningen BT har publicerat ett klipp på det bråk som ledde till den 32-årige polisen Christian Zedigs död."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Mc-förare vårdas med allvarliga skador efter olycka",
    "date": "2026-08-16T06:06:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/mc-forare-vardas-med-allvarliga-skador-efter-olycka",
@@ -72,14 +80,6 @@
    "date": "2026-08-16T03:30:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/varmland/manniskorna-vid-riksvag-62-staderna-ar-allt-och-glesbygden-ingenting",
    "desc": "En timme till sjukhus och tandläkare. Sex mil till barnens fotbollsträning. Villkoren i glesbygd skrämmer inte de boende vid riksväg 62. När det gäller valet däremot känner de sig helt bortglömda. I klippen berättar de mer om livet långt från storstäderna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "”Det handlar inte om oss” – rösterna från den värmländska glesbygden inför valet",
-   "date": "2026-08-16T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/det-handlar-inte-om-oss-rosterna-fran-den-varmlandska-glesbygden-infor-valet",
-   "desc": "I senaste valet var det betydligt färre som röstade i många glesbygdsområden än i landet som helhet. I norra Värmland känner sig många svikna av politikerna och menar att valdebatten överhuvudtaget inte handlar om dem. – Allt fokus är på större städer, säger undersköterskan Lovisa Gustavsson. SVT har rest längs riksväg 62 i Klarälvens dalgång."
   },
   {
    "src": "STHLM",
