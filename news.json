@@ -1,22 +1,6 @@
 {
- "updated": "2026-08-17T08:38:05.563Z",
+ "updated": "2026-08-17T09:36:39.565Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-   "date": "2026-08-17T04:50:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-   "desc": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ukrainian strikes kill six in Russia, acting governor says",
-   "date": "2026-08-17T07:41:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-   "desc": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -28,18 +12,42 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+   "date": "2026-08-17T08:43:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+   "desc": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ukrainian strikes kill six in Russia, acting governor says",
+   "date": "2026-08-17T08:47:19.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+   "desc": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+   "date": "2026-08-17T08:38:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
    "date": "2026-08-17T04:41:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
    "desc": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Record rains drench South Korean city as landslide kills one",
-   "date": "2026-08-17T04:34:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
-   "desc": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Se dramat på bussen – passagerarna tar över när chauffören svimmar",
+   "date": "2026-08-17T09:02:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/se-dramat-pa-bussen-passagerarna-tar-over-nar-chaufforen-svimmar",
+   "desc": "När busschauffören plötsligt tappade medvetandet klev två av resenärerna fram och tog över ratten. I klippet ser du den dramatiska resan som slutade i mitträcket på riksväg 40 utanför Bottnaryd."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-17T06:42:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/trasig-buss-blockerar-uppfarten-till-cenrtralbron",
    "desc": "En trasig buss blockerade uppfarten från Stadsgårdsleden till Centralbron under måndagsmorgonen. Strax före klockan nio rullade trafiken igen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ukrainas Patriotsystem sinar: ”Ryssarna utnyttjar övertaget”",
-   "date": "2026-08-17T05:38:39.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/ukrainas-patriotsystem-sinar-ryssarna-utnyttjar-overtaget",
-   "desc": "USA fortsätter att sätta in sina militära resurser mot Iran, vilket märks i Ukraina. Ukraina har svårare att försvara sig mot Rysslands ballistiska robotar, vilket har lett till att antalet döda civila i Ukraina toppade med 437 civila i juli. – Ryssland utnyttjar ett läge där Ukraina inte riktigt kan försvara sig som förr, säger SVT:s Ukrainakorrespondent Bengt Norborg på plats i Kiev."
   },
   {
    "src": "STHLM",
@@ -116,10 +116,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "En person gripen efter polisinsats på Ljusterö",
+   "title": "Man gripen på Ljusterö misstänks för grovt brott på annan plats i Sverige",
    "date": "2026-08-16T14:08:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
-   "desc": "Det pågick en stor polisinsats på Ljusterö i Stockholms skärgård. En person är gripen. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
+   "desc": "Det pågick en stor polisinsats på Ljusterö i Stockholms skärgård under söndagen. En person i 35-årsåldern, folkbokförd i Stockholm greps efter att ha varit anhållen i sin frånvaro. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
   },
   {
    "src": "BBC",
