@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T20:21:31.654Z",
+ "updated": "2026-08-17T20:52:35.671Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Över 2 300 döda i ebola – vaccin utvecklas",
+   "date": "2026-08-17T20:45:53.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/over-2-300-doda-i-ebola-vaccin-utvecklas",
+   "desc": "2 325 bekräftade dödsfall av ebola i Kongo-Kinshasa. Dödstalen passerar nu utbrottet 2018, samtidigt som ett nytt vaccin utvecklas i Storbritannien. – Jag vill dra mitt strå till stacken, säger britten Ed Hunt som fick vaccinet först av alla."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kristersson pressas: Ny mätning visar stort gap",
+   "date": "2026-08-17T20:28:39.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/kristersson-pressas-ny-matning-visar-stort-gap",
+   "desc": "Med mindre än en månad till valet ligger Tidöpartierna tio procentenheter bakom oppositionen. Det visar SVT/Verians första mätning sedan juni. – Vi ser inga tidigare exempel på att någon har lyckats göra en upphämtning av det här slaget, säger Per Söderpalm, opinionsansvarig på Verian. Samtidigt pekar han ut sommarens stora vinnare."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Isak Bjerkebo har nobbat bud: ”Var väldigt tydlig”",
    "date": "2026-08-17T20:06:23.000Z",
    "link": "https://www.svt.se/sport/fotboll/isak-bjerkebo-har-nobbat-bud-var-valdigt-tydlig",
@@ -64,22 +80,6 @@
    "date": "2026-08-17T16:58:23.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/kung-harald-av-norge-ar-inlagd-pa-sjukhus",
    "desc": "Kung Harald av Norge är inlagd på sjukhus, uppger norska hovet. Den 89-årige regenten behandlas för en blodsjukdom."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ett fall av mässling på Gotland",
-   "date": "2026-08-17T16:50:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/ett-fall-av-massling-pa-gotland",
-   "desc": "Tio fall av mässling har så här långt rapporterats efter att de drabbade besökt festivalen Urkult i Ångermanland den 30 juli – 1 augusti. – En av de tio personerna som smittats är hemmahörande på Gotland, säger Maria Amér, smittskyddsläkare på Region Gotland, i ett uttalande."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här lägger åklagaren fram nya dna-bevisningen från Brattås i rätten",
-   "date": "2026-08-17T16:14:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/har-lagger-aklagaren-fram-nya-dna-bevisningen-fran-brattas-i-ratten",
-   "desc": "Inte bara ett, utan två dna-spår knyter den misstänkte mannen till brottsplatsen och ett av mordoffren i dubbelmordet i Brattås 2005. Det står klart efter att åklagaren lagt fram ny bevisning under inledningen av rättegången mot mannen."
   },
   {
    "src": "STHLM",
