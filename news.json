@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T10:57:19.159Z",
+ "updated": "2026-08-17T11:28:02.823Z",
  "items": [
   {
    "src": "BBC",
@@ -12,16 +12,16 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-   "date": "2026-08-17T08:43:12.000Z",
+   "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+   "date": "2026-08-17T11:16:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-   "desc": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
+   "desc": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Ukrainian strikes kill six in Russia, acting governor says",
-   "date": "2026-08-17T08:47:19.000Z",
+   "date": "2026-08-17T11:14:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
    "desc": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
   },
@@ -40,6 +40,14 @@
    "date": "2026-08-17T04:41:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
    "desc": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Svensk medborgare skjuten i Syrien",
+   "date": "2026-08-17T11:21:27.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/svensk-medborgare-skjuten-i-syrien",
+   "desc": "En 46-årig svensk medborgare har skjutits till döds i staden Homs i västra Syrien."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-17T09:02:57.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/se-dramat-pa-bussen-passagerarna-tar-over-nar-chaufforen-svimmar",
    "desc": "När busschauffören plötsligt tappade medvetandet klev två av resenärerna fram och tog över ratten. I klippet ser du den dramatiska resan som slutade i mitträcket på riksväg 40 utanför Bottnaryd."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Derbyhjälten Linus Carlstrand avslöjar dealen: ”Har tjatat på honom”",
-   "date": "2026-08-17T07:40:05.000Z",
-   "link": "https://www.svt.se/sport/fotboll/derbyhjalten-linus-carlstrand-avslojar-dealen-har-tjatat-pa-honom",
-   "desc": "AIK:s anfallare Linus Carlstrand gav lagkamraten Adrian Helm ett saftigt erbjudande. Bjud på en assist – och du får någonting i gengäld. – Nu blir det så, säger tvåmålsskytten efter derbysegern mot Djurgården."
   },
   {
    "src": "STHLM",
