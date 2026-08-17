@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-17T14:22:58.610Z",
+ "updated": "2026-08-17T14:53:06.217Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+   "date": "2026-08-17T14:36:44.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+   "desc": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,14 +16,6 @@
    "date": "2026-08-17T06:24:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
    "desc": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-   "date": "2026-08-17T13:58:38.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-   "desc": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
   },
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-   "date": "2026-08-17T04:41:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
-   "desc": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
+   "title": "US hiker dies after being struck by lightning on Mount Etna",
+   "date": "2026-08-17T12:23:26.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+   "desc": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Mc-förare förd till sjukhus efter olycka",
+   "date": "2026-08-17T14:20:51.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/mc-forare-ford-till-sjukhus-efter-olycka-vk1is8",
+   "desc": "En trafikolycka inträffade vid E22:ans östra infart till Ronneby på måndagseftermiddagen. En mc-förare fick föras med ambulans till sjukhus."
   },
   {
    "src": "SVT",
@@ -55,7 +63,7 @@
    "title": "Kvinna på sparkcykel påkörd i Eskilstuna",
    "date": "2026-08-17T14:03:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/kvinna-pa-sparkcykel-pakord-i-eskilstuna",
-   "desc": "En kvinna blev under måndagseftermiddagen påkörd av en personbil i centrala Eskilstuna. Hon är förd till sjukhus med ambulans, men skadeläget är oklart."
+   "desc": "En kvinna blev under måndagseftermiddagen påkörd av en personbil i centrala Eskilstuna. Hon är förd till sjukhus med ambulans och var inte vid medvetande."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-17T13:29:40.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/befarad-batolycka-norr-om-gnesta",
    "desc": "Räddningstjänsten sökte under måndagseftermiddagen efter en eller flera personer efter en befarad båtolycka i sjön Klämmingen norr om Gnesta. Men efter ett par timmars sökarbete avslutades insatsen. – Allt eftersom att insatsen har pågått så är det mer och mer som tyder på att det inte har skett någon olycka här, säger Ludvig Tejler vid Södertörns brandförsvarsförbund."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Höstpremiär för Sverige Live – i ny kostym",
-   "date": "2026-08-17T13:15:17.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/hostpremiar-for-sverige-live-i-ny-kostym",
-   "desc": "Måndag den 17 augusti är Sverige Live tillbaka. William Brynolfsson, som under våren varit sidekick i programmet, blir en av de fasta programledarna i höst tillsammans med Karin Frick. Nytt är också inslaget Fråga veterinären och att Fråga doktorn sänds på måndagar för att få ett mer sammanhållet program."
   },
   {
    "src": "STHLM",
