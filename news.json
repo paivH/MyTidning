@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-17T16:22:03.806Z",
+ "updated": "2026-08-17T16:54:14.199Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
-   "date": "2026-08-17T14:59:02.000Z",
+   "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+   "date": "2026-08-17T16:26:34.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US and Oman have separately been negotiating to reopen the Strait of Hormuz, a waterway that has been closed during the US war with Iran."
+   "desc": "The US and Oman have been working separately to reopen the Strait of Hormuz, one of the world's busiest oil shipping routes."
   },
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Ett fall av mässling på Gotland",
+   "date": "2026-08-17T16:50:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/ett-fall-av-massling-pa-gotland",
+   "desc": "10 fall av mässling har så här långt rapporterats efter den misstänkta smittspridningen i samband med festivalen Urkult som i år hölls i Ångermanland den 30 juli – 1 augusti. – En av de tio personerna som smittats är hemmahörande på Gotland, säger Maria Amér, smittskyddsläkare på Region Gotland."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Här lägger åklagaren fram nya dna-bevisningen från Brattås i rätten",
    "date": "2026-08-17T16:14:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/har-lagger-aklagaren-fram-nya-dna-bevisningen-fran-brattas-i-ratten",
@@ -72,14 +80,6 @@
    "date": "2026-08-17T14:20:51.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/blekinge/mc-forare-ford-till-sjukhus-efter-olycka-vk1is8",
    "desc": "En trafikolycka inträffade vid E22:ans östra infart till Ronneby på måndagseftermiddagen. En mc-förare fick föras med ambulans till sjukhus."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Stopp för tågtrafiken via Kramfors – spårskador efter regnväder",
-   "date": "2026-08-17T14:08:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/stopp-for-tagtrafiken-via-kramfors-sparskador-efter-regnvader",
-   "desc": "Sedan 14-tiden står tågtrafiken som ska passera genom Kramfors still på grund av skador på banvallen."
   },
   {
    "src": "STHLM",
