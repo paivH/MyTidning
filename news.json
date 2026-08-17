@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T11:51:10.902Z",
+ "updated": "2026-08-17T12:35:58.853Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-   "date": "2026-08-17T11:16:31.000Z",
+   "date": "2026-08-17T12:27:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
    "desc": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
   },
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Därför kan radhusbränder bli farliga: ”Sprider sig på vinden”",
+   "date": "2026-08-17T12:04:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/darfor-kan-radhusbrander-bli-farliga-sprider-sig-pa-vinden",
+   "desc": "Radhus byggda på 1960- och 70-talet har sämre brandskydd än moderna radhus. Det gör att en brand snabbt kan sprida sig, som i Arboga i fredags. – Vindarna saknar brandceller i många fall, säger Daniel Fridström, brandingenjör."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Man anhållen utanför Skellefteå – misstänks ha skjutit vapen",
    "date": "2026-08-17T11:37:10.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-i-samhalle-utanfor-skelleftea-anhallen-skot-mot-andra",
@@ -55,7 +63,7 @@
    "title": "Storbritannien går mot rekordsommar i värme",
    "date": "2026-08-17T11:25:29.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/storbritannien-gar-mot-rekordsommar-i-varme",
-   "desc": "Över 27 miljoner människor omfattas av bevattningsförbud i Storbritannien. Enligt brittiska meteorologer är årets värmeböljor på en ”exceptionell” nivå för landet."
+   "desc": "Över 27 miljoner människor omfattas av bevattningsförbud i Storbritannien. Enligt brittiska meteorologer är årets värmeböljor på en ”exceptionell” nivå för landet. – Vi kan få allvarliga problem även nästa år, säger meteorologen Liz Bentley till BBC."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Den nyligen framlidne Rysslandsexperten Martin Kraghs ”Sommar”-program blev årets mest lyssnade podd. – Jag är så tacksam över att Martin Kragh orkade genomföra det här, säger Bibi Rödöö, programchef för ”Sommar”."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Lärare och småbarnsförälder åtalas för barnpornografibrott: ”Lättare att identifiera vanliga personer”",
-   "date": "2026-08-17T09:41:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/larare-och-smabarnsforalder-atalas-for-barnpornografibrott-lattare-att-identifiera-vanliga-personer",
-   "desc": "Mannen i Växjö kommun åtalas för flera fall av barnpornografibrott. Han kunde identifieras tack vare polisens samarbete med den amerikanska barnrättsorganisationen NCMEC. – Det är den här typen av vanliga personer som vi annars aldrig hade kunnat identifiera, säger polisen."
+   "title": "Lyktstolpe nerkörd – långa köer på Essingeleden",
+   "date": "2026-08-17T12:03:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/lyktstolpe-nerkord-langa-koer-pa-essingeleden",
+   "desc": "En lastbil körde vid halv tvåtiden ner en lyktstolpe på E4/E20, strax före påfarten från Aspudden. Stolpen blockerar ett körfält, vilket har orsakat mycket begränsad framkomlighet på Essingeleden. –Trafiken beräknas att börja rulla igen klockan 15:00, säger Beisi Sundin, presskommunikatör, Trafikverket"
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-16T14:53:24.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
    "desc": "Två personer fick föras till sjukhus med lindriga skador i färjeolyckan vid nöjesfältet Gröna Lund i centrala Stockholm. 14-åriga Dino Muka befann sig ombord på Djurgårdsfärjan när den kraschade in i bryggan. – Rätt många föll framåt och det hördes skrik, berättar han."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man gripen på Ljusterö misstänks för grovt brott på annan plats i Sverige",
-   "date": "2026-08-16T14:08:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
-   "desc": "Det pågick en stor polisinsats på Ljusterö i Stockholms skärgård under söndagen. En person i 35-årsåldern, folkbokförd i Stockholm greps efter att ha varit anhållen i sin frånvaro. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
   },
   {
    "src": "BBC",
