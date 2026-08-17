@@ -1,41 +1,41 @@
 {
- "updated": "2026-08-16T04:25:07.202Z",
+ "updated": "2026-08-17T04:31:22.272Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska plommon",
-   "price": "39 kr/kg",
+   "item": "Svenska äpplen lösvikt",
+   "price": "24 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 1kg",
-   "price": "79 kr",
+   "item": "Kycklingfilé Kronfågel 900g",
+   "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Färsk laxfilé 400g",
-   "price": "59 kr",
+   "item": "Grillkol 3kg",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Solmogna tomater 500g",
-   "price": "19 kr",
+   "item": "Färsk lax fillet 400g",
+   "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 500g fryst",
-   "price": "49 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utemöbelset i rea inför hösten",
-   "price": "999 kr",
+   "item": "Skolryggsäck",
+   "price": "149 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
