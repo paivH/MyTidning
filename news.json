@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T01:01:57.833Z",
+ "updated": "2026-08-17T02:39:10.947Z",
  "items": [
   {
    "src": "BBC",
@@ -44,10 +44,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Två döda i bränderna i Grekland",
+   "date": "2026-08-17T00:53:21.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tva-doda-i-branderna-i-grekland",
+   "desc": "Hundratals har evakuerats från stränder på den grekiska ön Salamis, där bränder spred sig i rekordfart på söndagen. Minst två personer har omkommit i bränderna. Samtidigt fortsätter den stora branden i Belgien att växa vid gränsen mot Tyskland."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Trump: Ska minska militära övningar med Sydkorea",
    "date": "2026-08-16T21:18:09.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/trump-ska-minska-militara-ovningar-med-sydkorea",
-   "desc": "USA:s president Donald Trump har beordrat krigsminister Pete Hegseth att kraftigt minska de gemensamma militärövningarna med Sydkorea. Anledningen är den ”goda relationen” till Kim Jong-un."
+   "desc": "USA:s president Donald Trump har beordrat Pentagon att kraftigt minska de gemensamma militärövningarna med Sydkorea. Anledningen är den ”goda relationen” till Kim Jong-un."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-16T15:22:58.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-mord-i-uppsala-person-frihetsberovad",
    "desc": "Polisen utreder ett misstänkt mord i Uppsala. En person är frihetsberövad, säger polisen till TT."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Färjeolycka i centrala Stockholm – två till sjukhus",
-   "date": "2026-08-16T14:53:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
-   "desc": "Två personer fick föras till sjukhus med lindriga skador i färjeolyckan vid nöjesfältet Gröna Lund i centrala Stockholm. 14-åriga Dino Muka befann sig ombord på Djurgårdsfärjan när den kraschade in i bryggan. – Rätt många föll framåt och det hördes skrik, berättar han."
   },
   {
    "src": "STHLM",
