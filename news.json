@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T05:31:39.172Z",
+ "updated": "2026-08-17T06:45:51.113Z",
  "items": [
   {
    "src": "BBC",
@@ -12,26 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-   "date": "2026-08-17T05:06:47.000Z",
+   "title": "Ukrainian strikes kill six in Russia, acting governor says",
+   "date": "2026-08-17T05:38:13.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+   "desc": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+   "date": "2026-08-17T06:24:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
    "desc": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-   "date": "2026-08-16T19:03:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Heroes actress Hayden Panettiere dies aged 36",
-   "date": "2026-08-17T05:15:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-   "desc": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen."
   },
   {
    "src": "BBC",
@@ -40,6 +32,38 @@
    "date": "2026-08-17T04:41:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
    "desc": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Record rains drench South Korean city as landslide kills one",
+   "date": "2026-08-17T04:34:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+   "desc": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Trasig buss blockerar uppfarten till Centralbron",
+   "date": "2026-08-17T06:42:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trasig-buss-blockerar-uppfarten-till-cenrtralbron",
+   "desc": "En trasig buss blockerar uppfarten från Stadsgårdsleden till Centralbron, vilket har stor påverkan på trafiken under måndagsmorgonen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ukrainas Patriotsystem sinar: ”Ryssarna utnyttjar övertaget”",
+   "date": "2026-08-17T05:38:39.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ukrainas-patriotsystem-sinar-ryssarna-utnyttjar-overtaget",
+   "desc": "USA fortsätter att sätta in sina militära resurser mot Iran, vilket märks i Ukraina. Ukraina har svårare att försvara sig mot Rysslands ballistiska robotar, vilket har lett till att antalet döda civila i Ukraina toppade med 437 civila i juli. – Ryssland utnyttjar ett läge där Ukraina inte riktigt kan försvara sig som förr, säger SVT:s Ukrainakorrespondent Bengt Norborg på plats i Kiev."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kraftig brand i Eksjö i natt – sommarstuga har brunnit ned",
+   "date": "2026-08-17T04:27:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kraftig-brand-i-eksjo-i-natt-villa-har-brunnit-ned",
+   "desc": "En kraftig brand inträffade i en sommarstuga i Eksjö under natten. Huset har brunnit ned och räddningstjänsten kyler fortfarande platsen."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-08-17T03:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-loser-djurgardsskolan-i-eskilstuna-nya-mobilforbudet",
    "desc": "Skolstart med nya mobilförbudet – se Eskilstunaskolans lösning"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Två döda i bränderna i Grekland",
-   "date": "2026-08-17T00:53:21.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/tva-doda-i-branderna-i-grekland",
-   "desc": "Hundratals har evakuerats från stränder på den grekiska ön Salamis, där bränder spred sig i rekordfart på söndagen. Minst två personer har omkommit i bränderna. Samtidigt fortsätter den stora branden i Belgien att växa vid gränsen mot Tyskland."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Trump: Ska minska militära övningar med Sydkorea",
-   "date": "2026-08-16T21:18:09.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/trump-ska-minska-militara-ovningar-med-sydkorea",
-   "desc": "USA:s president Donald Trump har beordrat Pentagon att kraftigt minska de gemensamma militärövningarna med Sydkorea. Anledningen är den ”goda relationen” till Kim Jong-un."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "AI-bolagen anställer filosofer: ”Plockas upp ganska snabbt”",
-   "date": "2026-08-16T18:25:00.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/ai-bolagen-anstaller-filosofer-plockas-upp-ganska-snabbt",
-   "desc": "Samtidigt som dagens AI-modeller brottas med tendenser att vara för inställsamma och självsäkra, växer ett intresse i branschen för filosofiska frågor. Åsa Wikforss, professor i teoretisk filosofi, ser att fler filosofer numera rekryteras för att bland annat hjälpa AI-modellerna att resonera bättre med hjälp av filosofi. – Filosofer anställs nu med en lön som de aldrig skulle fått på ett universitet, säger hon."
   },
   {
    "src": "STHLM",
