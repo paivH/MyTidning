@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T12:35:58.853Z",
+ "updated": "2026-08-17T13:36:10.361Z",
  "items": [
   {
    "src": "BBC",
@@ -20,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukrainian strikes kill six in Russia, acting governor says",
-   "date": "2026-08-17T11:14:39.000Z",
+   "title": "Russia and Ukraine trade more deadly strikes",
+   "date": "2026-08-17T13:16:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-   "desc": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
+   "desc": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths."
   },
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Höstpremiär för Sverige Live – i ny kostym",
+   "date": "2026-08-17T13:15:17.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/hostpremiar-for-sverige-live-i-ny-kostym",
+   "desc": "Måndag den 17 augusti är Sverige Live tillbaka. William Brynolfsson, som under våren varit sidekick i programmet, blir en av de fasta programledarna i höst tillsammans med Karin Frick. Nytt är också inslaget Fråga veterinären och att Fråga doktorn sänds på måndagar för att få ett mer sammanhållet program."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sundsvall och Timrå säger ja till att sälja Torsboda",
+   "date": "2026-08-17T12:45:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sundsvall-och-timra-sager-ja-till-att-salja-torsboda",
+   "desc": "Efter en dryg timmes debatterande röstade kommunfullmäktige i Sundsvall igenom förslaget att sälja Torsboda industriområde till Google. I Timrå tog det flera timmar längre tid att komma fram till samma beslut."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Chefen för cancervården anställde maken gång på gång",
+   "date": "2026-08-17T12:42:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/chefen-for-cancervarden-anstallde-maken-gang-pa-gang",
+   "desc": "SVT Nyheter Skåne kan nu avslöja att chefen för cancervården Silke Engelholm anställt sin make ytterligare fyra gånger. Trots att SVT tidigare begärt att få ta del av makens samtliga anställningsavtal, framkommer först nu fler kontrakt som hustrun signerat åt sin man."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Därför kan radhusbränder bli farliga: ”Sprider sig på vinden”",
    "date": "2026-08-17T12:04:46.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/darfor-kan-radhusbrander-bli-farliga-sprider-sig-pa-vinden",
@@ -58,36 +82,12 @@
    "desc": "En man i 50-årsåldern har gripits utanför Skellefteå, misstänkt för vapenbrott och skadegörelse. – Jag kan inte säga vad han misstänks ha skjutit mot. Men det finns ingen misstanke om att vapen ska ha använts mot någon annan person, säger åklagaren Viktoria Lundquist."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Storbritannien går mot rekordsommar i värme",
-   "date": "2026-08-17T11:25:29.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/storbritannien-gar-mot-rekordsommar-i-varme",
-   "desc": "Över 27 miljoner människor omfattas av bevattningsförbud i Storbritannien. Enligt brittiska meteorologer är årets värmeböljor på en ”exceptionell” nivå för landet. – Vi kan få allvarliga problem även nästa år, säger meteorologen Liz Bentley till BBC."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Svensk medborgare skjuten till döds i Syrien",
-   "date": "2026-08-17T11:21:27.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/svensk-medborgare-skjuten-i-syrien",
-   "desc": "En 46-årig svensk medborgare har skjutits till döds i staden Homs i västra Syrien."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Det här var det mest lyssnade ”Sommar”-programmet",
-   "date": "2026-08-17T10:29:59.000Z",
-   "link": "https://www.svt.se/kultur/det-har-var-det-mest-lyssnade-sommar-programmet",
-   "desc": "Den nyligen framlidne Rysslandsexperten Martin Kraghs ”Sommar”-program blev årets mest lyssnade podd. – Jag är så tacksam över att Martin Kragh orkade genomföra det här, säger Bibi Rödöö, programchef för ”Sommar”."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Lyktstolpe nerkörd – långa köer på Essingeleden",
    "date": "2026-08-17T12:03:59.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/lyktstolpe-nerkord-langa-koer-pa-essingeleden",
-   "desc": "En lastbil körde vid halv tvåtiden ner en lyktstolpe på E4/E20, strax före påfarten från Aspudden. Stolpen blockerar ett körfält, vilket har orsakat mycket begränsad framkomlighet på Essingeleden. –Trafiken beräknas att börja rulla igen klockan 15:00, säger Beisi Sundin, presskommunikatör, Trafikverket"
+   "desc": "En lastbil körde vid halv tvåtiden ner en lyktstolpe på E4/E20, strax före påfarten från Aspudden. Stolpen blockerar ett körfält, vilket har orsakat mycket begränsad framkomlighet på Essingeleden. –Trafiken beräknas att börja rulla igen klockan 15:00, säger Beisi Sundin, presskommunikatör, Trafikverket."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-08-17T13:20:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p4zbd3?at_medium=RSS&at_campaign=rss",
+   "desc": "Joe and Gaz cast their 2026-27 predictions and discuss United's pre-season."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-08-16T14:36:05.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p4vdlp?at_medium=RSS&at_campaign=rss",
    "desc": "Harry Maguire believes Marcus Rashford will improve United, following defeat to AC Milan."
@@ -144,14 +152,6 @@
    "date": "2026-08-13T18:07:02.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p4dpwk?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick on Marcus Rashford, Kobbie Mainoo and Man Utd's summer business."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-10T13:17:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p3q6bx?at_medium=RSS&at_campaign=rss",
-   "desc": "Gaz is joined by Jay Motty to discuss the summer window and Jose Mourinho's new comments."
   }
  ]
 }
