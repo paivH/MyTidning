@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T13:36:10.361Z",
+ "updated": "2026-08-17T14:22:58.610Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-   "date": "2026-08-17T12:27:11.000Z",
+   "date": "2026-08-17T13:58:38.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
    "desc": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
   },
@@ -44,42 +44,42 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Stopp för tågtrafiken via Kramfors – spårskador efter regnväder",
+   "date": "2026-08-17T14:08:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/stopp-for-tagtrafiken-via-kramfors-sparskador-efter-regnvader",
+   "desc": "Sedan 14-tiden står tågtrafiken som ska passera genom Kramfors still på grund av skador på banvallen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kvinna på sparkcykel påkörd i Eskilstuna",
+   "date": "2026-08-17T14:03:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/kvinna-pa-sparkcykel-pakord-i-eskilstuna",
+   "desc": "En kvinna blev under måndagseftermiddagen påkörd av en personbil i centrala Eskilstuna. Hon är förd till sjukhus med ambulans, men skadeläget är oklart."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt mord i Kiruna – skadad man förhörd",
+   "date": "2026-08-17T13:50:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/misstankt-mord-i-kiruna-skadad-man-forhord",
+   "desc": "Polisen uppger att man har en god bild av det som skedde under fredagskvällen då en man dog och en man skadades i ett bråk i Kiruna. Främst handlar det om vittnesuppgifter som hjälpt polisen i utredningen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Befarad båtolycka norr om Gnesta – helikopter och dykare kallades in",
+   "date": "2026-08-17T13:29:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/befarad-batolycka-norr-om-gnesta",
+   "desc": "Räddningstjänsten sökte under måndagseftermiddagen efter en eller flera personer efter en befarad båtolycka i sjön Klämmingen norr om Gnesta. Men efter ett par timmars sökarbete avslutades insatsen. – Allt eftersom att insatsen har pågått så är det mer och mer som tyder på att det inte har skett någon olycka här, säger Ludvig Tejler vid Södertörns brandförsvarsförbund."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Höstpremiär för Sverige Live – i ny kostym",
    "date": "2026-08-17T13:15:17.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/hostpremiar-for-sverige-live-i-ny-kostym",
    "desc": "Måndag den 17 augusti är Sverige Live tillbaka. William Brynolfsson, som under våren varit sidekick i programmet, blir en av de fasta programledarna i höst tillsammans med Karin Frick. Nytt är också inslaget Fråga veterinären och att Fråga doktorn sänds på måndagar för att få ett mer sammanhållet program."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sundsvall och Timrå säger ja till att sälja Torsboda",
-   "date": "2026-08-17T12:45:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sundsvall-och-timra-sager-ja-till-att-salja-torsboda",
-   "desc": "Efter en dryg timmes debatterande röstade kommunfullmäktige i Sundsvall igenom förslaget att sälja Torsboda industriområde till Google. I Timrå tog det flera timmar längre tid att komma fram till samma beslut."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Chefen för cancervården anställde maken gång på gång",
-   "date": "2026-08-17T12:42:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/chefen-for-cancervarden-anstallde-maken-gang-pa-gang",
-   "desc": "SVT Nyheter Skåne kan nu avslöja att chefen för cancervården Silke Engelholm anställt sin make ytterligare fyra gånger. Trots att SVT tidigare begärt att få ta del av makens samtliga anställningsavtal, framkommer först nu fler kontrakt som hustrun signerat åt sin man."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Därför kan radhusbränder bli farliga: ”Sprider sig på vinden”",
-   "date": "2026-08-17T12:04:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/darfor-kan-radhusbrander-bli-farliga-sprider-sig-pa-vinden",
-   "desc": "Radhus byggda på 1960- och 70-talet har sämre brandskydd än moderna radhus. Det gör att en brand snabbt kan sprida sig, som i Arboga i fredags. – Vindarna saknar brandceller i många fall, säger Daniel Fridström, brandingenjör."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man anhållen utanför Skellefteå – misstänks ha skjutit vapen",
-   "date": "2026-08-17T11:37:10.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-i-samhalle-utanfor-skelleftea-anhallen-skot-mot-andra",
-   "desc": "En man i 50-årsåldern har gripits utanför Skellefteå, misstänkt för vapenbrott och skadegörelse. – Jag kan inte säga vad han misstänks ha skjutit mot. Men det finns ingen misstanke om att vapen ska ha använts mot någon annan person, säger åklagaren Viktoria Lundquist."
   },
   {
    "src": "STHLM",
@@ -87,7 +87,7 @@
    "title": "Lyktstolpe nerkörd – långa köer på Essingeleden",
    "date": "2026-08-17T12:03:59.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/lyktstolpe-nerkord-langa-koer-pa-essingeleden",
-   "desc": "En lastbil körde vid halv tvåtiden ner en lyktstolpe på E4/E20, strax före påfarten från Aspudden. Stolpen blockerar ett körfält, vilket har orsakat mycket begränsad framkomlighet på Essingeleden. –Trafiken beräknas att börja rulla igen klockan 15:00, säger Beisi Sundin, presskommunikatör, Trafikverket."
+   "desc": "En lastbil körde vid halv tvåtiden ner en lyktstolpe på E4/E20, strax före påfarten från Aspudden. Stolpen blockerade körfält, vilket har orsakat mycket begränsad framkomlighet på Essingeleden under eftermiddagen. –Trafiken började rulla igen klockan 15:00, säger Beisi Sundin, presskommunikatör, Trafikverket."
   },
   {
    "src": "STHLM",
