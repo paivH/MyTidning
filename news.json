@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T15:21:09.432Z",
+ "updated": "2026-08-17T15:48:28.205Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Donald Trump sträcker ut handen till Kim Jong Un – kritiserar övning",
+   "date": "2026-08-17T15:31:53.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/donald-trump-stracker-ut-handen-till-kim-jong-un-kritiserar-ovning",
+   "desc": "USA:s president Donald Trump vill dra ner på militärövningar med Sydkorea och riktar ny kritik mot landet. Samtidigt vill han återuppta kontakten med Nordkoreas ledare Kim Jong-Un. Men varför vill USA vara kompis med Nordkorea istället för Sydkorea – och varför just nu?"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Valaffischer i Stockholm vandaliserade direkt – polisen rasar",
    "date": "2026-08-17T15:00:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/valaffischer-i-stockholm-vandaliserade-direkt-polisen-rasar",
@@ -72,14 +80,6 @@
    "date": "2026-08-17T14:03:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/kvinna-pa-sparkcykel-pakord-i-eskilstuna",
    "desc": "En kvinna blev under måndagseftermiddagen påkörd av en personbil i centrala Eskilstuna. Hon är förd till sjukhus med ambulans och var inte vid medvetande."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt mord i Kiruna – skadad man förhörd",
-   "date": "2026-08-17T13:50:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/misstankt-mord-i-kiruna-skadad-man-forhord",
-   "desc": "Polisen uppger att man har en god bild av det som skedde under fredagskvällen då en man dog och en man skadades i ett bråk i Kiruna. Främst handlar det om vittnesuppgifter som hjälpt polisen i utredningen."
   },
   {
    "src": "STHLM",
