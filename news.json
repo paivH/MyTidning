@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T10:27:27.711Z",
+ "updated": "2026-08-17T10:57:19.159Z",
  "items": [
   {
    "src": "BBC",
@@ -29,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-   "date": "2026-08-17T08:38:41.000Z",
+   "date": "2026-08-17T10:39:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
    "desc": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday."
   },
@@ -40,6 +40,14 @@
    "date": "2026-08-17T04:41:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
    "desc": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Det här var det mest lyssnade ”Sommar”-programmet",
+   "date": "2026-08-17T10:29:59.000Z",
+   "link": "https://www.svt.se/kultur/det-har-var-det-mest-lyssnade-sommar-programmet",
+   "desc": "Den nyligen framlidne Rysslandsexperten Martin Kraghs ”Sommar”-program blev årets mest lyssnade podd. – Jag är så tacksam över att Martin Kragh orkade genomföra det här, säger Bibi Rödöö, programchef för ”Sommar”."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-17T07:40:05.000Z",
    "link": "https://www.svt.se/sport/fotboll/derbyhjalten-linus-carlstrand-avslojar-dealen-har-tjatat-pa-honom",
    "desc": "AIK:s anfallare Linus Carlstrand gav lagkamraten Adrian Helm ett saftigt erbjudande. Bjud på en assist – och du får någonting i gengäld. – Nu blir det så, säger tvåmålsskytten efter derbysegern mot Djurgården."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Grov brottslighet hos flera svenska nämndemän",
-   "date": "2026-08-17T07:38:42.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/grov-brottslighet-hos-flera-svenska-namndeman",
-   "desc": "43 politiskt tillsatta nämndemän begick brott samtidigt som de dömde andra i domstol, enligt en granskning från SR:s Kaliber. Bland brotten finns våldtäkt, barnpornografibrott och rattfylleri. Två politiska partier sticker ut i statistiken."
   },
   {
    "src": "STHLM",
