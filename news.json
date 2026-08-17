@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T06:45:51.113Z",
+ "updated": "2026-08-17T07:49:16.306Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Ukrainian strikes kill six in Russia, acting governor says",
-   "date": "2026-08-17T05:38:13.000Z",
+   "date": "2026-08-17T07:41:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
    "desc": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
   },
@@ -44,10 +44,34 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Trasig buss blockerar uppfarten till Centralbron",
+   "title": "Derbyhjälten Linus Carlstrand avslöjar dealen: ”Har tjatat på honom”",
+   "date": "2026-08-17T07:40:05.000Z",
+   "link": "https://www.svt.se/sport/fotboll/derbyhjalten-linus-carlstrand-avslojar-dealen-har-tjatat-pa-honom",
+   "desc": "AIK:s anfallare Linus Carlstrand gav lagkamraten Adrian Helm ett saftigt erbjudande. Bjud på en assist – och du får någonting i gengäld. – Nu blir det så, säger tvåmålsskytten efter derbysegern mot Djurgården."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Grov brottslighet hos flera svenska nämndemän",
+   "date": "2026-08-17T07:38:42.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/grov-brottslighet-hos-flera-svenska-namndeman",
+   "desc": "43 politiskt tillsatta nämndemän begick brott samtidigt som de dömde andra i domstol, enligt en granskning från SR:s Kaliber. Bland brotten finns våldtäkt, barnpornografibrott och rattfylleri. Två politiska partier sticker ut i statistiken."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Gul varning för skyfallsliknande regn på Gotland",
+   "date": "2026-08-17T07:23:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/gul-varning-for-skyfallsliknande-regn-pa-gotland",
+   "desc": "Enligt prognosen kan 30-35 mm regn komma under eftermiddagen. Av den anledningen har SMHI utfärdat en gul varning."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Trafiken rullar igen efter bussolycka vid Centralbron",
    "date": "2026-08-17T06:42:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/trasig-buss-blockerar-uppfarten-till-cenrtralbron",
-   "desc": "En trasig buss blockerar uppfarten från Stadsgårdsleden till Centralbron, vilket har stor påverkan på trafiken under måndagsmorgonen."
+   "desc": "En trasig buss blockerade uppfarten från Stadsgårdsleden till Centralbron under måndagsmorgonen. Strax före klockan nio rullade trafiken igen."
   },
   {
    "src": "SVT",
@@ -58,28 +82,12 @@
    "desc": "USA fortsätter att sätta in sina militära resurser mot Iran, vilket märks i Ukraina. Ukraina har svårare att försvara sig mot Rysslands ballistiska robotar, vilket har lett till att antalet döda civila i Ukraina toppade med 437 civila i juli. – Ryssland utnyttjar ett läge där Ukraina inte riktigt kan försvara sig som förr, säger SVT:s Ukrainakorrespondent Bengt Norborg på plats i Kiev."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kraftig brand i Eksjö i natt – sommarstuga har brunnit ned",
-   "date": "2026-08-17T04:27:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kraftig-brand-i-eksjo-i-natt-villa-har-brunnit-ned",
-   "desc": "En kraftig brand inträffade i en sommarstuga i Eksjö under natten. Huset har brunnit ned och räddningstjänsten kyler fortfarande platsen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "”Vem var det som kasta?” blir kortfilm – 23 år efter det virala klippet",
-   "date": "2026-08-17T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/skogsturken-blir-kortfilm-23-ar-efter-klassiska-klippet",
-   "desc": "Det klassiska Youtube-klippet ”Vem var det som kasta? (Skogsturken)” utspelades 2003 på Djäkneberget i Västerås – nu blir historien kortfilm. – Jag kände att vi saknade en väldigt ärlig tolkning av att vara ung, säger filmens regissör Edvin Åhrström."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så löser Djurgårdsskolan i Eskilstuna nya mobilförbudet",
-   "date": "2026-08-17T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-loser-djurgardsskolan-i-eskilstuna-nya-mobilforbudet",
-   "desc": "Skolstart med nya mobilförbudet – se Eskilstunaskolans lösning"
+   "title": "Trafiken rullar igen efter bussolycka vid Centralbron",
+   "date": "2026-08-17T06:42:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trasig-buss-blockerar-uppfarten-till-cenrtralbron",
+   "desc": "En trasig buss blockerade uppfarten från Stadsgårdsleden till Centralbron under måndagsmorgonen. Strax före klockan nio rullade trafiken igen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-16T14:08:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
    "desc": "Det pågick en stor polisinsats på Ljusterö i Stockholms skärgård. En person är gripen. – Det är en åtgärd i en utredning som man gör för ett brott som har skett tidigare, säger Per Fahlström på Stockholmspolisen till SVT."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Valrörelsens första slag: Kampen om Sergels torg",
-   "date": "2026-08-16T13:13:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/valrorelsens-forsta-slag-kampen-om-sergels-torg",
-   "desc": "De politiska ungdomsförbunden stod laddade för att säkra de bästa platserna för partiernas valaffischer på söndagen. Flera av dem hade varit på plats sedan lördagskvällen. – Den som vinner Plattan vinner valet, säger Lisa Diaz (S), tidigare distriktsordförande SSU."
   },
   {
    "src": "BBC",
