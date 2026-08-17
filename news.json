@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-17T02:39:10.947Z",
+ "updated": "2026-08-17T03:45:50.934Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-   "date": "2026-08-17T00:06:05.000Z",
+   "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+   "date": "2026-08-17T02:51:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
    "desc": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
   },
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "”Vem var det som kasta?” blir kortfilm – 23 år efter det virala klippet",
+   "date": "2026-08-17T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/skogsturken-blir-kortfilm-23-ar-efter-klassiska-klippet",
+   "desc": "Det klassiska Youtube-klippet ”Vem var det som kasta? (Skogsturken)” utspelades 2003 på Djäkneberget i Västerås – nu blir historien kortfilm. – Jag kände att vi saknade en väldigt ärlig tolkning av att vara ung, säger filmens regissör Edvin Åhrström."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så löser Djurgårdsskolan i Eskilstuna nya mobilförbudet",
+   "date": "2026-08-17T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-loser-djurgardsskolan-i-eskilstuna-nya-mobilforbudet",
+   "desc": "Skolstart med nya mobilförbudet – se Eskilstunaskolans lösning"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Två döda i bränderna i Grekland",
    "date": "2026-08-17T00:53:21.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/tva-doda-i-branderna-i-grekland",
@@ -66,20 +82,12 @@
    "desc": "Samtidigt som dagens AI-modeller brottas med tendenser att vara för inställsamma och självsäkra, växer ett intresse i branschen för filosofiska frågor. Åsa Wikforss, professor i teoretisk filosofi, ser att fler filosofer numera rekryteras för att bland annat hjälpa AI-modellerna att resonera bättre med hjälp av filosofi. – Filosofer anställs nu med en lön som de aldrig skulle fått på ett universitet, säger hon."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Så kan El Niño påverka din kycklingmiddag",
-   "date": "2026-08-16T17:13:34.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/sa-kan-el-nino-paverka-din-kycklingmiddag",
-   "desc": "Världen står inför en ovanligt kraftig El Niño – vissa talar till och med om en super-El Niño. Fenomenet kan påverka vädret över stora delar av världen – och i förlängningen det som hamnar på din tallrik."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt mord i Uppsala – person frihetsberövad",
-   "date": "2026-08-16T15:22:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-mord-i-uppsala-person-frihetsberovad",
-   "desc": "Polisen utreder ett misstänkt mord i Uppsala. En person är frihetsberövad, säger polisen till TT."
+   "title": "Trots livsmedelsverkets avrådan – SD vill ha kött varje dag i skolan",
+   "date": "2026-08-17T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trots-livsmedelsverkets-avradan-sd-vill-ha-kott-varje-dag-i-skolan",
+   "desc": "Sverigedemokraterna går till val på att skolelever ska serveras kött varje dag. Det trots att Livsmedelsverket ger andra rekommendationer. – Det är bättre att eleverna äter än att de inte äter, säger Andreas Birgersson, gruppledare för SD i Södertälje. Han öppnar även för att slopa ekologiska krav för att finansiera köttkostnaderna."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-16T13:13:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/valrorelsens-forsta-slag-kampen-om-sergels-torg",
    "desc": "De politiska ungdomsförbunden stod laddade för att säkra de bästa platserna för partiernas valaffischer på söndagen. Flera av dem hade varit på plats sedan lördagskvällen. – Den som vinner Plattan vinner valet, säger Lisa Diaz (S), tidigare distriktsordförande SSU."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Forskningsfartyg på grund utanför Möja",
-   "date": "2026-08-16T10:09:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forskningsfartyg-pa-grund-utanfor-moja",
-   "desc": "Ett forskningsfartyg har gått på grund utanför Möja i Stockholms skärgård under natten till söndagen. Strax efter lunchtid lyckades man dra loss fartyget."
   },
   {
    "src": "BBC",
