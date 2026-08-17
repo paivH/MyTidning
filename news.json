@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-17T15:48:28.205Z",
+ "updated": "2026-08-17T16:22:03.806Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+   "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
    "date": "2026-08-17T14:59:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-   "desc": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies."
+   "desc": "The US and Oman have separately been negotiating to reopen the Strait of Hormuz, a waterway that has been closed during the US war with Iran."
   },
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Här lägger åklagaren fram nya dna-bevisningen från Brattås i rätten",
+   "date": "2026-08-17T16:14:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/har-lagger-aklagaren-fram-nya-dna-bevisningen-fran-brattas-i-ratten",
+   "desc": "Inte bara ett, utan två dna-spår knyter den misstänkte mannen till brottsplatsen och ett av mordoffren i dubbelmordet i Brattås 2005. Det står klart efter att åklagaren lagt fram ny bevisning under inledningen av rättegången mot mannen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Donald Trump sträcker ut handen till Kim Jong Un – kritiserar övning",
    "date": "2026-08-17T15:31:53.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/donald-trump-stracker-ut-handen-till-kim-jong-un-kritiserar-ovning",
@@ -72,14 +80,6 @@
    "date": "2026-08-17T14:08:52.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/stopp-for-tagtrafiken-via-kramfors-sparskador-efter-regnvader",
    "desc": "Sedan 14-tiden står tågtrafiken som ska passera genom Kramfors still på grund av skador på banvallen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinna på sparkcykel påkörd i Eskilstuna",
-   "date": "2026-08-17T14:03:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/kvinna-pa-sparkcykel-pakord-i-eskilstuna",
-   "desc": "En kvinna blev under måndagseftermiddagen påkörd av en personbil i centrala Eskilstuna. Hon är förd till sjukhus med ambulans och var inte vid medvetande."
   },
   {
    "src": "STHLM",
