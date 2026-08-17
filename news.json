@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T11:28:02.823Z",
+ "updated": "2026-08-17T11:51:10.902Z",
  "items": [
   {
    "src": "BBC",
@@ -44,7 +44,23 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Svensk medborgare skjuten i Syrien",
+   "title": "Man anhållen utanför Skellefteå – misstänks ha skjutit vapen",
+   "date": "2026-08-17T11:37:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-i-samhalle-utanfor-skelleftea-anhallen-skot-mot-andra",
+   "desc": "En man i 50-årsåldern har gripits utanför Skellefteå, misstänkt för vapenbrott och skadegörelse. – Jag kan inte säga vad han misstänks ha skjutit mot. Men det finns ingen misstanke om att vapen ska ha använts mot någon annan person, säger åklagaren Viktoria Lundquist."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Storbritannien går mot rekordsommar i värme",
+   "date": "2026-08-17T11:25:29.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/storbritannien-gar-mot-rekordsommar-i-varme",
+   "desc": "Över 27 miljoner människor omfattas av bevattningsförbud i Storbritannien. Enligt brittiska meteorologer är årets värmeböljor på en ”exceptionell” nivå för landet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Svensk medborgare skjuten till döds i Syrien",
    "date": "2026-08-17T11:21:27.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/svensk-medborgare-skjuten-i-syrien",
    "desc": "En 46-årig svensk medborgare har skjutits till döds i staden Homs i västra Syrien."
@@ -64,22 +80,6 @@
    "date": "2026-08-17T09:41:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/larare-och-smabarnsforalder-atalas-for-barnpornografibrott-lattare-att-identifiera-vanliga-personer",
    "desc": "Mannen i Växjö kommun åtalas för flera fall av barnpornografibrott. Han kunde identifieras tack vare polisens samarbete med den amerikanska barnrättsorganisationen NCMEC. – Det är den här typen av vanliga personer som vi annars aldrig hade kunnat identifiera, säger polisen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Allt fler söker för kraftig allergisk reaktion efter geting- och bistick",
-   "date": "2026-08-17T09:39:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/allt-fler-soker-for-kraftig-allergisk-reaktion-efter-geting-och-bistick",
-   "desc": "Under sensommaren är getingar som mest aktiva och kanske har du otur att bli stucken. Men vem är mest känslig och vad ska du tänka på. Hör överläkaren Leia Siouta berätta i klippet ovan."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Se dramat på bussen – passagerarna tar över när chauffören svimmar",
-   "date": "2026-08-17T09:02:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/se-dramat-pa-bussen-passagerarna-tar-over-nar-chaufforen-svimmar",
-   "desc": "När busschauffören plötsligt tappade medvetandet klev två av resenärerna fram och tog över ratten. I klippet ser du den dramatiska resan som slutade i mitträcket på riksväg 40 utanför Bottnaryd."
   },
   {
    "src": "STHLM",
