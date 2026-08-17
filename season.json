@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-16T04:06:31.311Z",
+ "updated": "2026-08-17T04:09:44.829Z",
  "items": [
   {
-   "ingredient": "majs",
-   "idea": "Grilla majskolvar, skär av kornen och woka snabbt med chili och lime till vardagsmiddag."
-  },
-  {
-   "ingredient": "kantareller",
-   "idea": "Stek kantareller hastigt i smör, toppa hembakat surdegsbröd med persilja och flingsalt."
-  },
-  {
-   "ingredient": "plommon",
-   "idea": "Fermentera plommon med 2% salt i fem dagar, servera till ost eller grillat kött."
+   "ingredient": "squash",
+   "idea": "Snabbinlägg squash i skivor: 2 dl ättika 12%, 2 dl vatten, 2 dl socker, dra 30 min."
   },
   {
    "ingredient": "kålrot",
-   "idea": "Snabbpickla kålrot i lag 1:1:1 ättika, socker, vatten med senapsfrön, klart inom en timme."
+   "idea": "Fermentera strimlad kålrot i 2% saltlag, låt stå 5-7 dagar i rumstemperatur för syra."
+  },
+  {
+   "ingredient": "majs",
+   "idea": "Baka majsbröd med färska majskorn i smeten, grädda 20 min i 200°C ugn."
+  },
+  {
+   "ingredient": "kantareller",
+   "idea": "Snabbstek kantareller i smör med vitlök, servera på rostat surdegsbröd, klart på 10 min."
   }
  ]
 }
