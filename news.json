@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T19:50:30.097Z",
+ "updated": "2026-08-17T20:21:31.654Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Isak Bjerkebo har nobbat bud: ”Var väldigt tydlig”",
+   "date": "2026-08-17T20:06:23.000Z",
+   "link": "https://www.svt.se/sport/fotboll/isak-bjerkebo-har-nobbat-bud-var-valdigt-tydlig",
+   "desc": "Succé med serieledaren Sirius. Intresset för Isak Bjerkebo, 23, är stort – och ett bud har nått stjärnan. – Det var ingenting som passade mig, säger han i SVT:s Fotbollsstudion."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "En person skjuten i Ronna – en gripen",
+   "date": "2026-08-17T17:53:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisinsats-vid-skola-i-sodertalje",
+   "desc": "En person har hittats med skottskador i Ronna i Södertälje. En misstänkt gärningsperson har gripits."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Kung Harald av Norge är inlagd på sjukhus",
    "date": "2026-08-17T16:58:23.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/kung-harald-av-norge-ar-inlagd-pa-sjukhus",
@@ -66,22 +82,6 @@
    "desc": "Inte bara ett, utan två dna-spår knyter den misstänkte mannen till brottsplatsen och ett av mordoffren i dubbelmordet i Brattås 2005. Det står klart efter att åklagaren lagt fram ny bevisning under inledningen av rättegången mot mannen."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Donald Trump sträcker ut handen till Kim Jong Un – kritiserar övning",
-   "date": "2026-08-17T15:31:53.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/donald-trump-stracker-ut-handen-till-kim-jong-un-kritiserar-ovning",
-   "desc": "USA:s president Donald Trump vill dra ner på militärövningar med Sydkorea och riktar ny kritik mot landet. Samtidigt vill han återuppta kontakten med Nordkoreas ledare Kim Jong-Un. Men varför vill USA vara kompis med Nordkorea istället för Sydkorea – och varför just nu?"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Råvarubrist – LKAB börjar köra malm längs ”Dödens väg”",
-   "date": "2026-08-17T15:04:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/ravarubrist-lkab-borjar-kora-malm-langs-dodens-vag",
-   "desc": "LKAB har ”kritisk råvarubrist” i Kirunagruvan. För att komma till bukt med problemet har de fått klartecken att frakta malm från den vilande gruvan i Mertainen på ”Dödens väg”. – Det ska ske med största trafiksäkerhet, säger Niklas Johansson vid LKAB."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 17 augusti",
@@ -92,10 +92,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Polisinsats i Ronna – misstänkt grovt brott",
+   "title": "En person skjuten i Ronna – en gripen",
    "date": "2026-08-17T17:53:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisinsats-vid-skola-i-sodertalje",
-   "desc": "Polisen har en pågående insats vid en skola i Södertälje efter larm om höga smällar i stadsdelen Ronna."
+   "desc": "En person har hittats med skottskador i Ronna i Södertälje. En misstänkt gärningsperson har gripits."
   },
   {
    "src": "STHLM",
