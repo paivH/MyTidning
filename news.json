@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T17:54:36.426Z",
+ "updated": "2026-08-17T18:32:35.238Z",
  "items": [
   {
    "src": "BBC",
@@ -20,14 +20,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-   "date": "2026-08-17T06:24:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Russia's prominent anti-war politician jailed for 11 years",
    "date": "2026-08-17T16:17:34.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
@@ -36,10 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US hiker dies after being struck by lightning on Mount Etna",
-   "date": "2026-08-17T12:23:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
-   "desc": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report."
+   "title": "French PM heckled over wildfire response as blazes continue across Europe",
+   "date": "2026-08-17T18:00:55.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+   "desc": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+   "date": "2026-08-17T18:03:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction."
   },
   {
    "src": "SVT",
@@ -84,6 +84,22 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 17 augusti",
+   "date": "2026-08-17T18:11:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-17-augusti-3l9c7l",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 17 augusti."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Polisinsats i Ronna – misstänkt grovt brott",
+   "date": "2026-08-17T17:53:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisinsats-vid-skola-i-sodertalje",
+   "desc": "Polisen har inlett en insats i Ronna efter larm om höga smällar vid en skola i Södertälje."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Valaffischer i Stockholm vandaliserade direkt – polisen rasar",
    "date": "2026-08-17T15:00:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/valaffischer-i-stockholm-vandaliserade-direkt-polisen-rasar",
@@ -104,22 +120,6 @@
    "date": "2026-08-17T06:42:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/trasig-buss-blockerar-uppfarten-till-cenrtralbron",
    "desc": "En trasig buss blockerade uppfarten från Stadsgårdsleden till Centralbron under måndagsmorgonen. Strax före klockan nio rullade trafiken igen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Trots livsmedelsverkets avrådan – SD vill ha kött varje dag i skolan",
-   "date": "2026-08-17T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trots-livsmedelsverkets-avradan-sd-vill-ha-kott-varje-dag-i-skolan",
-   "desc": "Sverigedemokraterna går till val på att skolelever ska serveras kött varje dag. Det trots att Livsmedelsverket ger andra rekommendationer. – Det är bättre att eleverna äter än att de inte äter, säger Andreas Birgersson, gruppledare för SD i Södertälje. Han öppnar även för att slopa ekologiska krav för att finansiera köttkostnaderna."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 16 augusti",
-   "date": "2026-08-16T17:49:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-16-augusti-yc24og",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 16 augusti."
   },
   {
    "src": "BBC",
