@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-17T14:53:06.217Z",
+ "updated": "2026-08-17T15:21:09.432Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-   "date": "2026-08-17T14:36:44.000Z",
+   "date": "2026-08-17T14:59:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
    "desc": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies."
   },
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Valaffischer i Stockholm vandaliserade direkt – polisen rasar",
+   "date": "2026-08-17T15:00:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/valaffischer-i-stockholm-vandaliserade-direkt-polisen-rasar",
+   "desc": "Valaffischeringen är igång och så är även den årliga vandaliseringen av de partipolitiska planscherna. Ett skadegörelsebrott som kan klaras upp i högre grad i och med den ökade kameraövervakningen. – Det döms som angrepp mot demokratin, säger polisinspektören Viktor Adolphson och hänvisar till ett fall från förra valrörelsen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Mc-förare förd till sjukhus efter olycka",
    "date": "2026-08-17T14:20:51.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/blekinge/mc-forare-ford-till-sjukhus-efter-olycka-vk1is8",
@@ -74,12 +82,12 @@
    "desc": "Polisen uppger att man har en god bild av det som skedde under fredagskvällen då en man dog och en man skadades i ett bråk i Kiruna. Främst handlar det om vittnesuppgifter som hjälpt polisen i utredningen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Befarad båtolycka norr om Gnesta – helikopter och dykare kallades in",
-   "date": "2026-08-17T13:29:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/befarad-batolycka-norr-om-gnesta",
-   "desc": "Räddningstjänsten sökte under måndagseftermiddagen efter en eller flera personer efter en befarad båtolycka i sjön Klämmingen norr om Gnesta. Men efter ett par timmars sökarbete avslutades insatsen. – Allt eftersom att insatsen har pågått så är det mer och mer som tyder på att det inte har skett någon olycka här, säger Ludvig Tejler vid Södertörns brandförsvarsförbund."
+   "title": "Valaffischer i Stockholm vandaliserade direkt – polisen rasar",
+   "date": "2026-08-17T15:00:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/valaffischer-i-stockholm-vandaliserade-direkt-polisen-rasar",
+   "desc": "Valaffischeringen är igång och så är även den årliga vandaliseringen av de partipolitiska planscherna. Ett skadegörelsebrott som kan klaras upp i högre grad i och med den ökade kameraövervakningen. – Det döms som angrepp mot demokratin, säger polisinspektören Viktor Adolphson och hänvisar till ett fall från förra valrörelsen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-16T17:49:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-16-augusti-yc24og",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 16 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Färjeolycka i centrala Stockholm – två till sjukhus",
-   "date": "2026-08-16T14:53:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
-   "desc": "Två personer fick föras till sjukhus med lindriga skador i färjeolyckan vid nöjesfältet Gröna Lund i centrala Stockholm. 14-åriga Dino Muka befann sig ombord på Djurgårdsfärjan när den kraschade in i bryggan. – Rätt många föll framåt och det hördes skrik, berättar han."
   },
   {
    "src": "BBC",
