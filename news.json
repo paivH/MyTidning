@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T15:56:27.096Z",
+ "updated": "2026-08-18T16:30:09.479Z",
  "items": [
   {
    "src": "BBC",
@@ -28,23 +28,23 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-   "date": "2026-08-18T08:07:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-   "desc": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
    "date": "2026-08-18T08:44:10.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
    "desc": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
   },
   {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+   "date": "2026-08-18T12:04:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+   "desc": "Recovery efforts continue in what is the country's deadliest transport disaster."
+  },
+  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "SD-kampanjen på Stockholms central förbjöds – partiet kritiskt",
+   "title": "SD-affischer förbjöds på Stockholms central – partiet kritiskt",
    "date": "2026-08-18T15:24:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-kampanjen-pa-stockholms-central-forbjods-partiet-kritisk",
    "desc": "Tusentals resenärer möts nu av Sverigedemokraternas omfattande valkampanj på Stockholms centralstation. Men en del av kampanjen har tagits ner på beslut av fastighetsägaren Jernhusen, som tycker att budskapet kunde uppfattas som missvisande."
@@ -84,7 +84,7 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "SD-kampanjen på Stockholms central förbjöds – partiet kritiskt",
+   "title": "SD-affischer förbjöds på Stockholms central – partiet kritiskt",
    "date": "2026-08-18T15:24:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-kampanjen-pa-stockholms-central-forbjods-partiet-kritisk",
    "desc": "Tusentals resenärer möts nu av Sverigedemokraternas omfattande valkampanj på Stockholms centralstation. Men en del av kampanjen har tagits ner på beslut av fastighetsägaren Jernhusen, som tycker att budskapet kunde uppfattas som missvisande."
