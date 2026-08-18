@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-17T04:31:22.272Z",
+ "updated": "2026-08-18T04:25:18.289Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen lösvikt",
-   "price": "24 kr/kg",
+   "item": "Svenska plommon i lösvikt",
+   "price": "34 kr/kg",
    "url": "https://www.ica.se"
   },
   {
@@ -16,26 +16,26 @@
   },
   {
    "store": "Lidl",
-   "item": "Grillkol 3kg",
-   "price": "39 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Färsk lax fillet 400g",
+   "item": "Färska räkor 400g",
    "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
+   "store": "Lidl",
+   "item": "Äpplen Ingrid Marie 2kg",
+   "price": "25 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
-   "price": "59 kr",
+   "item": "Köttbullar 500g (frys)",
+   "price": "39 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Skolryggsäck",
-   "price": "149 kr",
+   "item": "Utegrill kompakt",
+   "price": "249 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
