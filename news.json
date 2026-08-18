@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T18:32:27.823Z",
+ "updated": "2026-08-18T19:24:14.560Z",
  "items": [
   {
    "src": "BBC",
@@ -15,7 +15,7 @@
    "title": "Earthquake rocks Spain's historic Granada, injuring three",
    "date": "2026-08-18T17:15:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-   "desc": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has closed temporarily."
+   "desc": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed."
   },
   {
    "src": "BBC",
@@ -28,7 +28,7 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US mother begged for help before her children's killings, mother-in-law testifies",
+   "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
    "date": "2026-08-18T17:54:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
    "desc": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
@@ -40,6 +40,14 @@
    "date": "2026-08-18T12:04:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
    "desc": "Recovery efforts continue in what is the country's deadliest transport disaster."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Västtrafik tar ner valreklam från SD i Skaraborg",
+   "date": "2026-08-18T18:58:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/vasttrafik-tar-ner-valreklam-fran-sd-i-skaraborg",
+   "desc": "Västtrafik väljer att ta ner valreklam från SD på bussar i Skaraborg efter att busschaufförer sjukskrivit sig i protest."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-18T14:43:16.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hv-backen-borta-flera-manader",
    "desc": "Skadan på HV-backen Niklas Hansson är värre än man först trodde. Hansson kan bli borta upp mot ett halvår, och laget tvingas nu leta en ersättare."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Igelkottsveckan över – här finns flest kottar i landet",
-   "date": "2026-08-18T14:41:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/igelkottsveckan-over-har-finns-flest-kottar-i-landet",
-   "desc": "Igelkotten är rödlistad i Sverige och klassas som sårbar. För tredje året i rad arrangerade Världsnaturfonden WWF därför ”igelkottsveckan” – där människor över hela landet uppmanades att rapportera om de sett, eller inte sett, en igelkott."
   },
   {
    "src": "STHLM",
