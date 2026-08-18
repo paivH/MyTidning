@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T10:35:05.372Z",
+ "updated": "2026-08-18T11:21:08.339Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Frida Karlssons stalker åtalas igen",
+   "date": "2026-08-18T10:24:39.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/frida-karlssons-stalker-atalas-igen",
+   "desc": "Den man som tidigare har dömts för att ha stalkat längdskidåkaren Frida Karlsson åtalas igen, rapporterar Siren. Enligt nyhetsbyrån har han brutit mot kontaktförbudet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Veterinärens tips vid ormbett: ”Behåll lugnet”",
    "date": "2026-08-18T09:49:23.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/veterinarens-tips-vid-ormbett-behall-lugnet",
@@ -72,14 +80,6 @@
    "date": "2026-08-18T08:27:28.000Z",
    "link": "https://www.svt.se/sport/simning/efter-succecomebacken-sarah-sjostrom-aktuell-for-traning-med-varldsrekordstjarnorna",
    "desc": "Sarah Sjöström har gjort en succéartad comeback under året. Nu är hon aktuell för träning i USA med världsstjärnorna Gretchen Walsh och Kate Douglass. – Vi kommer att kolla på när det passar, säger hennes tränare Antonio Lutula till Sveriges Radio."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Får betala 1 000 kronor i böter för nattlig bilmusik",
-   "date": "2026-08-18T06:10:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/far-betala-1-000-kronor-i-boter-for-nattlig-bilmusik",
-   "desc": "En man i 25-årsåldern döms till 1 000 kronor i penningböter efter att ha spelat hög musik från en bil på natten."
   },
   {
    "src": "STHLM",
