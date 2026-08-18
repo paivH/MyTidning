@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T21:19:52.198Z",
+ "updated": "2026-08-18T21:46:33.390Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Ukrainas avsatte försvarsminister kräver val – trots kriget",
+   "date": "2026-08-18T21:40:22.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ukrainas-avsatte-forsvarsminister-kraver-val-trots-kriget",
+   "desc": "Ukrainas nyligen avsatte försvarsminister Mychajlo Fedorov kräver på tisdagskvällen att landet ska hålla val trots det pågående kriget. – Vi kan inte låta Putin bestämma när ukrainarna kan välja sin egen regering, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Professorn: Hela landet lever inte i dag – än mindre i framtiden",
    "date": "2026-08-18T20:41:51.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/professorn-hela-landet-lever-inte-i-dag-an-mindre-i-framtiden",
@@ -72,14 +80,6 @@
    "date": "2026-08-18T15:24:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-kampanjen-pa-stockholms-central-forbjods-partiet-kritisk",
    "desc": "Tusentals resenärer möts nu av Sverigedemokraternas omfattande valkampanj på Stockholms centralstation. Men en del av kampanjen har tagits ner på beslut av fastighetsägaren Jernhusen, som tycker att budskapet kunde uppfattas som missvisande."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Körskolelärare tafsade på elever – åtalas",
-   "date": "2026-08-18T14:51:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/korskolelarare-tafsade-pa-elever-atalas",
-   "desc": "En körskolelärare på en trafikskola i Södertälje åtalas för att upprepade gånger ha sexuellt ofredat kvinnliga elever. En av kvinnorna var minderårig."
   },
   {
    "src": "STHLM",
