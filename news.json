@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T16:30:09.479Z",
+ "updated": "2026-08-18T16:59:52.158Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Tidsfristen för Irankriget har passerat – vad händer nu?",
+   "date": "2026-08-18T16:44:15.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tidsfristen-for-irankriget-har-passerat-vad-hander-nu",
+   "desc": "Enligt planen från den 17 juni skulle krigets knäckfrågor redas ut inom 60 dagar. Den fristen löpte ut igår. Ställ dina frågor till SVT:s Mellanösternkorrespondent Gilda Hamidi-Nia och Mellanösternkommentator Samir Abu Eid om utvecklingen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "SD-affischer förbjöds på Stockholms central – partiet kritiskt",
    "date": "2026-08-18T15:24:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-kampanjen-pa-stockholms-central-forbjods-partiet-kritisk",
@@ -72,14 +80,6 @@
    "date": "2026-08-18T14:41:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/igelkottsveckan-over-har-finns-flest-kottar-i-landet",
    "desc": "Igelkotten är rödlistad i Sverige och klassas som sårbar. För tredje året i rad arrangerade Världsnaturfonden WWF därför ”igelkottsveckan” – där människor över hela landet uppmanades att rapportera om de sett, eller inte sett, en igelkott."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Rättegången avslutad i 764-fallet – åklagaren yrkar på 12 års fängelse",
-   "date": "2026-08-18T14:29:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/rattegangen-avslutad-i-764-fallet-aklagaren-yrkar-pa-12-ars-fangelse",
-   "desc": "Under tisdagen avslutades rättegången i 764-fallet. Åklagaren yrkar på 12 års fängelse för den 18-årige mannen från Umeå som åtalats för flera grova brott."
   },
   {
    "src": "STHLM",
