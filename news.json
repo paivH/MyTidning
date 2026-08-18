@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T08:31:41.851Z",
+ "updated": "2026-08-18T09:28:18.316Z",
  "items": [
   {
    "src": "BBC",
@@ -12,8 +12,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
-   "date": "2026-08-18T06:40:00.000Z",
+   "title": "Russia warns UK will pay for supplying drones to Ukraine",
+   "date": "2026-08-18T09:11:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
    "desc": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
   },
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "SD vill inrätta moderna mentalsjukhus",
+   "date": "2026-08-18T09:20:39.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sd-vill-inratta-moderna-mentalsjukhus",
+   "desc": "Sverigedemokraterna vill införa ”ett slags modern version” av den gamla tidens mentalsjukhus, i form av statliga psykiatrihem. – Det ska vara en plats för en utsatt patientgrupp som i dag hamnar i kläm, säger gruppledare Linda Lindberg (SD)."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "14-årig flicka kördes ihjäl i Malmö – man döms till rättspsykiatrisk vård",
+   "date": "2026-08-18T09:03:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/14-arig-flicka-kordes-ihjal-man-doms-till-rattspsykiatrisk-vard",
+   "desc": "Det var i slutet på maj som olyckan skedde. En 14-årig flicka blev påkörd vid ett övergångsställe på Södervärn i Malmö och avled av sina skador. Nu döms mannen till rättspsykiatrisk vård."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Efter succécomebacken – Sarah Sjöström aktuell för träning med världsrekordstjärnorna",
    "date": "2026-08-18T08:27:28.000Z",
    "link": "https://www.svt.se/sport/simning/efter-succecomebacken-sarah-sjostrom-aktuell-for-traning-med-varldsrekordstjarnorna",
@@ -64,22 +80,6 @@
    "date": "2026-08-18T05:58:35.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/sbab-spar-tva-rantehojningar-redan-i-ar",
    "desc": "En kännbar räntesmäll hotar att gröpa ur plånboken det kommande året. Generösa vallöften tillsammans med effekterna av Irankriget kan tvinga Riksbanken att strama åt. Statliga SBAB tror nu på två räntehöjningar redan i år."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hör mexikanska målvrålet – från allsvenskan: ”Goooool!”",
-   "date": "2026-08-18T05:35:02.000Z",
-   "link": "https://www.svt.se/sport/fotboll/hor-mexikanska-malvralet-fran-derbykanonen-goooool",
-   "desc": "Mexikanska målvrål från de allsvenska fullträffarna får ofta stor uppmärksamhet hos fansen. Inte minst det senaste – i samband med Stockholmsderbyt. – Det är min stil, säger Giancarlo Garcia, kommentator på Azteca Deportes Network, i SVT:s Fotbollsstudion."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Endast ett under ser ut att kunna rädda Kristersson",
-   "date": "2026-08-18T03:47:31.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/endast-ett-under-ser-ut-att-kunna-radda-kristersson",
-   "desc": "Tidöpartierna visar inga tecken på återhämtning i opinionen. SVT/Verians väljarbarometer ger Ulf Kristersson ett mardrömsläge inför valspurten."
   },
   {
    "src": "STHLM",
