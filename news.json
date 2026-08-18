@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T20:18:31.848Z",
+ "updated": "2026-08-18T20:48:24.244Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Professorn: Hela landet lever inte i dag – än mindre i framtiden",
+   "date": "2026-08-18T20:41:51.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/professorn-hela-landet-lever-inte-i-dag-an-mindre-i-framtiden",
+   "desc": "Känslan av bortglömdhet som återkommer i SVT:s intervjuer från glesbygden i norra Värmland förvånar inte Charlotta Mellander, professor i nationalekonomi vid Internationella handelshögskolan i Jönköping. Från politiskt håll efterfrågar hon nytänkande lösningar och större tydlighet, snarare än att falla tillbaka på gamla floskler."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Västtrafik tar ner valreklam från SD i Skaraborg: ”Valsabotage”",
    "date": "2026-08-18T18:58:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/vasttrafik-tar-ner-valreklam-fran-sd-i-skaraborg",
@@ -72,14 +80,6 @@
    "date": "2026-08-18T14:51:20.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sodertalje/korskolelarare-tafsade-pa-elever-atalas",
    "desc": "En körskolelärare på en trafikskola i Södertälje åtalas för att upprepade gånger ha sexuellt ofredat kvinnliga elever. En av kvinnorna var minderårig."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Viktiga HV-backen borta flera månader",
-   "date": "2026-08-18T14:43:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hv-backen-borta-flera-manader",
-   "desc": "Skadan på HV-backen Niklas Hansson är värre än man först trodde. Hansson kan bli borta upp mot ett halvår, och laget tvingas nu leta en ersättare."
   },
   {
    "src": "STHLM",
