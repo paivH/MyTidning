@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-18T09:58:55.721Z",
+ "updated": "2026-08-18T10:35:05.372Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-   "date": "2026-08-18T08:07:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-   "desc": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -16,6 +8,14 @@
    "date": "2026-08-18T09:55:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
    "desc": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+   "date": "2026-08-18T08:07:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+   "desc": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
   },
   {
    "src": "BBC",
@@ -71,7 +71,7 @@
    "title": "Efter succécomebacken – Sarah Sjöström aktuell för träning med världsrekordstjärnorna",
    "date": "2026-08-18T08:27:28.000Z",
    "link": "https://www.svt.se/sport/simning/efter-succecomebacken-sarah-sjostrom-aktuell-for-traning-med-varldsrekordstjarnorna",
-   "desc": "Sarah Sjöström har gjort en succéartad comeback under året. Nu är hon aktuell för träning i USA med världsstjärnorna Gretchen Walsh och Kate Douglass. – Vi kommer att kolla på när det passar, säger hennes tränare Antonio Lutula."
+   "desc": "Sarah Sjöström har gjort en succéartad comeback under året. Nu är hon aktuell för träning i USA med världsstjärnorna Gretchen Walsh och Kate Douglass. – Vi kommer att kolla på när det passar, säger hennes tränare Antonio Lutula till Sveriges Radio."
   },
   {
    "src": "SVT",
