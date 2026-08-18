@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T13:38:28.996Z",
+ "updated": "2026-08-18T14:28:55.923Z",
  "items": [
   {
    "src": "BBC",
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Anstalten i Haparanda ska bli dubbelt så stor: ”Kraftig expansion”",
+   "date": "2026-08-18T14:24:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/anstalten-i-haparanda-ska-bli-dubbelt-sa-stor-kraftig-expansion",
+   "desc": "Anstalten i Haparanda ska byggas ut – igen. Kriminalvårdens generaldirektör konstaterar att fler anstaltsplatser behövs i samband med den slopade mängdrabatten. – Samtidigt måste vi säkerställa att vi kan bedriva en högkvalitativ kriminalvård, säger Rikard Jermsten."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sex vargvalpar födda i Norrtäljetrakten – fångades på film",
+   "date": "2026-08-18T14:23:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-vargvalpar-fodda-i-norrtaljetrakten-fangades-pa-film",
+   "desc": "Sex vargvalpar har upptäckts i Stockholms läns norra delar. – Vi satte upp viltkameror för att tidigt kunna upptäcka eventuella valpar. Och nu har det gett resultat – bilder och filmer visar nu sex vargvalpar som går tillsammans, säger Mikael Fransson i ett pressmeddelande från Länsstyrelsen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Oliver köpte läsk – fick starköl i kartongen: ”Trodde jag vunnit på lotto”",
+   "date": "2026-08-18T14:08:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/oliver-kopte-lask-fick-starkol-i-kartongen-trodde-jag-vunnit-pa-lotto",
+   "desc": "Spendrups återkallar Trocadero Zero efter att starköl hittats i kartongerna. Växjöbon Oliver Dicksson köpte ett helt flak läsk och fick en mindre chock när han hittade ölburkar i förpackningen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jennys väg i Alvik är bortspolad – regnet fortsätter ösa ner",
+   "date": "2026-08-18T13:42:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/jennys-vag-i-alvik-ar-bortspolad-regnet-fortsatter-osa-ner",
+   "desc": "En väg utanför Luleå har blivit bortspolad av regnet. Jenny Silver bor i en villa precis intill det drabbade området. – Det är lite läskigt. Hur mycket kan det regna egentligen? Bara inte huset far, säger hon när SVT besöker platsen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Stort antal män åtalade i sexköpshärva i Borås",
    "date": "2026-08-18T12:47:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/stort-antal-man-atalade-i-sexkopsharva-i-boras",
    "desc": "Tolv män åtalas vid Borås tingsrätt för sexköp och ytterligare två män för koppleri. En av dessa två var sambo med kvinnan som sålde sex och misstänks ha misshandlat henne."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Strömmer om skjutningen i Södertälje: ”Våldet finns fortfarande där och bubblar under ytan”",
-   "date": "2026-08-18T12:43:09.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/strommer-om-skjutningen-i-sodertalje-valdet-finns-fortfarande-dar-och-bubblar-under-ytan",
-   "desc": "En tonårspojke skottskadades i Södertälje på måndagskvällen. Bland de misstänkta finns två flickor under 15 år. – Våldet finns fortfarande där och bubblar under ytan, säger justitieminister Gunnar Strömmer (M)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fem män döms för miljonutpressning – hotade familj i hemmet",
-   "date": "2026-08-18T12:21:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/fem-man-doms-for-miljonutpressning-hotade-familj-i-hemmet",
-   "desc": "En familj i Jönköping utsattes för ett koordinerat utpressningsförsök där gärningsmännen krävde miljontals kronor. Nu döms fem män vid Jönköpings tingsrätt efter att ha sökt upp familjen i deras hem och hotat dem."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Regeringen kallar Google till möte om datorhallar efter Torsbodaaffär",
-   "date": "2026-08-18T12:14:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/regeringen-kallar-google-till-mote-om-datorhallar",
-   "desc": "Regeringen ska inom kort träffa techjätten Google med anledning av den planerade etableringen i Torsboda. – Jag förväntar mig av alla som vill göra stora etableringar i Sverige att man är beredd att diskutera hur energiförsörjningen ska fungera, säger finansmarknadsminister Niklas Wykman (M)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkta mordet i Kiruna – man häktad",
-   "date": "2026-08-18T12:07:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/misstankta-mordet-i-kiruna-man-haktad",
-   "desc": "Den man som har suttit anhållen för fredagens misstänkta mord i Kiruna har häktats. Det står klart efter tisdagens förhandlingar i Gällivare tingsrätt. – Han medger att han varit på platsen och varit involverad i händelsen men han nekar till brott, säger åklagare Kristin Andersson."
+   "title": "Sex vargvalpar födda i Norrtäljetrakten – fångades på film",
+   "date": "2026-08-18T14:23:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-vargvalpar-fodda-i-norrtaljetrakten-fangades-pa-film",
+   "desc": "Sex vargvalpar har upptäckts i Stockholms läns norra delar. – Vi satte upp viltkameror för att tidigt kunna upptäcka eventuella valpar. Och nu har det gett resultat – bilder och filmer visar nu sex vargvalpar som går tillsammans, säger Mikael Fransson i ett pressmeddelande från Länsstyrelsen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-17T18:11:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-17-augusti-3l9c7l",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 17 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Valaffischer i Stockholm vandaliserade direkt – polisen rasar",
-   "date": "2026-08-17T15:00:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/valaffischer-i-stockholm-vandaliserade-direkt-polisen-rasar",
-   "desc": "Valaffischeringen är igång och så är även den årliga vandaliseringen av de partipolitiska planscherna. Ett skadegörelsebrott som kan klaras upp i högre grad i och med den ökade kameraövervakningen. – Det döms som angrepp mot demokratin, säger polisinspektören Viktor Adolphson och hänvisar till ett fall från förra valrörelsen."
   },
   {
    "src": "BBC",
