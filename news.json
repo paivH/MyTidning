@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T15:03:07.127Z",
+ "updated": "2026-08-18T15:56:27.096Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "SD-kampanjen på Stockholms central förbjöds – partiet kritiskt",
+   "date": "2026-08-18T15:24:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-kampanjen-pa-stockholms-central-forbjods-partiet-kritisk",
+   "desc": "Tusentals resenärer möts nu av Sverigedemokraternas omfattande valkampanj på Stockholms centralstation. Men en del av kampanjen har tagits ner på beslut av fastighetsägaren Jernhusen, som tycker att budskapet kunde uppfattas som missvisande."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Körskolelärare tafsade på elever – åtalas",
    "date": "2026-08-18T14:51:20.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sodertalje/korskolelarare-tafsade-pa-elever-atalas",
@@ -52,7 +60,7 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "HV-backen borta flera månader",
+   "title": "Viktiga HV-backen borta flera månader",
    "date": "2026-08-18T14:43:16.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hv-backen-borta-flera-manader",
    "desc": "Skadan på HV-backen Niklas Hansson är värre än man först trodde. Hansson kan bli borta upp mot ett halvår, och laget tvingas nu leta en ersättare."
@@ -74,12 +82,12 @@
    "desc": "Under tisdagen avslutades rättegången i 764-fallet. Åklagaren yrkar på 12 års fängelse för den 18-årige mannen från Umeå som åtalats för flera grova brott."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Anstalten i Haparanda ska bli dubbelt så stor: ”Kraftig expansion”",
-   "date": "2026-08-18T14:24:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/anstalten-i-haparanda-ska-bli-dubbelt-sa-stor-kraftig-expansion",
-   "desc": "Anstalten i Haparanda ska byggas ut – igen. Kriminalvårdens generaldirektör konstaterar att fler anstaltsplatser behövs i samband med den slopade mängdrabatten. – Samtidigt måste vi säkerställa att vi kan bedriva en högkvalitativ kriminalvård, säger Rikard Jermsten."
+   "title": "SD-kampanjen på Stockholms central förbjöds – partiet kritiskt",
+   "date": "2026-08-18T15:24:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-kampanjen-pa-stockholms-central-forbjods-partiet-kritisk",
+   "desc": "Tusentals resenärer möts nu av Sverigedemokraternas omfattande valkampanj på Stockholms centralstation. Men en del av kampanjen har tagits ner på beslut av fastighetsägaren Jernhusen, som tycker att budskapet kunde uppfattas som missvisande."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-18T07:29:40.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-ar-efter-storbranden-har-oppnar-slattgardsskolan-igen",
    "desc": "För eleverna på Slättgårdsskolan i Bredäng var måndagen mer än bara skolstart. Det var första dagen i den ”nya” skolan – sex år efter att en brand förstörde stora delar av byggnaden. – Nytt bibliotek, ny matsal, ny kafeteria, säger Mateo Wallman, 12 år, elev på Slättgårdsskolan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 17 augusti",
-   "date": "2026-08-17T18:11:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-17-augusti-3l9c7l",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 17 augusti."
   },
   {
    "src": "BBC",
