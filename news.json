@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T09:28:18.316Z",
+ "updated": "2026-08-18T09:58:55.721Z",
  "items": [
   {
    "src": "BBC",
@@ -13,9 +13,9 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Russia warns UK will pay for supplying drones to Ukraine",
-   "date": "2026-08-18T09:11:57.000Z",
+   "date": "2026-08-18T09:55:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-   "desc": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
+   "desc": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-08-18T07:17:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
    "desc": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Veterinärens tips vid ormbett: ”Behåll lugnet”",
+   "date": "2026-08-18T09:49:23.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/veterinarens-tips-vid-ormbett-behall-lugnet",
+   "desc": "Fler hundar än vanligt har bitits av ormar i sommar. Enligt veterinären Henrik Rönnberg finns det några viktiga saker att tänka på om olyckan är framme. – Hundarna kan bli jättesjuka och till och med dö, säger han i Morgonstudion."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-18T06:10:17.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/far-betala-1-000-kronor-i-boter-for-nattlig-bilmusik",
    "desc": "En man i 25-årsåldern döms till 1 000 kronor i penningböter efter att ha spelat hög musik från en bil på natten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SBAB spår två räntehöjningar redan i år",
-   "date": "2026-08-18T05:58:35.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sbab-spar-tva-rantehojningar-redan-i-ar",
-   "desc": "En kännbar räntesmäll hotar att gröpa ur plånboken det kommande året. Generösa vallöften tillsammans med effekterna av Irankriget kan tvinga Riksbanken att strama åt. Statliga SBAB tror nu på två räntehöjningar redan i år."
   },
   {
    "src": "STHLM",
