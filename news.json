@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T06:36:03.740Z",
+ "updated": "2026-08-18T07:34:30.339Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,14 @@
    "date": "2026-08-18T05:00:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
    "desc": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+   "date": "2026-08-18T06:40:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+   "desc": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
   },
   {
    "src": "BBC",
@@ -24,14 +32,6 @@
    "date": "2026-08-18T05:02:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
    "desc": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia warns UK over supplying drones to Ukraine",
-   "date": "2026-08-18T04:59:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-   "desc": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
   },
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Sex år efter storbranden – här öppnar Slättgårdsskolan igen",
+   "date": "2026-08-18T07:29:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-ar-efter-storbranden-har-oppnar-slattgardsskolan-igen",
+   "desc": "För eleverna på Slättgårdsskolan i Bredäng var måndagen mer än bara skolstart. Det var första dagen i den ”nya” skolan – sex år efter att en brand förstörde stora delar av byggnaden. – Nytt bibliotek, ny matsal, ny kafeteria, säger Mateo Wallman, 12 år, elev på Slättgårdsskolan."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 17 augusti",
    "date": "2026-08-17T18:11:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-17-augusti-3l9c7l",
@@ -112,14 +120,6 @@
    "date": "2026-08-17T06:42:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/trasig-buss-blockerar-uppfarten-till-cenrtralbron",
    "desc": "En trasig buss blockerade uppfarten från Stadsgårdsleden till Centralbron under måndagsmorgonen. Strax före klockan nio rullade trafiken igen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Trots livsmedelsverkets avrådan – SD vill ha kött varje dag i skolan",
-   "date": "2026-08-17T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trots-livsmedelsverkets-avradan-sd-vill-ha-kott-varje-dag-i-skolan",
-   "desc": "Sverigedemokraterna går till val på att skolelever ska serveras kött varje dag. Det trots att Livsmedelsverket ger andra rekommendationer. – Det är bättre att eleverna äter än att de inte äter, säger Andreas Birgersson, gruppledare för SD i Södertälje. Han öppnar även för att slopa ekologiska krav för att finansiera köttkostnaderna."
   },
   {
    "src": "BBC",
