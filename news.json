@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-19T10:37:07.293Z",
+ "updated": "2026-08-19T11:20:53.107Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Sacked Ukrainian defence minister calls for presidential election",
-   "date": "2026-08-19T09:02:08.000Z",
+   "date": "2026-08-19T11:00:21.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
    "desc": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
   },
@@ -36,10 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-   "date": "2026-08-19T05:00:39.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories."
+   "title": "Apparent human remains found in US reservoir as water levels hit record low",
+   "date": "2026-08-19T10:10:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+   "desc": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "C-ledaren: Strängnäs ska inte förknippas med en högerregering",
+   "date": "2026-08-19T10:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/c-ledaren-strangnas-ska-inte-forknippas-med-en-hogerregering",
+   "desc": "Centerpartiet vill inte att statsministerns hemort Strängnäs längre ska förknippas med en högerregering. Det sa partiledaren Elisabeth Thand Ringqvist (C) under ett besök i staden under onsdagen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Knivskärning i centrala Stockholm – kvinna gripen",
+   "date": "2026-08-19T10:28:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/knivskarning-i-centrala-stockholm",
+   "desc": "En man har knivskurits på Södermalm i Stockholm. En kvinna ska ha gripits av polis efter att ha övermannats av vittnen."
   },
   {
    "src": "SVT",
@@ -66,28 +82,12 @@
    "desc": "Svensson efter Svensson fick sin villa renoverad av ett konsultbolag i Västerås. Totalt betalade Skatteverket ut en dryg miljon i ROT-ersättning till företaget. Men allt var en bluff – som inte upptäcktes av myndighetens kontroller. – Vad lätt det är att fuska i Sverige, säger en av dem som fuskarna har utnyttjat."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Regionen anmäler den man som misstänks för sexbrott till Ivo",
-   "date": "2026-08-19T08:25:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/regionen-anmaler-den-man-som-misstanks-for-sexbrott-till-ivo",
-   "desc": "Region Jönköpings län har gjort en individanmälan till Inspektionen för vård och omsorg, Ivo, efter misstankarna om sexualbrott mot en patient. Medarbetaren är sedan tidigare avstängd från sitt arbete."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Socialdemokraterna vill starta förskola och nattis på Akademiska sjukhuset",
-   "date": "2026-08-19T08:06:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/uppsala/socialdemokraterna-vill-starta-forskola-och-nattis-pa-akademiska-sjukhuset",
-   "desc": "Att locka personal till Akademiska sjukhuset och förbättra villkoren för dem som arbetar där har varit en fråga för regionpolitikerna i många år. Nu vill Socialdemokraterna starta förskola och nattis på sjukhuset – där personalens barn kan gå."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Knivskärning i centrala Stockholm",
+   "title": "Knivskärning i centrala Stockholm – kvinna gripen",
    "date": "2026-08-19T10:28:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/knivskarning-i-centrala-stockholm",
-   "desc": "En knivskärning av inträffat på Södermalm i Stockholm, detta enligt Expressens uppgifter."
+   "desc": "En man har knivskurits på Södermalm i Stockholm. En kvinna ska ha gripits av polis efter att ha övermannats av vittnen."
   },
   {
    "src": "STHLM",
