@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T07:34:12.353Z",
+ "updated": "2026-08-19T08:32:31.686Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,14 @@
    "date": "2026-08-19T07:14:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
    "desc": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
+   "date": "2026-08-19T08:25:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+   "desc": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms."
   },
   {
    "src": "BBC",
@@ -34,12 +42,20 @@
    "desc": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-   "date": "2026-08-19T05:00:39.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Socialdemokraterna vill starta förskola och nattis på Akademiska sjukhuset",
+   "date": "2026-08-19T08:06:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/uppsala/socialdemokraterna-vill-starta-forskola-och-nattis-pa-akademiska-sjukhuset",
+   "desc": "Att locka personal till Akademiska sjukhuset och förbättra villkoren för dem som arbetar där har varit en fråga för regionpolitikerna i många år. Nu vill Socialdemokraterna starta förskola och nattis på sjukhuset – där personalens barn kan gå."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jakten på dubbelmördaren – Carina Bergfeldt gör serie om Brattåsfallet",
+   "date": "2026-08-19T08:00:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/jakten-pa-dubbelmordaren-carina-bergfeldt-gor-serie-om-brattasfallet",
+   "desc": "SVT gör en dokumentär om det uppmärksammade dubbelmordet i Brattås 2005. Under hösten släpps den nya serien som heter DNA-spåret i SVT där Carina Bergfeldt djupdyker i fallet och där hon följer fallet genom poliser, anhöriga och inblandade experter."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-19T04:00:09.000Z",
    "link": "https://www.svt.se/nyheter/granskning/ug/darfor-visar-uppdrag-granskning-hur-man-fuskar-med-rot",
    "desc": "Hur visar man upp en lucka i systemet utan att riskera att inspirera fler att utnyttja den? Svåra avvägningar finns i all granskande journalistik. I systemgranskningar blir dessa ofta lite speciella. Det är inte journalistikens roll att täppa till luckorna – men vi som publicerar bör ändå försöka agera ansvarsfullt."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Avslöjar ROT-fusket – här får reportern pengar utan att arbeta",
-   "date": "2026-08-19T04:00:09.000Z",
-   "link": "https://www.svt.se/nyheter/granskning/ug/avslojar-rot-fusket-har-far-reportern-pengar-utan-att-arbeta",
-   "desc": "Uppdrag granskning kan avslöja flera fall av fusk med ROT-avdraget. När reportern testar Skatteverkets kontroller får han enkelt ut 10 000 kronor – utan att behöva visa faktura eller kvitto. – Det är för jäkligt att ni lyckades, säger chefen på Skatteverkets underrättelseenhet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Brudgummen fick åka ambulans – nu får paret ett nytt bröllop",
-   "date": "2026-08-19T03:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/brudgummen-fick-aka-ambulans-nu-far-paret-ett-nytt-brollop",
-   "desc": "När Emilia och Daniel skulle gifta sig i september 2025 så drabbades de av spöregn, magsjuka, och en tur med ambulans till sjukhuset för brudgummen som har diabetes. I augusti ska de få ett nytt bröllop. – Mest ser jag fram emot att få vara med på min egen bröllopsmiddag, säger Daniel Törnqvist."
   },
   {
    "src": "STHLM",
