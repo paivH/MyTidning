@@ -1,18 +1,18 @@
 {
- "updated": "2026-08-19T08:32:31.686Z",
+ "updated": "2026-08-19T09:29:16.433Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Sacked Ukrainian defence minister calls for presidential election",
-   "date": "2026-08-19T07:14:50.000Z",
+   "date": "2026-08-19T09:02:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
    "desc": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
+   "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
    "date": "2026-08-19T08:25:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
    "desc": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms."
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Sluga bluffen: Använde 94-åriga Svenssons för att få ROT-avdrag",
+   "date": "2026-08-19T08:51:25.000Z",
+   "link": "https://www.svt.se/nyheter/granskning/ug/sluga-bluffen-anvande-94-ariga-svenssons-for-att-fa-rot-avdrag",
+   "desc": "Svensson efter Svensson fick sin villa renoverad av ett konsultbolag i Västerås. Totalt betalade Skatteverket ut en dryg miljon i ROT-ersättning till företaget. Men allt var en bluff – som inte upptäcktes av myndighetens kontroller. – Vad lätt det är att fuska i Sverige, säger en av dem som fuskarna har utnyttjat."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Regionen anmäler den man som misstänks för sexbrott till Ivo",
+   "date": "2026-08-19T08:25:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/regionen-anmaler-den-man-som-misstanks-for-sexbrott-till-ivo",
+   "desc": "Region Jönköpings län har gjort en individanmälan till Inspektionen för vård och omsorg, Ivo, efter misstankarna om sexualbrott mot en patient. Medarbetaren är sedan tidigare avstängd från sitt arbete."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Socialdemokraterna vill starta förskola och nattis på Akademiska sjukhuset",
    "date": "2026-08-19T08:06:14.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/uppsala/socialdemokraterna-vill-starta-forskola-och-nattis-pa-akademiska-sjukhuset",
@@ -52,7 +68,7 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Jakten på dubbelmördaren – Carina Bergfeldt gör serie om Brattåsfallet",
+   "title": "Så blir serieutbudet i höst – Carina Bergfeldt gör serie om Brattåsfallet",
    "date": "2026-08-19T08:00:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/jakten-pa-dubbelmordaren-carina-bergfeldt-gor-serie-om-brattasfallet",
    "desc": "SVT gör en dokumentär om det uppmärksammade dubbelmordet i Brattås 2005. Under hösten släpps den nya serien som heter DNA-spåret i SVT där Carina Bergfeldt djupdyker i fallet och där hon följer fallet genom poliser, anhöriga och inblandade experter."
@@ -64,22 +80,6 @@
    "date": "2026-08-19T06:09:59.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-man-greps-efter-flyktforsok-slapet-fullt-av-stoldgods",
    "desc": "Två män har anhållits misstänkta för grov stöld efter ett polisingripande i Mullsjö under natten. I deras släp hittades stöldgods till ett högt värde."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Uppmaningen efter stora läckan: ”Duscha inte, bada absolut inte”",
-   "date": "2026-08-19T04:46:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/stor-vattenlacka-i-malmo",
-   "desc": "En större vattenläcka har inträffat hos VA Syds leverantör Sydvatten. Malmö och Svedala är värst drabbade. Hushållen uppmanas att inte diska eller duscha under närmsta dygnet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Därför visar Uppdrag granskning hur man fuskar med ROT",
-   "date": "2026-08-19T04:00:09.000Z",
-   "link": "https://www.svt.se/nyheter/granskning/ug/darfor-visar-uppdrag-granskning-hur-man-fuskar-med-rot",
-   "desc": "Hur visar man upp en lucka i systemet utan att riskera att inspirera fler att utnyttja den? Svåra avvägningar finns i all granskande journalistik. I systemgranskningar blir dessa ofta lite speciella. Det är inte journalistikens roll att täppa till luckorna – men vi som publicerar bör ändå försöka agera ansvarsfullt."
   },
   {
    "src": "STHLM",
