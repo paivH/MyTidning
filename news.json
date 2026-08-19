@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T14:28:47.987Z",
+ "updated": "2026-08-19T15:02:55.673Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Här tränas framtidens kriminalvårdare på skarpa situationer",
+   "date": "2026-08-19T14:50:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/har-tranas-framtidens-kriminalvardare-pa-skarpa-situationer",
+   "desc": "Under onsdagen invigdes Kriminalvårdens nya utbildningscenter i Norrköping. Hit kommer 1 300 elever kunna tas i mot årligen. På de 3 000 kvadratmetrarna finns flera nya övningsmiljöer. Där autentiska scenario kan utspela sig."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ukrainare gripen – misstänks för Nord Stream-sabotage",
+   "date": "2026-08-19T14:27:21.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ukrainare-gripen-misstanks-for-nord-stream-sabotage",
+   "desc": "En ukrainsk person har gripits, misstänkt för inblandning i sabotagen mot gasledningen Nord Stream 2022, meddelar tyska åklagare enligt medier."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Värmeböljan i Europa: Över 1 200 fler dödsfall i Frankrike",
    "date": "2026-08-19T14:17:57.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/varmeboljan-i-europa-over-1-200-fler-dodsfall-i-frankrike",
@@ -64,22 +80,6 @@
    "date": "2026-08-19T14:05:23.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/brutalt-valdtaktsforsok-i-nassjo-man-band-och-hotade-kvinna-med-kniv",
    "desc": "Kvinnan och mannen hade stämt träff. Men efter att de anlänt till hans lägenhet förvandlades träffen till ett frihetsberövande med våld och dödshot."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så vill M underlätta bostadsbyggandet i Norrbotten",
-   "date": "2026-08-19T13:56:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-vill-m-underlatta-bostadsbyggandet-i-norrbotten",
-   "desc": "Att förenkla bostadsbyggandet tror statsminister Ulf Kristersson (M) är vägen framåt för att öka takten för bostadsbyggandet i Norrbotten. – De vill ha enklare regler, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Skepsis mot vaccin till barn ökar i Västerbotten – överläkaren: ”Oroande”",
-   "date": "2026-08-19T13:51:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/skepsis-mot-vaccin-till-barn-okar-i-vasterbotten-overlakaren-oroande",
-   "desc": "Allt fler föräldrar tvekar över om de ska vaccinera sina barn. I Västerbotten ligger siffran mellan 50 och 100 familjer per år enligt Region Västerbotten – och antalet ökar. – Det är oroande, säger Johanna Kuisma Löfbom, överläkare vid Kompetenscentrum för mödra- och barnhälsovård."
   },
   {
    "src": "STHLM",
