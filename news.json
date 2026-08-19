@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T17:22:57.158Z",
+ "updated": "2026-08-19T17:49:24.104Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Sacked Ukrainian defence minister calls for presidential election",
-   "date": "2026-08-19T11:00:21.000Z",
+   "date": "2026-08-19T17:23:42.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
    "desc": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
   },
@@ -37,9 +37,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "South Korea shortens war games with US, citing Washington request",
-   "date": "2026-08-19T14:16:27.000Z",
+   "date": "2026-08-19T17:39:49.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
    "desc": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Proryskt trollnätverk riktar in sig på svenska valet",
+   "date": "2026-08-19T17:30:24.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/proryskt-trollnatverk-riktar-in-sig-pa-svenska-valet",
+   "desc": "Ett proryskt trollnätverk har spridit lögner om valfusk i Sverige, och riktat falska anklagelser mot Sveriges statsminister Ulf Kristersson (M). – Vi ser sånt här över hela Europa. Ryssarna inriktar sig mot länder som stöttar Ukraina, säger Kristersson till SVT. Men kampanjen tycks också ha ett annat syfte."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-19T15:06:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ministern-lovar-sankt-restid-mellan-varnamo-och-jonkoping",
    "desc": "Tiden för att åka tåg mellan Värnamo och Jönköping kommer att minska till närmare 50 minuter, trots att det inte blir något av den planerade sträckningen över Tenhult. Det lovade Infrastrukturminister Andreas Carlson (KD) när han under onsdagsmorgonen själv åkte med tåget från Norrahammar."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här tränas framtidens kriminalvårdare på skarpa situationer",
-   "date": "2026-08-19T14:50:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/har-tranas-framtidens-kriminalvardare-pa-skarpa-situationer",
-   "desc": "Under onsdagen invigdes Kriminalvårdens nya utbildningscenter i Norrköping. Hit kommer 1 300 elever kunna tas i mot årligen. På de 3 000 kvadratmetrarna finns flera nya övningsmiljöer. Där autentiska scenario kan utspela sig."
   },
   {
    "src": "STHLM",
