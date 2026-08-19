@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T10:00:02.079Z",
+ "updated": "2026-08-19T10:37:07.293Z",
  "items": [
   {
    "src": "BBC",
@@ -28,18 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Meta hooked children on Facebook and Instagram, US court hears",
-   "date": "2026-08-18T22:11:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "South Korea shortens war games with US, citing Washington request",
    "date": "2026-08-19T05:53:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
    "desc": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+   "date": "2026-08-19T05:00:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Heidelberg Materials rapporterade för låga utsläpp – i 10 år",
+   "date": "2026-08-19T10:07:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/heidelberg-materials-rapporterade-for-laga-utslapp-i-10-ar",
+   "desc": "Heidelberg Materials måste lämna tillbaka nästan 350 000 utsläppsrätter efter att ha rapporterat för låga koldioxidutsläpp från sina anläggningar i Slite och Skövde. Naturvårdsverket har fastställt de korrigerade siffrorna och lämnat ärendet till åklagare för utredning."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Att locka personal till Akademiska sjukhuset och förbättra villkoren för dem som arbetar där har varit en fråga för regionpolitikerna i många år. Nu vill Socialdemokraterna starta förskola och nattis på sjukhuset – där personalens barn kan gå."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Så blir serieutbudet i höst – Carina Bergfeldt gör serie om Brattåsfallet",
-   "date": "2026-08-19T08:00:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/jakten-pa-dubbelmordaren-carina-bergfeldt-gor-serie-om-brattasfallet",
-   "desc": "SVT gör en dokumentär om det uppmärksammade dubbelmordet i Brattås 2005. Under hösten släpps den nya serien som heter DNA-spåret i SVT där Carina Bergfeldt djupdyker i fallet och där hon följer fallet genom poliser, anhöriga och inblandade experter."
+   "title": "Knivskärning i centrala Stockholm",
+   "date": "2026-08-19T10:28:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/knivskarning-i-centrala-stockholm",
+   "desc": "En knivskärning av inträffat på Södermalm i Stockholm, detta enligt Expressens uppgifter."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-18T15:24:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-kampanjen-pa-stockholms-central-forbjods-partiet-kritisk",
    "desc": "Tusentals resenärer möts nu av Sverigedemokraternas omfattande valkampanj på Stockholms centralstation. Men en del av kampanjen har tagits ner på beslut av fastighetsägaren Jernhusen, som tycker att budskapet kunde uppfattas som missvisande."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Sex vargvalpar födda i Norrtäljetrakten – fångades på film",
-   "date": "2026-08-18T14:23:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-vargvalpar-fodda-i-norrtaljetrakten-fangades-pa-film",
-   "desc": "Sex vargvalpar har upptäckts i Stockholms läns norra delar. – Vi satte upp viltkameror för att tidigt kunna upptäcka eventuella valpar. Och nu har det gett resultat – bilder och filmer visar nu sex vargvalpar som går tillsammans, säger Mikael Fransson i ett pressmeddelande från Länsstyrelsen."
   },
   {
    "src": "BBC",
