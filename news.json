@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-19T04:32:28.887Z",
+ "updated": "2026-08-19T05:25:06.315Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Sacked Ukrainian defence minister calls for presidential election",
-   "date": "2026-08-19T01:31:15.000Z",
+   "date": "2026-08-19T04:44:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
    "desc": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
   },
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Stor vattenläcka i Skåne – många kommuner drabbade",
+   "date": "2026-08-19T04:46:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/stor-vattenlacka-i-malmo",
+   "desc": "En större vattenläcka har inträffat hos VA Syds leverantör Sydvatten. Malmö och Svedala är värst drabbade."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Därför visar Uppdrag granskning hur man fuskar med ROT",
    "date": "2026-08-19T04:00:09.000Z",
    "link": "https://www.svt.se/nyheter/granskning/ug/darfor-visar-uppdrag-granskning-hur-man-fuskar-med-rot",
@@ -74,12 +82,12 @@
    "desc": "Med bandklippning invigdes den nya batteriparken i Heby förra våren – för att stärka elnätet i kommunen. Enligt boende i närheten får de nu betala priset i form av förstörda somrar. – Det konstanta ylandet, som blir värre när det är varmt, är outhärdligt, säger Keijo Parviainen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Här har Svartån nästan torkat ut – bara pölar kvar i dammen",
-   "date": "2026-08-19T03:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/har-har-svartan-nastan-torkat-ut-bara-polar-kvar-i-dammen",
-   "desc": "Svartån lider av ovanligt låga vattenflöden just nu. I Karbenningby utanför Norberg har ån på vissa håll nästan helt torkat ut. – Jag förstår att man blir orolig, och det blir faktiskt vi också, säger Isabella Segerström från Länsstyrelsen i Västmanland."
+   "title": "Kyliga stämningen i bilen: ”Tänker du att det är ett problem?”",
+   "date": "2026-08-19T05:00:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kyliga-stamningen-i-bilen-tanker-du-att-det-ar-ett-problem",
+   "desc": "Vänsterpartiets gruppledare i Stockholms stad, Alexandra Mattsson, vill att snapsmiddagar ska återinföras i stadshuset. Och så blir det kylig stämning i bilen när reporterns fråga uppfattas som en egen åsikt."
   },
   {
    "src": "STHLM",
@@ -100,7 +108,7 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "SD-affischer förbjöds på Stockholms central – partiet kritiskt",
+   "title": "SD-affischer stoppades på Stockholms central – partiet kritiskt",
    "date": "2026-08-18T15:24:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-kampanjen-pa-stockholms-central-forbjods-partiet-kritisk",
    "desc": "Tusentals resenärer möts nu av Sverigedemokraternas omfattande valkampanj på Stockholms centralstation. Men en del av kampanjen har tagits ner på beslut av fastighetsägaren Jernhusen, som tycker att budskapet kunde uppfattas som missvisande."
@@ -112,14 +120,6 @@
    "date": "2026-08-18T14:23:28.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-vargvalpar-fodda-i-norrtaljetrakten-fangades-pa-film",
    "desc": "Sex vargvalpar har upptäckts i Stockholms läns norra delar. – Vi satte upp viltkameror för att tidigt kunna upptäcka eventuella valpar. Och nu har det gett resultat – bilder och filmer visar nu sex vargvalpar som går tillsammans, säger Mikael Fransson i ett pressmeddelande från Länsstyrelsen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Snösätras framtid oviss – nu svarar kommunen på kritiken",
-   "date": "2026-08-18T12:11:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/snosatras-framtid-oviss-nu-svarar-kommunen-pa-kritiken",
-   "desc": "Kommunen säger upp allt samarbete med den ideella föreningen Kulturkvarteret Snösätra. Istället vill man satsa på nya aktörer i graffitiparken – men i nuläget finns inga konkreta planer. – Vi kan inte bortse från deras ekonomiska brister, det är skattemedel vi jobbar med, säger Jimmy Andersson, enhetschef på Stadsdelsförvaltningen i Enskede-Årsta-Vantör."
   },
   {
    "src": "BBC",
