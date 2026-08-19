@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-19T02:36:37.601Z",
+ "updated": "2026-08-19T03:42:13.082Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Meta hooked children on Facebook and Instagram, court hears",
-   "date": "2026-08-18T22:11:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,26 +12,66 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Earthquake rocks Spain's historic Granada, injuring three",
-   "date": "2026-08-18T17:15:39.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-   "desc": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed."
+   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+   "date": "2026-08-19T02:41:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+   "desc": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Brazil's President Lula hails oil discovery near Amazon river",
-   "date": "2026-08-18T13:13:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-   "desc": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
+   "title": "Meta hooked children on Facebook and Instagram, US court hears",
+   "date": "2026-08-18T22:11:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-   "date": "2026-08-18T17:54:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-   "desc": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
+   "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+   "date": "2026-08-19T03:00:35.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+   "desc": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Husband and mother-in-law charged over Indian bride's death",
+   "date": "2026-08-19T03:04:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+   "desc": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Brudgummen fick åka ambulans – nu får paret ett nytt bröllop",
+   "date": "2026-08-19T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/brudgummen-fick-aka-ambulans-nu-far-paret-ett-nytt-brollop",
+   "desc": "När Emilia och Daniel skulle gifta sig i september 2025 så drabbades de av spöregn, magsjuka, och en tur med ambulans till sjukhuset för brudgummen som har diabetes. I augusti ska de få ett nytt bröllop. – Mest ser jag fram emot att få vara med på min egen bröllopsmiddag, säger Daniel Törnqvist."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Batteriparken plågar grannar i Heby: ”Måste ha hörselkåpor på tomten”",
+   "date": "2026-08-19T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/uppsala/batteriparken-plagar-grannar-i-heby-maste-ha-horselkapor-pa-tomten",
+   "desc": "Med bandklippning invigdes den nya batteriparken i Heby förra våren – för att stärka elnätet i kommunen. Enligt boende i närheten får de nu betala priset i form av förstörda somrar. – Det konstanta ylandet, som blir värre när det är varmt, är outhärdligt, säger Keijo Parviainen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här har Svartån nästan torkat ut – bara pölar kvar i dammen",
+   "date": "2026-08-19T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/har-har-svartan-nastan-torkat-ut-bara-polar-kvar-i-dammen",
+   "desc": "Svartån lider av ovanligt låga vattenflöden just nu. I Karbenningby utanför Norberg har ån på vissa håll nästan helt torkat ut. – Jag förstår att man blir orolig, och det blir faktiskt vi också, säger Isabella Segerström från Länsstyrelsen i Västmanland."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Apotekarpar utvisades – M vill se över annonseringskrav",
+   "date": "2026-08-19T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/efter-utvisning-av-apotekarpar-m-vill-se-over-annonseringskrav",
+   "desc": "Apotekarparet i Kiruna utvisas på grund av en platsannons som har tolkats på olika sätt. Moderaterna vill nu modernisera annonseringskravet. – Den här lagstiftningen har funnits i snart 20 år och vi måste göra om kravet så inte fler människor drabbas, säger migrationsminister Johan Forssell (M)."
   },
   {
    "src": "SVT",
@@ -50,36 +82,12 @@
    "desc": "Ukrainas nyligen avsatte försvarsminister Mychajlo Fedorov kräver att landet ska hålla val trots det pågående kriget. – Vi kan inte låta Putin bestämma när ukrainarna kan välja sin egen regering, säger han."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Professorn: Hela landet lever inte i dag – än mindre i framtiden",
-   "date": "2026-08-18T20:41:51.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/professorn-hela-landet-lever-inte-i-dag-an-mindre-i-framtiden",
-   "desc": "Känslan av bortglömdhet som återkommer i SVT:s intervjuer från glesbygden i norra Värmland förvånar inte Charlotta Mellander, professor i nationalekonomi vid Internationella handelshögskolan i Jönköping. Från politiskt håll efterfrågar hon nytänkande lösningar och större tydlighet, snarare än att falla tillbaka på gamla floskler."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Västtrafik tar ner valreklam från SD i Skaraborg: ”Valsabotage”",
-   "date": "2026-08-18T18:58:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/vasttrafik-tar-ner-valreklam-fran-sd-i-skaraborg",
-   "desc": "Västtrafik väljer att ta ner valreklam från SD på bussar i Skaraborg efter att busschaufförer sjukskrivit sig i protest."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tidsfristen för Irankriget har passerat – vad händer nu?",
-   "date": "2026-08-18T16:44:15.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/tidsfristen-for-irankriget-har-passerat-vad-hander-nu",
-   "desc": "Enligt planen från den 17 juni skulle krigets knäckfrågor redas ut inom 60 dagar. Den fristen löpte ut igår. SVT:s Mellanösternkorrespondent Gilda Hamidi-Nia och Mellanösternkommentator Samir Abu Eid svarade på läsarnas frågor om utvecklingen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SD-affischer förbjöds på Stockholms central – partiet kritiskt",
-   "date": "2026-08-18T15:24:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-kampanjen-pa-stockholms-central-forbjods-partiet-kritisk",
-   "desc": "Tusentals resenärer möts nu av Sverigedemokraternas omfattande valkampanj på Stockholms centralstation. Men en del av kampanjen har tagits ner på beslut av fastighetsägaren Jernhusen, som tycker att budskapet kunde uppfattas som missvisande."
+   "title": "Valet kan avgöra om fler hyresrätter i Märsta blir bostadsrätter",
+   "date": "2026-08-19T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/valet-kan-avgora-om-fler-hyresratter-i-marsta-blir-bostadsratter",
+   "desc": "Hyresrätt eller bostadsrätt? Valet i höst kan avgöra om det blir fler ombildningar i Sigtuna kommun. –Om någonting händer i lägenheten så kan jag snabbt få hjälp utan att jag själv behöver betala någon större summa, säger Märstabon Lillian Djurfelter som vill fortsätta bo i hyresrätt."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-18T12:11:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/snosatras-framtid-oviss-nu-svarar-kommunen-pa-kritiken",
    "desc": "Kommunen säger upp allt samarbete med den ideella föreningen Kulturkvarteret Snösätra. Istället vill man satsa på nya aktörer i graffitiparken – men i nuläget finns inga konkreta planer. – Vi kan inte bortse från deras ekonomiska brister, det är skattemedel vi jobbar med, säger Jimmy Andersson, enhetschef på Stadsdelsförvaltningen i Enskede-Årsta-Vantör."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Antalet bekräftade mässlingsfall i Stockholm växer",
-   "date": "2026-08-18T07:49:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fyra-fall-av-massling-bekraftade-i-stockholm",
-   "desc": "Under tisdagen har ytterligare ett mässlingsfall bekräftats i Region Stockholm. Totalt är nu fem fall bekräftade i regionen. Samtliga smittade kopplas till musikfestivalen Urkult i Sollefteå. – Det kan komma fler fall, säger Maria Rotzén Östlund, smittskyddsläkare i Region Stockholm."
   },
   {
    "src": "BBC",
