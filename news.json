@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T11:20:53.107Z",
+ "updated": "2026-08-19T11:49:29.502Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Hovrätten skärper straffet för sexbrottsdömde fritidspedagogen i Umeå",
+   "date": "2026-08-19T11:42:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/hovratten-skarper-straffet-for-sexbrottsdomde-fritidspedagogen-i-umea",
+   "desc": "Hovrätten skärper straffet för fritidspedagogen som dömdes till fängelse för att ha smygfotat elever i duschen och ofredat dem sexuellt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Danmark vill skärpa straffen för dödsvåld efter svenske polismannen Christian Zedigs död",
+   "date": "2026-08-19T11:19:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/danmark-vill-andra-lagen-efter-dodsvald-mot-svensk-polisman",
+   "desc": "Danmarks regering vill skärpa straffen för dödligt våld i de fall där gärningsmannen sedan tidigare är dömd för våldsbrott. Detta efter att den svenske polismannen Christian Zedig från Eksjö avled efter ett krogbråk i Köpenhamn tidigare i sommar."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Brunnsborraren i Mullsjö: ”Det är värre än 2018”",
+   "date": "2026-08-19T10:32:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/brunnsboraren-i-mullsjo-det-ar-varre-an-2018",
+   "desc": "Inte en droppe kvar och i flera fall bara sand. Så har det sett ut i flera av brunnarna som brunnsborraren Tord Karlsson i Mullsjö inspekterat under sommaren. Och han varnar för att läget är värre än 2018."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "C-ledaren: Strängnäs ska inte förknippas med en högerregering",
    "date": "2026-08-19T10:30:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/c-ledaren-strangnas-ska-inte-forknippas-med-en-hogerregering",
@@ -56,30 +80,6 @@
    "date": "2026-08-19T10:28:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/knivskarning-i-centrala-stockholm",
    "desc": "En man har knivskurits på Södermalm i Stockholm. En kvinna ska ha gripits av polis efter att ha övermannats av vittnen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Heidelberg Materials rapporterade för låga utsläpp – i 10 år",
-   "date": "2026-08-19T10:07:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/heidelberg-materials-rapporterade-for-laga-utslapp-i-10-ar",
-   "desc": "Heidelberg Materials måste lämna tillbaka nästan 350 000 utsläppsrätter efter att ha rapporterat för låga koldioxidutsläpp från sina anläggningar i Slite och Skövde. Naturvårdsverket har fastställt de korrigerade siffrorna och lämnat ärendet till åklagare för utredning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Piteåbonden Markus mardröm: ”Potatisen kan drunkna”",
-   "date": "2026-08-19T09:56:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/piteabonden-markus-mardrom-potatisen-kan-drunkna",
-   "desc": "Leriga åkrar och vattenfyllda fält. Det är verkligheten för bönder i Norrbotten efter den senaste tidens regnande. – Vi är ju uppe i 200 millimeter regn under augusti, så nu börjar det bli besvärligt, säger Markus Levander, potatisodlare i Böle utanför Piteå."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sluga bluffen: Använde 94-åriga Svenssons för att få ROT-avdrag",
-   "date": "2026-08-19T08:51:25.000Z",
-   "link": "https://www.svt.se/nyheter/granskning/ug/sluga-bluffen-anvande-94-ariga-svenssons-for-att-fa-rot-avdrag",
-   "desc": "Svensson efter Svensson fick sin villa renoverad av ett konsultbolag i Västerås. Totalt betalade Skatteverket ut en dryg miljon i ROT-ersättning till företaget. Men allt var en bluff – som inte upptäcktes av myndighetens kontroller. – Vad lätt det är att fuska i Sverige, säger en av dem som fuskarna har utnyttjat."
   },
   {
    "src": "STHLM",
