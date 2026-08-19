@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T17:49:24.104Z",
+ "updated": "2026-08-19T18:29:02.995Z",
  "items": [
   {
    "src": "BBC",
@@ -20,14 +20,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-   "date": "2026-08-19T15:47:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
    "date": "2026-08-19T17:16:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
@@ -40,6 +32,22 @@
    "date": "2026-08-19T17:39:49.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
    "desc": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+   "date": "2026-08-19T16:31:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+   "desc": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Gratis mässlingsvaccin till vuxna i Sörmland",
+   "date": "2026-08-19T18:20:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/gratis-masslingsvaccin-till-vuxna-i-sormland",
+   "desc": "Region Sörmland erbjuder gratis mässlingsvaccin till vuxna. Bakgrunden är det pågående utbrottet i Sverige med 21 bekräftade fall."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Mannen har haft ett gränslöst beteende mot fler och en del äldre har känt sig otrygga. Det framkommer i den utredning Sundsvalls kommun gjort efter misstänkta sexuella övergrepp mot äldre i hemtjänsten. Han har också besökt en kvinna utanför arbetstid."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ministern lovar sänkt restid mellan Värnamo och Jönköping",
-   "date": "2026-08-19T15:06:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ministern-lovar-sankt-restid-mellan-varnamo-och-jonkoping",
-   "desc": "Tiden för att åka tåg mellan Värnamo och Jönköping kommer att minska till närmare 50 minuter, trots att det inte blir något av den planerade sträckningen över Tenhult. Det lovade Infrastrukturminister Andreas Carlson (KD) när han under onsdagsmorgonen själv åkte med tåget från Norrahammar."
+   "title": "Nyheter från dagen: 19 augusti",
+   "date": "2026-08-19T17:57:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-19-augusti-scxt82",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under onsdagen den 19 augusti."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-19T03:30:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/valet-kan-avgora-om-fler-hyresratter-i-marsta-blir-bostadsratter",
    "desc": "Hyresrätt eller bostadsrätt? Valet i höst kan avgöra om det blir fler ombildningar i Sigtuna kommun. –Om någonting händer i lägenheten så kan jag snabbt få hjälp utan att jag själv behöver betala någon större summa, säger Märstabon Lillian Djurfelter som vill fortsätta bo i hyresrätt."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 18 augusti",
-   "date": "2026-08-18T17:55:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-18-augusti-77o8gm",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under tisdagen den 18 augusti."
   },
   {
    "src": "BBC",
