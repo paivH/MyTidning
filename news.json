@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-19T11:49:29.502Z",
+ "updated": "2026-08-19T12:38:31.954Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+   "date": "2026-08-19T12:34:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+   "desc": "The six-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -28,18 +36,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "South Korea shortens war games with US, citing Washington request",
-   "date": "2026-08-19T05:53:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-   "desc": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
+   "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+   "date": "2026-08-19T11:30:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
+   "desc": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Apparent human remains found in US reservoir as water levels hit record low",
-   "date": "2026-08-19T10:10:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-   "desc": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Beslagtog ”mycket stora mängder” knark",
+   "date": "2026-08-19T12:25:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/beslagtog-mycket-stora-mangder-knark",
+   "desc": "Polisen har beslagtagit ”mycket stora mängder” narkotika i Västsverige i veckan. Enligt uppgifter till TV4 Nyheterna handlar det om över 100 kilo amfetamin."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flera nya fall av mässling – ett nytt i Västerbotten",
+   "date": "2026-08-19T12:22:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/flera-nya-fall-av-massling-ett-nytt-i-vasterbotten",
+   "desc": "Utbrottet av mässling fortsätter att öka. Nu har 21 personer bekräftats smittade av mässling i landet – tio fler än igår. Fallen har rapporterats från Region Jämtland Härjedalen, Skåne, Stockholm, Västerbotten, Gotland, Värmland och Västernorrland."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polisinsatsen på Ljusterö kopplas till bomblarm i Örebro",
+   "date": "2026-08-19T11:45:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/orebro/efter-polisinsatsen-pa-ljustero-man-begars-haktad",
+   "desc": "I söndags greps en man vid en stor polisinsats på Ljusterö i Stockholms skärgård. Gripandet kan kopplas till ett bomblarm i Örebro i våras. Nu begärs mannen häktad."
   },
   {
    "src": "SVT",
@@ -58,36 +82,12 @@
    "desc": "Danmarks regering vill skärpa straffen för dödligt våld i de fall där gärningsmannen sedan tidigare är dömd för våldsbrott. Detta efter att den svenske polismannen Christian Zedig från Eksjö avled efter ett krogbråk i Köpenhamn tidigare i sommar."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Brunnsborraren i Mullsjö: ”Det är värre än 2018”",
-   "date": "2026-08-19T10:32:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/brunnsboraren-i-mullsjo-det-ar-varre-an-2018",
-   "desc": "Inte en droppe kvar och i flera fall bara sand. Så har det sett ut i flera av brunnarna som brunnsborraren Tord Karlsson i Mullsjö inspekterat under sommaren. Och han varnar för att läget är värre än 2018."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "C-ledaren: Strängnäs ska inte förknippas med en högerregering",
-   "date": "2026-08-19T10:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/c-ledaren-strangnas-ska-inte-forknippas-med-en-hogerregering",
-   "desc": "Centerpartiet vill inte att statsministerns hemort Strängnäs längre ska förknippas med en högerregering. Det sa partiledaren Elisabeth Thand Ringqvist (C) under ett besök i staden under onsdagen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Knivskärning i centrala Stockholm – kvinna gripen",
-   "date": "2026-08-19T10:28:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/knivskarning-i-centrala-stockholm",
-   "desc": "En man har knivskurits på Södermalm i Stockholm. En kvinna ska ha gripits av polis efter att ha övermannats av vittnen."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Knivskärning i centrala Stockholm – kvinna gripen",
    "date": "2026-08-19T10:28:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/knivskarning-i-centrala-stockholm",
-   "desc": "En man har knivskurits på Södermalm i Stockholm. En kvinna ska ha gripits av polis efter att ha övermannats av vittnen."
+   "desc": "En man har knivskurits på Södermalm i Stockholm. En kvinna greps av polis efter att ha övermannats av vittnen."
   },
   {
    "src": "STHLM",
