@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-19T15:02:55.673Z",
+ "updated": "2026-08-19T15:56:31.334Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
-   "date": "2026-08-19T13:53:51.000Z",
+   "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+   "date": "2026-08-19T15:33:32.000Z",
    "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-   "desc": "She initially survived the attack but her body was recovered days later in Gaza City in 2024."
+   "desc": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
   },
   {
    "src": "BBC",
@@ -20,16 +20,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-   "date": "2026-08-19T08:25:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-   "desc": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-   "date": "2026-08-19T03:56:35.000Z",
+   "date": "2026-08-19T15:47:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
    "desc": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
   },
@@ -40,6 +32,38 @@
    "date": "2026-08-19T14:16:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
    "desc": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+   "date": "2026-08-19T12:47:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+   "desc": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "SD-toppen om affischbråket på bussar i Skaraborg: ”Konstigt”",
+   "date": "2026-08-19T15:30:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/sd-toppen-om-affischbraket-pa-bussar-i-skaraborg-konstigt",
+   "desc": "Valsabotage, menar Sverigedemokraterna och riksdagsledamoten Tobias Andersson (SD) som frontar affischerna. Inte alls, svarar Västtrafik, som uppger att beslutet handlar om en arbetsmiljöfråga, två bussar och två SD-affischer. – Övrig annonsering från Sverigedemokraterna i hela regionen sitter fortsatt uppsatt som planerat, skriver Västtrafik i en kommentar till SVT."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt för våldtäkt i hemtjänsten i Sundsvall besökte vårdtagare på fritiden",
+   "date": "2026-08-19T15:07:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/misstankt-for-valdtakt-i-hemtjansten-i-sundsvall-besokte-vardtagare-pa-fritiden",
+   "desc": "Mannen har haft ett gränslöst beteende mot fler och en del äldre har känt sig otrygga. Det framkommer i den utredning Sundsvalls kommun gjort efter misstänkta sexuella övergrepp mot äldre i hemtjänsten. Han har också besökt en kvinna utanför arbetstid."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ministern lovar sänkt restid mellan Värnamo och Jönköping",
+   "date": "2026-08-19T15:06:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ministern-lovar-sankt-restid-mellan-varnamo-och-jonkoping",
+   "desc": "Tiden för att åka tåg mellan Värnamo och Jönköping kommer att minska till närmare 50 minuter, trots att det inte blir något av den planerade sträckningen över Tenhult. Det lovade Infrastrukturminister Andreas Carlson (KD) när han under onsdagsmorgonen själv åkte med tåget från Norrahammar."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-08-19T14:27:21.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/ukrainare-gripen-misstanks-for-nord-stream-sabotage",
    "desc": "En ukrainsk person har gripits, misstänkt för inblandning i sabotagen mot gasledningen Nord Stream 2022, meddelar tyska åklagare enligt medier."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Värmeböljan i Europa: Över 1 200 fler dödsfall i Frankrike",
-   "date": "2026-08-19T14:17:57.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/varmeboljan-i-europa-over-1-200-fler-dodsfall-i-frankrike",
-   "desc": "Frankrike registrerade 1 243 fler dödsfall än normalt mellan 3 juli och 22 juli då landet drabbades av extremt höga temperaturer, uppger landets folkhälsomyndighet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Åkessons svar till C-ledaren i Strängnäs: ”Får nog förhandla med V, MP och S”",
-   "date": "2026-08-19T14:09:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/akessons-svar-till-c-ledaren-i-strangnas-far-nog-forhandla-med-v-mp-och-s",
-   "desc": "Både Sverigedemokraternas partiledare Jimme Åkesson och Centerpartiets partiledare Elisabeth Thand Ringqvist besökte Strängnäs på onsdagen. Åkesson ger inte mycket för C-ledarens förhoppningar om uppgörelser i den ”breda mitten” efter valet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Brutalt våldtäktsförsök i Nässjö – man band och hotade kvinna med kniv",
-   "date": "2026-08-19T14:05:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/brutalt-valdtaktsforsok-i-nassjo-man-band-och-hotade-kvinna-med-kniv",
-   "desc": "Kvinnan och mannen hade stämt träff. Men efter att de anlänt till hans lägenhet förvandlades träffen till ett frihetsberövande med våld och dödshot."
   },
   {
    "src": "STHLM",
