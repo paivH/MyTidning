@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T05:55:06.327Z",
+ "updated": "2026-08-19T06:37:00.190Z",
  "items": [
   {
    "src": "BBC",
@@ -44,10 +44,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Två män greps efter flyktförsök – släpet fullt av stöldgods",
+   "date": "2026-08-19T06:09:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-man-greps-efter-flyktforsok-slapet-fullt-av-stoldgods",
+   "desc": "Två män har anhållits misstänkta för grov stöld efter ett polisingripande i Mullsjö under natten. I deras släp hittades stöldgods till ett högt värde."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Stor vattenläcka i Skåne – många kommuner drabbade",
    "date": "2026-08-19T04:46:59.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/stor-vattenlacka-i-malmo",
-   "desc": "En större vattenläcka har inträffat hos VA Syds leverantör Sydvatten. Malmö och Svedala är värst drabbade."
+   "desc": "En större vattenläcka har inträffat hos VA Syds leverantör Sydvatten. Malmö och Svedala är värst drabbade. Hushållen uppmanas att inte diska eller duscha under närmsta dygnet."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-19T03:30:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/brudgummen-fick-aka-ambulans-nu-far-paret-ett-nytt-brollop",
    "desc": "När Emilia och Daniel skulle gifta sig i september 2025 så drabbades de av spöregn, magsjuka, och en tur med ambulans till sjukhuset för brudgummen som har diabetes. I augusti ska de få ett nytt bröllop. – Mest ser jag fram emot att få vara med på min egen bröllopsmiddag, säger Daniel Törnqvist."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Batteriparken plågar grannar i Heby: ”Måste ha hörselkåpor på tomten”",
-   "date": "2026-08-19T03:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/uppsala/batteriparken-plagar-grannar-i-heby-maste-ha-horselkapor-pa-tomten",
-   "desc": "Med bandklippning invigdes den nya batteriparken i Heby förra våren – för att stärka elnätet i kommunen. Enligt boende i närheten får de nu betala priset i form av förstörda somrar. – Det konstanta ylandet, som blir värre när det är varmt, är outhärdligt, säger Keijo Parviainen."
   },
   {
    "src": "STHLM",
