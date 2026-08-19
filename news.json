@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T16:31:01.080Z",
+ "updated": "2026-08-19T17:22:57.158Z",
  "items": [
   {
    "src": "BBC",
@@ -28,8 +28,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Israel opens up tenders for controversial West Bank settlement project",
-   "date": "2026-08-19T15:50:22.000Z",
+   "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+   "date": "2026-08-19T17:16:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
    "desc": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned."
   },
@@ -40,6 +40,14 @@
    "date": "2026-08-19T14:16:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
    "desc": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Facket om SD:s affischer på bussarna: ”Busschaufförerna mådde väldigt dåligt”",
+   "date": "2026-08-19T16:38:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/facket-om-sds-affischer-pa-bussarna-chaufforerna-madde-valdigt-daligt",
+   "desc": "Fackförbundet Kommunal uppger att busschaufförer kontaktade sina skyddsombud efter att SD-reklamen sattes upp på bussarna."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-19T14:50:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/har-tranas-framtidens-kriminalvardare-pa-skarpa-situationer",
    "desc": "Under onsdagen invigdes Kriminalvårdens nya utbildningscenter i Norrköping. Hit kommer 1 300 elever kunna tas i mot årligen. På de 3 000 kvadratmetrarna finns flera nya övningsmiljöer. Där autentiska scenario kan utspela sig."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ukrainare gripen – misstänks för Nord Stream-sabotage",
-   "date": "2026-08-19T14:27:21.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/ukrainare-gripen-misstanks-for-nord-stream-sabotage",
-   "desc": "En ukrainsk person har gripits, misstänkt för inblandning i sabotagen mot gasledningen Nord Stream 2022, meddelar tyska åklagare enligt medier."
   },
   {
    "src": "STHLM",
