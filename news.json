@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T09:29:16.433Z",
+ "updated": "2026-08-19T10:00:02.079Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Piteåbonden Markus mardröm: ”Potatisen kan drunkna”",
+   "date": "2026-08-19T09:56:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/piteabonden-markus-mardrom-potatisen-kan-drunkna",
+   "desc": "Leriga åkrar och vattenfyllda fält. Det är verkligheten för bönder i Norrbotten efter den senaste tidens regnande. – Vi är ju uppe i 200 millimeter regn under augusti, så nu börjar det bli besvärligt, säger Markus Levander, potatisodlare i Böle utanför Piteå."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Sluga bluffen: Använde 94-åriga Svenssons för att få ROT-avdrag",
    "date": "2026-08-19T08:51:25.000Z",
    "link": "https://www.svt.se/nyheter/granskning/ug/sluga-bluffen-anvande-94-ariga-svenssons-for-att-fa-rot-avdrag",
@@ -72,14 +80,6 @@
    "date": "2026-08-19T08:00:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/jakten-pa-dubbelmordaren-carina-bergfeldt-gor-serie-om-brattasfallet",
    "desc": "SVT gör en dokumentär om det uppmärksammade dubbelmordet i Brattås 2005. Under hösten släpps den nya serien som heter DNA-spåret i SVT där Carina Bergfeldt djupdyker i fallet och där hon följer fallet genom poliser, anhöriga och inblandade experter."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Två män greps efter flyktförsök – släpet fullt av stöldgods",
-   "date": "2026-08-19T06:09:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-man-greps-efter-flyktforsok-slapet-fullt-av-stoldgods",
-   "desc": "Två män har anhållits misstänkta för grov stöld efter ett polisingripande i Mullsjö under natten. I deras släp hittades stöldgods till ett högt värde."
   },
   {
    "src": "STHLM",
