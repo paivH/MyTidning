@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T17:55:37.040Z",
+ "updated": "2026-08-20T18:34:41.668Z",
  "items": [
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 20 augusti",
+   "date": "2026-08-20T17:54:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-20-augusti-pvbun3",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdag den 20 augusti."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Stort intresse för mässlingsvaccin i Region Stockholm efter utbrott",
    "date": "2026-08-20T17:50:10.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stort-intresse-for-masslingsvaccin-i-region-stockholm-efter-utbrott",
@@ -95,7 +103,7 @@
    "title": "Buss och spårvagn i krock på Strandvägen",
    "date": "2026-08-20T16:12:51.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/buss-och-sparvagn-i-krock-pa-strandvagen",
-   "desc": "Strax innan klockan 18.00 kolliderade en buss och en spårvagn i centrala Stockholm. Enligt uppgifter var bussen fullsatt med passagerare. Flera polisbilar kallades till platsen. Varken passagerare eller personal ska ha skadats."
+   "desc": "Strax innan klockan 18 kolliderade en buss och en spårvagn i centrala Stockholm. Enligt uppgifter var bussen fullsatt med passagerare. Flera polisbilar kallades till platsen. Varken passagerare eller personal ska ha skadats."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-20T09:39:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/vargvalpar-i-norrtalje-sa-vanligt-ar-varg-i-stockholm",
    "desc": "Sex vargvalpar har upptäckts i Norrtäljetrakten. Det förvånar inte vetenskapsjournalisten Henrik Ekman som följt vargens återkomst. Men hur stor är chansen att möta en varg i Stockholm?"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Skarpt föremål utanför villa i Märsta",
-   "date": "2026-08-20T09:09:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-i-marsta-tbzehk",
-   "desc": "Polis har under torsdagen varit på plats vid ett villaområde i Märsta efter larm om ett misstänkt farligt föremål. Nationella bombskyddet bedömde föremålet som skarpt och flyttade det till säker plats."
   },
   {
    "src": "BBC",
