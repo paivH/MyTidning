@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-20T17:00:23.250Z",
+ "updated": "2026-08-20T17:55:37.040Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-   "date": "2026-08-20T13:56:25.000Z",
+   "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+   "date": "2026-08-20T17:14:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-   "desc": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say."
+   "desc": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted."
   },
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Stort intresse för mässlingsvaccin i Region Stockholm efter utbrott",
+   "date": "2026-08-20T17:50:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stort-intresse-for-masslingsvaccin-i-region-stockholm-efter-utbrott",
+   "desc": "Efter att antalet smittade i mässlingsutbrottet ökar och ytterligare fall väntas, söker nu allt fler i länet upp vården för att vaccinera sig mot mässling. – Det är ju en väldigt speciell händelse att den här festivalen ger upphov till så många smittade, säger smittskyddsläkaren Maria Rotzén Östlund om utbrottet på festivalen Urkult."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Karl-Evert missar aldrig surströmmingspremiären: ”Det är viktigt”",
+   "date": "2026-08-20T17:09:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/karl-evert-missar-aldrig-surstrommingspremiaren-det-ar-viktigt",
+   "desc": "Tredje torsdagen i augusti betyder surströmmingspremiär, och även om fångsterna av strömming inte går att jämföra med när det var som bäst, har produktionen av den omtvistade fisken gått relativt bra i år. I strömmingsfabriken i Tynderö i Västernorrland är det den småskaligt fångad och lokalproducerade strömmingen som gäller. – Bra att de bara fiskar med nät, säger strömmingsälskaren Karl-Evert Andersson, som köpte surströmming till kvällens fest direkt vid fabriken."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Buss och spårvagn i krock på Strandvägen",
    "date": "2026-08-20T16:12:51.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/buss-och-sparvagn-i-krock-pa-strandvagen",
@@ -66,20 +82,12 @@
    "desc": "Den ukrainske proffsdykare som misstänks för inblandning i sabotage mot Nord Streamledningen 2022 greps vid en filminspelning om attacken mot gasledningen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Frontalkrock utanför Bålsta – två personer skadade",
-   "date": "2026-08-20T15:35:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/uppsala/frontalkrock-utanfor-balsta-en-person-skadad",
-   "desc": "En personbil och en lätt lastbil har frontalkrockat på väg 263 nordväst om Bålsta. Två personer har skadats och ska föras med ambulans till sjukhus. – En av dem blödde ganska kraftigt, säger Magnus Jansson Klarin, presstalesperson vid polisen. Vägen är helt avstängd."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kabe lyfter – satsar på fyrhjulsdrivet trots intresse för billigare husbilar",
-   "date": "2026-08-20T15:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kabe-lyfter-satsar-pa-fyrhjulsdrivet-trots-intresse-for-billigare-husbilar",
-   "desc": "Husvagns- och husbilstillverkaren Kabe från Tenhult utanför Jönköping ökade försäljningen under andra kvartalet jämfört med samma period förra året. Vinsten ökade med hela 90 procent och aktien rusade."
+   "title": "Stort intresse för mässlingsvaccin i Region Stockholm efter utbrott",
+   "date": "2026-08-20T17:50:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stort-intresse-for-masslingsvaccin-i-region-stockholm-efter-utbrott",
+   "desc": "Efter att antalet smittade i mässlingsutbrottet ökar och ytterligare fall väntas, söker nu allt fler i länet upp vården för att vaccinera sig mot mässling. – Det är ju en väldigt speciell händelse att den här festivalen ger upphov till så många smittade, säger smittskyddsläkaren Maria Rotzén Östlund om utbrottet på festivalen Urkult."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-20T09:09:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-i-marsta-tbzehk",
    "desc": "Polis har under torsdagen varit på plats vid ett villaområde i Märsta efter larm om ett misstänkt farligt föremål. Nationella bombskyddet bedömde föremålet som skarpt och flyttade det till säker plats."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nu blir det lättare att ta sig hem på helgerna: Pendelns nattrafik utökas",
-   "date": "2026-08-20T08:20:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-blir-det-lattare-att-ta-sig-hem-pa-helgerna-pendelns-nattrafik-utokas",
-   "desc": "Från och med natten till fredag kommer det blir enklare att ta sig hem nattetid när pendeltågstrafiken mellan Uppsala, Södertälje och Stockholm utökas. Satsningen är tänkt att göra det tryggare att resa kollektivt, både för den som arbetar obekväma tider och för den som vill åka hem sent efter en utekväll."
   },
   {
    "src": "BBC",
