@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-20T07:37:33.312Z",
+ "updated": "2026-08-20T08:33:27.746Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
-   "date": "2026-08-20T07:19:40.000Z",
+   "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+   "date": "2026-08-20T07:59:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
    "desc": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say."
   },
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Regnet öser ned – följ vår rapportering om väderläget",
+   "date": "2026-08-20T08:18:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/regnet-oser-ned-folj-var-rapportering-om-vaderlaget",
+   "desc": "Regnet öser ned i Norrbotten. SMHI har utfärdat en orange varning för översvämning och höga flöden i området från Boden upp mot Jokkmokk. SVT följer läget direkt här i chatten!"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här fiskas hästarnas höbalar upp från översvämmat Boden",
+   "date": "2026-08-20T08:14:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-fiskas-hastarnas-hobalar-upp-fran-oversvammat-boden",
+   "desc": "I Boden har man tvingats fiska upp hästarnas höbalar från Ljusån efter att ösregnet vräkt ner under flera dygn. – Vattnet har stigit så mycket att höbalarna närmast ån flutit iväg, säger Johan Risberg som arrenderar marken."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Max Verstappen stannar kvar i Red Bulls F1-lag",
    "date": "2026-08-20T07:14:09.000Z",
    "link": "https://www.svt.se/sport/formel-1/max-verstappen-stannar-kvar-i-red-bulls-f1-lag",
@@ -66,20 +82,12 @@
    "desc": "Sjukvården fortsätter att dominera som den viktigaste frågan inför valet, visar en ny opinionsmätning från Verian. Samtidigt klättrar även äldreomsorgen upp i toppskiktet. – Det visar att välfärden är viktig för väljarna, säger Per Söderpalm, opinionsansvarig på Verian."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Villabrand i Huskvarna – boende tog sig ut",
-   "date": "2026-08-20T03:49:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/villabrand-i-huskvarna-boende-tog-sig-ut",
-   "desc": "En full utvecklad brand utbröt under morgonen i en villa i Huskvarna. Fem personer står skrivna på adressen, samtliga tog sig ut oskadda."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ordningsvakter räckte inte – nu sätts kameror upp vid Västerviken i Strängnäs",
-   "date": "2026-08-20T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/ordningsvakter-rackte-inte-nu-satts-kameror-upp-vid-vasterviken-i-strangnas",
-   "desc": "Strängnäs kommun inför kameraövervakning på hamnparkeringen i Västerviken efter återkommande problem med stök under kvällar och nätter. – Det har slagit mot de boende säger Dan Emanuelsson, tillförordnad säkerhetschef."
+   "title": "Nu blir det lättare att ta sig hem på helgerna: Pendelns nattrafik utökas",
+   "date": "2026-08-20T08:20:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-blir-det-lattare-att-ta-sig-hem-pa-helgerna-pendelns-nattrafik-utokas",
+   "desc": "Från och med natten till fredag kommer det blir enklare att ta sig hem nattetid när pendeltågstrafiken mellan Uppsala, Södertälje och Stockholm utökas. Satsningen är tänkt att göra det tryggare att resa kollektivt, både för den som arbetar obekväma tider och för den som vill åka hem sent efter en utekväll."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-19T10:28:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/knivskarning-i-centrala-stockholm",
    "desc": "En man har knivskurits på Södermalm i Stockholm. En kvinna greps av polis efter att ha övermannats av vittnen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kyliga stämningen i bilen: ”Tänker du att det är ett problem?”",
-   "date": "2026-08-19T05:00:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kyliga-stamningen-i-bilen-tanker-du-att-det-ar-ett-problem",
-   "desc": "Vänsterpartiets gruppledare i Stockholms stad, Alexandra Mattsson, vill att snapsmiddagar ska återinföras i stadshuset. Och så blir det kylig stämning i bilen när reporterns fråga uppfattas som en egen åsikt."
   },
   {
    "src": "BBC",
