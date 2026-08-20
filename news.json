@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-20T13:42:18.950Z",
+ "updated": "2026-08-20T14:32:01.813Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-   "date": "2026-08-20T11:06:54.000Z",
+   "date": "2026-08-20T13:56:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
    "desc": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say."
   },
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Bil med fyra unga kraschade mot träd – nu ställs föraren inför rätta",
+   "date": "2026-08-20T14:31:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/bil-med-fyra-unga-kraschade-mot-trad-nu-stalls-foraren-infor-ratta",
+   "desc": "En ung man åtalas nu efter den allvarliga bilolyckan i Jönköping i slutet av april. En av passagerarna skadades allvarligt och den 18-årige föraren åtalas nu för grov vårdslöshet i trafik och vållande till kroppsskada."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fritidsbåt har kört upp på land i Gryts skärgård – en man skadad",
+   "date": "2026-08-20T14:11:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/fritidsbat-kort-upp-pa-land-i-gryts-skargard-en-man-skadad",
+   "desc": "En fritidsbåt har gått hårt på grund i Gryts skärgård utanför Valdemarsvik. En man ombord uppges vara skadad och sjöräddningen från Arkösund och Loftahammar är på väg till platsen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Stor ökning av samtal till 1177 i Västerbotten om mässling: ”Finns en oro”",
    "date": "2026-08-20T11:51:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/stor-okning-av-samtal-till-1177-i-vasterbotten-om-massling-finns-en-oro",
@@ -66,22 +82,6 @@
    "desc": "Två fall av mässlingen har nu bekräftats av Region Sörmland. Fallen kan kopplas till festivalen Urkult, enligt regionen."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Svalt intresse inför surströmmingpremiären – få vill köpa: ”Ingen rusning”",
-   "date": "2026-08-20T09:22:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/svalt-intresse-infor-surstrommingpremiaren-fa-vill-kopa-ingen-rusning",
-   "desc": "Bristen på surströmming verkar ha vänt. I år har fiskarna tagit upp mindre fångst för att butiker och kunder har burkar kvar. – Det har varit brist i flera år, så i fjol passade folk på att köpa på sig och i år har de nog kvar, säger fiskaren Björn Lundgren i Rovögern."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Vårdpersonalens önskan till politikerna inför valet",
-   "date": "2026-08-20T09:11:34.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/vardpersonalens-onskan-till-politikerna-infor-valet",
-   "desc": "Sjukvården är väljarnas viktigaste fråga. Men hur mycket skiljer sig politikernas vallöften inom vårdområdet med vad vårdpersonalen själva ser för behov? Hör vad vårdpersonal önskar i videon och se partiernas viktigaste vårdlöften i listan nedan."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Vargvalpar i Norrtälje – så vanligt är varg i Stockholm",
@@ -92,10 +92,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt farligt föremål i Märsta",
+   "title": "Skarpt föremål utanför villa i Märsta",
    "date": "2026-08-20T09:09:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-i-marsta-tbzehk",
-   "desc": "Polis har under torsdagen varit på plats vid ett villaområde i Märsta efter larm om ett misstänkt farligt föremål. Nationella bombskyddet har varit på plats och tagit med sig föremålet."
+   "desc": "Polis har under torsdagen varit på plats vid ett villaområde i Märsta efter larm om ett misstänkt farligt föremål. Nationella bombskyddet bedömde föremålet som skarpt och förflyttat det till en säker plats."
   },
   {
    "src": "STHLM",
