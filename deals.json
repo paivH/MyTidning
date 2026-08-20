@@ -1,42 +1,42 @@
 {
- "updated": "2026-08-19T04:26:28.632Z",
+ "updated": "2026-08-20T04:26:24.499Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska plommon lösvikt",
-   "price": "34 kr/kg",
+   "item": "Svenska äpplen Aroma, lösvikt",
+   "price": "24 kr/kg",
+   "url": "https://www.ica.se"
+  },
+  {
+   "store": "ICA",
+   "item": "Kycklingfilé Kronfågel 900g",
+   "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Kycklingfilé Belgisk 900g",
-   "price": "59 kr",
+   "item": "Färsk laxfilé Fjordland 400g",
+   "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
-   "store": "ICA",
-   "item": "Färsk laxfilé Norge",
-   "price": "99 kr/kg",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "Rusta",
-   "item": "Utekudde 2-pack",
-   "price": "79 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Skolstart pennfodral & skrivset",
+   "price": "39 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
    "item": "Köttbullar 1kg fryst",
-   "price": "69 kr",
+   "price": "55 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Lidl",
-   "item": "Skolstart pennfodral",
-   "price": "19 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Utematta 120x180 cm",
+   "price": "99 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
