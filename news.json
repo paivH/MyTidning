@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T11:52:45.673Z",
+ "updated": "2026-08-20T12:39:47.336Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Stor ökning av samtal till 1177 i Västerbotten om mässling: ”Finns en oro”",
+   "date": "2026-08-20T11:51:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/stor-okning-av-samtal-till-1177-i-vasterbotten-om-massling-finns-en-oro",
+   "desc": "Det är en stor ökning av samtal till 1177 i Västerbotten kring mässling och vaccin de senaste dagarna. – Mässling är ingenting vi i vanliga fall pratar om. Det är en rejäl ökning, säger Karina Salomonsson, chef för 1177 i Västerbotten."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Perseus Karlström nobbar Finnkampen – efter 15 raka år",
    "date": "2026-08-20T10:45:02.000Z",
    "link": "https://www.svt.se/sport/friidrott/perseus-karlstrom-nobbar-finnkampen-efter-15-raka-ar",
@@ -72,14 +80,6 @@
    "date": "2026-08-20T09:11:34.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/vardpersonalens-onskan-till-politikerna-infor-valet",
    "desc": "Sjukvården är väljarnas viktigaste fråga. Men hur mycket skiljer sig politikernas vallöften inom vårdområdet med vad vårdpersonalen själva ser för behov? Hör vad vårdpersonal önskar i videon och se partiernas viktigaste vårdlöften i listan nedan."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Högg kvinna i halsen – döms för knivmord i Skellefteå",
-   "date": "2026-08-20T09:05:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/hogg-kvinna-i-halsen-doms-for-knivmord-i-skelleftea",
-   "desc": "En man i 35-årsåldern högg en kvinna med kniv i halsen. Nu döms han för mord till rättspsykiatrisk vård med särskild utskrivningsprövning. – Han gick oprovocerat till attack mot henne och högg henne i halsen med en kniv, sa kammaråklagare Anna Lundberg till SVT tidigare."
   },
   {
    "src": "STHLM",
