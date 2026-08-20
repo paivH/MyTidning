@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-20T10:02:30.434Z",
+ "updated": "2026-08-20T10:56:19.646Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-   "date": "2026-08-20T09:37:31.000Z",
+   "date": "2026-08-20T10:34:33.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
    "desc": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say."
   },
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Perseus Karlström nobbar Finnkampen – efter 15 raka år",
+   "date": "2026-08-20T10:45:02.000Z",
+   "link": "https://www.svt.se/sport/friidrott/perseus-karlstrom-nobbar-finnkampen-efter-15-raka-ar",
+   "desc": "Perseus Karlström har deltagit i varje upplaga av Finnkampen sedan 2011. Men i år saknas han i truppen. Anledningen: Ett bröllop. ”Det gick verkligen inte att få ihop” skriver han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Två fall av mässling konstaterade i Sörmland",
+   "date": "2026-08-20T10:43:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/tva-fall-av-massling-konstaterade-i-sormland",
+   "desc": "Två fall av mässlingen har nu bekräftats av Region Sörmland. Fallen kan kopplas till festivalen Urkult, enligt regionen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Svalt intresse inför surströmmingpremiären – få vill köpa: ”Ingen rusning”",
    "date": "2026-08-20T09:22:55.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/svalt-intresse-infor-surstrommingpremiaren-fa-vill-kopa-ingen-rusning",
@@ -66,22 +82,6 @@
    "desc": "En man i 35-årsåldern högg en kvinna med kniv i halsen. Nu döms han för mord till rättspsykiatrisk vård med särskild utskrivningsprövning. – Han gick oprovocerat till attack mot henne och högg henne i halsen med en kniv, sa kammaråklagare Anna Lundberg till SVT tidigare."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Cyklisten Emilien Jacquelin kan lägga ned skidskyttet: ”Lever min dröm”",
-   "date": "2026-08-20T09:01:52.000Z",
-   "link": "https://www.svt.se/sport/skidskytte/cyklisten-emilien-jacquelin-kan-lagga-ned-skidskyttet-lever-min-drom",
-   "desc": "Emilien Jacquelin har lämnat skidskyttet för cykel under sommaren. De flesta trodde att det bara var tillfälligt. Men nu öppnar han för att skidskyttekarriären kan vara över. – Jag kan inte säga om jag kommer tillbaka, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Malins son omhändertogs som nyfödd – i dag får han komma hem",
-   "date": "2026-08-20T08:56:53.000Z",
-   "link": "https://www.svt.se/nyheter/granskning/ug/malins-son-omhandertogs-som-nyfodd-i-dag-far-han-komma-hem",
-   "desc": "Barnskötaren Malins bebis omhändertogs efter att vården felaktigt skrivit in i journalen att Malin hade en intellektuell funktionsnedsättning. Två år har gått – och idag har socialnämnden i Örebro fattat beslut om att LVU ska upphöra. – Jag vet inte om jag tror på det än, säger Malin."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Vargvalpar i Norrtälje – så vanligt är varg i Stockholm",
@@ -95,7 +95,7 @@
    "title": "Misstänkt farligt föremål i Märsta",
    "date": "2026-08-20T09:09:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-i-marsta-tbzehk",
-   "desc": "Polis är på plats vid ett villaområde i Märsta efter larm om ett misstänkt farligt föremål. Nationella bombskyddet är på plats."
+   "desc": "Polis har under torsdagen varit på plats vid ett villaområde i Märsta efter larm om ett misstänkt farligt föremål. Nationella bombskyddet har varit på plats och tagit med sig föremålet."
   },
   {
    "src": "STHLM",
