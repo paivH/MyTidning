@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-20T05:56:16.240Z",
+ "updated": "2026-08-20T06:42:59.650Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-   "date": "2026-08-20T05:10:09.000Z",
+   "date": "2026-08-20T06:39:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
    "desc": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision."
   },
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-   "date": "2026-08-20T05:07:00.000Z",
+   "date": "2026-08-20T06:08:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
    "desc": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
   },
@@ -40,6 +40,14 @@
    "date": "2026-08-20T02:05:20.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
    "desc": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\"."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Medarbetare i Vännäs kommun misstänks för brott på boende – stängs av",
+   "date": "2026-08-20T05:53:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/medarbetare-i-vannas-kommun-misstanks-for-brott-pa-boende-stangs-av",
+   "desc": "En medarbetare inom Vännäs kommun misstänks för ett brott på ett boende inom funktionsstöd. Vännäs kommun har stängt av medarbetaren i väntan på polisutredningen."
   },
   {
    "src": "SVT",
@@ -74,14 +82,6 @@
    "desc": "40 personer ska övernatta i skyddsrum i Grums natten 24–25 september. SVT följer med ned i Edsholms äldreboenden och visar hur det går till."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Nattöppet eller inte – akuten i Köping kan avgöra regionvalet i Västmanland",
-   "date": "2026-08-20T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/ej-klar-politiskt-splittring-om-nattoppen-akut-i-koping",
-   "desc": "Trots protester stängdes akuten i Köping nattetid för två år sedan. Ett nödvändigt beslut som gett positiva effekter enligt Region Västmanlands politiska majoritet. Men oppositionen går till val på att riva upp beslutet. – En nattstängd akut skapar oro för de som bor här, säger Kenneth Östberg (S), oppositionsråd."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 19 augusti",
@@ -92,10 +92,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Hål på Essingeleden – köer väntas",
+   "title": "Essingeleden öppen igen",
    "date": "2026-08-19T13:10:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/slukhal-pa-essingeleden-massiva-koer-vantas",
-   "desc": "Ett hål har upptäckts på Essingeleden i Stockholm. Händelsen har enligt Trafikverket mycket stor påverkan på trafiken. Det är just nu oklart hur länge hålet kommer ta att åtgärda."
+   "desc": "Ett hål har upptäckts på Essingeleden i Stockholm. Händelsen har enligt Trafikverket mycket stor påverkan på trafiken. Trafiken är åter igång under torsdagsmorgonen."
   },
   {
    "src": "STHLM",
