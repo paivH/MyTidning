@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T16:01:12.735Z",
+ "updated": "2026-08-20T17:00:23.250Z",
  "items": [
   {
    "src": "BBC",
@@ -28,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-   "date": "2026-08-20T10:14:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
+   "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+   "date": "2026-08-20T16:53:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month."
   },
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Buss och spårvagn i krock på Strandvägen",
+   "date": "2026-08-20T16:12:51.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/buss-och-sparvagn-i-krock-pa-strandvagen",
+   "desc": "Strax innan klockan 18.00 kolliderade en buss och en spårvagn i centrala Stockholm. Enligt uppgifter var bussen fullsatt med passagerare. Flera polisbilar kallades till platsen. Varken passagerare eller personal ska ha skadats."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här gör C och S sitt första gemensamma framträdande i valrörelsen",
+   "date": "2026-08-20T15:58:55.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/har-gor-c-och-s-sitt-forsta-gemensamma-framtradande-i-valrorelsen",
+   "desc": "Magdalena Andersson (S) och Elisabeth Thand Ringqvist (C) visade första gången i valrörelsen upp enad front när de i dag besökte Handelshögskolan i Stockholm. Men bakom enigheten råder fortsatt olika åsikter i flera viktiga frågor. – Exakt hur vi ska landa i speciella förslag får vi vänta med till efter valet, säger C-ledaren."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Nord Stream-misstänkt greps vid filminspelning",
    "date": "2026-08-20T15:56:13.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/nord-stream-misstankt-greps-vid-filminspelning",
@@ -52,10 +68,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Frontalkrock utanför Bålsta – en person skadad",
+   "title": "Frontalkrock utanför Bålsta – två personer skadade",
    "date": "2026-08-20T15:35:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/uppsala/frontalkrock-utanfor-balsta-en-person-skadad",
-   "desc": "En personbil och en lätt lastbil har frontalkrockat på väg 263 nordväst om Bålsta. Initialt bedöms en person vara skadad. Vägen är helt avstängd."
+   "desc": "En personbil och en lätt lastbil har frontalkrockat på väg 263 nordväst om Bålsta. Två personer har skadats och ska föras med ambulans till sjukhus. – En av dem blödde ganska kraftigt, säger Magnus Jansson Klarin, presstalesperson vid polisen. Vägen är helt avstängd."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Husvagns- och husbilstillverkaren Kabe från Tenhult utanför Jönköping ökade försäljningen under andra kvartalet jämfört med samma period förra året. Vinsten ökade med hela 90 procent och aktien rusade."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "SVT:s valbuss – möter ung kd-politiker i Krokom: Det går att påverka",
-   "date": "2026-08-20T15:24:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/svts-valbuss-moter-ung-kd-politiker-i-krokom-det-gar-att-paverka",
-   "desc": "Idag torsdag har vi på SVT Jämtland dragit igång vår valturné i länet. Under valturnén träffar vi unga politiker för att lyssna på deras perspektiv, vilka frågor de tycker är viktigast och vilken betydelse det har att fler unga engagerar sig politiskt. Under valturnéns första stopp i Krokom ställde vi frågorna till en av kommunens unga politiker: Rasmus Ericsson (KD),"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "LTU-studenter utan bostad – ministern kritisk",
-   "date": "2026-08-20T14:33:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/ltu-studenter-utan-bostad-ministern-kritisk",
-   "desc": "254 studenter som ska börja vid LTU står utan bostad. Högskoleminister Lotta Edholm (L) är kritisk till kommunens hantering och partiet kräver en bostadsgaranti. – Det är lätt att säga nu, det hade behövt byggas över tid, svarar kommunalrådet Fredrik Hansson (S)."
+   "title": "Buss och spårvagn i krock på Strandvägen",
+   "date": "2026-08-20T16:12:51.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/buss-och-sparvagn-i-krock-pa-strandvagen",
+   "desc": "Strax innan klockan 18.00 kolliderade en buss och en spårvagn i centrala Stockholm. Enligt uppgifter var bussen fullsatt med passagerare. Flera polisbilar kallades till platsen. Varken passagerare eller personal ska ha skadats."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Från och med natten till fredag kommer det blir enklare att ta sig hem nattetid när pendeltågstrafiken mellan Uppsala, Södertälje och Stockholm utökas. Satsningen är tänkt att göra det tryggare att resa kollektivt, både för den som arbetar obekväma tider och för den som vill åka hem sent efter en utekväll."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bussolycka på Södermalm – krockade med busskur",
-   "date": "2026-08-20T07:09:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/olycka-med-buss-i-city-korde-in-i-busskur",
-   "desc": "En buss har kolliderat med en busskur vid Londonviadukten på Södermalm i Stockholm. Ingen person ska ha blivit påkörd men minst tre ska ha fått glassplitter på sig."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-08-20T16:45:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p5k4vh?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd head coach Michael Carrick says they face a tough start to the new season."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-08-16T14:36:05.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p4vdlp?at_medium=RSS&at_campaign=rss",
    "desc": "Harry Maguire believes Marcus Rashford will improve United, following defeat to AC Milan."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-14T08:00:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p4dt20?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd boss Michael Carrick on Bruno Fernandes, the Champions League and expectations."
   }
  ]
 }
