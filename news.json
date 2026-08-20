@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-20T03:42:39.812Z",
+ "updated": "2026-08-20T04:33:21.275Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-   "date": "2026-08-19T15:33:32.000Z",
+   "date": "2026-08-20T04:17:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
    "desc": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
   },
@@ -15,7 +15,7 @@
    "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
    "date": "2026-08-20T03:12:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-   "desc": "Australia's foreign minister summoned the Israeli ambassador over 'insulting' Zomi Frankcom decision."
+   "desc": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision."
   },
   {
    "src": "BBC",
@@ -31,7 +31,7 @@
    "title": "Giant whales move into Greenland waters as ice disappears",
    "date": "2026-08-20T02:05:20.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-   "desc": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'."
+   "desc": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\"."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-08-20T03:09:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
    "desc": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sjukvården viktigast för väljarna – här är frågorna som svalnat",
+   "date": "2026-08-20T03:57:18.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sjukvarden-viktigast-for-valjarna-har-ar-fragorna-som-svalnat",
+   "desc": "Sjukvården fortsätter att dominera som den viktigaste fråga inför valet, visar en ny opinionsmätning från Verian. Samtidigt klättrar även äldreomsorgen upp i toppskiktet. – Det visar att välfärden är viktig för väljarna, säger Per Söderpalm, opinionsansvarig på Verian."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-20T03:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/tvillingar-blir-ensamma-nar-jokkmokk-oppnar-lss-fritids",
    "desc": "Clara och Matilda, 14 år, förlorar sitt umgänge på fritids när Jokkmokks kommun inför en ny verksamhet för korttidstillsyn enligt LSS. Tvillingarna kommer att vara de enda barnen i de nya lokalerna och mamman vill att de i stället ska kunna gå kvar på fritids. – Det känns som en form av isolering, säger Helena Eriksson, mamma till barnen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Gratis mässlingsvaccin till vuxna i Sörmland",
-   "date": "2026-08-19T18:20:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/gratis-masslingsvaccin-till-vuxna-i-sormland",
-   "desc": "Region Sörmland erbjuder gratis mässlingsvaccin till vuxna. Bakgrunden är det pågående utbrottet i Sverige med 21 bekräftade fall."
   },
   {
    "src": "STHLM",
