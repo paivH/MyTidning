@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T15:29:22.124Z",
+ "updated": "2026-08-20T16:01:12.735Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Nord Stream-misstänkt greps vid filminspelning",
+   "date": "2026-08-20T15:56:13.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/nord-stream-misstankt-greps-vid-filminspelning",
+   "desc": "Den ukrainske proffsdykare som misstänks för inblandning i sabotage mot Nord Streamledningen 2022 greps vid en filminspelning om attacken mot gasledningen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Frontalkrock utanför Bålsta – en person skadad",
+   "date": "2026-08-20T15:35:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/uppsala/frontalkrock-utanfor-balsta-en-person-skadad",
+   "desc": "En personbil och en lätt lastbil har frontalkrockat på väg 263 nordväst om Bålsta. Initialt bedöms en person vara skadad. Vägen är helt avstängd."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kabe lyfter – satsar på fyrhjulsdrivet trots intresse för billigare husbilar",
+   "date": "2026-08-20T15:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kabe-lyfter-satsar-pa-fyrhjulsdrivet-trots-intresse-for-billigare-husbilar",
+   "desc": "Husvagns- och husbilstillverkaren Kabe från Tenhult utanför Jönköping ökade försäljningen under andra kvartalet jämfört med samma period förra året. Vinsten ökade med hela 90 procent och aktien rusade."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "SVT:s valbuss – möter ung kd-politiker i Krokom: Det går att påverka",
    "date": "2026-08-20T15:24:30.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/svts-valbuss-moter-ung-kd-politiker-i-krokom-det-gar-att-paverka",
@@ -56,30 +80,6 @@
    "date": "2026-08-20T14:33:57.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/ltu-studenter-utan-bostad-ministern-kritisk",
    "desc": "254 studenter som ska börja vid LTU står utan bostad. Högskoleminister Lotta Edholm (L) är kritisk till kommunens hantering och partiet kräver en bostadsgaranti. – Det är lätt att säga nu, det hade behövt byggas över tid, svarar kommunalrådet Fredrik Hansson (S)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bil med fyra unga kraschade mot träd – nu ställs föraren inför rätta",
-   "date": "2026-08-20T14:31:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/bil-med-fyra-unga-kraschade-mot-trad-nu-stalls-foraren-infor-ratta",
-   "desc": "En ung man åtalas nu efter den allvarliga bilolyckan i Jönköping i slutet av april. En av passagerarna skadades allvarligt och den 18-årige föraren åtalas nu för grov vårdslöshet i trafik och vållande till kroppsskada."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fritidsbåt har kört upp på land i Gryts skärgård – en man skadad",
-   "date": "2026-08-20T14:11:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/fritidsbat-kort-upp-pa-land-i-gryts-skargard-en-man-skadad",
-   "desc": "En fritidsbåt har gått hårt på grund i Gryts skärgård utanför Valdemarsvik. En man ombord uppges vara skadad och sjöräddningen från Arkösund och Loftahammar är på väg till platsen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Stor ökning av samtal till 1177 i Västerbotten om mässling: ”Finns en oro”",
-   "date": "2026-08-20T11:51:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/stor-okning-av-samtal-till-1177-i-vasterbotten-om-massling-finns-en-oro",
-   "desc": "Det är en stor ökning av samtal till 1177 i Västerbotten kring mässling och vaccin de senaste dagarna. – Mässling är ingenting vi i vanliga fall pratar om. Det är en rejäl ökning, säger Karina Salomonsson, chef för 1177 i Västerbotten."
   },
   {
    "src": "STHLM",
