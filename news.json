@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T02:35:33.008Z",
+ "updated": "2026-08-20T03:42:39.812Z",
  "items": [
   {
    "src": "BBC",
@@ -13,15 +13,15 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-   "date": "2026-08-20T00:48:57.000Z",
+   "date": "2026-08-20T03:12:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-   "desc": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision."
+   "desc": "Australia's foreign minister summoned the Israeli ambassador over 'insulting' Zomi Frankcom decision."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-   "date": "2026-08-20T02:16:49.000Z",
+   "date": "2026-08-20T03:22:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
    "desc": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict."
   },
@@ -36,10 +36,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-   "date": "2026-08-20T00:53:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-   "desc": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\"."
+   "title": "Former Liberian vice president charged in drug-trafficking probe",
+   "date": "2026-08-20T03:09:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+   "desc": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ordningsvakter räckte inte – nu sätts kameror upp vid Västerviken i Strängnäs",
+   "date": "2026-08-20T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/ordningsvakter-rackte-inte-nu-satts-kameror-upp-vid-vasterviken-i-strangnas",
+   "desc": "Strängnäs kommun inför kameraövervakning på hamnparkeringen i Västerviken efter återkommande problem med stök under kvällar och nätter. – Det har slagit mot de boende säger Dan Emanuelsson, tillförordnad säkerhetschef."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "40 personer ska övernatta i skyddsrum i Grums – följ med inför unika testet: ”Ingen mysbajsning”",
+   "date": "2026-08-20T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/40-personer-ska-overnatta-i-skyddsrum-i-grums-folj-med-infor-unika-testet-ingen-mysbajsning",
+   "desc": "40 personer ska övernatta i skyddsrum i Grums natten 24–25 september. SVT följer med ned i Edsholms äldreboenden och visar hur det går till."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nattöppet eller inte – akuten i Köping kan avgöra regionvalet i Västmanland",
+   "date": "2026-08-20T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/ej-klar-politiskt-splittring-om-nattoppen-akut-i-koping",
+   "desc": "Trots protester stängdes akuten i Köping nattetid för två år sedan. Ett nödvändigt beslut som gett positiva effekter enligt Region Västmanlands politiska majoritet. Men oppositionen går till val på att riva upp beslutet. – En nattstängd akut skapar oro för de som bor här, säger Kenneth Östberg (S), oppositionsråd."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tvillingar blir ensamma när Jokkmokk öppnar LSS-fritids",
+   "date": "2026-08-20T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/tvillingar-blir-ensamma-nar-jokkmokk-oppnar-lss-fritids",
+   "desc": "Clara och Matilda, 14 år, förlorar sitt umgänge på fritids när Jokkmokks kommun inför en ny verksamhet för korttidstillsyn enligt LSS. Tvillingarna kommer att vara de enda barnen i de nya lokalerna och mamman vill att de i stället ska kunna gå kvar på fritids. – Det känns som en form av isolering, säger Helena Eriksson, mamma till barnen."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-08-19T18:20:59.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/gratis-masslingsvaccin-till-vuxna-i-sormland",
    "desc": "Region Sörmland erbjuder gratis mässlingsvaccin till vuxna. Bakgrunden är det pågående utbrottet i Sverige med 21 bekräftade fall."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Proryskt trollnätverk riktar in sig på svenska valet",
-   "date": "2026-08-19T17:30:24.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/proryskt-trollnatverk-riktar-in-sig-pa-svenska-valet",
-   "desc": "Ett proryskt trollnätverk har spridit lögner om valfusk i Sverige, och riktat falska anklagelser mot Sveriges statsminister Ulf Kristersson (M). – Vi ser sånt här över hela Europa. Ryssarna inriktar sig mot länder som stöttar Ukraina, säger Kristersson till SVT. Men kampanjen tycks också ha ett annat syfte."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Facket om SD:s affischer på bussarna: ”Busschaufförerna mådde väldigt dåligt”",
-   "date": "2026-08-19T16:38:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/facket-om-sds-affischer-pa-bussarna-chaufforerna-madde-valdigt-daligt",
-   "desc": "Fackförbundet Kommunal uppger att busschaufförer kontaktade sina skyddsombud efter att SD-reklamen sattes upp på bussarna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SD-toppen om affischbråket på bussar i Skaraborg: ”Konstigt”",
-   "date": "2026-08-19T15:30:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/sd-toppen-om-affischbraket-pa-bussar-i-skaraborg-konstigt",
-   "desc": "Valsabotage, menar Sverigedemokraterna och riksdagsledamoten Tobias Andersson (SD) som frontar affischerna. Inte alls, svarar Västtrafik, som uppger att beslutet handlar om en arbetsmiljöfråga, två bussar och två SD-affischer. – Övrig annonsering från Sverigedemokraterna i hela regionen sitter fortsatt uppsatt som planerat, skriver Västtrafik i en kommentar till SVT."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt för våldtäkt i hemtjänsten i Sundsvall besökte vårdtagare på fritiden",
-   "date": "2026-08-19T15:07:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/misstankt-for-valdtakt-i-hemtjansten-i-sundsvall-besokte-vardtagare-pa-fritiden",
-   "desc": "Mannen har haft ett gränslöst beteende mot fler och en del äldre har känt sig otrygga. Det framkommer i den utredning Sundsvalls kommun gjort efter misstänkta sexuella övergrepp mot äldre i hemtjänsten. Han har också besökt en kvinna utanför arbetstid."
   },
   {
    "src": "STHLM",
