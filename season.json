@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-19T04:05:46.612Z",
+ "updated": "2026-08-20T04:05:52.328Z",
  "items": [
   {
-   "ingredient": "grönkål",
-   "idea": "Massera grönkål med 2% salt, fermentera 3 dagar i burk – krispig, syrlig snacks."
+   "ingredient": "kålrot",
+   "idea": "Snabbsyrad kålrot: strimla, blanda 1:1:1 ättika, vatten, socker, låt dra en timme innan servering."
   },
   {
-   "ingredient": "kantareller",
-   "idea": "Stek kantareller hastigt i smör, vänd ner i surdegsdeg för smakrikt vardagsbröd."
-  },
-  {
-   "ingredient": "plommon",
-   "idea": "Snabbpickla plommon i lag 1:1:1 ättika, socker, vatten – perfekt till ost."
+   "ingredient": "chili",
+   "idea": "Fermentera hel chili i 2% saltlag två veckor, mixa sedan till en syrlig hetsås."
   },
   {
    "ingredient": "majs",
-   "idea": "Grilla majskolvar, skiva av kornen och wokka med chili för snabb vardagsmiddag."
+   "idea": "Grilla majskolvar snabbt, pensla med chilismör och lime – perfekt vardagsmiddag på tio minuter."
+  },
+  {
+   "ingredient": "plommon",
+   "idea": "Baka surdegsbröd med halverade plommon inbakade, ger syrlig sötma och fin fukt i brödet."
   }
  ]
 }
