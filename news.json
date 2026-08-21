@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T20:21:00.204Z",
+ "updated": "2026-08-21T20:48:47.996Z",
  "items": [
   {
    "src": "BBC",
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "One killed in sword attack at Swedish school",
+   "date": "2026-08-21T19:22:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+   "desc": "One person remains in a critical condition, while another suffered minor injuries in the attack."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
    "date": "2026-08-21T05:47:32.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
@@ -32,14 +40,6 @@
    "date": "2026-08-21T15:58:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
    "desc": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Two injured in stabbing attack at Canada Sikh temple",
-   "date": "2026-08-21T18:27:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-   "desc": "One suspect is in custody, but police have not disclosed a possible motive."
   },
   {
    "src": "SVT",
