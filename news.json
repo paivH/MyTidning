@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T15:28:38.266Z",
+ "updated": "2026-08-21T15:59:50.874Z",
  "items": [
   {
    "src": "BBC",
@@ -29,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Several injured after sword attack at Swedish school",
-   "date": "2026-08-21T15:26:24.000Z",
+   "date": "2026-08-21T15:42:47.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
    "desc": "Police say one man has been arrested, while several other local schools have been locked down."
   },
@@ -40,6 +40,14 @@
    "date": "2026-08-21T13:44:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
    "desc": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Järnaarrangören inte orolig över mässlingsspridningen",
+   "date": "2026-08-21T15:52:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/jarnaarrangoren-inte-orolig-over-masslingsspridningen",
+   "desc": "Tankarna går isär i Järna inför lördagens stora musik- och kulturfestival. Några är avslappnade inför mässlingsmittan, medan andra uttrycker frustration över dem som inte vaccinerar sig."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-21T14:18:46.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/uppvisningspiloten-passa-pa-och-njut",
    "desc": "Idag var det genrep inför helgens flyguppvisningar i Linköping när Flygvapnet firar sina 100 år. 1000 så kallade planespotters, 5000 gymnasieelever och en mängd branschfolk var inbjudna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så ser unga norrbottningar på att allt fler pensionärer fortsätter jobba",
-   "date": "2026-08-21T14:13:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-ser-unga-norrbottningar-pa-att-allt-fler-pensionarer-fortsatter-jobba",
-   "desc": "En tydlig trend under 2026 är att allt fler fortsätter arbeta efter den traditionella pensionsåldern. När SVT frågar unga hur de ser på saken framkommer en viss oro: ”Speciellt när AI tar över jobben.”"
   },
   {
    "src": "STHLM",
