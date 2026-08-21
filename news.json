@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-21T06:58:54.565Z",
+ "updated": "2026-08-21T07:48:58.667Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+   "date": "2026-08-21T05:00:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,26 +28,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "El Niño set to be 'strongest in living memory', says Met Office",
-   "date": "2026-08-21T00:33:21.000Z",
-   "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
+   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+   "date": "2026-08-21T05:47:32.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-   "date": "2026-08-21T05:30:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-   "desc": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,"
+   "title": "Five missing after fire in Swiss Alpine town",
+   "date": "2026-08-21T07:06:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+   "desc": "Eight others were injured, local police say, with the cause of the fire still being investigated."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Why the US economy is ringing alarm bells",
-   "date": "2026-08-20T23:15:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?"
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Alltid vid Trumps sida – så blev Natalie Harp en snackis",
+   "date": "2026-08-21T07:24:43.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/alltid-vid-trumps-sida-sa-blev-natalie-harp-en-snackis",
+   "desc": "Hon tillskriver Donald Trump sin seger mot cancer – och står så nära presidenten att hon en gång åkte i en baklucka för att få vara vid hans sida. 35-åriga assistenten Natalie Harp tycks vara Trumps största fan och absoluta favorit. Men vem är hon?"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter larm om brister – ytterligare en död delfin på Kolmården",
+   "date": "2026-08-21T07:00:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/delfin-pa-kolmarden-avlivad-av-halsoskal",
+   "desc": "Efter en tids ohälsa har ytterligare en delfin dött på det kritiserade delfinariet på Kolmårdens djurpark. Det var i början av veckan som den 42-årige hanen avlivades."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Förra året påverkade spårspring över 13 000 tåg i Sverige. På Västerås centralstation sker det återkommande att personer tar en genväg över spåren. – Du vann en minut på att springa över. Men 250 resenärer blir försenade, säger Anna-Pia Lingemyr, sektionschef för Operativ ledning på Trafikverket."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Anki och Sivert från Torshälla har seglat runt jorden i åtta år",
-   "date": "2026-08-21T03:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/anki-och-sivert-fran-torshalla-har-seglat-runt-jorden-i-atta-ar",
-   "desc": "Torshällaparet Anki och Sivert lämnade Sverige för ett äventyr med sin segelbåt över hav och kontinenter för åtta år sedan. Nu har de återvänt hem igen. – Vi ska ha tv och Netflix som vi inte har haft på åtta år, säger Anki Stenkvist."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Mångmiljonsatsning: Glaskogen blir testmiljö för framtidens naturturism",
-   "date": "2026-08-21T03:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/mangmiljonsatsning-glaskogen-blir-testmiljo-for-framtidens-naturturism",
-   "desc": "Sensorer, digital modell och 12 miljoner kronor. Glaskogen blir testmiljö för framtidens naturturism i ett projekt lett av Högskolan Dalarna."
+   "title": "Biljakt i Solna – tre till sjukhus",
+   "date": "2026-08-21T07:08:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/biljakt-i-solna-tre-till-sjukhus",
+   "desc": "Tre personer har fått föras till sjukhus i samband med en trafikolycka efter en polisjakt i Solna. – Föraren och två personer i den andra bilen undersöktes på plats och fick följa med ambulans till sjukhus, men det rör sig inte om livshotande skador, säger Susanna Rinaldo, presstalesperson vid polisen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-20T16:12:51.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/buss-och-sparvagn-i-krock-pa-strandvagen",
    "desc": "Strax innan klockan 18 kolliderade en buss och en spårvagn i centrala Stockholm. Enligt uppgifter var bussen fullsatt med passagerare. Flera polisbilar kallades till platsen. Varken passagerare eller personal ska ha skadats."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinna påkörd av buss vid Odenplan",
-   "date": "2026-08-20T15:04:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-pakord-av-buss-pa-odenplan",
-   "desc": "En kvinna har blivit påkörd av en buss vid Odenplan i centrala Stockholm. Polis och ambulans är på plats och kvinnan ska ha klarat sig utan livshotande skador."
   },
   {
    "src": "BBC",
