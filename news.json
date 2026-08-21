@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T09:32:20.452Z",
+ "updated": "2026-08-21T10:25:41.140Z",
  "items": [
   {
    "src": "BBC",
@@ -28,18 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Five missing after fire in Swiss Alpine town",
-   "date": "2026-08-21T07:06:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-   "desc": "Eight others were injured, local police say, with the cause of the fire still being investigated."
+   "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+   "date": "2026-08-21T09:53:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+   "desc": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Meghan could return to acting once back in UK",
-   "date": "2026-08-21T02:52:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
+   "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+   "date": "2026-08-21T04:27:13.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+   "desc": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Dubbla svenska medaljer på 100 meter",
+   "date": "2026-08-21T09:35:32.000Z",
+   "link": "https://www.svt.se/nyheter/nyhetstecken/dubbla-svenska-medaljer-pa-100-meter",
+   "desc": "Sverige tog dubbla medaljer på 100 meter i de europeiska ungdomsmästerskapen för döva i Tyskland. Elias Knutsson vann guld i U16 för herrar och i damer U18 sprang Enya Kojic hem silvret."
   },
   {
    "src": "SVT",
@@ -74,14 +82,6 @@
    "desc": "Tre personer har fått föras till sjukhus i samband med en trafikolycka efter en polisjakt i Solna. – Föraren och två personer i den andra bilen undersöktes på plats och fick följa med ambulans till sjukhus, men det rör sig inte om livshotande skador, säger Susanna Rinaldo, presstalesperson vid polisen."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Efter larm om brister – ytterligare en död delfin på Kolmården",
-   "date": "2026-08-21T07:00:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/delfin-pa-kolmarden-avlivad-av-halsoskal",
-   "desc": "Efter en tids ohälsa har ytterligare en delfin dött på det kritiserade delfinariet på Kolmårdens djurpark. Det var i början av veckan som den 42-årige hanen avlivades."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Biljakt i Solna – tre till sjukhus",
@@ -108,7 +108,7 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Stort intresse för mässlingsvaccin i Region Stockholm efter utbrott",
+   "title": "Nio fall av mässling i Region Stockholm",
    "date": "2026-08-20T17:50:10.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stort-intresse-for-masslingsvaccin-i-region-stockholm-efter-utbrott",
    "desc": "Efter att antalet smittade i mässlingsutbrottet ökar och ytterligare fall väntas, söker nu allt fler i länet upp vården för att vaccinera sig mot mässling. – Det är ju en väldigt speciell händelse att den här festivalen ger upphov till så många smittade, säger smittskyddsläkaren Maria Rotzén Östlund om utbrottet på festivalen Urkult."
