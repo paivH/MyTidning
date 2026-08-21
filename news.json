@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T11:52:56.879Z",
+ "updated": "2026-08-21T12:38:40.993Z",
  "items": [
   {
    "src": "BBC",
@@ -36,10 +36,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-   "date": "2026-08-21T10:46:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-   "desc": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
+   "title": "Panama Canal to cut number of ships passing through due to El Niño",
+   "date": "2026-08-21T06:46:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+   "desc": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter mässlingsutbrottet på Urkult – fler i Jämtland vill ha vaccin",
+   "date": "2026-08-21T12:34:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/efter-masslingsutbrottet-pa-urkult-fler-i-jamtland-vill-ha-vaccin",
+   "desc": "Kulmen på mässlingssmittan i Jämtlands län kan vara nådd. Det tror smittskyddsläkare Annika Ersson. Hon betonar att risken att smittas är liten. Samtidigt ökar frågor om mässlingsvaccin."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Stor polisinsats vid Brinellskolan i Fagersta",
+   "date": "2026-08-21T12:31:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/stor-polisinsats-vid-brinellskolan-i-fagersta",
+   "desc": "Polis och räddningspersonal befinner sig just nu på Brinellskolan i Fagersta."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så blev domen mot undersköterskan som örfilade dement man",
+   "date": "2026-08-21T12:11:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sa-blev-domen-mot-underskoterskan-som-orfilade-dement-man",
+   "desc": "Undersköterskan som åtalats för misshandel av en äldre man på äldreboendet Vilhelmsrogården i Jönköping dömdes i dag till villkorlig dom och dagsböter."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-08-21T11:13:02.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/sa-smittar-massling-och-sa-farligt-ar-det",
    "desc": "Det räcker att vara i samma rum som en person med mässling för att kunna smittas. Men hur farlig är sjukdomen och vilken skillnad gör vaccinet? I videon svarar SVT:s vårdreporter Hedda Berglund på några av de vanligaste frågorna om mässling."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Finland kämpar med svinpesten – så fick Sverige stopp på smittan",
-   "date": "2026-08-21T10:56:26.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/svenska/finland-kampar-med-svinpesten-sa-fick-sverige-stopp-pa-smittan",
-   "desc": "För knappt tre år sedan hittades de första vildsvin som dött av afrikansk svinpest i Fagersta i Sverige. Enligt myndigheternas bedömning spelade jägarnas och lokalbefolkningens engagemang helt avgörande roll när Sverige lyckades besegra sjukdomen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Mohamssons svar till Jomshof: Inte lämplig",
-   "date": "2026-08-21T10:55:19.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/mohamssons-svar-till-jomshof-inte-lamplig",
-   "desc": "SD-toppen Richard Jomshof vill bli demokratiminister i nästa regering. Men enligt Liberalernas partiledare Simona Mohamsson är han inte lämplig för jobbet. Samtidigt avfärdar Ulf Kristersson Jomshofs uttalande som en ”marknadsföringsinsats”. – Jag tar inte det på allvar, säger Kristersson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sabotagemål flyttades – skälen hemligstämplas med hänvisning till rikets säkerhet",
-   "date": "2026-08-21T09:41:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/sabotagemal-flyttades-skalen-hemligstamplas-med-hanvisning-till-rikets-sakerhet",
-   "desc": "Sabotagemålet flyttades till Stockholms tingsrätt – skälen hemligstämplas med hänvisning till rikets säkerhet."
   },
   {
    "src": "STHLM",
