@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-20T04:26:24.499Z",
+ "updated": "2026-08-21T04:28:23.183Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
-   "price": "24 kr/kg",
+   "item": "Svenska plommon",
+   "price": "34 kr/kg",
    "url": "https://www.ica.se"
   },
   {
@@ -16,26 +16,26 @@
   },
   {
    "store": "Lidl",
-   "item": "Färsk laxfilé Fjordland 400g",
+   "item": "Färsk lax naturell 400g",
    "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Skolstart pennfodral & skrivset",
-   "price": "39 kr",
+   "item": "Svenska potatis 2kg",
+   "price": "19 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
    "item": "Köttbullar 1kg fryst",
-   "price": "55 kr",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utematta 120x180 cm",
-   "price": "99 kr",
+   "item": "Utomhuskudde till trädgårdsmöbler",
+   "price": "79 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
