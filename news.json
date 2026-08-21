@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T13:41:48.806Z",
+ "updated": "2026-08-21T14:30:37.329Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Uppvisningspiloten: ”Passa på och njut”",
+   "date": "2026-08-21T14:18:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/uppvisningspiloten-passa-pa-och-njut",
+   "desc": "Idag var det genrep inför helgens flyguppvisningar i Linköping när Flygvapnet firar sina 100 år. 1000 så kallade planespotters, 5000 gymnasieelever och en mängd branschfolk var inbjudna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så ser unga norrbottningar på att allt fler pensionärer fortsätter jobba",
+   "date": "2026-08-21T14:13:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-ser-unga-norrbottningar-pa-att-allt-fler-pensionarer-fortsatter-jobba",
+   "desc": "En tydlig trend under 2026 är att allt fler fortsätter arbeta efter den traditionella pensionsåldern. När SVT frågar unga hur de ser på saken framkommer en viss oro: ”Speciellt när AI tar över jobben.”"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Domkapitlet i Strängnäs stift fortsätter att utreda Birgitta Ed",
+   "date": "2026-08-21T13:41:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/domkapitlet-fortsatter-bereda-arendet-mot-birgitta-ed",
+   "desc": "Strängnäs domkapitel beslutade på torsdagen den 20 augusti att fortsätta bereda ärendet gällande prästen Birgitta Ed, det meddelar Strängnäs stift i ett pressmeddelande."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Soligt och välbesökt – succé för Antikrundan i Karlstad",
    "date": "2026-08-21T13:27:54.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/varmland/soligt-och-valbesokt-succe-for-antikrundan-i-karlstad",
@@ -56,30 +80,6 @@
    "date": "2026-08-21T12:38:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/dalarna/sds-toppnamn-i-falun-polisanmald-misstanks-ha-stulit-el",
    "desc": "SD:s förstanamn på partiets kommunlista i Falun misstänks ha stulit el från det kommunala bolaget Falu energi och vatten. Efter en husrannsakan hos politikern i våras ligger nu ärendet hos Särskilda åklagarkammaren."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Efter mässlingsutbrottet på Urkult – fler i Jämtland vill ha vaccin",
-   "date": "2026-08-21T12:34:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/efter-masslingsutbrottet-pa-urkult-fler-i-jamtland-vill-ha-vaccin",
-   "desc": "Kulmen på mässlingssmittan i Jämtlands län kan vara nådd. Det tror smittskyddsläkare Annika Ersson. Hon betonar att risken att smittas är liten. Samtidigt ökar frågor om mässlingsvaccin."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Svärdattack på skola i Fagersta – flera personer skadade",
-   "date": "2026-08-21T12:31:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/stor-polisinsats-vid-skola-i-fagersta",
-   "desc": "En person har tagit sig in på en skola i Fagersta och skadat flera personer, enligt Fagersta kommun. Polis och räddningspersonal larmades till platsen klockan 14.06."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så blev domen mot undersköterskan som örfilade dement man",
-   "date": "2026-08-21T12:11:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sa-blev-domen-mot-underskoterskan-som-orfilade-dement-man",
-   "desc": "Undersköterskan som åtalats för misshandel av en äldre man på äldreboendet Vilhelmsrogården i Jönköping dömdes i dag till villkorlig dom och dagsböter."
   },
   {
    "src": "STHLM",
