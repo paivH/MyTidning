@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T10:57:03.768Z",
+ "updated": "2026-08-21T11:26:45.833Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Så smittar mässling – och så farligt är det",
+   "date": "2026-08-21T11:13:02.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sa-smittar-massling-och-sa-farligt-ar-det",
+   "desc": "Det räcker att vara i samma rum som en person med mässling för att kunna smittas. Men hur farlig är sjukdomen och vilken skillnad gör vaccinet? I videon svarar SVT:s vårdreporter Hedda Berglund på några av de vanligaste frågorna om mässling."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Finland kämpar med svinpesten – så fick Sverige stopp på smittan",
    "date": "2026-08-21T10:56:26.000Z",
    "link": "https://www.svt.se/nyheter/uutiset/svenska/finland-kampar-med-svinpesten-sa-fick-sverige-stopp-pa-smittan",
@@ -72,14 +80,6 @@
    "date": "2026-08-21T09:35:32.000Z",
    "link": "https://www.svt.se/nyheter/nyhetstecken/dubbla-svenska-medaljer-pa-100-meter",
    "desc": "Sverige tog dubbla medaljer på 100 meter i de europeiska ungdomsmästerskapen för döva i Tyskland. Elias Knutsson vann guld i U16 för herrar och i damer U18 sprang Enya Kojic hem silvret."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så tycker elever i Östersund om mobilförbudet",
-   "date": "2026-08-21T09:04:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/sa-tycker-elever-i-ostersund-om-mobilforbudet",
-   "desc": "På torsdagen var det första skoldagen på flera håll i länet. Från och med det här läsåret gäller ett nytt, nationellt mobilförbud. Men för sjätteklassarna på Innovitaskolan i Östersund är det inte nytt med mobilfria skoldagar, och här är flera elever positiva."
   },
   {
    "src": "STHLM",
