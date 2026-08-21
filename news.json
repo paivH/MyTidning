@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T14:30:37.329Z",
+ "updated": "2026-08-21T15:28:38.266Z",
  "items": [
   {
    "src": "BBC",
@@ -28,18 +28,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-   "date": "2026-08-21T09:53:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-   "desc": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast."
+   "title": "Several injured after sword attack at Swedish school",
+   "date": "2026-08-21T15:26:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Police say one man has been arrested, while several other local schools have been locked down."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Panama Canal to cut number of ships passing through due to El Niño",
-   "date": "2026-08-21T06:46:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-   "desc": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
+   "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+   "date": "2026-08-21T13:44:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+   "desc": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter dödsfallen – polisen varnar för eldning i tält och rastskydd",
+   "date": "2026-08-21T15:01:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/efter-dodsfallen-polisen-varnar-for-eldning-i-talt-och-rastskydd",
+   "desc": "Mycket talar för att det var eldning med ett friluftskök som gjorde att en kvinna i ett rastskydd i Härjedalen avled av kolmonoxidförgiftning. Det framgår av utredningen som gjorts av NFC, nationellt forensiskt centrum. Polisen i Jämtlands län går nu ut med en varning då dödsfallet är ett av tre som inträffat i länet på senare tid."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Björnjakt i Jämtlands län – 19 björnar skjutna",
+   "date": "2026-08-21T14:35:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/bjornjakt-i-jamtlands-lan-19-bjornar-skjutna",
+   "desc": "På fredagen inleddes licensjakten på björn i Jämtlands län. Vid 16-tiden på premiärdagen hade 19 av de 85 tilldelade björnarna skjutits."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Svårt att veta om man är vaccinerad – vården saknar register",
+   "date": "2026-08-21T14:30:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/svart-att-veta-om-man-ar-vaccinerad-varden-saknar-register",
+   "desc": "Mässlingsutbrottet efter festivalen Urkult har fått många att undra om man är vaccinerad mot virussjukdomen – men har man tappat bort sitt vaccinationskort är det svårt att få reda på det. – Det kan leda till extraarbete och att man kanske vaccinerar fast man inte behöver, säger biträdande smittskyddsläkare Martin Angelin om avsaknaden av ett vaccinationsregister."
   },
   {
    "src": "SVT",
@@ -58,28 +82,12 @@
    "desc": "En tydlig trend under 2026 är att allt fler fortsätter arbeta efter den traditionella pensionsåldern. När SVT frågar unga hur de ser på saken framkommer en viss oro: ”Speciellt när AI tar över jobben.”"
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Domkapitlet i Strängnäs stift fortsätter att utreda Birgitta Ed",
-   "date": "2026-08-21T13:41:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/domkapitlet-fortsatter-bereda-arendet-mot-birgitta-ed",
-   "desc": "Strängnäs domkapitel beslutade på torsdagen den 20 augusti att fortsätta bereda ärendet gällande prästen Birgitta Ed, det meddelar Strängnäs stift i ett pressmeddelande."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Soligt och välbesökt – succé för Antikrundan i Karlstad",
-   "date": "2026-08-21T13:27:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/soligt-och-valbesokt-succe-for-antikrundan-i-karlstad",
-   "desc": "Under fredagen var det dags för inspelningen av SVT:s program Antikrundan i Karlstad. Klockan 10 öppnade portarna till Mariebergsskogen och kön var lång med folk som ville få sina saker värderade. – Jag har tagit med en åsnekärra på släpet, säger Kristine Persson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SD:s toppnamn i Falun polisanmäld – misstänks ha stulit el",
-   "date": "2026-08-21T12:38:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/sds-toppnamn-i-falun-polisanmald-misstanks-ha-stulit-el",
-   "desc": "SD:s förstanamn på partiets kommunlista i Falun misstänks ha stulit el från det kommunala bolaget Falu energi och vatten. Efter en husrannsakan hos politikern i våras ligger nu ärendet hos Särskilda åklagarkammaren."
+   "title": "Tonårskillars spel om pengar ökar kraftigt i Stockholm: ”Inte stolt”",
+   "date": "2026-08-21T15:02:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tonarskillars-spel-om-pengar-okar-kraftigt-i-stockholm-inte-stolt",
+   "desc": "Idag kom resultatet av Stockholmsenkäten som visar att unga killars spel om pengar fortsätter öka kraftigt. Enkäten visar även att man festar med större mängder alkohol än tidigare. – Det händer ju att det kommer ambulanser på grund av alkoholförgiftning, säger Edvin Sjödahl Müller som märkt att fler festar allt hårdare."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-20T17:50:10.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stort-intresse-for-masslingsvaccin-i-region-stockholm-efter-utbrott",
    "desc": "Efter att antalet smittade i mässlingsutbrottet ökar och ytterligare fall väntas, söker nu allt fler i länet upp vården för att vaccinera sig mot mässling. – Det är ju en väldigt speciell händelse att den här festivalen ger upphov till så många smittade, säger smittskyddsläkaren Maria Rotzén Östlund om utbrottet på festivalen Urkult."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Buss och spårvagn i krock på Strandvägen",
-   "date": "2026-08-20T16:12:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/buss-och-sparvagn-i-krock-pa-strandvagen",
-   "desc": "Strax innan klockan 18 kolliderade en buss och en spårvagn i centrala Stockholm. Enligt uppgifter var bussen fullsatt med passagerare. Flera polisbilar kallades till platsen. Varken passagerare eller personal ska ha skadats."
   },
   {
    "src": "BBC",
