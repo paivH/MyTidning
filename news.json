@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T03:46:59.367Z",
+ "updated": "2026-08-21T04:33:47.370Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Richard Jomshof (SD) vill bli demokratiminister",
+   "date": "2026-08-21T03:49:01.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/richard-jomshof-sd-vill-bli-demokratiminister",
+   "desc": "Enligt statsminister Ulf Kristersson saboterar Richard Jomshof valrörelsen med sina uttalanden om islam. Men SD-toppen står på sig. Nu vill han ha en nyinrättad post som demokratiminister. – Jag skulle kunna bli en mycket bra minister, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "En majoritet av topp-politikerna utsatta för hat och hot – Jarl inte förvånad",
    "date": "2026-08-21T03:30:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/en-majoritet-av-topp-politikerna-utsatta-for-hat-och-hot-jarl-inte-forvanad",
@@ -72,14 +80,6 @@
    "date": "2026-08-21T03:30:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/varmland/mangmiljonsatsning-glaskogen-blir-testmiljo-for-framtidens-naturturism",
    "desc": "Sensorer, digital modell och 12 miljoner kronor. Glaskogen blir testmiljö för framtidens naturturism i ett projekt lett av Högskolan Dalarna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SD poppis hos epa-förare: ”De vill ju sänka bränslepriserna”",
-   "date": "2026-08-21T03:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sd-poppis-hos-epa-forare-de-vill-ju-sanka-branslepriserna",
-   "desc": "Enligt en ny studie är stödet för SD starkt hos epa-förare på landsbygden. Och när SVT åker ut och träffar unga är det ingen som är förvånad. – Det är många som öppet stöttar SD. De vill ju sänka bränslepriserna, säger 17-åriga Liam Kauppi från Luleå."
   },
   {
    "src": "STHLM",
