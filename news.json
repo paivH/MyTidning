@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T15:59:50.874Z",
+ "updated": "2026-08-21T16:42:51.799Z",
  "items": [
   {
    "src": "BBC",
@@ -28,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Several injured after sword attack at Swedish school",
-   "date": "2026-08-21T15:42:47.000Z",
+   "title": "Two teenagers seriously injured after sword attack at Swedish school",
+   "date": "2026-08-21T16:32:37.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Police say one man has been arrested, while several other local schools have been locked down."
+   "desc": "Police say one man has been arrested, while several other local schools were locked down."
   },
   {
    "src": "BBC",
@@ -40,6 +40,22 @@
    "date": "2026-08-21T13:44:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
    "desc": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Första valet för Nelly: ”Det är svårt att veta vad man ska rösta på”",
+   "date": "2026-08-21T16:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/forsta-valet-for-nelly-det-ar-svart-att-veta-vad-man-ska-rosta-pa",
+   "desc": "För 20-åriga Nelly Abrahamsson från Söderåsen i Krokoms kommun blir årets val hennes första. Hon tar hjälp av SVT:s valkompass för att se vilka partier hon ligger närmast. – Man får en hint om vad politikerna vill, säger Nelly."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Det här vet vi om misstänkta gärningsmannen i Fagersta",
+   "date": "2026-08-21T16:19:19.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/det-har-vet-vi-om-misstankta-garningsmannen-i-fagersta",
+   "desc": "En tidigare elev misstänks för svärdattacken på Brinellskolan i Fagersta, enligt uppgift till SVT. Eleven har tidigare dömts för misshandel och har vårdats enligt LVU."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-21T14:35:28.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/bjornjakt-i-jamtlands-lan-19-bjornar-skjutna",
    "desc": "På fredagen inleddes licensjakten på björn i Jämtlands län. Vid 16-tiden på premiärdagen hade 19 av de 85 tilldelade björnarna skjutits."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Svårt att veta om man är vaccinerad – vården saknar register",
-   "date": "2026-08-21T14:30:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/svart-att-veta-om-man-ar-vaccinerad-varden-saknar-register",
-   "desc": "Mässlingsutbrottet efter festivalen Urkult har fått många att undra om man är vaccinerad mot virussjukdomen – men har man tappat bort sitt vaccinationskort är det svårt att få reda på det. – Det kan leda till extraarbete och att man kanske vaccinerar fast man inte behöver, säger biträdande smittskyddsläkare Martin Angelin om avsaknaden av ett vaccinationsregister."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Uppvisningspiloten: ”Passa på och njut”",
-   "date": "2026-08-21T14:18:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/uppvisningspiloten-passa-pa-och-njut",
-   "desc": "Idag var det genrep inför helgens flyguppvisningar i Linköping när Flygvapnet firar sina 100 år. 1000 så kallade planespotters, 5000 gymnasieelever och en mängd branschfolk var inbjudna."
   },
   {
    "src": "STHLM",
