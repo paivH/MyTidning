@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T10:25:41.140Z",
+ "updated": "2026-08-21T10:57:03.768Z",
  "items": [
   {
    "src": "BBC",
@@ -37,9 +37,33 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-   "date": "2026-08-21T04:27:13.000Z",
+   "date": "2026-08-21T10:46:09.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
    "desc": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Finland kämpar med svinpesten – så fick Sverige stopp på smittan",
+   "date": "2026-08-21T10:56:26.000Z",
+   "link": "https://www.svt.se/nyheter/uutiset/svenska/finland-kampar-med-svinpesten-sa-fick-sverige-stopp-pa-smittan",
+   "desc": "För knappt tre år sedan hittades de första vildsvin som dött av afrikansk svinpest i Fagersta i Sverige. Enligt myndigheternas bedömning spelade jägarnas och lokalbefolkningens engagemang helt avgörande roll när Sverige lyckades besegra sjukdomen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Mohamssons svar till Jomshof: Inte lämplig",
+   "date": "2026-08-21T10:55:19.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/mohamssons-svar-till-jomshof-inte-lamplig",
+   "desc": "SD-toppen Richard Jomshof vill bli demokratiminister i nästa regering. Men enligt Liberalernas partiledare Simona Mohamsson är han inte lämplig för jobbet. Samtidigt avfärdar Ulf Kristersson Jomshofs uttalande som en ”marknadsföringsinsats”. – Jag tar inte det på allvar, säger Kristersson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sabotagemål flyttades – skälen hemligstämplas med hänvisning till rikets säkerhet",
+   "date": "2026-08-21T09:41:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/sabotagemal-flyttades-skalen-hemligstamplas-med-hanvisning-till-rikets-sakerhet",
+   "desc": "Sabotagemålet flyttades till Stockholms tingsrätt – skälen hemligstämplas med hänvisning till rikets säkerhet."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-08-21T09:04:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/sa-tycker-elever-i-ostersund-om-mobilforbudet",
    "desc": "På torsdagen var det första skoldagen på flera håll i länet. Från och med det här läsåret gäller ett nytt, nationellt mobilförbud. Men för sjätteklassarna på Innovitaskolan i Östersund är det inte nytt med mobilfria skoldagar, och här är flera elever positiva."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Årets björnjakt är i gång",
-   "date": "2026-08-21T08:34:10.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/arets-bjornjakt-ar-i-gang",
-   "desc": "På fredagen startade årets licensjakt på björn – och under morgonen rapporteras 35 djur ha fällts i landet, skriver Jaktjournalen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Alltid vid Trumps sida – så blev Natalie Harp en snackis",
-   "date": "2026-08-21T07:24:43.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/alltid-vid-trumps-sida-sa-blev-natalie-harp-en-snackis",
-   "desc": "Hon tillskriver Donald Trump sin seger mot cancer – och står så nära presidenten att hon en gång åkte i en baklucka för att få vara vid hans sida. 35-åriga assistenten Natalie Harp tycks vara Trumps största fan och absoluta favorit. Men vem är hon?"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Biljakt i Solna – tre till sjukhus",
-   "date": "2026-08-21T07:08:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/biljakt-i-solna-tre-till-sjukhus",
-   "desc": "Tre personer har fått föras till sjukhus i samband med en trafikolycka efter en polisjakt i Solna. – Föraren och två personer i den andra bilen undersöktes på plats och fick följa med ambulans till sjukhus, men det rör sig inte om livshotande skador, säger Susanna Rinaldo, presstalesperson vid polisen."
   },
   {
    "src": "STHLM",
