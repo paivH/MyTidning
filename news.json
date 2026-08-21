@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T04:33:47.370Z",
+ "updated": "2026-08-21T05:28:30.921Z",
  "items": [
   {
    "src": "BBC",
@@ -28,18 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Why the US economy is ringing alarm bells",
-   "date": "2026-08-20T23:15:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?"
+   "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+   "date": "2026-08-21T04:17:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+   "desc": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,"
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-   "date": "2026-08-21T02:59:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
+   "title": "Why the US economy is ringing alarm bells",
+   "date": "2026-08-20T23:15:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?"
   },
   {
    "src": "SVT",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "SD vill bygga en bögstaty i Rinkeby",
+   "date": "2026-08-21T05:00:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-vill-bygga-en-bogstaty-i-rinkeby",
+   "desc": "Sverigedemokraternas gruppledare i Stockholm, Gabriel Kroon, berättar om misshandeln som fick honom att välja parti, om att själv vara invandrare och förslaget att bygga en bögstaty i Rinkeby."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 20 augusti",
    "date": "2026-08-20T17:54:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-20-augusti-pvbun3",
@@ -112,14 +120,6 @@
    "date": "2026-08-20T15:04:21.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-pakord-av-buss-pa-odenplan",
    "desc": "En kvinna har blivit påkörd av en buss vid Odenplan i centrala Stockholm. Polis och ambulans är på plats och kvinnan ska ha klarat sig utan livshotande skador."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Vargvalpar i Norrtälje – så vanligt är varg i Stockholm",
-   "date": "2026-08-20T09:39:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vargvalpar-i-norrtalje-sa-vanligt-ar-varg-i-stockholm",
-   "desc": "Sex vargvalpar har upptäckts i Norrtäljetrakten. Det förvånar inte vetenskapsjournalisten Henrik Ekman som följt vargens återkomst. Men hur stor är chansen att möta en varg i Stockholm?"
   },
   {
    "src": "BBC",
