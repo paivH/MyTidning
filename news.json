@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-20T23:49:20.500Z",
+ "updated": "2026-08-21T01:03:56.446Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-   "date": "2026-08-20T19:52:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-   "desc": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\"."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -16,6 +8,14 @@
    "date": "2026-08-20T18:55:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
    "desc": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+   "date": "2026-08-20T23:16:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+   "desc": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
   },
   {
    "src": "BBC",
@@ -28,18 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Dozens dead after boat capsizes in north-western Nigeria",
-   "date": "2026-08-20T20:27:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-   "desc": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children."
+   "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+   "date": "2026-08-20T22:01:26.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+   "desc": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-   "date": "2026-08-20T20:08:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\"."
+   "title": "Dozens dead after boat capsizes in north-western Nigeria",
+   "date": "2026-08-20T20:27:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+   "desc": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children."
   },
   {
    "src": "SVT",
