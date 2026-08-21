@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T17:24:26.102Z",
+ "updated": "2026-08-21T17:55:18.523Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Skolanställd sköts till döds i Grusåsen – 18-åring häktad",
+   "date": "2026-08-21T17:34:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/skolanstalld-skots-till-dods-18-aring-haktad",
+   "desc": "En man som arbetade på en skola i Salem sköts till döds i Södertälje. Nu, flera månader efter mordet, har polisen lyckats gripa en person misstänkt för dådet, enligt Länstidningen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Första valet för Nelly: ”Det är svårt att veta vad man ska rösta på”",
    "date": "2026-08-21T16:30:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/forsta-valet-for-nelly-det-ar-svart-att-veta-vad-man-ska-rosta-pa",
@@ -72,14 +80,6 @@
    "date": "2026-08-21T15:01:56.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/efter-dodsfallen-polisen-varnar-for-eldning-i-talt-och-rastskydd",
    "desc": "Mycket talar för att det var eldning med ett friluftskök som gjorde att en kvinna i ett rastskydd i Härjedalen avled av kolmonoxidförgiftning. Det framgår av utredningen som gjorts av NFC, nationellt forensiskt centrum. Polisen i Jämtlands län går nu ut med en varning då dödsfallet är ett av tre som inträffat i länet på senare tid."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Björnjakt i Jämtlands län – 19 björnar skjutna",
-   "date": "2026-08-21T14:35:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/bjornjakt-i-jamtlands-lan-19-bjornar-skjutna",
-   "desc": "På fredagen inleddes licensjakten på björn i Jämtlands län. Vid 16-tiden på premiärdagen hade 19 av de 85 tilldelade björnarna skjutits."
   },
   {
    "src": "STHLM",
