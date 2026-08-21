@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T21:48:06.199Z",
+ "updated": "2026-08-21T22:19:46.032Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Elsa, 16, efter svärdattacken i Fagersta: ”Alla är ledsna”",
+   "date": "2026-08-21T22:01:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/elsa-16-efter-svardattacken-i-fagersta-alla-ar-ledsna",
+   "desc": "Fagersta skakas av svärdattacken på Brinellskolan under fredagen. På kvällen samlades många vid minnesplatsen som kommunen ställt i ordning. – Det blir en helt annan stämning i Fagersta. Man märker att alla är ledsna, säger Elsa Bergkvist."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Skolanställd sköts till döds i Grusåsen – 18-åring häktad",
    "date": "2026-08-21T17:34:50.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sodertalje/skolanstalld-skots-till-dods-18-aring-haktad",
@@ -72,14 +80,6 @@
    "date": "2026-08-21T15:58:18.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/svardattack-pa-skola-i-fagersta-folj-svts-direktrapport",
    "desc": "En person har dött och två har skadats allvarligt efter att en man beväpnad med svärd tagit sig in på Brinellskolan i Fagersta under fredagen. En misstänkt gärningsman har frihetsberövats av polisen. Följ SVT:s liverapport nedan. Här kan du se hela pressträffen som polisen och kommunen höll på fredagskvällen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Järnaarrangören inte orolig över mässlingsspridningen",
-   "date": "2026-08-21T15:52:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/jarnaarrangoren-inte-orolig-over-masslingsspridningen",
-   "desc": "Tankarna går isär i Järna inför lördagens stora musik- och kulturfestival. Några är avslappnade inför mässlingsmittan, medan andra uttrycker frustration över dem som inte vaccinerar sig."
   },
   {
    "src": "STHLM",
