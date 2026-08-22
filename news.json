@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T08:56:18.222Z",
+ "updated": "2026-08-22T09:25:58.044Z",
  "items": [
   {
    "src": "BBC",
@@ -29,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-   "date": "2026-08-22T06:40:30.000Z",
+   "date": "2026-08-22T09:13:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
    "desc": "Nine people are still missing after the attack which left 130 injured, including a number of children."
   },
@@ -40,6 +40,14 @@
    "date": "2026-08-22T03:43:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
    "desc": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så stöttar kommuner i Dalarna upp efter svärdattacken i Fagersta",
+   "date": "2026-08-22T09:16:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/sa-stottar-kommuner-i-dalarna-upp-efter-svardattacken-i-fagersta",
+   "desc": "Efter skolattacken i Fagersta, väljer nu både Avestas- och Hedemoras kommunalråd att ställa in sina inplanerade valkampanjer under lördagen och istället gemensamt åka till Fagersta. Samtidigt står kommunerna också redo att bistå Fagersta med fler resurser."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-22T03:30:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sodertalje/ronnapolisen-sjalvklart-ska-barnen-vara-ute-och-leka",
    "desc": "Trots skjutningen i måndags menar polisen i Ronna att området har blivit tryggare över tid. Samtidigt har det varit många frågor från föräldrar senaste veckan om säkerheten. – Jag hoppas folk fortsätter vara ute. Att man inte blir skrämd, utan umgås och pratar med sina grannar, säger Simon, som är områdespolis."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Dödsdoulan Zafira stöttar vid livets slut: ”Queera personer ska kunna dö i värdighet”",
-   "date": "2026-08-22T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/dodsdoulan-zafira-stottar-vid-livets-slut-queera-personer-ska-kunna-do-i-vardighet",
-   "desc": "Zafira Vrba Woodski tänker att alla borde planera inför livets slut. Under Luleå Pride håller hen workshop om död, minne och juridik. – Sorg och för tidig död är en del av vår historia."
   },
   {
    "src": "STHLM",
