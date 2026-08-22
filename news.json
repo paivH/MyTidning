@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T13:28:03.795Z",
+ "updated": "2026-08-22T13:53:17.038Z",
  "items": [
   {
    "src": "BBC",
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Fourteen killed in strike on Myanmar monastery",
+   "date": "2026-08-22T13:48:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+   "desc": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
    "date": "2026-08-21T05:00:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
@@ -32,14 +40,6 @@
    "date": "2026-08-22T13:13:16.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
    "desc": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "One killed in sword attack at Swedish school",
-   "date": "2026-08-21T21:03:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
   },
   {
    "src": "SVT",
