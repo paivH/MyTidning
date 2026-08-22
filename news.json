@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T09:25:58.044Z",
+ "updated": "2026-08-22T09:51:04.038Z",
  "items": [
   {
    "src": "BBC",
@@ -44,10 +44,26 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Nationell strategi saknas för datacenter – Kristersson (M): ”Jobbar med det”",
+   "date": "2026-08-22T09:43:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/nationell-strategi-saknas-for-datacenter-kristersson-m-jobbar-med-det",
+   "desc": "Allt fler företag vill bygga datacenter i Sverige – bland annat Edgeconnex i Skellefteå. Runtom i landet höjs röster som kräver en nationell strategi – något som är på gång, enligt statsministern. – Vi jobbar med det just nu, säger Ulf Kristersson (M)."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "18-åring från Västernorrland misstänkt för skolattacken i Fagersta",
+   "date": "2026-08-22T09:33:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/18-aring-fran-vasternorrland-misstankt-for-skolattacken-i-fagersta",
+   "desc": "Den 18-åring som misstänks för våldsdådet på en gymnasieskola i Fagersta kommer från en kommun i Västernorrland. Han placerades i ett familjehem efter att socialtjänsten i hemkommunen konstaterat allvarliga brister i hemmiljön."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Så stöttar kommuner i Dalarna upp efter svärdattacken i Fagersta",
    "date": "2026-08-22T09:16:57.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/dalarna/sa-stottar-kommuner-i-dalarna-upp-efter-svardattacken-i-fagersta",
-   "desc": "Efter skolattacken i Fagersta, väljer nu både Avestas- och Hedemoras kommunalråd att ställa in sina inplanerade valkampanjer under lördagen och istället gemensamt åka till Fagersta. Samtidigt står kommunerna också redo att bistå Fagersta med fler resurser."
+   "desc": "Efter skolattacken i Fagersta, väljer nu både Avestas-, Hedemoras- och Smedjebackens kommunalråd att ställa in sina inplanerade valkampanjer under lördagen och istället gemensamt åka till Fagersta. Samtidigt står kommunerna också redo att bistå Fagersta med fler resurser."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Trafikverkets arbete med att viltsäkra E45 mellan Svenstavik och Brunflo pågår för fullt. Arbetet skall stå klart senare i höst, men redan nu i sommar har en ny typ av viltövergång – med skyltar som tänds för att varna bilisterna – tagits i drift."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Carina Bergfeldt i ny dokumentär om Brattåsmorden: ”Fascinerande fall”",
-   "date": "2026-08-22T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/carina-bergfeldt-i-ny-dokumentar-om-brattasmorden",
-   "desc": "Dubbelmorden i Brattås blir ny dokumentärserie på SVT i höst. Carina Bergfeldt träffar dem som står fallet närmast – familjen, poliser, dna-forskare och även SVT Västernorrlands reporter Patric Sellén."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ronnapolisen: Självklart ska barnen vara ute och leka",
-   "date": "2026-08-22T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/ronnapolisen-sjalvklart-ska-barnen-vara-ute-och-leka",
-   "desc": "Trots skjutningen i måndags menar polisen i Ronna att området har blivit tryggare över tid. Samtidigt har det varit många frågor från föräldrar senaste veckan om säkerheten. – Jag hoppas folk fortsätter vara ute. Att man inte blir skrämd, utan umgås och pratar med sina grannar, säger Simon, som är områdespolis."
+   "title": "Virala basketstjärnan ”MK” i Stockholm",
+   "date": "2026-08-22T09:49:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/virala-basketstjarnan-mk-i-stockholm",
+   "desc": "Ett av nätets största gatubasketfenomen, kanadensaren Matt Kiatipis, utmanade stockholmare i 1-mot-1 på basketplanen vid Åsö gymnasium under fredagen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-21T07:08:40.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/biljakt-i-solna-tre-till-sjukhus",
    "desc": "Tre personer har fått föras till sjukhus i samband med en trafikolycka efter en polisjakt i Solna. – Föraren och två personer i den andra bilen undersöktes på plats och fick följa med ambulans till sjukhus, men det rör sig inte om livshotande skador, säger Susanna Rinaldo, presstalesperson vid polisen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "SD vill bygga en bögstaty i Rinkeby",
-   "date": "2026-08-21T05:00:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sd-vill-bygga-en-bogstaty-i-rinkeby",
-   "desc": "Sverigedemokraternas gruppledare i Stockholm, Gabriel Kroon, berättar om misshandeln som fick honom att välja parti, om att själv vara invandrare och förslaget att bygga en bögstaty i Rinkeby."
   },
   {
    "src": "BBC",
