@@ -1,19 +1,19 @@
 {
- "updated": "2026-08-22T16:18:41.361Z",
+ "updated": "2026-08-22T16:48:23.403Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-   "date": "2026-08-22T16:05:04.000Z",
+   "date": "2026-08-22T16:45:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-   "desc": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty."
+   "desc": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Carney faces crucial test after walking away from Trump's deal",
-   "date": "2026-08-22T15:00:27.000Z",
+   "date": "2026-08-22T16:20:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
    "desc": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences."
   },
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Minnea var med 17-åriga flickan före dådet: ”Ser henne stanna upp”",
+   "date": "2026-08-22T16:25:08.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/minnea-var-med-17-ariga-flickan-fore-dadet-ser-henne-stanna-upp",
+   "desc": "En 17-årig flicka dödades när gärningsmannen gick till attack inne på Brinellskolan i Fagersta. Minnea Wennmyr blev vittne till delar av förloppet. – Det första hennes kille säger när vi kommer ut är att hon är död."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Andreas Almgren reagerar på sitt EM-guldlopp: ”Då kommer de knäckas”",
+   "date": "2026-08-22T16:19:18.000Z",
+   "link": "https://www.svt.se/sport/friidrott/andreas-almgren-reagerar-pa-sitt-em-guldlopp-da-kommer-de-knackas",
+   "desc": "Andreas Almgren tog ett överlägset EM-guld på 10 000 meter. När han tillsammans med SVT återupplever loppet är det en detalj som sticker ut. – Vad är det för form han är i? säger Almgren och skrattar."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Se bilderna inifrån Brinellskolan: ”Det är en skolskjutning”",
    "date": "2026-08-22T16:12:42.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/se-bilderna-inifran-brinellskolan-det-ar-en-skolskjutning",
@@ -64,22 +80,6 @@
    "date": "2026-08-22T13:56:07.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/misstankta-18-aringens-liv-fore-skolattacken-vald-lvu-och-kampsport",
    "desc": "Den 18-årige mannen misstänks för mord och mordförsök efter skolattacken i Fagersta. Myndighetshandlingar beskriver en uppväxt präglad av våld och allvarliga omsorgsbrister – där han blev tvingad till hård kampsportsträning. – Han var tillbakadragen och pratade inte så mycket med oss andra, säger en tidigare klubbkamrat till SVT Nyheter."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Nationell strategi saknas för datacenter – Kristersson (M): ”Jobbar med det”",
-   "date": "2026-08-22T09:43:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/nationell-strategi-saknas-for-datacenter-kristersson-m-jobbar-med-det",
-   "desc": "Allt fler företag vill bygga datacenter i Sverige – bland annat Edgeconnex i Skellefteå. Runtom i landet höjs röster som kräver en nationell strategi – något som är på gång, enligt statsministern. – Vi jobbar med det just nu, säger Ulf Kristersson (M)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "18-åring från Västernorrland misstänkt för skolattacken i Fagersta",
-   "date": "2026-08-22T09:33:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/18-aring-fran-vasternorrland-misstankt-for-skolattacken-i-fagersta",
-   "desc": "Den 18-åring som misstänks för våldsdådet på en gymnasieskola i Fagersta kommer från en kommun i Västernorrland. Han placerades i ett familjehem efter att socialtjänsten i hemkommunen konstaterat allvarliga brister i hemmiljön."
   },
   {
    "src": "STHLM",
