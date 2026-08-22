@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T23:47:41.771Z",
+ "updated": "2026-08-22T01:00:50.818Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Man svårt skadad i elsparksolycka i Nybro",
+   "date": "2026-08-22T00:13:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/man-svart-skadad-i-elsparksolycka-i-nybro",
+   "desc": "En man i 25-årsåldern vårdas på intensivvårdsavdelning med allvarliga skador efter en trafikolycka i Nybro, skriver Barometern-OT."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Elsa, 16, efter svärdattacken i Fagersta: ”Alla är ledsna”",
    "date": "2026-08-21T22:01:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/elsa-16-efter-svardattacken-i-fagersta-alla-ar-ledsna",
@@ -72,14 +80,6 @@
    "date": "2026-08-21T16:19:19.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/det-har-vet-vi-om-misstankta-garningsmannen-i-fagersta",
    "desc": "En tidigare elev misstänks för svärdattacken på Brinellskolan i Fagersta, enligt uppgift till SVT. Eleven har tidigare dömts för misshandel och har vårdats enligt LVU."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Svärdattack på skola i Fagersta – följ SVT:s direktrapport",
-   "date": "2026-08-21T15:58:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/svardattack-pa-skola-i-fagersta-folj-svts-direktrapport",
-   "desc": "En person har dött och två har skadats allvarligt efter att en man beväpnad med svärd tagit sig in på Brinellskolan i Fagersta under fredagen. En misstänkt gärningsman har frihetsberövats av polisen. Följ SVT:s liverapport nedan. Här kan du se hela pressträffen som polisen och kommunen höll på fredagskvällen."
   },
   {
    "src": "STHLM",
