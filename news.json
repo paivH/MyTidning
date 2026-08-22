@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T14:46:30.491Z",
+ "updated": "2026-08-22T15:16:51.803Z",
  "items": [
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "”Finns saker som är större hot mot folkhälsan än mässling”",
+   "date": "2026-08-22T15:14:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/finns-saker-som-ar-storre-hot-mot-folkhalsan-an-massling",
+   "desc": "Under lördagen pågår Järna Kulturfest. Inför festivalen har regionens smittskyddsläkare uttryckt en viss oro för att mässling skulle kunna spridas där. Men besökarna verkar inte så oroliga."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Virala basketstjärnan ”MK” i Stockholm",
    "date": "2026-08-22T09:49:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/virala-basketstjarnan-mk-i-stockholm",
@@ -112,14 +120,6 @@
    "date": "2026-08-21T15:02:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tonarskillars-spel-om-pengar-okar-kraftigt-i-stockholm-inte-stolt",
    "desc": "Idag kom resultatet av Stockholmsenkäten som visar att unga killars spel om pengar fortsätter öka kraftigt. Enkäten visar även att man festar med större mängder alkohol än tidigare. – Det händer ju att det kommer ambulanser på grund av alkoholförgiftning, säger Edvin Sjödahl Müller som märkt att fler festar allt hårdare."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Biljakt i Solna – tre till sjukhus",
-   "date": "2026-08-21T07:08:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/biljakt-i-solna-tre-till-sjukhus",
-   "desc": "Tre personer har fått föras till sjukhus i samband med en trafikolycka efter en polisjakt i Solna. – Föraren och två personer i den andra bilen undersöktes på plats och fick följa med ambulans till sjukhus, men det rör sig inte om livshotande skador, säger Susanna Rinaldo, presstalesperson vid polisen."
   },
   {
    "src": "BBC",
