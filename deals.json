@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-21T04:28:23.183Z",
+ "updated": "2026-08-22T04:21:54.563Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska plommon",
-   "price": "34 kr/kg",
+   "item": "Svenska äpplen Aroma",
+   "price": "24 kr/kg",
    "url": "https://www.ica.se"
   },
   {
@@ -16,26 +16,26 @@
   },
   {
    "store": "Lidl",
-   "item": "Färsk lax naturell 400g",
-   "price": "49 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Svenska potatis 2kg",
+   "item": "Färska blåbär 400g",
    "price": "19 kr",
    "url": "https://www.lidl.se"
   },
   {
+   "store": "Lidl",
+   "item": "Grillkol 3kg",
+   "price": "39 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
-   "price": "59 kr",
+   "item": "Köttbullar 1kg (frys)",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utomhuskudde till trädgårdsmöbler",
-   "price": "79 kr",
+   "item": "Utepall i akacia",
+   "price": "299 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
