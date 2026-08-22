@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T13:53:17.038Z",
+ "updated": "2026-08-22T14:17:10.772Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Misstänkta 18-åringens liv före skolattacken: Våld, LVU och kampsport",
+   "date": "2026-08-22T13:56:07.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/misstankta-18-aringens-liv-fore-skolattacken-vald-lvu-och-kampsport",
+   "desc": "Den 18-årige mannen misstänks för mord och mordförsök efter skolattacken i Fagersta. Myndighetshandlingar beskriver en uppväxt präglad av våld och allvarliga omsorgsbrister – där han blev tvingad till hård kampsportsträning. – Han var tillbakadragen och pratade inte så mycket med oss andra, säger en tidigare klubbkamrat till SVT Nyheter."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Nationell strategi saknas för datacenter – Kristersson (M): ”Jobbar med det”",
    "date": "2026-08-22T09:43:50.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/nationell-strategi-saknas-for-datacenter-kristersson-m-jobbar-med-det",
@@ -72,14 +80,6 @@
    "date": "2026-08-22T03:30:02.000Z",
    "link": "https://www.svt.se/kultur/fimredaktoren-tipsar-the-invite-harligt-obekvam-sexkomedi",
    "desc": "Olivia Wilde regisserar och spelar en av huvudrollerna i ”The Invite”. Ett komiska kammarspel om en misslyckad middagsbjudning där ingenting blir som man tror."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så fungerar Jämtlands nya viltövergång – lysande skyltar varnar bilisterna",
-   "date": "2026-08-22T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/sa-fungerar-jamtlands-nya-viltovergang-lysande-skyltar-varnar-bilisterna",
-   "desc": "Trafikverkets arbete med att viltsäkra E45 mellan Svenstavik och Brunflo pågår för fullt. Arbetet skall stå klart senare i höst, men redan nu i sommar har en ny typ av viltövergång – med skyltar som tänds för att varna bilisterna – tagits i drift."
   },
   {
    "src": "STHLM",
