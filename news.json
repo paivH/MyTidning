@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-22T15:45:09.721Z",
+ "updated": "2026-08-22T16:18:41.361Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+   "date": "2026-08-22T16:05:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+   "desc": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,14 +16,6 @@
    "date": "2026-08-22T15:00:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
    "desc": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-   "date": "2026-08-22T12:20:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-   "desc": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
   },
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Se bilderna inifrån Brinellskolan: ”Det är en skolskjutning”",
+   "date": "2026-08-22T16:12:42.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/se-bilderna-inifran-brinellskolan-det-ar-en-skolskjutning",
+   "desc": "Strax efter 14-tiden på fredagen tog en misstänkt 18-årig gärningsman sig in på Brinellskolan i Fagersta. Med sig hade han ett svärd som han attackerade flera elever med. Tre personer skadades och en 17-årig flicka dödades. Delar av insatsen fångades på film inifrån skolan."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "USA och Kanada nära avtal om stål och bilar – sedan bröt det samman",
+   "date": "2026-08-22T15:50:43.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/usa-och-kanada-nara-avtal-om-stal-och-bilar-sedan-brot-det-samman",
+   "desc": "Den kanadensiska premiärministern Mark Carney, har lovat att matcha USA:s tullar ”dollar för dollar” efter att de båda sidorna misslyckats med att enas om ett handelsavtal."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Misstänkta 18-åringens liv före skolattacken: Våld, LVU och kampsport",
    "date": "2026-08-22T13:56:07.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/misstankta-18-aringens-liv-fore-skolattacken-vald-lvu-och-kampsport",
@@ -64,22 +80,6 @@
    "date": "2026-08-22T09:33:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/18-aring-fran-vasternorrland-misstankt-for-skolattacken-i-fagersta",
    "desc": "Den 18-åring som misstänks för våldsdådet på en gymnasieskola i Fagersta kommer från en kommun i Västernorrland. Han placerades i ett familjehem efter att socialtjänsten i hemkommunen konstaterat allvarliga brister i hemmiljön."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så stöttar kommuner i Dalarna upp efter svärdattacken i Fagersta",
-   "date": "2026-08-22T09:16:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/sa-stottar-kommuner-i-dalarna-upp-efter-svardattacken-i-fagersta",
-   "desc": "Efter skolattacken i Fagersta, väljer nu både Avestas-, Hedemoras- och Smedjebackens kommunalråd att ställa in sina inplanerade valkampanjer under lördagen och istället gemensamt åka till Fagersta. Samtidigt står kommunerna också redo att bistå Fagersta med fler resurser."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Filmredaktören tipsar: ”The Invite” • Härligt obekväm sexkomedi",
-   "date": "2026-08-22T03:30:02.000Z",
-   "link": "https://www.svt.se/kultur/fimredaktoren-tipsar-the-invite-harligt-obekvam-sexkomedi",
-   "desc": "Olivia Wilde regisserar och spelar en av huvudrollerna i ”The Invite”. Ett komiska kammarspel om en misslyckad middagsbjudning där ingenting blir som man tror."
   },
   {
    "src": "STHLM",
