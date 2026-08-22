@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T14:17:10.772Z",
+ "updated": "2026-08-22T14:46:30.491Z",
  "items": [
   {
    "src": "BBC",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-08-22T14:17:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p5v6s2?at_medium=RSS&at_campaign=rss",
+   "desc": "Michael Carrick reacts to Manchester United's 2-0 opening day defeat to Hull City."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-08-21T21:30:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p5q2zg?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd head coach Michael Carrick on the club's ambitions this season."
@@ -144,14 +152,6 @@
    "date": "2026-08-19T18:30:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p5c4v1?at_medium=RSS&at_campaign=rss",
    "desc": "Ex-United defender Wes Brown and BBC Sussex journalist Johnny Cantor on Baleba latest."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-17T13:20:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p4zbd3?at_medium=RSS&at_campaign=rss",
-   "desc": "Joe and Gaz cast their 2026-27 predictions and discuss United's pre-season."
   }
  ]
 }
