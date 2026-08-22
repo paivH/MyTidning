@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-21T04:07:39.891Z",
+ "updated": "2026-08-22T04:03:30.252Z",
  "items": [
   {
-   "ingredient": "plommon",
-   "idea": "Snabbsyltade plommonklyftor: 1:1:1 ättika, socker, vatten, koka upp, häll över, kyl 24 timmar innan servering."
-  },
-  {
-   "ingredient": "majs",
-   "idea": "Grilla majskolvar 8 minuter, rulla i chilismör och lime – snabb vardagsmiddag på under 15 minuter."
+   "ingredient": "päron",
+   "idea": "Snabbinlägg päron i lag 1:1:1 (ättika, socker, vatten) med kanel och nejlika – klart på en timme."
   },
   {
    "ingredient": "kantareller",
-   "idea": "Baka surdegsbröd med smörstekta kantareller inbakade i degen, låt jäsa långsamt över natten för smak."
+   "idea": "Snabbstek kantareller i smör med timjan och vitlök, servera på surdegsrostat bröd – kvällsmiddag på 15 minuter."
   },
   {
    "ingredient": "grönkål",
-   "idea": "Fermentera grönkål som kimchi: salta bladen, gnid in chili och vitlök, låt stå 3-5 dagar."
+   "idea": "Fermentera grönkål med 2% salt i en vecka för syrlig, krispig kimchi-liknande tillbehör."
+  },
+  {
+   "ingredient": "majs",
+   "idea": "Grilla majskolvar och lägg i snabbättika med chili och lime – syrlig sommartillbehör på minuter."
   }
  ]
 }
