@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T16:19:45.869Z",
+ "updated": "2026-08-23T16:50:04.154Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Nu kulminerar översvämningarna i Boden – stor påverkan",
+   "date": "2026-08-23T16:05:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/oversvamningarna-i-boden-kulminerar-stor-paverkan",
+   "desc": "Under helgen har vattennivåerna fortsat att stiga i Bodenområdet med översvämmade vägar och vattenfyllda källare som resultat. Men Bodens räddningschef ser tecken på att kulmen nu kan vara nådd."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Helen i Boden har fått källaren fylld  med avloppsvatten",
+   "date": "2026-08-23T16:01:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/helen-i-boden-har-fatt-kallaren-fylld-med-avloppsvatten",
+   "desc": "Helen Hansen och hennes familj måste flytta ut från villan i Svartbjörsbyn i ett par veckor efter att avloppsvatten tryckt upp i husets källare i samband med översvämningarna i Boden."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Nytt hopp i kampen mot antibiotikaresistent gonorré",
    "date": "2026-08-23T14:55:48.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/nytt-hopp-i-kampen-mot-antibiotikaresistent-gonorre",
@@ -64,22 +80,6 @@
    "date": "2026-08-23T07:19:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/felicitas-17-forlorade-sin-van-i-attacken-hon-hade-sa-stora-planer",
    "desc": "Felicitas, 17, sa hejdå till sin vän i trappan. De sa att de skulle äta kärleksmums i skolan på måndag. Studentdagen hade de också planerat i detalj. – Hon var anledningen till varför jag pluggade och jag var hennes."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Estlands varning: Risk för rysk påverkan under valet",
-   "date": "2026-08-23T04:41:04.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/estlands-varning-risk-for-rysk-paverkan-under-valet",
-   "desc": "De kommande månaderna hålls val i både Sverige och flera andra Östersjöländer. Det innebär en ökad risk för hybridhot och påverkan från Ryssland, menar Estlands försvarsminister Hanno Pevkur. – Ryssland letar efter möjligheter att påverka våra samhällen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Emma om livet som tonåring och småbarnsmamma: ”Varit tufft”",
-   "date": "2026-08-23T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/emma-om-livet-som-tonaring-och-smabarnsmamma-varit-tufft",
-   "desc": "Sveriges mammor blir allt äldre och bland de äldsta förstagångsmammorna i landet finns i Gnesta. Tvärtemot den trenden går Gnestabon Emma som blev mamma till idag tvååriga Estelle som 17-åring. – Jag lever mitt liv och hon hänger med, säger hon."
   },
   {
    "src": "STHLM",
