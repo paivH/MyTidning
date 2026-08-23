@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T18:23:21.294Z",
+ "updated": "2026-08-23T18:56:34.098Z",
  "items": [
   {
    "src": "BBC",
@@ -52,6 +52,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Svenska EU-parlamentariker portas från Israel",
+   "date": "2026-08-23T17:50:10.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/jerusalem-post-eu-parlamentariker-portas-fran-israel",
+   "desc": "De vänsterpartistiska EU-parlamentarikerna Jonas Sjöstedt och Hanna Gedin får inte resa in i Israel. De stoppas ”för att de framfört falska anklagelser mot landet”."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Över 30 döda i jordskred i sophög i Conakry",
    "date": "2026-08-23T17:17:15.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/over-30-doda-i-jordskred-i-sophog-i-conakry",
@@ -72,14 +80,6 @@
    "date": "2026-08-23T16:05:59.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/oversvamningarna-i-boden-kulminerar-stor-paverkan",
    "desc": "Under helgen har vattennivåerna fortsat att stiga i Bodenområdet med översvämmade vägar och vattenfyllda källare som resultat. Men Bodens räddningschef ser tecken på att kulmen nu kan vara nådd."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Helen i Boden har fått källaren fylld  med avloppsvatten",
-   "date": "2026-08-23T16:01:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/helen-i-boden-har-fatt-kallaren-fylld-med-avloppsvatten",
-   "desc": "Helen Hansen och hennes familj måste flytta ut från villan i Svartbjörnsbyn i ett par veckor efter att avloppsvatten tryckt upp i husets källare i samband med översvämningarna i Boden."
   },
   {
    "src": "STHLM",
