@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-23T04:32:36.839Z",
+ "updated": "2026-08-23T05:25:04.973Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
+   "title": "Carney says Trump started trade war with fresh tarrifs 'attack'",
    "date": "2026-08-22T20:10:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
    "desc": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Estlands varning: Risk för rysk påverkan under valet",
+   "date": "2026-08-23T04:41:04.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/estlands-varning-risk-for-rysk-paverkan-under-valet",
+   "desc": "De kommande månaderna hålls val i både Sverige och flera andra Östersjöländer. Det innebär en ökad risk för hybridhot och påverkan från Ryssland, menar Estlands försvarsminister Hanno Pevkur. – Ryssland letar efter möjligheter att påverka våra samhällen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Emma om livet som tonåring och småbarnsmamma: ”Varit tufft”",
    "date": "2026-08-23T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/emma-om-livet-som-tonaring-och-smabarnsmamma-varit-tufft",
@@ -72,14 +80,6 @@
    "date": "2026-08-23T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/varmland/fortum-kan-tvingas-sanka-sjoar-for-att-radda-vattennivan-i-fryken",
    "desc": "Vattennivån i Fryken är låg. Och prognoserna för den närmaste tiden visar inget regn. Lösningen kan bli att Fortum tvingas fylla på från sjöar som Rottnen och stora Röjden för att hålla miniminivån i Fryken. – Rottnen och stora Röjden kan bli lägre. Det är klart att det inte är roligt om det drabbar dem, säger Claes Kjörk, vattenregleringsspecialist på Fortum."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bianca, 10, behövde inrymma: ”Var rädd”",
-   "date": "2026-08-22T18:53:01.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/bianca-10-behovde-inrymma-var-radd",
-   "desc": "Bianca Vestlund, 10 år, är elev på Per Olsskolan i Fagersta. I samband med svärdattacken på Brinellskolan behövde hon inrymma. – Jag tyckte synd om de som var skadade, säger hon till SVT:s Lilla Aktuellt."
   },
   {
    "src": "STHLM",
