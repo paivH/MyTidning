@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T17:16:30.955Z",
+ "updated": "2026-08-23T17:44:20.237Z",
  "items": [
   {
    "src": "BBC",
@@ -29,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
-   "date": "2026-08-23T16:57:05.000Z",
+   "date": "2026-08-23T17:31:29.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
    "desc": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
   },
@@ -40,6 +40,22 @@
    "date": "2026-08-23T11:50:59.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
    "desc": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Över 30 döda i jordskred i sophög i Conakry",
+   "date": "2026-08-23T17:17:15.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/over-30-doda-i-jordskred-i-sophog-i-conakry",
+   "desc": "Den berglika skräphögen Dar Es Salam i Guineas huvudstad Conakry rasade samma på söndagen. Minst 30 personer har bekräftats döda vid sopplatsen som skulle ha stängts samma dag."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Över 150 migranter räddade utanför Kreta",
+   "date": "2026-08-23T17:16:19.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/over-150-migranter-raddade-utanfor-kreta",
+   "desc": "Över 150 migranter har under de senaste dagarna räddats utanför ön Kreta av grekiska myndigheter, rapporterar den statliga nyhetsbyrån ANA."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-23T14:55:48.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/nytt-hopp-i-kampen-mot-antibiotikaresistent-gonorre",
    "desc": "Antibiotikaresistent gonorré är ett växande problem – särskilt i Sverige. Men forskningen söker nu nya sätt att behandla bakterier – och det kan ge fler verktyg mot framtidens infektioner. – Det kommer aldrig att vara som man trodde på 80-talet. Att nu har vi tillräckligt många alternativ så nu är det lugnt, säger Fredrik Almqvist, professor i organisk kemi vid Umeå universitet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fouad Youcefi: Här är Sverigedemokraternas största problem",
-   "date": "2026-08-23T09:45:15.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-har-ar-sverigedemokraternas-storsta-problem",
-   "desc": "Sverigedemokraterna har ökat i varje val sedan de kom in i riksdagen 2010. Men inför valdagen står de inför ett problem – att lyckas växa i det område där de tidigare presterat som sämst. SVT:s valreporter Fouad Youcefi visar var i landet partiets akilleshäl finns."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Felicitas, 17, förlorade sin vän i attacken: ”Hon hade så stora planer”",
-   "date": "2026-08-23T07:19:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/felicitas-17-forlorade-sin-van-i-attacken-hon-hade-sa-stora-planer",
-   "desc": "Felicitas, 17, sa hejdå till sin vän i trappan. De sa att de skulle äta kärleksmums i skolan på måndag. Studentdagen hade de också planerat i detalj. – Hon var anledningen till varför jag pluggade och jag var hennes."
   },
   {
    "src": "STHLM",
