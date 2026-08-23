@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T12:32:15.009Z",
+ "updated": "2026-08-23T13:28:30.001Z",
  "items": [
   {
    "src": "BBC",
@@ -12,26 +12,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-   "date": "2026-08-23T09:37:05.000Z",
+   "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+   "date": "2026-08-23T12:56:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-   "desc": "The sacked former defence minister has also called for elections to be held in Ukraine."
+   "desc": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Girl, 17, killed in Swedish sword attack, police say",
-   "date": "2026-08-23T01:34:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-   "desc": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
+   "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+   "date": "2026-08-23T12:52:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+   "desc": "Representatives met in Switzerland to work out next steps to resolve the conflict."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-   "date": "2026-08-22T14:35:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-   "desc": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+   "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+   "date": "2026-08-23T11:50:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+   "desc": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
   },
   {
    "src": "BBC",
@@ -40,14 +40,6 @@
    "date": "2026-08-22T19:03:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
    "desc": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Gratisbussarna lockade fler än väntat: ”Det hade vi inte räknat med”",
-   "date": "2026-08-23T12:17:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/gratisbussarna-lockade-fler-an-vantat-det-hade-vi-inte-raknat-med",
-   "desc": "Östgötatrafiken marknadsförde en gratis skyttelbuss som det smidigaste sättet att ta sig till Flygdagarna. Men för många besökare under lördagen blev resan allt annat än smidig. – Det var tyvärr väldigt långa köer, säger Mattias Näsström, biträdande trafikchef för Östgötatrafiken."
   },
   {
    "src": "SVT",
@@ -80,6 +72,14 @@
    "date": "2026-08-23T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/emma-om-livet-som-tonaring-och-smabarnsmamma-varit-tufft",
    "desc": "Sveriges mammor blir allt äldre och bland de äldsta förstagångsmammorna i landet finns i Gnesta. Tvärtemot den trenden går Gnestabon Emma som blev mamma till idag tvååriga Estelle som 17-åring. – Jag lever mitt liv och hon hänger med, säger hon."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polisen fortsätter kamerabevaka under valet – får filma valstugor",
+   "date": "2026-08-23T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-fortsatter-kamerabevaka-under-valet-far-filma-valstugor",
+   "desc": "Polisen får fortsätta sin kamerabevakning på Rådhustorget i Umeå och på andra torg i landet där valstugorna satts upp. Kamerorna anser inte strida mot den personliga integriteten. – Man får göra sitt eget val om man vill gå in på platserna, säger Michael Rystedt, lokalpolisområdeschef i Umeå."
   },
   {
    "src": "STHLM",
