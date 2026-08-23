@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T19:21:35.017Z",
+ "updated": "2026-08-23T19:44:19.756Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "”Åkesson kastar Mohamsson under bussen”",
+   "date": "2026-08-23T19:34:41.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/akesson-kastar-mohamsson-under-bussen",
+   "desc": "Sverigedemokraternas partiledare Jimmie Åkesson kastar Liberalerna under bussen i SVT:s partiledarutfrågning. Det ligger inte i SD:s intresse att rädda L kvar i riksdagen, säger Åkesson. Åkessons hårda uttalande mot L kan uppfattas som att Tidösamarbetet är i sönderfall. SD-ledaren har uppenbart dragit slutsatsen att L inte kommer att hålla sig kvar i riksdagen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Liam Nebel, 18, häktad för skolattacken i Fagersta",
    "date": "2026-08-23T17:54:50.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/liam-nebel-18-haktad-for-skolattacken-i-fagersta",
@@ -74,20 +82,12 @@
    "desc": "Över 150 migranter har under de senaste dagarna räddats utanför ön Kreta av grekiska myndigheter, rapporterar den statliga nyhetsbyrån ANA."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Nu kulminerar översvämningarna i Boden – stor påverkan",
-   "date": "2026-08-23T16:05:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/oversvamningarna-i-boden-kulminerar-stor-paverkan",
-   "desc": "Under helgen har vattennivåerna fortsat att stiga i Bodenområdet med översvämmade vägar och vattenfyllda källare som resultat. Men Bodens räddningschef ser tecken på att kulmen nu kan vara nådd."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Rökutveckling på flygplan vid Arlanda",
    "date": "2026-08-23T19:06:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/rokutveckling-pa-flygplan-vid-arlanda",
-   "desc": "Ett flygplan har landat på Arlanda efter att rökutveckling från en motor."
+   "desc": "Under söndagskvällen började det ryka ur en av motorerna på passagerarflygplan som landade vid Arlanda."
   },
   {
    "src": "STHLM",
