@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T18:56:34.098Z",
+ "updated": "2026-08-23T19:21:35.017Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-   "date": "2026-08-23T05:46:43.000Z",
+   "date": "2026-08-23T19:11:30.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
    "desc": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
   },
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Rökutveckling på flygplan vid Arlanda",
+   "date": "2026-08-23T19:06:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/rokutveckling-pa-flygplan-vid-arlanda",
+   "desc": "Ett flygplan har landat på Arlanda efter att rökutveckling från en motor."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Tiotusentals marscherade för klimatet i Stockholm",
    "date": "2026-08-23T14:51:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tiotusentals-marscherade-for-klimatet-i-stockholm",
@@ -112,14 +120,6 @@
    "date": "2026-08-22T09:49:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/virala-basketstjarnan-mk-i-stockholm",
    "desc": "Ett av nätets största gatubasketfenomen, kanadensaren Matt Kiatipis, utmanade stockholmare i 1 mot 1 på basketplanen vid Åsö gymnasium under fredagen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Se när Solnas stadshus byggdes på 60-talet",
-   "date": "2026-08-22T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/se-nar-solnas-stadshus-byggdes-pa-60-talet",
-   "desc": "Idag är stadshuset i Solna slitet och omodernt. Men när 15-våningarshuset stod klart i mitten av 60-talet var byggnaden toppmodern med luftkonditionering som reglerades manuellt från källaren."
   },
   {
    "src": "BBC",
