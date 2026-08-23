@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T17:44:20.237Z",
+ "updated": "2026-08-23T18:23:21.294Z",
  "items": [
   {
    "src": "BBC",
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Guinea rubbish landfill collapse kills 30",
+   "date": "2026-08-23T18:17:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+   "desc": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "DR Congo and M23 rebels agree roadmap for peace talks",
    "date": "2026-08-23T12:52:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
@@ -28,18 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
-   "date": "2026-08-23T17:31:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-   "desc": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
+   "title": "France links sharp rise in drownings to heatwaves",
+   "date": "2026-08-23T17:39:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+   "desc": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-   "date": "2026-08-23T11:50:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-   "desc": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Liam Nebel, 18, häktad för skolattacken i Fagersta",
+   "date": "2026-08-23T17:54:50.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/liam-nebel-18-haktad-for-skolattacken-i-fagersta",
+   "desc": "Liam Nebel, 18, misstänks för skoldådet i Fagersta – där en flicka dog och tre pojkar skadades. På söndagen häktades han på sannolika skäl misstänkt för mord och mordförsök."
   },
   {
    "src": "SVT",
@@ -71,15 +79,7 @@
    "title": "Helen i Boden har fått källaren fylld  med avloppsvatten",
    "date": "2026-08-23T16:01:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/helen-i-boden-har-fatt-kallaren-fylld-med-avloppsvatten",
-   "desc": "Helen Hansen och hennes familj måste flytta ut från villan i Svartbjörsbyn i ett par veckor efter att avloppsvatten tryckt upp i husets källare i samband med översvämningarna i Boden."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Nytt hopp i kampen mot antibiotikaresistent gonorré",
-   "date": "2026-08-23T14:55:48.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/nytt-hopp-i-kampen-mot-antibiotikaresistent-gonorre",
-   "desc": "Antibiotikaresistent gonorré är ett växande problem – särskilt i Sverige. Men forskningen söker nu nya sätt att behandla bakterier – och det kan ge fler verktyg mot framtidens infektioner. – Det kommer aldrig att vara som man trodde på 80-talet. Att nu har vi tillräckligt många alternativ så nu är det lugnt, säger Fredrik Almqvist, professor i organisk kemi vid Umeå universitet."
+   "desc": "Helen Hansen och hennes familj måste flytta ut från villan i Svartbjörnsbyn i ett par veckor efter att avloppsvatten tryckt upp i husets källare i samband med översvämningarna i Boden."
   },
   {
    "src": "STHLM",
