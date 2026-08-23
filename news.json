@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T14:48:13.148Z",
+ "updated": "2026-08-23T15:18:00.634Z",
  "items": [
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "The hotel booking mix-up that could free mushroom murderer",
-   "date": "2026-08-22T19:03:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-   "desc": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions."
+   "title": "France links rise in drownings to heatwaves",
+   "date": "2026-08-23T15:00:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+   "desc": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nytt hopp i kampen mot antibiotikaresistent gonorré",
+   "date": "2026-08-23T14:55:48.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/nytt-hopp-i-kampen-mot-antibiotikaresistent-gonorre",
+   "desc": "Antibiotikaresistent gonorré är ett växande problem – särskilt i Sverige. Men forskningen söker nu nya sätt att behandla bakterier – och det kan ge fler verktyg mot framtidens infektioner. – Det kommer aldrig att vara som man trodde på 80-talet. Att nu har vi tillräckligt många alternativ så nu är det lugnt, säger Fredrik Almqvist, professor i organisk kemi vid Umeå universitet."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Sveriges mammor blir allt äldre och bland de äldsta förstagångsmammorna i landet finns i Gnesta. Tvärtemot den trenden går Gnestabon Emma som blev mamma till idag tvååriga Estelle som 17-åring. – Jag lever mitt liv och hon hänger med, säger hon."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Polisen fortsätter kamerabevaka under valet – får filma valstugor",
-   "date": "2026-08-23T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-fortsatter-kamerabevaka-under-valet-far-filma-valstugor",
-   "desc": "Polisen får fortsätta sin kamerabevakning på Rådhustorget i Umeå och på andra torg i landet där valstugorna satts upp. Kamerorna anser inte strida mot den personliga integriteten. – Man får göra sitt eget val om man vill gå in på platserna, säger Michael Rystedt, lokalpolisområdeschef i Umeå."
+   "title": "Tiotusentals marscherade för klimatet i Stockholm",
+   "date": "2026-08-23T14:51:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tiotusentals-marscherade-for-klimatet-i-stockholm",
+   "desc": "Över 50 000 personer och 280 organisationer deltog i Den stora klimatdemonstrationen i Stockholm på söndagen. Rekordmånga samlades för kraftfullare politiska åtgärder för klimatet."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-22T03:30:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/se-nar-solnas-stadshus-byggdes-pa-60-talet",
    "desc": "Idag är stadshuset i Solna slitet och omodernt. Men när 15-våningarshuset stod klart i mitten av 60-talet var byggnaden toppmodern med luftkonditionering som reglerades manuellt från källaren."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Miljardkostnad för nytt stadshus skapar politisk spricka i Solna",
-   "date": "2026-08-22T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/miljardkostnad-for-nytt-stadshus-skapar-politisk-spricka-i-solna",
-   "desc": "I Solnas stadshus är fönster fastskruvade för att inte falla ur sina ramar, rören läcker och ventilationen är undermålig. Samtliga partier var därför eniga om att försöka köpa det närliggande Telenorhuset för att flytta stadhusverksamheten dit. Men när prislappen visade sig hamna på en dryg miljard kronor backade den borgerliga oppositionen från överenskommelsen."
   },
   {
    "src": "BBC",
