@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T11:44:38.535Z",
+ "updated": "2026-08-23T12:32:15.009Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Gratisbussarna lockade fler än väntat: ”Det hade vi inte räknat med”",
+   "date": "2026-08-23T12:17:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/gratisbussarna-lockade-fler-an-vantat-det-hade-vi-inte-raknat-med",
+   "desc": "Östgötatrafiken marknadsförde en gratis skyttelbuss som det smidigaste sättet att ta sig till Flygdagarna. Men för många besökare under lördagen blev resan allt annat än smidig. – Det var tyvärr väldigt långa köer, säger Mattias Näsström, biträdande trafikchef för Östgötatrafiken."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Fouad Youcefi: Här är Sverigedemokraternas största problem",
    "date": "2026-08-23T09:45:15.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-har-ar-sverigedemokraternas-storsta-problem",
@@ -72,14 +80,6 @@
    "date": "2026-08-23T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/emma-om-livet-som-tonaring-och-smabarnsmamma-varit-tufft",
    "desc": "Sveriges mammor blir allt äldre och bland de äldsta förstagångsmammorna i landet finns i Gnesta. Tvärtemot den trenden går Gnestabon Emma som blev mamma till idag tvååriga Estelle som 17-åring. – Jag lever mitt liv och hon hänger med, säger hon."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Polisen fortsätter kamerabevaka under valet – får filma valstugor",
-   "date": "2026-08-23T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-fortsatter-kamerabevaka-under-valet-far-filma-valstugor",
-   "desc": "Polisen får fortsätta sin kamerabevakning på Rådhustorget i Umeå och på andra torg i landet där valstugorna satts upp. Kamerorna anser inte strida mot den personliga integriteten. – Man får göra sitt eget val om man vill gå in på platserna, säger Michael Rystedt, lokalpolisområdeschef i Umeå."
   },
   {
    "src": "STHLM",
