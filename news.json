@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T02:43:04.754Z",
+ "updated": "2026-08-23T03:47:00.026Z",
  "items": [
   {
    "src": "BBC",
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Emma om livet som tonåring och småbarnsmamma: ”Varit tufft”",
+   "date": "2026-08-23T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/emma-om-livet-som-tonaring-och-smabarnsmamma-varit-tufft",
+   "desc": "Sveriges mammor blir allt äldre och bland de äldsta förstagångsmammorna i landet finns i Gnesta. Tvärtemot den trenden går Gnestabon Emma som blev mamma till idag tvååriga Estelle som 17-åring. – Jag lever mitt liv och hon hänger med, säger hon."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polisen fortsätter kamerabevaka under valet – får filma valstugor",
+   "date": "2026-08-23T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-fortsatter-kamerabevaka-under-valet-far-filma-valstugor",
+   "desc": "Polisen får fortsätta sin kamerabevakning på Rådhustorget i Umeå och på andra torg i landet där valstugorna satts upp. Kamerorna anser inte strida mot den personliga integriteten. – Man får göra sitt eget val om man vill gå in på platserna, säger Michael Rystedt, lokalpolisområdeschef i Umeå."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Det vill partitopparna göra för norrbottningarna",
+   "date": "2026-08-23T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/det-vill-partitopparna-gora-for-norrbottningarna",
+   "desc": "Flertalet partitoppar har besökt Norrbotten de senaste veckorna inför valet den 13 september. SVT ställde frågan vad de egentligen vill göra för norrbottningarna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fortum kan tvingas sänka sjöar för att rädda vattennivån i Fryken",
+   "date": "2026-08-23T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/fortum-kan-tvingas-sanka-sjoar-for-att-radda-vattennivan-i-fryken",
+   "desc": "Vattennivån i Fryken är låg. Och prognoserna för den närmaste tiden visar inget regn. Lösningen kan bli att Fortum tvingas fylla på från sjöar som Rottnen och stora Röjden för att hålla miniminivån i Fryken. – Rottnen och stora Röjden kan bli lägre. Det är klart att det inte är roligt om det drabbar dem, säger Claes Kjörk, vattenregleringsspecialist på Fortum."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Bianca, 10, behövde inrymma: ”Var rädd”",
    "date": "2026-08-22T18:53:01.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/bianca-10-behovde-inrymma-var-radd",
    "desc": "Bianca Vestlund, 10 år, är elev på Per Olsskolan i Fagersta. I samband med svärdattacken på Brinellskolan behövde hon inrymma. – Jag tyckte synd om de som var skadade, säger hon till SVT:s Lilla Aktuellt."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Sju döda i kollision efter polisjakt i England",
-   "date": "2026-08-22T18:45:13.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/sju-doda-i-kollision-efter-polisjakt-i-england",
-   "desc": "Sju personer har omkommit i en frontalkrock nära Middlesbrough i nordöstra England. Två av dödsoffren är poliser – och olyckan skedde i samband med en biljakt, rapporterar Sky news."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Minnea var med 17-åriga flickan före dådet: ”Ser henne stanna upp”",
-   "date": "2026-08-22T16:25:08.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/minnea-var-med-17-ariga-flickan-fore-dadet-ser-henne-stanna-upp",
-   "desc": "En 17-årig flicka dödades när gärningsmannen gick till attack inne på Brinellskolan i Fagersta. Minnea Wennmyr blev vittne till delar av förloppet. – Det första hennes kille säger när vi kommer ut är att hon är död."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Andreas Almgren reagerar på sitt EM-guldlopp: ”Då kommer de knäckas”",
-   "date": "2026-08-22T16:19:18.000Z",
-   "link": "https://www.svt.se/sport/friidrott/andreas-almgren-reagerar-pa-sitt-em-guldlopp-da-kommer-de-knackas",
-   "desc": "Andreas Almgren tog ett överlägset EM-guld på 10 000 meter. När han tillsammans med SVT återupplever loppet är det en detalj som sticker ut. – Vad är det för form han är i? säger Almgren och skrattar."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Se bilderna inifrån Brinellskolan: ”Det är en skolskjutning”",
-   "date": "2026-08-22T16:12:42.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/se-bilderna-inifran-brinellskolan-det-ar-en-skolskjutning",
-   "desc": "Strax efter 14-tiden på fredagen tog en misstänkt 18-årig gärningsman sig in på Brinellskolan i Fagersta. Med sig hade han ett svärd som han attackerade flera elever med. Tre personer skadades och en 17-årig flicka dödades. Delar av insatsen fångades på film inifrån skolan."
+   "title": "Ekologisk mat blir valfråga i Vallentuna",
+   "date": "2026-08-23T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ekologisk-mat-blir-valfraga-i-vallentuna",
+   "desc": "Mer ekologiskt i Vallentunas skolor och äldreboenden? Eller blir det lika bra med livsmedel som produceras utan de strängare kraven? Frågan delar kommunpolitikerna – och lantbrukaren Roger Billefält har hamnat mitt i ekodebatten inför valet."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-22T03:30:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/miljardkostnad-for-nytt-stadshus-skapar-politisk-spricka-i-solna",
    "desc": "I Solnas stadshus är fönster fastskruvade för att inte falla ur sina ramar, rören läcker och ventilationen är undermålig. Samtliga partier var därför eniga om att försöka köpa det närliggande Telenorhuset för att flytta stadhusverksamheten dit. Men när prislappen visade sig hamna på en dryg miljard kronor backade den borgerliga oppositionen från överenskommelsen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Tonårskillars spel om pengar ökar kraftigt i Stockholm: ”Inte stolt”",
-   "date": "2026-08-21T15:02:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tonarskillars-spel-om-pengar-okar-kraftigt-i-stockholm-inte-stolt",
-   "desc": "Idag kom resultatet av Stockholmsenkäten som visar att unga killars spel om pengar fortsätter öka kraftigt. Enkäten visar även att man festar med större mängder alkohol än tidigare. – Det händer ju att det kommer ambulanser på grund av alkoholförgiftning, säger Edvin Sjödahl Müller som märkt att fler festar allt hårdare."
   },
   {
    "src": "BBC",
