@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-23T06:34:11.522Z",
+ "updated": "2026-08-23T07:30:04.722Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+   "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
    "date": "2026-08-23T05:46:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
+   "desc": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
   },
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Felicitas, 17, förlorade sin vän i attacken: ”Hon hade så stora planer”",
+   "date": "2026-08-23T07:19:01.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/felicitas-17-forlorade-sin-van-i-attacken-hon-hade-sa-stora-planer",
+   "desc": "Felicitas, 17, sa hejdå till sin vän i trappan. De sa att de skulle äta kärleksmums i skolan på måndag. Studentdagen hade de också planerat i detalj. – Hon var anledningen till varför jag pluggade och jag var hennes."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Estlands varning: Risk för rysk påverkan under valet",
    "date": "2026-08-23T04:41:04.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/estlands-varning-risk-for-rysk-paverkan-under-valet",
@@ -72,14 +80,6 @@
    "date": "2026-08-23T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/det-vill-partitopparna-gora-for-norrbottningarna",
    "desc": "Flertalet partitoppar har besökt Norrbotten de senaste veckorna inför valet den 13 september. SVT ställde frågan vad de egentligen vill göra för norrbottningarna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fortum kan tvingas sänka sjöar för att rädda vattennivån i Fryken",
-   "date": "2026-08-23T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/fortum-kan-tvingas-sanka-sjoar-for-att-radda-vattennivan-i-fryken",
-   "desc": "Vattennivån i Fryken är låg. Och prognoserna för den närmaste tiden visar inget regn. Lösningen kan bli att Fortum tvingas fylla på från sjöar som Rottnen och stora Röjden för att hålla miniminivån i Fryken. – Rottnen och stora Röjden kan bli lägre. Det är klart att det inte är roligt om det drabbar dem, säger Claes Kjörk, vattenregleringsspecialist på Fortum."
   },
   {
    "src": "STHLM",
