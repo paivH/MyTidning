@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T09:23:12.625Z",
+ "updated": "2026-08-23T09:51:34.409Z",
  "items": [
   {
    "src": "BBC",
@@ -12,16 +12,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Carney faces crucial test after walking away from Trump's deal",
-   "date": "2026-08-22T20:02:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-   "date": "2026-08-23T08:47:47.000Z",
+   "date": "2026-08-23T09:37:05.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
    "desc": "The sacked former defence minister has also called for elections to be held in Ukraine."
   },
@@ -40,6 +32,22 @@
    "date": "2026-08-22T14:35:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
    "desc": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "The hotel booking mix-up that could free mushroom murderer",
+   "date": "2026-08-22T19:03:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+   "desc": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fouad Youcefi: Här är Sverigedemokraternas största problem",
+   "date": "2026-08-23T09:45:15.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-har-ar-sverigedemokraternas-storsta-problem",
+   "desc": "Sverigedemokraterna har ökat i varje val sedan de kom in i riksdagen 2010. Men inför valdagen står de inför ett problem – att lyckas växa i det område där de tidigare presterat som sämst. SVT:s valreporter Fouad Youcefi visar var i landet partiets akilleshäl finns."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-23T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polisen-fortsatter-kamerabevaka-under-valet-far-filma-valstugor",
    "desc": "Polisen får fortsätta sin kamerabevakning på Rådhustorget i Umeå och på andra torg i landet där valstugorna satts upp. Kamerorna anser inte strida mot den personliga integriteten. – Man får göra sitt eget val om man vill gå in på platserna, säger Michael Rystedt, lokalpolisområdeschef i Umeå."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Det vill partitopparna göra för norrbottningarna",
-   "date": "2026-08-23T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/det-vill-partitopparna-gora-for-norrbottningarna",
-   "desc": "Flertalet partitoppar har besökt Norrbotten de senaste veckorna inför valet den 13 september. SVT ställde frågan vad de egentligen vill göra för norrbottningarna."
   },
   {
    "src": "STHLM",
