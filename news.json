@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T13:47:42.786Z",
+ "updated": "2026-08-24T14:37:24.822Z",
  "items": [
   {
    "src": "BBC",
@@ -37,7 +37,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Access to Zambian courts prevented as election petition deadline looms",
-   "date": "2026-08-24T11:17:28.000Z",
+   "date": "2026-08-24T14:02:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
    "desc": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing."
   },
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Efter kajskandalen i Vaxholm – kommunchefen sägs upp",
+   "date": "2026-08-24T14:04:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-kajskandalen-i-vaxholm-kommunchefen-sags-upp",
+   "desc": "Vaxholms kommunchef Marie Wiklund får lämna sitt jobb efter avslöjanden om olagliga kajupphandlingar. – Jag önskar Vaxholms stad all lycka till, säger Marie Wiklund, i ett pressmeddelande."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Patienter kan behöva nya hjärtan efter operationsmiss på Karolinska sjukhuset",
    "date": "2026-08-24T11:29:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/patienter-kan-behova-nya-hjartan-efter-operationsmiss-pa-karolinska-sjukhuset",
@@ -112,14 +120,6 @@
    "date": "2026-08-23T19:06:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/rokutveckling-pa-flygplan-vid-arlanda",
    "desc": "Under söndagskvällen började det ryka ur en av motorerna på passagerarflygplan som landade vid Arlanda."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Tiotusentals marscherade för klimatet i Stockholm",
-   "date": "2026-08-23T14:51:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tiotusentals-marscherade-for-klimatet-i-stockholm",
-   "desc": "Över 50 000 personer och 280 organisationer deltog i Den stora klimatdemonstrationen i Stockholm på söndagen. Rekordmånga samlades för kraftfullare politiska åtgärder för klimatet."
   },
   {
    "src": "BBC",
