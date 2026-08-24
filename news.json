@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T19:54:28.580Z",
+ "updated": "2026-08-24T20:25:13.663Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Experten slår fast: ”Malmö är ett mittenlag”",
+   "date": "2026-08-24T20:07:29.000Z",
+   "link": "https://www.svt.se/sport/fotboll/experten-slar-fast-malmo-ar-ett-mittenlag",
+   "desc": "Malmö åkte på en ny käftsmäll. De himmelsblå är långt ifrån glansdagarna, menar SVT Sports expert. – Ett mittenlag, säger Magnus Eriksson i ”Fotbollsstudion”."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Kartläggning: Här är Tiktok-kontot som utreds efter dådet i Fagersta",
    "date": "2026-08-24T18:29:46.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/kartlaggning-har-ar-tiktok-kontot-som-utreds-efter-dadet-i-fagersta",
@@ -72,14 +80,6 @@
    "date": "2026-08-24T15:01:51.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/rita-flores-i-pussy-riot-tvingades-jobba-for-fsb",
    "desc": "Rita Flores, en tidigare medlem i ryska Pussy Riot, har avslöjat att hon under tre år arbetade för Rysslands säkerhetstjänst FSB, skriver bland annat Meduza."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Elever i Jönköping efter skolattacken: ”Skulle kunna hända här”",
-   "date": "2026-08-24T14:53:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/elever-i-jonkoping-efter-skolattacken-skulle-kunna-handa-har",
-   "desc": "Skolattacken i Fagersta i fredags har väckt frågor om tryggheten på landets skolor. Flera gymnasieelever som SVT pratat med tyckte att det kändes lite konstigt att gå till skolan under måndagsmorgonen."
   },
   {
    "src": "STHLM",
