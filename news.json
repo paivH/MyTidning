@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T08:43:06.169Z",
+ "updated": "2026-08-24T09:42:15.767Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,14 @@
    "date": "2026-08-24T05:00:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
    "desc": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+   "date": "2026-08-24T08:34:26.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+   "desc": "The fire has burned around 10,500 acres and is completely uncontained, officials say."
   },
   {
    "src": "BBC",
@@ -34,14 +42,6 @@
    "desc": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-   "date": "2026-08-24T03:55:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-   "desc": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
-  },
-  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Nederländerna bojkottar ”icke neutralt” Eurovision",
@@ -60,10 +60,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man död i Mariannelund – kvinna gripen",
+   "title": "Kvinna misstänkt för mord i Mariannelund – man i 35-årsåldern död",
    "date": "2026-08-24T05:45:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/man-dod-i-mariannelund-kvinna-gripen",
-   "desc": "Räddningspersonal larmades till en bostad i Mariannelund i Eksjö kommun med anledning av ett hjärtstopp under söndagskvällen. På platsen fann man en man i 35-årsåldern död."
+   "desc": "Räddningspersonal larmades på söndagskvällen till en bostad i Mariannelund i Eksjö kommun med anledning av ett hjärtstopp under söndagskvällen. På platsen fann man en man i 35-årsåldern död."
   },
   {
    "src": "SVT",
