@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-24T02:43:06.733Z",
+ "updated": "2026-08-24T03:51:13.094Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-   "date": "2026-08-23T12:56:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-   "desc": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
+   "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+   "date": "2026-08-23T23:07:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+   "desc": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
   },
   {
    "src": "BBC",
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Shein aims for almost $27bn valuation in stock market debut",
+   "date": "2026-08-24T02:05:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+   "desc": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Guinea rubbish landfill collapse kills 30",
    "date": "2026-08-23T18:17:37.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
@@ -28,18 +36,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-   "date": "2026-08-23T12:52:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-   "desc": "Representatives met in Switzerland to work out next steps to resolve the conflict."
+   "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+   "date": "2026-08-24T03:27:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+   "desc": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "France links sharp rise in drownings to heatwaves",
-   "date": "2026-08-23T17:39:33.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-   "desc": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Wilma, 18, i Skellefteå skar sig själv – tvingades vänta i BUP-kö",
+   "date": "2026-08-24T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/wilma-18-i-skelleftea-skar-sig-sjalv-tvingades-vanta-i-bup-ko",
+   "desc": "Västerbottens köer till BUP är bland de längsta i landet. Trots att Wilma Sandberg i Skellefteå hade ett självskadebeteende tvingades hon vänta i flera år på hjälp. – De hjälpte ändå inte, trots att mamma hade en stark oro för att jag skulle ta livet av mig, säger Wilma."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Skolfrågan splittrar partierna i Flen – så vill de göra efter valet",
+   "date": "2026-08-24T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/skolfragan-splittrar-partierna-i-flen-sa-vill-de-gora-efter-valet",
+   "desc": "Hot om nedläggningar, långdragna beslut och svängande besked. Skolfrågan har skapat stor osäkerhet i Flen de senaste åren. Nu är de styrande partierna, socialdemokraterna och centerpartiet, självkritiska – men någon gemensam väg framåt finns fortfarande inte."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kraftigt ökade importpriser drabbar landets lantbrukare",
+   "date": "2026-08-24T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kraftigt-okade-importpriser-drabbar-landets-lantbrukare",
+   "desc": "Kriget i Mellanöstern har gjort att flera av lantbrukares viktiga importvaror som drivmedel och konstgödsel ökat kraftigt i pris. För lantbrukarna innebär det osäkerhet inför framtiden och för konsumenter ökar det priserna. – Vi är ju beroende av att importera dessa varor, säger lantbrukaren Markus Levander."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Värmländska partier satsar mer på dörrknackning: ”Det personliga mötet ger mer”",
+   "date": "2026-08-24T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/varmlandska-partier-satsar-mer-pa-dorrknackning-det-personliga-motet-ger-mer",
+   "desc": "Dörrknackning är hetare bland de värmländska partierna jämfört med för fyra år sedan. För Vänsterpartiet är det första gången någonsin som de knackar dörr i en valrörelse. – Det personliga mötet ger mycket mer än annonser eller skyltar, säger kommunalrådet Siri Hasting (V)."
   },
   {
    "src": "SVT",
@@ -50,36 +82,12 @@
    "desc": "Sverigedemokraternas partiledare Jimmie Åkesson kastar Liberalerna under bussen i SVT:s partiledarutfrågning. Det ligger inte i SD:s intresse att rädda L kvar i riksdagen, säger Åkesson. Åkessons hårda uttalande mot L kan uppfattas som att Tidösamarbetet är i sönderfall. SD-ledaren har uppenbart dragit slutsatsen att L inte kommer att hålla sig kvar i riksdagen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Liam Nebel, 18, häktad för skolattacken i Fagersta",
-   "date": "2026-08-23T17:54:50.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/liam-nebel-18-haktad-for-skolattacken-i-fagersta",
-   "desc": "Liam Nebel, 18, misstänks för skoldådet i Fagersta – där en flicka dog och tre pojkar skadades. På söndagen häktades han på sannolika skäl misstänkt för mord och mordförsök."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Israel stoppar svenska EU-parlamentariker",
-   "date": "2026-08-23T17:50:10.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/jerusalem-post-eu-parlamentariker-portas-fran-israel",
-   "desc": "EU-parlamentarikerna Jonas Sjöstedt och Hanna Gedin (V) stoppas från att åka in i landet. – Jag förväntar mig att Sveriges regering agerar, säger Gedin."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Över 30 döda i jordskred i sophög i Conakry",
-   "date": "2026-08-23T17:17:15.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/over-30-doda-i-jordskred-i-sophog-i-conakry",
-   "desc": "Den berglika skräphögen Dar Es Salam i Guineas huvudstad Conakry rasade samma på söndagen. Minst 30 personer har bekräftats döda vid sopplatsen som skulle ha stängts samma dag."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Över 150 migranter räddade utanför Kreta",
-   "date": "2026-08-23T17:16:19.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/over-150-migranter-raddade-utanfor-kreta",
-   "desc": "Över 150 migranter har under de senaste dagarna räddats utanför ön Kreta av grekiska myndigheter, rapporterar den statliga nyhetsbyrån ANA."
+   "title": "Rösträknare anställs via privat företag i Täby kommun",
+   "date": "2026-08-24T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/rostraknare-anstalls-via-privat-foretag-i-taby-kommun",
+   "desc": "Täby kommun inför en ny metod inför årets förtidsröstning. Ett bemanningsföretag kommer sköta rekryteringen av de som räknar rösterna. Beslutet ska underlätta för valkansliet – men har väckt oro och kritik hos valarbetare. – I Sverige har vi inte sett det tidigare vad jag vet, säger Fredrik Uggla, docent i statsvetenskap."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-22T15:14:55.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/finns-saker-som-ar-storre-hot-mot-folkhalsan-an-massling",
    "desc": "Under lördagen pågår Järna Kulturfest. Inför festivalen har regionens smittskyddsläkare uttryckt en viss oro för att mässling skulle kunna spridas där. Men besökarna verkar inte så oroliga."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Virala basketstjärnan ”MK” i Stockholm",
-   "date": "2026-08-22T09:49:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/virala-basketstjarnan-mk-i-stockholm",
-   "desc": "Ett av nätets största gatubasketfenomen, kanadensaren Matt Kiatipis, utmanade stockholmare i 1 mot 1 på basketplanen vid Åsö gymnasium under fredagen."
   },
   {
    "src": "BBC",
