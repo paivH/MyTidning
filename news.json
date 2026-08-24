@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T07:54:31.366Z",
+ "updated": "2026-08-24T08:43:06.169Z",
  "items": [
   {
    "src": "BBC",
@@ -20,18 +20,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Shein aims for almost $27bn valuation in stock market debut",
-   "date": "2026-08-24T07:00:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-   "desc": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
+   "title": "Nearly three million Teslas recalled in China over hidden door handles",
+   "date": "2026-08-24T05:01:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+   "desc": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "China probes use of formaldehyde to keep cabbages fresh",
-   "date": "2026-08-24T05:40:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages."
+   "title": "King of Norway's health has worsened, palace says",
+   "date": "2026-08-24T08:31:55.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+   "desc": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-08-24T03:55:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
    "desc": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nederländerna bojkottar ”icke neutralt” Eurovision",
+   "date": "2026-08-24T08:38:42.000Z",
+   "link": "https://www.svt.se/kultur/nederlanderna-bojkottar-icke-neutralt-eurovision",
+   "desc": "Nederländerna kommer inte att ställa upp i Eurovision Song Contest 2027 eftersom man anser att tävlingen inte längre är neutral."
   },
   {
    "src": "SVT",
@@ -55,7 +63,7 @@
    "title": "Man död i Mariannelund – kvinna gripen",
    "date": "2026-08-24T05:45:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/man-dod-i-mariannelund-kvinna-gripen",
-   "desc": "Polis och ambulans larmades till en bostad i Mariannelund med anledning av ett hjärtstopp under söndagskvällen. På platsen fann man en man i 35-årsåldern död."
+   "desc": "Räddningspersonal larmades till en bostad i Mariannelund i Eksjö kommun med anledning av ett hjärtstopp under söndagskvällen. På platsen fann man en man i 35-årsåldern död."
   },
   {
    "src": "SVT",
@@ -74,14 +82,6 @@
    "desc": "SD-ledaren Jimmie Åkesson har utfärdat en deadline för när han tycker att det är dags att ge upp om Liberalerna. Nu får han medhåll från en tung KD-topp. Men den tidigare partiledaren Lars Leijonborg (L) avfärdar idén. – Vi behöver kanske inte hans synpunkter på just detta, svarar han."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Två hus helt nedbrunna utanför Båstad",
-   "date": "2026-08-24T03:52:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/tva-hus-utanfor-bastad-helt-overtanda",
-   "desc": "En brand i ett ödehus söder om Östra Karup i Båstads kommun spred sig till ett bebott hus. Båda byggnaderna brann ner till grunden."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Bil körde in i vägg i tunnel vid Essingeleden – passagerare smet från platsen",
@@ -92,10 +92,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Rösträknare anställs via privat företag i Täby kommun",
+   "title": "Röstmottagare anställs via privat företag i Täby kommun",
    "date": "2026-08-24T03:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/rostraknare-anstalls-via-privat-foretag-i-taby-kommun",
-   "desc": "Täby kommun inför en ny metod inför årets förtidsröstning. Ett bemanningsföretag kommer sköta rekryteringen av de som räknar rösterna. Beslutet ska underlätta för valkansliet – men har väckt oro och kritik hos valarbetare. – I Sverige har vi inte sett det tidigare vad jag vet, säger Fredrik Uggla, docent i statsvetenskap."
+   "desc": "Täby kommun inför en ny metod inför årets förtidsröstning. Ett bemanningsföretag kommer sköta rekryteringen av de som tar emot rösterna. Beslutet ska underlätta för valkansliet – men har väckt oro och kritik hos valarbetare. – I Sverige har vi inte sett det tidigare vad jag vet, säger Fredrik Uggla, docent i statsvetenskap."
   },
   {
    "src": "STHLM",
