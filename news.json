@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-24T17:57:43.491Z",
+ "updated": "2026-08-24T18:43:56.123Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-   "date": "2026-08-24T13:35:07.000Z",
+   "date": "2026-08-24T18:39:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
    "desc": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
   },
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Kartläggning: Här är Tiktok-kontot som utreds efter dådet i Fagersta",
+   "date": "2026-08-24T18:29:46.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/kartlaggning-har-ar-tiktok-kontot-som-utreds-efter-dadet-i-fagersta",
+   "desc": "Svärd, skolattackerare och AI-dansvideor: SVT:s granskning av det Tiktokkonto som nu utreds av polisen öppnar dörren till en våldsbejakande nätkultur som bygger på dyrkan av massmördare – den så kallade True Crime Community."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Mc och bil i krock på riksväg 40 – en förd till sjukhus",
    "date": "2026-08-24T16:32:22.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/mc-och-bil-i-krock-pa-riksvag-40-vagen-avstangd",
@@ -74,12 +82,12 @@
    "desc": "Skolattacken i Fagersta i fredags har väckt frågor om tryggheten på landets skolor. Flera gymnasieelever som SVT pratat med tyckte att det kändes lite konstigt att gå till skolan under måndagsmorgonen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Här driver mängder av död fisk runt i Växjö",
-   "date": "2026-08-24T14:51:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/har-driver-mangder-av-dod-fisk-runt-i-vaxjo",
-   "desc": "Mängder av Växjöbor har under dagen reagerat på att det flyter runt mängder av död fisk i lagunen vid Växjösjön. Syrebrist på grund av muddring ligger bakom enligt kommunen."
+   "title": "Nyheter från dagen: 24 augusti",
+   "date": "2026-08-24T17:59:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-24-augusti-ekyzqo",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 24 augusti."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-24T03:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/rostraknare-anstalls-via-privat-foretag-i-taby-kommun",
    "desc": "Täby kommun inför en ny metod inför årets förtidsröstning. Ett bemanningsföretag kommer sköta rekryteringen av de som tar emot rösterna. Beslutet ska underlätta för valkansliet – men har väckt oro och kritik hos valarbetare. – I Sverige har vi inte sett det tidigare vad jag vet, säger Fredrik Uggla, docent i statsvetenskap."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Rökutveckling från flygplan vid Arlanda",
-   "date": "2026-08-23T19:06:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/rokutveckling-pa-flygplan-vid-arlanda",
-   "desc": "Under söndagskvällen började det ryka ur en av motorerna på passagerarflygplan som landade vid Arlanda."
   },
   {
    "src": "BBC",
