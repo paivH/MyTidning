@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T12:41:07.829Z",
+ "updated": "2026-08-24T13:47:42.786Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-   "date": "2026-08-24T10:39:23.000Z",
+   "date": "2026-08-24T13:35:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
    "desc": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
   },
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Tjejgänget klär sig i svart – för att visa sitt stöd efter skoldådet i Fagersta",
+   "date": "2026-08-24T12:57:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/har-klar-sig-eleverna-i-svart-for-att-visa-sitt-stod",
+   "desc": "På måndagen var Risbroskolan igång med undervisning, tre dagar efter skoldådet på grannskolan Brinell i Fagersta. Då valde många elever att klä sig i svart för att hylla och sörja den 17-åriga flickan som dödades. – Det är viktigt att vi stöttar varandra i det här, säger högstadieeleven Agnes Hellblad-Hjelm."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Omstridda valaffischer har dykt upp i Norrköping",
+   "date": "2026-08-24T12:51:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/omstridda-valaffischer-har-dykt-upp-i-norrkoping",
+   "desc": "Aftonbladet har tidigare rapporterat om ”falska valaffischer” som dykt upp på Södermalm i Stockholm, föreställande Ulf Kristersson (M) och Jimmie Åkesson (SD). Nu har liknande affischer dykt upp i Norrköping."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Skolelev i Södertälje uppmanade jämnårig att ta sitt liv – åtalas",
    "date": "2026-08-24T12:20:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sodertalje/skolelev-i-sodertalje-uppmanade-jamnarig-att-ta-sitt-liv-atalas",
@@ -64,22 +80,6 @@
    "date": "2026-08-24T12:00:16.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-med-svard-stoppad-av-polisen-i-lulea",
    "desc": "En man med ett svärd stoppades av polisen på Porsön i Luleå. Efter samtal upprättades en anmälan om grovt brott mot knivlagen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Larmet – raukarna vid Byrum på Öland förstörs av lekande barn",
-   "date": "2026-08-24T11:32:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/larmet-raukarna-vid-byrum-pa-oland-forstors-av-lekande-barn",
-   "desc": "Byrums raukar är ett naturreservat som ligger på norra Ölands västra sida. – Vi som bor här intill ser ofta barn som knackar loss stenar från raukarna så att de förstörs, säger Michael Abrahamsson, sommarboende på Öland."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Den döde mannen i Värnamo identifierad",
-   "date": "2026-08-24T10:18:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/den-dode-mannen-i-varnamo-identifierad",
-   "desc": "Den man som hittades död i en övergiven stuga utanför Värnamo 2022 har nu identifierats."
   },
   {
    "src": "STHLM",
