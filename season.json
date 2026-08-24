@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-23T04:07:19.900Z",
+ "updated": "2026-08-24T04:12:17.198Z",
  "items": [
   {
-   "ingredient": "äpplen",
-   "idea": "Snabbinlagda äppelskivor: ättika, socker, vatten 1:1:1 med kanel, klara på 30 minuter i kylen."
-  },
-  {
    "ingredient": "kantareller",
-   "idea": "Stek kantareller hastigt i smör, lägg på surdegstoast med persilja – klart på tio minuter."
-  },
-  {
-   "ingredient": "kålrot",
-   "idea": "Strimla kålrot, blanda med 2% salt, packa hårt i burk och låt fermentera fem dagar."
+   "idea": "Smörstekt kantareller med timjan och vitlök, servera snabbt på rostat surdegsbröd som kvällsmål."
   },
   {
    "ingredient": "plommon",
-   "idea": "Rulla in urkärnade plommon i surdegen före gräddning för ett saftigt, syrligt fruktbröd."
+   "idea": "Snabbinlägg plommonklyftor i 1:1:1 ättika, socker och vatten med kanel, klart på en timme."
+  },
+  {
+   "ingredient": "majs",
+   "idea": "Grilla majskolvar hastigt, pensla med chilismör – enkel vardagsrätt på under tio minuter."
+  },
+  {
+   "ingredient": "kålrot",
+   "idea": "Fermentera strimlad kålrot med 2% salt i en vecka för syrlig, krispig vinterlagring."
   }
  ]
 }
