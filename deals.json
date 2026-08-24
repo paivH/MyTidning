@@ -1,41 +1,41 @@
 {
- "updated": "2026-08-23T04:27:11.983Z",
+ "updated": "2026-08-24T04:35:17.650Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
-   "price": "24 kr/kg",
+   "item": "Färska svenska plommon",
+   "price": "34 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
    "item": "Kycklingfilé Kronfågel 900g",
-   "price": "69 kr",
+   "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Färsk laxfilé norsk, 400g",
-   "price": "59 kr",
+   "item": "Svenska äpplen Ingrid Marie 1kg",
+   "price": "19 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Chips Snack Day 275g, 2 för",
-   "price": "25 kr",
+   "item": "Grillkol 3kg",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (Familjeförpackning)",
-   "price": "59 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utemöbler, matgrupp 4 personer",
-   "price": "1495 kr",
+   "item": "Utomhuskuddar 2-pack",
+   "price": "79 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
