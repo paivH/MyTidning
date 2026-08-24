@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T03:51:13.094Z",
+ "updated": "2026-08-24T04:40:05.022Z",
  "items": [
   {
    "src": "BBC",
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Shein aims for almost $27bn valuation in stock market debut",
-   "date": "2026-08-24T02:05:04.000Z",
+   "date": "2026-08-24T04:06:54.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
    "desc": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
   },
@@ -40,6 +40,22 @@
    "date": "2026-08-24T03:27:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
    "desc": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "L-veteranen Lars Leijonborg ratar Åkessons deadline: ”Tror på ketchup-effekt”",
+   "date": "2026-08-24T03:57:06.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/l-veteranen-lars-leijonborg-ratar-akessons-deadline-tror-pa-ketchup-effekt",
+   "desc": "SD-ledaren Jimmie Åkesson har utfärdat en deadline för när han tycker att det är dags att ge upp om Liberalerna. Nu får han medhåll från en tung KD-topp. Men den tidigare partiledaren Lars Leijonborg (L) avfärdar idén. – Vi behöver kanske inte hans synpunkter på just detta, svarar han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Två hus helt nedbrunna utanför Båstad",
+   "date": "2026-08-24T03:52:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/tva-hus-utanfor-bastad-helt-overtanda",
+   "desc": "En brand i ett ödehus söder om Östra Karup i Båstads kommun spred sig till ett bebott hus. Båda byggnaderna brann ner till grunden."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-24T03:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kraftigt-okade-importpriser-drabbar-landets-lantbrukare",
    "desc": "Kriget i Mellanöstern har gjort att flera av lantbrukares viktiga importvaror som drivmedel och konstgödsel ökat kraftigt i pris. För lantbrukarna innebär det osäkerhet inför framtiden och för konsumenter ökar det priserna. – Vi är ju beroende av att importera dessa varor, säger lantbrukaren Markus Levander."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Värmländska partier satsar mer på dörrknackning: ”Det personliga mötet ger mer”",
-   "date": "2026-08-24T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/varmlandska-partier-satsar-mer-pa-dorrknackning-det-personliga-motet-ger-mer",
-   "desc": "Dörrknackning är hetare bland de värmländska partierna jämfört med för fyra år sedan. För Vänsterpartiet är det första gången någonsin som de knackar dörr i en valrörelse. – Det personliga mötet ger mycket mer än annonser eller skyltar, säger kommunalrådet Siri Hasting (V)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "”Åkesson kastar Mohamsson under bussen”",
-   "date": "2026-08-23T19:34:41.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/akesson-kastar-mohamsson-under-bussen",
-   "desc": "Sverigedemokraternas partiledare Jimmie Åkesson kastar Liberalerna under bussen i SVT:s partiledarutfrågning. Det ligger inte i SD:s intresse att rädda L kvar i riksdagen, säger Åkesson. Åkessons hårda uttalande mot L kan uppfattas som att Tidösamarbetet är i sönderfall. SD-ledaren har uppenbart dragit slutsatsen att L inte kommer att hålla sig kvar i riksdagen."
   },
   {
    "src": "STHLM",
