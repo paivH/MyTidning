@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T11:53:11.204Z",
+ "updated": "2026-08-24T12:41:07.829Z",
  "items": [
   {
    "src": "BBC",
@@ -20,14 +20,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-   "date": "2026-08-24T11:25:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-   "desc": "The fire has burned around 10,500 acres and is completely uncontained, officials say."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "King of Norway's health has worsened, palace says",
    "date": "2026-08-24T08:31:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
@@ -40,6 +32,38 @@
    "date": "2026-08-24T05:01:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
    "desc": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Access to Zambian courts prevented as election petition deadline looms",
+   "date": "2026-08-24T11:17:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Skolelev i Södertälje uppmanade jämnårig att ta sitt liv – åtalas",
+   "date": "2026-08-24T12:20:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/skolelev-i-sodertalje-uppmanade-jamnarig-att-ta-sitt-liv-atalas",
+   "desc": "”Du borde bara ta livet av dig vid detta slag, du har inga vänner och dina föräldrar hatar dig”, skrev en gymnasietjej till en jämnårig. Nu åtalas tjejen för uppmaning till självmord."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Gymnasieelever i Sundsvall: ”Känner mig ganska trygg”",
+   "date": "2026-08-24T12:15:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/gymnasieelever-i-sundsvall-kanner-mig-ganska-trygg",
+   "desc": "Det är första skoldagen för terminen i många skolor i Sundsvall. Och första skoldagen efter skolattacken i Fagersta. Vi frågade några 16-åriga elever på Sundsvalls gymnasium hur deras tankar går om säkerheten i skolan."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man med svärd stoppad vid universitetet i Luleå",
+   "date": "2026-08-24T12:00:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-med-svard-stoppad-av-polisen-i-lulea",
+   "desc": "En man med ett svärd stoppades av polisen på Porsön i Luleå. Efter samtal upprättades en anmälan om grovt brott mot knivlagen."
   },
   {
    "src": "SVT",
@@ -58,36 +82,12 @@
    "desc": "Den man som hittades död i en övergiven stuga utanför Värnamo 2022 har nu identifierats."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kniv hittad på universitet i Norrköping – hämtades av polis",
-   "date": "2026-08-24T10:13:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/kniv-hittad-pa-universitet-i-norrkoping-hamtades-av-polis",
-   "desc": "Polisen har omhändertagit en kniv som väktare hittade på måndagsmorgonen på Linköpings universitet i Norrköping."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så blir första skoldagen efter svärdattacken i Fagersta: ”Finns en vilja att träffas”",
-   "date": "2026-08-24T10:12:10.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sa-blir-forsta-skoldagen-efter-svardattacken-i-fagersta-finns-en-vilja-att-traffas",
-   "desc": "Under måndagen var det många elever som gick tillbaka till sina skolor i Fagersta, tre dagar efter dådet på Brinellskolan. För gymnasieeleverna är det dock ingen undervisning, istället träffas de på kriscentret. – Jag vet att det pågår en teknisk undersökning härinne i lokalerna, säger Fagerstas grundskolechef Johannes Håll."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Nederländerna bojkottar ”icke neutralt” Eurovision",
-   "date": "2026-08-24T08:38:42.000Z",
-   "link": "https://www.svt.se/kultur/nederlanderna-bojkottar-icke-neutralt-eurovision",
-   "desc": "Nederländerna kommer inte att ställa upp i Eurovision Song Contest 2027 eftersom man anser att tävlingen inte längre är neutral."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Patienter kan behöva nya hjärtan efter operationsmiss på Karolinska sjukhuset",
    "date": "2026-08-24T11:29:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/patienter-kan-behova-nya-hjartan-efter-operationsmiss-pa-karolinska-sjukhuset",
-   "desc": "Två patienters läkemedel förväxlades i samband med hjärtoperationer på Karolinska universitetssjukhuset. Efter operationerna gick inte deras hjärtan att starta. Nu kan de behöva genomgå hjärttransplantationer."
+   "desc": "Två patienters läkemedel förväxlades i samband med hjärtoperationer på Karolinska universitetssjukhuset. Efter operationerna gick inte deras hjärtan att starta. Nu kan de behöva genomgå hjärttransplantationer. ”Flaskorna som innehåller de två olika läkemedlen är mycket lika till utseendet”, skriver sjukhuset i ett mejl till SVT."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-08-24T11:56:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p61p6k?at_medium=RSS&at_campaign=rss",
+   "desc": "Joe and Gaz are joined by Utd fan Tom Cooney to discuss the defeat at Hull City."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-08-22T14:17:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p5v6s2?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick reacts to Manchester United's 2-0 opening day defeat to Hull City."
@@ -144,14 +152,6 @@
    "date": "2026-08-20T16:45:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p5k4vh?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd head coach Michael Carrick says they face a tough start to the new season."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-19T18:30:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p5c4v1?at_medium=RSS&at_campaign=rss",
-   "desc": "Ex-United defender Wes Brown and BBC Sussex journalist Johnny Cantor on Baleba latest."
   }
  ]
 }
