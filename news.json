@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-24T05:34:25.416Z",
+ "updated": "2026-08-24T06:50:33.875Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
-   "date": "2026-08-24T05:16:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-   "desc": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -29,9 +21,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Shein aims for almost $27bn valuation in stock market debut",
-   "date": "2026-08-24T05:09:22.000Z",
+   "date": "2026-08-24T06:13:32.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
    "desc": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "China probes use of formaldehyde to keep cabbages fresh",
+   "date": "2026-08-24T05:40:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages."
   },
   {
    "src": "BBC",
@@ -40,6 +40,22 @@
    "date": "2026-08-24T03:55:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
    "desc": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flera bilar i krock söder om Värnamo",
+   "date": "2026-08-24T06:10:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/flera-bilar-i-krock-soder-om-varnamo",
+   "desc": "En trafikolycka inträffade i morgontrafiken, strax före klockan åtta, på riksväg 27 utanför Värnamo. Fem bilar ska ha varit inblandade i krocken."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man död i Mariannelund – kvinna gripen",
+   "date": "2026-08-24T05:45:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/man-dod-i-mariannelund-kvinna-gripen",
+   "desc": "Polisen och annan blåljuspersonal larmades till en bostad i Mariannelund med anledning av ett hjärtstopp under söndagskvällen. Man kunde konstatera att det rör sig om ett dödsfall. Den avlidne är en man i 35-årsåldern."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "En brand i ett ödehus söder om Östra Karup i Båstads kommun spred sig till ett bebott hus. Båda byggnaderna brann ner till grunden."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Wilma, 18, i Skellefteå skar sig själv – tvingades vänta i BUP-kö",
-   "date": "2026-08-24T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/wilma-18-i-skelleftea-skar-sig-sjalv-tvingades-vanta-i-bup-ko",
-   "desc": "Västerbottens köer till BUP är bland de längsta i landet. Trots att Wilma Sandberg i Skellefteå hade ett självskadebeteende tvingades hon vänta i flera år på hjälp. – De hjälpte ändå inte, trots att mamma hade en stark oro för att jag skulle ta livet av mig, säger Wilma."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Skolfrågan splittrar partierna i Flen – så vill de göra efter valet",
-   "date": "2026-08-24T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/skolfragan-splittrar-partierna-i-flen-sa-vill-de-gora-efter-valet",
-   "desc": "Hot om nedläggningar, långdragna beslut och svängande besked. Skolfrågan har skapat stor osäkerhet i Flen de senaste åren. Nu är de styrande partierna, socialdemokraterna och centerpartiet, självkritiska – men någon gemensam väg framåt finns fortfarande inte."
+   "title": "Bil körde in i vägg i tunnel vid Essingeleden – passagerare smet från platsen",
+   "date": "2026-08-24T06:27:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bil-korde-in-i-vagg-i-tunnel-vid-essingeleden-passagerare-smet-fran-platsen",
+   "desc": "Vid 5-tiden på måndagsmorgonen körde en bil med utbytta registreringsskyltar in i väggen i en tunnel i Solna. Efter det såg man flera personer fly ur tunneln via nödutgångarna. – De har förmodligen lämnat personbilen efter krocken in i väggen, säger Marcus Björling, presstalesperson på Stockholmspolisen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-23T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/ekologisk-mat-blir-valfraga-i-vallentuna",
    "desc": "Mer ekologiskt i Vallentunas skolor och äldreboenden? Eller blir det lika bra med livsmedel som produceras utan de strängare kraven? Frågan delar kommunpolitikerna – och lantbrukaren Roger Billefält har hamnat mitt i ekodebatten inför valet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "”Finns saker som är större hot mot folkhälsan än mässling”",
-   "date": "2026-08-22T15:14:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/finns-saker-som-ar-storre-hot-mot-folkhalsan-an-massling",
-   "desc": "Under lördagen pågår Järna Kulturfest. Inför festivalen har regionens smittskyddsläkare uttryckt en viss oro för att mässling skulle kunna spridas där. Men besökarna verkar inte så oroliga."
   },
   {
    "src": "BBC",
