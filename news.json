@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-24T14:37:24.822Z",
+ "updated": "2026-08-24T15:35:14.800Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+   "date": "2026-08-24T13:35:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+   "desc": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-   "date": "2026-08-24T13:35:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-   "desc": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
+   "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+   "date": "2026-08-24T13:56:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+   "desc": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza."
   },
   {
    "src": "BBC",
@@ -34,12 +42,36 @@
    "desc": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Access to Zambian courts prevented as election petition deadline looms",
-   "date": "2026-08-24T14:02:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Västra Götalandsregionen hotar med att stämma Region Sörmland",
+   "date": "2026-08-24T15:08:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/vastra-gotalandsregionen-hotar-med-att-stamma-region-sormland",
+   "desc": "Konflikten mellan Region Sörmland och Västra Götalandsregionen om kostnader för nätläkare trappas upp. Nu hotar Västra Götaland med att stämma Sörmland eftersom de inte kommer överens, enligt en artikel i DN."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rita Flores i Pussy Riot: Tvingades jobba för FSB",
+   "date": "2026-08-24T15:01:51.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/rita-flores-i-pussy-riot-tvingades-jobba-for-fsb",
+   "desc": "Rita Flores, en tidigare medlem i ryska Pussy Riot, har avslöjat att hon under tre år arbetade för Rysslands säkerhetstjänst FSB, skriver bland annat Meduza."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Elever i Jönköping efter skolattacken: ”Skulle kunna hända här”",
+   "date": "2026-08-24T14:53:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/elever-i-jonkoping-efter-skolattacken-skulle-kunna-handa-har",
+   "desc": "Skolattacken i Fagersta i fredags har väckt frågor om tryggheten på landets skolor. Flera gymnasieelever som SVT pratat med tyckte att det kändes lite konstigt att gå till skolan under måndagsmorgonen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här driver mängder av död fisk runt i Växjö",
+   "date": "2026-08-24T14:51:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/har-driver-mangder-av-dod-fisk-runt-i-vaxjo",
+   "desc": "Mängder av Växjöbor har under dagen reagerat på att det flyter runt mängder av död fisk i lagunen vid Växjösjön. Syrebrist på grund av muddring ligger bakom enligt kommunen."
   },
   {
    "src": "SVT",
@@ -47,39 +79,7 @@
    "title": "Tjejgänget klär sig i svart – för att visa sitt stöd efter skoldådet i Fagersta",
    "date": "2026-08-24T12:57:19.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/har-klar-sig-eleverna-i-svart-for-att-visa-sitt-stod",
-   "desc": "På måndagen var Risbroskolan igång med undervisning, tre dagar efter skoldådet på grannskolan Brinell i Fagersta. Då valde många elever att klä sig i svart för att hylla och sörja den 17-åriga flickan som dödades. – Det är viktigt att vi stöttar varandra i det här, säger högstadieeleven Agnes Hellblad-Hjelm."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Omstridda valaffischer har dykt upp i Norrköping",
-   "date": "2026-08-24T12:51:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/omstridda-valaffischer-har-dykt-upp-i-norrkoping",
-   "desc": "Aftonbladet har tidigare rapporterat om ”falska valaffischer” som dykt upp på Södermalm i Stockholm, föreställande Ulf Kristersson (M) och Jimmie Åkesson (SD). Nu har liknande affischer dykt upp i Norrköping."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Skolelev i Södertälje uppmanade jämnårig att ta sitt liv – åtalas",
-   "date": "2026-08-24T12:20:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/skolelev-i-sodertalje-uppmanade-jamnarig-att-ta-sitt-liv-atalas",
-   "desc": "”Du borde bara ta livet av dig vid detta slag, du har inga vänner och dina föräldrar hatar dig”, skrev en gymnasietjej till en jämnårig. Nu åtalas tjejen för uppmaning till självmord."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Gymnasieelever i Sundsvall: ”Känner mig ganska trygg”",
-   "date": "2026-08-24T12:15:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/gymnasieelever-i-sundsvall-kanner-mig-ganska-trygg",
-   "desc": "Det är första skoldagen för terminen i många skolor i Sundsvall. Och första skoldagen efter skolattacken i Fagersta. Vi frågade några 16-åriga elever på Sundsvalls gymnasium hur deras tankar går om säkerheten i skolan."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man med svärd stoppad vid universitetet i Luleå",
-   "date": "2026-08-24T12:00:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-med-svard-stoppad-av-polisen-i-lulea",
-   "desc": "En man med ett svärd stoppades av polisen på Porsön i Luleå. Efter samtal upprättades en anmälan om grovt brott mot knivlagen."
+   "desc": "På måndagen var Risbroskolan igång med undervisning, tre dagar efter skoldådet på grannskolan Brinell i Fagersta. Då valde många elever att klä sig i svart för att hedra och sörja den 17-åriga flickan som dödades. – Det är viktigt att vi stöttar varandra i det här, säger högstadieeleven Agnes Hellblad-Hjelm."
   },
   {
    "src": "STHLM",
