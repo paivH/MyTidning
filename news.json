@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T11:23:58.387Z",
+ "updated": "2026-08-24T11:53:11.204Z",
  "items": [
   {
    "src": "BBC",
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-   "date": "2026-08-24T10:08:40.000Z",
+   "date": "2026-08-24T11:25:21.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
    "desc": "The fire has burned around 10,500 acres and is completely uncontained, officials say."
   },
@@ -40,6 +40,14 @@
    "date": "2026-08-24T05:01:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
    "desc": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Larmet – raukarna vid Byrum på Öland förstörs av lekande barn",
+   "date": "2026-08-24T11:32:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/larmet-raukarna-vid-byrum-pa-oland-forstors-av-lekande-barn",
+   "desc": "Byrums raukar är ett naturreservat som ligger på norra Ölands västra sida. – Vi som bor här intill ser ofta barn som knackar loss stenar från raukarna så att de förstörs, säger Michael Abrahamsson, sommarboende på Öland."
   },
   {
    "src": "SVT",
@@ -63,7 +71,7 @@
    "title": "Så blir första skoldagen efter svärdattacken i Fagersta: ”Finns en vilja att träffas”",
    "date": "2026-08-24T10:12:10.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sa-blir-forsta-skoldagen-efter-svardattacken-i-fagersta-finns-en-vilja-att-traffas",
-   "desc": "Under måndagen var det många elever som gick tillbaka till sina skolor i Fagersta, tre dagar efter dådet på Brinellgymnasiet. För gymnasieeleverna är det dock ingen undervisning, istället träffas de på kriscentret. – Jag vet att det pågår en teknisk undersökning härinne i lokalerna, säger Fagerstas grundskolechef Johannes Håll."
+   "desc": "Under måndagen var det många elever som gick tillbaka till sina skolor i Fagersta, tre dagar efter dådet på Brinellskolan. För gymnasieeleverna är det dock ingen undervisning, istället träffas de på kriscentret. – Jag vet att det pågår en teknisk undersökning härinne i lokalerna, säger Fagerstas grundskolechef Johannes Håll."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Nederländerna kommer inte att ställa upp i Eurovision Song Contest 2027 eftersom man anser att tävlingen inte längre är neutral."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Flera bilar i krock söder om Värnamo",
-   "date": "2026-08-24T06:10:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/flera-bilar-i-krock-soder-om-varnamo",
-   "desc": "En trafikolycka inträffade i morgontrafiken, strax före klockan åtta, på riksväg 27 utanför Värnamo. Fem bilar ska ha varit inblandade i krocken."
+   "title": "Patienter kan behöva nya hjärtan efter operationsmiss på Karolinska sjukhuset",
+   "date": "2026-08-24T11:29:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/patienter-kan-behova-nya-hjartan-efter-operationsmiss-pa-karolinska-sjukhuset",
+   "desc": "Två patienters läkemedel förväxlades i samband med hjärtoperationer på Karolinska universitetssjukhuset. Efter operationerna gick inte deras hjärtan att starta. Nu kan de behöva genomgå hjärttransplantationer."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-23T14:51:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tiotusentals-marscherade-for-klimatet-i-stockholm",
    "desc": "Över 50 000 personer och 280 organisationer deltog i Den stora klimatdemonstrationen i Stockholm på söndagen. Rekordmånga samlades för kraftfullare politiska åtgärder för klimatet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Ekologisk mat blir valfråga i Vallentuna",
-   "date": "2026-08-23T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ekologisk-mat-blir-valfraga-i-vallentuna",
-   "desc": "Mer ekologiskt i Vallentunas skolor och äldreboenden? Eller blir det lika bra med livsmedel som produceras utan de strängare kraven? Frågan delar kommunpolitikerna – och lantbrukaren Roger Billefält har hamnat mitt i ekodebatten inför valet."
   },
   {
    "src": "BBC",
