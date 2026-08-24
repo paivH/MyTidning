@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T15:35:14.800Z",
+ "updated": "2026-08-24T16:32:14.528Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,14 @@
    "date": "2026-08-24T13:35:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
    "desc": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+   "date": "2026-08-24T15:54:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+   "desc": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
   },
   {
    "src": "BBC",
@@ -32,14 +40,6 @@
    "date": "2026-08-24T08:31:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
    "desc": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Nearly three million Teslas recalled in China over hidden door handles",
-   "date": "2026-08-24T05:01:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-   "desc": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
   },
   {
    "src": "SVT",
