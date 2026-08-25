@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-25T19:28:01.221Z",
+ "updated": "2026-08-25T19:56:27.688Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-   "date": "2026-08-25T17:54:03.000Z",
+   "date": "2026-08-25T19:50:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
    "desc": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
   },
@@ -21,9 +21,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-   "date": "2026-08-25T16:56:20.000Z",
+   "date": "2026-08-25T19:48:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
    "desc": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+   "date": "2026-08-25T19:30:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+   "desc": "The operation included the arrest of 39 people in South Africa for romance and investment scams."
   },
   {
    "src": "BBC",
@@ -32,14 +40,6 @@
    "date": "2026-08-25T11:54:40.000Z",
    "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
    "desc": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-   "date": "2026-08-25T08:52:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-   "desc": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
   },
   {
    "src": "SVT",
