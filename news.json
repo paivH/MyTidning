@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-25T10:59:50.773Z",
+ "updated": "2026-08-25T11:35:31.617Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-   "date": "2026-08-25T08:08:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them."
+   "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+   "date": "2026-08-25T10:56:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+   "desc": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
   },
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Domen står fast: ingen prövning i Högsta domstolen för dömda systrarna i Jönköping",
+   "date": "2026-08-25T11:31:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/domen-star-fast-ingen-provning-i-hogsta-domstolen-for-domda-systrarna-i-jonkoping",
+   "desc": "Systrarna som dömdes för att ha försökt mörda sin pappa i november får inte sina domar prövade i högre instans. Det meddelar Högsta Domstolen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fjällräven hotar stämma Sverigedemokraterna",
+   "date": "2026-08-25T11:17:20.000Z",
+   "link": "https://www.svt.se/kultur/fjallraven-hotar-stamma-sverigedemokraterna",
+   "desc": "Typsnittet i Sverigedemokraternas kampanj är för likt Fjällrävens, anser friluftsföretaget. Nu får partiet till den 1 september på sig att ändra texten för att undvika att stämmas."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Mässlingsutbrottet i Jämtland: ”Inga tecken på samhällsspridning”",
    "date": "2026-08-25T09:34:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/masslingsutbrottet-i-jamtland-inga-tecken-pa-samhallsspridning",
@@ -64,22 +80,6 @@
    "date": "2026-08-25T09:03:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/mordet-pa-gaboro-hovratten-faststaller-livstidsdom",
    "desc": "Göta hovrätt fastställer Norrköpings tingsrätts dom gällande mordet på rapparen Gaboro. 22-årige Alexander Nord döms till livstids fängelse för mordet och den 32-årige man som misstänktes ha hjälpt till frias av hovrätten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Försvaret vill ta över fastighet vid Musköbasen – ägaren ”ett säkerhetshot”",
-   "date": "2026-08-25T08:02:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvaret-vill-ta-over-fastighet-vid-muskobasen-agaren-ett-sakerhetshot",
-   "desc": "Fortifikationsverket har ansökt om att expropriera en fastighet i närheten av Musköbasen, Haninge garnison, med hänsyn till ”Försvarsmaktens skyddsvärden och rikets säkerhet”. Fastigheten ägs i dag av en person med ryskt medborgarskap."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Recension: Decamerone av Rostvit",
-   "date": "2026-08-25T07:37:02.000Z",
-   "link": "https://www.svt.se/kultur/recension-decamerone-av-rostvit",
-   "desc": "När scenkollektivet Rostvit tar sig an Boccacios 1300-talsberättelse från digerdödens Florens blir det en föreställning om dödssynder som ilska, avund, lättja och högmod. Anna Hedelius ser en charmigt respektlös föreställning som med mörk humor, musik och fantasi förvandlar Decamerone till lekfull samtidssatir."
   },
   {
    "src": "STHLM",
