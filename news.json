@@ -1,21 +1,29 @@
 {
- "updated": "2026-08-25T05:58:49.952Z",
+ "updated": "2026-08-25T06:57:20.136Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
-   "date": "2026-08-25T03:50:06.000Z",
+   "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+   "date": "2026-08-25T06:54:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them."
+   "desc": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-   "date": "2026-08-25T01:48:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-   "desc": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
+   "title": "Lockerbie bombing trial postponed days before it was due to start",
+   "date": "2026-08-24T22:13:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+   "date": "2026-08-25T04:06:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine."
   },
   {
    "src": "BBC",
@@ -24,14 +32,6 @@
    "date": "2026-08-25T00:17:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
    "desc": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "NZ religious sect leader jailed over death of Chinese follower",
-   "date": "2026-08-25T03:07:34.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-   "desc": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024."
   },
   {
    "src": "BBC",
@@ -47,7 +47,7 @@
    "title": "Två får angripna av varg i Vaggeryd",
    "date": "2026-08-25T05:35:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-far-angripna-av-varg-i-vaggeryd",
-   "desc": "Två får har angripits av varg utanför Vaggeryd. Ett har dödats och det andra fick avlivas."
+   "desc": "Två får har angripits av varg utanför Vaggeryd. Ett har dödats och det andra fick avlivas på grund av skadorna."
   },
   {
    "src": "SVT",
@@ -84,10 +84,18 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Misstänkt grovt rån i bostad Bromma",
+   "date": "2026-08-25T05:58:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-grovt-ran-i-bostad-bromma",
+   "desc": "Natten till tisdag ska flera gärningspersoner ha tvingats sig in i en lägenhet i Bromma, hotat de boende med ett pistolliknande föremål och sedan tvingat till sig tillhörigheter. En polisinsats pågick under natten, men inga gärningspersoner har gripits."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Olycka på E18 i Vallentuna – totalstopp i trafiken",
    "date": "2026-08-25T05:44:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/olycka-pa-e18-vagen-avstangd",
-   "desc": "E18 är avstängd i båda riktningarna efter en lastbilsolycka mellan Brottby och Söderhall i Vallentuna. Krocken inträffade vid 07-tiden, enligt Trafikverket. – Det är en lastbil som har kört in i räcket, säger Emma Heimdal på SOS Alarm."
+   "desc": "E18 är på tisdagsmorgonen avstängd i båda riktningarna efter en olycka med två lastbilar och minst en personbil i Vallentuna. En person har förts till sjukhus med ambulanshelikopter. Skadeläget är oklart."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-24T14:04:17.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-kajskandalen-i-vaxholm-kommunchefen-sags-upp",
    "desc": "Vaxholms kommunchef Marie Wiklund får lämna sitt jobb efter avslöjanden om olagliga kajupphandlingar. – Jag önskar Vaxholms stad all lycka till, säger Marie Wiklund, i ett pressmeddelande."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Patienter kan behöva nya hjärtan efter operationsmiss på Karolinska sjukhuset",
-   "date": "2026-08-24T11:29:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/patienter-kan-behova-nya-hjartan-efter-operationsmiss-pa-karolinska-sjukhuset",
-   "desc": "Två patienters läkemedel förväxlades i samband med hjärtoperationer på Karolinska universitetssjukhuset. Efter operationerna gick inte deras hjärtan att starta. Nu kan de behöva genomgå hjärttransplantationer. ”Flaskorna som innehåller de två olika läkemedlen är mycket lika till utseendet”, skriver sjukhuset i ett mejl till SVT."
   },
   {
    "src": "BBC",
