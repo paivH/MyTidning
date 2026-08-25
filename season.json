@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-24T04:12:17.198Z",
+ "updated": "2026-08-25T04:07:03.040Z",
  "items": [
   {
+   "ingredient": "tomater",
+   "idea": "Lakto-fermentera körsbärstomater i 2% saltlag, 5 dagar i rumstemperatur – syrlig, prickig snacks till ost."
+  },
+  {
    "ingredient": "kantareller",
-   "idea": "Smörstekt kantareller med timjan och vitlök, servera snabbt på rostat surdegsbröd som kvällsmål."
+   "idea": "Snabbstek kantareller i smör, toppa på surdegssmörgås med vitlök – klart på 10 minuter."
   },
   {
    "ingredient": "plommon",
-   "idea": "Snabbinlägg plommonklyftor i 1:1:1 ättika, socker och vatten med kanel, klart på en timme."
+   "idea": "Snabbpickla plommonklyftor i 1:1:1 ättika, socker, vatten med kanelstång – perfekt till ost eller kött."
   },
   {
    "ingredient": "majs",
-   "idea": "Grilla majskolvar hastigt, pensla med chilismör – enkel vardagsrätt på under tio minuter."
-  },
-  {
-   "ingredient": "kålrot",
-   "idea": "Fermentera strimlad kålrot med 2% salt i en vecka för syrlig, krispig vinterlagring."
+   "idea": "Baka surdegsbröd med rostad majs inbakad – knaprig skorpa, sötma i varje tugga."
   }
  ]
 }
