@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-25T17:57:19.765Z",
+ "updated": "2026-08-25T18:41:08.066Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+   "date": "2026-08-25T17:54:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+   "desc": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -34,12 +42,12 @@
    "desc": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Two unvaccinated people die of measles in Pennsylvania",
-   "date": "2026-08-25T16:43:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-   "desc": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tågstopp mellan Stockholm och Norrköping – tåg evakuerades",
+   "date": "2026-08-25T17:56:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/tagstopp-mellan-stockholm-och-norrkoping-tag-evakuerades",
+   "desc": "Ett Mälartåg mellan Stockholm och Nyköping fick under tisdagseftermiddagen evakueras efter ett elfel utanför Nyköping. Det har i sin tur lett till att det är stopp i tågtrafiken på sträckan."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Förundersökningen fortsätta växa efter fredagens skoldåd på Brinellskolan i Fagersta. Och det är oklart när avspärrningarna vid skolan kan tas bort. – Det här kommer att bli en väldigt stor polisutredning, säger polisinsatschef Mats Kjellmodin."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Detta vet vi om Liam Nebel – misstänkt för skolattacken i Fagersta",
-   "date": "2026-08-25T15:13:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/detta-vet-vi-om-liam-nebel-misstankt-for-skolattacken-i-fagersta",
-   "desc": "Liam Nebel, 18 år, misstänks för svärdattacken på Brinellskolan i Fagersta, där en tonårsflicka dödades och tre pojkar skadades. SVT har kartlagt hans liv fram till våldsdådet."
+   "title": "Nyheter från dagen: 25 augusti",
+   "date": "2026-08-25T18:26:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-25-augusti-h6bxja",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under tisdagen den 25 augusti."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-25T14:17:51.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/storbrak-i-hornstull-med-kryckor",
    "desc": "Ett 15-tal personer ska enligt polisen vara inblandade i ett bråk vid Hornstull på Södermalm i Stockholm. Enligt vittnen ska bland annat kryckor ha använts som tillhyggen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Paret mördade mannens mamma i Danderyd – döms till livstids fängelse i hovrätten",
-   "date": "2026-08-25T09:05:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/paret-mordade-mannens-mamma-i-danderyd-nu-doms-de-i-hovratten",
-   "desc": "Kvinnan i 60-årsåldern förvann efter att ha besökt sin son och hans fru i Danderyd, i juni 2025. Sonen och frun dömdes till livstids fängelse för att mördat kvinnan. Nu fastställer hovrätten den tidigare domen från tingsrätten."
   },
   {
    "src": "BBC",
