@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T02:36:34.425Z",
+ "updated": "2026-08-25T03:44:10.661Z",
  "items": [
   {
    "src": "BBC",
@@ -28,18 +28,50 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "French tourist dies in Death Valley after car gets stuck in mud",
+   "date": "2026-08-25T02:08:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Moment tornado tears through southern France",
    "date": "2026-08-25T00:16:35.000Z",
    "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
    "desc": "The tornado has injured more than 40 people and destroyed homes in villages."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "King of Norway's health has worsened, palace says",
-   "date": "2026-08-24T08:31:55.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
-   "desc": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hannes, 17, hyllar stödet – men känner oro att gå tillbaka till Brinellskolan",
+   "date": "2026-08-25T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/hannes-17-hyllar-stodet-men-kanner-oro-att-ga-tillbaka-till-brinellskolan",
+   "desc": "Hannes Nyström, som går andra året på Brinellskolan i Fagersta, beskriver det som viktigt att få träffa sina klasskamrater. Men han känner också en oro och ett obehag inför att återvända till lokalerna där skoldådet ägde rum. – Alltså, det känns inte jättetryggt direkt, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kartläggning visar: 39 kommuner erbjuder bara en plats för förtidsröstning",
+   "date": "2026-08-25T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/kartlaggning-visar-39-kommuner-erbjuder-bara-en-plats-for-fortidsrostning",
+   "desc": "Nästan hälften av svenskarna väljer att förtidsrösta. Men i 39 svenska kommuner finns bara en enda lokal för förtidsröstning. Det visar en kartläggning som SVT har gjort. I Flen har kommunen dragit ner på förtidsröstningen. – Jag blev ganska upprörd, säger Stefan Sandberg, ledare för Fria liberaler i Flen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Oklart när Josefins barn ska utredas  – har väntat över ett år i Västerbottens BUP-kö",
+   "date": "2026-08-25T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/oklart-nar-josefins-barn-ska-utredas-har-vantat-over-ett-ar-i-vasterbottens-bup-ko",
+   "desc": "Josefin Löfgren i Holmsund vet hur det är att kämpa för sina barn. Hennes äldste son har flera diagnoser och hennes yngre son har väntat över ett år på en utredning hos BUP, barn- och ungdomspsykiatrin. – Man kämpar ihjäl sig för man vill få hjälp eller i alla fall få veta, säger Josefin."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så löste Svante skjuts till invånarna i Gunnarsbyn",
+   "date": "2026-08-25T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-loste-svante-skjuts-till-invanarna-i-gunnarsbyn",
+   "desc": "Gunnarsbyn ligger fem mil utanför Boden och det är dryga sju till Luleå. Svante Naess har barn som gärna åker in till städerna och för att slippa köra flera gånger om dagen konstruerade han en lösning som har blivit viral i sociala medier."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-08-24T20:07:29.000Z",
    "link": "https://www.svt.se/sport/fotboll/experten-slar-fast-malmo-ar-ett-mittenlag",
    "desc": "Malmö åkte på en ny käftsmäll. De himmelsblå är långt ifrån glansdagarna, menar SVT Sports expert. – Ett mittenlag, säger Magnus Eriksson i ”Fotbollsstudion”."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kartläggning: Här är Tiktok-kontot som utreds efter dådet i Fagersta",
-   "date": "2026-08-24T18:29:46.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/kartlaggning-har-ar-tiktok-kontot-som-utreds-efter-dadet-i-fagersta",
-   "desc": "Svärd, skolattackerare och AI-dansvideor: SVT:s granskning av det Tiktokkonto som nu utreds av polisen öppnar dörren till en våldsbejakande nätkultur som bygger på dyrkan av massmördare – den så kallade True Crime Community."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Mc och bil i krock på riksväg 40 – en förd till sjukhus",
-   "date": "2026-08-24T16:32:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/mc-och-bil-i-krock-pa-riksvag-40-vagen-avstangd",
-   "desc": "En motorcykel och en personbil kolliderade på riksväg 40 i höjd med Frödinge utanför Vimmerby på måndagskvällen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Västra Götalandsregionen hotar med att stämma Region Sörmland",
-   "date": "2026-08-24T15:08:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/vastra-gotalandsregionen-hotar-med-att-stamma-region-sormland",
-   "desc": "Konflikten mellan Region Sörmland och Västra Götalandsregionen om kostnader för nätläkare trappas upp. Nu hotar Västra Götaland med att stämma Sörmland eftersom de inte kommer överens."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Rita Flores i Pussy Riot: Tvingades jobba för FSB",
-   "date": "2026-08-24T15:01:51.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/rita-flores-i-pussy-riot-tvingades-jobba-for-fsb",
-   "desc": "Rita Flores, en tidigare medlem i ryska Pussy Riot, har avslöjat att hon under tre år arbetade för Rysslands säkerhetstjänst FSB, skriver bland annat Meduza."
   },
   {
    "src": "STHLM",
