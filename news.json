@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-25T11:35:31.617Z",
+ "updated": "2026-08-25T12:39:41.653Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
-   "date": "2026-08-25T10:56:03.000Z",
+   "title": "China warns it will protect its interests after US widens sanctions against Iran",
+   "date": "2026-08-25T11:53:36.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
    "desc": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
   },
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Lockerbie bombing trial postponed days before it was due to start",
-   "date": "2026-08-25T09:08:13.000Z",
+   "date": "2026-08-25T11:54:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
    "desc": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
   },
@@ -40,6 +40,14 @@
    "date": "2026-08-25T07:39:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
    "desc": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kvinna hittad död på boende i Linköping",
+   "date": "2026-08-25T11:34:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/kvinna-hittad-dod-pa-boende-i-linkoping",
+   "desc": "En kvinna i 35-årsåldern har hittats död i en lägenhet i Linköping. Omständigheterna kring dödsfallet är oklara och polisen har inlett en förundersökning om mord."
   },
   {
    "src": "SVT",
@@ -74,14 +82,6 @@
    "desc": "Ett vargangrepp har bekräftats i trakterna kring Lammhult. Tre får dödades och ytterligare fyra skadades så svårt att de behövde avlivas enligt Länsstyrelsen Kronoberg."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Mordet på Gaboro – Hovrätten fastställer livstidsdom",
-   "date": "2026-08-25T09:03:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/mordet-pa-gaboro-hovratten-faststaller-livstidsdom",
-   "desc": "Göta hovrätt fastställer Norrköpings tingsrätts dom gällande mordet på rapparen Gaboro. 22-årige Alexander Nord döms till livstids fängelse för mordet och den 32-årige man som misstänktes ha hjälpt till frias av hovrätten."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Paret mördade mannens mamma i Danderyd – döms till livstids fängelse i hovrätten",
@@ -95,7 +95,7 @@
    "title": "Försvaret vill ta över fastighet vid Musköbasen – ägaren ”ett säkerhetshot”",
    "date": "2026-08-25T08:02:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvaret-vill-ta-over-fastighet-vid-muskobasen-agaren-ett-sakerhetshot",
-   "desc": "Fortifikationsverket har ansökt om att expropriera en fastighet i närheten av Musköbasen, Haninge garnison, med hänsyn till ”Försvarsmaktens skyddsvärden och rikets säkerhet”. Fastigheten ägs i dag av en person med ryskt medborgarskap."
+   "desc": "Fortifikationsverket har ansökt om att expropriera en fastighet i närheten av Muskö örlogsbas, Haninge garnison, med hänsyn till ”Försvarsmaktens skyddsvärden och rikets säkerhet”. Fastigheten ägs i dag av en person med ryskt medborgarskap."
   },
   {
    "src": "STHLM",
