@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T06:57:20.136Z",
+ "updated": "2026-08-25T07:45:29.020Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Lockerbie bombing trial postponed days before it was due to start",
-   "date": "2026-08-24T22:13:36.000Z",
+   "date": "2026-08-25T06:59:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
    "desc": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
   },
@@ -44,10 +44,26 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Recension: Decamerone av Rostvit",
+   "date": "2026-08-25T07:37:02.000Z",
+   "link": "https://www.svt.se/kultur/recension-decamerone-av-rostvit",
+   "desc": "När scenkollektivet Rostvit tar sig an Boccacios 1300-talsberättelse från digerdödens Florens blir det en föreställning om dödssynder som ilska, avund, lättja och högmod. Anna Hedelius ser en charmigt respektlös föreställning som med mörk humor, musik och fantasi förvandlar Decamerone till lekfull samtidssatir."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Moderaterna vill avskaffa avgiften för förskola och fritids",
+   "date": "2026-08-25T06:57:08.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/svt-erfar-moderaterna-vill-avskaffa-avgiften-for-forskola-och-fritids",
+   "desc": "Moderaterna går på tisdagen ut med ett nytt vallöfte, om att slopa avgiften för förskola och fritidshem. – Det här är en långsiktig reform för att stärka arbetslinjen och integrationen, se till att fler barn får del av lärandet, säger Ulf Kristersson (M) utanför en förskola i Mariefred."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Två får angripna av varg i Vaggeryd",
    "date": "2026-08-25T05:35:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-far-angripna-av-varg-i-vaggeryd",
-   "desc": "Två får har angripits av varg utanför Vaggeryd. Ett har dödats och det andra fick avlivas på grund av skadorna."
+   "desc": "Två får har angripits av varg i den sydvästra delen av Vaggeryds kommun. Det ena fåret hittades dött och det andra fick avlivas på grund av skadorna. Länsstyrelsen konstaterade efter en besiktning att det var ett vargangrepp."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-25T03:30:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/hannes-17-hyllar-stodet-men-kanner-oro-att-ga-tillbaka-till-brinellskolan",
    "desc": "Hannes Nyström, som går andra året på Brinellskolan i Fagersta, beskriver det som viktigt att få träffa sina klasskamrater. Men han känner också en oro och ett obehag inför att återvända till lokalerna där skoldådet ägde rum. – Alltså, det känns inte jättetryggt direkt, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kartläggning visar: 39 kommuner erbjuder bara en plats för förtidsröstning",
-   "date": "2026-08-25T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/kartlaggning-visar-39-kommuner-erbjuder-bara-en-plats-for-fortidsrostning",
-   "desc": "Nästan hälften av svenskarna väljer att förtidsrösta. Men i 39 svenska kommuner finns bara en enda lokal för förtidsröstning. Det visar en kartläggning som SVT har gjort. I Flen har kommunen dragit ner på förtidsröstningen. – Jag blev ganska upprörd, säger Stefan Sandberg, ledare för Fria liberaler i Flen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Oklart när Josefins barn ska utredas  – har väntat över ett år i Västerbottens BUP-kö",
-   "date": "2026-08-25T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/oklart-nar-josefins-barn-ska-utredas-har-vantat-over-ett-ar-i-vasterbottens-bup-ko",
-   "desc": "Josefin Löfgren i Holmsund vet hur det är att kämpa för sina barn. Hennes äldste son har flera diagnoser och hennes yngre son har väntat över ett år på en utredning hos BUP, barn- och ungdomspsykiatrin. – Man kämpar ihjäl sig för man vill få hjälp eller i alla fall få veta, säger Josefin."
   },
   {
    "src": "STHLM",
