@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T16:32:11.098Z",
+ "updated": "2026-08-25T17:28:01.905Z",
  "items": [
   {
    "src": "BBC",
@@ -12,18 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Brain disease in dead NFL players 'higher than previously shown'",
-   "date": "2026-08-25T11:54:40.000Z",
-   "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-   "desc": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher."
+   "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+   "date": "2026-08-25T16:56:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+   "desc": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "CIA chief in Moscow for unannounced talks, US media reports",
-   "date": "2026-08-25T16:08:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-   "desc": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
+   "title": "Brain disease in dead NFL players 'higher than previously shown'",
+   "date": "2026-08-25T11:54:40.000Z",
+   "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+   "desc": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher."
   },
   {
    "src": "BBC",
@@ -37,9 +37,25 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Two unvaccinated people die of measles in Pennsylvania",
-   "date": "2026-08-25T14:54:34.000Z",
+   "date": "2026-08-25T16:43:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
    "desc": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Gud har fört oss samman” – rättegång mot ungdomsledaren för våldtäkt mot barn",
+   "date": "2026-08-25T17:00:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/gud-har-fort-oss-samman-rattegang-mot-ungdomsledaren-for-valdtakt-mot-barn",
+   "desc": "På tisdagen började rättegången mot den ungdomsledare i en församling i Jönköpings län som åtalats för våldtäkt mot barn. Trots att ledare i församlingen kände till förhållandet mellan ungdomsledaren och den då 14-åriga flickan, så anmäldes det inte."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Brinellskolan kan renoveras innan eleverna återvänder efter skoldådet i Fagersta",
+   "date": "2026-08-25T16:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/brinellskolan-kan-renoveras-innan-eleverna-atervander-efter-skoldadet-i-fagersta",
+   "desc": "Det kan ta veckor innan avspärrningarna tas bort runt Brinellskolan i Fagersta. Men oavsett så planeras det för att flytta undervisning bort från de ordinarie lokalerna under en längre tid framöver. – Vi räknar med att det kommer vara ett långt arbete för att ändra, renovera och bygga om, säger Johannes Håll som är tf utbildningschef."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-08-25T15:13:24.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/detta-vet-vi-om-liam-nebel-misstankt-for-skolattacken-i-fagersta",
    "desc": "Liam Nebel, 18 år, misstänks för svärdattacken på Brinellskolan i Fagersta, där en tonårsflicka dödades och tre pojkar skadades. SVT har kartlagt hans liv fram till våldsdådet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "15-åring ljög om våldtäkt – nu åtalas hon för falsk beskyllning",
-   "date": "2026-08-25T15:12:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/15-aring-ljog-om-valdtakt-nu-atalas-hon-for-falsk-beskyllning",
-   "desc": "En 15-årig flicka åtalas misstänkt för att ha ljugit om att hon blivit utsatt för sexuella övergrepp av en närstående som även dömdes för brotten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "S vallöfte till länsborna – ingen brytning i alunskiffer",
-   "date": "2026-08-25T15:07:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/s-vallofte-till-lansborna-ingen-brytning-i-alunskiffer",
-   "desc": "Gruvbrytning i all ära, men till brytning i alunskiffer säger Socialdemokraterna nej. Och med ett kommunalt veto."
   },
   {
    "src": "STHLM",
