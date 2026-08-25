@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T05:27:45.515Z",
+ "updated": "2026-08-25T05:58:49.952Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Två får angripna av varg i Vaggeryd",
+   "date": "2026-08-25T05:35:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-far-angripna-av-varg-i-vaggeryd",
+   "desc": "Två får har angripits av varg utanför Vaggeryd. Ett har dödats och det andra fick avlivas."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Misstänkt farligt föremål hittades i Rådhusparken",
    "date": "2026-08-25T04:40:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/misstankt-farligt-foremal-hittades-i-radhusparken",
@@ -74,12 +82,12 @@
    "desc": "Josefin Löfgren i Holmsund vet hur det är att kämpa för sina barn. Hennes äldste son har flera diagnoser och hennes yngre son har väntat över ett år på en utredning hos BUP, barn- och ungdomspsykiatrin. – Man kämpar ihjäl sig för man vill få hjälp eller i alla fall få veta, säger Josefin."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Så löste Svante skjuts till invånarna i Gunnarsbyn",
-   "date": "2026-08-25T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-loste-svante-skjuts-till-invanarna-i-gunnarsbyn",
-   "desc": "Gunnarsbyn ligger fem mil utanför Boden och det är dryga sju till Luleå. Svante Naess har barn som gärna åker in till städerna och för att slippa köra flera gånger om dagen konstruerade han en lösning som har blivit viral i sociala medier."
+   "title": "Olycka på E18 i Vallentuna – totalstopp i trafiken",
+   "date": "2026-08-25T05:44:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/olycka-pa-e18-vagen-avstangd",
+   "desc": "E18 är avstängd i båda riktningarna efter en lastbilsolycka mellan Brottby och Söderhall i Vallentuna. Krocken inträffade vid 07-tiden, enligt Trafikverket. – Det är en lastbil som har kört in i räcket, säger Emma Heimdal på SOS Alarm."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-24T11:29:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/patienter-kan-behova-nya-hjartan-efter-operationsmiss-pa-karolinska-sjukhuset",
    "desc": "Två patienters läkemedel förväxlades i samband med hjärtoperationer på Karolinska universitetssjukhuset. Efter operationerna gick inte deras hjärtan att starta. Nu kan de behöva genomgå hjärttransplantationer. ”Flaskorna som innehåller de två olika läkemedlen är mycket lika till utseendet”, skriver sjukhuset i ett mejl till SVT."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bil körde in i vägg i tunnel vid Essingeleden – passagerare smet från platsen",
-   "date": "2026-08-24T06:27:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bil-korde-in-i-vagg-i-tunnel-vid-essingeleden-passagerare-smet-fran-platsen",
-   "desc": "Vid 5-tiden på måndagsmorgonen körde en bil med utbytta registreringsskyltar in i väggen i en tunnel i Solna. Efter det såg man flera personer fly ur tunneln via nödutgångarna. – De har förmodligen lämnat personbilen efter krocken in i väggen, säger Marcus Björling, presstalesperson på Stockholmspolisen."
   },
   {
    "src": "BBC",
