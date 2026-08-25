@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T10:27:27.244Z",
+ "updated": "2026-08-25T10:59:50.773Z",
  "items": [
   {
    "src": "BBC",
@@ -20,14 +20,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
-   "date": "2026-08-25T04:06:34.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "US removes Syria from list of state sponsors of terrorism",
    "date": "2026-08-25T00:17:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
@@ -36,10 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "French tourist dies in Death Valley after car gets stuck in mud",
-   "date": "2026-08-25T02:08:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat."
+   "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+   "date": "2026-08-25T08:52:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+   "desc": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+   "date": "2026-08-25T07:39:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+   "desc": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues."
   },
   {
    "src": "SVT",
