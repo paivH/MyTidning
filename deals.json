@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-24T04:35:17.650Z",
+ "updated": "2026-08-25T04:29:19.325Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färska svenska plommon",
-   "price": "34 kr/kg",
+   "item": "Svenska plommon lösvikt",
+   "price": "24 kr/kg",
    "url": "https://www.ica.se"
   },
   {
@@ -16,14 +16,14 @@
   },
   {
    "store": "Lidl",
-   "item": "Svenska äpplen Ingrid Marie 1kg",
-   "price": "19 kr",
+   "item": "Färska kantareller 250g",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Grillkol 3kg",
-   "price": "39 kr",
+   "item": "Skyr Milbona 450g",
+   "price": "14 kr",
    "url": "https://www.lidl.se"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "store": "Rusta",
-   "item": "Utomhuskuddar 2-pack",
-   "price": "79 kr",
+   "item": "Utegrill kolgrill",
+   "price": "299 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
