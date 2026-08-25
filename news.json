@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T09:31:07.827Z",
+ "updated": "2026-08-25T10:27:27.244Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Mässlingsutbrottet i Jämtland: ”Inga tecken på samhällsspridning”",
+   "date": "2026-08-25T09:34:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/masslingsutbrottet-i-jamtland-inga-tecken-pa-samhallsspridning",
+   "desc": "Ytterligare ett fall av mässling har upptäckts i Region Jämtland Härjedalen. Nu finns sex mässlingfall i länet som kan kopplas till utbrottet på Urkultsfestivalen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Vargangrepp bekräftat utanför Lammhult – sju får döda",
    "date": "2026-08-25T09:12:56.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/vargangrepp-bekraftat-utanfor-lammhult-sju-far-doda",
@@ -55,7 +63,15 @@
    "title": "Mordet på Gaboro – Hovrätten fastställer livstidsdom",
    "date": "2026-08-25T09:03:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/mordet-pa-gaboro-hovratten-faststaller-livstidsdom",
-   "desc": "Göta hovrätt fastställer Norrköpings tingsrätts dom gällande mordet på rapparen Gaboro. 22-årige Alexander Nord döms till livstids fängelse och den 32-årige man som misstänktes ha hjälpt till vid mordet frias av hovrätten."
+   "desc": "Göta hovrätt fastställer Norrköpings tingsrätts dom gällande mordet på rapparen Gaboro. 22-årige Alexander Nord döms till livstids fängelse för mordet och den 32-årige man som misstänktes ha hjälpt till frias av hovrätten."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Försvaret vill ta över fastighet vid Musköbasen – ägaren ”ett säkerhetshot”",
+   "date": "2026-08-25T08:02:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvaret-vill-ta-over-fastighet-vid-muskobasen-agaren-ett-sakerhetshot",
+   "desc": "Fortifikationsverket har ansökt om att expropriera en fastighet i närheten av Musköbasen, Haninge garnison, med hänsyn till ”Försvarsmaktens skyddsvärden och rikets säkerhet”. Fastigheten ägs i dag av en person med ryskt medborgarskap."
   },
   {
    "src": "SVT",
@@ -66,28 +82,20 @@
    "desc": "När scenkollektivet Rostvit tar sig an Boccacios 1300-talsberättelse från digerdödens Florens blir det en föreställning om dödssynder som ilska, avund, lättja och högmod. Anna Hedelius ser en charmigt respektlös föreställning som med mörk humor, musik och fantasi förvandlar Decamerone till lekfull samtidssatir."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Moderaterna vill avskaffa avgiften för förskola och fritids",
-   "date": "2026-08-25T06:57:08.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/svt-erfar-moderaterna-vill-avskaffa-avgiften-for-forskola-och-fritids",
-   "desc": "Moderaterna går på tisdagen ut med ett nytt vallöfte, om att slopa avgiften för förskola och fritidshem. – Det här är en långsiktig reform för att stärka arbetslinjen och integrationen, se till att fler barn får del av lärandet, säger Ulf Kristersson (M) utanför en förskola i Mariefred."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Två får angripna av varg i Vaggeryd",
-   "date": "2026-08-25T05:35:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-far-angripna-av-varg-i-vaggeryd",
-   "desc": "Två får har angripits av varg i den sydvästra delen av Vaggeryds kommun. Det ena fåret hittades dött och det andra fick avlivas på grund av skadorna. Länsstyrelsen konstaterade efter en besiktning att det var ett vargangrepp."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Paret mördade mannens mamma i Danderyd – döms till livstids fängelse i hovrätten",
    "date": "2026-08-25T09:05:22.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/paret-mordade-mannens-mamma-i-danderyd-nu-doms-de-i-hovratten",
    "desc": "Kvinnan i 60-årsåldern förvann efter att ha besökt sin son och hans fru i Danderyd, i juni 2025. Sonen och frun dömdes till livstids fängelse för att mördat kvinnan. Nu fastställer hovrätten den tidigare domen från tingsrätten."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Försvaret vill ta över fastighet vid Musköbasen – ägaren ”ett säkerhetshot”",
+   "date": "2026-08-25T08:02:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvaret-vill-ta-over-fastighet-vid-muskobasen-agaren-ett-sakerhetshot",
+   "desc": "Fortifikationsverket har ansökt om att expropriera en fastighet i närheten av Musköbasen, Haninge garnison, med hänsyn till ”Försvarsmaktens skyddsvärden och rikets säkerhet”. Fastigheten ägs i dag av en person med ryskt medborgarskap."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-25T05:00:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/passa-er-liberalernas-gruppledare-om-hoten-mot-hennes-familj",
    "desc": "Att stanna kvar inom politiken kom med ett högt pris, berättar Gulan Avci i SVT Nyheter Stockholms intervjuserie med stadshustopparna: – Jag har fått höra allt från att mina barn ska dö, till att mina dagar är räknade, säger Gulan Avci om hoten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 24 augusti",
-   "date": "2026-08-24T17:59:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-24-augusti-ekyzqo",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 24 augusti."
   },
   {
    "src": "BBC",
