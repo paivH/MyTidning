@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T04:34:27.224Z",
+ "updated": "2026-08-25T05:27:45.515Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Misstänkt farligt föremål hittades i Rådhusparken",
+   "date": "2026-08-25T04:40:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/misstankt-farligt-foremal-hittades-i-radhusparken",
+   "desc": "Rådhuset i centrala Jönköping spärrades av under måndagskvällen efter att polisen hittat ett föremål som inte kunde uteslutas som farligt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Hannes, 17, hyllar stödet – men känner oro att gå tillbaka till Brinellskolan",
    "date": "2026-08-25T03:30:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/hannes-17-hyllar-stodet-men-kanner-oro-att-ga-tillbaka-till-brinellskolan",
@@ -74,12 +82,12 @@
    "desc": "Gunnarsbyn ligger fem mil utanför Boden och det är dryga sju till Luleå. Svante Naess har barn som gärna åker in till städerna och för att slippa köra flera gånger om dagen konstruerade han en lösning som har blivit viral i sociala medier."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Experten slår fast: ”Malmö är ett mittenlag”",
-   "date": "2026-08-24T20:07:29.000Z",
-   "link": "https://www.svt.se/sport/fotboll/experten-slar-fast-malmo-ar-ett-mittenlag",
-   "desc": "Malmö åkte på en ny käftsmäll. De himmelsblå är långt ifrån glansdagarna, menar SVT Sports expert. – Ett mittenlag, säger Magnus Eriksson i ”Fotbollsstudion”."
+   "title": "Gulan Avci (L) om hoten: ”Vem fan vill bli politiker”",
+   "date": "2026-08-25T05:00:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/passa-er-liberalernas-gruppledare-om-hoten-mot-hennes-familj",
+   "desc": "Att stanna kvar inom politiken kom med ett högt pris, berättar Gulan Avci i SVT Nyheter Stockholms intervjuserie med stadshustopparna: – Jag har fått höra allt från att mina barn ska dö, till att mina dagar är räknade, säger Gulan Avci om hoten."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-24T06:27:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/bil-korde-in-i-vagg-i-tunnel-vid-essingeleden-passagerare-smet-fran-platsen",
    "desc": "Vid 5-tiden på måndagsmorgonen körde en bil med utbytta registreringsskyltar in i väggen i en tunnel i Solna. Efter det såg man flera personer fly ur tunneln via nödutgångarna. – De har förmodligen lämnat personbilen efter krocken in i väggen, säger Marcus Björling, presstalesperson på Stockholmspolisen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Röstmottagare anställs via privat företag i Täby kommun",
-   "date": "2026-08-24T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/rostraknare-anstalls-via-privat-foretag-i-taby-kommun",
-   "desc": "Täby kommun inför en ny metod inför årets förtidsröstning. Ett bemanningsföretag kommer sköta rekryteringen av de som tar emot rösterna. Beslutet ska underlätta för valkansliet – men har väckt oro och kritik hos valarbetare. – I Sverige har vi inte sett det tidigare vad jag vet, säger Fredrik Uggla, docent i statsvetenskap."
   },
   {
    "src": "BBC",
