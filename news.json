@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T08:37:07.945Z",
+ "updated": "2026-08-25T09:31:07.827Z",
  "items": [
   {
    "src": "BBC",
@@ -13,14 +13,14 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Lockerbie bombing trial postponed days before it was due to start",
-   "date": "2026-08-25T06:59:03.000Z",
+   "date": "2026-08-25T09:08:13.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
    "desc": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+   "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
    "date": "2026-08-25T04:06:34.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
    "desc": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine."
@@ -40,6 +40,22 @@
    "date": "2026-08-25T02:08:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
    "desc": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vargangrepp bekräftat utanför Lammhult – sju får döda",
+   "date": "2026-08-25T09:12:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/vargangrepp-bekraftat-utanfor-lammhult-sju-far-doda",
+   "desc": "Ett vargangrepp har bekräftats i trakterna kring Lammhult. Tre får dödades och ytterligare fyra skadades så svårt att de behövde avlivas enligt Länsstyrelsen Kronoberg."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Mordet på Gaboro – Hovrätten fastställer livstidsdom",
+   "date": "2026-08-25T09:03:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/mordet-pa-gaboro-hovratten-faststaller-livstidsdom",
+   "desc": "Göta hovrätt fastställer Norrköpings tingsrätts dom gällande mordet på rapparen Gaboro. 22-årige Alexander Nord döms till livstids fängelse och den 32-årige man som misstänktes ha hjälpt till vid mordet frias av hovrätten."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Två får har angripits av varg i den sydvästra delen av Vaggeryds kommun. Det ena fåret hittades dött och det andra fick avlivas på grund av skadorna. Länsstyrelsen konstaterade efter en besiktning att det var ett vargangrepp."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt farligt föremål hittades i Rådhusparken",
-   "date": "2026-08-25T04:40:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/misstankt-farligt-foremal-hittades-i-radhusparken",
-   "desc": "Rådhuset i centrala Jönköping spärrades av under måndagskvällen efter att polisen hittat ett föremål som inte kunde uteslutas som farligt."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hannes, 17, hyllar stödet – men känner oro att gå tillbaka till Brinellskolan",
-   "date": "2026-08-25T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/hannes-17-hyllar-stodet-men-kanner-oro-att-ga-tillbaka-till-brinellskolan",
-   "desc": "Hannes Nyström, som går andra året på Brinellskolan i Fagersta, beskriver det som viktigt att få träffa sina klasskamrater. Men han känner också en oro och ett obehag inför att återvända till lokalerna där skoldådet ägde rum. – Alltså, det känns inte jättetryggt direkt, säger han."
+   "title": "Paret mördade mannens mamma i Danderyd – döms till livstids fängelse i hovrätten",
+   "date": "2026-08-25T09:05:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/paret-mordade-mannens-mamma-i-danderyd-nu-doms-de-i-hovratten",
+   "desc": "Kvinnan i 60-årsåldern förvann efter att ha besökt sin son och hans fru i Danderyd, i juni 2025. Sonen och frun dömdes till livstids fängelse för att mördat kvinnan. Nu fastställer hovrätten den tidigare domen från tingsrätten."
   },
   {
    "src": "STHLM",
@@ -92,7 +100,7 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Olycka på E18 i Vallentuna – totalstopp i trafiken",
+   "title": "Olycka på E18 i Vallentuna – mycket stor påverkan på trafiken",
    "date": "2026-08-25T05:44:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/olycka-pa-e18-vagen-avstangd",
    "desc": "E18 var på tisdagsmorgonen avstängd i båda riktningarna efter en olycka med två lastbilar och minst en personbil i Vallentuna. En person har förts till sjukhus med ambulanshelikopter. Skadeläget är oklart."
@@ -112,14 +120,6 @@
    "date": "2026-08-24T17:59:30.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-24-augusti-ekyzqo",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 24 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Efter kajskandalen i Vaxholm – kommunchefen sägs upp",
-   "date": "2026-08-24T14:04:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-kajskandalen-i-vaxholm-kommunchefen-sags-upp",
-   "desc": "Vaxholms kommunchef Marie Wiklund får lämna sitt jobb efter avslöjanden om olagliga kajupphandlingar. – Jag önskar Vaxholms stad all lycka till, säger Marie Wiklund, i ett pressmeddelande."
   },
   {
    "src": "BBC",
