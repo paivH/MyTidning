@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T13:45:39.229Z",
+ "updated": "2026-08-25T14:40:37.644Z",
  "items": [
   {
    "src": "BBC",
@@ -20,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US removes Syria from list of state sponsors of terrorism",
-   "date": "2026-08-25T00:17:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa."
+   "title": "Brain disease in dead NFL players 'higher than previously shown'",
+   "date": "2026-08-25T11:54:40.000Z",
+   "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+   "desc": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher."
   },
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Uppgifter: CIA-direktören på besök i Ryssland",
+   "date": "2026-08-25T14:23:05.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/uppgifter-cia-direktoren-pa-besok-i-ryssland",
+   "desc": "CIA-chefen John Ratcliffe var under tisdagen på besök i Ryssland, enligt uppgifter till CBS. Han ska ha deltagit på möten i Moskva, men om vad är oklart."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Därför har delar av Nyköpingsån torrlagts",
+   "date": "2026-08-25T14:13:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/darfor-har-delar-av-nykopingsan-torrlagts",
+   "desc": "En långsamt sinande å mitt i Nyköping har dragit blickarna till sig de senaste dagarna. SVT Nyheter Sörmland har tagit reda på vad den ovanliga synen beror på."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Buschs pik mot Kristersson: ”Vi är originalet”",
+   "date": "2026-08-25T13:46:47.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/buschs-pik-mot-kristersson-vi-ar-originalet",
+   "desc": "Ulf Kristerssons löfte om en avgiftsfri förskola är en av Moderaternas viktigaste satsningar inför valet. Men Ebba Busch tycker att Kristdemokraterna har en bättre lösning för Sveriges barnfamiljer. – Vi är originalet när det kommer till familjepartierna, säger KD-ledaren."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Stjärnan Wilma Svensson återvände till Hultsfred – tränade med skolbarnen",
    "date": "2026-08-25T13:36:55.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/stjarnan-wilma-svensson-atervande-till-hultsfred-tranade-med-skolbarnen",
@@ -58,28 +82,20 @@
    "desc": "En man har fått ett rör i huvudet i samband med ett arbete på en industri i Skellefteå. Mannen fördes till sjukhus och polis utreder olyckan som en arbetsplatsolycka."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna hittad död på boende i Linköping",
-   "date": "2026-08-25T11:34:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/kvinna-hittad-dod-pa-boende-i-linkoping",
-   "desc": "En kvinna i 35-årsåldern har hittats död i en lägenhet i Linköping. Omständigheterna kring dödsfallet är oklara och polisen har inlett en förundersökning om mord."
+   "title": "Regionbeslutet: Kostnadssänkning för att frysa ägg ska utredas",
+   "date": "2026-08-25T14:22:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/regionbeslutet-kostnadssankning-for-att-frysa-agg-ska-utredas",
+   "desc": "Hälso- och sjukvårdsnämnden i Region Stockholm tog under tisdagen ett steg närmare att fler kvinnor i länet ska kunna frysa sina ägg. Regionen beslutade att utreda förutsättningarna för att subventionera delar av kostnaderna för nedfrysning av ägg."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Domen står fast: Ingen prövning i Högsta domstolen för dömda systrarna i Jönköping",
-   "date": "2026-08-25T11:31:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/domen-star-fast-ingen-provning-i-hogsta-domstolen-for-domda-systrarna-i-jonkoping",
-   "desc": "Systrarna som dömdes för att ha försökt mörda sin pappa i november får inte sina domar prövade i högre instans. Det meddelar Högsta Domstolen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fjällräven hotar stämma Sverigedemokraterna",
-   "date": "2026-08-25T11:17:20.000Z",
-   "link": "https://www.svt.se/kultur/fjallraven-hotar-stamma-sverigedemokraterna",
-   "desc": "Typsnittet i Sverigedemokraternas kampanj är för likt Fjällrävens, anser friluftsföretaget. Nu får partiet till den 1 september på sig att ändra texten för att undvika att stämmas."
+   "title": "Storbråk i Hornstull – med kryckor och pinnar",
+   "date": "2026-08-25T14:17:51.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/storbrak-i-hornstull-med-kryckor",
+   "desc": "Ett 15-tal personer ska enligt polisen vara inblandade i ett bråk vid Hornstull på Södermalm i Stockholm. Enligt vittnen ska bland annat kryckor ha använts som tillhyggen."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-08-25T05:58:30.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-grovt-ran-i-bostad-bromma",
    "desc": "Natten till tisdag ska flera gärningspersoner ha tvingats sig in i en lägenhet i Bromma, hotat de boende med ett pistolliknande föremål och sedan tvingat till sig tillhörigheter. En polisinsats pågick under natten, men inga gärningspersoner har gripits."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Olycka på E18 i Vallentuna – mycket stor påverkan på trafiken",
-   "date": "2026-08-25T05:44:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/olycka-pa-e18-vagen-avstangd",
-   "desc": "E18 var på tisdagsmorgonen avstängd i båda riktningarna efter en olycka med två lastbilar och minst en personbil i Vallentuna. En person har förts till sjukhus med ambulanshelikopter. Skadeläget är oklart."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Gulan Avci (L) om hoten: ”Vem fan vill bli politiker”",
-   "date": "2026-08-25T05:00:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/passa-er-liberalernas-gruppledare-om-hoten-mot-hennes-familj",
-   "desc": "Att stanna kvar inom politiken kom med ett högt pris, berättar Gulan Avci i SVT Nyheter Stockholms intervjuserie med stadshustopparna: – Jag har fått höra allt från att mina barn ska dö, till att mina dagar är räknade, säger Gulan Avci om hoten."
   },
   {
    "src": "BBC",
