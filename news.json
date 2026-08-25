@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T15:38:19.009Z",
+ "updated": "2026-08-25T16:32:11.098Z",
  "items": [
   {
    "src": "BBC",
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "CIA chief in Moscow for unannounced talks, US media reports",
-   "date": "2026-08-25T15:27:48.000Z",
+   "date": "2026-08-25T16:08:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
    "desc": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
   },
@@ -40,6 +40,14 @@
    "date": "2026-08-25T14:54:34.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
    "desc": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Busch nobbar Åkessons deadline: Sverige behöver Mohamsson",
+   "date": "2026-08-25T16:10:33.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/busch-nobbar-akessons-deadline-sverige-behover-mohamsson",
+   "desc": "Ebba Busch är kritisk mot Jimmie Åkessons deadline för Liberalerna. Efter skoldådet i Fagersta efterlyser hon nu ”en annan typ av valrörelse” med mindre polemik. – Jag håller inte på på det sättet, säger KD-ledaren."
   },
   {
    "src": "SVT",
@@ -74,12 +82,20 @@
    "desc": "Gruvbrytning i all ära, men till brytning i alunskiffer säger Socialdemokraterna nej. Och med ett kommunalt veto."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Socialdemokraternas valaffischer vandaliserade i Ljungby – hakkors och könsord",
-   "date": "2026-08-25T14:43:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/socialdemokraternas-valaffischer-vandaliserade-i-ljungby-hakkors-och-konsord",
-   "desc": "Cirka 90 av Socialdemokraternas valaffischer har rivits ner eller vandaliserats i Ljungby under helgen. Bland annat har hakkors målats på partiets etta på listan. – Det är allvarligt. Det är så ledsamt att se. Arg och upprörd blir man över tilltaget, säger partiets lokala ordförande Tommy Linnér."
+   "title": "Chatt: Ställ dina kollektivtrafik-frågor till ansvarig politiker",
+   "date": "2026-08-25T16:00:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/chatt-stall-dina-kollektivtrafik-fragor-till-ansvarig-politiker",
+   "desc": "Onsdag förmiddag har du möjlighet att få dina kollektivtrafikfrågor ställda – direkt till Jakop Dalunde (MP). Då intervjuar SVT Nyheter Stockholms politikreporter Tommy Bergman trafikregionrådet genom frågorna som ställs här i chatten."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "DO: Dramaten har brutit mot diskrimineringsförbudet",
+   "date": "2026-08-25T15:46:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/do-dramaten-har-brutit-mot-diskrimineringsforbudet",
+   "desc": "Dramaten har brutit mot diskrimineringsförbudet. Enligt ett beslut från Diskrimineringsombudsmannen, DO, har tillgängligheten varit bristande när rullstolsplatser inte gick att boka vid biljettsläpp. – Vi ser väldigt positivt på det här beslutet, säger Tobias Holmberg som var den som gjorde anmälan."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-08-25T09:05:22.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/paret-mordade-mannens-mamma-i-danderyd-nu-doms-de-i-hovratten",
    "desc": "Kvinnan i 60-årsåldern förvann efter att ha besökt sin son och hans fru i Danderyd, i juni 2025. Sonen och frun dömdes till livstids fängelse för att mördat kvinnan. Nu fastställer hovrätten den tidigare domen från tingsrätten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Ryskägt hus på Muskö ett ”säkerhetshot” – försvaret vill ta över",
-   "date": "2026-08-25T08:02:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvaret-vill-ta-over-fastighet-vid-muskobasen-agaren-ett-sakerhetshot",
-   "desc": "Fortifikationsverket har ansökt om att expropriera en fastighet i närheten av Muskö örlogsbas, Haninge garnison, med hänsyn till ”Försvarsmaktens skyddsvärden och rikets säkerhet”. Fastigheten ägs i dag av en person med ryskt medborgarskap."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt grovt rån i bostad Bromma",
-   "date": "2026-08-25T05:58:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-grovt-ran-i-bostad-bromma",
-   "desc": "Natten till tisdag ska flera gärningspersoner ha tvingats sig in i en lägenhet i Bromma, hotat de boende med ett pistolliknande föremål och sedan tvingat till sig tillhörigheter. En polisinsats pågick under natten, men inga gärningspersoner har gripits."
   },
   {
    "src": "BBC",
