@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T05:30:26.104Z",
+ "updated": "2026-08-26T06:41:04.468Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Förtidsröstningen: MUF och SSU tävlade om att rösta först",
+   "date": "2026-08-26T06:18:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/fortidsrostningen-muf-och-ssu-tavlade-om-att-rosta-forst",
+   "desc": "Ungdomsförbunden Muf och SSU tävlade om att rösta först när förtidsröstningen öppnade klockan 7 på Malmö centralstation."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Reportern: ”Avslöjar samma sak om och om igen – sen händer inget”",
    "date": "2026-08-26T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/granskning/ug/reportern-avslojar-samma-sak-om-och-om-igen-sen-hander-inget",
@@ -72,14 +80,6 @@
    "date": "2026-08-26T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/evelyn-fran-mala-far-fortidsrosta-trots-att-hon-ar-17",
    "desc": "När förtidsröstningen nu öppnar får Evelyn Nilsson, 17, gå och rösta. Anledningen – hon fyller 18 år på valdagen. – Jag får tydligen förtidsrösta, det har jag kollat upp, säger hon."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ännu ingen rättegång – urfolkskvinnor kvar i ryskt häkte",
-   "date": "2026-08-26T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/sapmi/annu-ingen-rattegang-urfolkskvinnor-kvar-i-ryskt-hakte",
-   "desc": "Två urfolkskvinnor greps av den ryska säkerhetstjänsten FSB i en landsomfattande razzia före jul förra året och sitter fortfarande häktade. – De är människorättsförsvarare, men de ryska myndigheterna utpekar dem som terrorister, säger Aili Keskitalo, ledamot i FN:s permanenta forum för urfolksfrågor (UNPFII)."
   },
   {
    "src": "STHLM",
