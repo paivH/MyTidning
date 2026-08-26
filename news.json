@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-26T11:25:06.495Z",
+ "updated": "2026-08-26T11:55:29.900Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
-   "date": "2026-08-26T10:56:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
-   "desc": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages."
+   "title": "At least 14 babies die in Pakistan hospital fire",
+   "date": "2026-08-26T10:42:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
+   "desc": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals."
   },
   {
    "src": "BBC",
@@ -20,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-   "date": "2026-08-26T08:01:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-   "desc": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
+   "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+   "date": "2026-08-26T11:02:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+   "desc": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport."
   },
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
-   "date": "2026-08-25T17:12:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-   "desc": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says."
+   "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+   "date": "2026-08-26T08:01:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+   "desc": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sänkt skatt på bensin och diesel splittrar partierna",
+   "date": "2026-08-26T11:36:45.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sankt-skatt-pa-bensin-och-diesel-splittrar-partierna",
+   "desc": "Skatten på bensin och diesel har tillfälligt sänkts till EU:s miniminivåer – men hur framtiden ser ut är oviss. Partiernas svar i SVT:s valkompass visar på splittring. ”Höga bränsleskatter slår särskilt hårt mot människor på landsbygden, pendlande arbetare och företag med tunga transporter”, skriver SD i sin motivering. ”Sänkt skatt på bensin och diesel späder på klimatkrisen”, skriver MP."
   },
   {
    "src": "SVT",
@@ -55,7 +63,7 @@
    "title": "Författaren Péter Nádas död",
    "date": "2026-08-26T10:36:13.000Z",
    "link": "https://www.svt.se/kultur/forfattaren-peter-nadas-dod",
-   "desc": "Den ungerske Nobelpristippade författaren Péter Nádas är död uppger hans förläggare, enligt AFP. Han blev 83 år gammal."
+   "desc": "Den ungerske Nobelpristippade författaren Péter Nádas är död uppger hans förläggare, enligt AFP. Han blev 83 år gammal. – I Péter Nádas romaner får 1900-talets krig, förtryck och förintelse kroppslig gestalt, skriver Kulturnyheternas litteraturkritiker och Nádas-expert Ingrid Elam."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-26T08:25:11.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/expansionsfogar-byts-pa-oresundsbron-paverkar-trafiken",
    "desc": "Vägtrafiken på Öresundsbron blir begränsad under åtta veckor. Orsaken är att två så kallade expansionsfogar ska bytas ut."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Torsten i Mårdsjön: Jag röstar alltid",
-   "date": "2026-08-26T08:21:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/valbussen-rullar-i-ragunda-kommun",
-   "desc": "Många av de människor som valbussteamet träffat i Strömsund och Krokom har lyft frågor om landsbygdspolitik. I dag är det dags att ta tempen på politiken i Ragunda."
   },
   {
    "src": "STHLM",
