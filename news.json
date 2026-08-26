@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-26T13:51:43.792Z",
+ "updated": "2026-08-26T14:39:41.145Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+   "date": "2026-08-26T11:32:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-   "date": "2026-08-26T11:02:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-   "desc": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport."
+   "title": "Radiation link in flight attendant's breast cancer, French court finds",
+   "date": "2026-08-26T10:29:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
   },
   {
    "src": "BBC",
@@ -34,12 +42,12 @@
    "desc": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-   "date": "2026-08-26T08:01:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-   "desc": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "M-förslag: Bygg gemensamt nordisk-baltiskt luftförsvar",
+   "date": "2026-08-26T13:58:13.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/m-forslag-bygg-gemensamt-nordisk-baltiskt-luftforsvar",
+   "desc": "Om Moderaterna behåller regeringsmakten vill man att Sverige bygger upp ett gemensamt luftförsvar med övriga Norden och de baltiska länderna. Det berättade utrikesminister Maria Malmer Stenergard idag."
   },
   {
    "src": "SVT",
@@ -71,15 +79,7 @@
    "title": "Golfstjärnan Anna Nordqvist lägger av: ”Otroligt stolt”",
    "date": "2026-08-26T12:09:39.000Z",
    "link": "https://www.svt.se/sport/golf/golfstjarnan-anna-nordqvist-lagger-av-otroligt-stolt",
-   "desc": "Anna Nordqvist har vunnit tre majors. Men snart är karriären över. Helgens LPGA-tävling i Boston blir hennes sista, meddelar hon på Instagram."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Förtidsröstningen har öppnat – många ville rösta i Hammarstrand",
-   "date": "2026-08-26T12:05:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/fortidsrostningen-har-oppnat-manga-ville-rosta-i-hammarstrand",
-   "desc": "Nu går det att rösta i höstens val. När förtidsröstningen öppnade i Hammarstrand var det många som tog sina röstkort och gick dit. En av dem som röstade är Birgitta Wallin, men hon tyckte det var svårt i år."
+   "desc": "Anna Nordqvist har vunnit tre majors – men snart är karriären över. Helgens LPGA-tävling i Boston blir hennes sista. – Jag avslutar min karriär för att fokusera på min hälsa och familj, säger golfstjärnan."
   },
   {
    "src": "STHLM",
