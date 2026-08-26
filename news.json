@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T12:44:14.645Z",
+ "updated": "2026-08-26T13:51:43.792Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Uppgifter: Uefa lägger ner bojkotthot mot Fifa",
+   "date": "2026-08-26T12:57:09.000Z",
+   "link": "https://www.svt.se/sport/fotboll/uppgifter-uefa-lagger-ner-bojkotthot-mot-fifa",
+   "desc": "Europeiska fotbollsförbundet, Uefa, går inte vidare med sitt hot om att bojkotta Fifas tävlingar. Det efter att man ska ha fått försäkringar om att Fifa aldrig kommer att sälja ägarandelar i VM. Det rapporterar flera trovärdiga medier."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "”Nádas insåg att livet i grund och botten är absurt”",
    "date": "2026-08-26T12:36:45.000Z",
    "link": "https://www.svt.se/kultur/nadas-insag-att-livet-i-grund-och-botten-ar-absurt",
@@ -72,14 +80,6 @@
    "date": "2026-08-26T12:05:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/fortidsrostningen-har-oppnat-manga-ville-rosta-i-hammarstrand",
    "desc": "Nu går det att rösta i höstens val. När förtidsröstningen öppnade i Hammarstrand var det många som tog sina röstkort och gick dit. En av dem som röstade är Birgitta Wallin, men hon tyckte det var svårt i år."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sänkt skatt på bensin och diesel splittrar partierna",
-   "date": "2026-08-26T11:36:45.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sankt-skatt-pa-bensin-och-diesel-splittrar-partierna",
-   "desc": "Skatten på bensin och diesel har tillfälligt sänkts till EU:s miniminivåer – men hur framtiden ser ut är oviss. Partiernas svar i SVT:s valkompass visar på splittring. ”Höga bränsleskatter slår särskilt hårt mot människor på landsbygden, pendlande arbetare och företag med tunga transporter”, skriver SD i sin motivering. ”Sänkt skatt på bensin och diesel späder på klimatkrisen”, skriver MP."
   },
   {
    "src": "STHLM",
