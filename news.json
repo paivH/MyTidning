@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T06:41:04.468Z",
+ "updated": "2026-08-26T07:41:50.019Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Tog med kniv till skola i Mjölby – elev har stängts av",
+   "date": "2026-08-26T07:30:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/elev-tog-med-kniv-till-skola-i-mjolby-har-stangts-av",
+   "desc": "Händelsen inträffade på högstadieskolan Lagmansskolan i Mjölby på tisdagen. Situationen hanterades fort, enligt skolan, och ingen kom till skada."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Förtidsröstningen: MUF och SSU tävlade om att rösta först",
    "date": "2026-08-26T06:18:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/fortidsrostningen-muf-och-ssu-tavlade-om-att-rosta-forst",
@@ -72,14 +80,6 @@
    "date": "2026-08-26T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kritiserat-kommunalrad-far-nytt-fortroende-med-krav-pa-battre-tillganglighet",
    "desc": "S-toppen pressas att lämna chefsjobbet på flygplatsen"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Evelyn från Malå får förtidsrösta – trots att hon är 17",
-   "date": "2026-08-26T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/evelyn-fran-mala-far-fortidsrosta-trots-att-hon-ar-17",
-   "desc": "När förtidsröstningen nu öppnar får Evelyn Nilsson, 17, gå och rösta. Anledningen – hon fyller 18 år på valdagen. – Jag får tydligen förtidsrösta, det har jag kollat upp, säger hon."
   },
   {
    "src": "STHLM",
