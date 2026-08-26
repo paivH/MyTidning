@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T08:37:51.946Z",
+ "updated": "2026-08-26T09:36:13.733Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Stormkök exploderade – fyra personer förda till sjukhus",
+   "date": "2026-08-26T08:47:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/uppgifter-stormkok-exploderade-fyra-personer-forda-till-sjukhus",
+   "desc": "Fyra personer fördes till sjukhus under tisdagen efter att ett stormkök exploderade vid sjön Immeln. Det rapporterar Kristianstadsbladet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Stort underhåll på Öresundsbron – påverkar trafiken i åtta veckor",
    "date": "2026-08-26T08:25:11.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/expansionsfogar-byts-pa-oresundsbron-paverkar-trafiken",
@@ -60,10 +68,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tog med kniv till skola i Mjölby – elev har stängts av",
+   "title": "Tog med kökskniv till skola i Mjölby – elev har stängts av",
    "date": "2026-08-26T07:30:32.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/elev-tog-med-kniv-till-skola-i-mjolby-har-stangts-av",
-   "desc": "Händelsen inträffade på högstadieskolan Lagmansskolan i Mjölby på tisdagen. Situationen hanterades fort, enligt skolan, och ingen kom till skada."
+   "desc": "Händelsen inträffade på högstadieskolan Lagmansskolan i Mjölby på tisdagen. Situationen hanterades fort, enligt skolan, och ingen kom till skada. Enligt rektorn på skolan ska det ha varit en mindre kökskniv som eleven hade med sig."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-08-26T06:18:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/fortidsrostningen-muf-och-ssu-tavlade-om-att-rosta-forst",
    "desc": "Ungdomsförbunden Muf och SSU tävlade om att rösta först när förtidsröstningen öppnade klockan 7 på Malmö centralstation."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Reportern: ”Avslöjar samma sak om och om igen – sen händer inget”",
-   "date": "2026-08-26T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/granskning/ug/reportern-avslojar-samma-sak-om-och-om-igen-sen-hander-inget",
-   "desc": "Kommunalvalet hamnar lätt i skuggan av riksdagsvalet. Samtidigt hanterar kommunerna det mesta som rör vår vardag – och enorma summor skattepengar. I en genomgång av misstänkt korruption och oegentligheter i landets kommuner, som gjorts av Uppdrag granskning och SVT:s lokala nyheter, syns ett mönster efter att hemligheterna dragits fram i ljuset: Ansvariga landar ofta mjukt och väldigt få fall polisanmäls."
   },
   {
    "src": "STHLM",
