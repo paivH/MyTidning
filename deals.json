@@ -1,42 +1,42 @@
 {
- "updated": "2026-08-25T04:29:19.325Z",
+ "updated": "2026-08-26T04:29:52.900Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska plommon lösvikt",
+   "item": "Svenska äpplen Ingrid Marie, lösvikt",
    "price": "24 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
+   "store": "Lidl",
+   "item": "Kycklingfilé färsk 900g",
    "price": "59 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
+   "store": "ICA",
+   "item": "Färsk laxfilé Norge",
+   "price": "99 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Färska kantareller 250g",
-   "price": "39 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Skyr Milbona 450g",
-   "price": "14 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Utebelysning solcellsdriven, 2-pack",
+   "price": "79 kr",
+   "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
    "item": "Köttbullar 1kg fryst",
-   "price": "49 kr",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Rusta",
-   "item": "Utegrill kolgrill",
-   "price": "299 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Skolstart pennfodral & skrivset",
+   "price": "39 kr",
+   "url": "https://www.lidl.se"
   }
  ]
 }
