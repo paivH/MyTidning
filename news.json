@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T07:41:50.019Z",
+ "updated": "2026-08-26T08:37:51.946Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Stort underhåll på Öresundsbron – påverkar trafiken i åtta veckor",
+   "date": "2026-08-26T08:25:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/expansionsfogar-byts-pa-oresundsbron-paverkar-trafiken",
+   "desc": "Vägtrafiken på Öresundsbron blir begränsad under åtta veckor. Orsaken är att två så kallade expansionsfogar ska bytas ut."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Valbussen rullar i Ragunda kommun",
+   "date": "2026-08-26T08:21:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/valbussen-rullar-i-ragunda-kommun",
+   "desc": "Många av de människor som valbussteamet träffat i Strömsund och Krokom har lyft frågor om landsbygdspolitik. I dag är det dags att ta tempen på politiken i Ragunda."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Tog med kniv till skola i Mjölby – elev har stängts av",
    "date": "2026-08-26T07:30:32.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/elev-tog-med-kniv-till-skola-i-mjolby-har-stangts-av",
@@ -66,20 +82,12 @@
    "desc": "Kommunalvalet hamnar lätt i skuggan av riksdagsvalet. Samtidigt hanterar kommunerna det mesta som rör vår vardag – och enorma summor skattepengar. I en genomgång av misstänkt korruption och oegentligheter i landets kommuner, som gjorts av Uppdrag granskning och SVT:s lokala nyheter, syns ett mönster efter att hemligheterna dragits fram i ljuset: Ansvariga landar ofta mjukt och väldigt få fall polisanmäls."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Köpte konst till Vingåkers kommun – hängde tavla hemma ovanför sängen",
-   "date": "2026-08-26T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/kopte-konst-till-vingakers-kommun-hangde-tavla-hemma-ovanfor-sangen",
-   "desc": "Den anställda köpte in konst till kommunens slott Säftstaholm i Vingåker. Men tavlor och andra föremål hamnade i stället hemma hos kvinnan själv. – När vi skulle pynta huset inför försäljning lånade jag de här målningarna för att det skulle se lite fint ut, säger hon."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kritiserat kommunalråd får nytt förtroende – men pressas att lämna chefsjobb",
-   "date": "2026-08-26T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kritiserat-kommunalrad-far-nytt-fortroende-med-krav-pa-battre-tillganglighet",
-   "desc": "S-toppen pressas att lämna chefsjobbet på flygplatsen"
+   "title": "Mässlingsvaccin blir gratis för vuxna i Stockholm",
+   "date": "2026-08-26T08:10:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/masslingsvaccin-blir-gratis-for-vuxna-i-stockholm",
+   "desc": "Snart blir det gratis för vuxna att vaccinera sig mot mässling, om man bor i Region Stockholm. Orsaken är det pågående mässlingsutbrottet i Sverige. Det kommer även gälla barn som inte tidigare fått vaccinet."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-25T15:46:19.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/do-dramaten-har-brutit-mot-diskrimineringsforbudet",
    "desc": "Dramaten har brutit mot diskrimineringsförbudet. Enligt ett beslut från Diskrimineringsombudsmannen, DO, har tillgängligheten varit bristande när rullstolsplatser inte gick att boka vid biljettsläpp. – Vi ser väldigt positivt på det här beslutet, säger Tobias Holmberg som var den som gjorde anmälan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Regionbeslutet: Kostnadssänkning för att frysa ägg ska utredas",
-   "date": "2026-08-25T14:22:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/regionbeslutet-kostnadssankning-for-att-frysa-agg-ska-utredas",
-   "desc": "Hälso- och sjukvårdsnämnden i Region Stockholm tog under tisdagen ett steg närmare att fler kvinnor i länet ska kunna frysa sina ägg. Regionen beslutade att utreda förutsättningarna för att subventionera delar av kostnaderna för nedfrysning av ägg."
   },
   {
    "src": "BBC",
