@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T18:12:48.361Z",
+ "updated": "2026-08-26T20:30:39.283Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Kvinna höjde kniv mot polis i Linköping",
+   "date": "2026-08-26T19:10:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/kvinna-hojde-kniv-mot-polis-i-linkoping",
+   "desc": "Polisen fick larm efter att en kvinna med kniv setts utomhus i Linköping. Hon greps senare och är nu misstänkt för flera brott."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "”Därför minskar gapet – två faktorer påverkar”",
    "date": "2026-08-26T16:54:39.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/darfor-minskar-gapet-tva-faktorer-paverkar",
@@ -74,14 +82,6 @@
    "desc": "Två personer drabbades i en trafikolycka på väg 26 mellan Gislaved och Smålandsstenar. Trafiken påverkades under tiden räddningstjänsten var på plats men flyter nu på igen."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Norska kungafamiljen har besökt kung Harald på sjukhuset",
-   "date": "2026-08-26T15:23:59.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/norska-kungafamiljen-besoker-kung-harald-pa-sjukhuset",
-   "desc": "På onsdagseftermiddagen anlände den norska kungafamiljen till rikshospitalet i Oslo för att besöka kung Harald som vårdas för bland annat en infektion i blodet, rapporterar VG. Norges kung Harald vårdas sedan 17 augusti på sjukhus efter att ha drabbats av en blodsjukdom."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 26 augusti",
@@ -95,7 +95,7 @@
    "title": "Två till sjukhus efter mc-olycka i Botkyrka",
    "date": "2026-08-26T17:57:14.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-i-botkyrka-mc-forare-i-krock",
-   "desc": "Två mc-förare har förts till sjukhus med ambulanshelikopter efter att ha kolliderat på väg 257 i höjd med Sandsborg i Botkyrka. Skadeläget är oklart."
+   "desc": "Två mc-förare har förts till sjukhus med ambulanshelikopter efter att ha kolliderat på en landsväg i Grödinge, Botkyrka kommun. En av förarna misstänks för vållande till kroppsskada och vårdslöshet i trafik."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-08-26T18:32:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p6g15m?at_medium=RSS&at_campaign=rss",
+   "desc": "Former Reds striker Fraizer Campbell on how Carlos Baleba fits into the midfield rebuild."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-08-26T12:31:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p6c43w?at_medium=RSS&at_campaign=rss",
    "desc": "Bruno Fernandes reacts to being voted the 2026 PFA Players' Player of the Year."
@@ -144,14 +152,6 @@
    "date": "2026-08-22T14:17:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p5v6s2?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick reacts to Manchester United's 2-0 opening day defeat to Hull City."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-21T21:30:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p5q2zg?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd head coach Michael Carrick on the club's ambitions this season."
   }
  ]
 }
