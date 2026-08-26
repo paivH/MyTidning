@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T14:39:41.145Z",
+ "updated": "2026-08-26T16:14:35.163Z",
  "items": [
   {
    "src": "BBC",
@@ -13,9 +13,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-   "date": "2026-08-26T12:32:47.000Z",
+   "date": "2026-08-26T14:42:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-   "desc": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies."
+   "desc": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+   "date": "2026-08-26T15:42:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+   "desc": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order."
   },
   {
    "src": "BBC",
@@ -34,52 +42,44 @@
    "desc": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-   "date": "2026-08-26T08:17:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Esther, 24 kandiderar till kommunfullmäktige i Ragunda",
+   "date": "2026-08-26T16:00:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/esther-24-kandiderar-till-kommunfullmaktige-i-ragunda",
+   "desc": "Ingången var att politik är ”skittråkigt”. Men nu har Esther Högdahl ändrat inställning och vet vad hon vill tillföra kommunpolitiken. – Ett perspektiv från ett vanligt liv."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "M-förslag: Bygg gemensamt nordisk-baltiskt luftförsvar",
-   "date": "2026-08-26T13:58:13.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/m-forslag-bygg-gemensamt-nordisk-baltiskt-luftforsvar",
-   "desc": "Om Moderaterna behåller regeringsmakten vill man att Sverige bygger upp ett gemensamt luftförsvar med övriga Norden och de baltiska länderna. Det berättade utrikesminister Maria Malmer Stenergard idag."
+   "title": "Trafikolycka på väg 26 utanför Gislaved",
+   "date": "2026-08-26T15:34:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikolycka-pa-vag-26-utanfor-gislaved",
+   "desc": "Två personer drabbades i en trafikolycka på väg 26 mellan Gislaved och Smålandsstenar. Trafiken påverkas under tiden räddningstjänsten jobbar på platsen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Uppgifter: Uefa lägger ner bojkotthot mot Fifa",
-   "date": "2026-08-26T12:57:09.000Z",
-   "link": "https://www.svt.se/sport/fotboll/uppgifter-uefa-lagger-ner-bojkotthot-mot-fifa",
-   "desc": "Europeiska fotbollsförbundet, Uefa, går inte vidare med sitt hot om att bojkotta Fifas tävlingar. Det efter att man ska ha fått försäkringar om att Fifa aldrig kommer att sälja ägarandelar i VM. Det rapporterar flera trovärdiga medier."
+   "title": "Country-Småland sörjer Dolly Parton: ”En av de allra största”",
+   "date": "2026-08-26T15:11:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/country-smaland-sorjer-dolly-parton-en-av-de-allra-storsta",
+   "desc": "Countrylegendaren Dolly Parton har gått bort, 80 år gammal. Beskedet väcker sorg hos countryälskare världen över – även i Småland."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "”Nádas insåg att livet i grund och botten är absurt”",
-   "date": "2026-08-26T12:36:45.000Z",
-   "link": "https://www.svt.se/kultur/nadas-insag-att-livet-i-grund-och-botten-ar-absurt",
-   "desc": "Péter Nádas speciella humor, som söker sig mot djupet och insikten att livet i grund och botten är absurt, ljuder som en grundton i hans författarskap. Nu har han nått slutet på sin egen familjeroman."
+   "title": "Minst 14 spädbarn döda efter sjukhusbrand i Pakistan",
+   "date": "2026-08-26T15:11:13.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/minst-14-spadbarn-doda-efter-sjukhusbrand-i-pakistan",
+   "desc": "En brand utbröt på förlossningsavdelningen på ett sjukhus i Islamabad i Pakistan under onsdagsmorgonen, rapporterar Reuters. Sjukhusets administration bekräftar att 14 nyfödda bebisar har dött i branden. – Det var rök överallt, säger vittnet Alam Zaib Khan."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lång kötid när förtidsröstningen startade i Linköping",
-   "date": "2026-08-26T12:34:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/lang-kotid-nar-fortidsrostningen-startade-i-linkoping",
-   "desc": "På onsdagen öppnade förtidsröstningen och klockan 10 på förmiddagen slog huvudbiblioteket i Linköping upp dörrarna för att ta emot de första rösterna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Golfstjärnan Anna Nordqvist lägger av: ”Otroligt stolt”",
-   "date": "2026-08-26T12:09:39.000Z",
-   "link": "https://www.svt.se/sport/golf/golfstjarnan-anna-nordqvist-lagger-av-otroligt-stolt",
-   "desc": "Anna Nordqvist har vunnit tre majors – men snart är karriären över. Helgens LPGA-tävling i Boston blir hennes sista. – Jag avslutar min karriär för att fokusera på min hälsa och familj, säger golfstjärnan."
+   "title": "Vill se fängelse för föräldrarna i Skellefteå – efter dotterns död: ”Borde ha förstått”",
+   "date": "2026-08-26T15:06:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vill-se-fangelse-for-foraldrarna-i-skelleftea-efter-dotterns-dod-borde-ha-forstatt",
+   "desc": "Ett ettårigt barn dog efter ett fall i Skellefteå kommun. Föräldrarna sökte inte vård, trots att barnet kräktes under natten. Nu vill åklagaren att föräldrarna döms till ett års fängelse för grovt vållande till annans död. – Jag menar att föräldrarna i egenskap av föräldrar har haft en skyldighet att ingripa, säger kammaråklagare Henning Signarsson."
   },
   {
    "src": "STHLM",
