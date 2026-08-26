@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-26T10:30:53.841Z",
+ "updated": "2026-08-26T11:25:06.495Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
-   "date": "2026-08-26T09:47:08.000Z",
+   "title": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
+   "date": "2026-08-26T10:56:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
    "desc": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages."
   },
@@ -36,10 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-   "date": "2026-08-26T07:26:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-   "desc": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi."
+   "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+   "date": "2026-08-25T17:12:21.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+   "desc": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här ska 2 000 arbetare i Luleå bo och leva – följ med på rundturen",
+   "date": "2026-08-26T11:14:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-ska-2-000-arbetare-i-lulea-bo-och-leva-folj-med-pa-rundturen",
+   "desc": "Nu börjar personal- och entreprenörsboendet Aurora Village, där kring 2 000 arbetare ska flytta in ta form. Anläggningen ska bestå av 39 byggnader: 37 bostadshus samt två byggnader med restaurang, service, aktiviteter och gym. SVT Norrbotten fick en rundtur."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Författaren Péter Nádas död",
+   "date": "2026-08-26T10:36:13.000Z",
+   "link": "https://www.svt.se/kultur/forfattaren-peter-nadas-dod",
+   "desc": "Den ungerske Nobelpristippade författaren Péter Nádas är död uppger hans förläggare, enligt AFP. Han blev 83 år gammal."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Många av de människor som valbussteamet träffat i Strömsund och Krokom har lyft frågor om landsbygdspolitik. I dag är det dags att ta tempen på politiken i Ragunda."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Tog med kökskniv till skola i Mjölby – elev har stängts av",
-   "date": "2026-08-26T07:30:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/elev-tog-med-kniv-till-skola-i-mjolby-har-stangts-av",
-   "desc": "Händelsen inträffade på högstadieskolan Lagmansskolan i Mjölby på tisdagen. Situationen hanterades fort, enligt skolan, och ingen kom till skada. Enligt rektorn på skolan ska det ha varit en mindre kökskniv som eleven hade med sig."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Förtidsröstningen: MUF och SSU tävlade om att rösta först",
-   "date": "2026-08-26T06:18:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/fortidsrostningen-muf-och-ssu-tavlade-om-att-rosta-forst",
-   "desc": "Ungdomsförbunden Muf och SSU tävlade om att rösta först när förtidsröstningen öppnade klockan 7 på Malmö centralstation."
+   "title": "Försvarsstaben om ryskägda fastigheten på Muskö: ”Vi måste agera”",
+   "date": "2026-08-26T10:44:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvarsstaben-om-ryskagda-fastigheten-pa-musko-vi-maste-agera",
+   "desc": "En rysk medborgare äger en fastighet i närheten av Muskö örlogsbas som försvaret nu vill ta över. – Det utgör en risk som vi måste agera på, säger generallöjtnant Carl-Johan Edström, chef för Försvarsstaben."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-25T16:00:46.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/chatt-stall-dina-kollektivtrafik-fragor-till-ansvarig-politiker",
    "desc": "Kollektivtrafiken i huvudstaden är en hett omdebatterad valfråga. SVT Nyheter Stockholms politikreporter Tommy Bergman åkte tunnelbana med trafikregionrådet Jakop Dalunde (MP) – som svarade på publikens frågor."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "DO: Dramaten har brutit mot diskrimineringsförbudet",
-   "date": "2026-08-25T15:46:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/do-dramaten-har-brutit-mot-diskrimineringsforbudet",
-   "desc": "Dramaten har brutit mot diskrimineringsförbudet. Enligt ett beslut från Diskrimineringsombudsmannen, DO, har tillgängligheten varit bristande när rullstolsplatser inte gick att boka vid biljettsläpp. – Vi ser väldigt positivt på det här beslutet, säger Tobias Holmberg som var den som gjorde anmälan."
   },
   {
    "src": "BBC",
