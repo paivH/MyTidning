@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-27T00:24:33.058Z",
+ "updated": "2026-08-27T10:05:48.460Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+   "date": "2026-08-27T09:50:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "What we know about deadly Nepal-Tibet floods",
+   "date": "2026-08-27T09:55:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+   "date": "2026-08-27T08:59:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+   "desc": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -18,68 +42,60 @@
    "desc": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
-   "date": "2026-08-26T15:42:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
-   "desc": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
-   "date": "2026-08-26T22:02:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-   "date": "2026-08-25T19:50:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-   "desc": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Anrika Hammars bryggeri lägger ner – känt för Cuba cola och julmust",
+   "date": "2026-08-27T09:47:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/orebro/anrika-hammars-bryggeri-lagger-ner",
+   "desc": "Hammars bryggeri säger upp personalen och lägger ner verksamheten, något som Sydnärkenytt var först med att rapportera. – Det stämmer, säger en anställd till SVT Örebro."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bil har kört in i folkmassa i Frankrike",
-   "date": "2026-08-26T22:28:52.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/bil-kort-in-i-folkmassa-i-frankrike",
-   "desc": "En bil har kört in i en grupp människor i staden Caen i norra Frankrike, rapporterar franska medier. Minst en person har dödats."
+   "title": "Lukas, 13, guidar runt på Hertsöskolan – visar hemliga gömman",
+   "date": "2026-08-27T09:31:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/lukas-13-guidar-runt-pa-hertsoskolan-visar-hemliga-gomman",
+   "desc": "Eleverna är på plats i nya Hertsöskolan – efter år av undervisning i moduler. SVT följde med sjundeklassaren Lukas Klockare Bohlin som visade upp skolan. – Det är stort för Hertsön, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Experten om skredet i Nepal: Kanske flera tusen döda",
-   "date": "2026-08-26T21:15:34.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/experten-om-skredet-i-nepal-kanske-flera-tusen-doda",
-   "desc": "Lerskred i Himalaya är inte ovanliga, men omfattningen den här gången är extrem. Det menar Mats Eriksson, avdelningschef vid Statens geotekniska institut. – Det är en väldigt stor förstörelse, väldigt mycket infrastruktur som är förstörd och många människoliv som har gått till spillo, säger han i Aktuellt."
+   "title": "Tonårspojke begärd häktad – misstänks för medhjälp vid skoldådet i Fagersta",
+   "date": "2026-08-27T09:13:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/tonarspojke-begars-haktad-misstanks-for-medhjalp-vid-skoldadet-i-fagersta",
+   "desc": "Den tonårspojke som anhölls på onsdagen begärdes i dag häktad misstänkt för medhjälp till mord och mordförsök, gällande skoldådet i Fagersta. Det meddelade Västmanlands tingsrätt på torsdagen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nvidia slår förväntningarna",
-   "date": "2026-08-26T20:33:18.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/nvidia-slar-forvantningarna-m0ckfh",
-   "desc": "Den amerikanska halvledarjätten Nvidia slår analytikernas förväntningar i sin kvartalsrapport. Aktien sjunker i efterhandeln."
+   "title": "Bedragare uppger att de ringer från sjukhuset – Regionen varnar",
+   "date": "2026-08-27T08:54:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/bedragare-uppger-att-de-ringer-fran-sjukhuset-regionen-varnar",
+   "desc": "Flera fall av bedrägeriförsök, där bedragarna uppger att de ringer från vården, har uppmärksammats av Region Östergötland. Lägg på luren om någon vill att du ska legitimera dig via bank-id, lyder uppmaningen från Regionen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna höjde kniv mot polis i Linköping",
-   "date": "2026-08-26T19:10:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/kvinna-hojde-kniv-mot-polis-i-linkoping",
-   "desc": "Polisen fick larm efter att en kvinna med kniv setts utomhus i Linköping. Hon greps senare och är nu misstänkt för flera brott."
+   "title": "Victor Hedmans ångest: ”Kände det där trycket i bröstet”",
+   "date": "2026-08-27T08:52:48.000Z",
+   "link": "https://www.svt.se/sport/ishockey/victor-hedmans-angest-kande-det-dar-trycket-i-brostet",
+   "desc": "NHL-stjärnan Victor Hedman slutade spela tvärt i mars och gick ut med att han behövde göra ett länge uppehåll från hockeyn. Skador var en förklaring. Nu väljer backen att berätta att han även led av prestationsångest. – Jag kände det där trycket i bröstet så fort det var dags för en matchdag, säger han."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "”Därför minskar gapet – två faktorer påverkar”",
-   "date": "2026-08-26T16:54:39.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/darfor-minskar-gapet-tva-faktorer-paverkar",
-   "desc": "Väljarna är mer nöjda med regeringens arbete och har en mer positiv syn på sin egen ekonomi. Det kan vara två förklaringar till att Tidöpartierna nu knappar in på de rödgrönas försprång i opinionen."
+   "title": "Här badar stockholmarna för internationella sjö-dagen",
+   "date": "2026-08-27T09:06:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-badar-stockholmarna-for-internationella-sjo-dagen",
+   "desc": "På torsdagsmorgonen samlades ett 50-tal personer för ett morgondopp vid Marieviks badplats i Liljeholmen. Doppet gjordes för att uppmärksamma FN:s World lake day och vatten och sjöars betydelse."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "MP vill att stockholmare sänker tempot: ”Obligatorisk tredagarshelg”",
+   "date": "2026-08-27T05:00:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mp-vill-att-stockholmare-sanker-tempot-obligatorisk-tredagarshelg",
+   "desc": "Miljöpartiets nya toppnamn i Stockholms stad, Cindy Falquet, växte upp i franska alperna. Hon drömmer om en obligatorisk tredagarshelg för stockholmarna. – Vi som arbetsgivare kan börja göra omställningen och sätta en standard, säger hon i SVT:s politikserie ”Nu kör vi”."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-08-26T10:44:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvarsstaben-om-ryskagda-fastigheten-pa-musko-vi-maste-agera",
    "desc": "En rysk medborgare äger en fastighet i närheten av Muskö örlogsbas som försvaret nu vill ta över. – Det utgör en risk som vi måste agera på, säger generallöjtnant Carl-Johan Edström, chef för Försvarsstaben."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Mässlingsvaccin blir gratis för vuxna i Stockholm",
-   "date": "2026-08-26T08:10:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/masslingsvaccin-blir-gratis-for-vuxna-i-stockholm",
-   "desc": "Snart blir det gratis för vuxna att vaccinera sig mot mässling, om man bor i Region Stockholm. Orsaken är det pågående mässlingsutbrottet i Sverige. Det kommer även gälla barn som inte tidigare fått vaccinet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Säljer olagliga potensmedel – trots larm till Läkemedelsverket",
-   "date": "2026-08-26T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/saljer-olagliga-potensmedel-trots-larm-till-lakemedelsverket",
-   "desc": "Olagliga piratkopior av Viagra säljs på nätet till svenska män, trots att Läkemedelsverket varnar om allvarliga hälsorisker. SVT granskar hur en hemsida kan fortsätta med sin verksamhet helt öppet – med hjälp av oklara ägarförhållanden, Swish-konton, Bitcoin och QR-koder på stan."
   },
   {
    "src": "BBC",
