@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T20:30:39.283Z",
+ "updated": "2026-08-27T00:24:33.058Z",
  "items": [
   {
    "src": "BBC",
@@ -28,18 +28,42 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+   "date": "2026-08-26T22:02:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
    "date": "2026-08-25T19:50:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
    "desc": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Radiation link in flight attendant's breast cancer, French court finds",
-   "date": "2026-08-26T10:29:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bil har kört in i folkmassa i Frankrike",
+   "date": "2026-08-26T22:28:52.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/bil-kort-in-i-folkmassa-i-frankrike",
+   "desc": "En bil har kört in i en grupp människor i staden Caen i norra Frankrike, rapporterar franska medier. Minst en person har dödats."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Experten om skredet i Nepal: Kanske flera tusen döda",
+   "date": "2026-08-26T21:15:34.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/experten-om-skredet-i-nepal-kanske-flera-tusen-doda",
+   "desc": "Lerskred i Himalaya är inte ovanliga, men omfattningen den här gången är extrem. Det menar Mats Eriksson, avdelningschef vid Statens geotekniska institut. – Det är en väldigt stor förstörelse, väldigt mycket infrastruktur som är förstörd och många människoliv som har gått till spillo, säger han i Aktuellt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nvidia slår förväntningarna",
+   "date": "2026-08-26T20:33:18.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/nvidia-slar-forvantningarna-m0ckfh",
+   "desc": "Den amerikanska halvledarjätten Nvidia slår analytikernas förväntningar i sin kvartalsrapport. Aktien sjunker i efterhandeln."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-08-26T16:54:39.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/darfor-minskar-gapet-tva-faktorer-paverkar",
    "desc": "Väljarna är mer nöjda med regeringens arbete och har en mer positiv syn på sin egen ekonomi. Det kan vara två förklaringar till att Tidöpartierna nu knappar in på de rödgrönas försprång i opinionen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ovanligt lågt vattenstånd begränsar Visingsöfärjor",
-   "date": "2026-08-26T16:15:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ovanligt-lagt-vattenstand-begransar-visingsofarjor",
-   "desc": "Visingsötrafiken har tvingats införa en maxvikt för tunga fordon på två av sina färjor. Orsaken är det låga vattenståndet i Vättern. – Det här är ovanligt, säger Tobias Möller som är distriktschef på Trafikverkets färjerederi."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Esther, 24 kandiderar till kommunfullmäktige i Ragunda",
-   "date": "2026-08-26T16:00:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/esther-24-kandiderar-till-kommunfullmaktige-i-ragunda",
-   "desc": "Ingången var att politik är ”skittråkigt”. Men nu har Esther Högdahl ändrat inställning och vet vad hon vill tillföra kommunpolitiken. – Ett perspektiv från ett vanligt liv."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bil körde ner i diket på väg 26 utanför Gislaved",
-   "date": "2026-08-26T15:34:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikolycka-pa-vag-26-utanfor-gislaved",
-   "desc": "Två personer drabbades i en trafikolycka på väg 26 mellan Gislaved och Smålandsstenar. Trafiken påverkades under tiden räddningstjänsten var på plats men flyter nu på igen."
   },
   {
    "src": "STHLM",
