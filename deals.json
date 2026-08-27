@@ -1,41 +1,41 @@
 {
- "updated": "2026-08-26T04:29:52.900Z",
+ "updated": "2026-08-27T14:51:34.826Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Ingrid Marie, lösvikt",
+   "item": "Svenska äpplen lösvikt",
    "price": "24 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Kycklingfilé färsk 900g",
+   "item": "Kycklingfilé 900g",
    "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
-   "item": "Färsk laxfilé Norge",
+   "item": "Färsk laxfilé",
    "price": "99 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Rusta",
-   "item": "Utebelysning solcellsdriven, 2-pack",
-   "price": "79 kr",
+   "item": "Skolväskor och pennfodral",
+   "price": "från 49 kr",
    "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
    "item": "Köttbullar 1kg fryst",
-   "price": "59 kr",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Lidl",
-   "item": "Skolstart pennfodral & skrivset",
-   "price": "39 kr",
+   "item": "Svenska plommon lösvikt",
+   "price": "19 kr/kg",
    "url": "https://www.lidl.se"
   }
  ]
