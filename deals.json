@@ -1,42 +1,42 @@
 {
- "updated": "2026-08-27T14:51:34.826Z",
+ "updated": "2026-08-28T15:46:36.206Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen lösvikt",
-   "price": "24 kr/kg",
+   "item": "Svenska plommon i lösvikt",
+   "price": "34 kr/kg",
+   "url": "https://www.ica.se"
+  },
+  {
+   "store": "ICA",
+   "item": "Kycklingfilé Kronfågel 1kg",
+   "price": "69 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Kycklingfilé 900g",
-   "price": "59 kr",
+   "item": "Färska räkor 400g",
+   "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
-   "store": "ICA",
-   "item": "Färsk laxfilé",
-   "price": "99 kr/kg",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "Rusta",
-   "item": "Skolväskor och pennfodral",
-   "price": "från 49 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Skolstart pennfodral & block",
+   "price": "19 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
+   "item": "Köttbullar 1kg (fryst)",
    "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Lidl",
-   "item": "Svenska plommon lösvikt",
-   "price": "19 kr/kg",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Utekuddar 2-pack, rea inför hösten",
+   "price": "99 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
