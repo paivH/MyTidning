@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T15:46:36.206Z",
+ "updated": "2026-08-29T10:34:38.474Z",
  "verified": false,
  "deals": [
   {
@@ -10,32 +10,32 @@
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 1kg",
-   "price": "69 kr",
+   "item": "Kycklingfilé Kronfågel 900g",
+   "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Färska räkor 400g",
+   "item": "Färsk lax fillet 400g",
    "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Skolstart pennfodral & block",
+   "item": "Skolstart pennset W5",
    "price": "19 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (fryst)",
-   "price": "49 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utekuddar 2-pack, rea inför hösten",
-   "price": "99 kr",
+   "item": "Utegrill liten modell",
+   "price": "249 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
