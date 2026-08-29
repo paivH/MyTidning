@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T17:29:16.787Z",
+ "updated": "2026-08-29T19:57:24.758Z",
  "items": [
   {
    "src": "BBC",
@@ -21,25 +21,49 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-   "date": "2026-08-29T17:25:01.000Z",
+   "date": "2026-08-29T17:52:42.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
    "desc": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-   "date": "2026-08-29T16:15:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
+   "title": "Norway's new king remembers 'my dear father' in first speech",
+   "date": "2026-08-29T19:06:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-   "date": "2026-08-29T00:32:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-   "desc": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
+   "title": "Former Ecuadorian president imprisoned for corruption",
+   "date": "2026-08-29T19:44:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+   "desc": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man allvarligt skadad efter olycka med cross i Vilhelmina",
+   "date": "2026-08-29T19:43:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-allvarligt-skadad-efter-olycka-med-cross-i-vilhelmina",
+   "desc": "En man ska ha voltat med sin crossmotorcykel på en väg strax utanför Vilhemina på lördagen, och skadats svårt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Byn i Nepal sveptes bort av flodvågen: ”Täckt av lera”",
+   "date": "2026-08-29T18:27:25.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/byn-i-nepal-sveptes-bort-av-flodvagen-tackt-av-lera",
+   "desc": "Byn Devighat i Nepal sveptes bort med den massiva flodvågen i veckan. SVT:s team har besökt orten. – Samhället hade tidigare ett par hundra hus – många är bortspolade idag, säger Stefan Åsberg, SVT:s Asienkorrespondent, på plats i Nepal."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kung Haakon höll sitt första tal som kung: ”Tack pappa”",
+   "date": "2026-08-29T17:35:16.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/kung-haakon-holl-sitt-forsta-tal-som-kung-tack-pappa",
+   "desc": "Kung Haakon VIII av Norge har talat till folket för första gången. Han tackade alla som sörjer med och stöttar kungafamiljen efter kung Haralds död, samt sin far för hela hans gärning. – Kära far. Tack för att du var en så bra pappa."
   },
   {
    "src": "SVT",
@@ -58,28 +82,12 @@
    "desc": "Det gnisslar rejält mellan Tidöpartierna just nu. Med ett tufft opinionsläge ligger irritationen nära. SD-ledaren Jimmie Åkessons angrepp på KD-ledaren Ebba Busch är ett tydligt exempel på det."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Gokart-förare allvarligt skadad efter olycka",
-   "date": "2026-08-29T15:20:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forare-allvarligt-skadad-efter-olycka-i-racehall",
-   "desc": "En person har fått allvarliga skador efter en gokart-olycka i en racehall i Botkyrka, skriver polisen på sin hemsida. Föraren har förts till sjukhus med ambulanshelikopter."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Häktade tonårspojken i Fagersta utreds för egna mordplaner",
-   "date": "2026-08-29T14:49:02.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/haktade-tonarspojken-i-fagersta-utreds-for-egna-mordplaner",
-   "desc": "Tonårspojken som häktats misstänkt för medhjälp till mord i skoldådet i Fagersta utreds också för att ha haft egna mordplaner, bekräftar polisen för Ekot."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Åkessons känga till KD: Går det att lita på Ebba Busch?",
-   "date": "2026-08-29T14:09:53.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/akessons-kanga-till-kd-gar-det-att-lita-pa-ebba-busch",
-   "desc": "KD-ledaren Ebba Busch har sagt att hon kan komma att släppa fram Magdalena Andersson (S) som statsminister i fall av ”krig, kris och exceptionellt läge”. Det oroar Sverigedemokraternas Jimmie Åkesson. – Det är uppenbart att man från Ebbas sida haft en slags strategi att flörta vänsterut, säger han till SVT Nyheter."
+   "title": "Nyheter från dagen: 29 augusti",
+   "date": "2026-08-29T17:45:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-29-augusti-bzzp5d",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under lördagen den 29 augusti."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-08-29T03:30:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/bostader-tar-over-parkering-splittrar-vasbys-politiker",
    "desc": "Förslaget att ersätta den stora parkeringen utanför Väsby centrum med 600 lägenheter har seglat upp som en lokal valfråga. Moderaterna är kritiska mot planerna. – Det blir färre parkeringar, och dyrare, säger Oskar Weinmar (M), oppositionsråd."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Person hittad död efter räddningsinsats i Rudasjön",
-   "date": "2026-08-28T18:44:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/raddningsinsats-vid-rudasjon-efter-larm-om-drunkning",
-   "desc": "En person har hittats död i Rudasjön i Haninge. Personen hittades efter en stor sökinsats med polis, räddningstjänst och dykare."
   },
   {
    "src": "BBC",
