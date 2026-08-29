@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-28T15:32:42.927Z",
+ "updated": "2026-08-29T10:17:30.023Z",
  "items": [
   {
-   "ingredient": "chili",
-   "idea": "Fermentera chili med 2% salt i 6 dagar, mixa till hetsås med vitlök och lite ättika."
+   "ingredient": "grönkål",
+   "idea": "Fermentera grönkål med 2% salt i en vecka, syrlig snabbpickel till smörgåsar."
   },
   {
-   "ingredient": "majs",
-   "idea": "Grilla majskolvar 8 minuter, pensla med smält chilismör och lime - snabb vardagsmiddag på under 15 minuter."
-  },
-  {
-   "ingredient": "kantareller",
-   "idea": "Stek kantareller hastigt i smör, vänd i färsk pasta med timjan - klart på 15 minuter."
+   "ingredient": "tomater",
+   "idea": "Snabbstekta tomater med vitlök och basilika över pasta, klart på tio minuter."
   },
   {
    "ingredient": "plommon",
-   "idea": "Picklade plommon: koka lag med 1 dl ättika, 1 dl socker, 1 dl vatten, häll över halverade plommon."
+   "idea": "Pickla plommon i ättika, socker och vatten 1:1:1 med kryddnejlika, kyl ett dygn."
+  },
+  {
+   "ingredient": "äpplen",
+   "idea": "Baka saftigt äppelbröd med rivet äpple och kanel direkt i brioche-degen."
   }
  ]
 }
