@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T19:57:24.758Z",
+ "updated": "2026-08-29T22:28:11.654Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-   "date": "2026-08-29T15:27:56.000Z",
+   "date": "2026-08-29T20:13:16.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
    "desc": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
   },
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-08-29T21:30:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p6w1ts?at_medium=RSS&at_campaign=rss",
+   "desc": "Michael Carrick on Hull loss, squad balance and return of Mason Mount."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-08-28T13:51:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p6tzl0?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick provides updates on Amad and Baleba and looks ahead to Ipswich on Sunday."
@@ -144,14 +152,6 @@
    "date": "2026-08-26T12:31:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p6c43w?at_medium=RSS&at_campaign=rss",
    "desc": "Bruno Fernandes reacts to being voted the 2026 PFA Players' Player of the Year."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-24T11:56:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p61p6k?at_medium=RSS&at_campaign=rss",
-   "desc": "Joe and Gaz are joined by Utd fan Tom Cooney to discuss the defeat at Hull City."
   }
  ]
 }
