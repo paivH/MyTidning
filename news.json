@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T13:55:14.058Z",
+ "updated": "2026-08-29T17:29:16.787Z",
  "items": [
   {
    "src": "BBC",
@@ -13,15 +13,23 @@
    "src": "BBC",
    "section": "Världen",
    "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-   "date": "2026-08-29T12:55:39.000Z",
+   "date": "2026-08-29T15:27:56.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
    "desc": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
   },
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+   "date": "2026-08-29T17:25:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+   "desc": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-   "date": "2026-08-29T13:16:43.000Z",
+   "date": "2026-08-29T16:15:56.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
    "desc": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
   },
@@ -34,52 +42,60 @@
    "desc": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-   "date": "2026-08-28T19:40:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-   "desc": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Daniel Ståhl ledde svensk trippel – i 13:e raka Finnkampssegern",
+   "date": "2026-08-29T16:07:43.000Z",
+   "link": "https://www.svt.se/sport/friidrott/daniel-stahl-ledde-svensk-trippel-i-13e-raka-finnkampssegern",
+   "desc": "Det blev svensk trippel i männens diskus. Och en trettonde raka Finnkampsvinst för Daniel Ståhl. – Detta är helt underbart, jag älskar Finnkampen, säger Ståhl efter vinsten."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Judiska företrädare kritiska mot politisering av antisemitism: ”Slagträn”",
-   "date": "2026-08-29T13:34:29.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/judiska-foretradare-kritiska-mot-politisering-av-antisemitism-slagtran",
-   "desc": "Simona Mohamsson bär davidsstjärnan när hon attackerar Vänsterpartiet. Jimmie Åkesson poserar med boken @Stoltjude samtidigt som han rasar mot islamism. Judiska företrädare är kritiska mot att antisemitism blir ett slagträ i debatten. – Vi vill inte bli använda som verktyg för att smutskasta andra, säger Naomi Manderman på Judiska ungdomsförbundet."
+   "title": "Ett samarbete i begynnande sönderfall?",
+   "date": "2026-08-29T15:34:47.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ett-samarbete-i-begynnande-sonderfall",
+   "desc": "Det gnisslar rejält mellan Tidöpartierna just nu. Med ett tufft opinionsläge ligger irritationen nära. SD-ledaren Jimmie Åkessons angrepp på KD-ledaren Ebba Busch är ett tydligt exempel på det."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Alvar Myhlback vinner Alliansloppet – efter stor förvirring",
-   "date": "2026-08-29T12:42:52.000Z",
-   "link": "https://www.svt.se/sport/langdskidor/alvar-myhlback-vinner-alliansloppet-efter-stor-forvirring",
-   "desc": "Alvar Myhlback försvarade sin titel. 20-åringen tog hem Alliansloppet under lördagen – efter märkliga bilder i slutskedet av tävlingen. – Det var lite kaos, säger han i TV4."
+   "title": "Gokart-förare allvarligt skadad efter olycka",
+   "date": "2026-08-29T15:20:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forare-allvarligt-skadad-efter-olycka-i-racehall",
+   "desc": "En person har fått allvarliga skador efter en gokart-olycka i en racehall i Botkyrka, skriver polisen på sin hemsida. Föraren har förts till sjukhus med ambulanshelikopter."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Flicka i Klippan biten i ansiktet av hund",
-   "date": "2026-08-29T11:12:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/flicka-i-klippan-biten-i-ansiktet-av-hund",
-   "desc": "En flicka i Klippan har förts till sjukhus med ambulans efter att hon blivit biten i ansiktet av en större hund. – Vi kommer upprätta en anmälan om vållande till kroppsskada, säger Patric Fors, polisens presstalesperson."
+   "title": "Häktade tonårspojken i Fagersta utreds för egna mordplaner",
+   "date": "2026-08-29T14:49:02.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/haktade-tonarspojken-i-fagersta-utreds-for-egna-mordplaner",
+   "desc": "Tonårspojken som häktats misstänkt för medhjälp till mord i skoldådet i Fagersta utreds också för att ha haft egna mordplaner, bekräftar polisen för Ekot."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Se den fräcka konststölden i centrala Umeå – hittades månader senare",
-   "date": "2026-08-29T11:02:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/se-den-fracka-konststolden-i-centrala-umea-hittades-manader-senare",
-   "desc": "Konstverket i centrala Umeå hann bara vara uppe i några timmar – sen försvann det spårlöst under natten. Månader senare hittades det i en lägenhet. Nu döms en man i 50-årsåldern för stölden."
+   "title": "Åkessons känga till KD: Går det att lita på Ebba Busch?",
+   "date": "2026-08-29T14:09:53.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/akessons-kanga-till-kd-gar-det-att-lita-pa-ebba-busch",
+   "desc": "KD-ledaren Ebba Busch har sagt att hon kan komma att släppa fram Magdalena Andersson (S) som statsminister i fall av ”krig, kris och exceptionellt läge”. Det oroar Sverigedemokraternas Jimmie Åkesson. – Det är uppenbart att man från Ebbas sida haft en slags strategi att flörta vänsterut, säger han till SVT Nyheter."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Attack mot Nigers huvudstad Niamey",
-   "date": "2026-08-29T08:56:26.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/attack-mot-nigers-huvudstad",
-   "desc": "En attack ska ha skett mot Nigers huvudstad Niamey. Statstelevisionens sändningar rapporteras ha avbrutits och enligt en säkerhetskälla har ”terrorister” försökt bryta sig in i säkerhetszonen runt presidentpalatset, skriver Reuters. Nigers försvarsdepartement går ut med att det rör sig om myteri."
+   "title": "Gokart-förare allvarligt skadad efter olycka",
+   "date": "2026-08-29T15:20:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forare-allvarligt-skadad-efter-olycka-i-racehall",
+   "desc": "En person har fått allvarliga skador efter en gokart-olycka i en racehall i Botkyrka, skriver polisen på sin hemsida. Föraren har förts till sjukhus med ambulanshelikopter."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Löparna trotsar ösregnet – se starten på halvmaran",
+   "date": "2026-08-29T14:40:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/loparna-trotsar-osregnet-se-starten-pa-halvmaran",
+   "desc": "Regnet stod som spön i backen när startskottet för Stockholms halvmaraton gick av. Inför loppet hade 20 000 löpare anmält sig – hur gick tankarna inför starten? Hör mer i videon ovan."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-08-28T18:44:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/raddningsinsats-vid-rudasjon-efter-larm-om-drunkning",
    "desc": "En person har hittats död i Rudasjön i Haninge. Personen hittades efter en stor sökinsats med polis, räddningstjänst och dykare."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 28 augusti",
-   "date": "2026-08-28T17:55:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-28-augusti-j15wie",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under fredagen den 28 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Haninge kommun lämnade ut personalens mejladresser – för politisk reklam",
-   "date": "2026-08-28T15:52:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/haninge-kommun-lamnade-ut-personalens-mejladresser-for-politisk-reklam",
-   "desc": "Lokalpolitikern Dilan Lotfi (MP) pekades ut för att ha brutit mot GDPR när han mejlade politisk reklam till kommunala tjänstemän i Haninge. Men enligt Lotfi själv är det kommunen som har lämnat ut mejllistan – och nu medger kommundirektören att man agerat felaktigt."
   },
   {
    "src": "BBC",
