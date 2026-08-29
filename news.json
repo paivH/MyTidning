@@ -1,85 +1,101 @@
 {
- "updated": "2026-08-28T17:34:27.580Z",
+ "updated": "2026-08-29T01:25:46.068Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-   "date": "2026-08-28T10:35:06.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood."
+   "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+   "date": "2026-08-28T22:05:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+   "desc": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-   "date": "2026-08-28T13:50:34.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday."
+   "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+   "date": "2026-08-29T01:21:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Venezuela's interim president, Delcy Rodriguez, hailed the deal as significant to her country's revival."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Violence breaks out in Ceuta as migrant crisis continues",
-   "date": "2026-08-28T16:30:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-   "desc": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach."
+   "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+   "date": "2026-08-29T00:32:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+   "desc": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-   "date": "2026-08-28T17:29:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-   "desc": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery."
+   "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+   "date": "2026-08-28T19:40:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+   "desc": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "World's youngest reigning traditional monarch dies aged 34",
-   "date": "2026-08-28T11:13:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-   "desc": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old."
+   "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+   "date": "2026-08-29T00:46:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+   "desc": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Minnescermoni efter skoldådet i Fagersta",
+   "title": "Här slår Ludvig Åberg dagens slag i PGA-finalen: ”Otroligt”",
+   "date": "2026-08-28T21:37:14.000Z",
+   "link": "https://www.svt.se/sport/golf/har-slar-ludvig-aberg-dagens-slag-i-pga-finalen-otroligt",
+   "desc": "Ludvig Åberg har fortsatt tätkänning efter två spelade rundor av Tour Championship, PGA-finalen. Dels tack vare ett slag som kommentatorn kallar overkligt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Axelina Johansson om kommentarerna efter EM: ”Mobbning”",
+   "date": "2026-08-28T20:41:56.000Z",
+   "link": "https://www.svt.se/sport/friidrott/axelina-johansson-om-kommentarerna-efter-em-mobbning",
+   "desc": "Axelina Johansson hade ett tufft EM. Ännu jobbigare blev det på kvällen efter finalen. – Jag gick in och läste vad folk skrev om mig på sociala medier. Det var nästan som mobbning, säger hon."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här gör Gripen F sin första flygning",
+   "date": "2026-08-28T17:46:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/har-gor-gripen-f-sin-forsta-flygning",
+   "desc": "På fredagen genomfördes den första flygningen med Gripen F – den tvåsitsiga varianten av Gripen E. Klockan 09.40 lyfte planet från Saabs flygfält i Linköping och flög sedan i 40 minuter."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Störtfloden svepte förbi honom: ”Enormt dån”",
+   "date": "2026-08-28T17:34:55.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/stortfloden-svepte-forbi-honom-enormt-dan",
+   "desc": "Italienske Stefano Lotumolo klarade sig precis undan det massiva lerskredet i Nepal. Han berättar hur han såg störtfloden komma emot honom. – Vid ett tillfälle hörde vi ett enormt dån och såg att ett berg hade rasat bara 30 meter från oss, säger han till AP."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Minnesceremoni efter skoldådet: ”En iskall vind över Fagersta”",
    "date": "2026-08-28T16:11:14.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/minnesceremoni-i-fagersta-sonja-alden-sjunger-for-att-hedra-offren-for-skoldadet",
-   "desc": "Klockan 18.30 på fredagen arrangerar Fagersta kommun en minnesceremoni i Vilhelminaparken med anledning av förra veckans skoldåd på Brinellskolan. SVT sänder live."
+   "desc": "En vecka efter skoldådet i Fagersta hölls en minnesstund i Vilhelminaparken. – Det kom en iskall vind med mörker, sorg och död, sade Västmanlands landshövding Acko Ankarberg Johansson som var en av kvällens talare."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Filipstad utses till knäckbrödshuvudstad – Oprah Winfrey blir hedersmedborgare",
-   "date": "2026-08-28T15:38:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/filipstad-utses-till-knackbrodshuvudstad",
-   "desc": "Gastronomiska akademien har beslutat att utse Filipstad till världens knäckebrödshuvudstad. I samband med det blir även talkshowvärden Oprah Winfrey en av stadens hedersmedborgare."
+   "title": "Person hittad död efter räddningsinsats i Rudasjön",
+   "date": "2026-08-28T18:44:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/raddningsinsats-vid-rudasjon-efter-larm-om-drunkning",
+   "desc": "En person har hittats död i Rudasjön i Haninge. Personen hittades efter en stor sökinsats med polis, räddningstjänst och dykare."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kärnkraftsmotstånd i Valdemarsvik – protestlistor överlämnades",
-   "date": "2026-08-28T15:27:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/karnkraftsmotstand-i-valdemarsvik-protestlistor-overlamnades",
-   "desc": "På fredagseftermiddagen överlämnade föreningen Nej till kärnkraft i Valdemarsvik sin namninsamlingslista till Valdemarsviks kommunledning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kung Harald är död – svenska partiledarnas reaktioner",
-   "date": "2026-08-28T15:04:07.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/kung-harald-ar-dod-svenska-partiledarnas-reaktioner",
-   "desc": "Norges kung Harald V har avlidit efter en tids sjukdom. Här är de svenska politikernas reaktioner."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Söderköpings Gästabud firar 20 år: ”Det finns något för alla”",
-   "date": "2026-08-28T14:27:10.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/soderkopings-gastabud-firar-20-ar-det-finns-nagot-for-alla",
-   "desc": "Söderköpings Gästabud är tillbaka och i år firar evenemanget 20 år. Mellan den 28 och 30 augusti fylls staden av historiska upplevelser och aktiviteter."
+   "title": "Nyheter från dagen: 28 augusti",
+   "date": "2026-08-28T17:55:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-28-augusti-j15wie",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under fredagen den 28 augusti."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-08-28T12:02:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/skolelever-kastade-pinnar-pa-babianerna-pa-skansen",
    "desc": "En klass gymnasieelever ska ha löpt amok på Skansen under fredagen. Ungdomarna kastade pinnar på babianerna, jagade grisar och tog över en golfbil, enligt Aftonbladet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Flaggar på halv stång för kung Harald V",
-   "date": "2026-08-28T08:14:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/flaggar-pa-halv-stang-for-kung-harald-v",
-   "desc": "Norges kung Harald V är död. Vid Kungliga slottet och riksdagen i Stockholm hissas flaggan på halv stång under fredagen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Skuldsatta personer blir av med kontanter och ägodelar på Arlanda",
-   "date": "2026-08-28T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skuldsatta-personer-blir-av-med-kontanter-och-agodelar-pa-arlanda",
-   "desc": "Sedan den 1 juli i år kan personer med skulder till Kronofogden bli av med sin ägodelar och kontanter om de kontrolleras av Tullverket, Kustbevakningen eller Ekobrottsmyndigheten. Men hittills har relativt få distansutmätningar gjorts av de tre nytillkomna myndigheterna. – Det är en övergångsperiod inledningsvis innan nya rutiner har satt sig. Det börjar försiktigt, säger verksamhetsutvecklare Henrik Eriksson vid Kronofogden."
   },
   {
    "src": "BBC",
