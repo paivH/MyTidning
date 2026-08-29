@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T08:05:08.627Z",
+ "updated": "2026-08-29T13:55:14.058Z",
  "items": [
   {
    "src": "BBC",
@@ -12,8 +12,16 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+   "date": "2026-08-29T12:55:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+   "desc": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-   "date": "2026-08-29T02:42:27.000Z",
+   "date": "2026-08-29T13:16:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
    "desc": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
   },
@@ -34,52 +42,44 @@
    "desc": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-   "date": "2026-08-29T00:46:02.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-   "desc": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Judiska företrädare kritiska mot politisering av antisemitism: ”Slagträn”",
+   "date": "2026-08-29T13:34:29.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/judiska-foretradare-kritiska-mot-politisering-av-antisemitism-slagtran",
+   "desc": "Simona Mohamsson bär davidsstjärnan när hon attackerar Vänsterpartiet. Jimmie Åkesson poserar med boken @Stoltjude samtidigt som han rasar mot islamism. Judiska företrädare är kritiska mot att antisemitism blir ett slagträ i debatten. – Vi vill inte bli använda som verktyg för att smutskasta andra, säger Naomi Manderman på Judiska ungdomsförbundet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bayern München med kross i ligapremiären",
-   "date": "2026-08-29T06:41:35.000Z",
-   "link": "https://www.svt.se/sport/fotboll/bayern-munchen-med-kross-i-ligapremiaren",
-   "desc": "Bayern München och Stuttgart sparkade på fredagskvällen i gång Bundesligasäsongen. Då vann hemmalaget med 5–1. – Vi hade släppt in åtta eller nio mål om inte vår målvakt storspelade, konstaterar Stuttgarts lagkapten Deniz Undav efter matchen, enligt Kicker."
+   "title": "Alvar Myhlback vinner Alliansloppet – efter stor förvirring",
+   "date": "2026-08-29T12:42:52.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/alvar-myhlback-vinner-alliansloppet-efter-stor-forvirring",
+   "desc": "Alvar Myhlback försvarade sin titel. 20-åringen tog hem Alliansloppet under lördagen – efter märkliga bilder i slutskedet av tävlingen. – Det var lite kaos, säger han i TV4."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Anna Nordqvist klättrar i sista tävlingen",
-   "date": "2026-08-29T06:35:31.000Z",
-   "link": "https://www.svt.se/sport/golf/anna-nordqvist-klattrar-i-sista-tavlingen",
-   "desc": "Anna Nordqvist kommer få spela vidare i helgen efter en stark andrarunda på LPGA-tävlingen i Boston. – Jag ska försöka att inte gråta, säger svenskan till Viaplay."
+   "title": "Flicka i Klippan biten i ansiktet av hund",
+   "date": "2026-08-29T11:12:45.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/flicka-i-klippan-biten-i-ansiktet-av-hund",
+   "desc": "En flicka i Klippan har förts till sjukhus med ambulans efter att hon blivit biten i ansiktet av en större hund. – Vi kommer upprätta en anmälan om vållande till kroppsskada, säger Patric Fors, polisens presstalesperson."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Jordskred i Nepal – detta vet vi",
-   "date": "2026-08-29T06:34:53.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/jordkred-i-nepal-detta-vet-vi",
-   "desc": "Ett kraftigt jordskred har drabbat Himalaya-regionen mellan Nepal och Tibet. 626 personer har hittills bekräftats döda och över 2 400 saknas. Samtidigt är det svårt att få insyn i kinesisk-kontrollerade Tibet. Det här vet vi om katastrofen hittills."
+   "title": "Se den fräcka konststölden i centrala Umeå – hittades månader senare",
+   "date": "2026-08-29T11:02:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/se-den-fracka-konststolden-i-centrala-umea-hittades-manader-senare",
+   "desc": "Konstverket i centrala Umeå hann bara vara uppe i några timmar – sen försvann det spårlöst under natten. Månader senare hittades det i en lägenhet. Nu döms en man i 50-årsåldern för stölden."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "KD-toppen sprider klipp som ifrågasätter svält i Gaza",
-   "date": "2026-08-29T05:51:50.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/kd-toppen-sprider-klipp-som-ifragasatter-svalt-i-gaza",
-   "desc": "”Nya uppgifter undergräver påståenden om svält i Gaza.” Så inleds ett klipp från det amerikanska, proisraeliskt profilerade mediet The Free Press. Men de nya uppgifterna säger ingenting om hur situationen såg ut under svälten i Gaza, enligt Unicef som är källan till uppgifterna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Vem är kronprinsessan Ingrid Alexandra av Norge?",
-   "date": "2026-08-29T05:20:03.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/vem-ar-kronprinsessan-ingrid-alexandra-av-norge",
-   "desc": "Kronprinsessan Ingrid Alexandra är Norges första kvinnliga tronarvinge någonsin. Hela hennes liv har präglats av ämbetet hon en dag ska ta över."
+   "title": "Attack mot Nigers huvudstad Niamey",
+   "date": "2026-08-29T08:56:26.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/attack-mot-nigers-huvudstad",
+   "desc": "En attack ska ha skett mot Nigers huvudstad Niamey. Statstelevisionens sändningar rapporteras ha avbrutits och enligt en säkerhetskälla har ”terrorister” försökt bryta sig in i säkerhetszonen runt presidentpalatset, skriver Reuters. Nigers försvarsdepartement går ut med att det rör sig om myteri."
   },
   {
    "src": "STHLM",
