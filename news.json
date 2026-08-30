@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T00:34:59.200Z",
+ "updated": "2026-08-30T06:11:48.532Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,22 @@
    "date": "2026-08-29T03:54:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
    "desc": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Iceland EU referendum on a knife edge as counting continues",
+   "date": "2026-08-30T03:57:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+   "desc": "A vote on whether to resume membership talks with the European Union is too close to call."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "WhatsApp chat used to send cash for crime and extremism",
+   "date": "2026-08-30T04:59:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+   "desc": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
   },
   {
    "src": "BBC",
@@ -26,60 +42,60 @@
    "desc": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Canada installs large Lake Ontario sign in latest jab at US",
-   "date": "2026-08-30T00:17:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\""
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Norway's new king remembers 'my dear father' in first speech",
-   "date": "2026-08-29T19:06:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Skottlossning på rejv i Aarau i Schweiz – flera uppges skadade",
+   "date": "2026-08-30T05:25:29.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/skottlossning-pa-rejv-i-schweiz-flera-skadade",
+   "desc": "En stor polisinsats pågår i staden Aarau i norra Schweiz efter att skott avlossats på ett rejv. Flera personer uppges vara skadade, enligt schweiziska medier."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man allvarligt skadad efter olycka med cross i Vilhelmina",
-   "date": "2026-08-29T19:43:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-allvarligt-skadad-efter-olycka-med-cross-i-vilhelmina",
-   "desc": "En man ska ha voltat med sin crossmotorcykel på en väg strax utanför Vilhemina på lördagen, och skadats svårt."
+   "title": "Åberg imponerar – skuggar ledande norrman",
+   "date": "2026-08-30T04:20:22.000Z",
+   "link": "https://www.svt.se/sport/golf/aberg-imponerar-skuggar-ledande-norrman",
+   "desc": "Ludvig Åberg fortsätter att imponera i finalen av PGA-slutspelet. Efter hela sju birdies på lördagen har svensken tre slag upp till ledande norrmannen Viktor Hovland. – Allt handlar om att fokusera på mitt spel, säger Åberg till PGA-tourens kanaler inför söndagens avgörande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Byn i Nepal sveptes bort av flodvågen: ”Täckt av lera”",
-   "date": "2026-08-29T18:27:25.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/byn-i-nepal-sveptes-bort-av-flodvagen-tackt-av-lera",
-   "desc": "Byn Devighat i Nepal sveptes bort med den massiva flodvågen i veckan. SVT:s team har besökt orten. – Samhället hade tidigare ett par hundra hus – många är bortspolade idag, säger Stefan Åsberg, SVT:s Asienkorrespondent, på plats i Nepal."
+   "title": "Karismatisk eller kompetent – så tycker väljarna om partiledarna",
+   "date": "2026-08-30T04:17:16.000Z",
+   "link": "https://www.svt.se/special/sa-tycker-valjarna-om-partiledarna/",
+   "desc": ""
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kung Haakon höll sitt första tal som kung: ”Tack pappa”",
-   "date": "2026-08-29T17:35:16.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/kung-haakon-holl-sitt-forsta-tal-som-kung-tack-pappa",
-   "desc": "Kung Haakon VIII av Norge har talat till folket för första gången. Han tackade alla som sörjer med och stöttar kungafamiljen efter kung Haralds död, samt sin far för hela hans gärning. – Kära far. Tack för att du var en så bra pappa."
+   "title": "Kristersson som bäst trea när väljare betygsätter partiledarna",
+   "date": "2026-08-30T04:02:34.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/kristersson-som-bast-trea-nar-valjare-betygsatter-partiledarna",
+   "desc": "I väljarnas rankning av partiledarnas positiva egenskaper hamnar Magdalena Andersson högst i de flesta kategorier. Statsministern blir däremot som bäst tre, enligt en undersökning från SVT Verian. – Med tanke på att han är statsminister och leder större parti så är det lite överraskande, säger Tommy Möller, professor i statsvetenskap vid Stockholms universitet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Daniel Ståhl ledde svensk trippel – i 13:e raka Finnkampssegern",
-   "date": "2026-08-29T16:07:43.000Z",
-   "link": "https://www.svt.se/sport/friidrott/daniel-stahl-ledde-svensk-trippel-i-13e-raka-finnkampssegern",
-   "desc": "Det blev svensk trippel i männens diskus. Och en trettonde raka Finnkampsvinst för Daniel Ståhl. – Detta är helt underbart, jag älskar Finnkampen, säger Ståhl efter vinsten."
+   "title": "Rikvsäg 62 en valfråga i Torsby – Moderaterna vill avskaffa Natura 2000",
+   "date": "2026-08-30T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/rikvsag-62-en-valfraga-i-torsby-moderaterna-vill-avskaffa-natura-2000",
+   "desc": "Den rashotade riksväg 62 har blivit en valfråga i kommunvalet i Torsby. Moderaterna lovar att avskaffa Natura 2000-klassningen av Klarälven medan Socialdemokraterna lovar att en ny regering ska fixa vägen. Men enligt Naturvårdsverket är båda förslagen orealistiska."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ett samarbete i begynnande sönderfall?",
-   "date": "2026-08-29T15:34:47.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ett-samarbete-i-begynnande-sonderfall",
-   "desc": "Det gnisslar rejält mellan Tidöpartierna just nu. Med ett tufft opinionsläge ligger irritationen nära. SD-ledaren Jimmie Åkessons angrepp på KD-ledaren Ebba Busch är ett tydligt exempel på det."
+   "title": "Man gripen efter misstänkt dråpförsök på Lidingö",
+   "date": "2026-08-30T05:47:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-gripen-efter-misstankt-drapforsok-pa-lidingo",
+   "desc": "En man i 60-årsåldern har gripits efter att ha misshandlat en kvinna utomhus på Lidingö under natten. Mannen och kvinnan ska ha haft en relation."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Övergivna köpcentret Stinsen i Sollentuna blir klubbscen",
+   "date": "2026-08-30T03:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/overgivna-kopcentret-stinsen-i-sollentuna-blir-klubbscen",
+   "desc": "Stinsen i Sollentuna har stått tomt en längre tid. Men nu ska köpcentret fyllas med musik och kultur – och först ut är den nya festivalen Mall Call. Några av världens ledande artister inom elektronisk dansmusik kommer spela i det 30 000 kvadratmeter stora köpcentret."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-08-29T14:40:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/loparna-trotsar-osregnet-se-starten-pa-halvmaran",
    "desc": "Regnet stod som spön i backen när startskottet för Stockholms halvmaraton gick av. Inför loppet hade 20 000 löpare anmält sig – hur gick tankarna inför starten? Hör mer i videon ovan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Halvmaraton och taxparad i Stockholm – polisen uppmanar: ”Lämna bilen hemma”",
-   "date": "2026-08-29T07:43:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/halvmaraton-och-taxparad-i-stockholm-polisen-uppmanar-lamna-bilen-hemma",
-   "desc": "Halvmaraton och taxparad, under helgen pågår många evenemang i Stockholm något som medför avstängda gator och trafikstörningar. Polisen uppmanar bilister att lämna bilen hemma och ta tunnelbanan eller spårvagnen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bostäder tar över parkering – splittrar Väsbys politiker",
-   "date": "2026-08-29T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bostader-tar-over-parkering-splittrar-vasbys-politiker",
-   "desc": "Förslaget att ersätta den stora parkeringen utanför Väsby centrum med 600 lägenheter har seglat upp som en lokal valfråga. Moderaterna är kritiska mot planerna. – Det blir färre parkeringar, och dyrare, säger Oskar Weinmar (M), oppositionsråd."
   },
   {
    "src": "BBC",
