@@ -1,37 +1,29 @@
 {
- "updated": "2026-08-30T12:06:31.611Z",
+ "updated": "2026-08-30T16:53:44.232Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iceland votes against restarting talks on joining EU",
-   "date": "2026-08-30T10:49:11.000Z",
+   "title": "Iceland votes against restarting EU membership talks",
+   "date": "2026-08-30T16:11:44.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-   "desc": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
+   "desc": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-   "date": "2026-08-30T11:25:11.000Z",
+   "date": "2026-08-30T12:44:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
    "desc": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
-   "date": "2026-08-30T00:17:25.000Z",
+   "title": "Canada installs large Lake Ontario sign in latest jab at US",
+   "date": "2026-08-30T14:25:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
    "desc": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\""
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Boat carrying some 270 people capsizes off northern Cyprus, local media report",
-   "date": "2026-08-30T11:55:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-   "desc": "The local mayor says 159 passengers have been reached so far, with a rescue operation under way."
   },
   {
    "src": "BBC",
@@ -42,44 +34,20 @@
    "desc": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Passagerarfärja har kapsejsat utanför Cypern",
-   "date": "2026-08-30T11:09:35.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/passagerarfarja-med-runt-270-personer-sjunker-utanfor-cypern",
-   "desc": "En passagerarfärja med 267 personer har kapsejsat utanför norra Cypern, uppger cypriotisk media. Sök- och räddningsinsats pågår."
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russia says it helped to repel Niger attempted coup",
+   "date": "2026-08-30T16:33:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+   "desc": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Andreas Almgrens plan efter Finnkampen: Två mils löpning och derby",
-   "date": "2026-08-30T09:14:43.000Z",
-   "link": "https://www.svt.se/sport/friidrott/andreas-almgrens-plan-efter-finnkampen-tva-mils-lopning-och-derby",
-   "desc": "Andreas Almgren är inne i sin första maratonperiod någonsin. Det innebär en hel del löpning – som ibland krockar med annat. – Jag ska springa två mil och försöka kolla på derbyt också, säger han om vad som väntar direkt efter Finnkampen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Chatt: Vad undrar du om klimatpolitiken?",
-   "date": "2026-08-30T08:48:56.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/chatt-vad-undrar-du-om-klimatpolitiken",
-   "desc": "I kväll sänds Agendas klimatpolitiska debatt med representanter från alla åtta riksdagspartier. Redan nu kan du chatta med SVT:s politikreporter Julia Lindvall."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Teamchefen om beslutet som fråntog Alvar Myhlback segern: ”Helt fel”",
-   "date": "2026-08-30T07:13:25.000Z",
-   "link": "https://www.svt.se/sport/rullskidor/teamchefen-om-beslutet-som-frantog-alvar-myhlback-segern-helt-fel",
-   "desc": "Alvar Myhlback fråntogs segern efter Alliansloppet i går. Teamchefen i Lager 157, Anton Järnberg, är kritisk mot juryns beslut. – De gör en bedömningssport av det. Där går man åt helt fel håll för sporten och arrangemanget, säger han till SVT Sport"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lionel Messis nya uppvisning – stod för fyra mål i Miamis kross",
-   "date": "2026-08-30T06:25:23.000Z",
-   "link": "https://www.svt.se/sport/fotboll/lionel-messis-nya-uppvisning-stod-for-fyra-mal-i-miamis-kross",
-   "desc": "Lionel Messi var återigen på spelhumör i natt. 39-åringen stod för fyra mål i Inter Miamis 7–1-kross mot Montreal. – Vi måste njuta av de här ögonblicken, eftersom han är en person och en spelare som skriver historia, säger lagkamraten Casemiro till Apple TV."
+   "title": "Här tassar tusen taxar in i paraden på Strandvägen",
+   "date": "2026-08-30T14:16:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-tassar-tusen-taxar-in-i-paraden-pa-strandvagen",
+   "desc": "Utklädda till prinssessor, drakar och korvar traskade 1 500 taxar med i paraden på Strandvägen. För tredje året i rad gick Stockholms taxparad av stapeln mellan Strandvägen och Djurgården. – Det är kul att visa upp de här fina underbara hundarna, säger Mathz Fransson grundare av taxparaden."
   },
   {
    "src": "STHLM",
@@ -112,14 +80,6 @@
    "date": "2026-08-29T15:20:18.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/forare-allvarligt-skadad-efter-olycka-i-racehall",
    "desc": "En person har fått allvarliga skador efter en gokart-olycka i en racehall i Botkyrka, skriver polisen på sin hemsida. Föraren har förts till sjukhus med ambulanshelikopter."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Löparna trotsar ösregnet – se starten på halvmaran",
-   "date": "2026-08-29T14:40:15.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/loparna-trotsar-osregnet-se-starten-pa-halvmaran",
-   "desc": "Regnet stod som spön i backen när startskottet för Stockholms halvmaraton gick av. Inför loppet hade 20 000 löpare anmält sig – hur gick tankarna inför starten? Hör mer i videon ovan."
   },
   {
    "src": "BBC",
