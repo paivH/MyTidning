@@ -1,13 +1,21 @@
 {
- "updated": "2026-08-30T19:37:29.784Z",
+ "updated": "2026-08-30T22:21:32.046Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
-   "date": "2026-08-30T18:31:17.000Z",
+   "date": "2026-08-30T20:02:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
    "desc": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+   "date": "2026-08-30T21:15:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+   "desc": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July."
   },
   {
    "src": "BBC",
@@ -28,58 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
-   "date": "2026-08-30T18:53:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Canada installs large Lake Ontario sign in latest jab at US",
-   "date": "2026-08-30T14:25:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\""
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sprickan sätter hård press på statsministern",
-   "date": "2026-08-30T19:13:41.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sprickan-satter-hard-press-pa-statsministern",
-   "desc": "Sprickan inom Tidösamarbetet sätter hård press på statsminister Ulf Kristersson. Länge var regeringsfrågan ett trumfkort för honom. Men med två veckor kvar till valdagen kan det trumfkortet vara på väg att glida honom ur händerna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kristersson: ”Kommer inte att göra en Annie Lööf”",
-   "date": "2026-08-30T18:40:25.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/kristersson-kommer-inte-att-gora-en-annie-loof",
-   "desc": "Ulf Kristersson misstror inte Ebba Busch (KD), efter ordväxlingen med Jimmie Åkesson (SD). – Ebba Busch kommer inte att göra en ”Annie Lööf” och plötsligt byta sida, säger M-ledaren i SVT:s partiledarutfrågning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kristoffer Nordfeldt hyllas efter derbysegern: ”Han står på huvudet”",
-   "date": "2026-08-30T15:55:56.000Z",
-   "link": "https://www.svt.se/sport/fotboll/kristoffer-nordfeldt-hyllas-efter-derbysegern-han-star-pa-huvudet",
-   "desc": "Ett nederlagstippat AIK slog Hammarby i 08-derbyt. Kristoffer Nordfeldt stod på huvudet. – Man förstår varför han är med i landslaget, säger Linus Carlstrand till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Paulos Abraham svarar efter ryktena: ”Blandade känslor”",
-   "date": "2026-08-30T15:45:45.000Z",
-   "link": "https://www.svt.se/sport/fotboll/paulos-abraham-svarar-efter-ryktena-blandade-kanslor",
-   "desc": "Bud fanns. Men Paulos Abraham blir kvar i Hammarby. – Det har varit blandade känslor, säger han efter derbyförlusten mot AIK."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sixten Gustafsson, 19, derbyhjälte för AIK – sänkte Hammarby",
-   "date": "2026-08-30T13:55:45.000Z",
-   "link": "https://www.svt.se/sport/fotboll/sixten-gustavsson-19-derbyhjalte-for-aik-sankte-hammarby",
-   "desc": "08-derbyt stod och vägde. Då klev Sixten Gustafsson, 19, fram – och satte 3–2 för AIK mot Hammarby med ett klassavslut. – Jag får en perfekt träff. Det kan inte bli ett bättre avslut. Och när jag ser den segla så exploderar hela arenan, säger tonåringen till SVT Sport."
+   "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+   "date": "2026-08-30T22:14:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday."
   },
   {
    "src": "STHLM",
