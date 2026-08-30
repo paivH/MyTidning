@@ -1,21 +1,37 @@
 {
- "updated": "2026-08-30T06:11:48.532Z",
+ "updated": "2026-08-30T12:06:31.611Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-   "date": "2026-08-29T03:54:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-   "desc": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
+   "title": "Iceland votes against restarting talks on joining EU",
+   "date": "2026-08-30T10:49:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+   "desc": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iceland EU referendum on a knife edge as counting continues",
-   "date": "2026-08-30T03:57:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-   "desc": "A vote on whether to resume membership talks with the European Union is too close to call."
+   "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+   "date": "2026-08-30T11:25:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+   "desc": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+   "date": "2026-08-30T00:17:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\""
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Boat carrying some 270 people capsizes off northern Cyprus, local media report",
+   "date": "2026-08-30T11:55:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+   "desc": "The local mayor says 159 passengers have been reached so far, with a rescue operation under way."
   },
   {
    "src": "BBC",
@@ -26,60 +42,44 @@
    "desc": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-   "date": "2026-08-29T20:13:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-   "desc": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-   "date": "2026-08-29T17:52:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-   "desc": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Passagerarfärja har kapsejsat utanför Cypern",
+   "date": "2026-08-30T11:09:35.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/passagerarfarja-med-runt-270-personer-sjunker-utanfor-cypern",
+   "desc": "En passagerarfärja med 267 personer har kapsejsat utanför norra Cypern, uppger cypriotisk media. Sök- och räddningsinsats pågår."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Skottlossning på rejv i Aarau i Schweiz – flera uppges skadade",
-   "date": "2026-08-30T05:25:29.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/skottlossning-pa-rejv-i-schweiz-flera-skadade",
-   "desc": "En stor polisinsats pågår i staden Aarau i norra Schweiz efter att skott avlossats på ett rejv. Flera personer uppges vara skadade, enligt schweiziska medier."
+   "title": "Andreas Almgrens plan efter Finnkampen: Två mils löpning och derby",
+   "date": "2026-08-30T09:14:43.000Z",
+   "link": "https://www.svt.se/sport/friidrott/andreas-almgrens-plan-efter-finnkampen-tva-mils-lopning-och-derby",
+   "desc": "Andreas Almgren är inne i sin första maratonperiod någonsin. Det innebär en hel del löpning – som ibland krockar med annat. – Jag ska springa två mil och försöka kolla på derbyt också, säger han om vad som väntar direkt efter Finnkampen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Åberg imponerar – skuggar ledande norrman",
-   "date": "2026-08-30T04:20:22.000Z",
-   "link": "https://www.svt.se/sport/golf/aberg-imponerar-skuggar-ledande-norrman",
-   "desc": "Ludvig Åberg fortsätter att imponera i finalen av PGA-slutspelet. Efter hela sju birdies på lördagen har svensken tre slag upp till ledande norrmannen Viktor Hovland. – Allt handlar om att fokusera på mitt spel, säger Åberg till PGA-tourens kanaler inför söndagens avgörande."
+   "title": "Chatt: Vad undrar du om klimatpolitiken?",
+   "date": "2026-08-30T08:48:56.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/chatt-vad-undrar-du-om-klimatpolitiken",
+   "desc": "I kväll sänds Agendas klimatpolitiska debatt med representanter från alla åtta riksdagspartier. Redan nu kan du chatta med SVT:s politikreporter Julia Lindvall."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Karismatisk eller kompetent – så tycker väljarna om partiledarna",
-   "date": "2026-08-30T04:17:16.000Z",
-   "link": "https://www.svt.se/special/sa-tycker-valjarna-om-partiledarna/",
-   "desc": ""
+   "title": "Teamchefen om beslutet som fråntog Alvar Myhlback segern: ”Helt fel”",
+   "date": "2026-08-30T07:13:25.000Z",
+   "link": "https://www.svt.se/sport/rullskidor/teamchefen-om-beslutet-som-frantog-alvar-myhlback-segern-helt-fel",
+   "desc": "Alvar Myhlback fråntogs segern efter Alliansloppet i går. Teamchefen i Lager 157, Anton Järnberg, är kritisk mot juryns beslut. – De gör en bedömningssport av det. Där går man åt helt fel håll för sporten och arrangemanget, säger han till SVT Sport"
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kristersson som bäst trea när väljare betygsätter partiledarna",
-   "date": "2026-08-30T04:02:34.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/kristersson-som-bast-trea-nar-valjare-betygsatter-partiledarna",
-   "desc": "I väljarnas rankning av partiledarnas positiva egenskaper hamnar Magdalena Andersson högst i de flesta kategorier. Statsministern blir däremot som bäst tre, enligt en undersökning från SVT Verian. – Med tanke på att han är statsminister och leder större parti så är det lite överraskande, säger Tommy Möller, professor i statsvetenskap vid Stockholms universitet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Rikvsäg 62 en valfråga i Torsby – Moderaterna vill avskaffa Natura 2000",
-   "date": "2026-08-30T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/rikvsag-62-en-valfraga-i-torsby-moderaterna-vill-avskaffa-natura-2000",
-   "desc": "Den rashotade riksväg 62 har blivit en valfråga i kommunvalet i Torsby. Moderaterna lovar att avskaffa Natura 2000-klassningen av Klarälven medan Socialdemokraterna lovar att en ny regering ska fixa vägen. Men enligt Naturvårdsverket är båda förslagen orealistiska."
+   "title": "Lionel Messis nya uppvisning – stod för fyra mål i Miamis kross",
+   "date": "2026-08-30T06:25:23.000Z",
+   "link": "https://www.svt.se/sport/fotboll/lionel-messis-nya-uppvisning-stod-for-fyra-mal-i-miamis-kross",
+   "desc": "Lionel Messi var återigen på spelhumör i natt. 39-åringen stod för fyra mål i Inter Miamis 7–1-kross mot Montreal. – Vi måste njuta av de här ögonblicken, eftersom han är en person och en spelare som skriver historia, säger lagkamraten Casemiro till Apple TV."
   },
   {
    "src": "STHLM",
