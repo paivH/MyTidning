@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-30T09:22:41.498Z",
+ "updated": "2026-08-31T09:57:52.983Z",
  "items": [
   {
-   "ingredient": "kålrot",
-   "idea": "Snabbinlagd kålrot: strimla tunt, koka lag 1:1:1 ättika, socker, vatten – klar på 30 minuter, perfekt till smörgås."
-  },
-  {
-   "ingredient": "majs",
-   "idea": "Grilla majskolvar i het stekpanna, pensla med chilismör och lime – klart på tio minuter, snabb vardagsmiddag."
-  },
-  {
    "ingredient": "plommon",
-   "idea": "Fermentera halverade plommon med 2% salt i fem dagar – syrlig, funky chutney till ost eller grillat."
+   "idea": "Snabbinlägg plommon: koka ättika, socker, vatten 1:1:1, häll över halverade plommon, låt dra ett dygn i kylen."
   },
   {
    "ingredient": "kantareller",
-   "idea": "Baka surdegsbröd med smörstekta kantareller inbakade i degen – djup smak, krispig gyllene skorpa på ytan."
+   "idea": "Smörstek kantareller hastigt på hög värme, servera på nybakat surdegsbröd med lite salt och persilja."
+  },
+  {
+   "ingredient": "grönkål",
+   "idea": "Fermentera grönkål kimchi-style: massera med 2% salt, packa i burk, låt stå 5 dagar i rumstemperatur."
+  },
+  {
+   "ingredient": "majs",
+   "idea": "Snabbpickla kokta majskorn i ättikslag 1:1:0.5 (ättika:socker:vatten) med dill, kyl minst 24 timmar."
   }
  ]
 }
