@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-31T00:44:05.216Z",
+ "updated": "2026-08-31T06:36:56.786Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
-   "date": "2026-08-30T20:02:43.000Z",
+   "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+   "date": "2026-08-31T03:56:15.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
    "desc": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-   "date": "2026-08-30T23:53:03.000Z",
+   "title": "US and Iran trade strikes for first time in weeks",
+   "date": "2026-08-31T05:49:37.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-   "desc": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July."
+   "desc": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others."
   },
   {
    "src": "BBC",
@@ -42,6 +42,62 @@
    "desc": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC."
   },
   {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Dolly Parton begravd i enkel ceremoni",
+   "date": "2026-08-31T06:09:06.000Z",
+   "link": "https://www.svt.se/kultur/dolly-parton-begravd-i-enkel-ceremoni-xmvtgu",
+   "desc": "Dolly Parton har ”förts till sista vilan” under en privat minnesceremoni, enligt hennes nära släkting Lainey Mae Partons Instagram."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man gripen efter mordförsök i Helsingborg",
+   "date": "2026-08-31T04:51:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/man-gripen-efter-mordforsok-i-helsingborg-qwz7wt",
+   "desc": "En man i 30-årsåldern skadades med ett vasst föremål i en lägenhet under söndagsnatten. En man har gripits misstänkt för mordförsök."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Pressen på S-ledaren: ”Jag är rädd – ett väldigt flörtande”",
+   "date": "2026-08-31T04:09:15.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/pressen-pa-s-ledaren-jag-ar-radd-ett-valdigt-flortande",
+   "desc": "V-toppen Jonas Sjöstedt är ”allvarligt orolig” för att Magdalena Andersson ska försöka bilda regering med KD. Han uppmanar S-ledaren att börja forma sitt lag. – Tänk om vi hade haft en rödgrön regering och jag hade varit klimatminister, säger den tidigare partiledaren."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Storägaren Sven Rosén om Leksands IF: ”Försöker dra mitt strå till stacken”",
+   "date": "2026-08-31T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/storagaren-sven-rosen-om-leksands-if-forsoker-dra-mitt-stra-till-stacken",
+   "desc": "Han lämnade ordförandeposten i Leksands IF 2014, men engagemanget för klubben har fortsatt. Idag är Sven Rosén en av männen bakom företaget Rotcod som är den näst största ägaren till hockeybolaget och sitter som en av fem i valberedningen. – Det är väl en sjuka hos mig att vara med och styra och ställa, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här byggs ”ångestfritt” boende för gästarbetare på gruvområde i Kiruna",
+   "date": "2026-08-31T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/gruvbolaget-bygger-angestfritt-boende-i-kiruna",
+   "desc": "På Viscarias gruvområde i Kiruna står snart nya entreprenörsboenden på plats och ambitionen är att det ska bli ett trevligt hotellkoncept. – Traditionella entreprenörsboenden är ofta behäftade med problem. Alkohol, narkotika, prostitution och inte minst ångest, säger Jörgen Olsson, vd på Viscaria."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Bjuggrens traditionella barnuppfostran: Inte acceptabelt att svära",
+   "date": "2026-08-31T05:00:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bjuggrens-traditionella-barnuppfostran-inte-acceptabelt-att-svara",
+   "desc": "Socialdemokraternas gruppledare i Stockholm, Emilia Bjuggren berättar om hur det var att växa upp i Tensta, och om hemmets strikta regler när det kommer till svordomar. – Det var väldigt tydligt att man ska inte använda språket på det sättet, säger hon. Kan du minnas senast du använde en svordom? – Nej."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Försäljning av begagnat sjunker – mode går mot strömmen",
+   "date": "2026-08-31T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsaljningen-av-begagnat-sjunker-mode-gar-mot-trenden",
+   "desc": "Omsättningen för second hand-handeln i Sverige var under det första halvåret 6,8 miljarder kronor. Det är en nedgång med cirka 9 procent från året innan, enligt en rapport från branschorganisationen Svensk Handel som presenteras idag. – Mode går bäst och omsatte 2,4 miljarder, medan heminredning går sämre 960 miljoner, säger Brill Ivarsson, analytiker på Svensk handel."
+  },
+  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Nyheter för dagen: 30 augusti",
@@ -64,22 +120,6 @@
    "date": "2026-08-30T05:47:16.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-gripen-efter-misstankt-drapforsok-pa-lidingo",
    "desc": "En man i 60-årsåldern har gripits efter att ha misshandlat en kvinna utomhus på Lidingö under natten. Mannen och kvinnan ska ha haft en relation."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Övergivna köpcentret Stinsen i Sollentuna blir klubbscen",
-   "date": "2026-08-30T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/overgivna-kopcentret-stinsen-i-sollentuna-blir-klubbscen",
-   "desc": "Stinsen i Sollentuna har stått tomt en längre tid. Men nu ska köpcentret fyllas med musik och kultur – och först ut är den nya festivalen Mall Call. Några av världens ledande artister inom elektronisk dansmusik kommer spela i det 30 000 kvadratmeter stora köpcentret."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 29 augusti",
-   "date": "2026-08-29T17:45:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-29-augusti-bzzp5d",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under lördagen den 29 augusti."
   },
   {
    "src": "BBC",
