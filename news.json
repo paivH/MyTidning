@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-31T14:48:16.015Z",
+ "updated": "2026-08-31T20:37:31.592Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+   "date": "2026-08-31T17:30:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+   "desc": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,26 +28,74 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "South African airline defends low-altitude aerial stunt over packed stadium",
-   "date": "2026-08-31T10:18:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "The jury's options in Lindsay Clancy's murder trial",
-   "date": "2026-08-31T11:53:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-   "desc": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
-   "date": "2026-08-31T11:41:05.000Z",
+   "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+   "date": "2026-08-31T14:50:36.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Eight people have died after the ferry started taking on water shortly after setting off for Turkey."
+   "desc": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+   "date": "2026-08-31T17:54:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+   "desc": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kristallengalan 2026 – här är årets vinnare",
+   "date": "2026-08-31T20:27:34.000Z",
+   "link": "https://www.svt.se/kultur/kristallengalan-2026-har-ar-arets-vinnare",
+   "desc": "”Spökjakt – inlåsta” var den stora vinnaren på årets Kristallengala. Programmet vann två priser, som dessutom röstats fram av tittarna: Årets manliga programledare, Joakim Lundell, och Tittarnas favoritprogram."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Expert om Romina Pourmokhtaris klimatskryt: ”Sämst i klassen”",
+   "date": "2026-08-31T18:27:01.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/expert-om-romina-pourmokhtaris-klimatskryt-samst-i-klassen",
+   "desc": "Klimat- och miljöminister Romina Pourmokhtari (L) påstod att Sverige är tredje bäst på elbilsförsäljning i Norden. Men det stämmer inte, enligt siffror från branschorganisationen Mobility Sweden. – Det är ju fel! Ur ett nordiskt perspektiv är Sverige sämst i klassen, säger organisationens vd Jessica Alenius till SVT."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Officiellt: Djurgården värvar Charlie Rosenqvist",
+   "date": "2026-08-31T17:51:30.000Z",
+   "link": "https://www.svt.se/sport/fotboll/officiellt-djurgarden-varvar-charlie-rosenqvist",
+   "desc": "Nu är det officiellt. Charlie Rosenqvist lämnar Kalmar för Djurgården. Han blir allsvenskans dyraste köp någonsin. – Det känns otroligt roligt att få skriva på och jag är både stolt och taggad, säger ynglingen i ett uttalande."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kraftig brand utanför Fjugesta – 15 enheter larmades till platsen",
+   "date": "2026-08-31T17:13:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/orebro/kraftig-brand-utanfor-fjugesta-13-enheter-larmade",
+   "desc": "En kraftig brand bröt under måndagskvällen ut i lokaler där miljöfarligt avfall hanteras. Ett stort antal räddningsenheter larmades för att släcka branden på Skoftesta gård utanför Fjugesta i Lekebergs kommun och under natten kommer eftersläckningsarbete pågå."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Farliga föremålet i Rådhusparken var riktad mot en person",
+   "date": "2026-08-31T16:38:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/farliga-foremalet-i-radhusparken-var-riktat-mot-en-person",
+   "desc": "Det skarpa föremålet som hittades i Rådhusparken i förra veckan var avsett att riktas mot en person i Jönköping, enligt polisen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Två tonåringar gripna i Rågsved – misstänks ha misshandlat flicka",
+   "date": "2026-08-31T19:35:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-tonaringar-gripna-i-ragsved-misstanks-ha-misshandlat-flicka",
+   "desc": "En tonårsflicka har blivit misshandlad av ett flertal personer i närheten av Rågsveds tunnelbanestation på måndagskvällen. Två pojkar har gripits misstänkta för grov misshandel. – Hon ska ha blivit jagad av dem, säger Marcus Björling från polisen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter för dagen: 31 augusti",
+   "date": "2026-08-31T17:59:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-for-dagen-31-augusti",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 31 augusti."
   },
   {
    "src": "STHLM",
@@ -66,20 +122,12 @@
    "desc": "Omsättningen för second hand-handeln i Sverige var under det första halvåret 6,8 miljarder kronor. Det är en nedgång med cirka 9 procent från året innan, enligt en rapport från branschorganisationen Svensk Handel som presenteras idag. – Mode går bäst och omsatte 2,4 miljarder, medan heminredning går sämre 960 miljoner, säger Brill Ivarsson, analytiker på Svensk handel."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter för dagen: 30 augusti",
-   "date": "2026-08-30T17:52:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-for-dagen-30-augusti",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under lördagen den 30 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här tassar tusen taxar in i paraden på Strandvägen",
-   "date": "2026-08-30T14:16:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-tassar-tusen-taxar-in-i-paraden-pa-strandvagen",
-   "desc": "Utklädda till prinssessor, drakar och korvar traskade 1 500 taxar med i paraden på Strandvägen. För tredje året i rad gick Stockholms taxparad av stapeln mellan Strandvägen och Djurgården. – Det är kul att visa upp de här fina underbara hundarna, säger Mathz Fransson grundare av taxparaden."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-08-31T16:00:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p77d96?at_medium=RSS&at_campaign=rss",
+   "desc": "More from Michael Carrick on Ipswich, Kobbie Mainoo, Marcus Rashford and deadline day."
   },
   {
    "src": "BBC",
@@ -104,14 +152,6 @@
    "date": "2026-08-29T21:30:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p6w1ts?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick on Hull loss, squad balance and return of Mason Mount."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-28T13:51:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p6tzl0?at_medium=RSS&at_campaign=rss",
-   "desc": "Michael Carrick provides updates on Amad and Baleba and looks ahead to Ipswich on Sunday."
   }
  ]
 }
