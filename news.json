@@ -1,13 +1,21 @@
 {
- "updated": "2026-09-01T18:42:07.158Z",
+ "updated": "2026-09-01T21:34:10.400Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Germany says Russia behind Leipzig airport drone attack",
-   "date": "2026-09-01T16:53:40.000Z",
+   "date": "2026-09-01T21:05:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
    "desc": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US strikes Iran as state media reports four killed at wedding party",
+   "date": "2026-09-01T21:32:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+   "desc": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
   },
   {
    "src": "BBC",
@@ -34,12 +42,28 @@
    "desc": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-   "date": "2026-09-01T18:06:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-   "desc": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Officiellt: Hugo Larsson klar för Fulham",
+   "date": "2026-09-01T21:06:40.000Z",
+   "link": "https://www.svt.se/sport/fotboll/officiellt-hugo-larsson-klar-for-fulham",
+   "desc": "Han lämnar den tyska fotbollen för att göra entré på de brittiska öarna. Hugo Larsson har skrivit på för Fulham."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "S vill inte höja bränslepriset – trots risk för missat klimatmål",
+   "date": "2026-09-01T19:54:15.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/s-vill-inte-hoja-branslepriset-trots-risk-for-missat-klimatmal",
+   "desc": "Magdalena Andersson (S) kritiserar Tidöpartiernas klimatpolitik i SVT:s utfrågning – men vill själv inte höja skatten på drivmedel. Detta trots att experter pekar ut det som nödvändigt för att klara klimatmålet till 2030. – Vi har inga förslag om att höja bränsleskatten, säger hon."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Traktor och personbil kolliderade – två personer till sjukhus",
+   "date": "2026-09-01T19:03:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/traktor-och-personbil-kolliderade-tva-personer-till-sjukhus",
+   "desc": "En traktor och en personbil krockade på riksväg 17 i höjd med Asmundtorp utanför Landskrona."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-09-01T17:00:53.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/stortfloden-i-nepal-tio-timmar-av-skrack",
    "desc": "Gränsövergången Gyirong totalförstördes efter sju minuter. Hela störtflodens väg tog ungefär tio timmar. SVT Verifierar har med hjälp av satellitbilder och geolokaliserade klipp från marken rekonstruerat flodvågens väg genom Nepal och Kina."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ungdomsdebatt i Örebro – applåder när MUF föreslog sänkt åldersgräns på Systembolaget",
-   "date": "2026-09-01T16:02:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/orebro/ungdomsdebatt-i-orebro-applader-nar-muf-foreslog-sankt-aldersgrans-pa-systembolaget",
-   "desc": "Under tisdagen var det stor partidebatt med ungdomsförbundsordföranden från riksdagspartierna inför tusentals elever från Örebros olika gymnasieskolor. Den debattör som drog hem högst applåder och till sist vann förmiddagens omröstningen var MUF:s ordförande Douglas Thor som ville se en ålderssänkning på systembolaget från 20 år till 18 år."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man allvarligt skadad – fastnade i skogsmaskin",
-   "date": "2026-09-01T15:51:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/man-allvarligt-skadad-fastade-i-skogsmaskin",
-   "desc": "En man har förts till sjukhus med allvarliga skador efter att han fastnat i en maskin under skogsarbete."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Malmödebattör utreds för olaga hot mot Simona Mohamsson – Säpo inkopplat",
-   "date": "2026-09-01T15:02:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/malmodebattor-utreds-for-olaga-hot-mot-simona-mohamsson-sapo-inkopplat",
-   "desc": "Debattören Valley Ghanem utreds misstänkt för olaga hot mot Liberalernas partiledare Simona Mohamsson. Det kan SVT Nyheter Skåne nu avslöja. I ett inlägg på sociala medier skrev Ghanem ”Må hon brännas” efter att partiledaren burit en davidsstjärna under en debatt."
   },
   {
    "src": "STHLM",
