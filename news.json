@@ -1,30 +1,6 @@
 {
- "updated": "2026-09-01T05:26:23.705Z",
+ "updated": "2026-09-01T10:20:10.812Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
-   "date": "2026-09-01T02:30:45.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-   "date": "2026-09-01T02:18:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-   "desc": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US army secretary resigns after months of tension",
-   "date": "2026-09-01T01:01:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
-   "desc": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -36,50 +12,106 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Shein shares fall in long-awaited stock market debut",
-   "date": "2026-09-01T04:15:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-   "desc": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London."
+   "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+   "date": "2026-09-01T07:37:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+   "desc": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "The final minutes before floodwater crashed through Nepal-China border",
+   "date": "2026-09-01T06:02:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+   "date": "2026-09-01T07:02:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
+   "date": "2026-08-31T21:28:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+   "desc": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Greta Thunberg om dödshoten: ”Varje dag”",
-   "date": "2026-09-01T05:06:29.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/greta-thunberg-om-dodshoten-varje-dag",
-   "desc": "Rörelsen Fridays for future lockade miljontals ungdomar i hela världen. Dokumentärfilmen ”Strejkarna” skildrar rörelsens framväxt. Greta Thunberg berättar att hon har betalat ett högt pris för engagemanget. – Jag får otaliga dödshot varje dag, säger hon i Morgonstudion."
+   "title": "Bonnier köper stor strömningstjänst för böcker",
+   "date": "2026-09-01T10:09:03.000Z",
+   "link": "https://www.svt.se/kultur/bonnier-koper-stor-stromningstjanst-for-bocker",
+   "desc": "Förlagskoncernen Bonnier Books satsar på digital expansion och köper Nextory, en av Europas största strömningstjänster för böcker, skriver Bonnier Books i ett pressmeddelande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "S-löftet: Ingen med ”normal inkomst” får höjd skatt",
-   "date": "2026-09-01T04:17:53.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/s-loftet-ingen-med-normal-inkomst-far-hojd-skatt",
-   "desc": "Personer med ”normala inkomster” ska inte betala mer i skatt under nästa mandatperiod, lovar Socialdemokraterna inför höstens val. – Ingen som tjänar under 70 000 kronor varje månad ska få höjd inkomstskatt, säger S-ledaren Magdalena Andersson."
+   "title": "13-årig flicka ”såg äldre ut” –  man i Dalarna frias från barnvåldtäkt",
+   "date": "2026-09-01T09:56:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/13-arig-flicka-sag-aldre-ut-man-i-dalarna-frias-fran-barnvaldtakt",
+   "desc": "En man i 25-årsåldern frikänns från våldtäkt mot barn efter att ha haft samlag med en 13-årig flicka. En av anledningarna till den friande domen är att flickan enligt Falu tingsrätt ”sett ut att vara betydligt äldre än sin ålder”."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "MPF: Statlig aktör betalar för AI-botar som attackerar Sverige",
-   "date": "2026-09-01T04:00:21.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/mpf-statlig-aktor-betalar-for-ai-botar-som-attackerar-sverige",
-   "desc": "Eva, Yvonne och Magnus går till attack mot politiker, myndigheter och public service. Men bakom namnen finns inga vanliga svenskar, utan en leverantör i Östasien som på beställning av en statlig aktör försöker påverka Sverige. Detta enligt en rapport från Myndigheten för psykologiskt försvar som SVT fått tillgång till."
+   "title": "Vattenläcka skapade flera meter hög fontän i centrala Norrköping",
+   "date": "2026-09-01T09:50:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/vattenlacka-skapade-flera-meter-hog-fontan-i-centrala-norrkoping",
+   "desc": "På tisdagsförmiddagen inträffade en vattenläcka i korsningen Dalsgatan och Sankt Persgatan i centrala Norrköping."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hundföraren Andreas i Eskilstuna har väntat på nytt polishus i 20 år: ”Orimligt lång tid”",
-   "date": "2026-09-01T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/hundforaren-andreas-i-eskilstuna-har-vantat-pa-nytt-polishus-i-20-ar-orimligt-lang-tid",
-   "desc": "Frustrationen växer inom polisen i Eskilstuna sedan planerna på ett nytt polishus återigen har kört fast. Fastighetsägaren hotar nu med ett skadeståndskrav på 724 miljoner kronor mot Polismyndigheten, som bestrider ansvar. Andreas Franzell började arbeta som polis i Eskilstuna 2006 och har nu väntat på ett nytt polishus i 20 år. – Det har tagit orimligt lång tid, säger han."
+   "title": "Adam Ståhls förvåning – ”alla” skrek: ”Jag fick panik”",
+   "date": "2026-09-01T09:08:21.000Z",
+   "link": "https://www.svt.se/sport/fotboll/adam-stahls-forvaning-alla-skrek-jag-fick-panik",
+   "desc": "Djurgårdens Adam Ståhl fick ”panik”. Sedan kutade han ner mot sidlinjen. – Jag blev jävligt förvånad. Det var inte så att jag gick och hade tjockeröv, säger han efter mötet med Mjällby."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lantbrukarnas oro i nya vargreviret: ”Stor risk för angrepp”",
-   "date": "2026-09-01T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/lantbrukarnas-oro-i-nya-vargreviret-stor-risk-for-angrepp",
-   "desc": "Lantbrukare i Söderköping oroas efter att ett nytt vargrevir bildats vid Strolången. LRF varnar för ökad risk för angrepp på tamdjur när vargvalparna blir äldre. – Det är flera som sagt att de vill sluta med djurhållning för de vill inte vakna en morgon och se sina djur lemlästade, säger Tobias Karlsson."
+   "title": "Möbelkupp i natt – tjuvar slog till mot Västerbottens museum",
+   "date": "2026-09-01T08:50:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/utemobler-stulna-fran-vasterbottens-museum-i-umea",
+   "desc": "Möbeltjuvar har slagit till mot Västerbottens museum under natten. Designbord och stolar för omkring 300 000 kronor har stulits från uteserveringen. Nu utreder polisen händelsen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Oklart när svampsäsongen börjar: ”Det är en öken i skogen”",
+   "date": "2026-09-01T10:11:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/oklart-nar-svampsasongen-borjar-det-ar-en-oken-i-skogen",
+   "desc": "Normalt sett brukar början av september innebära högsäsong för svampplockare i Stockholmsområdet. Men i år är det osäkert hur mycket svamp som kommer att finnas i skogarna."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Polisen varnar för stöldliga – lyxbilar stulna i norra Stockholm",
+   "date": "2026-09-01T08:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisen-varnar-for-stoldliga-lyxbilar-stulna-i-norra-stockholm",
+   "desc": "Polisen fick under förra veckan in flera anmälningar om stulna lyxbilar i norra Stockholm. Nu varnar man för att en stöldliga kan vara i farten – Med anledning av de stölder som skett vill vi uppmana allmänheten om att vara uppmärksam på om du ser eller hör något som verkar misstänkt, säger Emma Frodelius, sektionschef på polisen, i ett pressmeddelande."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "180 000 narkotikaklassade tabletter beslagtagna – kvinna från Botkyrka åtalas",
+   "date": "2026-09-01T08:10:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/180-000-narkotikaklassade-tabletter-beslagtagna-kvinna-fran-botkyrka-atalas",
+   "desc": "Tullverket har beslagtagit över 180 000 narkotikaklassade tabletter från Nederländerna. Mottagaren var en 19-årig kvinna från Botkyrka."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "60 sekunder: Mordet i Stockholms skärgård",
+   "date": "2026-09-01T08:07:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/60-sekunder-mordet-i-stockholms-skargard",
+   "desc": "En kvinna i 50-årsåldern hittades död på en ö i Stockholms skärgård. I videon får du en sammanfattning av det vi vet om mordet – på 60 sekunder."
   },
   {
    "src": "STHLM",
@@ -88,38 +120,6 @@
    "date": "2026-09-01T05:00:09.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/christofer-fjellner-m-malades-ut-som-knarklangare-i-dagstidning",
    "desc": "Christofer Fjellner, M-toppen i Stockholms stad, säger att han gått från ung och lovande – till enbart lovande. Om Moderaterna vinner valet i höst kommer ”nog” både Spy bar, Hötorgshallen och hotellet i Älvsjömässan att säljas."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Två tonåringar gripna i Rågsved – misstänks ha misshandlat flicka",
-   "date": "2026-08-31T19:35:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-tonaringar-gripna-i-ragsved-misstanks-ha-misshandlat-flicka",
-   "desc": "En tonårsflicka har blivit misshandlad av ett flertal personer i närheten av Rågsveds tunnelbanestation på måndagskvällen. Två pojkar har gripits misstänkta för grov misshandel. – Hon ska ha blivit jagad av dem, säger Marcus Björling från polisen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter för dagen: 31 augusti",
-   "date": "2026-08-31T17:59:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-for-dagen-31-augusti",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 31 augusti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Södertörns högskola: ”Vi ska bli största polisutbildningen i landet”",
-   "date": "2026-08-31T14:00:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisutbildningen-i-stockholm-ska-bli-landets-storsta",
-   "desc": "I dag startade det nya läsåret på landets högskolor. Med det började även 300 polisstudenter på Södertörns högskola i Huddinge utanför Stockholm."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bjuggrens traditionella barnuppfostran: Inte acceptabelt att svära",
-   "date": "2026-08-31T05:00:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bjuggrens-traditionella-barnuppfostran-inte-acceptabelt-att-svara",
-   "desc": "Socialdemokraternas gruppledare i Stockholm, Emilia Bjuggren berättar om hur det var att växa upp i Tensta, och om hemmets strikta regler när det kommer till svordomar. – Det var väldigt tydligt att man ska inte använda språket på det sättet, säger hon. Kan du minnas senast du använde en svordom? – Nej."
   },
   {
    "src": "BBC",
