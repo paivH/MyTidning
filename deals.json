@@ -1,41 +1,41 @@
 {
- "updated": "2026-08-31T10:15:05.061Z",
+ "updated": "2026-09-01T08:59:42.163Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Ingrid Marie, lösvikt",
-   "price": "19 kr/kg",
+   "item": "Svenska äpplen Ingrid Marie 1kg",
+   "price": "19 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 1kg",
+   "item": "Färsk kycklingfilet 900g",
    "price": "69 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Färsk laxfilé Nadja",
-   "price": "89 kr/kg",
+   "item": "Svenska plommon i lösvikt",
+   "price": "24 kr/kg",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Skolstart pennskrin W5",
+   "item": "Skolstart pennset 10 delar",
    "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 500g fryst",
-   "price": "49 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utegrill Weber-modell",
-   "price": "399 kr",
+   "item": "Utomhuskuddar 2-pack höstkampanj",
+   "price": "99 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
