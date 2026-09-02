@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T16:49:03.087Z",
+ "updated": "2026-09-02T19:37:12.337Z",
  "items": [
   {
    "src": "BBC",
@@ -12,8 +12,16 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+   "date": "2026-09-02T17:33:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+   "desc": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-   "date": "2026-09-02T14:34:22.000Z",
+   "date": "2026-09-02T16:49:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
    "desc": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
   },
@@ -34,12 +42,20 @@
    "desc": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
-   "date": "2026-09-02T16:18:55.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
-   "desc": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "En person till sjukhus efter dykolycka i Lerkils hamn",
+   "date": "2026-09-02T19:29:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/en-person-till-sjukhus-efter-dykolycka-i-lerkils-hamn",
+   "desc": "På onsdagskvällen inträffade en dykolycka vid Lerkils hamn i Kungsbacka. Två personer ska ha räddats ur vattnet. En person har förts till sjukhus, enligt Sjö- och flygräddningscentralen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Berusad man viftade med kniv i Norrköping",
+   "date": "2026-09-02T18:03:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/berusad-man-viftade-med-kniv-i-norrkoping",
+   "desc": "Efter klockan 19 på onsdagen larmades polisen till Vilbergens centrum i Norrköping då flera personer ska ha sett en man vifta med en kniv."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Efter att 34 mystiska sjukdomsfall inträffat på SSAB:s bygge av det nya stålverket i Luleå har länsstyrelsen begärt att bolaget noga undersöker orsakerna. Men SSAB säger nej till gifttester med motiveringen att det är för dyrt, orimligt och tidsödande, avslöjar Dagens Nyheter."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ökad ersättning till fjällräddningen föreslås – ”Något vi kämpat för i trettio år”",
-   "date": "2026-09-02T14:52:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/okad-ersattning-till-fjallraddningen-foreslas-nagot-vi-kampat-for-i-trettio-ar",
-   "desc": "En fjällräddare ska få upp mot 30 000 kronor mer i ersättning från staten för sina kostnader. Det utlovar nu Moderaterna i ett valutspel. – Det är helt fantastiskt. Det här är något vi fjällräddare kämpat för i över trettio år, säger Rickard Svedjesten, ordförande för Svenska fjällräddares riksorganisation, Svefro."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Stort intresse när dråpmisstänkta häktades i Karlstad",
-   "date": "2026-09-02T14:37:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/stort-intresse-nar-drapmisstankta-haktades-i-karlstad",
-   "desc": "På trottoaren utanför Burger King i Karlstad fortsätter människor under onsdagen att lägga blommor och tända ljus. Det var här en 48-årig man misshandlades till döds natten till söndag. Samtidigt häktades idag två dråpmisstänkta män vid Värmlands tingsrätt. – Det här ska inte hända, säger Victor Andersson, vän till offrets dotter."
+   "title": "Nyheter från dagen: 2 september",
+   "date": "2026-09-02T17:56:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-2-september-aglw94",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under onsdagen den 2 september."
   },
   {
    "src": "STHLM",
@@ -95,7 +103,7 @@
    "title": "Misstänkt föremål i Liljeholmen var ofarligt",
    "date": "2026-09-02T14:21:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-i-liljeholmen",
-   "desc": "Det var strax före klockan 14.30 som polisen kallades till en kurslokal i Liljeholmen med anledning av ett misstänkt farligt föremål. Vid klockan 17 meddelar polisen att föremålet var ofarligt."
+   "desc": "Vid 14.30-tiden på onsdagen kallades polisen till en kurslokal i Liljeholmen. Anledningen var att ett misstänkt farligt föremål hittats. Föremålet visade sig senare vara ofarligt, men en man greps i samband med insatsen."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Det är drygt ett halvår kvar tills den nya gång- och cykelbron vid Slussen öppnar för allmänheten – men redan nu kan du se hur det ser ut uppe på bron. SVT har nämligen fått en förhandsvisning, där bron också fick sitt officiella namn."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Restaurang på Djurgården i brand",
-   "date": "2026-09-02T04:14:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/restaurang-pa-djurgarden-i-brand",
-   "desc": "Två misstänkta personer är gripna misstänkta för att ha anlagt en brand på en restaurang på Djurgården i Stockholm. – Det brann på altanen. Vi släckte bland annat en soffa och blomkrukor, säger Jesper Hesselgren, ledningsoperatör på Storstockholms brandförsvar"
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-02T18:29:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p7m2ny?at_medium=RSS&at_campaign=rss",
+   "desc": "Former Reds striker Fraizer Campbell has his say on United's summer transfer window."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-08-31T13:35:16.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p775f1?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd defender Luke Shaw on beating Ipswich, Bruno Fernandes and Kobbie Mainoo."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-30T18:18:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p749rl?at_medium=RSS&at_campaign=rss",
-   "desc": "Michael Carrick and Bruno Fernandes react after Man Utd's dominant 5-2 win over Ipswich."
   }
  ]
 }
