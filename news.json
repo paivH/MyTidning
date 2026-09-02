@@ -1,85 +1,93 @@
 {
- "updated": "2026-09-02T07:34:49.980Z",
+ "updated": "2026-09-02T12:29:57.366Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-   "date": "2026-09-02T06:26:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians."
+   "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+   "date": "2026-09-02T10:04:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+   "desc": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Why US troops have a history in this raucous Thai city",
+   "date": "2026-09-02T07:18:39.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
+   "desc": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-   "date": "2026-09-02T04:23:23.000Z",
+   "date": "2026-09-02T10:00:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
    "desc": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-   "date": "2026-09-02T05:03:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-   "desc": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions."
+   "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+   "date": "2026-09-02T11:47:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Why do US troops have history with this Thai city?",
-   "date": "2026-09-02T07:18:39.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
-   "desc": "The BBC’s Jonathan Head looks at the links between the US troops and the resort city of Pattaya as an aircraft carrier arrives nearby after 250 days at sea."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "South Korea jails care home head for sexually assaulting disabled residents",
-   "date": "2026-09-02T05:56:44.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
-   "desc": "The man, surnamed Kim, was handed a 15-year prison term for abusing three residents at the facility near Seoul."
+   "title": "Nepal-Tibet flood response turns to relief and recovery",
+   "date": "2026-09-02T11:36:13.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Dolda inspelningar visar: Jobbcoacher villiga att lura Arbetsförmedlingen",
-   "date": "2026-09-02T07:00:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/dolda-inspelningar-visar-jobbcoacher-villiga-att-lura-arbetsformedlingen",
-   "desc": "Bolagen får miljarder från staten för att hjälpa arbetslösa till sysselsättning. I dolda inspelningar avslöjar SVT hur de lovar att dölja svartarbete, mörka frånvaro och att hålla kvinnor borta från samhället. Mer än hälften av 100 undersökta bolag är beredda att fuska. – Det är horribelt, säger Arbetsförmedlingens generaldirektör."
+   "title": "Leipzig: Misstänkta för drönarhändelsen uppges identifierade",
+   "date": "2026-09-02T12:23:23.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/leipzig-misstankta-for-dronarhandelsen-uppges-identifierade",
+   "desc": "Tyska utredare har identifierat två misstänkta för den planerade attacken mot ett ukrainskt transportflygplan på flygplatsen i Leipzig i augusti, skriver Süddeutsche Zeitung. Enligt tidningen rör det sig om en ryskfödd man med ett lettiskt pass samt en belarusisk man med ett ryskt pass."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "AI-minister och slopade bullerregler – partierna drabbade samman i kulturpolitisk debatt",
-   "date": "2026-09-02T06:01:03.000Z",
-   "link": "https://www.svt.se/kultur/ai-minister-och-slopade-bullerregler-partierna-drabbade-samman-i-kulturpolitisk-debatt",
-   "desc": "Statens finansiering av kultur, AI, kulturarbetarnas arbetssituation och konstnärlig frihet – det var ämnena som diskuterades när Moderna Museet ordnade kulturpolitisk valdebatt."
+   "title": "Joakim Lundell stämmer kvinna i Trosa för förtal",
+   "date": "2026-09-02T11:57:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/joakim-lundell-stammer-kvinna-i-trosa-for-grovt-fortal",
+   "desc": "Influencern Joakim Lundell stämmer en kvinna i Trosa kommun efter flera inlägg i sociala medier. Han kräver totalt 240 000 kronor i kränkningsersättning."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Flera bilar i kollision på E6 i höjd med Löddeköpinge",
-   "date": "2026-09-02T05:55:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/flera-bilar-i-kollision-pa-e6-i-hojd-med-loddekopinge",
-   "desc": "Två bilolyckor ska ha skett under onsdagsmorgonen på E6 i höjd med Löddeköpinge i riktning mot Malmö. Totalt ska sex bilar vara inblandade."
+   "title": "Renskötaren och influencern Evelina, 24 år, lyfter samiska frågor inför valet",
+   "date": "2026-09-02T11:50:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/renskotaren-och-influencern-evelina-24-ar-anvander-sin-plattform-for-att-lyfta-samiska-fragor-infor-valet",
+   "desc": "Evelina Solsten fick sitt stora genombrott på sociala medier 2021 och har idag runt 146 000 följare. Där sprider hon kunskap om sitt samiska ursprung och synliggör den samiska kulturen, vilket känns extra angeläget nu när Sverige ska rösta om de kommande fyra åren."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Restaurang på Djurgården i brand",
-   "date": "2026-09-02T04:14:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/restaurang-pa-djurgarden-i-brand",
-   "desc": "Två misstänkta personer är gripna misstänkta för att ha anlagt en brand på en restaurang på Djurgården i Stockholm. – Det brann på altanen. Vi släckte bland annat en soffa och blomkrukor, säger Jesper Hesselgren, ledningsoperatör på Storstockholms brandförsvar"
+   "title": "Ytterligare en misstänkt i utredning om förberedelse till mord",
+   "date": "2026-09-02T10:08:25.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ytterligare-en-misstankt-i-utredning-om-forberedelse-till-mord",
+   "desc": "En tonårspojke misstänks för medhjälp till skolattacken i Fagersta. Han misstänks även för egna mordplaner i Stockholmsområdet. Nu misstänks ytterligare en person, som är under 15 år, för stämpling till mord."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Novus/TV4: Gapet mellan blocken 2,6 procentenheter",
-   "date": "2026-09-02T03:53:55.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/novustv4-gapet-mellan-blocken-26-procentenheter",
-   "desc": "Liberalerna ökar till 3,3 procent, visar en ny mätning från Novus/TV4. Samtidigt minskar oppositionens försprång till 2,6 procentenheter. – Vi ser att gapet minskar. Liberalerna går framåt och det bådar gott för den dag som spelar roll, nämligen valdagen, säger L:s partiledare Simona Mohamsson till SVT."
+   "title": "Hot anmält – gapig väljare oroade röstmottagare i Jönköping",
+   "date": "2026-09-02T10:00:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hot-anmalt-gapig-valjare-oroade-rostmottagare-i-jonkoping",
+   "desc": "En högljudd väljare ifrågasatte valets legitimitet och hade många synpunkter vid förtidsröstningen på högskolan i Jönköping för några dagar sedan. – Det blev lite höjt röstläge och röstmottagarna upplevde situationen hotfull, säger Mikael Rydberg (S), valnämndens ordförande."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Premiärtur på Slussens nya gång- och cykelbro",
+   "date": "2026-09-02T10:30:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/premiartur-pa-slussens-nya-gang-och-cykelbro",
+   "desc": "Det är drygt ett halvår kvar tills den nya gång- och cykelbron vid Slussen öppnar för allmänheten – men redan nu kan du se hur det ser ut uppe på bron. SVT har nämligen fått en förhandsvisning, där bron också fick sitt officiella namn."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-01T11:20:51.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/polis-vid-skola-i-hasselby-efter-film-pa-tiktok",
    "desc": "Polisen är under tisdagen på plats vid Hässelby villastads skola efter att en film på sociala medier som uppfattats som hotfull cirkulerat."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Oklart när svampsäsongen börjar: ”Det är en öken i skogen”",
-   "date": "2026-09-01T10:11:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/oklart-nar-svampsasongen-borjar-det-ar-en-oken-i-skogen",
-   "desc": "Normalt sett brukar början av september innebära högsäsong för svampplockare i Stockholmsområdet. Men i år är det osäkert hur mycket svamp som kommer att finnas i skogarna."
   },
   {
    "src": "BBC",
