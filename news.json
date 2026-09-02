@@ -1,14 +1,6 @@
 {
- "updated": "2026-09-02T19:37:12.337Z",
+ "updated": "2026-09-02T22:18:38.279Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-   "date": "2026-09-02T15:33:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-   "desc": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -16,6 +8,14 @@
    "date": "2026-09-02T17:33:45.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
    "desc": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+   "date": "2026-09-02T21:34:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
   },
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-   "date": "2026-09-02T10:04:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
-   "desc": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism."
+   "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+   "date": "2026-09-02T20:12:32.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+   "desc": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Villa övertänd i Tallhöjden i Södertälje",
+   "date": "2026-09-02T20:00:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/villa-overtand-i-tallhojden-i-sodertalje",
+   "desc": "Ett tvåplanshus i Tallhöjden i Södertälje är helt övertänt. Kraftig rök sprids över området."
   },
   {
    "src": "SVT",
@@ -47,7 +55,7 @@
    "title": "En person till sjukhus efter dykolycka i Lerkils hamn",
    "date": "2026-09-02T19:29:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/halland/en-person-till-sjukhus-efter-dykolycka-i-lerkils-hamn",
-   "desc": "På onsdagskvällen inträffade en dykolycka vid Lerkils hamn i Kungsbacka. Två personer ska ha räddats ur vattnet. En person har förts till sjukhus, enligt Sjö- och flygräddningscentralen."
+   "desc": "På onsdagskvällen inträffade en dykolycka vid Lerkils hamn i Kungsbacka. Två personer har räddats ur vattnet. En person har förts till sjukhus, enligt Sjö- och flygräddningscentralen."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-02T15:03:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/aldre-luras-vid-dorren-ministern-ska-inte-kanna-radsla-nar-telefonen-ringer",
    "desc": "Under tre veckor i augusti utsattes 31 personer för så kallad fysisk vishing i Sydsverige – alltså att en bedragare ringer och uppger falsk identitet för att sedan dyka upp vid dörren. Idag besökte justitieminister Gunnar Strömmer (M) Växjö och berättade om sin lösning på problemet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SSAB säger nej till gifttester – kostar för mycket",
-   "date": "2026-09-02T14:55:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/ssab-sager-nej-till-gifttester-kostar-for-mycket",
-   "desc": "Efter att 34 mystiska sjukdomsfall inträffat på SSAB:s bygge av det nya stålverket i Luleå har länsstyrelsen begärt att bolaget noga undersöker orsakerna. Men SSAB säger nej till gifttester med motiveringen att det är för dyrt, orimligt och tidsödande, avslöjar Dagens Nyheter."
   },
   {
    "src": "STHLM",
