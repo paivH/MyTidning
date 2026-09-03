@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T17:29:36.922Z",
+ "updated": "2026-09-03T20:04:49.700Z",
  "items": [
   {
    "src": "BBC",
@@ -21,17 +21,9 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-   "date": "2026-09-03T13:52:18.000Z",
+   "date": "2026-09-03T18:04:34.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
    "desc": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-   "date": "2026-09-03T05:00:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found."
   },
   {
    "src": "BBC",
@@ -42,6 +34,46 @@
    "desc": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops."
   },
   {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
+   "date": "2026-09-03T09:37:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
+   "desc": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Mjällby utskällt av supportrarna: ”Man skäms”",
+   "date": "2026-09-03T20:03:46.000Z",
+   "link": "https://www.svt.se/sport/fotboll/mjallby-utskallt-av-supportrarna-man-skams",
+   "desc": "Krisen växer för regerande mästarlaget Mjällby. Efter förlusten mot Djurgården vädrade hemmasupportrarna sin frustration mot spelarna. – Man står där och skäms, säger lagkaptenen Tom Pettersson till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Djurgården med i guldstriden – efter målvaktens stormatch",
+   "date": "2026-09-03T18:54:40.000Z",
+   "link": "https://www.svt.se/sport/fotboll/djurgarden-med-i-guldstriden-efter-malvaktens-stormatch",
+   "desc": "Djurgården har blandat sig i den allsvenska guldstriden. Målvakten Jacob Rinne höll nollan igen mot Mjällby – och noterades även för en assist efter en jätteutspark. – Det var på tiden att jag fick en assist, säger Rinne."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Förlust för Calle Järnkroks Brynäs: ”Det kan bara bli bättre”",
+   "date": "2026-09-03T18:46:43.000Z",
+   "link": "https://www.svt.se/sport/ishockey/forlust-for-calle-jarnkroks-brynas-det-kan-bara-bli-battre",
+   "desc": "Calle Järnkrok gjorde sin första match i Brynäströjan efter 13 år i NHL. Det blev förlust mot Djurgården med 4–1 på Hovet. – Det kan bara bli bättre, säger 34-åringen till TV4 Play."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Anders Blomquist om generationsväxlingen: ”Motståndet är sämre än någonsin”",
+   "date": "2026-09-03T17:34:36.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/anders-blomquist-om-generationsvaxlingen-motstandet-ar-samre-an-nagonsin",
+   "desc": "Svenskorna dominerar redan på damsidan. Inför den kommande längdsäsongen har dessutom flera världsstjärnor avslutat karriären. – Motståndet är kanske sämre än någonsin, säger SVT:s expert Anders Blomquist."
+  },
+  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Skvättfria pissoarer och ruttnande kalsonger",
@@ -50,36 +82,12 @@
    "desc": "En urinoar som inte stänker och det bästa sättet att snyta sig. Det är några av de forskarframsteg som belönas med det alternativa Nobelpriset Ig Nobel."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Hund hade bruten käke på grund av tumör i munnen – ägaren döms för djurplågeri",
-   "date": "2026-09-03T16:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hund-hade-bruten-kake-pa-grund-av-tumor-i-munnen-agaren-doms-for-djurplageri",
-   "desc": "En kvinna från södra delarna av länet döms till 120 dagsböter för djurplågeri. Veterinären som avlivade hunden anmälde kvinnan."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Nu öppnar ”Star wars”-skaparens museum",
-   "date": "2026-09-03T16:28:18.000Z",
-   "link": "https://www.svt.se/kultur/nu-oppnar-star-wars-skaparens-museum",
-   "desc": "Det har kostat 10 miljarder kronor och tagit över 17 år, men nu kan det öppna – George Lucas eget museum. – Jag är van att göra det omöjliga, men det här tog nästan kål på mig, säger 82-åringen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "”Finns dubbla skäl till att Rysslands hybridkampanj blir ännu värre”",
-   "date": "2026-09-03T16:23:01.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/finns-dubbla-skal-till-att-rysslands-hybridkampanj-blir-annu-varre",
-   "desc": "Med Rysslands hybridkrig mot väst slår Vladimir Putin två flugor i en smäll. När kampanjen nu eskalerar kommer Europa och Sverige ställas inför svåra val. För angreppen kommer behöva bemötas – utan att det leder till direkt konfrontation med Ryssland."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Eva tog första bubbelglaset hos frisören i Jönköping",
-   "date": "2026-09-03T16:04:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/eva-tog-forsta-bubbelglaset-hos-frisoren-i-jonkoping",
-   "desc": "På torsdagen serverades första glaset bubbel i samband med en klippning på en salong i Jönköping. Detta har blivit möjligt efter att kravet att servera mat vid alkoholförsäljning togs bort i somras."
+   "title": "Nyheter från dagen: 3 september",
+   "date": "2026-09-03T18:17:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-3-september-c0sk62",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under onsdagen den 2 september."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-03T09:44:13.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/personbil-har-kolliderat-med-en-lastbil",
    "desc": "En personbil och en lastbil kolliderade i Märsta vid 10-tiden på torsdagen. Två personer skadades allvarligt."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Strömmen tillbaka efter stort avbrott i Stockholm",
-   "date": "2026-09-03T09:40:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stort-stromavbrott-i-stockholm-s7261z",
-   "desc": "Ett stort strömavbrott drabbade drygt 37 000 kunder i Stockholms län. Strömmen var åter tillbaka strax efter klockan 12."
   },
   {
    "src": "BBC",
