@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T09:25:14.482Z",
+ "updated": "2026-09-03T13:44:59.864Z",
  "items": [
   {
    "src": "BBC",
@@ -12,6 +12,22 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+   "date": "2026-09-03T11:35:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+   "desc": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+   "date": "2026-09-03T12:57:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
    "date": "2026-09-03T05:00:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
@@ -20,106 +36,90 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-   "date": "2026-09-03T08:14:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-   "desc": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-   "date": "2026-09-02T17:33:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-   "desc": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Trump $1 coin makes him first living president on US currency in a century",
-   "date": "2026-09-03T03:39:53.000Z",
+   "date": "2026-09-03T10:25:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
    "desc": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\""
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ebba Busch om kritiken mot rennäringspolitiken: ”Då har FN fel”",
-   "date": "2026-09-03T09:03:28.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-om-kritiken-mot-rennaringspolitiken-da-har-fn-fel",
-   "desc": "Sverige har flera gånger fått kritik av FN för att inte skydda samernas rättigheter tillräckligt när nya gruvor planeras på samisk mark. Samtidigt vill flera svenska partier minska rennäringens inflytande. – Det är ett kulturellt folkmord som pågår i Kiruna, säger Lars-Marcus Kuhmunen, ordförande i Gabna sameby, i SVT:s ”Renar i vägen”."
+   "title": "SD-tjänsteman i riksdagen sprider proryska budskap",
+   "date": "2026-09-03T13:27:04.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sd-tjansteman-i-riksdagen-sprider-proryska-budskap",
+   "desc": "En SD-tjänsteman i riksdagen har under lång tid spridit proryska budskap och deltagit i kulturverksamheter med kopplingar till ryska statsintressen. Det visar en granskning från Expo. – Om det stämmer så är det allvarligt. Då måste SD se till att den medarbetaren avvecklas, säger statsminister Ulf Kristersson (M) till Aftonbladet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "WMO: El Niño kan bli den starkaste någonsin",
-   "date": "2026-09-03T08:20:31.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/wmo-el-nino-kan-bli-den-starkaste-nagonsin",
-   "desc": "Årets El Niño kan bli den starkaste någonsin, enligt World Meteorological Organization (WMO). Organisationen säger att väderfenomenet redan är igång – och kommer intensifieras till exceptionellt starkt de kommande månaderna. – Vi ser redan förödelse, säger Celeste Saulo, generalsekreterare för WMO på deras presskonferens."
+   "title": "Karlstads skoldirektör blir generaldirektör för Skolverket",
+   "date": "2026-09-03T12:56:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/karlstads-skoldirektor-blir-generaldirektor-for-skolverket",
+   "desc": "Skoldirektören på Karlstads kommun, Maria Kjellström blir generaldirektör för Skolverket, det berättar regeringen i ett pressmeddelande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Anmälningsplikt för vattkoppor och RS-virus",
-   "date": "2026-09-03T08:20:27.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/anmalningsplikt-for-vattkoppor-och-rs-virus",
-   "desc": "Det införs anmälningsplikt för bekräftade fall av vattkoppor och RS-virusinfektion från och med den 1 november, skriver Folkhälsomyndigheten i ett pressmeddelande."
+   "title": "S-toppens pik till Busch: ”Säger en sak innan valet...”",
+   "date": "2026-09-03T12:39:19.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/s-toppens-pik-till-busch-sager-en-sak-innan-valet",
+   "desc": "KD-ledaren Ebba Busch har sagt att hon hellre går till nyval än att släppa fram Magdalena Andersson (S) som statsminister. S-toppen Anders Ygeman tar utfästelsen med ro. – Jag tror att när man pressas av journalister, som sätter en mick under en partiledare, så vill man gärna vara bombastisk, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "80 personer döda efter båtolycka utanför Kanarieöarna",
-   "date": "2026-09-03T07:54:23.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/80-personer-hittade-doda-i-bat-utanfor-kanarieoarna",
-   "desc": "Minst 80 personer har dött efter en båtolycka utanför Kanarieöarna. Det rapporterar spanska nyhetsbyrån Efe."
+   "title": "Östrogenmedicin blir dyrare – ska locka fler utländska läkemedelstillverkare",
+   "date": "2026-09-03T12:34:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/uppsala/ostrogenmedicin-blir-dyrare-ska-locka-fler-utlandska-lakemedelstillverkare",
+   "desc": "Tandvårds- och läkemedelsförmånsverket (TLV) godkänner nu ett högre pris på östrogenläkemedel, för att locka utländska läkemedelstillverkare. Det ska göra tillgången på preparaten, som kan lindra klimakteriebesvär, bättre."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kalmar kommun stoppar förskolornas pridetåg efter JO-kritik: ”Jättetråkigt”",
-   "date": "2026-09-03T07:50:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/kalmar-kommun-stoppar-forskolornas-pridetag-efter-jo-kritik-jattetrakigt",
-   "desc": "Inför årets pridevecka har Kalmar kommun uppmanat förskolorna att ta bort pridetåg för barnen. Bakgrunden är JO-kritik i somras, efter att en pappa anmält att hans barn tvingats delta i ett tåg. – Vi uppmanar förskolorna att se över inslag som kan uppfattas som manifestationer, säger skolchef Mats Linde."
+   "title": "Polisen varnar: Bluffdöva tar sig in i äldres bostäder",
+   "date": "2026-09-03T11:59:53.000Z",
+   "link": "https://www.svt.se/nyheter/nyhetstecken/polisen-varnar-bluffdova-tar-sig-in-i-aldres-bostader",
+   "desc": "Bedragare som utger sig vara döva och stumma tar sig in i bostäder hos främst äldre. I samband med besöken har smycken och kontanter försvunnit. Nu varnar polisen i Bergslagen för att dessa brott rör sig norrut i landet. – Det här är ett mönster som rullar just nu, säger Anders Dahlman som är presstalesperson vid Polisen i Bergslagen."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "E18 stängd efter lastbilsolycka",
+   "title": "Regeringen backar om Centralstationen och Tomteboda",
+   "date": "2026-09-03T12:29:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/regeringen-backar-om-centralstationen-och-tomteboda",
+   "desc": "Stockholmspolitiker riktade hård kritik mot beslutet att stoppa satsningen på Tomteboda bangård. Nu ger regeringen Trafikverket i uppdrag att ta fram en ny lösning."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Person till sjukhus efter olycka på avfallsanläggning",
+   "date": "2026-09-03T10:05:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/person-skadad-efter-olycka-pa-avfallsanlaggning",
+   "desc": "En besökare på en avfallsanläggning i Nacka har förts till sjukhus efter att ha klämts fast mellan sin egen lastbil och dess flak, enligt polisen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Personbil kolliderade med lastbil – två förda till sjukhus",
+   "date": "2026-09-03T09:44:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/personbil-har-kolliderat-med-en-lastbil",
+   "desc": "En personbil och en lastbil kolliderade i Märsta vid 10-tiden på torsdagen. Två personer skadades allvarligt."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Strömmen tillbaka efter stort avbrott i Stockholm",
+   "date": "2026-09-03T09:40:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stort-stromavbrott-i-stockholm-s7261z",
+   "desc": "Ett stort strömavbrott drabbade drygt 37 000 kunder i Stockholms län. Strömmen var åter tillbaka strax efter klockan 12."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "E18 öppen efter lastbilsolycka",
    "date": "2026-09-03T08:33:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/e18-stangd-efter-lastbilsolycka",
-   "desc": "En lastbil har kört in i mitträcket och släpet ligger delvis över vägen på E18 Norrtäljevägen. Vägen är nu blockerad, och trafikverket har ännu ingen prognos för när vägen öppnas."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "De vill styra regionen – debatt mellan Hadzialic (S) och Conradi (M)",
-   "date": "2026-09-03T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/de-vill-styra-regionen-debatt-mellan-hadzialic-s-och-conradi-m",
-   "desc": "Med bara en dryg vecka kvar till valet möts finansregionrådet Aida Hadzialic (S) och utmanaren Axel Conradi (M), oppositionsregionråd, i en debatt arrangerad av SVT Nyheter Stockholm. Hör hur de båda ser på ätstörningsvården, vårdköerna och kollektivtrafiken."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 2 september",
-   "date": "2026-09-02T17:56:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-2-september-aglw94",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under onsdagen den 2 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här går hundar på audition för musikalen Legally blonde",
-   "date": "2026-09-02T16:19:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-gar-hundar-pa-audition-for-musikalen-legally-blonde",
-   "desc": "Ett femtiotal hundar provspelade när musikalen Legally blonde letade efter sina fyrbenta stjärnor inför höstens premiär i Stockholm. SVT fick följa med på audition i Gamla stan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt föremål i Liljeholmen var ofarligt",
-   "date": "2026-09-02T14:21:15.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-i-liljeholmen",
-   "desc": "Vid 14.30-tiden på onsdagen kallades polisen till en kurslokal i Liljeholmen. Anledningen var att ett misstänkt farligt föremål hittats. Föremålet visade sig senare vara ofarligt, men en man greps i samband med insatsen."
+   "desc": "En lastbil har kört in i mitträcket och släpet låg delvis över vägen på E18 Norrtäljevägen. Vägen blockerades och kunde först öppna för trafik klockan 12."
   },
   {
    "src": "BBC",
