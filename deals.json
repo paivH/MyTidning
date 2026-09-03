@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T08:13:35.909Z",
+ "updated": "2026-09-03T08:22:48.912Z",
  "verified": false,
  "deals": [
   {
@@ -10,32 +10,32 @@
   },
   {
    "store": "ICA",
-   "item": "Färsk kycklingfilet 900g",
+   "item": "Kycklingfilé 900g",
    "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Svenska plommon 500g",
-   "price": "19 kr",
+   "item": "Färsk lax fillet 400g",
+   "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Kvarnbröd 800g",
+   "item": "Potatis Sverige 2kg",
    "price": "15 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
+   "item": "Köttbullar 1kg (Food market)",
    "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Krukväxter för hösten",
-   "price": "29 kr/st",
+   "item": "Utekudde 45x45cm",
+   "price": "39 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
