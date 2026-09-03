@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T00:28:36.305Z",
+ "updated": "2026-09-03T04:54:05.423Z",
  "items": [
   {
    "src": "BBC",
@@ -12,7 +12,7 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+   "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
    "date": "2026-09-02T21:34:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
    "desc": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-   "date": "2026-09-02T16:49:00.000Z",
+   "date": "2026-09-03T03:21:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
    "desc": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
   },
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Villa övertänd i Tallhöjden i Södertälje",
-   "date": "2026-09-02T20:00:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/villa-overtand-i-tallhojden-i-sodertalje",
-   "desc": "Ett tvåplanshus i Tallhöjden i Södertälje är helt övertänt. Kraftig rök sprids över området."
+   "title": "Hundratals strömlösa efter åskoväder i Jörn",
+   "date": "2026-09-03T04:49:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/hundratals-stromlosa-efter-askovader-i-jorn",
+   "desc": "Ett åskoväder har dragit fram över Jörn under torsdagsmorgonen. 580 personer är utan ström i nuläget."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "En person till sjukhus efter dykolycka i Lerkils hamn",
-   "date": "2026-09-02T19:29:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/halland/en-person-till-sjukhus-efter-dykolycka-i-lerkils-hamn",
-   "desc": "På onsdagskvällen inträffade en dykolycka vid Lerkils hamn i Kungsbacka. Två personer har räddats ur vattnet. En person har förts till sjukhus, enligt Sjö- och flygräddningscentralen."
+   "title": "Jakten på metaller hotar renarnas sista väg förbi Kiruna: ”Slutet för samebyn”",
+   "date": "2026-09-03T03:41:03.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/jakten-pa-metaller-hotar-renarnas-sista-vag-forbi-kiruna-slutet-for-samebyn",
+   "desc": "Gruvbolaget LKAB:s planerade gruva i Kiruna kan ge Europa tillgång till sällsynta jordartsmetaller som anses nödvändiga för elektrifiering och klimatomställning. Men fyndigheten ligger under den sista smala flyttleden för Gabna samebys renar. – Det blir slutet för rennäringen som vi känner den om gruvan byggs, säger Lars-Marcus Kuhmunen, ordförande i Gabna sameby i SVT:s ”Renar i vägen”."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Berusad man viftade med kniv i Norrköping",
-   "date": "2026-09-02T18:03:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/berusad-man-viftade-med-kniv-i-norrkoping",
-   "desc": "Efter klockan 19 på onsdagen larmades polisen till Vilbergens centrum i Norrköping då flera personer ska ha sett en man vifta med en kniv."
+   "title": "Forskare söker svar om harpestsmittan – tror på fler fall i framtiden: ”Många frågetecken kvar”",
+   "date": "2026-09-03T03:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/forskare-soker-svar-pa-harpestsmittan-tror-pa-fler-fall-i-framtiden-manga-fragetecken-kvar",
+   "desc": "Det kan bli ett rekordår för harpest i år. Forskare söker fortfarande svar på frågor kring smittspridningen och varför vissa år sticker ut i antalet fall. – Det är många frågetecken kvar kring hur, var och när man blir smittad och varför man har de här topparna vissa år, säger Lovisa Hökby, doktorand, institutionen för vilt, fisk och miljö på SLU i Umeå."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Sirius-supportern om senaste tidens poängtapp: ”Mycket blandade känslor”",
-   "date": "2026-09-02T15:30:03.000Z",
-   "link": "https://www.svt.se/sport/fotboll/sirius-supportern-om-senaste-tidens-poangtapp-mycket-blandade-kanslor",
-   "desc": "Sirius leder fortfarande allsvenskan, men har tre raka förluster och avståndet ner krymper. Supportern Tryggve Pederby säger att tappet börjar märkas på läktarna. Men drömmen om Europaspel 2027 lever vidare. – ”Europaspel 2027” är en ramsa som vi har sjungit i flera år som en ironisk grej, säger Pederby."
+   "title": "Stumfilmsfestival rullar på bussar i Sörmland – når tiotusentals resenärer",
+   "date": "2026-09-03T03:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/stumfilmsfestival-rullar-pa-bussar-i-sormland-nar-tiotusentals-resenarer",
+   "desc": "Just nu pågår en stumfilmsfestival på länets bussar. Från Oxelösund i söder till Eskilstuna i norr visas inskickade filmbidrag och Sörmlandstrafiken uppskattar att omkring 50 000 resenärer tar bussen varje vardag. – Det är jättekul, jag tycker att alla borde se mer film, speciellt kortfilm, säger 21-årige filmaren Felicia Emanuelsson som tillsammans med Nova Cormier har skickat i ett bidrag."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Äldre luras vid dörren – ministern: ”Ska inte känna rädsla när telefonen ringer”",
-   "date": "2026-09-02T15:03:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/aldre-luras-vid-dorren-ministern-ska-inte-kanna-radsla-nar-telefonen-ringer",
-   "desc": "Under tre veckor i augusti utsattes 31 personer för så kallad fysisk vishing i Sydsverige – alltså att en bedragare ringer och uppger falsk identitet för att sedan dyka upp vid dörren. Idag besökte justitieminister Gunnar Strömmer (M) Växjö och berättade om sin lösning på problemet."
+   "title": "Skatteverket: Kryptoföretagens skattefusk fortsätter: ”Stjäl från samhället”",
+   "date": "2026-09-03T03:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kryptoforetagens-skattefusk-fortsatter-stjal-fran-samhallet",
+   "desc": "Skatteverket har beslutat om höjda skatter på närmare 540 miljoner kronor för sex kryptoföretag med verksamhet i Boden. Myndigheten bedömer att bolagen har använt upplägg för att få skattefördelar de inte haft rätt till. – Man kommer till ett samhälle och stjäl från det, säger Patrik Lillqvist, underrättelsechef på Skatteverket."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "De vill styra regionen – debatt mellan Hadzialic (S) och Conradi (M)",
+   "date": "2026-09-03T03:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/de-vill-styra-regionen-debatt-mellan-hadzialic-s-och-conradi-m",
+   "desc": "Med bara en dryg vecka kvar till valet möts finansregionrådet Aida Hadzialic (S) och utmanaren Axel Conradi (M), oppositionsregionråd, i en debatt arrangerad av SVT Nyheter Stockholm. Hör hur de båda ser på ätstörningsvården, vårdköerna och kollektivtrafiken."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-02T13:27:17.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/statens-haverikommission-varmeslag-kan-ha-legat-bakom-dodskraschen-i-norrtalje",
    "desc": "Efter förra årets flygkrasch i Norrtälje, där två personer omkom, är nu Statens haverikommission klar med sin utredning. I den slår man fast att besättningens klädsel kan ha legat bakom kraschen. – Vi vet inte exakt vad som hände. Däremot vet vi att det finns faktorer som kan ha påverkat. Värmebelastning är en av dem, säger SHK:s utredningsordförande Jonas Bäckstrand."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Premiärtur på Slussens nya gång- och cykelbro",
-   "date": "2026-09-02T10:30:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/premiartur-pa-slussens-nya-gang-och-cykelbro",
-   "desc": "Det är drygt ett halvår kvar tills den nya gång- och cykelbron vid Slussen öppnar för allmänheten – men redan nu kan du se hur det ser ut uppe på bron. SVT har nämligen fått en förhandsvisning, där bron också fick sitt officiella namn."
   },
   {
    "src": "BBC",
