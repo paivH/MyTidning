@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-02T08:02:02.571Z",
+ "updated": "2026-09-03T08:12:03.739Z",
  "items": [
   {
-   "ingredient": "pumpa",
-   "idea": "Snabbpickla pumpaklyftor i 1:1:1 ättika, socker, vatten med kanel och nejlika, klart på 30 minuter."
-  },
-  {
    "ingredient": "svamp",
-   "idea": "Stek kantareller hastigt i smör med vitlök, toppa på rostat surdegsbröd – klart på 10 minuter."
+   "idea": "Snabbstekt svamp med vitlök och timjan på rostat surdegsbröd, klart på 10 minuter."
   },
   {
    "ingredient": "rödbetor",
-   "idea": "Fermentera rödbetor i 2% saltlag i 5-7 dagar för syrlig, probiotisk sidorätt."
+   "idea": "Syrade rödbetor: 2% salt i vikt, ferment i rumstemperatur 5 dagar för syrlig krispighet."
   },
   {
    "ingredient": "purjolök",
-   "idea": "Baka purjolöksfokaccia: fräs purjolök i smör, blanda i degen innan andra jäsningen."
+   "idea": "Picklade purjolöksringar i 1:1:1 ättika, vatten, socker - klara att äta efter 2 timmar."
+  },
+  {
+   "ingredient": "pumpa",
+   "idea": "Blanda 20% pumpapuré i surdegen för fuktigt, gyllene bröd - baka som vanligt."
   }
  ]
 }
