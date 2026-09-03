@@ -1,6 +1,30 @@
 {
- "updated": "2026-09-03T04:54:05.423Z",
+ "updated": "2026-09-03T09:25:14.482Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+   "date": "2026-09-03T06:01:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+   "date": "2026-09-03T05:00:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+   "date": "2026-09-03T08:14:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+   "desc": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,74 +36,58 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
-   "date": "2026-09-02T21:34:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-   "date": "2026-09-03T03:21:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-   "desc": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-   "date": "2026-09-02T11:47:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
-   "date": "2026-09-02T20:12:32.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
-   "desc": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial."
+   "title": "Trump $1 coin makes him first living president on US currency in a century",
+   "date": "2026-09-03T03:39:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\""
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hundratals strömlösa efter åskoväder i Jörn",
-   "date": "2026-09-03T04:49:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/hundratals-stromlosa-efter-askovader-i-jorn",
-   "desc": "Ett åskoväder har dragit fram över Jörn under torsdagsmorgonen. 580 personer är utan ström i nuläget."
+   "title": "Ebba Busch om kritiken mot rennäringspolitiken: ”Då har FN fel”",
+   "date": "2026-09-03T09:03:28.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-om-kritiken-mot-rennaringspolitiken-da-har-fn-fel",
+   "desc": "Sverige har flera gånger fått kritik av FN för att inte skydda samernas rättigheter tillräckligt när nya gruvor planeras på samisk mark. Samtidigt vill flera svenska partier minska rennäringens inflytande. – Det är ett kulturellt folkmord som pågår i Kiruna, säger Lars-Marcus Kuhmunen, ordförande i Gabna sameby, i SVT:s ”Renar i vägen”."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Jakten på metaller hotar renarnas sista väg förbi Kiruna: ”Slutet för samebyn”",
-   "date": "2026-09-03T03:41:03.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/jakten-pa-metaller-hotar-renarnas-sista-vag-forbi-kiruna-slutet-for-samebyn",
-   "desc": "Gruvbolaget LKAB:s planerade gruva i Kiruna kan ge Europa tillgång till sällsynta jordartsmetaller som anses nödvändiga för elektrifiering och klimatomställning. Men fyndigheten ligger under den sista smala flyttleden för Gabna samebys renar. – Det blir slutet för rennäringen som vi känner den om gruvan byggs, säger Lars-Marcus Kuhmunen, ordförande i Gabna sameby i SVT:s ”Renar i vägen”."
+   "title": "WMO: El Niño kan bli den starkaste någonsin",
+   "date": "2026-09-03T08:20:31.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/wmo-el-nino-kan-bli-den-starkaste-nagonsin",
+   "desc": "Årets El Niño kan bli den starkaste någonsin, enligt World Meteorological Organization (WMO). Organisationen säger att väderfenomenet redan är igång – och kommer intensifieras till exceptionellt starkt de kommande månaderna. – Vi ser redan förödelse, säger Celeste Saulo, generalsekreterare för WMO på deras presskonferens."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Forskare söker svar om harpestsmittan – tror på fler fall i framtiden: ”Många frågetecken kvar”",
-   "date": "2026-09-03T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/forskare-soker-svar-pa-harpestsmittan-tror-pa-fler-fall-i-framtiden-manga-fragetecken-kvar",
-   "desc": "Det kan bli ett rekordår för harpest i år. Forskare söker fortfarande svar på frågor kring smittspridningen och varför vissa år sticker ut i antalet fall. – Det är många frågetecken kvar kring hur, var och när man blir smittad och varför man har de här topparna vissa år, säger Lovisa Hökby, doktorand, institutionen för vilt, fisk och miljö på SLU i Umeå."
+   "title": "Anmälningsplikt för vattkoppor och RS-virus",
+   "date": "2026-09-03T08:20:27.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/anmalningsplikt-for-vattkoppor-och-rs-virus",
+   "desc": "Det införs anmälningsplikt för bekräftade fall av vattkoppor och RS-virusinfektion från och med den 1 november, skriver Folkhälsomyndigheten i ett pressmeddelande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stumfilmsfestival rullar på bussar i Sörmland – når tiotusentals resenärer",
-   "date": "2026-09-03T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/stumfilmsfestival-rullar-pa-bussar-i-sormland-nar-tiotusentals-resenarer",
-   "desc": "Just nu pågår en stumfilmsfestival på länets bussar. Från Oxelösund i söder till Eskilstuna i norr visas inskickade filmbidrag och Sörmlandstrafiken uppskattar att omkring 50 000 resenärer tar bussen varje vardag. – Det är jättekul, jag tycker att alla borde se mer film, speciellt kortfilm, säger 21-årige filmaren Felicia Emanuelsson som tillsammans med Nova Cormier har skickat i ett bidrag."
+   "title": "80 personer döda efter båtolycka utanför Kanarieöarna",
+   "date": "2026-09-03T07:54:23.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/80-personer-hittade-doda-i-bat-utanfor-kanarieoarna",
+   "desc": "Minst 80 personer har dött efter en båtolycka utanför Kanarieöarna. Det rapporterar spanska nyhetsbyrån Efe."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Skatteverket: Kryptoföretagens skattefusk fortsätter: ”Stjäl från samhället”",
-   "date": "2026-09-03T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kryptoforetagens-skattefusk-fortsatter-stjal-fran-samhallet",
-   "desc": "Skatteverket har beslutat om höjda skatter på närmare 540 miljoner kronor för sex kryptoföretag med verksamhet i Boden. Myndigheten bedömer att bolagen har använt upplägg för att få skattefördelar de inte haft rätt till. – Man kommer till ett samhälle och stjäl från det, säger Patrik Lillqvist, underrättelsechef på Skatteverket."
+   "title": "Kalmar kommun stoppar förskolornas pridetåg efter JO-kritik: ”Jättetråkigt”",
+   "date": "2026-09-03T07:50:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/kalmar-kommun-stoppar-forskolornas-pridetag-efter-jo-kritik-jattetrakigt",
+   "desc": "Inför årets pridevecka har Kalmar kommun uppmanat förskolorna att ta bort pridetåg för barnen. Bakgrunden är JO-kritik i somras, efter att en pappa anmält att hans barn tvingats delta i ett tåg. – Vi uppmanar förskolorna att se över inslag som kan uppfattas som manifestationer, säger skolchef Mats Linde."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "E18 stängd efter lastbilsolycka",
+   "date": "2026-09-03T08:33:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/e18-stangd-efter-lastbilsolycka",
+   "desc": "En lastbil har kört in i mitträcket och släpet ligger delvis över vägen på E18 Norrtäljevägen. Vägen är nu blockerad, och trafikverket har ännu ingen prognos för när vägen öppnas."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-02T14:21:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-i-liljeholmen",
    "desc": "Vid 14.30-tiden på onsdagen kallades polisen till en kurslokal i Liljeholmen. Anledningen var att ett misstänkt farligt föremål hittats. Föremålet visade sig senare vara ofarligt, men en man greps i samband med insatsen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Statens haverikommission: Värmeslag kan ha legat bakom dödskraschen i Norrtälje",
-   "date": "2026-09-02T13:27:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/statens-haverikommission-varmeslag-kan-ha-legat-bakom-dodskraschen-i-norrtalje",
-   "desc": "Efter förra årets flygkrasch i Norrtälje, där två personer omkom, är nu Statens haverikommission klar med sin utredning. I den slår man fast att besättningens klädsel kan ha legat bakom kraschen. – Vi vet inte exakt vad som hände. Däremot vet vi att det finns faktorer som kan ha påverkat. Värmebelastning är en av dem, säger SHK:s utredningsordförande Jonas Bäckstrand."
   },
   {
    "src": "BBC",
