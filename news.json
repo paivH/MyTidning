@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T17:27:49.520Z",
+ "updated": "2026-09-04T19:47:45.531Z",
  "items": [
   {
    "src": "BBC",
@@ -84,10 +84,26 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt farligt föremål hittat i trapphus",
+   "title": "Nyheter från dagen: 4 september",
+   "date": "2026-09-04T18:45:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-4-september-k3yoio",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under fredagen den 4 september."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Så vill politikerna i Stockholm lösa bostadskrisen för unga",
+   "date": "2026-09-04T18:21:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-vill-politikerna-i-stockholm-losa-bostadskrisen-for-unga",
+   "desc": "En bostad på 1,9 kvadratmeter. Det är vad en genomsnittlig 25-åring har råd att köpa i Stockholm, enligt Riksbyggens beräkningar. Och politikerna i Stockholm är till viss del överens om vad som behöver göras för att underlätta för unga att få en bostad."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt farligt föremål hittat i trapphus i Märsta",
    "date": "2026-09-04T14:46:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-hittat-i-trapphus",
-   "desc": "Ett föremål har hittats av en person i ett flerfamiljshus i Märsta. Nationella bombskyddet, NBS, är på väg till platsen för att undersöka. – Föremålet hittades i ett trapphus men är flyttat till en byggnad i närheten där inga personer bor, säger Mats Eriksson presstalesperson vid Stockholmspolisen."
+   "desc": "Ett misstänkt farligt föremål hittades i ett trapphus i Märsta i Sigtuna på fredagen. Bombskyddet har sett till att föremålet inte längre är farligt och tagit med sig det från platsen."
   },
   {
    "src": "STHLM",
@@ -103,23 +119,7 @@
    "title": "Kvinna kan ha utsatts för brott utomhus – utreds som våldtäkt",
    "date": "2026-09-04T10:41:52.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-kan-ha-utsatts-for-brott-utomhus-utreds-som-valdtakt",
-   "desc": "En kvinna påträffades utomhus av en privatperson igår kväll, och polisen uppger att hon kan ha utsatts för brott. Händelsen inträffade i utkanten av ett naturområde i Jakobsberg och utreds nu som våldtäkt av polisen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här är helgens evenemang och trafikavspärrningar i Stockholm",
-   "date": "2026-09-04T10:14:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-ar-helgens-evenemang-och-trafikavsparrningar",
-   "desc": "Den här helgen arrangeras flera sportevenemang och större sammankomster runt om i Stockholm. Många deltagare och åskådare väntas till staden, och polisen planerar därför för flera trafikavspärrningar. – Det är cirka 19 000 anmälda deltagare. Fyra kilometer av loppet går genom city, säger Sanna Nilsson, kommunikatör Tjejmilen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Efter hot på skola – polis på plats under dagen",
-   "date": "2026-09-04T08:12:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-hot-pa-skola-polis-pa-plats-under-dagen",
-   "desc": "Ett hotfullt meddelande hittades på en toalett på Broängsskolan i Tumba på torsdagen. På fredagen var polis på plats för att finnas till hands."
+   "desc": "En kvinna hittades utomhus av en privatperson igår kväll. Händelsen, som inträffade i utkanten av ett naturområde i Jakobsberg, utreds nu av polisen som våldtäkt."
   },
   {
    "src": "BBC",
