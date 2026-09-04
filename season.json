@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-03T08:12:03.739Z",
+ "updated": "2026-09-04T08:07:02.785Z",
  "items": [
   {
-   "ingredient": "svamp",
-   "idea": "Snabbstekt svamp med vitlök och timjan på rostat surdegsbröd, klart på 10 minuter."
-  },
-  {
    "ingredient": "rödbetor",
-   "idea": "Syrade rödbetor: 2% salt i vikt, ferment i rumstemperatur 5 dagar för syrlig krispighet."
+   "idea": "Snabbpickla skivad rödbeta i 1:1:1 ättika, vatten, socker med lagerblad – klar på 2 timmar."
   },
   {
-   "ingredient": "purjolök",
-   "idea": "Picklade purjolöksringar i 1:1:1 ättika, vatten, socker - klara att äta efter 2 timmar."
+   "ingredient": "kål",
+   "idea": "Fermentera strimlad kål med 2% salt i 5-7 dagar för hemgjord surkål till middagen."
   },
   {
    "ingredient": "pumpa",
-   "idea": "Blanda 20% pumpapuré i surdegen för fuktigt, gyllene bröd - baka som vanligt."
+   "idea": "Baka ett saftigt pumpabröd – blanda pumpapuré i degen för fin färg och sötma."
+  },
+  {
+   "ingredient": "jordärtskocka",
+   "idea": "Stek jordärtskocksskivor snabbt i smör med salvia – krispigt, klart på 15 minuter."
   }
  ]
 }
