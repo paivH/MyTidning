@@ -1,40 +1,40 @@
 {
- "updated": "2026-09-03T08:22:48.912Z",
+ "updated": "2026-09-04T08:18:36.281Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen lösvikt",
+   "item": "Svenska äpplen Aroma, lösvikt",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé 900g",
+   "item": "Kycklingfilé Kronfågel 900g",
    "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Färsk lax fillet 400g",
-   "price": "49 kr",
+   "item": "Färska kantareller 250g",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Potatis Sverige 2kg",
-   "price": "15 kr",
+   "item": "Gouda ost skivad 500g",
+   "price": "29 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (Food market)",
+   "item": "Köttbullar 1kg fryst",
    "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utekudde 45x45cm",
+   "item": "Höstkrukor och krysantemum",
    "price": "39 kr",
    "url": "https://www.rusta.com/se"
   }
