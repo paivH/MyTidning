@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-04T13:57:52.976Z",
+ "updated": "2026-09-04T17:27:49.520Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-   "date": "2026-09-04T10:00:18.000Z",
+   "date": "2026-09-04T16:49:15.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
    "desc": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-   "date": "2026-09-04T08:23:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-   "desc": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors."
+   "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+   "date": "2026-09-04T14:40:00.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+   "desc": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
   },
   {
    "src": "BBC",
@@ -28,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US diesel prices hit an all-time-high",
-   "date": "2026-09-04T10:52:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices."
+   "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+   "date": "2026-09-04T16:02:32.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
   },
   {
    "src": "BBC",
@@ -44,42 +44,58 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna åtalas för knivattack i centrala Norrköping",
-   "date": "2026-09-04T13:34:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/kvinna-atalas-for-knivattack",
-   "desc": "Det var i mitten av juli som en 34-årig kvinna knivhögg en kvinna i 40-årsåldern på en busshållplats i Södertull i centrala Norrköping. Nu åtalas hon."
+   "title": "Körde medvetet på A-traktor – lastbilförare döms",
+   "date": "2026-09-04T16:45:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/korde-medvetet-pa-a-traktor-lastbilforare-doms",
+   "desc": "En man i 40-årsåldern döms för att ha kört på en A-traktor i Östersund och sedan smitit från olycksplatsen. Straffet blir villkorlig dom och dagsböter på 6400 kronor."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Två häktade efter kidnappning i Göteborg",
-   "date": "2026-09-04T13:23:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/tva-haktade-efter-kidnappning-i-goteborg",
-   "desc": "Sju män häktades efter en ett misstänkt människorov i Göteborg under helgen. Nu häktas två av dem."
+   "title": "16-åringens nätspår visar långvarig kontakt med Liam Nebels misstänkta konto",
+   "date": "2026-09-04T16:19:36.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/16-aringens-natspar-visar-langvarig-kontakt-med-liam-nebels-misstankta-konto",
+   "desc": "Den 16-årige pojke som sitter häktad misstänkt för inblandning i skoldådet i Fagersta kan kopplas till extremistiska miljöer. Det visar SVT:s granskning av den misstänktes digitala fotspår. Granskningen pekar på att han vid upprepade tillfällen hade kontakt med den misstänkte skolangriparen Liam Nebel månaderna före dådet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Försäljning för dagar slut på timmar – svårt att möta efterfrågan",
-   "date": "2026-09-04T13:20:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/forsaljning-for-dagar-slut-pa-timmar-svart-att-mota-eftrfragan",
-   "desc": "Knappt två timmar efter att rekommendationen om att nästan hela Östersunds stad behöver vatten till dryck och matlagning så var vattenhyllorna tomma på en av de stora matvaruaffärerna."
+   "title": "Som en actionfilm: Misstänkt koppartjuv gripen i Vaggeryd",
+   "date": "2026-09-04T14:44:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/misstankt-koppartjuv-gripen-efter-radigt-ingripande",
+   "desc": "När två män misstänktes stjäla koppar från ett industriområde i Vaggeryd satte en lastbilschaufför stopp för flykten. En av männen kunde därefter gripas av polis."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tranunge fastnade i fårstängsel utanför Rörvik – här räddas den",
-   "date": "2026-09-04T12:23:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tranunge-fastnade-i-farstangsel-utanfor-rorvik-har-raddas-den",
-   "desc": "För en tranunge som hade fastnat med sitt ena ben i ett staket utanför Rörvik i Sävsjö kommun, hade det kunnat sluta illa, om inte Mats Nyberg kommit förbi."
+   "title": "MP-toppen om svaga stödet i Jönköping: ”Bensindebatten kostade”",
+   "date": "2026-09-04T14:31:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/mp-toppen-om-svaga-stodet-i-jonkoping-bensindebatten-kostade",
+   "desc": "Miljöpartiet gjorde ett dåligt val förra gången i Jönköpings län. Sämre än i övriga landet. Nu ser man en kraftig ökning av antalet medlemmar och hoppas vända den negativa trenden. – Vi hade inget svar på frågorna om bensinpriserna, medger partisekreteraren Katrin Wissing som besökte Jönköping under torsdagen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hur nära är fred mellan Ryssland och Ukraina?",
-   "date": "2026-09-04T11:59:59.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/hur-nara-ar-fred-mellan-ryssland-och-ukraina",
-   "desc": "Turerna har varit många i fredsprocessen mellan Ryssland och Ukraina. Men i grunden har ganska lite förändrats – och freden ser fortsatt ut att vara långt borta."
+   "title": "Regeringens beslut: Naturreservat kan upphävas för kärnkraft vid Ringhals",
+   "date": "2026-09-04T14:29:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/regeringens-beslut-naturreservat-kan-upphavas-for-karnkraft-vid-ringhals",
+   "desc": "Regeringen går på länsstyrelsens linje och godkänner att delar av Biskopshagens naturreservat upplåts för att ge plats åt ny kärnkraft vid Ringhals. – Det är nedslående, men inte helt oväntat, säger Linus Källgård, ordförande för Värna Värö, en av föreningarna som överklagat länsstyrelsens beslut."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt farligt föremål hittat i trapphus",
+   "date": "2026-09-04T14:46:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-hittat-i-trapphus",
+   "desc": "Ett föremål har hittats av en person i ett flerfamiljshus i Märsta. Nationella bombskyddet, NBS, är på väg till platsen för att undersöka. – Föremålet hittades i ett trapphus men är flyttat till en byggnad i närheten där inga personer bor, säger Mats Eriksson presstalesperson vid Stockholmspolisen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Hela Södra länken avstängd",
+   "date": "2026-09-04T14:10:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hela-sodra-lanken-avstangd",
+   "desc": "Södra länken var avstängd på grund av en befarad brand på fredagseftermiddagen."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "Ett hotfullt meddelande hittades på en toalett på Broängsskolan i Tumba på torsdagen. På fredagen var polis på plats för att finnas till hands."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Trafiken på tunnelbanans gröna linje igång igen",
-   "date": "2026-09-04T04:58:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/totalstopp-i-stockholms-kollektivtrafik",
-   "desc": "På grund av ett teknisk fel var det stopp i båda riktningarna på tunnelbanans gröna linje i Stockholm under fredagen. Felet kunde först åtgärdas strax innan klockan 13 ."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Tullingepartiet vill bryta sig loss från Botkyrka",
-   "date": "2026-09-04T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tullingepartiet-vill-bryta-sig-loss-fran-botkyrka",
-   "desc": "En ny simhall i Riksten, en andra uppgång till Tullinge pendeltågsstation och en ny badbrygga vid Maden. Det är några av frågorna som Tullingepartiet driver. Men den största frågan handlar om att bryta sig loss från Botkyrka – och bli en helt egen kommun. – Tullingeborna är redo, säger Tullingepartiets kommunalråd Carl Widercrantz."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-04T15:24:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p81d3w?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd head coach Michael Carrick on their transfer business and Joshua Zirkzee staying."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-08-31T16:00:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p77d96?at_medium=RSS&at_campaign=rss",
    "desc": "More from Michael Carrick on Ipswich, Kobbie Mainoo, Marcus Rashford and deadline day."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-31T13:35:16.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p775f1?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd defender Luke Shaw on beating Ipswich, Bruno Fernandes and Kobbie Mainoo."
   }
  ]
 }
