@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-05T15:24:57.905Z",
+ "updated": "2026-09-05T17:26:52.220Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-   "date": "2026-09-05T15:14:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-   "desc": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships."
+   "title": "US envoys meet Putin in Moscow for Ukraine talks",
+   "date": "2026-09-05T17:18:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+   "desc": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-   "date": "2026-09-05T15:05:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
+   "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+   "date": "2026-09-05T17:15:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+   "desc": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm."
   },
   {
    "src": "BBC",
@@ -37,7 +37,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "What different world maps get right - and what they get wrong",
-   "date": "2026-09-05T13:46:02.000Z",
+   "date": "2026-09-05T16:14:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
    "desc": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong."
   },
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 5 september",
+   "date": "2026-09-05T16:40:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-5-september-4dc6qc",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under lördagen den 5 september."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Ridklubben Riddersviks fältrittklubb i Hässelby tvingas lämna stallet efter 60 år",
    "date": "2026-09-05T03:30:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/ridklubben-riddersviks-faltrittklubb-i-hasselby-tvingas-lamna-stallet-efter-60-ar",
@@ -112,14 +120,6 @@
    "date": "2026-09-04T14:46:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-farligt-foremal-hittat-i-trapphus",
    "desc": "Ett misstänkt farligt föremål hittades i ett trapphus i Märsta i Sigtuna på fredagen. Bombskyddet har sett till att föremålet inte längre är farligt och tagit med sig det från platsen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Hela Södra länken avstängd",
-   "date": "2026-09-04T14:10:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hela-sodra-lanken-avstangd",
-   "desc": "Södra länken var avstängd på grund av en befarad brand på fredagseftermiddagen."
   },
   {
    "src": "BBC",
