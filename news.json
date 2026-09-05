@@ -1,6 +1,22 @@
 {
- "updated": "2026-09-05T12:19:37.232Z",
+ "updated": "2026-09-05T15:24:57.905Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+   "date": "2026-09-05T15:14:21.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+   "desc": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+   "date": "2026-09-05T15:05:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,34 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-   "date": "2026-09-05T11:07:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
+   "title": "At least two dead in blast at Bolivia military barracks",
+   "date": "2026-09-05T15:22:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-   "date": "2026-09-04T16:49:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-   "desc": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-   "date": "2026-09-04T12:30:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump signs order to remove endangered species protection for grey wolves",
-   "date": "2026-09-05T09:12:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations."
+   "title": "What different world maps get right - and what they get wrong",
+   "date": "2026-09-05T13:46:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+   "desc": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong."
   },
   {
    "src": "SVT",
