@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T04:46:43.453Z",
+ "updated": "2026-09-05T08:46:50.845Z",
  "items": [
   {
    "src": "BBC",
@@ -37,9 +37,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "At least two dead in blast at Bolivia military barracks",
-   "date": "2026-09-05T02:59:40.000Z",
+   "date": "2026-09-05T08:41:38.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
    "desc": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fis ordförande Alexander Ospelt: Räknar med fler ryssar i världscupen",
+   "date": "2026-09-05T07:21:08.000Z",
+   "link": "https://www.svt.se/sport/vintersport/fis-ordforande-alexander-ospelt-raknar-med-fler-ryssar-i-varldscupen",
+   "desc": "Tidigare i veckan meddelade det internationella skid- och snowboardförbundet att de ändrar reglerna kring ryska åkare i världscupen. Det betyder att det lär bli fler ryssar i vinterns tävlingar, enligt Fis ordförande Alexander Ospelt."
   },
   {
    "src": "SVT",
@@ -63,7 +71,7 @@
    "title": "Flera döda i explosion på militärförläggning i Bolivia",
    "date": "2026-09-05T02:58:25.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-explosion-pa-militarforlaggning-i-bolivia",
-   "desc": "Minst tio personer har omkommit i en explosion vid en militärförläggning i Bolivianska Viacha, uppger lokala myndigheter enligt Reuters."
+   "desc": "Explosioner har ägt rum på en militärförläggning i Bolivia. Det rapporteras om ett flertal dödsfall och tiotals skadade."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-04T16:45:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/korde-medvetet-pa-a-traktor-lastbilforare-doms",
    "desc": "En man i 40-årsåldern döms för att ha kört på en A-traktor i Östersund och sedan smitit från olycksplatsen. Straffet blir villkorlig dom och dagsböter på 6400 kronor."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "16-åringens nätspår visar långvarig kontakt med Liam Nebels misstänkta konto",
-   "date": "2026-09-04T16:19:36.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/16-aringens-natspar-visar-langvarig-kontakt-med-liam-nebels-misstankta-konto",
-   "desc": "Den 16-årige pojke som sitter häktad misstänkt för inblandning i skoldådet i Fagersta kan kopplas till extremistiska miljöer. Det visar SVT:s granskning av den misstänktes digitala fotspår. Granskningen pekar på att han vid upprepade tillfällen hade kontakt med den misstänkte skolangriparen Liam Nebel månaderna före dådet."
   },
   {
    "src": "STHLM",
