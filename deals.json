@@ -1,30 +1,24 @@
 {
- "updated": "2026-09-04T08:18:36.281Z",
+ "updated": "2026-09-05T07:55:25.359Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
-   "price": "19 kr/kg",
+   "item": "Svenska äpplen Aroma i lösvikt",
+   "price": "24 kr/kg",
    "url": "https://www.ica.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Kycklingfilé 900g",
+   "price": "59 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
-   "price": "59 kr",
+   "item": "Färsk laxfilé",
+   "price": "99 kr/kg",
    "url": "https://www.ica.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Färska kantareller 250g",
-   "price": "39 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Gouda ost skivad 500g",
-   "price": "29 kr",
-   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
@@ -34,9 +28,15 @@
   },
   {
    "store": "Rusta",
-   "item": "Höstkrukor och krysantemum",
-   "price": "39 kr",
+   "item": "Utomhuskuddar 2-pack",
+   "price": "79 kr",
    "url": "https://www.rusta.com/se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Svenska morötter 1kg",
+   "price": "12 kr",
+   "url": "https://www.lidl.se"
   }
  ]
 }
