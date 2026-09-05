@@ -1,19 +1,19 @@
 {
- "updated": "2026-09-05T17:26:52.220Z",
+ "updated": "2026-09-05T19:16:59.935Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US envoys meet Putin in Moscow for Ukraine talks",
-   "date": "2026-09-05T17:18:31.000Z",
+   "date": "2026-09-05T19:01:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-   "desc": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\"."
+   "desc": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-   "date": "2026-09-05T17:15:05.000Z",
+   "date": "2026-09-05T18:48:37.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
    "desc": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm."
   },
@@ -40,6 +40,14 @@
    "date": "2026-09-05T16:14:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
    "desc": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Victor Leksell på scen i Göteborg – fansen övernattar i brassestolar",
+   "date": "2026-09-05T17:34:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/viktor-leksell-pa-scen-i-goteborg-fansen-overnattar-i-brassestolar",
+   "desc": "Elina Basic, Tess Fammo och Emma Bornmar har sovit fem nätter på brassestolar i Slottskogen – allt för att stå längst fram på Victor Leksells konsert under lördagen. – Det blir att gå till naprapat nu. I natt sov vi två timmar, säger Elina Basic."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-05T02:58:25.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-explosion-pa-militarforlaggning-i-bolivia",
    "desc": "Explosioner har ägt rum på en militärförläggning i Bolivia. Det rapporteras om ett flertal dödsfall och tiotals skadade."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Körde medvetet på A-traktor – lastbilförare döms",
-   "date": "2026-09-04T16:45:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/korde-medvetet-pa-a-traktor-lastbilforare-doms",
-   "desc": "En man i 40-årsåldern döms för att ha kört på en A-traktor i Östersund och sedan smitit från olycksplatsen. Straffet blir villkorlig dom och dagsböter på 6400 kronor."
   },
   {
    "src": "STHLM",
