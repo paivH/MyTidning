@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-05T21:28:05.171Z",
+ "updated": "2026-09-05T23:09:50.927Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US envoys meet Putin in Moscow for Ukraine talks",
-   "date": "2026-09-05T20:15:49.000Z",
+   "date": "2026-09-05T21:39:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
    "desc": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-   "date": "2026-09-05T20:41:59.000Z",
+   "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+   "date": "2026-09-05T22:44:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-   "desc": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment."
+   "desc": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
   },
   {
    "src": "BBC",
@@ -36,10 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What different world maps get right - and what they get wrong",
-   "date": "2026-09-05T16:14:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-   "desc": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong."
+   "title": "Prince William to attend King Harald's funeral in Norway",
+   "date": "2026-09-05T21:00:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+   "desc": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week."
   },
   {
    "src": "SVT",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-09-05T21:30:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p82l2r?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd head coach Michael Carrick says they can compete, even without spending more."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-09-04T15:24:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p81d3w?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd head coach Michael Carrick on their transfer business and Joshua Zirkzee staying."
@@ -144,14 +152,6 @@
    "date": "2026-09-02T13:28:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p7jnlv?at_medium=RSS&at_campaign=rss",
    "desc": "Gaz is joined by Jay Motty to discuss deadline day and Utd's win over Ipswich."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-08-31T16:00:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p77d96?at_medium=RSS&at_campaign=rss",
-   "desc": "More from Michael Carrick on Ipswich, Kobbie Mainoo, Marcus Rashford and deadline day."
   }
  ]
 }
