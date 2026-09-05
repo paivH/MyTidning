@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T00:15:10.653Z",
+ "updated": "2026-09-05T04:46:43.453Z",
  "items": [
   {
    "src": "BBC",
@@ -12,6 +12,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+   "date": "2026-09-05T04:28:21.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+   "desc": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
    "date": "2026-09-04T16:49:15.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
@@ -20,26 +28,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-   "date": "2026-09-04T14:40:00.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-   "desc": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
+   "title": "UN votes to adopt new world map to reflect Africa's true size",
+   "date": "2026-09-05T00:53:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-   "date": "2026-09-04T23:07:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-   "desc": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two."
+   "title": "At least two dead in blast at Bolivia military barracks",
+   "date": "2026-09-05T02:59:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-   "date": "2026-09-04T16:02:32.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Elenas bästa vän dödades på Brinellskolan",
+   "date": "2026-09-05T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/elenas-basta-van-dodades-pa-brinellskolan",
+   "desc": "De fann varandra på Tiktok, intresset för samhällsfrågor förde dem samman. Men den 21 augusti dödades Elena Makars bästa vän i dådet på Brinellskolan. Mitt i sorgen finns ilskan över vad hon misstänker skulle kunna vara gärningsmannens motiv. – Hon hade blivit jättestolt över mig som vågar stå upp och prata om det här, säger Elena, 18 år."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sörmland enda länet där villapriserna sjunker – här är mäklarens råd",
+   "date": "2026-09-05T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/sormland-enda-lanet-dar-villapriserna-sjunker-har-ar-maklarens-rad",
+   "desc": "I alla län har villapriserna ökat – förutom i Sörmland. Här har de i stället backat med två procent på ett år. Fastighetsmäklaren Sara Lindstrand menar att orsaken kan vara pandemin, som lockade en ny kundgrupp till länet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flera döda i explosion på militärförläggning i Bolivia",
+   "date": "2026-09-05T02:58:25.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-explosion-pa-militarforlaggning-i-bolivia",
+   "desc": "Minst tio personer har omkommit i en explosion vid en militärförläggning i Bolivianska Viacha, uppger lokala myndigheter enligt Reuters."
   },
   {
    "src": "SVT",
@@ -58,28 +82,12 @@
    "desc": "Den 16-årige pojke som sitter häktad misstänkt för inblandning i skoldådet i Fagersta kan kopplas till extremistiska miljöer. Det visar SVT:s granskning av den misstänktes digitala fotspår. Granskningen pekar på att han vid upprepade tillfällen hade kontakt med den misstänkte skolangriparen Liam Nebel månaderna före dådet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Som en actionfilm: Misstänkt koppartjuv gripen i Vaggeryd",
-   "date": "2026-09-04T14:44:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/misstankt-koppartjuv-gripen-efter-radigt-ingripande",
-   "desc": "När två män misstänktes stjäla koppar från ett industriområde i Vaggeryd satte en lastbilschaufför stopp för flykten. En av männen kunde därefter gripas av polis."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "MP-toppen om svaga stödet i Jönköping: ”Bensindebatten kostade”",
-   "date": "2026-09-04T14:31:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/mp-toppen-om-svaga-stodet-i-jonkoping-bensindebatten-kostade",
-   "desc": "Miljöpartiet gjorde ett dåligt val förra gången i Jönköpings län. Sämre än i övriga landet. Nu ser man en kraftig ökning av antalet medlemmar och hoppas vända den negativa trenden. – Vi hade inget svar på frågorna om bensinpriserna, medger partisekreteraren Katrin Wissing som besökte Jönköping under torsdagen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Regeringens beslut: Naturreservat kan upphävas för kärnkraft vid Ringhals",
-   "date": "2026-09-04T14:29:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/halland/regeringens-beslut-naturreservat-kan-upphavas-for-karnkraft-vid-ringhals",
-   "desc": "Regeringen går på länsstyrelsens linje och godkänner att delar av Biskopshagens naturreservat upplåts för att ge plats åt ny kärnkraft vid Ringhals. – Det är nedslående, men inte helt oväntat, säger Linus Källgård, ordförande för Värna Värö, en av föreningarna som överklagat länsstyrelsens beslut."
+   "title": "Ridklubben Riddersviks fältrittklubb i Hässelby tvingas lämna stallet efter 60 år",
+   "date": "2026-09-05T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ridklubben-riddersviks-faltrittklubb-i-hasselby-tvingas-lamna-stallet-efter-60-ar",
+   "desc": "Riddersviks fältrittklubbs 141 år gamla stall behöver renoveras för att leva upp till dagens krav för djurskydd. Men ridklubben och fastighetsägaren, Stockholms stad, är inte överens om vem som ska stå för notan. Nu måste ridklubben lämna stallet – eftersom de inte har råd att betala för renoveringen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-04T14:10:58.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/hela-sodra-lanken-avstangd",
    "desc": "Södra länken var avstängd på grund av en befarad brand på fredagseftermiddagen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinna kan ha utsatts för brott utomhus – utreds som våldtäkt",
-   "date": "2026-09-04T10:41:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-kan-ha-utsatts-for-brott-utomhus-utreds-som-valdtakt",
-   "desc": "En kvinna hittades utomhus av en privatperson igår kväll. Händelsen, som inträffade i utkanten av ett naturområde i Jakobsberg, utreds nu av polisen som våldtäkt."
   },
   {
    "src": "BBC",
