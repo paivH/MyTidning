@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-06T17:13:14.407Z",
+ "updated": "2026-09-06T19:22:46.434Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-   "date": "2026-09-06T15:32:27.000Z",
+   "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+   "date": "2026-09-06T18:33:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-   "desc": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion."
+   "desc": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "German far-right set for big win in eastern state - projections",
-   "date": "2026-09-06T16:59:25.000Z",
+   "title": "German far-right set for big win in eastern state, projections show",
+   "date": "2026-09-06T19:13:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%."
+   "desc": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-09-06T08:05:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
    "desc": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Beskedet från Amanda Lind (MP): Bensinen höjs med sex kronor",
+   "date": "2026-09-06T19:04:06.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/beskedet-fran-amanda-lind-mp-bensinen-hojs-med-sex-kronor",
+   "desc": "Sex kronor litern. Så mycket dyrare beräknar Miljöpartiet att bensinpriserna kommer att bli om deras politik går igenom. Det uppger språkröret Amanda Lind (M) i SVT:s Utfrågning."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Skarpa skott och nedbrända hus. Attacker från de israeliska bosättarna sker allt oftare och blir allt våldsammare, enligt de palestinier SVT möter på Västbanken. – Tidigare kastades stenar, nu har det nått stadiet där det dödas och skjuts, säger ambulansföraren och aktivisten Bashar al-Qaryouti."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Steve Witkoff och Jared Kushner på plats i Kiev",
-   "date": "2026-09-06T11:05:06.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/steve-witkoff-och-jared-kushner-pa-plats-i-kiev",
-   "desc": "Nu möts Volodymyr Zelenskyj, Steve Witkoff och Jared Kushner i Kiev. De amerikanska sändebuden anlände med tåg från Polen efter samtalen med Vladimir Putin i Moskva kvällen innan. ”Det behövs säkerhetsgarantier. Det behövs en värdig efterkrigsfred”, skriver Ukrainas president Volodymyr Zelenskyj på X inför mötet."
+   "title": "Nyheter från dagen: 6 september",
+   "date": "2026-09-06T17:53:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-6-september-ovd0nk",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under sömdagen den 6 september."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-05T16:40:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-5-september-4dc6qc",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om under lördagen den 5 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Ridklubben Riddersviks fältrittklubb i Hässelby tvingas lämna stallet efter 60 år",
-   "date": "2026-09-05T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ridklubben-riddersviks-faltrittklubb-i-hasselby-tvingas-lamna-stallet-efter-60-ar",
-   "desc": "Riddersviks fältrittklubbs 141 år gamla stall behöver renoveras för att leva upp till dagens krav för djurskydd. Men ridklubben och fastighetsägaren, Stockholms stad, är inte överens om vem som ska stå för notan. Nu måste ridklubben lämna stallet – eftersom de inte har råd att betala för renoveringen."
   },
   {
    "src": "BBC",
