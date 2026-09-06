@@ -1,27 +1,35 @@
 {
- "updated": "2026-09-06T14:18:22.903Z",
+ "updated": "2026-09-06T17:13:14.407Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
-   "date": "2026-09-06T13:16:21.000Z",
+   "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+   "date": "2026-09-06T15:32:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-   "desc": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion."
+   "desc": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-   "date": "2026-09-06T09:56:39.000Z",
+   "title": "German far-right set for big win in eastern state - projections",
+   "date": "2026-09-06T16:59:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+   "date": "2026-09-06T16:00:21.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
+   "desc": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Dozens feared trapped in collapsed building in Delhi",
-   "date": "2026-09-06T14:07:35.000Z",
+   "date": "2026-09-06T16:54:34.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
    "desc": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
   },
@@ -34,12 +42,20 @@
    "desc": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-   "date": "2026-09-05T22:44:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polis påkörd av fyrhjuling vid Landvetter",
+   "date": "2026-09-06T16:22:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/polis-pakord-av-fyrhjuling-vid-landvetter",
+   "desc": "När polisen skulle kontrollera fyra fyrhjulingsförare utanför McDonalds vid Landvetter flygplats uppstod tumult. En av förarna körde då på en polis och eftersöks nu av polisen. – Jag tror att vi har ganska bra chanser att få tag på rätt person, säger polisens vakthavande befäl Morten Gunneng."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Stor klimatmarsch i Göteborg  vill lyfta klimatet som valfråga",
+   "date": "2026-09-06T15:31:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/stor-klimatmarsch-i-goteborg-vill-lyfta-klimatet-som-valfraga",
+   "desc": "Under söndagseftermiddagen gick ett femtiotal organisationer ihop för att lyfta klimatfrågan inför valet. Och tusen och åter tusen personer gick från Linnéplatsen till Gustav Adolfs torg där tal hölls av bland annat Greta Thunberg. – Det här är den största klimatdemonstrationen jag varit på i Göteborg, säger Sara Isaksson."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-09-06T11:05:06.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/steve-witkoff-och-jared-kushner-pa-plats-i-kiev",
    "desc": "Nu möts Volodymyr Zelenskyj, Steve Witkoff och Jared Kushner i Kiev. De amerikanska sändebuden anlände med tåg från Polen efter samtalen med Vladimir Putin i Moskva kvällen innan. ”Det behövs säkerhetsgarantier. Det behövs en värdig efterkrigsfred”, skriver Ukrainas president Volodymyr Zelenskyj på X inför mötet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man hittad avliden i Leksand – utreds som mord",
-   "date": "2026-09-06T08:30:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/man-hittad-avliden-i-leksand-utreds-som-mord",
-   "desc": "En man har anträffats avliden i vattnet i Leksands kommun. Polisen har inlett en förundersökning gällande mord."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Gustav Gellerbrant om Expos avslöjande: ”Lösryckta uppgifter”",
-   "date": "2026-09-06T06:25:48.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/gustav-gellerbrant-om-expos-avslojande-losryckta-uppgifter",
-   "desc": "SD-toppen Gustav Gellerbrant kommenterar nu för första gången rapporteringen om sambons koppling till ryska statsaktörer och spridning av rysk propaganda. I ett inlägg på sociala medier kallar han det för ”lösryckta uppgifter” för att väcka misstankar kring ”hennes ursprung i Ryssland”."
   },
   {
    "src": "STHLM",
