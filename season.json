@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-05T07:46:59.561Z",
+ "updated": "2026-09-06T08:01:10.680Z",
  "items": [
   {
+   "ingredient": "jordärtskocka",
+   "idea": "Snabbpickla jordärtskocka i 1:1:1 ättika, socker, vatten med senapsfrön – klar på 30 minuter."
+  },
+  {
+   "ingredient": "äpplen",
+   "idea": "Baka enkelt äppelbröd med rivna äpplen och kanel, deg vilar 1 timme, grädda 200°C."
+  },
+  {
    "ingredient": "purjolök",
-   "idea": "Syrad purjolök: 2% salt av vikt, packa i burk, 5 dagar rumstemp för syrlig smörgåstopping."
+   "idea": "Fräs purjolök i smör, vänd i pasta med parmesan – klart på 15 minuter."
   },
   {
-   "ingredient": "svamp",
-   "idea": "Stekt svamp i smör med timjan, klart på 10 minuter, toppa rostat surdegsbröd som snabb middag."
-  },
-  {
-   "ingredient": "rödbetor",
-   "idea": "Picklade rödbetor: koka 1 dl ättika 12%, 1 dl socker, 2 dl vatten, häll över skivor."
-  },
-  {
-   "ingredient": "pumpa",
-   "idea": "Pumpabröd på surdeg: riv 200g pumpa i degen för saftig krumelur och naturlig sötma."
+   "ingredient": "kål",
+   "idea": "Fermentera vitkål till syrlig surkål, 2% salt, 1 vecka i rumstemperatur, servera till korv."
   }
  ]
 }
