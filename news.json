@@ -1,21 +1,29 @@
 {
- "updated": "2026-09-06T19:22:46.434Z",
+ "updated": "2026-09-06T21:31:29.420Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-   "date": "2026-09-06T18:33:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-   "desc": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv."
+   "title": "German far-right set for big win in eastern state, projections show",
+   "date": "2026-09-06T20:45:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "German far-right set for big win in eastern state, projections show",
-   "date": "2026-09-06T19:13:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
+   "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+   "date": "2026-09-06T20:41:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+   "desc": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+   "date": "2026-09-06T20:52:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+   "desc": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale."
   },
   {
    "src": "BBC",
@@ -34,12 +42,12 @@
    "desc": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-   "date": "2026-09-06T08:05:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flera döda i fyrverkeriolycka i Mexiko",
+   "date": "2026-09-06T21:15:49.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-fyrverkeriolycka-i-mexiko",
+   "desc": "Minst tio personer har dödats och ytterligare 64 skadats under en fyrverkerishow i Mexiko på lördagen, rapporterar AP."
   },
   {
    "src": "SVT",
@@ -47,7 +55,7 @@
    "title": "Beskedet från Amanda Lind (MP): Bensinen höjs med sex kronor",
    "date": "2026-09-06T19:04:06.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/beskedet-fran-amanda-lind-mp-bensinen-hojs-med-sex-kronor",
-   "desc": "Sex kronor litern. Så mycket dyrare beräknar Miljöpartiet att bensinpriserna kommer att bli om deras politik går igenom. Det uppger språkröret Amanda Lind (M) i SVT:s Utfrågning."
+   "desc": "Sex kronor litern. Så mycket dyrare beräknar Miljöpartiet att bensinpriserna kommer att bli. Förutom att subventionerna för fossilbränsle kommer att försvinna vill MP höja priserna ytterligare. – Det här är något som alla partier duckar för i dag, säger språkröret Amanda Lind (M) i SVT:s Utfrågning ."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-06T13:42:25.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/vem-ar-amanda-lind-0bcb1m",
    "desc": "En hemmasnickrad flygskatt tog henne raka vägen från kommunkontoret till ”Sveriges tuffaste politikjobb”. Kan det brädspelsälskande språkröret få igenom sin offensiva klimatpolitik om Magdalena Andersson håller taktpinnen efter valet?"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bosättarvåldet på Västbanken ökar – invånare tvingas vaka nattetid",
-   "date": "2026-09-06T12:02:23.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/bosattarvaldet-pa-vastbanken-okar-invanare-tvingas-vaka-nattetid",
-   "desc": "Skarpa skott och nedbrända hus. Attacker från de israeliska bosättarna sker allt oftare och blir allt våldsammare, enligt de palestinier SVT möter på Västbanken. – Tidigare kastades stenar, nu har det nått stadiet där det dödas och skjuts, säger ambulansföraren och aktivisten Bashar al-Qaryouti."
   },
   {
    "src": "STHLM",
