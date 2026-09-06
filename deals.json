@@ -1,41 +1,41 @@
 {
- "updated": "2026-09-05T07:55:25.359Z",
+ "updated": "2026-09-06T08:12:21.297Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma i lösvikt",
-   "price": "24 kr/kg",
+   "item": "Svenska äpplen Aroma, lösvikt",
+   "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Kycklingfilé 900g",
-   "price": "59 kr",
+   "item": "Färska kantareller 250g",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
-   "item": "Färsk laxfilé",
-   "price": "99 kr/kg",
+   "item": "Kycklingfilé Kronfågel 1kg",
+   "price": "79 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
+   "item": "Köttbullar 500g fryst",
    "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utomhuskuddar 2-pack",
-   "price": "79 kr",
+   "item": "Utekudde till trädgårdsmöbler",
+   "price": "99 kr",
    "url": "https://www.rusta.com/se"
   },
   {
    "store": "Lidl",
-   "item": "Svenska morötter 1kg",
-   "price": "12 kr",
+   "item": "Färsk laxfilé 400g",
+   "price": "59 kr",
    "url": "https://www.lidl.se"
   }
  ]
