@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T23:26:48.168Z",
+ "updated": "2026-09-07T01:12:27.767Z",
  "items": [
   {
    "src": "BBC",
@@ -7,7 +7,15 @@
    "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
    "date": "2026-09-06T23:02:45.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%."
+   "desc": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+   "date": "2026-09-07T00:57:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+   "desc": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say."
   },
   {
    "src": "BBC",
@@ -34,14 +42,6 @@
    "desc": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Dozens feared trapped in collapsed building in Delhi",
-   "date": "2026-09-06T16:54:34.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-   "desc": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
-  },
-  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Flera döda i fyrverkeriolycka i Mexiko",
@@ -63,7 +63,7 @@
    "title": "Polis påkörd av fyrhjuling vid Landvetter",
    "date": "2026-09-06T16:22:32.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/polis-pakord-av-fyrhjuling-vid-landvetter",
-   "desc": "När polisen skulle kontrollera fyra fyrhjulingsförare utanför McDonalds vid Landvetter flygplats uppstod tumult. En av förarna körde då på en polis och eftersöks nu av polisen. – Jag tror att vi har ganska bra chanser att få tag på rätt person, säger polisens vakthavande befäl Morten Gunneng."
+   "desc": "När polisen skulle kontrollera fyra fyrhjulingsförare utanför McDonalds vid Landvetter flygplats körde en av förarna på en polis. Föraren överlämnade sig senare till polisen."
   },
   {
    "src": "SVT",
