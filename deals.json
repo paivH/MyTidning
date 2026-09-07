@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T08:12:21.297Z",
+ "updated": "2026-09-07T08:44:07.755Z",
  "verified": false,
  "deals": [
   {
@@ -9,34 +9,34 @@
    "url": "https://www.ica.se"
   },
   {
+   "store": "ICA",
+   "item": "Kycklingfilé Kronfågel 900g",
+   "price": "59 kr",
+   "url": "https://www.ica.se"
+  },
+  {
    "store": "Lidl",
-   "item": "Färska kantareller 250g",
+   "item": "Färska kantareller, låda 250g",
    "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
-   "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 1kg",
-   "price": "79 kr",
-   "url": "https://www.ica.se"
+   "store": "Lidl",
+   "item": "Bregott 600g",
+   "price": "35 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 500g fryst",
+   "item": "Köttbullar 1kg, fryst",
    "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utekudde till trädgårdsmöbler",
-   "price": "99 kr",
+   "item": "Utepall Kallax, 2-pack",
+   "price": "249 kr",
    "url": "https://www.rusta.com/se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Färsk laxfilé 400g",
-   "price": "59 kr",
-   "url": "https://www.lidl.se"
   }
  ]
 }
