@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-07T18:04:18.789Z",
+ "updated": "2026-09-07T21:40:55.924Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+   "date": "2026-09-07T21:12:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+   "desc": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -28,18 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Investigators begin work on why cargo plane overran Miami runway",
-   "date": "2026-09-07T17:46:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-   "desc": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
    "date": "2026-09-07T15:27:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
    "desc": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Mikael Frisell: Därför nåddes inte alla av VMA-larmet",
+   "date": "2026-09-07T19:13:24.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/mikael-frisell-darfor-naddes-inte-alla-av-vma-larmet",
+   "desc": "Miljoner boende i Stockholm och Gotlands län nåddes i måndagens stora test av Sveriges nya VMA-larm. Men många Teliakunder gjorde det inte. – Telia har inte följt den kravspecifikation som vi har ställt. De hade ställt för låg gräns på antal tecken. Då blockeras hela meddelandet och utskicket, säger Mikael Frisell, generaldirektör för Myndigheten för civilt försvar, till TT."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tyska myndigheter: 21 bomber hittade nära elnätet",
+   "date": "2026-09-07T18:54:58.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tyska-myndigheter-21-bomber-hittade-nara-elnatet",
+   "desc": "Tyska utredare i Sachsen har hittills hittat 21 bomber under en utredning om attacker mot landets elnät. En intensiv polisjakt efter en misstänkt 48-årig man pågår."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-09-07T15:11:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/stalbad-i-virsbo-66-anstallda-forlorar-jobbet-pa-forgex",
    "desc": "Under sommaren kom besked om varsel för samtliga 69 anställda på Forgex i Virsbo utanför Surahammar. Nu är fackliga förhandlingarna klara och 66 av de anställda kommer förlora sitt jobb. – Många har jobbat här över 30 år så det är klart att folk är lite bestörta, säger Vidar Antonsen, ordförande för IF Metall på Forgex."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Nya varningen testades på Gotland – Lulia: ”Jag fick inget larm”",
-   "date": "2026-09-07T14:58:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/nya-varningen-testades-pa-gotland-lulia-jag-fick-inget-larm",
-   "desc": "Mobiltelefonerna på Gotland lät i dag när det nya varningssystemet SE-Alert skulle testas. SVT var på plats hos studenterna på Campus Gotland när larmet kom – eller inte kom – i mobilen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Frun kränkte och slog maken inför sonen – döms till fängelse",
-   "date": "2026-09-07T14:28:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/frun-krankte-och-slog-maken-infor-sonen-doms-till-fangelse",
-   "desc": "En kvinna i norra Värmland döms av Värmlands tingsrätt till två år och sex månaders fängelse för två fall av grov fridskränkning mot sin man och parets son. Vid ett tillfälle stack och högg hon mannen med en sax – i runt en timme."
   },
   {
    "src": "STHLM",
