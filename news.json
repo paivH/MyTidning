@@ -1,85 +1,93 @@
 {
- "updated": "2026-09-07T06:23:54.537Z",
+ "updated": "2026-09-07T12:53:27.024Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-   "date": "2026-09-07T06:17:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote."
+   "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+   "date": "2026-09-07T12:22:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+   "desc": "The far-right party is trying to form a government in the state after falling three seats short of a majority."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-   "date": "2026-09-07T04:07:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-   "desc": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties."
+   "title": "Israeli strikes in southern Lebanese village kill nine",
+   "date": "2026-09-07T10:16:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+   "desc": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-   "date": "2026-09-07T00:57:38.000Z",
+   "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+   "date": "2026-09-07T05:31:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+   "desc": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Probe begins into why cargo plane overran Miami runway",
+   "date": "2026-09-07T09:54:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-   "desc": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say."
+   "desc": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-   "date": "2026-09-06T20:41:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-   "desc": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-   "date": "2026-09-06T20:52:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-   "desc": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale."
+   "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+   "date": "2026-09-07T07:03:44.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+   "desc": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Oförändrad inflation i augusti",
-   "date": "2026-09-07T06:01:43.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/oforandrad-inflation-i-augusti",
-   "desc": "Inflationen enligt måttet KPIF låg stilla på 0,7 procent i augusti, visar preliminära siffror från Statistiska centralbyrån (SCB)."
+   "title": "41-åring mördades av misstag: ”Jag blir ledsen”",
+   "date": "2026-09-07T12:32:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/41-aring-mordades-av-misstag-jag-blir-ledsen",
+   "desc": "Den 1 oktober 2022 skakas Södertälje av en dödsskjutning. En 41-årig man skjuts till döds – men det ska senare visa sig att han inte var den egentliga måltavlan. – Att en oskyldig drabbas av gängvåldet är ju ett misslyckande, säger Johan Allard, kommissarie vid Södertäljepolisen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Dijan Vukojevics långa resa mot allsvenskan – bodde i ett omklädningsrum",
-   "date": "2026-09-07T04:35:55.000Z",
-   "link": "https://www.svt.se/sport/fotboll/dijan-vukojevics-langa-resa-moy-allsvenskan-bodde-i-ett-omkladningsrum",
-   "desc": "En träbänk som säng och hoodie och mössa som pyjamas. Ett omklädningsrum som boende. – Morsan kom upp en gång och började gråta så fort hon gick in, säger Degerfors anfallare Dijan Vukojevic i SVT:s serie ”Allsvenska profiler”."
+   "title": "Äldre tvingades kissa och bajsa i blöja – flera anmälningar mot vårdpersonal i Nässjö",
+   "date": "2026-09-07T11:42:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/aldre-tvingades-kissa-och-bajsa-i-bloja-flera-anmalningar-mot-vardpersonal-i-nassjo",
+   "desc": "”Du har ju blöja – du kan kissa när du vill.” Det var beskedet som flera äldre i omsorgen i Nässjö kommun ska ha fått under sommaren när de bad om hjälp för att gå på toaletten. Nu har två händelser anmälts enligt lex Sarah och kommunen utreder vad som har hänt."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Allt fler klarar teorin på jägarexamen – men Kronoberg släpar efter",
-   "date": "2026-09-07T04:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/allt-fler-klarar-teorin-pa-jagarexamen-men-kronoberg-slapar-efter",
-   "desc": "När teoriprovet till jägarexamen digitaliserades 2021 så sjönk andelen godkända prov drastiskt i hela landet. Nu börjar Naturvårdsverket se en vändning – men Kronoberg släpar efter."
+   "title": "Sverige köper HIMARS – ammunition ska tillverkas i svenska fabriker",
+   "date": "2026-09-07T11:39:59.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sverige-koper-himars-ammunition-ska-tillverkas-i-svenska-fabriker",
+   "desc": "Sverige köper raketartilleri av typen HIMARS. Samtidigt fattas under måndagen beslut om att på plats i Sverige tillverka ammunition – med en räckvidd på 500 kilometer. – Det här försvårar ett angrepp mot Sverige och våra allierade, säger försvarsminister Pål Jonson (M)."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Grova brott städas bort från rättsdatabaserna – i hemlighet",
-   "date": "2026-09-07T04:00:05.000Z",
-   "link": "https://www.svt.se/kultur/grova-brott-stadas-bort-fran-rattsdatabaserna-i-hemlighet",
-   "desc": "Sajterna Lexbase, Mr Koll och Krimfup har raderat grova brott som kvinnomisshandel och sexuellt ofredande av barn från sina rättsdatabaser, visar SVT:s granskning. Bortstädningen sker i hemlighet efter att företagen stämts av förövarna. – Det kommer bli fler offer, säger Katja, vars ex-pojkväns dom försvunnit."
+   "title": "Pappa döms efter olycka med fyrhjuling i inlandet– sonen bröt lårbenet",
+   "date": "2026-09-07T10:19:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/pappa-doms-efter-olycka-med-fyrhjuling-i-inlandet-son-brot-larbenet",
+   "desc": "En fyraårig pojke bröt lårbenet och skrapade ryggen när hans pappa råkade köra över honom med en fyrhjuling i en inlandskommun i Västerbotten förra vintern. Nu döms pappan för grov vårdslöshet i trafik och grovt vållande till kroppsskada."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här är partierna som är oense om gratis kollektivtrafik för unga",
-   "date": "2026-09-07T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/har-ar-partierna-som-ar-oense-om-gratis-kollektivtrafik-for-unga",
-   "desc": "Ska barn och ungdomar i Östergötland få resa gratis med kollektivtrafiken? När partierna har fått svara på frågan i SVT:s valkompass står Vänsterpartiet och Sverigedemokraterna långt ifrån varandra."
+   "title": "Avgick under SVT:s granskning – nu toppar han M:s valsedel",
+   "date": "2026-09-07T09:33:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/avgick-under-svts-granskning-nu-toppar-han-ms-valsedel",
+   "desc": "Fredrik Kjos (M), lämnade sin post i april som kommunstyrelsens ordförande i Upplands-Bro, efter åtta år. Nu toppar han Moderaternas valsedel inför kommunvalet – före sin efterträdare Annika Friberg (M)."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Avgick under SVT:s granskning – nu toppar han M:s valsedel",
+   "date": "2026-09-07T09:33:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/avgick-under-svts-granskning-nu-toppar-han-ms-valsedel",
+   "desc": "Fredrik Kjos (M), lämnade sin post i april som kommunstyrelsens ordförande i Upplands-Bro, efter åtta år. Nu toppar han Moderaternas valsedel inför kommunvalet – före sin efterträdare Annika Friberg (M)."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Falanger och splittringar inom partier brukar ofta föra med sig färre röster i nästkommande val. – I Botkyrka har man ändå lyckats med att väljarna har två S-alternativ att rösta på, säger statsvetaren Jenny Madestam."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Efter turbulensen i Botkyrka: Två olika S-partier i valet",
-   "date": "2026-09-06T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-turbulensen-i-botkyrka-tva-olika-s-partier-i-valet",
-   "desc": "Väljare i Botkyrka som ska lägga sin röst på S kan få det svårt vid valurnorna. Det finns två alternativ att välja på: Oberoende S och Socialdemokraterna. Splittringen inom partiet var ett faktum 2023 efter gängkriminellas kopplingar i ABF."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-07T12:02:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p8dffr?at_medium=RSS&at_campaign=rss",
+   "desc": "Joe and Gaz discuss the draw at Everton and look ahead to facing Sabah and Man City."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-09-02T18:29:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p7m2ny?at_medium=RSS&at_campaign=rss",
    "desc": "Former Reds striker Fraizer Campbell has his say on United's summer transfer window."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-02T13:28:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p7jnlv?at_medium=RSS&at_campaign=rss",
-   "desc": "Gaz is joined by Jay Motty to discuss deadline day and Utd's win over Ipswich."
   }
  ]
 }
