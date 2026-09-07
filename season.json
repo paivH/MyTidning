@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-06T08:01:10.680Z",
+ "updated": "2026-09-07T08:31:42.362Z",
  "items": [
   {
-   "ingredient": "jordärtskocka",
-   "idea": "Snabbpickla jordärtskocka i 1:1:1 ättika, socker, vatten med senapsfrön – klar på 30 minuter."
+   "ingredient": "kål",
+   "idea": "Fermentera vitkål med 2% salt i 1 vecka för krispig, syrlig surkål till husmanskost."
   },
   {
-   "ingredient": "äpplen",
-   "idea": "Baka enkelt äppelbröd med rivna äpplen och kanel, deg vilar 1 timme, grädda 200°C."
+   "ingredient": "svamp",
+   "idea": "Snabbstekt svamp i smör med vitlök och timjan, servera på rostat surdegsbröd på 10 minuter."
+  },
+  {
+   "ingredient": "rödbetor",
+   "idea": "Snabbpickla skivade rödbetor i 1:1:1 ättika, socker, vatten – klart på en timme."
   },
   {
    "ingredient": "purjolök",
-   "idea": "Fräs purjolök i smör, vänd i pasta med parmesan – klart på 15 minuter."
-  },
-  {
-   "ingredient": "kål",
-   "idea": "Fermentera vitkål till syrlig surkål, 2% salt, 1 vecka i rumstemperatur, servera till korv."
+   "idea": "Baka in stekt purjolök och västerbottenost i en enkel focaccia med olivolja och havssalt."
   }
  ]
 }
