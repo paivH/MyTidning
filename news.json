@@ -1,13 +1,21 @@
 {
- "updated": "2026-09-07T01:12:27.767Z",
+ "updated": "2026-09-07T06:23:54.537Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-   "date": "2026-09-06T23:02:45.000Z",
+   "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+   "date": "2026-09-07T06:17:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%."
+   "desc": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+   "date": "2026-09-07T04:07:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+   "desc": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties."
   },
   {
    "src": "BBC",
@@ -34,52 +42,52 @@
    "desc": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-   "date": "2026-09-06T16:00:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Oförändrad inflation i augusti",
+   "date": "2026-09-07T06:01:43.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/oforandrad-inflation-i-augusti",
+   "desc": "Inflationen enligt måttet KPIF låg stilla på 0,7 procent i augusti, visar preliminära siffror från Statistiska centralbyrån (SCB)."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Flera döda i fyrverkeriolycka i Mexiko",
-   "date": "2026-09-06T21:15:49.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-fyrverkeriolycka-i-mexiko",
-   "desc": "Minst tio personer har dödats och ytterligare 64 skadats under en fyrverkerishow i Mexiko på lördagen, rapporterar AP."
+   "title": "Dijan Vukojevics långa resa mot allsvenskan – bodde i ett omklädningsrum",
+   "date": "2026-09-07T04:35:55.000Z",
+   "link": "https://www.svt.se/sport/fotboll/dijan-vukojevics-langa-resa-moy-allsvenskan-bodde-i-ett-omkladningsrum",
+   "desc": "En träbänk som säng och hoodie och mössa som pyjamas. Ett omklädningsrum som boende. – Morsan kom upp en gång och började gråta så fort hon gick in, säger Degerfors anfallare Dijan Vukojevic i SVT:s serie ”Allsvenska profiler”."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Beskedet från Amanda Lind (MP): Bensinen höjs med sex kronor",
-   "date": "2026-09-06T19:04:06.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/beskedet-fran-amanda-lind-mp-bensinen-hojs-med-sex-kronor",
-   "desc": "Sex kronor litern. Så mycket dyrare beräknar Miljöpartiet att bensinpriserna kommer att bli. Förutom att subventionerna för fossilbränsle kommer att försvinna vill MP höja priserna ytterligare. – Det här är något som alla partier duckar för i dag, säger språkröret Amanda Lind (M) i SVT:s Utfrågning ."
+   "title": "Allt fler klarar teorin på jägarexamen – men Kronoberg släpar efter",
+   "date": "2026-09-07T04:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/allt-fler-klarar-teorin-pa-jagarexamen-men-kronoberg-slapar-efter",
+   "desc": "När teoriprovet till jägarexamen digitaliserades 2021 så sjönk andelen godkända prov drastiskt i hela landet. Nu börjar Naturvårdsverket se en vändning – men Kronoberg släpar efter."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Polis påkörd av fyrhjuling vid Landvetter",
-   "date": "2026-09-06T16:22:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/polis-pakord-av-fyrhjuling-vid-landvetter",
-   "desc": "När polisen skulle kontrollera fyra fyrhjulingsförare utanför McDonalds vid Landvetter flygplats körde en av förarna på en polis. Föraren överlämnade sig senare till polisen."
+   "title": "Grova brott städas bort från rättsdatabaserna – i hemlighet",
+   "date": "2026-09-07T04:00:05.000Z",
+   "link": "https://www.svt.se/kultur/grova-brott-stadas-bort-fran-rattsdatabaserna-i-hemlighet",
+   "desc": "Sajterna Lexbase, Mr Koll och Krimfup har raderat grova brott som kvinnomisshandel och sexuellt ofredande av barn från sina rättsdatabaser, visar SVT:s granskning. Bortstädningen sker i hemlighet efter att företagen stämts av förövarna. – Det kommer bli fler offer, säger Katja, vars ex-pojkväns dom försvunnit."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stor klimatmarsch i Göteborg  vill lyfta klimatet som valfråga",
-   "date": "2026-09-06T15:31:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/stor-klimatmarsch-i-goteborg-vill-lyfta-klimatet-som-valfraga",
-   "desc": "Under söndagseftermiddagen gick ett femtiotal organisationer ihop för att lyfta klimatfrågan inför valet. Och tusen och åter tusen personer gick från Linnéplatsen till Gustav Adolfs torg där tal hölls av bland annat Greta Thunberg. – Det här är den största klimatdemonstrationen jag varit på i Göteborg, säger Sara Isaksson."
+   "title": "Här är partierna som är oense om gratis kollektivtrafik för unga",
+   "date": "2026-09-07T03:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/har-ar-partierna-som-ar-oense-om-gratis-kollektivtrafik-for-unga",
+   "desc": "Ska barn och ungdomar i Östergötland få resa gratis med kollektivtrafiken? När partierna har fått svara på frågan i SVT:s valkompass står Vänsterpartiet och Sverigedemokraterna långt ifrån varandra."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Vem är Amanda Lind?",
-   "date": "2026-09-06T13:42:25.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/vem-ar-amanda-lind-0bcb1m",
-   "desc": "En hemmasnickrad flygskatt tog henne raka vägen från kommunkontoret till ”Sveriges tuffaste politikjobb”. Kan det brädspelsälskande språkröret få igenom sin offensiva klimatpolitik om Magdalena Andersson håller taktpinnen efter valet?"
+   "title": "Mateusz, 21, driver egen bilverkstad – lärde sig på Youtube",
+   "date": "2026-09-07T03:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mateusz-21-driver-egen-bilverkstad-larde-sig-via-youtube",
+   "desc": "Mateusz Maciaszczyk började meka med fordon redan som tonåring. I dag driver han en egen bilverkstad i Vasastan i Stockholm. Nu vill han inspirera fler unga till att våga satsa på sitt intresse."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-06T03:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-turbulensen-i-botkyrka-tva-olika-s-partier-i-valet",
    "desc": "Väljare i Botkyrka som ska lägga sin röst på S kan få det svårt vid valurnorna. Det finns två alternativ att välja på: Oberoende S och Socialdemokraterna. Splittringen inom partiet var ett faktum 2023 efter gängkriminellas kopplingar i ABF."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 5 september",
-   "date": "2026-09-05T16:40:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-5-september-4dc6qc",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under lördagen den 5 september."
   },
   {
    "src": "BBC",
