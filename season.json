@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-07T08:31:42.362Z",
+ "updated": "2026-09-08T08:14:20.815Z",
  "items": [
   {
-   "ingredient": "kål",
-   "idea": "Fermentera vitkål med 2% salt i 1 vecka för krispig, syrlig surkål till husmanskost."
-  },
-  {
-   "ingredient": "svamp",
-   "idea": "Snabbstekt svamp i smör med vitlök och timjan, servera på rostat surdegsbröd på 10 minuter."
+   "ingredient": "äpplen",
+   "idea": "Snabbpickla äppelklyftor i 1 dl ättika, 1 dl socker, 2 dl vatten – klart på 30 minuter, perfekt till fläsk."
   },
   {
    "ingredient": "rödbetor",
-   "idea": "Snabbpickla skivade rödbetor i 1:1:1 ättika, socker, vatten – klart på en timme."
+   "idea": "Fermentera rödbetor i 2% saltlake i en vecka, får syrlig krispig smak till smörgåsar."
   },
   {
    "ingredient": "purjolök",
-   "idea": "Baka in stekt purjolök och västerbottenost i en enkel focaccia med olivolja och havssalt."
+   "idea": "Baka ett snabbt purjolöksbröd med surdegsrest, stekt purjolök och grovt rågmjöl i degen."
+  },
+  {
+   "ingredient": "svamp",
+   "idea": "Snabbstek kantareller i smör med vitlök, servera på rostat surdegsbröd som vardagsmiddag."
   }
  ]
 }
