@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-08T03:23:46.679Z",
+ "updated": "2026-09-08T08:15:34.297Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-   "date": "2026-09-07T22:23:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
+   "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+   "date": "2026-09-08T04:39:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+   "desc": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship."
   },
   {
    "src": "BBC",
@@ -20,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-   "date": "2026-09-07T14:04:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-   "desc": "The far-right party is trying to form a government in the state after falling three seats short of a majority."
+   "title": "Flight recorders recovered from Amazon cargo plane crash",
+   "date": "2026-09-07T22:23:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
   },
   {
    "src": "BBC",
@@ -31,55 +31,63 @@
    "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
    "date": "2026-09-07T23:46:44.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-   "desc": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative."
+   "desc": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-   "date": "2026-09-08T01:07:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-   "desc": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\"."
+   "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+   "date": "2026-09-08T01:32:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+   "desc": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Mikael Frisell: Därför nåddes inte alla av VMA-larmet",
-   "date": "2026-09-07T19:13:24.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/mikael-frisell-darfor-naddes-inte-alla-av-vma-larmet",
-   "desc": "Miljoner boende i Stockholm och Gotlands län nåddes i måndagens stora test av Sveriges nya VMA-larm. Men många Teliakunder gjorde det inte. – Telia har inte följt den kravspecifikation som vi har ställt. De hade ställt för låg gräns på antal tecken. Då blockeras hela meddelandet och utskicket, säger Mikael Frisell, generaldirektör för Myndigheten för civilt försvar, till TT."
+   "title": "Försvaret krävs på 143 miljoner för PFAS-föroreningar i Halmstad",
+   "date": "2026-09-08T07:59:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/forsvaret-kravs-pa-143-miljoner-for-pfas-fororeningar-i-halmstad",
+   "desc": "Halmstads kommun och Laholmsbuktens VA (LBVA) kräver Försvarsmakten på 143 miljoner kronor. Kravet gäller kostnader efter att PFAS-föroreningar kopplats till Försvarsmaktens verksamhet vid Galgberget och spridits till flera av kommunens stora vattentäkter."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tyska myndigheter: 21 bomber hittade nära elnätet",
-   "date": "2026-09-07T18:54:58.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/tyska-myndigheter-21-bomber-hittade-nara-elnatet",
-   "desc": "Tyska utredare i Sachsen har hittills hittat 21 bomber under en utredning om attacker mot landets elnät. En intensiv polisjakt efter en misstänkt 48-årig man pågår."
+   "title": "SVA: Utsläpp sannolik orsak till fiskdöd i Säffle",
+   "date": "2026-09-08T07:46:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/sva-utslapp-sannolik-orsak-till-fiskdod-i-saffle",
+   "desc": "Det var troligen ett utsläpp av lut från Nordic Paper i Säffle som orsakade den plötsliga fiskdöden i Byälven i augusti. Det visar provsvaren från SVA, som obducerat fisk och tagit vattenprover."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Personrån i Norrköping fick snabb lösning",
-   "date": "2026-09-07T17:52:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/personran-i-norrkoping-fick-snabb-losning",
-   "desc": "Vid klockan 18 larmade en man i 30-årsåldern polisen om att han blivit rånad när han gick på Norra Promenaden i stadsdelen Marielund i Norrköping."
+   "title": "Historiskt dåligt resultat i senaste Pisa-mätningen",
+   "date": "2026-09-08T07:30:42.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/historiskt-daligt-resultat-i-arets-pisa-matning",
+   "desc": "Svenska 15-åringar har totalt aldrig haft så dåliga kunskaper i matematik, läsförståelse och naturvetenskap, visar Pisa-mätningen. I läsförståelse har niondeklassarna tappat kunskap motsvarande ett års lärande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Därför vill försvaret kunna slå mot mål i Ryssland",
-   "date": "2026-09-07T15:48:02.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/darfor-vill-forsvaret-kunna-sla-mot-mal-i-ryssland",
-   "desc": "Med det nya raketartilleriet kommer Sverige kunna slå mot mål långt bakom frontlinjerna. Så ser allt mer av försvaret ut nu – när ett försvarskrig ska föras långt från Sverige i stället för att skydda gränsen."
+   "title": "Gotland ett riskområde – ska bli snabbare på att rusta skyddsrum",
+   "date": "2026-09-08T05:55:51.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/gotland-ett-riskomrade-ska-bli-snabbare-pa-att-rusta-skyddsrum",
+   "desc": "Länsstyrelser med riskområden som kan vara ett mål för väpnat angrepp – däribland Gotlands – har fått i uppdrag av regeringen att stärka förmågan hos kommuner och regioner att snabbt kunna ställa i ordning skyddsrum vid höjd beredskap."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stålbad i Virsbo – 66 anställda förlorar jobbet på Forgex",
-   "date": "2026-09-07T15:11:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/stalbad-i-virsbo-66-anstallda-forlorar-jobbet-pa-forgex",
-   "desc": "Under sommaren kom besked om varsel för samtliga 69 anställda på Forgex i Virsbo utanför Surahammar. Nu är fackliga förhandlingarna klara och 66 av de anställda kommer förlora sitt jobb. – Många har jobbat här över 30 år så det är klart att folk är lite bestörta, säger Vidar Antonsen, ordförande för IF Metall på Forgex."
+   "title": "Uttryckte hat mot judar och hyllade terrorism – bjöds in av V till riksdagen",
+   "date": "2026-09-08T05:40:41.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/uttryckte-hat-mot-judar-och-hyllade-terrorism-bjods-in-av-v-till-riksdagen",
+   "desc": "Vänsterpartiet bjöd in två palestinska politiker från Fatahs revolutionära råd som tidigare uttryckt hat mot judar och hyllat terrorism till riksdagen, enligt en granskning som Göteborgs-Posten har gjort. Med på mötet fanns partiledaren Nooshi Dadgostar."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Partiet Nyans låga resultat – två motioner på fyra år i Botkyrka",
+   "date": "2026-09-08T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/partiet-nyans-laga-resultat-tva-motioner-pa-fyra-ar-i-botkyrka",
+   "desc": "Det omtalade Partiet Nyans tog sig in i Botkyrka kommun under valet 2022. SVT har pratat med både partier och Botkyrkabor som är kritiska till det arbete partiet har genomfört. – Jag tycker inte att det har påverkat varken kommunen eller Botkyrkaborna, säger Stina Lundgren (M), kommunstyrelsens ordförande."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-07T09:33:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/avgick-under-svts-granskning-nu-toppar-han-ms-valsedel",
    "desc": "Fredrik Kjos (M), lämnade sin post i april som kommunstyrelsens ordförande i Upplands-Bro, efter åtta år. Nu toppar han Moderaternas valsedel inför kommunvalet – före sin efterträdare Annika Friberg (M)."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Mateusz, 21, driver egen bilverkstad – lärde sig på Youtube",
-   "date": "2026-09-07T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mateusz-21-driver-egen-bilverkstad-larde-sig-via-youtube",
-   "desc": "Mateusz Maciaszczyk började meka med fordon redan som tonåring. I dag driver han en egen bilverkstad i Vasastan i Stockholm. Nu vill han inspirera fler unga till att våga satsa på sitt intresse."
   },
   {
    "src": "BBC",
