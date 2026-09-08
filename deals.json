@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T08:44:07.755Z",
+ "updated": "2026-09-08T08:25:09.430Z",
  "verified": false,
  "deals": [
   {
@@ -16,26 +16,26 @@
   },
   {
    "store": "Lidl",
-   "item": "Färska kantareller, låda 250g",
-   "price": "39 kr",
+   "item": "Färsk laxfilé 400g",
+   "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Bregott 600g",
-   "price": "35 kr",
+   "item": "Svamp Champinjoner 500g",
+   "price": "15 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg, fryst",
-   "price": "49 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utepall Kallax, 2-pack",
-   "price": "249 kr",
+   "item": "Utomhuskuddar 2-pack",
+   "price": "99 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
