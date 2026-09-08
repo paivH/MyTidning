@@ -1,85 +1,101 @@
 {
- "updated": "2026-09-08T08:15:34.297Z",
+ "updated": "2026-09-08T12:58:22.287Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-   "date": "2026-09-08T04:39:14.000Z",
+   "date": "2026-09-08T12:23:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
    "desc": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-   "date": "2026-09-07T21:12:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-   "desc": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year."
+   "title": "At least two people dead after Russian strikes on Kyiv",
+   "date": "2026-09-08T10:23:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Flight recorders recovered from Amazon cargo plane crash",
-   "date": "2026-09-07T22:23:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-   "date": "2026-09-07T23:46:44.000Z",
+   "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
+   "date": "2026-09-08T11:38:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-   "desc": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says."
+   "desc": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-   "date": "2026-09-08T01:32:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-   "desc": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads."
+   "title": "Highest paid world leader to get salary increase of $1 million",
+   "date": "2026-09-08T09:20:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m)."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Argentina to file criminal case against oil company operating in Falklands",
+   "date": "2026-09-08T11:09:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+   "desc": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Försvaret krävs på 143 miljoner för PFAS-föroreningar i Halmstad",
-   "date": "2026-09-08T07:59:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/halland/forsvaret-kravs-pa-143-miljoner-for-pfas-fororeningar-i-halmstad",
-   "desc": "Halmstads kommun och Laholmsbuktens VA (LBVA) kräver Försvarsmakten på 143 miljoner kronor. Kravet gäller kostnader efter att PFAS-föroreningar kopplats till Försvarsmaktens verksamhet vid Galgberget och spridits till flera av kommunens stora vattentäkter."
+   "title": "Handelsrestriktioner mot olagliga bosättare på Västbanken",
+   "date": "2026-09-08T12:41:47.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/handelsrestriktioner-mot-olagliga-bosattare-pa-vastbanken",
+   "desc": "Sverige ska tillsammans med elva andra länder införa handelsrestriktioner mot olagliga bosättare på Västbanken, enligt ett gemensamt uttalande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "SVA: Utsläpp sannolik orsak till fiskdöd i Säffle",
-   "date": "2026-09-08T07:46:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/sva-utslapp-sannolik-orsak-till-fiskdod-i-saffle",
-   "desc": "Det var troligen ett utsläpp av lut från Nordic Paper i Säffle som orsakade den plötsliga fiskdöden i Byälven i augusti. Det visar provsvaren från SVA, som obducerat fisk och tagit vattenprover."
+   "title": "Ulf Kristersson sågar C i jakten på borgerliga väljare",
+   "date": "2026-09-08T12:18:01.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ulf-kristersson-sagar-c-i-jakten-pa-borgerliga-valjare",
+   "desc": "Rutiga skjortor har plötsligt hamnat i centrum av valrörelsen. I jakten på borgerligt sinnade väljare varnar nu Ulf Kristersson (M) för att en röst på flanellklädda centerpartister kan sluta i vänsterpolitik. – Alla fantasier om mittens rike, helst med Annie Lööf som statsminister, de är borta, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Historiskt dåligt resultat i senaste Pisa-mätningen",
-   "date": "2026-09-08T07:30:42.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/historiskt-daligt-resultat-i-arets-pisa-matning",
-   "desc": "Svenska 15-åringar har totalt aldrig haft så dåliga kunskaper i matematik, läsförståelse och naturvetenskap, visar Pisa-mätningen. I läsförståelse har niondeklassarna tappat kunskap motsvarande ett års lärande."
+   "title": "Man i Rättvik tände eld på bostad – 17 års fängelse efter mordförsök på barnen",
+   "date": "2026-09-08T12:05:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/man-i-rattvik-tande-eld-pa-bostad-doms-for-mordforsok-pa-barnen",
+   "desc": "En man i Rättvik döms till 17 års fängelse för att ha försökt döda sina barn i en anlagd brand i ett flerfamiljshus i våras."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Gotland ett riskområde – ska bli snabbare på att rusta skyddsrum",
-   "date": "2026-09-08T05:55:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/gotland-ett-riskomrade-ska-bli-snabbare-pa-att-rusta-skyddsrum",
-   "desc": "Länsstyrelser med riskområden som kan vara ett mål för väpnat angrepp – däribland Gotlands – har fått i uppdrag av regeringen att stärka förmågan hos kommuner och regioner att snabbt kunna ställa i ordning skyddsrum vid höjd beredskap."
+   "title": "Kvinna ska ha försökt rekrytera mördare – greps i Uppsala",
+   "date": "2026-09-08T11:56:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/uppsala/kvinna-ska-ha-forsokt-rekrytera-mordare-gripen-i-uppsala",
+   "desc": "I flera annonser – som nått minst 1 468 personer – ska kvinnan har försökt värva personer för att begå mord eller sprängningar. Nu åtalas hon, misstänkt för stämpling till mord."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Uttryckte hat mot judar och hyllade terrorism – bjöds in av V till riksdagen",
-   "date": "2026-09-08T05:40:41.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/uttryckte-hat-mot-judar-och-hyllade-terrorism-bjods-in-av-v-till-riksdagen",
-   "desc": "Vänsterpartiet bjöd in två palestinska politiker från Fatahs revolutionära råd som tidigare uttryckt hat mot judar och hyllat terrorism till riksdagen, enligt en granskning som Göteborgs-Posten har gjort. Med på mötet fanns partiledaren Nooshi Dadgostar."
+   "title": "Stor mängd koppar stulen vid Kristinebergsgruvan – värd drygt 400 000 kronor",
+   "date": "2026-09-08T11:45:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/stor-mangd-koppar-stulen-vid-kristinebergsgruvan-vard-drygt-400-000-kronor",
+   "desc": "Kopparkabel till ett värde av drygt 400 000 kronor har stulits från en gruva i Kristineberg, Lycksele kommun. Polisen har säkrat spår, men har inga misstänkta. – Det är ett svårutrett brott, säger polisen Nicklas Gelfgren."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Stockholmarna känner sig tryggare än på länge",
+   "date": "2026-09-08T12:47:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stockholmarna-kanner-sig-tryggare-an-pa-lange",
+   "desc": "Otryggheten i Stockholm på lägsta nivån. En ny trygghetsmätning visar att otryggheten i staden har nått den lägsta nivån sedan 2011."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Polisbil i krock – tre till sjukhus",
+   "date": "2026-09-08T10:14:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisbil-i-krock-1z8dz9",
+   "desc": "En polisbil har krockat med en personbil i en korsning nära Stockholmsmässan i Älvsjö."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-09-07T14:27:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-gar-nya-varningslarmet-pa-centralen-i-stockholm",
    "desc": "På måndagen var det dags att testa Sveriges nya varningslarm. SVT tog sig till Nordens mest trafikerade järnvägsstation för att se vad som händer när hundratals mobiltelefoner börjar tjuta samtidigt. – Jag blev påmind av min fru innan. Annars hade jag nog blivit lite orolig, säger resenären Mikael Skagerdal."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Vallentuna häver avtal efter flera brister",
-   "date": "2026-09-07T14:24:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vallentuna-haver-avtal-efter-flera-brister",
-   "desc": "Efter återkommande problem med bland annat snöröjning och parkskötsel häver Vallentuna kommun avtalet med sin leverantör."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Avgick under SVT:s granskning – nu toppar han M:s valsedel",
-   "date": "2026-09-07T09:33:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/avgick-under-svts-granskning-nu-toppar-han-ms-valsedel",
-   "desc": "Fredrik Kjos (M), lämnade sin post i april som kommunstyrelsens ordförande i Upplands-Bro, efter åtta år. Nu toppar han Moderaternas valsedel inför kommunvalet – före sin efterträdare Annika Friberg (M)."
   },
   {
    "src": "BBC",
