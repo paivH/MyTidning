@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-08T17:09:33.597Z",
+ "updated": "2026-09-08T20:02:38.290Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+   "date": "2026-09-08T19:11:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+   "desc": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -29,17 +37,25 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-   "date": "2026-09-08T16:36:47.000Z",
+   "date": "2026-09-08T17:10:54.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
    "desc": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\""
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "British widow faces deportation from Sweden after 22 years",
-   "date": "2026-09-08T16:23:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-   "desc": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Två barn försvann i Tidaholm – hittades efter tre timmar",
+   "date": "2026-09-08T17:42:51.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/polisen-soker-tva-barn-i-tidaholm",
+   "desc": "Polisen har sökt efter en 4-årig flicka och en 5-årig pojke i Tidaholm. Strax efter 20.00 meddelar polisen att de båda är hittade och mår bra. – De hittades av allmänhet vid en bostad söder om stan, säger Adam Samara, polisens presstalesperson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sprängämne hittades vid busshållplats i Nättraby",
+   "date": "2026-09-08T17:41:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/sprangamne-hittades-vid-busshallplats-i-nattraby",
+   "desc": "Sprängmedel hittades på tisdagen i Nättraby. Nationella bombskyddet fick rycka ut."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-09-08T14:33:36.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/blekinge/aldre-man-dod-efter-trafikolycka-i-olofstrom",
    "desc": "En person har avlidit efter en trafikolycka i Vilshult i Olofström under tisdagseftermiddagen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bråk i Tranemo – kvinna förd till sjukhus",
-   "date": "2026-09-08T14:29:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/brak-i-tranemo-kvinna-ford-till-sjukhus",
-   "desc": "Ett bråk mellan två grupper ska ha brutit ut i Tranemo på tisdagseftermiddagen. En kvinna har förts till sjukhus med lindriga skador. – Det är två konstellationer som varit i luven på varandra, säger Adam Samara, presstalesperson vid polisen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här invigs Sveriges största superdator i Linköping: ”Väldigt dyrbar investering”",
-   "date": "2026-09-08T14:15:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/har-invigs-sveriges-storsta-superdator-i-linkoping-valdigt-dyrbar-investering",
-   "desc": "Den nya superdatorn Arrhenius har nu invigts vid Linköpings universitet. – Arrhenius är första steget att ta mot AI där framför allt forskare kommer att kunna köra grundträning av modeller, säger Erik Lindahl, professor vid Linköpings universitet och föreståndare för NAISS."
   },
   {
    "src": "STHLM",
