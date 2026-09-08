@@ -1,37 +1,21 @@
 {
- "updated": "2026-09-08T12:58:22.287Z",
+ "updated": "2026-09-08T17:09:33.597Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-   "date": "2026-09-08T12:23:22.000Z",
+   "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+   "date": "2026-09-08T14:46:16.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-   "desc": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship."
+   "desc": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least two people dead after Russian strikes on Kyiv",
-   "date": "2026-09-08T10:23:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-   "date": "2026-09-08T11:38:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-   "desc": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Highest paid world leader to get salary increase of $1 million",
-   "date": "2026-09-08T09:20:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m)."
+   "title": "Renoir paintings worth millions stolen in French museum heist",
+   "date": "2026-09-08T13:35:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+   "desc": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
   },
   {
    "src": "BBC",
@@ -42,44 +26,92 @@
    "desc": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Handelsrestriktioner mot olagliga bosättare på Västbanken",
-   "date": "2026-09-08T12:41:47.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/handelsrestriktioner-mot-olagliga-bosattare-pa-vastbanken",
-   "desc": "Sverige ska tillsammans med elva andra länder införa handelsrestriktioner mot olagliga bosättare på Västbanken, enligt ett gemensamt uttalande."
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+   "date": "2026-09-08T16:36:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+   "desc": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\""
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "British widow faces deportation from Sweden after 22 years",
+   "date": "2026-09-08T16:23:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+   "desc": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ulf Kristersson sågar C i jakten på borgerliga väljare",
-   "date": "2026-09-08T12:18:01.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ulf-kristersson-sagar-c-i-jakten-pa-borgerliga-valjare",
-   "desc": "Rutiga skjortor har plötsligt hamnat i centrum av valrörelsen. I jakten på borgerligt sinnade väljare varnar nu Ulf Kristersson (M) för att en röst på flanellklädda centerpartister kan sluta i vänsterpolitik. – Alla fantasier om mittens rike, helst med Annie Lööf som statsminister, de är borta, säger han."
+   "title": "Barn påkört av buss i Nacka",
+   "date": "2026-09-08T16:16:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/barn-pakort-av-buss-i-nacka",
+   "desc": "Ett barn i tioårsåldern blev vid 17.30-tiden påkört av en buss i Nacka, utanför Stockholm. Barnet har förts till sjukhus med ambulans och polisen är på plats."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man i Rättvik tände eld på bostad – 17 års fängelse efter mordförsök på barnen",
-   "date": "2026-09-08T12:05:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/man-i-rattvik-tande-eld-pa-bostad-doms-for-mordforsok-pa-barnen",
-   "desc": "En man i Rättvik döms till 17 års fängelse för att ha försökt döda sina barn i en anlagd brand i ett flerfamiljshus i våras."
+   "title": "Tre tecken på att kriget trappas upp",
+   "date": "2026-09-08T14:40:16.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tre-tecken-pa-att-kriget-trappas-upp",
+   "desc": "Bara timmar efter att de amerikanska sändebuden lämnade Kiev slog ballistiska robotar och drönare på nytt ned i Ukraina. Diplomatin har misslyckats igen – och det mesta tyder nu på att kriget istället trappas upp."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna ska ha försökt rekrytera mördare – greps i Uppsala",
-   "date": "2026-09-08T11:56:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/uppsala/kvinna-ska-ha-forsokt-rekrytera-mordare-gripen-i-uppsala",
-   "desc": "I flera annonser – som nått minst 1 468 personer – ska kvinnan har försökt värva personer för att begå mord eller sprängningar. Nu åtalas hon, misstänkt för stämpling till mord."
+   "title": "Äldre man död efter trafikolycka i Olofström",
+   "date": "2026-09-08T14:33:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/aldre-man-dod-efter-trafikolycka-i-olofstrom",
+   "desc": "En person har avlidit efter en trafikolycka i Vilshult i Olofström under tisdagseftermiddagen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stor mängd koppar stulen vid Kristinebergsgruvan – värd drygt 400 000 kronor",
-   "date": "2026-09-08T11:45:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/stor-mangd-koppar-stulen-vid-kristinebergsgruvan-vard-drygt-400-000-kronor",
-   "desc": "Kopparkabel till ett värde av drygt 400 000 kronor har stulits från en gruva i Kristineberg, Lycksele kommun. Polisen har säkrat spår, men har inga misstänkta. – Det är ett svårutrett brott, säger polisen Nicklas Gelfgren."
+   "title": "Bråk i Tranemo – kvinna förd till sjukhus",
+   "date": "2026-09-08T14:29:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/brak-i-tranemo-kvinna-ford-till-sjukhus",
+   "desc": "Ett bråk mellan två grupper ska ha brutit ut i Tranemo på tisdagseftermiddagen. En kvinna har förts till sjukhus med lindriga skador. – Det är två konstellationer som varit i luven på varandra, säger Adam Samara, presstalesperson vid polisen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här invigs Sveriges största superdator i Linköping: ”Väldigt dyrbar investering”",
+   "date": "2026-09-08T14:15:45.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/har-invigs-sveriges-storsta-superdator-i-linkoping-valdigt-dyrbar-investering",
+   "desc": "Den nya superdatorn Arrhenius har nu invigts vid Linköpings universitet. – Arrhenius är första steget att ta mot AI där framför allt forskare kommer att kunna köra grundträning av modeller, säger Erik Lindahl, professor vid Linköpings universitet och föreståndare för NAISS."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Barn påkört av buss i Nacka",
+   "date": "2026-09-08T16:16:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/barn-pakort-av-buss-i-nacka",
+   "desc": "Ett barn i tioårsåldern blev vid 17.30-tiden påkört av en buss i Nacka, utanför Stockholm. Barnet har förts till sjukhus med ambulans och polisen är på plats."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "M i stadshuset: Inga förutsättningar att styra med vare sig SD eller MP",
+   "date": "2026-09-08T16:00:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/m-i-stadshuset-inga-forutsattningar-att-styra-med-vare-sig-sd-eller-mp",
+   "desc": "För att ta över makten i Stockholms stad efter valet kan Moderaterna behöva stöd av ett parti utanför den borgerliga Alliansen. Samtidigt skriver Moderaterna nu ”Vi ser inga förutsättningar att styra tillsammans med vare sig SD eller MP”."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Lidingö stad tar fram egen kulturkanon",
+   "date": "2026-09-08T15:00:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/lidingo-stad-tar-fram-egen-kulturkanon",
+   "desc": "Karl Bertil Jonssons julafton, Millesgården och AGA gasfabrik ingår alla i den kulturkanon som Lidingö stad låtit ta fram. Satsningen ska spegla verk och historiska inslag som har format ön – och kostar kommunen 150 000 kronor. – Det är för att skapa stolthet och bildning, säger Staffan Strömbäck (M), ordförande i kultur- och fritidsnämnden."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "SL tjänar miljoner efter prissänkningen",
+   "date": "2026-09-08T14:35:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sl-tjanar-miljoner-efter-prissankningen",
+   "desc": "Två månader efter att priset på SL:s månadsbiljett tillfälligt halverades visar nya siffror att den ökade försäljningen har gett SL miljonintäkter."
   },
   {
    "src": "STHLM",
@@ -87,39 +119,15 @@
    "title": "Stockholmarna känner sig tryggare än på länge",
    "date": "2026-09-08T12:47:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stockholmarna-kanner-sig-tryggare-an-pa-lange",
-   "desc": "Otryggheten i Stockholm på lägsta nivån. En ny trygghetsmätning visar att otryggheten i staden har nått den lägsta nivån sedan 2011."
+   "desc": "En ny trygghetsmätning visar att otryggheten i staden har nått den lägsta nivån sedan 2011. Mätningen genomförs vart tredje år och undersöker bland annat stockholmarnas upplevda otrygghet och ordningsstörningar i bostadsområden."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Polisbil i krock – tre till sjukhus",
-   "date": "2026-09-08T10:14:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisbil-i-krock-1z8dz9",
-   "desc": "En polisbil har krockat med en personbil i en korsning nära Stockholmsmässan i Älvsjö."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Partiet Nyans låga resultat – två motioner på fyra år i Botkyrka",
-   "date": "2026-09-08T03:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/partiet-nyans-laga-resultat-tva-motioner-pa-fyra-ar-i-botkyrka",
-   "desc": "Det omtalade Partiet Nyans tog sig in i Botkyrka kommun under valet 2022. SVT har pratat med både partier och Botkyrkabor som är kritiska till det arbete partiet har genomfört. – Jag tycker inte att det har påverkat varken kommunen eller Botkyrkaborna, säger Stina Lundgren (M), kommunstyrelsens ordförande."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 7 september",
-   "date": "2026-09-07T18:00:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-september-h9bxje",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 7 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här går nya varningslarmet på Centralen i Stockholm",
-   "date": "2026-09-07T14:27:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-gar-nya-varningslarmet-pa-centralen-i-stockholm",
-   "desc": "På måndagen var det dags att testa Sveriges nya varningslarm. SVT tog sig till Nordens mest trafikerade järnvägsstation för att se vad som händer när hundratals mobiltelefoner börjar tjuta samtidigt. – Jag blev påmind av min fru innan. Annars hade jag nog blivit lite orolig, säger resenären Mikael Skagerdal."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-08T16:00:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p8lc6n?at_medium=RSS&at_campaign=rss",
+   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-09-05T21:30:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p82l2r?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd head coach Michael Carrick says they can compete, even without spending more."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-04T15:24:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p81d3w?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd head coach Michael Carrick on their transfer business and Joshua Zirkzee staying."
   }
  ]
 }
