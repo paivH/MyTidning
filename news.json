@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T21:48:17.413Z",
+ "updated": "2026-09-09T23:47:39.177Z",
  "items": [
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Brand på återvinningsstation i Rosersberg",
+   "date": "2026-09-09T23:35:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-pa-atervinningsstation-i-rosersberg",
+   "desc": "Det brinner bland soporna på Rosersbergs återvinningsstation, Sigtuna kommun, natten till torsdag. – Elden är under kontroll, säger räddningstjänstens ledningsoperatör Josefin Lindblom."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 9 september",
    "date": "2026-09-09T17:44:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-9-september-q830dk",
@@ -112,14 +120,6 @@
    "date": "2026-09-08T16:16:54.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/barn-pakort-av-buss-i-nacka",
    "desc": "Ett barn i tioårsåldern blev vid 17.30-tiden påkört av en buss i Nacka, utanför Stockholm. Barnet har förts till sjukhus med ambulans och polisen är på plats."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "M i stadshuset: Inga förutsättningar att styra med vare sig SD eller MP",
-   "date": "2026-09-08T16:00:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/m-i-stadshuset-inga-forutsattningar-att-styra-med-vare-sig-sd-eller-mp",
-   "desc": "För att ta över makten i Stockholms stad efter valet kan Moderaterna behöva stöd av ett parti utanför den borgerliga Alliansen. Samtidigt skriver Moderaterna nu ”Vi ser inga förutsättningar att styra tillsammans med vare sig SD eller MP”."
   },
   {
    "src": "BBC",
