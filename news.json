@@ -1,85 +1,93 @@
 {
- "updated": "2026-09-09T06:19:11.994Z",
+ "updated": "2026-09-09T11:40:38.111Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
-   "date": "2026-09-09T04:26:38.000Z",
+   "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+   "date": "2026-09-09T09:47:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-   "desc": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran."
+   "desc": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-   "date": "2026-09-08T21:46:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-   "date": "2026-09-09T03:03:32.000Z",
+   "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+   "date": "2026-09-09T10:20:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-   "desc": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force."
+   "desc": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-   "date": "2026-09-08T23:11:32.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-   "desc": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on."
+   "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+   "date": "2026-09-09T10:59:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+   "desc": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-   "date": "2026-09-09T05:39:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state."
+   "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+   "date": "2026-09-09T11:29:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+   "desc": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+   "date": "2026-09-09T07:44:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+   "desc": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "I dag väntas domen om morden på Tor och Gerd i Brattås",
-   "date": "2026-09-09T06:00:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/i-dag-vantas-domen-om-morden-pa-tor-och-gerd-i-brattas",
-   "desc": "Under onsdagsförmiddagen väntas domen i målet om dubbelmordet i Brattås i Härnösand 2005 i Ångermanlands tingsrätt. Men oavsett utgång kommer domen högst sannolikt att överklagas till hovrätten – det har i vart fall försvaret redan meddelat."
+   "title": "Nattågstrafiken till Duved säkras – i sex månader",
+   "date": "2026-09-09T11:23:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/nattagstrafiken-till-duved-sakras-i-sex-manader",
+   "desc": "Ett nattåg i varje riktning per dygn är kravet som ställts mellan Trafikverket och SJ trafiken ska fortsätta. Det gäller för samma sträcka trafikerats hittills, Duved – Stockholm. Avtalet gäller för ett halvår."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tomas Nordenskiöld: ”Vinna eller försvinna för Andersson och Kristersson”",
-   "date": "2026-09-09T04:09:48.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/tomas-nordenskiold-vinna-eller-forsvinna-for-andersson-och-kristersson",
-   "desc": "På onsdagskvällen möts Ulf Kristersson (M) och Magdalena Andersson (S) i statsministerduellen på SVT. Och det är då allt kan avgöras. – Att väljarna ställer frågorna i större utsträckning gör de här klassiska duellerna svårare, säger SVT:s politikreporter Tomas Nordenskiöld."
+   "title": "Man häktas misstänkt för flera grova brott – greps i Thailand",
+   "date": "2026-09-09T11:17:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/man-haktas-misstankt-for-flera-grova-brott-greps-i-thailand",
+   "desc": "En Köpingsbo i 30-årsåldern har häktats misstänkt för flera mordbränder och sprängningar i bland annat Västerås, Surahammar, Nässjö och Lidingö."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ikea plagiatanklagas igen: ”Solkar ner mitt arbete”",
-   "date": "2026-09-09T03:30:00.000Z",
-   "link": "https://www.svt.se/kultur/ikea-plagiatanklagas-igen-solkar-ner-mitt-arbete",
-   "desc": "Ikea anklagas återigen för plagiat. Textilkonstnären Katja Beckman Ojala tycker att möbeljättens nya väggbonad är misstänkt lik hennes konst, något DN var först med att rapportera. – Det ligger för nära mitt konstnärskap för att det ska vara en slump, säger Katja Beckman Ojala."
+   "title": "Här får häktade rösta i Jönköping: ”Ganska stort politiskt intresse”",
+   "date": "2026-09-09T10:00:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/har-far-haktade-rosta-ganska-stort-politiskt-intresse",
+   "desc": "Det är länets mest udda lokal för förtidsröstning. I ett rum i polishuset i Jönköping kan de som sitter häktade få rösta. – Det politiska intresset har varit ganska stort bland de intagna, säger kriminalvårdaren Anders."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ett år utan dödligt gängvåld i Västsverige: ”Trendbrott”",
-   "date": "2026-09-09T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/ett-ar-utan-dodligt-gangvald-i-vastsverige-trendbrott",
-   "desc": "Ingen har dödats i gängmiljön i polisregion Väst på ett år. Samtidigt säger polisen att rekryteringen och viljan att beställa grova våldsdåd fortfarande finns kvar. – Varenda dag så jagar vi ungdomar, barn och andra aktörer som har tagit på sig grova våldsbrott för att försöka avbryta dem innan någonting sker, säger regionpolischefen Hampus Nygårds."
+   "title": "Väljarnas förtroende för Andersson minskar – Busch i topp",
+   "date": "2026-09-09T09:59:56.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/valjarnas-fortroende-for-andersson-minskar-busch-i-topp",
+   "desc": "Väljarnas förtroende för Magdalena Andersson minskar, enligt en ny mätning från SVT/Verian. Väljarna har nu lika högt förtroende för statsminister Ulf Kristersson som för Socialdemokraternas partiledare. Samtidigt ökar Ebba Busch kraftigt – och leder nu förtroendeligan."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Då blir en röst ogiltig – så undviker du misstagen",
-   "date": "2026-09-09T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/da-blir-din-rost-ogiltig-valsamordnaren-visar",
-   "desc": "Vad krävs för att en röst ska bli ogiltig? Mikael Stenås i Västerås har arbetat med många val och sett de flesta misstagen – som kan göra att din röst inte räknas. – Det var en som ville rösta på både Vänsterpartiet och Sverigedemokraterna, säger Mikael Stenås, valsamordnare på Västerås stad."
+   "title": "Höga smällar på Gotland – Försvarsmakten: ”Rör vår verksamhet”",
+   "date": "2026-09-09T09:56:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/hoga-smallar-pa-gotland-forsvarsmakten-ror-var-verksamhet",
+   "desc": "Strax efter klockan 11 på förmiddagen idag hördes två höga smällar på Gotland. Ljudet hördes över stora delar av ön, och fick rutor att skallra på många fastigheter."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Här är Norrtäljepolitikerna överens i klimatfrågan: ”Fler bussar”",
+   "date": "2026-09-09T11:39:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-ar-norrtaljepolitikerna-overens-i-klimatfragan-fler-bussar",
+   "desc": "På tisdagskvällen samlades ett 50-tal personer i Folkets hus i Norrtälje, för en utfrågning av de lokala partierna och kommunens klimathandlingsplan. Mycket var politikerna oeniga om – men SVT bad två av toppnamnen att svara på vad de egentligen tycker lika om."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-08T14:35:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sl-tjanar-miljoner-efter-prissankningen",
    "desc": "Två månader efter att priset på SL:s månadsbiljett tillfälligt halverades visar nya siffror att den ökade försäljningen har gett SL miljonintäkter."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stockholmarna känner sig tryggare än på länge",
-   "date": "2026-09-08T12:47:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stockholmarna-kanner-sig-tryggare-an-pa-lange",
-   "desc": "En ny trygghetsmätning visar att otryggheten i staden har nått den lägsta nivån sedan 2011. Mätningen genomförs vart tredje år och undersöker bland annat stockholmarnas upplevda otrygghet och ordningsstörningar i bostadsområden."
   },
   {
    "src": "BBC",
