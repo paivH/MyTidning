@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T15:51:21.892Z",
+ "updated": "2026-09-09T19:02:20.500Z",
  "items": [
   {
    "src": "BBC",
@@ -12,8 +12,16 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Google picks Finland for its largest single investment in Europe",
+   "date": "2026-09-09T17:06:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-   "date": "2026-09-09T09:47:39.000Z",
+   "date": "2026-09-09T16:46:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
    "desc": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
   },
@@ -28,18 +36,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
-   "date": "2026-09-09T10:59:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-   "desc": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk."
+   "title": "Europe's royalty pay respects to King Harald V in Norway",
+   "date": "2026-09-09T16:30:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-   "date": "2026-09-09T11:29:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-   "desc": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bråk om mängdrabatten: ”Sprider lögner”",
+   "date": "2026-09-09T18:21:45.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/brak-om-mangdrabatten-sprider-logner",
+   "desc": "Statsminister Ulf Kristersson går till hård attack mot Magdalena Andersson inför kvällens statsministerduell. I ett brev uppmanar han Andersson att ”tala klarspråk om mängdrabatten och stå upp för brottsoffer”. – I dag sprider Kristersson lögner, medvetet, svarar Magdalena Andersson"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "MP kritiska efter vallöfte från M: ”Man kommer få stå på perrongen och vänta i flera år”",
+   "date": "2026-09-09T17:54:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/mp-kritiska-efter-vallofte-fran-m-man-kommer-fa-sta-pa-perrongen-och-vanta-i-flera-ar",
+   "desc": "I Trafikverkets rapport från i våras är man tydliga. Det går inte att köra pendeltåg till Hölö på länge. Trots det har Moderaterna lovat att sätta spaden i jorden för projektet redan om fyra år. – Man måste vara tydlig, annars riskerar de att göra folk besvikna. Det kommer dröja minst tio år innan pendeltågen går, säger Mats Pertoft (MP)."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "En död efter arbetsplatsolycka i östra Göteborg",
+   "date": "2026-09-09T17:11:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/en-dod-efter-arbetsplats-olycka-i-ostra-goteborg",
+   "desc": "En man har dött efter en arbetsplatsolycka i östra Göteborg. – Vi har inte händelseförloppet helt klart, men det tyder på en fallolycka, säger polisens presstalesperson Jens Andersson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Juristen Emma (L) vill in i politiken: ”Hoppas på att bidra med nya perspektiv”",
+   "date": "2026-09-09T17:00:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/juristen-emma-l-vill-in-i-krokomspolitiken-hoppas-pa-bidra-med-nya-perspektiv",
+   "desc": "Emma Lilja Sjödin (L) jobbar som bolagsjurist och bor i Ås. Nu ställer hon upp för Liberalerna i Krokoms kommun. – Det är genom politiken man kan påverka sitt samhälle och den vardag man lever i."
   },
   {
    "src": "SVT",
@@ -50,36 +82,20 @@
    "desc": "Det ska inte finnas någon varg i Småland – det är budskapet från Kristdemokraterna, Centern och Sverigedemokraterna i de småländska länen inför valet. – Vill vi att hela Sverige ska leva är vargen är en stark konkurrent till den ambitionen, säger Carl-Wiktor Svensson (KD)."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Gais målvakt Mergim Krasniqi om otäcka smällen: ”Trodde jag hade rivit upp hela ansiktet”",
-   "date": "2026-09-09T14:52:03.000Z",
-   "link": "https://www.svt.se/sport/fotboll/gais-malvakt-mergim-krasniqi-om-otacka-smallen-trodde-jag-hade-rivit-upp-hela-ansiktet",
-   "desc": "Gais-keepern Mergim Krasniqi blev utbytt i Göteborgsderbyt. Han knockades blodig. – Jag var tagen av stunden, jag trodde att han hade rivit upp hela ansiktet, säger 34-åringen till SVT Sport."
+   "title": "Nyheter från dagen: 9 september",
+   "date": "2026-09-09T17:44:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-9-september-q830dk",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under onsdagen den 9 september."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ylva, 101 år, röstade när valbilen kom till Hackås",
-   "date": "2026-09-09T14:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ylva-101-ar-rostade-nar-valbilen-kom-till-hackas",
-   "desc": "När valbilen i Berg öppnade ambulerande vallokal på Tallgläntan i Hackås kom en av de äldsta i kommunen för att rösta. – Jag har försökt att alltid rösta, säger Ylva Odén 101 år gammal."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Barn påkört i centrala Jönköping",
-   "date": "2026-09-09T14:29:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/barn-pakort-i-centrala-jonkoping",
-   "desc": "Ett barn blev under onsdagseftermiddagen påkört på Gröna gatan i centrala Jönköping. Barnet ska vara vaken och talbar men har åkt med ambulans till vårdinrättning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SD skriver på Dumpen-avtal – sexbrott mot barn ska prioriteras",
-   "date": "2026-09-09T14:22:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/sd-skriver-pa-dumpen-avtal-sexbrott-mot-barn-ska-prioriteras",
-   "desc": "Polisen ska jobba som Dumpen, sexualbrott mot barn ska prioriteras och ett centralt barnförbudsregister ska skapas. Det är några av punkterna på ett avtal som SD skrev på i Linköping under onsdagen."
+   "title": "Explosion på båt i Täby",
+   "date": "2026-09-09T16:32:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/explosion-pa-bat-i-taby",
+   "desc": "En motor har exploderat i en förtöjd båt i Täby kommun. En person ska ha hamnat i vattnet men ha klarat sig utan allvarliga skador. – Personen är uppe ur vattnet och sägs vara vid god vigör, säger Räddningstjänstens vakthavande befäl Jesper Hesselgren."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,20 @@
    "desc": "För att ta över makten i Stockholms stad efter valet kan Moderaterna behöva stöd av ett parti utanför den borgerliga Alliansen. Samtidigt skriver Moderaterna nu ”Vi ser inga förutsättningar att styra tillsammans med vare sig SD eller MP”."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Lidingö stad tar fram egen kulturkanon",
-   "date": "2026-09-08T15:00:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/lidingo-stad-tar-fram-egen-kulturkanon",
-   "desc": "Karl Bertil Jonssons julafton, Millesgården och AGA gasfabrik ingår alla i den kulturkanon som Lidingö stad låtit ta fram. Satsningen ska spegla verk och historiska inslag som har format ön – och kostar kommunen 150 000 kronor. – Det är för att skapa stolthet och bildning, säger Staffan Strömbäck (M), ordförande i kultur- och fritidsnämnden."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-09T18:22:18.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p8sx96?at_medium=RSS&at_campaign=rss",
+   "desc": "Journalist Katie Wilson, who covers football in Azerbaijan, gives an insight on Sabah."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "SL tjänar miljoner efter prissänkningen",
-   "date": "2026-09-08T14:35:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sl-tjanar-miljoner-efter-prissankningen",
-   "desc": "Två månader efter att priset på SL:s månadsbiljett tillfälligt halverades visar nya siffror att den ökade försäljningen har gett SL miljonintäkter."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-09T16:10:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p8s1q4?at_medium=RSS&at_campaign=rss",
+   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   },
   {
    "src": "BBC",
@@ -136,22 +152,6 @@
    "date": "2026-09-08T16:00:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p8lc6n?at_medium=RSS&at_campaign=rss",
    "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-07T12:02:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p8dffr?at_medium=RSS&at_campaign=rss",
-   "desc": "Joe and Gaz discuss the draw at Everton and look ahead to facing Sabah and Man City."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-05T21:30:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p82l2r?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd head coach Michael Carrick says they can compete, even without spending more."
   }
  ]
 }
