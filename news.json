@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-09T19:02:20.500Z",
+ "updated": "2026-09-09T21:48:17.413Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-   "date": "2026-09-09T13:29:33.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-   "desc": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
+   "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+   "date": "2026-09-09T21:23:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+   "desc": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta."
   },
   {
    "src": "BBC",
@@ -28,18 +28,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-   "date": "2026-09-09T10:20:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-   "desc": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force."
+   "title": "Iran referred to UN Security Council for nuclear non-compliance",
+   "date": "2026-09-09T20:22:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+   "desc": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Europe's royalty pay respects to King Harald V in Norway",
-   "date": "2026-09-09T16:30:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday."
+   "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+   "date": "2026-09-09T13:29:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+   "desc": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Arbetslösa Torbjörn: ”Hur ska vi i träsket överleva?”",
+   "date": "2026-09-09T20:34:17.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/arbetslosa-torbjorn-hur-ska-vi-i-trasket-overleva",
+   "desc": "Torbjörn Wikström lever på försörjningsstöd och undrar hur han ska överleva ekonomiskt. Samtidigt har Tidöregeringen stramat åt socialförsäkringen. – Det kan inte vara så att man ska kunna leva på bidrag och ha det bättre ställt än den som går till jobbet varje dag, säger statsminister Ulf Kristersson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Irriterat tonläge – pressen ökar inför valspurten",
+   "date": "2026-09-09T20:23:09.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/irriterat-tonlage-pressen-okar-infor-valspurten",
+   "desc": "Det var stundtals irriterat och lite tjafsigt mellan statsminister Ulf Kristersson och S-ledaren Magdalena Andersson i SVT:s statministerduell. Förklaringen är enkel: Endast några dagar återstår till valet, båda partiledarna är satta under hård press och regeringsmakten står på spel."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-09-09T17:11:11.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/en-dod-efter-arbetsplats-olycka-i-ostra-goteborg",
    "desc": "En man har dött efter en arbetsplatsolycka i östra Göteborg. – Vi har inte händelseförloppet helt klart, men det tyder på en fallolycka, säger polisens presstalesperson Jens Andersson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Juristen Emma (L) vill in i politiken: ”Hoppas på att bidra med nya perspektiv”",
-   "date": "2026-09-09T17:00:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/juristen-emma-l-vill-in-i-krokomspolitiken-hoppas-pa-bidra-med-nya-perspektiv",
-   "desc": "Emma Lilja Sjödin (L) jobbar som bolagsjurist och bor i Ås. Nu ställer hon upp för Liberalerna i Krokoms kommun. – Det är genom politiken man kan påverka sitt samhälle och den vardag man lever i."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "KD, SD och C är överens – vill utrota vargen i Småland",
-   "date": "2026-09-09T15:21:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/kd-sd-och-c-ar-overens-vill-utrota-vargen-i-smaland",
-   "desc": "Det ska inte finnas någon varg i Småland – det är budskapet från Kristdemokraterna, Centern och Sverigedemokraterna i de småländska länen inför valet. – Vill vi att hela Sverige ska leva är vargen är en stark konkurrent till den ambitionen, säger Carl-Wiktor Svensson (KD)."
   },
   {
    "src": "STHLM",
