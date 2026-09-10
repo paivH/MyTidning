@@ -1,45 +1,53 @@
 {
- "updated": "2026-09-10T16:52:30.510Z",
+ "updated": "2026-09-10T19:26:57.049Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-   "date": "2026-09-10T13:23:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from."
+   "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+   "date": "2026-09-10T18:15:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+   "desc": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Watch: Is Trump's $5,000 election pledge legal?",
-   "date": "2026-09-10T07:12:32.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms."
+   "title": "Can Trump really pay $5,000 to every American adult?",
+   "date": "2026-09-10T16:48:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+   "desc": "Analysts question if the US president's election year offer is workable, legal or affordable."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran war won't end until after crucial November elections, says Trump",
-   "date": "2026-09-10T10:43:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-   "desc": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election."
+   "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+   "date": "2026-09-10T16:31:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+   "desc": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-   "date": "2026-09-10T06:30:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-   "desc": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan."
+   "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+   "date": "2026-09-10T15:54:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-   "date": "2026-09-10T13:12:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-   "desc": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom."
+   "title": "Twenty-five dead after fire on cargo ship in eastern China",
+   "date": "2026-09-10T12:24:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Of the 42 people on board, 17 were were evacuated, CCTV reports."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Så blev mängdrabatten den stora stridsfrågan i valspurten",
+   "date": "2026-09-10T17:25:56.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sa-blev-mangdrabatten-den-stora-stridsfragan-i-valspurten",
+   "desc": "Ulf Kristersson anklagar S-ledaren för att inte stå upp för våldtaga kvinnor – medan Magdalena Andersson anklagar M-ledaren för att använda mäns våld mot kvinnor som politiskt slagträ. Mängdrabatten har blivit en av valrörelsens mest infekterade konflikter. – Ulf Kristersson vill köra den här frågan i botten, säger SVT:s politikreporter Kristoffer Törnmalm."
   },
   {
    "src": "SVT",
@@ -55,7 +63,7 @@
    "title": "SD-politiker nekades rösta i Piteå – bar partikläder i vallokalen",
    "date": "2026-09-10T16:27:32.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sd-politiker-nekades-rosta-i-pitea-bar-partiklader-i-vallokalen",
-   "desc": "SD-politikern Ulf Lindeberg avvisades två gånger från en vallokal i Piteå eftersom han bar kläder med partiets symboler. Vid det andra tillfället ville han enbart rösta – något som kommunen nu medger att han inte skulle ha nekats. – Jag har aldrig blivit så illa bemött i en vallokal, säger han."
+   "desc": "SD-politikern Ulf Lindeberg avvisades två gånger från en röstningslokal i Piteå eftersom han bar kläder med partiets symboler. Vid det andra tillfället ville han enbart rösta – något som kommunen nu medger att han inte skulle ha nekats. – Jag har aldrig blivit så illa bemött i en vallokal, säger han."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "”Barn och familj” står som en av de viktigaste fokusområdena för Kristdemokraterna Tyresö. Samtidigt är en av deras politiker, Erik Kainulainen, åtalad för att misshandlat en närstående. Med bara dagar kvar till valet stryks han från valsedeln – efter SVT:s frågor."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Travtränare slog häst – blir av med licensen: ”För mycket våld”",
-   "date": "2026-09-10T12:57:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/halland/travtranare-slog-hast-blir-av-med-licensen",
-   "desc": "En västsvensk travtränare fångades på övervakningsfilm när han slog en häst i huvudet flera gånger. Nu har Svensk travsports licenskommitté beslutat att dra in mannens tränarlicens i sex månader."
+   "title": "Nyheter från dagen: 10 september",
+   "date": "2026-09-10T17:55:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-10-september-yzd1u9",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under torsdagen den 10 september."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-10T13:00:35.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kd-politiker-i-tyreso-atalad-for-misshandel-av-narstaende-petas",
    "desc": "”Barn och familj” står som en av de viktigaste fokusområdena för Kristdemokraterna Tyresö. Samtidigt är en av deras politiker, Erik Kainulainen, åtalad för att misshandlat en närstående. Med bara dagar kvar till valet stryks han från valsedeln – efter SVT:s frågor."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Rättegång mot åtalad idrottslärare dröjer – saknas domare",
-   "date": "2026-09-10T12:16:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/rattegang-mot-atalad-idrottslarare-drojer-saknas-domare",
-   "desc": "Rättegången mot den lärare som åtalats för att ha smygfilmat över 50 elever på en skola i Haninge kommer inte ske förrän april nästa år. Anledningen är brist på domare och förhandlingssalar på Södertörns tingsrätt, rapporterar tidningen Mitt i."
   },
   {
    "src": "BBC",
