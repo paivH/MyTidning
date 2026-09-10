@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T21:45:19.756Z",
+ "updated": "2026-09-10T23:40:10.334Z",
  "items": [
   {
    "src": "BBC",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-09-10T22:16:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p9263p?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd boss Michael Carrick on their 4-0 winning return to the Champions League."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-09-09T18:22:18.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p8sx96?at_medium=RSS&at_campaign=rss",
    "desc": "Journalist Katie Wilson, who covers football in Azerbaijan, gives an insight on Sabah."
@@ -144,14 +152,6 @@
    "date": "2026-09-09T14:07:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p8r0zn?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick and Bryan Mbeumo on United's return to Champions League football."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-07T12:02:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p8dffr?at_medium=RSS&at_campaign=rss",
-   "desc": "Joe and Gaz discuss the draw at Everton and look ahead to facing Sabah and Man City."
   }
  ]
 }
