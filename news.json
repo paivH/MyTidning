@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T19:26:57.049Z",
+ "updated": "2026-09-10T21:45:19.756Z",
  "items": [
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Twenty-five dead after fire on cargo ship in eastern China",
-   "date": "2026-09-10T12:24:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Of the 42 people on board, 17 were were evacuated, CCTV reports."
+   "title": "More than 20 children killed in DR Congo school fire",
+   "date": "2026-09-10T19:16:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+   "desc": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Utpekade V-toppen: ”Kan man anmäla Mohamsson för förtal?”",
+   "date": "2026-09-10T19:56:53.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/utpekade-v-toppen-kan-man-anmala-mohamsson-for-fortal",
+   "desc": "V-toppen Ilona Szatmari Waldau reagerar kraftigt på den lista som Liberalernas partiledare Simona Mohamsson hade med sig till partiledardebatten i TV4. – Det är olyckligt att Simona Mohamsson nu använder sig av judars utsatthet som ett politiskt slagträ, skriver hon till SVT."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-10T16:23:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jamtland/valduell-om-varden-det-har-ar-beskeden-fran-politikerna",
    "desc": "Vad har förbättrats inom vården den senaste mandatperioden? Vad har varit mest negativt? Vad behövs framåt för att jämtarna och härjedalingarna ska få bättre vård? SVT Jämtland lät den styrande majoriteten och oppositionen mötas i en valduell på torsdagen. Se vilka besked som gavs i videon ovan och nedan."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "KD-politiker i Tyresö åtalad för misshandel av närstående – petas",
-   "date": "2026-09-10T13:00:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kd-politiker-i-tyreso-atalad-for-misshandel-av-narstaende-petas",
-   "desc": "”Barn och familj” står som en av de viktigaste fokusområdena för Kristdemokraterna Tyresö. Samtidigt är en av deras politiker, Erik Kainulainen, åtalad för att misshandlat en närstående. Med bara dagar kvar till valet stryks han från valsedeln – efter SVT:s frågor."
   },
   {
    "src": "STHLM",
