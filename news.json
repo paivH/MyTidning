@@ -1,6 +1,30 @@
 {
- "updated": "2026-09-10T02:54:43.789Z",
+ "updated": "2026-09-10T07:50:28.027Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+   "date": "2026-09-10T06:56:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Iran war won't end until after crucial November elections, says Trump",
+   "date": "2026-09-10T05:56:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+   "desc": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+   "date": "2026-09-10T06:30:19.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+   "desc": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,74 +36,66 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Google picks Finland for its largest single investment in Europe",
-   "date": "2026-09-09T17:06:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-   "date": "2026-09-09T16:46:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-   "desc": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Iran referred to UN Security Council for nuclear non-compliance",
-   "date": "2026-09-09T20:22:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-   "desc": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-   "date": "2026-09-09T13:29:33.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-   "desc": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
+   "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
+   "date": "2026-09-09T20:00:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+   "desc": "Apple showed off at an event the first major design change to the iPhone in almost 20 years."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Arbetslösa Torbjörn: ”Hur ska vi i träsket överleva?”",
-   "date": "2026-09-09T20:34:17.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/arbetslosa-torbjorn-hur-ska-vi-i-trasket-overleva",
-   "desc": "Torbjörn Wikström lever på försörjningsstöd och undrar hur han ska överleva ekonomiskt. Samtidigt har Tidöregeringen stramat åt socialförsäkringen. – Det kan inte vara så att man ska kunna leva på bidrag och ha det bättre ställt än den som går till jobbet varje dag, säger statsminister Ulf Kristersson."
+   "title": "Villa brinner i Boliden – golv och väggar bryts upp",
+   "date": "2026-09-10T07:31:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/villa-brinner-i-boliden-golv-och-vaggar-bryts-upp",
+   "desc": "En villa i Svanfors, Boliden har börjat brinna. Räddningtjänsten är på plats med åtta resurser. Nu bryter man upp golv och väggar för att komma åt branden."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Irriterat tonläge – pressen ökar inför valspurten",
-   "date": "2026-09-09T20:23:09.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/irriterat-tonlage-pressen-okar-infor-valspurten",
-   "desc": "Det var stundtals irriterat och lite tjafsigt mellan statsminister Ulf Kristersson och S-ledaren Magdalena Andersson i SVT:s statministerduell. Förklaringen är enkel: Endast några dagar återstår till valet, båda partiledarna är satta under hård press och regeringsmakten står på spel."
+   "title": "Bil har rullat ner i Lagan i Värnamo",
+   "date": "2026-09-10T07:11:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/bil-har-rullat-ner-i-lagan-i-varnamo",
+   "desc": "En bil har rullat ner i ån Lagan från en parkering i centrala Värnamo. Bilen var tom och ingen har kommit till skada."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bråk om mängdrabatten: ”Sprider lögner”",
-   "date": "2026-09-09T18:21:45.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/brak-om-mangdrabatten-sprider-logner",
-   "desc": "Statsminister Ulf Kristersson går till hård attack mot Magdalena Andersson inför kvällens statsministerduell. I ett brev uppmanar han Andersson att ”tala klarspråk om mängdrabatten och stå upp för brottsoffer”. – I dag sprider Kristersson lögner, medvetet, svarar Magdalena Andersson"
+   "title": "SMHI varnar för skyfall",
+   "date": "2026-09-10T06:22:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/smhi-varnar-for-skyfall-cfkxtv",
+   "desc": "Omfattande regn med åska väntas under torsdagen med upp till 40-70 mm nederbörd, möjligen mer enligt SMHI."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "MP kritiska efter vallöfte från M: ”Man kommer få stå på perrongen och vänta i flera år”",
-   "date": "2026-09-09T17:54:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/mp-kritiska-efter-vallofte-fran-m-man-kommer-fa-sta-pa-perrongen-och-vanta-i-flera-ar",
-   "desc": "I Trafikverkets rapport från i våras är man tydliga. Det går inte att köra pendeltåg till Hölö på länge. Trots det har Moderaterna lovat att sätta spaden i jorden för projektet redan om fyra år. – Man måste vara tydlig, annars riskerar de att göra folk besvikna. Det kommer dröja minst tio år innan pendeltågen går, säger Mats Pertoft (MP)."
+   "title": "Efter båtolyckan vid Tjörn – nu startar rättegången mot lotsen och befälhavaren",
+   "date": "2026-09-10T05:03:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/efter-batolyckan-vid-tjorn-nu-startar-rattegangen-mot-lotsen-och-befalhavaren",
+   "desc": "Två personer dog i båtolyckan utanför Tjörn, 28 juli. Drygt sex veckor efter händelsen inleds nu rättegången mot kaptenen och lotsen som fanns ombord på fartyget Misje verde. SVT Nyheter rapporterar direkt från rättegången i Göteborg."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "En död efter arbetsplatsolycka i östra Göteborg",
-   "date": "2026-09-09T17:11:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/en-dod-efter-arbetsplats-olycka-i-ostra-goteborg",
-   "desc": "En man har dött efter en arbetsplatsolycka i östra Göteborg. – Vi har inte händelseförloppet helt klart, men det tyder på en fallolycka, säger polisens presstalesperson Jens Andersson."
+   "title": "En död i Norrköping – fick ström i sig vid tågstationen",
+   "date": "2026-09-10T04:43:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/stopp-i-tagtrafiken-allvarlig-olycka-i-norrkoping",
+   "desc": "En man har avlidit efter att ha fått ström i sig vid tågstationen i Norrköping under natten till torsdag."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "SMHI varnar för skyfall",
+   "date": "2026-09-10T06:22:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/smhi-varnar-for-skyfall-cfkxtv",
+   "desc": "Omfattande regn med åska väntas under torsdagen med upp till 40-70 mm nederbörd, möjligen mer enligt SMHI."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Partierna vill bygga ut pendelbåtarna – men är oense om hur mycket",
+   "date": "2026-09-10T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/partierna-vill-bygga-ut-pendelbatarna-men-ar-oense-om-hur-mycket",
+   "desc": "Fler linjer, fler avgångar och nya förbindelser över vattnet. De flesta partier i Region Stockholm vill utveckla pendelbåtstrafiken, men det skiljer sig åt kring omfattning, kostnader och hur många nya linjer som man vill införa."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-09-09T16:32:22.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/explosion-pa-bat-i-taby",
    "desc": "En motor har exploderat i en förtöjd båt i Täby kommun. En person ska ha hamnat i vattnet men ha klarat sig utan allvarliga skador. – Personen är uppe ur vattnet och sägs vara vid god vigör, säger Räddningstjänstens vakthavande befäl Jesper Hesselgren."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här är Norrtäljepolitikerna överens i klimatfrågan: ”Fler bussar”",
-   "date": "2026-09-09T11:39:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-ar-norrtaljepolitikerna-overens-i-klimatfragan-fler-bussar",
-   "desc": "På tisdagskvällen samlades ett 50-tal personer i Folkets hus i Norrtälje, för en utfrågning av de lokala partierna och kommunens klimathandlingsplan. Mycket var politikerna oeniga om – men SVT bad två av toppnamnen att svara på vad de egentligen tycker lika om."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Barn påkört av buss i Nacka",
-   "date": "2026-09-08T16:16:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/barn-pakort-av-buss-i-nacka",
-   "desc": "Ett barn i tioårsåldern blev vid 17.30-tiden påkört av en buss i Nacka, utanför Stockholm. Barnet har förts till sjukhus med ambulans och polisen är på plats."
   },
   {
    "src": "BBC",
