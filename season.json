@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-10T08:17:03.164Z",
+ "updated": "2026-09-11T08:12:03.080Z",
  "items": [
   {
-   "ingredient": "pumpa",
-   "idea": "Skiva pumpan tunt och lägg i snabblag 1:1:1 ättika, socker, vatten – klar på 30 minuter."
-  },
-  {
-   "ingredient": "purjolök",
-   "idea": "Fermentera purjolök i 2% saltlake i en vecka för en syrlig, krispig tillbehör till allt."
+   "ingredient": "svamp",
+   "idea": "Stek kantareller hastigt i smör, toppa surdegstoast med timjan och flingsalt – klart på tio minuter."
   },
   {
    "ingredient": "rödbetor",
-   "idea": "Baka surdegsbröd med rivna rödbetor i degen – ger vacker färg och saftig krumma."
+   "idea": "Snabbsyltade rödbetor: koka upp lika delar ättika, vatten och socker, häll över och låt dra en timme."
   },
   {
-   "ingredient": "svamp",
-   "idea": "Snabbstekt svamp med vitlök och timjan på rostat bröd – klart på tio minuter."
+   "ingredient": "purjolök",
+   "idea": "Fermentera skivad purjolök i 2% saltlake en vecka för en syrlig, krispig krydda till allt."
+  },
+  {
+   "ingredient": "pumpa",
+   "idea": "Baka surdegsbröd med rostad pumpapuré i degen – ger fin sötma och saftig, len krumma."
   }
  ]
 }
