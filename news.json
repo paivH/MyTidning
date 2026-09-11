@@ -1,13 +1,37 @@
 {
- "updated": "2026-09-11T21:49:48.167Z",
+ "updated": "2026-09-11T23:51:04.957Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-   "date": "2026-09-11T20:11:47.000Z",
+   "date": "2026-09-11T22:17:45.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
    "desc": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+   "date": "2026-09-11T20:34:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Passenger train derails in France leaving at least 44 injured",
+   "date": "2026-09-11T21:25:32.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+   "desc": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Arrest made over the death of black woman found hanged from tree",
+   "date": "2026-09-11T22:57:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+   "desc": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August."
   },
   {
    "src": "BBC",
@@ -18,28 +42,12 @@
    "desc": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israel says it has destroyed major underground Hezbollah base",
-   "date": "2026-09-11T15:50:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-   "desc": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Princess Diana's 'revenge dress' goes up for auction",
-   "date": "2026-09-11T12:04:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-   "desc": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-   "date": "2026-09-11T10:50:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Två till sjukhus efter trafikolycka på Östermalm",
+   "date": "2026-09-11T23:45:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-till-sjukhus-efter-trafikolycka-pa-ostermalm",
+   "desc": "Två personer har fått föras till sjukhus efter en trafikolycka på Östermalm i Stockholm. Flera bilar har kvaddats."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "I SVT:s valkompass uppger Moderaterna att de vill att Sverige ska ha mer ambitiösa klimatmål än övriga EU. Men när frågan ställs igen i SVT:s slutdebatt har Ulf Kristersson (M) ändrat sig. – EU är hela basen för klimatpolitiken, det är där vi gör skillnad."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Abdihakim Ali sitter på utgående kontrakt: ”Vi får se”",
-   "date": "2026-09-11T17:08:35.000Z",
-   "link": "https://www.svt.se/sport/fotboll/abdihakim-ali-sitter-pa-utgaende-kontrakt-vi-far-se",
-   "desc": "Han sitter på ett utgående kontrakt. Samtidigt håller sig AIK:s Abdihakim Ali, med fyra raka starter, lugn. – Jag vill alltid vara i AIK, säger han."
+   "title": "Två till sjukhus efter trafikolycka på Östermalm",
+   "date": "2026-09-11T23:45:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-till-sjukhus-efter-trafikolycka-pa-ostermalm",
+   "desc": "Två personer har fått föras till sjukhus efter en trafikolycka på Östermalm i Stockholm. Flera bilar har kvaddats."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-11T10:25:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/m-och-s-overens-sa-ska-stockholms-kollektivtrafik-bli-tryggare",
    "desc": "Stockholm kan räkna med renare och tryggare kollektivtrafik – oavsett vem som vinner valet. Partierna lovar nämligen i princip samma sak. Men vid Kista busstorg, ett av de områden som berörs, finns en viss skepsis till behovet av vallöftet. – Det hade kunnat bli lite finare, mer färg, men jag känner mig inte otrygg, säger Athina Pliakou."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 10 september",
-   "date": "2026-09-10T17:55:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-10-september-yzd1u9",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under torsdagen den 10 september."
   },
   {
    "src": "BBC",
