@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T12:33:13.067Z",
+ "updated": "2026-09-11T16:52:37.956Z",
  "items": [
   {
    "src": "BBC",
@@ -12,16 +12,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-   "date": "2026-09-11T05:41:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Israel says it has destroyed major underground Hezbollah base",
-   "date": "2026-09-11T11:34:07.000Z",
+   "date": "2026-09-11T15:50:23.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
    "desc": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey."
   },
@@ -42,44 +34,68 @@
    "desc": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Norsk mordutredning tas över av polisen i Norrköping",
-   "date": "2026-09-11T11:54:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/norsk-mordutredning-tas-over-av-polisen-i-norrkoping",
-   "desc": "De två tonårspojkar – 15 och 16 år gamla – som är bland de misstänkta för inblandning i mordet på en man i 20-årsåldern i Norrköping under valborgskvällen är också misstänkta för att ha skjutit ihjäl en man i Oslo några dagar tidigare. Nu är det klart att polisen i Norrköping kommer ta över utredningen från Norge, vilket Nya Wermlands-tidningen var först med att berätta."
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+   "date": "2026-09-11T16:00:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+   "desc": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Maja Stark brister ut i garv när hon får höra nya ramsan: ”Galningar”",
-   "date": "2026-09-11T11:22:46.000Z",
-   "link": "https://www.svt.se/sport/golf/maja-stark-brister-ut-i-garv-nar-hon-far-hora-nya-ramsan-galningar",
-   "desc": "Europa har stort hemmastöd i Solheim Cup. Inte minst svenskan Maja Stark – som fått en ny ramsa. – Jag har inte hört den förut. Men jag tycker om den, säger 26-åringen till SVT Sport."
+   "title": "MP vill höja bensinpriset – lovar stöd till landsbygden",
+   "date": "2026-09-11T16:38:51.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/mp-vill-hoja-bensinpriset-lovar-stod-till-landsbygden",
+   "desc": "Miljöpartiet vill höja bensinpriset med sex kronor per liter, men samtidigt kompensera låginkomsttagare på landsbygden och hjälpa fler att köpa elbil. – Vi behöver ha ett starkare stöd på landsbygden och i glesbygden så att man kan köpa en elbil, säger partisekreteraren Katrin Wissing under ett besök i Luleå."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tågstopp på Södra stambanan",
-   "date": "2026-09-11T11:20:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/tagstopp-pa-sodra-stambanan-pskh6u",
-   "desc": "Problem med järnvägsbron vid Norsholm stoppar all tågtrafik på Södra stambanan mellan Stockholm och Malmö."
+   "title": "Taktikröster viktig förklaring bakom L:s rusning",
+   "date": "2026-09-11T15:45:53.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/taktikroster-viktig-forklaring-bakom-ls-rusning",
+   "desc": "Simona Mohamssons valstrategi ser ut att ha lyckats. Liberalernas rusning i opinionen fortsätter i SVT/Verians sista väljarbarometer innan valet. En viktig förklaring är sannolikt taktikröstande moderater."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Avestas utvärdering: Larmet nådde inte fram under inrymning på Avestaskolor",
-   "date": "2026-09-11T10:56:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/avestas-utvardering-larmet-nadde-inte-fram-under-inrymning-pa-avestaskolor",
-   "desc": "Larmet nådde inte ut till all skolpersonal i den app som skulle varna för pågående våldsdåd. Det kommer nu fram i en utvärdering som Avesta kommun gjort efter händelsen i maj när en person med leksaksvapen orsakade en polisinsats och över tusen skolelever inrymdes."
+   "title": "Lyten gör batterier i Västerås igen",
+   "date": "2026-09-11T15:01:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/lyten-tillverkar-batterier-i-vasteras-igen",
+   "desc": "Det står fortfarande Northvolt på skyltarna. Men i forskningscentret på Finnslätten pågår numera Lytens verksamhet. – Det här utgör ju hjärtat i vår europeiska batteritillverkning, säger Lars Herliz, ordförande och medgrundare Lyten."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här röstar de värnpliktiga inne på basen – övar i fält på valdagen",
-   "date": "2026-09-11T10:00:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/har-rostar-de-varnpliktiga-inne-pa-basen-ovar-i-falt-pa-valdagen",
-   "desc": "För många av de värnpliktiga vid P18 blir det första gången de röstar. Men eftersom de ska vara ute i övning på valdagen har Försvarsmakten tillsammans med Region Gotland ordnat en röstningsplats inne på regementsområdet vid Tofta skjutfält."
+   "title": "Vallokaler i Helsingborg kan ha drabbats av fel i förtidsröstningen",
+   "date": "2026-09-11T14:51:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/vallokaler-i-helsingborg-kan-ha-drabbats-av-fel-i-fortidsrostningen",
+   "desc": "Flera förtidsröstningslokaler i Helsingborg och en i Ängelholm kan ha drabbats av fel vid förtidsröstningen. Valmyndigheten uppmanar berörda väljare att rösta igen i sin vallokal på valdagen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rekord i förtidsröstning – politiker i Umeå: Måste börja kampanja tidigare",
+   "date": "2026-09-11T14:47:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/rekord-i-fortidsrostning-politiker-i-umea-maste-borja-kampanja-tidigare",
+   "desc": "Hela tre miljoner väljare har förtidsröstat – det är en stor ökning jämfört med förra valet. Politiker i Umeå menar att de måste tänka över valkampanjandet till nästa val. – Det är nog en analys alla partier kommer göra, att vi måste börja tidigare nästa val, säger Bore Sköld (V)."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Oro bland föräldrar i Järfälla: ”Chockad och upprörd”",
+   "date": "2026-09-11T14:44:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/oro-bland-foraldrar-i-jarfalla-chockad-och-upprord",
+   "desc": "Föräldrar uppmanas nu att följa sina barn till- och från skolan efter att polisen upprättat en anmälan om grov våldtäkt mot barn. – Jag är chockad och upprörd, framförallt för barnets skull, säger Nina Landtblom, mamma till en elev på den berörda skolan."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Uppgifter: Moderater i Danderyd förbjuds från att kampanja",
+   "date": "2026-09-11T13:24:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-moderater-i-danderyd-forbjuds-fran-att-kampanja",
+   "desc": "Det har stormat under våren i Moderaternas främsta fäste, Danderyd. Kommunens samtliga moderata nämndordföranden förklarade sitt misstroende mot kommunstyrelsens ordförande – men sedan blev det tyst. – Jag kan bli utesluten ur partiet om jag pratar med media, säger en anonym moderat till SVT."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,20 @@
    "desc": "Ett barn ska ha utsatts för ett sexualbrott i ett grönområde utanför Viksjö centrum under torsdagsmorgonen. Nu bekräftar åklagaren för SVT att man utreder grov våldtäkt mot barn. – Det är den rubriceringen som ärendet har, säger Oscar Hedström, åklagare, till SVT."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Vanligaste sökningen efter sommaren – gonorré",
-   "date": "2026-09-10T15:58:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vanligaste-sokningen-efter-sommaren-gonorre",
-   "desc": "1177:s sida om gonorré hade över 40 000 besök i augusti. Det visar Region Stockholms sammanställning. Information om könssjukdomen var nästan dubbelt så populärt som mässlingen, som hamnade på andra plats. – Man kan undra varför det ser ut som det gör, säger chefläkare Patrik Söderberg"
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-11T15:00:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p94pl3?at_medium=RSS&at_campaign=rss",
+   "desc": "Paul Ince on defibrillator awareness, midfield rebuild and Manchester derby."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man misshandlades och rånades i sin bostad",
-   "date": "2026-09-10T15:52:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-misshandlades-och-ranades-i-sin-bostad",
-   "desc": "En man i 35-årsåldern misshandlades och rånades av ett flertal gärningspersoner i sin bostad i Länna under torsdagsmorgonen. – De stal bland annat kläder, säger polisens presstalesperson Daniel Wikdahl."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-11T14:37:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p95nd5?at_medium=RSS&at_campaign=rss",
+   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   },
   {
    "src": "BBC",
@@ -136,22 +152,6 @@
    "date": "2026-09-10T22:16:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p9263p?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd boss Michael Carrick on their 4-0 winning return to the Champions League."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-09T18:22:18.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p8sx96?at_medium=RSS&at_campaign=rss",
-   "desc": "Journalist Katie Wilson, who covers football in Azerbaijan, gives an insight on Sabah."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-09T16:10:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p8s1q4?at_medium=RSS&at_campaign=rss",
-   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   }
  ]
 }
