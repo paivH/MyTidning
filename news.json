@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-12T15:06:27.933Z",
+ "updated": "2026-09-12T17:46:40.188Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+   "date": "2026-09-12T17:42:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+   "desc": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -34,12 +42,20 @@
    "desc": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-   "date": "2026-09-12T10:00:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-   "desc": "The authorities have struggled to contain the fallout, as frightened migrants flee the country."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Över 2 800 valincidenter – saknade valsedlar kallas valfusk",
+   "date": "2026-09-12T16:02:23.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/over-2-800-valincidenter-saknade-valsedlar-kallas-valfusk",
+   "desc": "Över 2 800 incidentrapporter har hittills kommit in till Valmyndigheten. Majoriteten rör valsedlar som flyttats, dolts eller tagits bort. Samtidigt sprids filmer på sociala medier där saknade valsedlar beskrivs som valfusk."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Partiledarna om deras skämmigaste valstunt: ”Kändes ovärdigt”",
+   "date": "2026-09-12T15:46:35.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/partiledarna-om-deras-skammigaste-valstunt-kandes-ovardigt",
+   "desc": "Efter lördagens slutdebatt är en påfrestande period över för partiledarna. Men vad har varit jobbigast? Och vilka knep för att fiska röster skäms de mest över? – Det kändes lite ovärdigt faktiskt, säger Jimmie Åkesson (SD)."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-09-12T12:16:00.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-brand-i-syriskt-fangelse",
    "desc": "Minst sju intagna har omkommit i en brand vid ett fängelseuppror i staden Kobane i norra Syrien."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Trump: Enat Irland vore ”fantastiskt”",
-   "date": "2026-09-12T11:53:01.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/trump-enat-irland-vore-fantastiskt",
-   "desc": "Donald Trump säger att ett enat Irland vore ”fantastiskt”, under ett besök på den gröna ön."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kraftig brand i spånlager i Eda kommun",
-   "date": "2026-09-12T09:40:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/brand-i-spanfabrik-i-eda",
-   "desc": "En kraftig brand bröt ut under lördagsförmiddagen på ett spånlager i Köla, Eda kommun. Räddningstjänsten arbetar nu med att förhindra spridning till intilliggande byggnader."
   },
   {
    "src": "STHLM",
