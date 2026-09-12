@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T17:46:40.188Z",
+ "updated": "2026-09-12T20:08:05.658Z",
  "items": [
   {
    "src": "BBC",
@@ -28,18 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "French officials investigate if malicious act caused train derailment",
-   "date": "2026-09-12T15:05:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-   "desc": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
+   "title": "Fire at nursing home in Chile kills 16 residents",
+   "date": "2026-09-12T19:36:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+   "desc": "Ten people were evacuated from the home in Araucanía region in central Chile."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-   "date": "2026-09-12T05:55:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-   "desc": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
+   "title": "French officials investigate if malicious act caused train derailment",
+   "date": "2026-09-12T15:05:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+   "desc": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
   },
   {
    "src": "SVT",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 12 september",
+   "date": "2026-09-12T18:14:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-12-september-3j28j6",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under lördagen den 12 september."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Buss fastnade i Klaratunneln – stopp i trafiken",
    "date": "2026-09-12T05:00:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/buss-fast-i-klaratunneln-stopp-i-trafiken",
@@ -112,14 +120,6 @@
    "date": "2026-09-11T23:45:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-till-sjukhus-efter-trafikolycka-pa-ostermalm",
    "desc": "En kvinna har omkommit och en man är allvarligt skadad efter en trafikolycka på Östermalm under natten till lördag. En man i 20-årsåldern är gripen misstänkt för bland annat vållande till annans död."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 11 september",
-   "date": "2026-09-11T18:13:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-11-september-h2sa8u",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under fredagen den 11 september."
   },
   {
    "src": "BBC",
