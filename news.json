@@ -1,13 +1,21 @@
 {
- "updated": "2026-09-12T07:45:06.969Z",
+ "updated": "2026-09-12T11:56:33.303Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-   "date": "2026-09-12T04:43:10.000Z",
+   "date": "2026-09-12T11:00:34.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
    "desc": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+   "date": "2026-09-12T11:27:44.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+   "desc": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare."
   },
   {
    "src": "BBC",
@@ -20,66 +28,58 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+   "date": "2026-09-12T00:43:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+   "desc": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
    "date": "2026-09-12T03:02:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
    "desc": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Passenger train derails in France leaving at least 44 injured",
-   "date": "2026-09-11T21:25:32.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-   "desc": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-   "date": "2026-09-12T02:29:49.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-   "desc": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kraftig brand i spånlager i Eda kommun",
+   "date": "2026-09-12T09:40:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/brand-i-spanfabrik-i-eda",
+   "desc": "En kraftig brand bröt ut under lördagsförmiddagen på ett spånlager i Köla, Eda kommun. Räddningstjänsten arbetar nu med att förhindra spridning till intilliggande byggnader."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stora skillnader i sista mätningarna inför valet 2026",
-   "date": "2026-09-12T07:05:53.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/stora-skillnader-i-sista-matningarna-infor-valet-2026",
-   "desc": "Det rasslade in opinionsundersökningar under fredagen, och mätningarna visar på olika avstånd mellan blocken. I samtliga mätningar ligger Liberalerna över spärren. – Det är upplagt för en spännande valhelg, säger SVT:s inrikespolitiska kommentator Mats Knutson."
+   "title": "Byggföretag får bakläxa – arbetare riskerar att skadas",
+   "date": "2026-09-12T09:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/byggforetag-far-baklaxa-arbetare-riskerar-att-skadas",
+   "desc": "Under en inspektion av en byggarbetsplats i Jönköping upptäcktes att byggarbetarna använde vibrerande handhållna maskiner under längre perioder än vad som är tillåtet. Arbetsmiljöverket kräver nu att byggföretaget bättrar på sina rutiner."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bil körde mot färdriktningen vid Hyllinge – kvinna livshotande skadad",
-   "date": "2026-09-12T05:39:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/bil-korde-mot-fardriktningen-i-hyllinge-kvinna-allvarligt-skadad",
-   "desc": "En personbil kördes i fel färdriktning på E4 i höjd med Hyllinge under fredagsnatten. Vid trafikplats Kropp krockade den med en annan bil. En kvinna skadades svårt."
+   "title": "AIK-tränaren José Riveiro: ”Vi har ingen som kan göra det han gör”",
+   "date": "2026-09-12T08:28:00.000Z",
+   "link": "https://www.svt.se/sport/fotboll/aik-tranaren-jose-riveiro-vi-har-ingen-som-kan-gora-det-han-gor",
+   "desc": "Kevin Filling är skadad och missar resten av säsongen. Det tvingar AIK att tänka om kring vissa delar. – Vi kan inte göra exakt samma sak, förklarar tränare José Riveiro."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Två män till sjukhus efter bråk i centrala Karlskrona",
-   "date": "2026-09-12T04:50:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/blekinge/tva-man-till-sjukhus-efter-brak-i-centrala-karlskrona",
-   "desc": "Flera personer var under fredagsnatten inblandade i ett bråk på Borgmästaregatan i Karlskrona. Två män fick föras till sjukhus."
+   "title": "Lucas Assadis första tid i AIK: ”Alla har tagit emot mig väl”",
+   "date": "2026-09-12T08:27:33.000Z",
+   "link": "https://www.svt.se/sport/fotboll/lucas-assadis-forsta-tid-i-aik-alla-har-tagit-emot-mig-val",
+   "desc": "Trots viss startsträcka med bland annat språkliga utmaningar börjar AIK:s rekordvärvning Lucas Assadi landa. – Alla har tagit emot mig väl, de pratar oftast sitt språk, men byter till engelska med mig, berättar han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tusentals afrikanska trollkonton tar sikte mot Sverige inför valet",
-   "date": "2026-09-12T04:31:18.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/tusentals-afrikanska-trollkonton-tar-sikte-mot-sverige-infor-valet",
-   "desc": "600 mil bort mobiliserar en trollarmé mot Sverige. Ett samarbete mellan SVT, Trollrensics och Alliance4europe visar hur en svärm av tusentals konton baserade i afrikanska länder som Nigeria och Benin massföljer utvalda svenska användare. Enligt experter riskerar det här att förstärka extrema budskap och förvränga den politiska debatten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Spårvagnslinjer indragna efter vattenläcka i Göteborg",
-   "date": "2026-09-12T04:30:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/sparvagnslinjer-indragna-efter-vattenlacka-i-goteborg",
-   "desc": "En vattenläcka inträffade under fredagsnatten på Stampgatan i Göteborg. Flera spårvagnslinjer är indragna."
+   "title": "Tågolycka i Frankrike: Polis misstänker sabotage",
+   "date": "2026-09-12T08:19:52.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tagolycka-i-frankrike-polis-misstanker-sabotage",
+   "desc": "Polisen i Frankrike misstänker att sabotage ligger bakom den tågurspårning som inträffade i landets nordvästra del under fredagen, uppger en poliskälla för AFP."
   },
   {
    "src": "STHLM",
