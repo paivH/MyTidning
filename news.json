@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-12T02:57:28.673Z",
+ "updated": "2026-09-12T07:45:06.969Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-   "date": "2026-09-11T22:17:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
+   "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+   "date": "2026-09-12T04:43:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
   },
   {
    "src": "BBC",
@@ -16,6 +16,14 @@
    "date": "2026-09-11T20:34:29.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
    "desc": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+   "date": "2026-09-12T03:02:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
   },
   {
    "src": "BBC",
@@ -34,60 +42,76 @@
    "desc": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-   "date": "2026-09-11T16:00:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-   "desc": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Stora skillnader i sista mätningarna inför valet 2026",
+   "date": "2026-09-12T07:05:53.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/stora-skillnader-i-sista-matningarna-infor-valet-2026",
+   "desc": "Det rasslade in opinionsundersökningar under fredagen, och mätningarna visar på olika avstånd mellan blocken. I samtliga mätningar ligger Liberalerna över spärren. – Det är upplagt för en spännande valhelg, säger SVT:s inrikespolitiska kommentator Mats Knutson."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Två till sjukhus efter trafikolycka på Östermalm",
-   "date": "2026-09-11T23:45:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-till-sjukhus-efter-trafikolycka-pa-ostermalm",
-   "desc": "Två personer har fått föras till sjukhus efter en trafikolycka på Östermalm i Stockholm."
+   "title": "Bil körde mot färdriktningen vid Hyllinge – kvinna livshotande skadad",
+   "date": "2026-09-12T05:39:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/bil-korde-mot-fardriktningen-i-hyllinge-kvinna-allvarligt-skadad",
+   "desc": "En personbil kördes i fel färdriktning på E4 i höjd med Hyllinge under fredagsnatten. Vid trafikplats Kropp krockade den med en annan bil. En kvinna skadades svårt."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Jimmie Åkessons oro: Muslimer kan avgöra valet",
-   "date": "2026-09-11T21:33:27.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/jimmie-akessons-oro-muslimer-kan-avgora-valet",
-   "desc": "Sverigedemokraternas partiledare Jimmie Åkesson varnar under SVT:s slutdebatt för att muslimsk invandring kan komma att avgöra det svenska riksdagsvalet. – Det oroar mig, säger Åkesson till SVT efter debatten."
+   "title": "Två män till sjukhus efter bråk i centrala Karlskrona",
+   "date": "2026-09-12T04:50:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/tva-man-till-sjukhus-efter-brak-i-centrala-karlskrona",
+   "desc": "Flera personer var under fredagsnatten inblandade i ett bråk på Borgmästaregatan i Karlskrona. Två män fick föras till sjukhus."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Mats Knutson: ”Infekterad debatt kring skattefrågorna”",
-   "date": "2026-09-11T20:58:57.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-infekterad-debatt-kring-skattefragorna",
-   "desc": "Under fredagskvällen möttes partiledarna i en slutdebatt i SVT och det hettade till i flera frågor."
+   "title": "Tusentals afrikanska trollkonton tar sikte mot Sverige inför valet",
+   "date": "2026-09-12T04:31:18.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tusentals-afrikanska-trollkonton-tar-sikte-mot-sverige-infor-valet",
+   "desc": "600 mil bort mobiliserar en trollarmé mot Sverige. Ett samarbete mellan SVT, Trollrensics och Alliance4europe visar hur en svärm av tusentals konton baserade i afrikanska länder som Nigeria och Benin massföljer utvalda svenska användare. Enligt experter riskerar det här att förstärka extrema budskap och förvränga den politiska debatten."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Har vårdköerna ökat eller minskat?",
-   "date": "2026-09-11T19:48:22.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/har-vardkoerna-okat-eller-minskat",
-   "desc": "Vårdköerna har minskat med 40 procent, enligt Ebba Busch (KD). Enligt Nooshi Dadgostar (V) har de tvärtom ökat med 30 procent. Vem har rätt?"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Förvirringen: Kristersson backar om klimatmål i SVT:s slutdebatt",
-   "date": "2026-09-11T19:29:01.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/forvirringen-kristersson-backar-om-klimatmal-i-svts-slutdebatt",
-   "desc": "I SVT:s valkompass uppger Moderaterna att de vill att Sverige ska ha mer ambitiösa klimatmål än övriga EU. Men när frågan ställs igen i SVT:s slutdebatt har Ulf Kristersson (M) ändrat sig. – EU är hela basen för klimatpolitiken, det är där vi gör skillnad."
+   "title": "Spårvagnslinjer indragna efter vattenläcka i Göteborg",
+   "date": "2026-09-12T04:30:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/sparvagnslinjer-indragna-efter-vattenlacka-i-goteborg",
+   "desc": "En vattenläcka inträffade under fredagsnatten på Stampgatan i Göteborg. Flera spårvagnslinjer är indragna."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Två till sjukhus efter trafikolycka på Östermalm",
+   "title": "Buss fastnade i Klaratunneln – stopp i trafiken",
+   "date": "2026-09-12T05:00:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/buss-fast-i-klaratunneln-stopp-i-trafiken",
+   "desc": "En buss fastnade under lördagsmorgonen vid Klaratunnelns infart i Stockholm. Enligt Trafikverket var det under en drygt timme helt avstängt i trafiken."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Efter uppmaning att återvända till Ukraina – nu får flyktingar boende ett år till",
+   "date": "2026-09-12T05:00:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-uppmaning-att-atervanda-till-ukraina-nu-far-flyktingar-boende-ett-ar-till",
+   "desc": "Efter en ny lagändring kan flyktingar från Ukraina nu få bostad via Lidingö stad ännu ett år – trots att kommunstyrelsens ordförande tidigare skickat brev som uppmanade dem att ”överväga att återvända till Ukraina”."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Gröna vallöften i Stockholm – räddade skogar och nya gågator",
+   "date": "2026-09-12T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/grona-valloften-i-stockholm-raddade-skogar-och-nya-gagator",
+   "desc": "Stockholms gröna ytor är i hetluften i Stockholm stads kommande kommunval. Miljöpartiet vill bland annat att Centralbron blir gågata med gröna ytor, Moderaterna lovar att halva Stockholms ska förbli grönt och Vänstern vill inrätta fler naturreservat. – Stockholm har väljare med en relativ hög utbildningsnivå som ställer krav på att miljöfrågor sätts på agendan, säger statsvetaren Jenny Madestam."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Kvinna död efter trafikolycka på Östermalm i Stockholm",
    "date": "2026-09-11T23:45:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-till-sjukhus-efter-trafikolycka-pa-ostermalm",
-   "desc": "Två personer har fått föras till sjukhus efter en trafikolycka på Östermalm i Stockholm."
+   "desc": "En kvinna har omkommit och en man är allvarligt skadad efter en trafikolycka på Östermalm under natten till lördag. En man i 20-årsåldern är gripen misstänkt för bland annat vållande till annans död."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-09-11T18:13:44.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-11-september-h2sa8u",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om under fredagen den 11 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Oro bland föräldrar i Järfälla: ”Chockad och upprörd”",
-   "date": "2026-09-11T14:44:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/oro-bland-foraldrar-i-jarfalla-chockad-och-upprord",
-   "desc": "Föräldrar uppmanas nu att följa sina barn till- och från skolan efter att polisen upprättat en anmälan om grov våldtäkt mot barn. – Jag är chockad och upprörd, framförallt för barnets skull, säger Nina Landtblom, mamma till en elev på den berörda skolan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Uppgifter: Moderater i Danderyd förbjuds från att kampanja",
-   "date": "2026-09-11T13:24:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-moderater-i-danderyd-forbjuds-fran-att-kampanja",
-   "desc": "Det har stormat under våren i Moderaternas främsta fäste, Danderyd. Kommunens samtliga moderata nämndordföranden förklarade sitt misstroende mot kommunstyrelsens ordförande – men sedan blev det tyst. – Jag kan bli utesluten ur partiet om jag pratar med media, säger en anonym moderat till SVT."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "M och S överens – så ska Stockholms kollektivtrafik bli tryggare",
-   "date": "2026-09-11T10:25:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/m-och-s-overens-sa-ska-stockholms-kollektivtrafik-bli-tryggare",
-   "desc": "Stockholm kan räkna med renare och tryggare kollektivtrafik – oavsett vem som vinner valet. Partierna lovar nämligen i princip samma sak. Men vid Kista busstorg, ett av de områden som berörs, finns en viss skepsis till behovet av vallöftet. – Det hade kunnat bli lite finare, mer färg, men jag känner mig inte otrygg, säger Athina Pliakou."
   },
   {
    "src": "BBC",
