@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-12T11:56:33.303Z",
+ "updated": "2026-09-12T15:06:27.933Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-   "date": "2026-09-12T11:00:34.000Z",
+   "date": "2026-09-12T12:15:50.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
    "desc": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
   },
@@ -13,33 +13,65 @@
    "src": "BBC",
    "section": "Världen",
    "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-   "date": "2026-09-12T11:27:44.000Z",
+   "date": "2026-09-12T13:56:20.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare."
+   "desc": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-   "date": "2026-09-11T20:34:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy."
+   "title": "French officials investigate if malicious act caused train derailment",
+   "date": "2026-09-12T15:05:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+   "desc": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-   "date": "2026-09-12T00:43:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-   "desc": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary."
+   "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+   "date": "2026-09-12T05:55:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+   "desc": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-   "date": "2026-09-12T03:02:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
+   "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+   "date": "2026-09-12T10:00:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+   "desc": "The authorities have struggled to contain the fallout, as frightened migrants flee the country."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Gängtoppen Haval Khalil har utlämnats till Sverige",
+   "date": "2026-09-12T12:41:21.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/gangtoppen-haval-khalil-har-lamnats-ut-till-sverige",
+   "desc": "Haval Khalil har landat i Sverige och kunde gripas av svensk polis. Han är begärd häktad misstänkt för bland annat mordförsök och beskrivs som en ”högprioriterad person”. – Nu kommer det hållas förhör under helgen, säger statsåklagare Ida Arnell."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tyskland: Rysk underrättelse bakom bombdrönare",
+   "date": "2026-09-12T12:20:07.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tyskland-rysk-underrattelse-bakom-bombdronare",
+   "desc": "Den ryska underrättelsetjänsten var med och planerade angreppet med en sprängmedelsbestyckad drönare på flygplatsen Leipzig/Halle i augusti, enligt en rapport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flera döda i brand i syriskt fängelse",
+   "date": "2026-09-12T12:16:00.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-brand-i-syriskt-fangelse",
+   "desc": "Minst sju intagna har omkommit i en brand vid ett fängelseuppror i staden Kobane i norra Syrien."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Trump: Enat Irland vore ”fantastiskt”",
+   "date": "2026-09-12T11:53:01.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/trump-enat-irland-vore-fantastiskt",
+   "desc": "Donald Trump säger att ett enat Irland vore ”fantastiskt”, under ett besök på den gröna ön."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-09-12T09:40:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/varmland/brand-i-spanfabrik-i-eda",
    "desc": "En kraftig brand bröt ut under lördagsförmiddagen på ett spånlager i Köla, Eda kommun. Räddningstjänsten arbetar nu med att förhindra spridning till intilliggande byggnader."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Byggföretag får bakläxa – arbetare riskerar att skadas",
-   "date": "2026-09-12T09:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/byggforetag-far-baklaxa-arbetare-riskerar-att-skadas",
-   "desc": "Under en inspektion av en byggarbetsplats i Jönköping upptäcktes att byggarbetarna använde vibrerande handhållna maskiner under längre perioder än vad som är tillåtet. Arbetsmiljöverket kräver nu att byggföretaget bättrar på sina rutiner."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "AIK-tränaren José Riveiro: ”Vi har ingen som kan göra det han gör”",
-   "date": "2026-09-12T08:28:00.000Z",
-   "link": "https://www.svt.se/sport/fotboll/aik-tranaren-jose-riveiro-vi-har-ingen-som-kan-gora-det-han-gor",
-   "desc": "Kevin Filling är skadad och missar resten av säsongen. Det tvingar AIK att tänka om kring vissa delar. – Vi kan inte göra exakt samma sak, förklarar tränare José Riveiro."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lucas Assadis första tid i AIK: ”Alla har tagit emot mig väl”",
-   "date": "2026-09-12T08:27:33.000Z",
-   "link": "https://www.svt.se/sport/fotboll/lucas-assadis-forsta-tid-i-aik-alla-har-tagit-emot-mig-val",
-   "desc": "Trots viss startsträcka med bland annat språkliga utmaningar börjar AIK:s rekordvärvning Lucas Assadi landa. – Alla har tagit emot mig väl, de pratar oftast sitt språk, men byter till engelska med mig, berättar han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tågolycka i Frankrike: Polis misstänker sabotage",
-   "date": "2026-09-12T08:19:52.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/tagolycka-i-frankrike-polis-misstanker-sabotage",
-   "desc": "Polisen i Frankrike misstänker att sabotage ligger bakom den tågurspårning som inträffade i landets nordvästra del under fredagen, uppger en poliskälla för AFP."
   },
   {
    "src": "STHLM",
