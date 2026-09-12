@@ -1,41 +1,41 @@
 {
- "updated": "2026-09-11T08:24:02.932Z",
+ "updated": "2026-09-12T08:12:56.108Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färsk laxfilé Norge",
-   "price": "89 kr/kg",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "ICA",
-   "item": "Svenska äpplen Aroma",
+   "item": "Svenska äpplen Aroma, lösvikt",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
+   "store": "ICA",
+   "item": "Kycklingfilé Kronfågel 1 kg",
+   "price": "79 kr/st",
+   "url": "https://www.ica.se"
+  },
+  {
    "store": "Lidl",
-   "item": "Kycklingfilé 1kg",
-   "price": "59 kr",
+   "item": "Färsk laxfilé 400g",
+   "price": "49 kr/st",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Färska champinjoner 500g",
-   "price": "15 kr",
+   "item": "Svamp Kantareller 250g",
+   "price": "39 kr/st",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
-   "price": "49 kr",
+   "item": "Köttbullar 1 kg (Familjeförpackning)",
+   "price": "69 kr/st",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utepall LED-belysning",
-   "price": "149 kr",
+   "item": "Utemöbelset Härö, 4 delar",
+   "price": "1495 kr/st",
    "url": "https://www.rusta.com/se"
   }
  ]
