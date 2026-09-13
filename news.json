@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T22:27:17.346Z",
+ "updated": "2026-09-13T00:08:45.519Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Huthirörelsen: Attack mot bas",
+   "date": "2026-09-12T23:55:56.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/huthirorelsen-attack-mot-bas",
+   "desc": "Huthirörelsen i Jemen påstår under natten mot söndagen att den attackerat en militärbas i södra Saudiarabien."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Håkan Juholt (S) om partiledarna: ”För mycket tramsande”",
+   "date": "2026-09-12T23:26:58.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/hakan-juholt-s-om-partiledarna-for-mycket-tramsande",
+   "desc": "Socialdemokraternas före detta partiledare Håkan Juholt (S) är kritisk till hur partiledarna beter sig på sociala medier i valrörelsen. Enligt honom är det för mycket trams. – Uppträd mer vuxet, säger han i Skavlan & Sverige – uppesittarkväll."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Över 2 800 valincidenter – saknade valsedlar kallas valfusk",
    "date": "2026-09-12T16:02:23.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/over-2-800-valincidenter-saknade-valsedlar-kallas-valfusk",
@@ -64,22 +80,6 @@
    "date": "2026-09-12T12:41:21.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/gangtoppen-haval-khalil-har-lamnats-ut-till-sverige",
    "desc": "Haval Khalil har landat i Sverige och kunde gripas av svensk polis. Han är begärd häktad misstänkt för bland annat mordförsök och beskrivs som en ”högprioriterad person”. – Nu kommer det hållas förhör under helgen, säger statsåklagare Ida Arnell."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tyskland: Rysk underrättelse bakom bombdrönare",
-   "date": "2026-09-12T12:20:07.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/tyskland-rysk-underrattelse-bakom-bombdronare",
-   "desc": "Den ryska underrättelsetjänsten var med och planerade angreppet med en sprängmedelsbestyckad drönare på flygplatsen Leipzig/Halle i augusti, enligt en rapport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Flera döda i brand i syriskt fängelse",
-   "date": "2026-09-12T12:16:00.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-brand-i-syriskt-fangelse",
-   "desc": "Minst sju intagna har omkommit i en brand vid ett fängelseuppror i staden Kobane i norra Syrien."
   },
   {
    "src": "STHLM",
