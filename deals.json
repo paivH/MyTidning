@@ -1,42 +1,42 @@
 {
- "updated": "2026-09-12T08:12:56.108Z",
+ "updated": "2026-09-13T08:37:11.927Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
+   "item": "Svenska äpplen Ingrid Marie, lösvikt",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
+   "store": "Lidl",
+   "item": "Kycklingfilé Svensk 900g",
+   "price": "59 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 1 kg",
-   "price": "79 kr/st",
+   "item": "Färsk laxfilé, Norge",
+   "price": "99 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Färsk laxfilé 400g",
-   "price": "49 kr/st",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Svamp Kantareller 250g",
-   "price": "39 kr/st",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Utomhuskudde för trädgårdsmöbler",
+   "price": "79 kr",
+   "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1 kg (Familjeförpackning)",
-   "price": "69 kr/st",
+   "item": "Köttbullar 500g, fryst",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Rusta",
-   "item": "Utemöbelset Härö, 4 delar",
-   "price": "1495 kr/st",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Rotfruktsmix svensk, 1kg",
+   "price": "15 kr",
+   "url": "https://www.lidl.se"
   }
  ]
 }
