@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T00:08:45.519Z",
+ "updated": "2026-09-13T05:08:19.129Z",
  "items": [
   {
    "src": "BBC",
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+   "date": "2026-09-13T00:49:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+   "desc": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
    "date": "2026-09-12T21:25:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
@@ -34,52 +42,52 @@
    "desc": "Ten people were evacuated from the home in Araucanía region in central Chile."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "French officials investigate if malicious act caused train derailment",
-   "date": "2026-09-12T15:05:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-   "desc": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Altman: Ingen börsnotering för Open AI i år",
+   "date": "2026-09-13T05:00:50.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/altman-ingen-borsnotering-for-open-ai-i-ar",
+   "desc": "AI-jätten Open AI kommer inte att börsnoteras i år. Det uppger bolagets vd Sam Altman i en intervju på lördagen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Huthirörelsen: Attack mot bas",
-   "date": "2026-09-12T23:55:56.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/huthirorelsen-attack-mot-bas",
-   "desc": "Huthirörelsen i Jemen påstår under natten mot söndagen att den attackerat en militärbas i södra Saudiarabien."
+   "title": "Arbetsmiljöverket utreder skoldådet i Fagersta",
+   "date": "2026-09-13T04:54:06.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/arbetsmiljoverket-utreder-skoldadet-i-fagersta",
+   "desc": "Attacken på Brinellskolan i Fagersta ska utredas av Arbetsmiljöverket, rapporterar SR Ekot."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Håkan Juholt (S) om partiledarna: ”För mycket tramsande”",
-   "date": "2026-09-12T23:26:58.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/hakan-juholt-s-om-partiledarna-for-mycket-tramsande",
-   "desc": "Socialdemokraternas före detta partiledare Håkan Juholt (S) är kritisk till hur partiledarna beter sig på sociala medier i valrörelsen. Enligt honom är det för mycket trams. – Uppträd mer vuxet, säger han i Skavlan & Sverige – uppesittarkväll."
+   "title": "Kvarnen i Havdhem på Gotland nerbrunnen",
+   "date": "2026-09-13T04:10:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/kvarnen-i-havdhem-pa-gotland-nerbrunnen",
+   "desc": "En kvarn i Havdhem började brinna under lördagsnatten. Byggnaden blev totalförstörd."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Över 2 800 valincidenter – saknade valsedlar kallas valfusk",
-   "date": "2026-09-12T16:02:23.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/over-2-800-valincidenter-saknade-valsedlar-kallas-valfusk",
-   "desc": "Över 2 800 incidentrapporter har hittills kommit in till Valmyndigheten. Majoriteten rör valsedlar som flyttats, dolts eller tagits bort. Samtidigt sprids filmer på sociala medier där saknade valsedlar beskrivs som valfusk."
+   "title": "”När dammet lagt sig är det läge att gräva ner stridsyxan”",
+   "date": "2026-09-13T03:37:17.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/nar-dammet-lagt-sig-ar-det-lage-att-grava-ner-stridsyxan",
+   "desc": "Valrörelsen har stundtals haft ett högt tonläge med hårda angrepp och hätska attacker. Jimmie Åkesson har angripit både Ebba Busch och Liberalerna. Ebba Busch har i sin tur attackerat både Moderaterna och Sverigedemokraterna. På den rödgröna sidan har Centerpartiet och Vänsterpartiet bråkat, Magdalena Andersson har mer eller mindre uttryckligt underkänt V som regeringsparti. Men när väljarna har lagt sin röst kan det vara läge att gräva ner stridsyxan."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Partiledarna om deras skämmigaste valstunt: ”Kändes ovärdigt”",
-   "date": "2026-09-12T15:46:35.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/partiledarna-om-deras-skammigaste-valstunt-kandes-ovardigt",
-   "desc": "Efter lördagens slutdebatt är en påfrestande period över för partiledarna. Men vad har varit jobbigast? Och vilka knep för att fiska röster skäms de mest över? – Det kändes lite ovärdigt faktiskt, säger Jimmie Åkesson (SD)."
+   "title": "Siffror visar – här är östgötarnas viktigaste valfrågor",
+   "date": "2026-09-13T03:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/siffror-visar-har-ar-ostgotarnas-viktigaste-valfragor",
+   "desc": "Idag går Sverige till val. Och nu kan SVT Nyheter Öst tillsammans med Verian presentera vilka valfrågor som är absolut viktigast för östgötarna. – Jag skulle säga trygghet. Att jag som kvinna känna sig trygg när man rör sig ute på kvällen, säger Julia Karlsson, väljare."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Gängtoppen Haval Khalil har utlämnats till Sverige",
-   "date": "2026-09-12T12:41:21.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/gangtoppen-haval-khalil-har-lamnats-ut-till-sverige",
-   "desc": "Haval Khalil har landat i Sverige och kunde gripas av svensk polis. Han är begärd häktad misstänkt för bland annat mordförsök och beskrivs som en ”högprioriterad person”. – Nu kommer det hållas förhör under helgen, säger statsåklagare Ida Arnell."
+   "title": "Rekordmånga stockholmare förtidsröstade",
+   "date": "2026-09-13T03:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/rekordmanga-stockholmare-fortidsrostar",
+   "desc": "Förtidsröstningen slår rekord i årets val. I Stockholms län har de som lägger sin röst innan valdagen ökat med mer än 25 procent. Väljare som SVT pratat med pekar på att det nya systemet utan röstkort har underlättat."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-12T03:30:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/grona-valloften-i-stockholm-raddade-skogar-och-nya-gagator",
    "desc": "Stockholms gröna ytor är i hetluften i Stockholm stads kommande kommunval. Miljöpartiet vill bland annat att Centralbron blir gågata med gröna ytor, Moderaterna lovar att halva Stockholms ska förbli grönt och Vänstern vill inrätta fler naturreservat. – Stockholm har väljare med en relativ hög utbildningsnivå som ställer krav på att miljöfrågor sätts på agendan, säger statsvetaren Jenny Madestam."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinna död efter trafikolycka på Östermalm i Stockholm",
-   "date": "2026-09-11T23:45:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-till-sjukhus-efter-trafikolycka-pa-ostermalm",
-   "desc": "En kvinna har omkommit och en man är allvarligt skadad efter en trafikolycka på Östermalm under natten till lördag. En man i 20-årsåldern är gripen misstänkt för bland annat vållande till annans död."
   },
   {
    "src": "BBC",
