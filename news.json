@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T20:14:51.746Z",
+ "updated": "2026-09-13T22:31:59.722Z",
  "items": [
   {
    "src": "BBC",
@@ -28,18 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Swedish party blocs tied after Sunday vote, projections say",
+   "date": "2026-09-13T22:27:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+   "desc": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
    "date": "2026-09-13T13:30:38.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
    "desc": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-   "date": "2026-09-13T14:25:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-   "desc": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här röstar Uel Mulughta, 23, i Umeå – troligen sist i landet",
+   "date": "2026-09-13T21:34:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-rostar-uel-mulughta-23-i-umea-troligen-sist-i-landet",
+   "desc": "Umeå sticker ut i årets val – på grund av de långa köerna. Ålidhem har drabbats hårdast i landet. Uel Mulughta, 23, var mest troligt den sista som röstade i Sverige. – Jag tror att min röst kan avgöra valet, säger han."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-13T17:57:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/wili-23-var-soffliggare-nu-har-han-rostat-for-forsta-gangen",
    "desc": "Haparanda kommun har lägst valdeltagande i landet. Wili Valikainen, 23, var soffliggare 2022, men nu har han lagt sin röst för första gången. – Det känns fint att åstadkomma något, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "En person död efter krock mellan mc och traktor i Norrfors",
-   "date": "2026-09-13T14:38:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/motorcykel-i-brand-efter-krock-med-traktor-i-norrfors",
-   "desc": "En motorcykel och en traktor kolliderade i Norrfors utanför Umeå på söndagseftermiddagen. Motorcykeln började brinna efter olyckan. – Det är en allvarlig olycka, säger Eva Leppäaho Mallon, RLC-befäl hos polisen. Strax efter 20 meddelade polisen att personen som kört motorcykeln har avlidit."
   },
   {
    "src": "STHLM",
