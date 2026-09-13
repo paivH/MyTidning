@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-13T14:34:45.293Z",
+ "updated": "2026-09-13T17:54:01.760Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-   "date": "2026-09-13T11:13:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-   "desc": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks."
+   "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+   "date": "2026-09-13T17:38:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+   "desc": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran war reshapes Brics ties but also exposes divisions",
-   "date": "2026-09-13T11:23:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-   "desc": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
+   "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+   "date": "2026-09-13T16:29:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
   },
   {
    "src": "BBC",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-   "date": "2026-09-13T00:49:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch."
+   "title": "Iran war reshapes Brics ties but also exposes divisions",
+   "date": "2026-09-13T11:23:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+   "desc": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Motorcykel i brand efter krock med traktor i Norrfors",
+   "date": "2026-09-13T14:38:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/motorcykel-i-brand-efter-krock-med-traktor-i-norrfors",
+   "desc": "En motorcykel och en traktor kolliderade i Norrfors utanför Umeå på söndagseftermiddagen. Motorcykeln började brinna efter olyckan. – Det är en allvarlig olycka, säger Eva Leppäaho Mallon, RLC-befäl hos polisen."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-13T11:03:43.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/flera-doda-efter-att-fartyg-i-indonesien-valte",
    "desc": "Minst sex människor har dött och över 130 saknas efter att ett fartyg har drabbats av hårt väder i Indonesien och kantrat."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Turkiet gör tillslag mot gaybarer och aktivister",
-   "date": "2026-09-13T10:19:37.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/turkiet-gor-tillslag-mot-gaybarer-och-aktivister",
-   "desc": "Turkisk polis har genomfört en rad tillslag mot gaybarer och hbtqi-aktivisters hem. Flera sociala medie-konton tillhörande hbtqi-organisationer har också blockerats. Minst 26 personer har gripits, enligt turkiska åklagarmyndighet."
   },
   {
    "src": "STHLM",
@@ -133,14 +133,6 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
-   "date": "2026-09-11T14:37:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p95nd5?at_medium=RSS&at_campaign=rss",
-   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
    "date": "2026-09-11T12:30:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p93r7h?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick understands Elliott Anderson calling Manchester City kings of Manchester."
@@ -152,6 +144,14 @@
    "date": "2026-09-10T22:16:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p9263p?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd boss Michael Carrick on their 4-0 winning return to the Champions League."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-09T18:22:18.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p8sx96?at_medium=RSS&at_campaign=rss",
+   "desc": "Journalist Katie Wilson, who covers football in Azerbaijan, gives an insight on Sabah."
   }
  ]
 }
