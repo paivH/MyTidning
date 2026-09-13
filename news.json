@@ -1,21 +1,29 @@
 {
- "updated": "2026-09-13T17:54:01.760Z",
+ "updated": "2026-09-13T20:14:51.746Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-   "date": "2026-09-13T17:38:29.000Z",
+   "date": "2026-09-13T19:14:21.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
    "desc": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
-   "date": "2026-09-13T16:29:27.000Z",
+   "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+   "date": "2026-09-13T18:49:37.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
    "desc": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Questions mount over what an AI 'slowdown' would look like",
+   "date": "2026-09-13T18:20:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+   "desc": "While pacing AI development might sound like a quick fix, it is far from an easy solution."
   },
   {
    "src": "BBC",
@@ -34,52 +42,44 @@
    "desc": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Iran war reshapes Brics ties but also exposes divisions",
-   "date": "2026-09-13T11:23:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-   "desc": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Dött lopp mellan blocken i SVT:s prognos",
+   "date": "2026-09-13T19:46:32.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/dott-lopp-mellan-blocken-i-svts-prognos",
+   "desc": "Det är helt jämnt mellan blocken i SVT:s valprognos. – Det är gastkramande, säger valforskaren Henrik Ekengren Oscarsson. S ser ut att gå mot sitt sämsta riksdagsval i modern tid, enligt prognosen. SD ser samtidigt ut att backa för första gången i ett riksdagsval."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Motorcykel i brand efter krock med traktor i Norrfors",
+   "title": "Liberalernas jubel – klart över spärren i SVT:s valu",
+   "date": "2026-09-13T19:11:23.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/liberalernas-jubel-klart-over-sparren-i-svts-valu",
+   "desc": "Liberalerna är klart över spärren i SVT:s valu – något få trodde var möjligt för bara några veckor sedan. – Nu kan vi verkligen andas ut och njuta av allt hårt arbete, säger Romina Pourmokhtari (L) och hyllar partiledaren Simona Mohamsson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Oppositionen tydligt större än Tidöpartierna – enligt SVT:s Valu",
+   "date": "2026-09-13T19:04:58.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/oppositionen-tydligt-storre-an-tidopartierna-enligt-svts-valu",
+   "desc": "Det ser ut att skilja flera procentenheter mellan blocken enligt SVT:s stora vallokalsundersökning Valu. Liberalerna verkar tydligt klara spärren och resultatet möttes av jubel på partiets valvaka. – Man ska inte dra för tidiga slutsatser men det här ser ut att vara väldigt svårt för Tidöpartierna att hämta in, säger SVT:s inrikespolitiska kommentator Mats Knutson."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Wili, 23, var soffliggare – nu har han röstat för första gången",
+   "date": "2026-09-13T17:57:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/wili-23-var-soffliggare-nu-har-han-rostat-for-forsta-gangen",
+   "desc": "Haparanda kommun har lägst valdeltagande i landet. Wili Valikainen, 23, var soffliggare 2022, men nu har han lagt sin röst för första gången. – Det känns fint att åstadkomma något, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "En person död efter krock mellan mc och traktor i Norrfors",
    "date": "2026-09-13T14:38:12.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/motorcykel-i-brand-efter-krock-med-traktor-i-norrfors",
-   "desc": "En motorcykel och en traktor kolliderade i Norrfors utanför Umeå på söndagseftermiddagen. Motorcykeln började brinna efter olyckan. – Det är en allvarlig olycka, säger Eva Leppäaho Mallon, RLC-befäl hos polisen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Panikändring i Umeå – för att korta röstköerna: ”Snabbar på processen”",
-   "date": "2026-09-13T14:28:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/panikandring-i-umea-for-att-korta-koerna-snabbar-pa-processen",
-   "desc": "Umeå har haft problem med timmeslånga köer på många håll under hela valdagen. Nu har valkansliet infört en förändring för att snabba på röstningen – man går tillbaka till gamla rutiner."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Rapporter om felsorterade och försenade röster",
-   "date": "2026-09-13T13:52:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/orebro/postnord-har-sorterat-roster-fel-leveranser-forsenade",
-   "desc": "Det är Postnord som sorterar förtidsröster och kör ut dem till vallokalerna under valdagen. Men nu kommer rapporter om att leveranserna är försenade och i vissa fall felsorterade."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Över tre timmars kö i Umeå – flera har lämnat kön",
-   "date": "2026-09-13T11:55:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/over-tva-timmars-ko-i-umea-valmyndigheten-ovanligt",
-   "desc": "På flera håll i landet är det långa köer till vallokalerna under valdagen. I Umeå har väljare väntat i över tre timmar. – Några som kom bakom oss gick ur kön, säger Jesper Simonsson som röstat vid Ålidhemshallen i Umeå."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Flera döda efter att fartyg i Indonesien välte",
-   "date": "2026-09-13T11:03:43.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/flera-doda-efter-att-fartyg-i-indonesien-valte",
-   "desc": "Minst sex människor har dött och över 130 saknas efter att ett fartyg har drabbats av hårt väder i Indonesien och kantrat."
+   "desc": "En motorcykel och en traktor kolliderade i Norrfors utanför Umeå på söndagseftermiddagen. Motorcykeln började brinna efter olyckan. – Det är en allvarlig olycka, säger Eva Leppäaho Mallon, RLC-befäl hos polisen. Strax efter 20 meddelade polisen att personen som kört motorcykeln har avlidit."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-09-13T18:54:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p9gcwz?at_medium=RSS&at_campaign=rss",
+   "desc": "Michael Carrick reacts to Haaland's goal and losing 1-0 in the Manchester Derby."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-09-11T15:00:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p94pl3?at_medium=RSS&at_campaign=rss",
    "desc": "Paul Ince on defibrillator awareness, midfield rebuild and Manchester derby."
@@ -144,14 +152,6 @@
    "date": "2026-09-10T22:16:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p9263p?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd boss Michael Carrick on their 4-0 winning return to the Champions League."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-09T18:22:18.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p8sx96?at_medium=RSS&at_campaign=rss",
-   "desc": "Journalist Katie Wilson, who covers football in Azerbaijan, gives an insight on Sabah."
   }
  ]
 }
