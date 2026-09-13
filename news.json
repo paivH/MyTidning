@@ -1,21 +1,37 @@
 {
- "updated": "2026-09-13T10:27:25.392Z",
+ "updated": "2026-09-13T14:34:45.293Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-   "date": "2026-09-12T21:16:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-   "desc": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
+   "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+   "date": "2026-09-13T11:13:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+   "desc": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-   "date": "2026-09-12T21:25:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-   "desc": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland."
+   "title": "Iran war reshapes Brics ties but also exposes divisions",
+   "date": "2026-09-13T11:23:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+   "desc": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+   "date": "2026-09-13T13:30:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+   "date": "2026-09-13T14:25:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+   "desc": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
   },
   {
    "src": "BBC",
@@ -26,20 +42,36 @@
    "desc": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-   "date": "2026-09-12T23:51:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-   "desc": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Panikändring i Umeå – för att korta röstköerna: ”Snabbar på processen”",
+   "date": "2026-09-13T14:28:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/panikandring-i-umea-for-att-korta-koerna-snabbar-pa-processen",
+   "desc": "Umeå har haft problem med timmeslånga köer på många håll under hela valdagen. Nu har valkansliet infört en förändring för att snabba på röstningen – man går tillbaka till gamla rutiner."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-   "date": "2026-09-12T12:15:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rapporter om felsorterade och försenade röster",
+   "date": "2026-09-13T13:52:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/orebro/postnord-har-sorterat-roster-fel-leveranser-forsenade",
+   "desc": "Det är Postnord som sorterar förtidsröster och kör ut dem till vallokalerna under valdagen. Men nu kommer rapporter om att leveranserna är försenade och i vissa fall felsorterade."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Över tre timmars kö i Umeå – flera har lämnat kön",
+   "date": "2026-09-13T11:55:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/over-tva-timmars-ko-i-umea-valmyndigheten-ovanligt",
+   "desc": "På flera håll i landet är det långa köer till vallokalerna under valdagen. I Umeå har väljare väntat i över tre timmar. – Några som kom bakom oss gick ur kön, säger Jesper Simonsson som röstat vid Ålidhemshallen i Umeå."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flera döda efter att fartyg i Indonesien välte",
+   "date": "2026-09-13T11:03:43.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/flera-doda-efter-att-fartyg-i-indonesien-valte",
+   "desc": "Minst sex människor har dött och över 130 saknas efter att ett fartyg har drabbats av hårt väder i Indonesien och kantrat."
   },
   {
    "src": "SVT",
@@ -47,39 +79,7 @@
    "title": "Turkiet gör tillslag mot gaybarer och aktivister",
    "date": "2026-09-13T10:19:37.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/turkiet-gor-tillslag-mot-gaybarer-och-aktivister",
-   "desc": "Turkisk polis har genomfört en rad tillslag mot gaybarer och hbtqi-aktivisters hem. Flera sociala medie-konton tillhörande hbtqi-organisationer har också blockerats."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Enormt tryck på förtidsröstningen i Luleå",
-   "date": "2026-09-13T08:34:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/enormt-tryck-pa-fortidsrostningen-i-lulea",
-   "desc": "Över 3,6 miljoner svenskar förtidsröstade – vilket är rekord. Det har märkts av även i Luleå. – Enormt tryck har det varit, säger valchef Jonas Wallin."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Postnord försenade med förtidsröster",
-   "date": "2026-09-13T08:25:32.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/postnord-forsenade-med-fortidsrosterna",
-   "desc": "Det stora antalet förtidsröster har gjort att leveranserna i Stockholmsområdet blev flera timmar försenade. Enligt Valmyndigheten kan det i sin tur göra att rösträkningen drar ut på tiden. – Det är förstås inte bra, säger Jenny Stad, pressansvarig på myndigheten."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Zecira Musovics besked inför avgörande VM-matcher: ”Bättre än innan”",
-   "date": "2026-09-13T07:46:17.000Z",
-   "link": "https://www.svt.se/sport/fotboll/zecira-musovics-besked-infor-avgorande-vm-matcher-battre-an-innan",
-   "desc": "Zecira Musovic, 30, har ett besked inför Sveriges VM-playoff. Och det är tydligt. – Jag tycker att jag är bättre än innan, säger hon till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinna skjuten i huvudet i Malmö – man anhållen",
-   "date": "2026-09-13T05:54:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/man-greps-for-mordforsok-i-malmo-kvinna-ford-till-sjukhus",
-   "desc": "En man i 30-årsåldern har anhållits misstänkt för mordförsök och grovt vapenbrott efter att ha skjutit en kvinna i huvudet i Malmö, uppger polisen. Kvinnan har förts till sjukhus men enligt polisen ska skadeläget inte vara livshotande."
+   "desc": "Turkisk polis har genomfört en rad tillslag mot gaybarer och hbtqi-aktivisters hem. Flera sociala medie-konton tillhörande hbtqi-organisationer har också blockerats. Minst 26 personer har gripits, enligt turkiska åklagarmyndighet."
   },
   {
    "src": "STHLM",
