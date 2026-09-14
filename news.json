@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T22:31:59.722Z",
+ "updated": "2026-09-14T00:39:56.273Z",
  "items": [
   {
    "src": "BBC",
@@ -15,7 +15,7 @@
    "title": "Trump downplays warnings of AI risks, citing rivalry with China",
    "date": "2026-09-13T18:49:37.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
+   "desc": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\"."
   },
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Sov du? Det här missade du från valnatten i Södertälje",
+   "date": "2026-09-13T23:27:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/sov-du-det-har-missade-du-fran-valnatten-i-sodertalje",
+   "desc": "Medan många av oss sov fortsatte rösterna att räknas under valnatten. På partiernas valvakor följdes utvecklingen med spänning. I videon ovan kan du se godbitar från valnatten i Södertälje. – Det har blivit mycket snabbmat under valrörelsen, säger Metin Hawsho, gruppledare för Liberalerna i Södertälje."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sensationellt val i Överkalix – C får nästan 50 procent av rösterna",
+   "date": "2026-09-13T23:25:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sensationellt-val-i-overkalix-c-far-nastan-50-procent-av-rosterna",
+   "desc": "Centerpartiet har gjort ett hejdundrade kommunval i Överkalix. Det preliminära resultatet visar 49,1 procent av alla röster och egen majoritet i kommunfullmäktige med 13 av 25 mandat. – Det har varit en berg- och dalbana men det blev rätt så bra det här, skrattar Stefan Granlund, gruppledare för C i Överkalix."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här reagerar Luleås partitoppar på valet",
+   "date": "2026-09-13T23:24:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-reagerar-luleas-partitoppar-pa-valet",
+   "desc": "Riksdagsvalet ser ut att bli en gastkramare där det i skrivande stund skiljer ett mandat i de rödgrönas favör. S och SD backar i Norrbotten medan Moderaterna går framåt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Här röstar Uel Mulughta, 23, i Umeå – troligen sist i landet",
    "date": "2026-09-13T21:34:30.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-rostar-uel-mulughta-23-i-umea-troligen-sist-i-landet",
@@ -58,28 +82,12 @@
    "desc": "Det är helt jämnt mellan blocken i SVT:s valprognos. – Det är gastkramande, säger valforskaren Henrik Ekengren Oscarsson. S ser ut att gå mot sitt sämsta riksdagsval i modern tid, enligt prognosen. SD ser samtidigt ut att backa för första gången i ett riksdagsval."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Liberalernas jubel – klart över spärren i SVT:s valu",
-   "date": "2026-09-13T19:11:23.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/liberalernas-jubel-klart-over-sparren-i-svts-valu",
-   "desc": "Liberalerna är klart över spärren i SVT:s valu – något få trodde var möjligt för bara några veckor sedan. – Nu kan vi verkligen andas ut och njuta av allt hårt arbete, säger Romina Pourmokhtari (L) och hyllar partiledaren Simona Mohamsson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Oppositionen tydligt större än Tidöpartierna – enligt SVT:s Valu",
-   "date": "2026-09-13T19:04:58.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/oppositionen-tydligt-storre-an-tidopartierna-enligt-svts-valu",
-   "desc": "Det ser ut att skilja flera procentenheter mellan blocken enligt SVT:s stora vallokalsundersökning Valu. Liberalerna verkar tydligt klara spärren och resultatet möttes av jubel på partiets valvaka. – Man ska inte dra för tidiga slutsatser men det här ser ut att vara väldigt svårt för Tidöpartierna att hämta in, säger SVT:s inrikespolitiska kommentator Mats Knutson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Wili, 23, var soffliggare – nu har han röstat för första gången",
-   "date": "2026-09-13T17:57:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/wili-23-var-soffliggare-nu-har-han-rostat-for-forsta-gangen",
-   "desc": "Haparanda kommun har lägst valdeltagande i landet. Wili Valikainen, 23, var soffliggare 2022, men nu har han lagt sin röst för första gången. – Det känns fint att åstadkomma något, säger han."
+   "title": "De rödgröna ser ut att säkra stadshuset",
+   "date": "2026-09-13T23:31:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/de-rodgrona-ser-ut-att-sakra-stadshuset",
+   "desc": "Med snart över 570 av 612 distrikt räknade i Stockholms stad ser de rödgröna ut att säkra fyra nya år i stadshuset. Just nu skrapar S, MP och V ihop 51,9 procent av rösterna. Samtidigt visar de preliminära siffrorna att Moderaterna gör ett rekordval med 22,4 procent."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-12T05:00:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-uppmaning-att-atervanda-till-ukraina-nu-far-flyktingar-boende-ett-ar-till",
    "desc": "Efter en ny lagändring kan flyktingar från Ukraina nu få bostad via Lidingö stad ännu ett år – trots att kommunstyrelsens ordförande tidigare skickat brev som uppmanade dem att ”överväga att återvända till Ukraina”."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Gröna vallöften i Stockholm – räddade skogar och nya gågator",
-   "date": "2026-09-12T03:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/grona-valloften-i-stockholm-raddade-skogar-och-nya-gagator",
-   "desc": "Stockholms gröna ytor är i hetluften i Stockholm stads kommande kommunval. Miljöpartiet vill bland annat att Centralbron blir gågata med gröna ytor, Moderaterna lovar att halva Stockholms ska förbli grönt och Vänstern vill inrätta fler naturreservat. – Stockholm har väljare med en relativ hög utbildningsnivå som ställer krav på att miljöfrågor sätts på agendan, säger statsvetaren Jenny Madestam."
   },
   {
    "src": "BBC",
