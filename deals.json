@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T08:37:11.927Z",
+ "updated": "2026-09-14T09:22:06.564Z",
  "verified": false,
  "deals": [
   {
@@ -9,34 +9,34 @@
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Kycklingfilé Svensk 900g",
-   "price": "59 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
    "store": "ICA",
-   "item": "Färsk laxfilé, Norge",
-   "price": "99 kr/kg",
+   "item": "Kycklingfilé Kronfågel 900g",
+   "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Rusta",
-   "item": "Utomhuskudde för trädgårdsmöbler",
-   "price": "79 kr",
-   "url": "https://www.rusta.com/se"
-  },
-  {
-   "store": "IKEA",
-   "item": "Köttbullar 500g, fryst",
+   "store": "Lidl",
+   "item": "Färsk laxfilé, 400g",
    "price": "49 kr",
-   "url": "https://www.ikea.com/se/sv/"
+   "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Rotfruktsmix svensk, 1kg",
-   "price": "15 kr",
+   "item": "Rostat kaffe Bellarom 500g",
+   "price": "34 kr",
    "url": "https://www.lidl.se"
+  },
+  {
+   "store": "IKEA",
+   "item": "Köttbullar 1kg (frys)",
+   "price": "59 kr",
+   "url": "https://www.ikea.com/se/sv/"
+  },
+  {
+   "store": "Rusta",
+   "item": "Utomhusljusslinga 20m LED",
+   "price": "99 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
