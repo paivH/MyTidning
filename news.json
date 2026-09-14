@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T05:43:54.668Z",
+ "updated": "2026-09-14T11:40:46.240Z",
  "items": [
   {
    "src": "BBC",
@@ -12,24 +12,16 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-   "date": "2026-09-13T18:49:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Questions mount over what an AI 'slowdown' would look like",
-   "date": "2026-09-13T18:20:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-   "desc": "While pacing AI development might sound like a quick fix, it is far from an easy solution."
+   "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+   "date": "2026-09-14T01:12:20.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+   "desc": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-   "date": "2026-09-14T01:58:59.000Z",
+   "date": "2026-09-14T08:36:09.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
    "desc": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority."
   },
@@ -42,6 +34,46 @@
    "desc": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
   },
   {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+   "date": "2026-09-14T08:58:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Cristiano Ronaldo rasar efter Diogo Jota-ramsan",
+   "date": "2026-09-14T11:04:32.000Z",
+   "link": "https://www.svt.se/sport/fotboll/cristiano-ronaldo-rasar-efter-diogo-jota-ramsan",
+   "desc": "I helgen fick portugisen Ruben Neves en osmaklig Diogo Jota-ramsa riktad mot sig. Det fick Cristiano Ronaldo att gå ut i sociala medier och kräva livstidsavstängning för supportrarna. ”Det måste finnas gränser”, skrev han i en kommentar på Instagram."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bräcke – kommunen med lägst valdeltagande i länet",
+   "date": "2026-09-14T09:38:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/bracke-kommunen-med-lagst-valdeltagande-i-lanet",
+   "desc": "I Bräcke var det enbart 63,1 procent av de röstberättigade som röstade i riksdagsvalet. Det är det lägsta deltagandet bland länets kommuner."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Anna Nordqvist slår tillbaka mot amerikanska kaptenens kritik",
+   "date": "2026-09-14T08:36:32.000Z",
+   "link": "https://www.svt.se/sport/golf/anna-nordqvist-slar-tillbaka-mot-amerikanska-kaptenens-kritik",
+   "desc": "USA föll tungt mot Europa i Solheim Cup. Kaptenen Angela Stanford skyller på banan – och sig själv. – Tydligen lärde jag inte känna greenkeepern tillräckligt bra, säger hon."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Truls Möregårdh efter nya succén: ”Ska vara lite arrogant nu”",
+   "date": "2026-09-14T08:06:43.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/truls-moregardh-efter-nya-succen-ska-vara-lite-arrogant-nu",
+   "desc": "Truls Möregårdh har fått sin revansch. Efter det tunga uttåget ur hemmaturneringen vann 24-åringen WTT Champions. – Jag ska vara lite arrogant nu i två, tre dagar, säger han efter segern."
+  },
+  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Valet 2026: Så röstade dina grannar",
@@ -50,36 +82,20 @@
    "desc": "Sök efter valresultatet där du bor i riksdagsvalet, regionvalet och kommunvalet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "16-åriga Cavan Sullivans succé – slår till med läcker klack",
-   "date": "2026-09-14T05:16:58.000Z",
-   "link": "https://www.svt.se/sport/fotboll/16-aringens-succe-slar-till-med-lacker-klack",
-   "desc": "Håll ett öga på den här killen. Historiens yngsta MLS-debutant, Cavan Sullivan, fortsatte i natt sin drömsäsong med ett spektakulärt klackmål. – Det var riktigt häftigt, säger 16-åringen."
+   "title": "Så vill M ta över styret – trots förlusten för Alliansen",
+   "date": "2026-09-14T10:49:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-vill-m-ta-over-styret-trots-forlusten-for-alliansen",
+   "desc": "Det rödgröna styret i Stockholms stad ser ut att kunna sitta kvar på makten. Men samtidigt gör Moderaterna ett rekordval – och nu hävdar oppositionsborgarrådet Christofer Fjellner att det fortfarande finns möjlighet för partiet att ta över styret. – Jag kommer göra allt jag kan, säger han."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ingen förändring bland de jämtländska riksdagsmandaten",
-   "date": "2026-09-14T04:53:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ingen-forandring-bland-de-jamtlandska-riksdagsmandaten",
-   "desc": "Länets fyra riksdagsmandat går till S, SD och M. Det innebär att riksdagsplatserna i riksdagen fördelar sig på samma sätt som under mandatperioden 2022-2026."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tre saker från valnatten i Sörmland du inte får missa",
-   "date": "2026-09-14T03:47:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/tre-saker-fran-valnatten-i-sormland-du-inte-far-missa",
-   "desc": "Miljöpartiets skräll, socialdemokratisk comeback – och uppstickarpartiet som ser ut att bli en raket. Hör SVT:s reporter Mattias Gunnarsson om tre resultat som sticker ut efter valnatten i Sörmland."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Valresultatet 2026 i Gävleborgs län: Så här blev det i din kommun",
-   "date": "2026-09-14T02:33:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/valresultatet-2026-i-gavleborgs-lan-sa-har-blev-det-i-din-kommun",
-   "desc": "Nu är den preliminära rösträkningen klar i länets kommuner. Här kan du se vilka som gjort succé – och vilka som floppat."
+   "title": "Person anhållen efter misstänkt våldtäkt i Järfälla",
+   "date": "2026-09-14T07:46:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/person-anhallen-efter-misstankt-valdtakt-i-jarfalla",
+   "desc": "En person greps i söndags och är nu anhållen misstänkt för grov våldtäkt mot barn i Järfälla."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-09-12T18:14:41.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-12-september-3j28j6",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om under lördagen den 12 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Buss fastnade i Klaratunneln – stopp i trafiken",
-   "date": "2026-09-12T05:00:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/buss-fast-i-klaratunneln-stopp-i-trafiken",
-   "desc": "En buss fastnade under lördagsmorgonen vid Klaratunnelns infart i Stockholm. Enligt Trafikverket var det under en drygt timme helt avstängt i trafiken."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Efter uppmaning att återvända till Ukraina – nu får flyktingar boende ett år till",
-   "date": "2026-09-12T05:00:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-uppmaning-att-atervanda-till-ukraina-nu-far-flyktingar-boende-ett-ar-till",
-   "desc": "Efter en ny lagändring kan flyktingar från Ukraina nu få bostad via Lidingö stad ännu ett år – trots att kommunstyrelsens ordförande tidigare skickat brev som uppmanade dem att ”överväga att återvända till Ukraina”."
   },
   {
    "src": "BBC",
