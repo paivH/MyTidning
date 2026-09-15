@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-15T18:21:14.362Z",
+ "updated": "2026-09-15T21:35:48.238Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+   "date": "2026-09-15T21:07:13.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+   "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Suspected sabotage causes major Netherlands rail disruption",
-   "date": "2026-09-15T16:55:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-   "desc": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
+   "title": "South African president vows justice as more women's bodies found near Johannesburg",
+   "date": "2026-09-15T18:01:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+   "desc": "Police have not linked the deaths to a serial killer but are investigating this possibility."
   },
   {
    "src": "BBC",
@@ -34,20 +42,28 @@
    "desc": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-   "date": "2026-09-15T15:31:34.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-   "desc": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Svårt skadad man i Östersund – polisen utreder misstänkt mordförsök",
+   "date": "2026-09-15T20:28:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/svart-skadad-man-i-ostersund-polisen-utreder-misstankt-mordforsok",
+   "desc": "Polisen i Östersund har inlett en förundersökning om försök till mord, sedan en svårt skadad man kom in till sjukvården på tisdag morgon."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Malmö Airport stängd för flygtrafik",
+   "title": "SD tappar stort bland de yngsta väljarna",
+   "date": "2026-09-15T19:25:42.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sd-tappar-stort-bland-de-yngsta-valjarna",
+   "desc": "Sverigedemokraterna backade enligt de preliminära siffrorna med 3,3 procentenheter i valet. Bland olika åldersgrupper så är tappet störst bland väljare mellan 18 och 21 år, där backar partiet hela sju procentenheter."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flygtrafiken kör igen på Malmö Airport",
    "date": "2026-09-15T16:14:03.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/malmo-airport-stangd-for-flygtrafik",
-   "desc": "Flygen har tillfälligt stoppats på Malmö Airport under tisdagskvällen. Resenärer uppmanas hålla kontakt med sitt flygbolag, meddelar Swedavia."
+   "desc": "Flygen stoppades tillfälligt på Malmö Airport under tisdagskvällen. Strax före klockan 20 började flygen köra igen."
   },
   {
    "src": "SVT",
@@ -66,20 +82,20 @@
    "desc": "Två poliser brottade ned och elchockade en 70-årig man med rullator som drack öl och väntade på bussen i Kalix. Efter att en kollega slagit larm om vad han ansåg vara övervåld åtalas nu poliserna misstänkta för tjänstefel. – Han har blivit utsatt för ett rättsövergrepp, säger mannens målsägandebiträde Marko Tuhkanen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Här är Miljöpartiets starkaste fäste i landet – rekordval i Jokkmokk",
-   "date": "2026-09-15T15:00:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-ar-miljopartiets-starkaste-faste-i-landet-rekordval-i-jokkmokk",
-   "desc": "Miljöpartiet i Jokkmokk har gjort ett succéval och blir den kommun i Sverige där partiet får starkast stöd. Kommunalrådet Henrik Blind (MP) tror att närheten till naturen spelar roll. – De gröna frågorna är viktiga för jokkmokkarna, säger han."
+   "title": "Störningar i kollektivtrafiken på flera håll i Stockholm",
+   "date": "2026-09-15T19:00:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-i-kollektivtrafiken-7k95vc",
+   "desc": "Det blev stopp på tunnelbanans gröna linje i båda riktningar mellan Hagsätra och Stureby på tisdag kväll. Även stopp för pendeltågstrafiken mellan Älvsjö och Farsta strand."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "C-toppen avgår efter valfiaskot: ”Mycket personangrepp”",
-   "date": "2026-09-15T14:52:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/c-toppen-avgar-efter-valfiaskot-mycket-personangrepp",
-   "desc": "Anders Johansson (C), kommunalråd i tidigare ohotade centerfästet Mönsterås meddelade under måndagen sin avgång. Bakom beslutet finns både ett historiskt dåligt valresultat men även anklagelser om korruption och hårda ord mot honom på sociala medier: – Det är inte lika roligt längre, säger han till SVT."
+   "title": "Nyheter från dagen: 15 september",
+   "date": "2026-09-15T18:27:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-15-september-s9wqcl",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under tisdagen den 15 september."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-09-15T06:24:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/problem-i-tunnelbanetrafiken",
    "desc": "Det har varit en problematisk tisdagsmorgon i tunnelbanetrafiken. På blå linjen behövde resenärer utrymma tåg efter vagnfel vid Västra Skogen, och även på gröna linjen har det varit strul."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Rödgröna går framåt i Upplands-Bro – kan bli maktskifte",
-   "date": "2026-09-15T03:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/rodgrona-gar-framat-i-upplands-bro-kan-bli-maktskifte",
-   "desc": "Samtidigt som Moderaterna backar kraftigt vinner de rödgröna partierna mark i Upplands-Bro. Det här efter en mandatperiod som präglats av jävsanklagelser och en avhoppad högsta politiker i kommunen. – Turerna i politiken har påverkat valresultatet, säger Börje Hals som bor i Upplands-Bro och som SVT träffade utanför kommunhuset."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 14 september",
-   "date": "2026-09-14T17:31:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-14-september-mtx8i6",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 14 september."
   },
   {
    "src": "BBC",
