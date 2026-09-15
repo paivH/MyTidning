@@ -1,14 +1,6 @@
 {
- "updated": "2026-09-15T14:09:07.888Z",
+ "updated": "2026-09-15T18:21:14.362Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-   "date": "2026-09-15T08:49:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,66 +12,82 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-   "date": "2026-09-15T03:50:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-   "desc": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony."
+   "title": "What weapon could the US have put into space?",
+   "date": "2026-09-15T14:23:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+   "desc": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Suspected sabotage causes major Netherlands rail disruption",
-   "date": "2026-09-15T13:33:16.000Z",
+   "date": "2026-09-15T16:55:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
    "desc": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US confirms for first time it has deployed space weapons",
-   "date": "2026-09-15T08:48:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-   "desc": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action."
+   "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+   "date": "2026-09-15T16:13:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+   "date": "2026-09-15T15:31:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+   "desc": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bild på vägglus sprider oro bland resenärer i Göteborg",
-   "date": "2026-09-15T13:44:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/bild-pa-vagglus-sprider-oro-bland-resenarer-i-goteborg",
-   "desc": "Bilder på ett litet kryp sprider sig på sociala medier och oroar göteborgarna. Två spårvagnar har isolerats – och Göteborgs spårvägar utreder om det rör sig om vägglöss. – Vi tar det på allvar, säger Sebastian Kujala, depåchef vid vagnhallen i Majorna."
+   "title": "Malmö Airport stängd för flygtrafik",
+   "date": "2026-09-15T16:14:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/malmo-airport-stangd-for-flygtrafik",
+   "desc": "Flygen har tillfälligt stoppats på Malmö Airport under tisdagskvällen. Resenärer uppmanas hålla kontakt med sitt flygbolag, meddelar Swedavia."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Många röster kvar att räkna i Salem – kan påverka resultatet",
-   "date": "2026-09-15T13:18:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/manga-roster-kvar-att-rakna-i-salem-kan-paverka-resultatet",
-   "desc": "I Salems kommun är det tight mellan de kommunala partierna. Ett mandat mer eller mindre för någon av dem kan påverka vilka som kan bilda majoritet. Samtidigt dröjer resultatet längre än vad det brukar. – Vi har ett ovanligt stort antal förtidsröster som ska räknas, säger Richard Damberg på valkansliet i Salem."
+   "title": "Fyra personbilar krockade vid Klämmestorp – två personer till sjukhus",
+   "date": "2026-09-15T16:04:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/fyra-personbilar-krockade-vid-klammestorp-tva-personer-till-sjukhus",
+   "desc": "Fyra personbilar har varit inblandade i en krock i en korsning på väg 195 i höjd med Klämmestorp, utanför Jönköping. Två personer har förts med ambulans till sjukhus."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Elev knivhuggen på gymnasieskola i Oslo",
-   "date": "2026-09-15T12:03:23.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/elev-knivhuggen-pa-gymnasieskola-i-oslo",
-   "desc": "En elev är allvarligt skadad efter att ha knivhuggits på en gymnasieskola i Oslo, rapporterar VG. Den misstänkte gärningspersonen är gripen."
+   "title": "70-åring med rullator nedbrottad och elchockad av poliser i Kalix",
+   "date": "2026-09-15T16:03:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/poliser-elchockade-nedbrottad-70-aring-med-rullator-i-kalix",
+   "desc": "Två poliser brottade ned och elchockade en 70-årig man med rullator som drack öl och väntade på bussen i Kalix. Efter att en kollega slagit larm om vad han ansåg vara övervåld åtalas nu poliserna misstänkta för tjänstefel. – Han har blivit utsatt för ett rättsövergrepp, säger mannens målsägandebiträde Marko Tuhkanen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man häktad efter attack mot S-valarbetare i Bromölla",
-   "date": "2026-09-15T11:32:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/man-haktad-efter-attack-mot-s-valarbetare-i-bromolla",
-   "desc": "En man i 20-årsåldern har häktats misstänkt för grov misshandel mot en socialdemokratisk valarbetare i Bromölla förra torsdagen."
+   "title": "Här är Miljöpartiets starkaste fäste i landet – rekordval i Jokkmokk",
+   "date": "2026-09-15T15:00:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-ar-miljopartiets-starkaste-faste-i-landet-rekordval-i-jokkmokk",
+   "desc": "Miljöpartiet i Jokkmokk har gjort ett succéval och blir den kommun i Sverige där partiet får starkast stöd. Kommunalrådet Henrik Blind (MP) tror att närheten till naturen spelar roll. – De gröna frågorna är viktiga för jokkmokkarna, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fem döms efter dubbla sprängningar i Norrköping",
-   "date": "2026-09-15T11:09:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/fem-doms-efter-dubbla-sprangningar-i-norrkoping",
-   "desc": "Två sprängningar genomfördes och ett tredje stoppades i sista stund. Nu döms fem personer efter attentaten i Norrköping. Enligt Norrköpings tingsrätt ingick samtliga dåd i en gemensam brottsplan med koppling till Foxtrot."
+   "title": "C-toppen avgår efter valfiaskot: ”Mycket personangrepp”",
+   "date": "2026-09-15T14:52:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/c-toppen-avgar-efter-valfiaskot-mycket-personangrepp",
+   "desc": "Anders Johansson (C), kommunalråd i tidigare ohotade centerfästet Mönsterås meddelade under måndagen sin avgång. Bakom beslutet finns både ett historiskt dåligt valresultat men även anklagelser om korruption och hårda ord mot honom på sociala medier: – Det är inte lika roligt längre, säger han till SVT."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "V ökade kraftigt i Järva – anklagas för desinformationskampanj",
+   "date": "2026-09-15T16:13:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/v-okade-kraftigt-i-jarva-anklagas-for-desinformationskampanj",
+   "desc": "Vänsterpartiet gjorde ett succéval i flera av landets utsatta områden, inte minst i Rinkeby där partiet samlade fler än hälften av rösterna i flera av valdistrikten. Samtidigt anklagar högersidan Vänsterpartiet för etniskt riktad desinformation. – Det har jag inte sett, säger Rashid Mohammed (V), ordförande i Järva stadsdelsnämnd."
   },
   {
    "src": "STHLM",
@@ -114,19 +122,19 @@
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 14 september."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "S dilemma för att fortsätta styra regionen: Röda linjer",
-   "date": "2026-09-14T14:44:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/s-dilemma-for-att-fortsatta-styra-regionen-roda-linjer",
-   "desc": "Det preliminära valresultatet tyder på att Socialdemokraternas mittenkoalition i Region Stockholm får fortsatt majoritet. Men frågan är hur S ska kunna fortsätta styra som tidigare, när både C och V dragit röda linjer inför årets val. – Vi kommer inte att backa från vårt krav att sitta i regionstyret. Vi har påbörjat viktiga processer, säger Anna Sehlin (V)."
-  },
-  {
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
    "date": "2026-09-14T15:24:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p9lg84?at_medium=RSS&at_campaign=rss",
+   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-15T15:25:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p9r2fn?at_medium=RSS&at_campaign=rss",
    "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   },
   {
@@ -144,14 +152,6 @@
    "date": "2026-09-14T16:58:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p9lvlj?at_medium=RSS&at_campaign=rss",
    "desc": "Gaz and Joe reflect on Manchester United's derby day defeat to Manchester City."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-13T18:54:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p9gcwz?at_medium=RSS&at_campaign=rss",
-   "desc": "Michael Carrick reacts to Haaland's goal and losing 1-0 in the Manchester Derby."
   }
  ]
 }
