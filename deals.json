@@ -1,42 +1,42 @@
 {
- "updated": "2026-09-14T09:22:06.564Z",
+ "updated": "2026-09-15T09:03:18.720Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Ingrid Marie, lösvikt",
+   "item": "Svenska äpplen Aroma",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
+   "store": "Lidl",
+   "item": "Färsk kycklingfilé 900g",
    "price": "59 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
+   "store": "ICA",
+   "item": "Kantareller inhemska 250g",
+   "price": "39 kr",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Färsk laxfilé, 400g",
-   "price": "49 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Rostat kaffe Bellarom 500g",
-   "price": "34 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (frys)",
-   "price": "59 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Utomhusljusslinga 20m LED",
-   "price": "99 kr",
+   "item": "Stormljus 6-pack",
+   "price": "29 kr",
    "url": "https://www.rusta.com/se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Rostbiff nöt 400g",
+   "price": "45 kr",
+   "url": "https://www.lidl.se"
   }
  ]
 }
