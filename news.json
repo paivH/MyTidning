@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T08:55:36.709Z",
+ "updated": "2026-09-15T14:09:07.888Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-   "date": "2026-09-15T02:50:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-   "desc": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure."
+   "title": "Denmark says Russian warship fired flares at military helicopter",
+   "date": "2026-09-15T11:40:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
   },
   {
    "src": "BBC",
@@ -28,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Nato jets down drone that entered Lithuanian airspace",
-   "date": "2026-09-15T06:29:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia."
+   "title": "Suspected sabotage causes major Netherlands rail disruption",
+   "date": "2026-09-15T13:33:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+   "desc": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
   },
   {
    "src": "BBC",
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Experten efter turerna kring Noel Milleskog: ”Inte optimalt”",
-   "date": "2026-09-15T08:45:53.000Z",
-   "link": "https://www.svt.se/sport/fotboll/experten-efter-turerna-kring-noel-milleskog-inte-optimalt",
-   "desc": "Noel Milleskog är utlånad från Sirius till Degerfors. Han ställdes mot just Uppsalalaget. – Det riskerar att sätta spelaren i ganska jobbiga situationer, säger fotbollskrönikören Therese Strömberg."
+   "title": "Bild på vägglus sprider oro bland resenärer i Göteborg",
+   "date": "2026-09-15T13:44:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/bild-pa-vagglus-sprider-oro-bland-resenarer-i-goteborg",
+   "desc": "Bilder på ett litet kryp sprider sig på sociala medier och oroar göteborgarna. Två spårvagnar har isolerats – och Göteborgs spårvägar utreder om det rör sig om vägglöss. – Vi tar det på allvar, säger Sebastian Kujala, depåchef vid vagnhallen i Majorna."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Isak Bjerkebo i formsvacka(?): ”Är man lite besviken?”",
-   "date": "2026-09-15T08:44:16.000Z",
-   "link": "https://www.svt.se/sport/fotboll/isak-bjerkebo-i-formsvacka-ar-man-lite-besviken",
-   "desc": "Det var ett tag sedan Sirius stjärna Isak Bjerkebo nätade. Fotbollsstudion lyfter ämnet: Är han i en formsvacka? – Han var på väg bort, en övergång som kraschade. Vad sätter en sådan sak i huvudet på en spelare? frågar sig SVT:s expert Magnus Eriksson."
+   "title": "Många röster kvar att räkna i Salem – kan påverka resultatet",
+   "date": "2026-09-15T13:18:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/manga-roster-kvar-att-rakna-i-salem-kan-paverka-resultatet",
+   "desc": "I Salems kommun är det tight mellan de kommunala partierna. Ett mandat mer eller mindre för någon av dem kan påverka vilka som kan bilda majoritet. Samtidigt dröjer resultatet längre än vad det brukar. – Vi har ett ovanligt stort antal förtidsröster som ska räknas, säger Richard Damberg på valkansliet i Salem."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lastbil och personbil har kolliderat i Sveg",
-   "date": "2026-09-15T08:42:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/lastbil-och-personbil-har-kolliderat-i-sveg",
-   "desc": "Ungefär klockan 10:30, tisdag skedde en sidokollision mellan en lastbil och en personbil i centrala Sveg. Olyckan ska ha skett i korsningen mellan 84:an och Gränsgatan i central Sveg."
+   "title": "Elev knivhuggen på gymnasieskola i Oslo",
+   "date": "2026-09-15T12:03:23.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/elev-knivhuggen-pa-gymnasieskola-i-oslo",
+   "desc": "En elev är allvarligt skadad efter att ha knivhuggits på en gymnasieskola i Oslo, rapporterar VG. Den misstänkte gärningspersonen är gripen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter skandalerna – troligt maktskifte i Ystad",
-   "date": "2026-09-15T07:00:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/efter-skandalerna-troligt-maktskifte-i-ystad",
-   "desc": "Den gångna mandatperioden i Ystad har präglats av korruptionsskandaler i kommunen. Nu ser kommunen ut att gå mot ett maktskifte."
+   "title": "Man häktad efter attack mot S-valarbetare i Bromölla",
+   "date": "2026-09-15T11:32:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/man-haktad-efter-attack-mot-s-valarbetare-i-bromolla",
+   "desc": "En man i 20-årsåldern har häktats misstänkt för grov misshandel mot en socialdemokratisk valarbetare i Bromölla förra torsdagen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Strulig morgon i tunnelbanetrafiken",
-   "date": "2026-09-15T06:24:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/problem-i-tunnelbanetrafiken",
-   "desc": "Det har varit en problematisk tisdagsmorgon i tunnelbanetrafiken. På blå linjen behövde resenärer utrymma tåg efter vagnfel vid Västra Skogen, och även på gröna linjen har det varit strul."
+   "title": "Fem döms efter dubbla sprängningar i Norrköping",
+   "date": "2026-09-15T11:09:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/fem-doms-efter-dubbla-sprangningar-i-norrkoping",
+   "desc": "Två sprängningar genomfördes och ett tredje stoppades i sista stund. Nu döms fem personer efter attentaten i Norrköping. Enligt Norrköpings tingsrätt ingick samtliga dåd i en gemensam brottsplan med koppling till Foxtrot."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Volleyboll växer kraftigt – hundratals i kö till Sollentunas klubb",
+   "date": "2026-09-15T10:07:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/volleyboll-vaxer-kraftigt-hundratals-i-ko-till-sollentunas-klubb",
+   "desc": "En volleyboll-boom är här. Sedan pandemin har deltagartillfällena ökat med 51 procent och antalet licensierade spelare har blivit 56 procent fler. Lilla sportspegeln besökte Sollentuna Volleybollklubb och pratade med de unga spelarna."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,20 @@
    "desc": "Det preliminära valresultatet tyder på att Socialdemokraternas mittenkoalition i Region Stockholm får fortsatt majoritet. Men frågan är hur S ska kunna fortsätta styra som tidigare, när både C och V dragit röda linjer inför årets val. – Vi kommer inte att backa från vårt krav att sitta i regionstyret. Vi har påbörjat viktiga processer, säger Anna Sehlin (V)."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Så vill M ta över styret – trots förlusten för Alliansen",
-   "date": "2026-09-14T10:49:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-vill-m-ta-over-styret-trots-forlusten-for-alliansen",
-   "desc": "Det rödgröna styret i Stockholms stad ser ut att kunna sitta kvar på makten. Men samtidigt gör Moderaterna ett rekordval – och nu hävdar oppositionsborgarrådet Christofer Fjellner att det fortfarande finns möjlighet för partiet att ta över styret. – Jag kommer göra allt jag kan, säger han."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-14T15:24:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p9lg84?at_medium=RSS&at_campaign=rss",
+   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-15T13:30:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p9q0vg?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United boss Michael Carrick speaks ahead of the League Cup tie with Brighton."
   },
   {
    "src": "BBC",
@@ -136,22 +152,6 @@
    "date": "2026-09-13T18:54:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p9gcwz?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick reacts to Haaland's goal and losing 1-0 in the Manchester Derby."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-11T15:00:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p94pl3?at_medium=RSS&at_campaign=rss",
-   "desc": "Paul Ince on defibrillator awareness, midfield rebuild and Manchester derby."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-11T12:30:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p93r7h?at_medium=RSS&at_campaign=rss",
-   "desc": "Michael Carrick understands Elliott Anderson calling Manchester City kings of Manchester."
   }
  ]
 }
