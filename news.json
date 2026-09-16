@@ -1,85 +1,101 @@
 {
- "updated": "2026-09-16T03:27:34.084Z",
+ "updated": "2026-09-16T08:47:25.591Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+   "date": "2026-09-16T06:57:32.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+   "desc": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-   "date": "2026-09-16T01:29:20.000Z",
+   "date": "2026-09-16T08:35:56.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
    "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Denmark says Russian warship fired flares at military helicopter",
-   "date": "2026-09-15T11:40:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
+   "title": "At least 12 killed after war-damaged Gaza building collapses",
+   "date": "2026-09-16T07:58:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Dozens of people are missing beneath the rubble of the building in Gaza City, where 10 families had reportedly been living."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What weapon could the US have put into space?",
-   "date": "2026-09-15T14:23:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-   "desc": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
+   "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+   "date": "2026-09-15T20:34:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+   "desc": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "South African president vows justice as more women's bodies found near Johannesburg",
-   "date": "2026-09-15T18:01:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
-   "desc": "Police have not linked the deaths to a serial killer but are investigating this possibility."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-   "date": "2026-09-15T16:13:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
+   "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
+   "date": "2026-09-16T07:00:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+   "desc": "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Helikopterkrasch i Los Angeles – minst tre döda",
-   "date": "2026-09-16T03:08:01.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/helikopterkrasch-i-los-angeles-minst-tre-doda",
-   "desc": "En helikopter har kraschat i Los Angeles, rapporterar AP. Minst tre personer har dött, uppger lokala myndigheter."
+   "title": "Hällristningarna förstörda i Umeå – polis utreder grovt fornminnesbrott",
+   "date": "2026-09-16T08:21:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/hallristningarna-forstorda-pa-hamrinsberget-polis-utreder-grovt-fornminnesbrott-i-umea",
+   "desc": "Hällristningar på Hamrinsberget i Umeå har förstörts under sommaren. Någon har slipat bort delar av ristningarna. Nu utreder polis grovt fornminnesbrott."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Svårt skadad man i Östersund – polisen utreder misstänkt mordförsök",
-   "date": "2026-09-15T20:28:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/svart-skadad-man-i-ostersund-polisen-utreder-misstankt-mordforsok",
-   "desc": "Polisen i Östersund har inlett en förundersökning om försök till mord, sedan en svårt skadad man kom in till sjukvården på tisdag morgon."
+   "title": "Minst 60 döda i sudanesisk gruvkollaps",
+   "date": "2026-09-16T08:11:48.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/minst-60-doda-i-sudanesisk-gruvkollaps",
+   "desc": "Minst 60 människor har dött efter att en guldgruva kollapsat i Sudan, uppger överlevare för AFP."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "SD tappar stort bland de yngsta väljarna",
-   "date": "2026-09-15T19:25:42.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sd-tappar-stort-bland-de-yngsta-valjarna",
-   "desc": "Sverigedemokraterna backade enligt de preliminära siffrorna med 3,3 procentenheter i valet. Bland olika åldersgrupper så är tappet störst bland väljare mellan 18 och 21 år, där backar partiet hela sju procentenheter."
+   "title": "Rösträkning försenas i Skellefteå efter brandlarm på stadshuset",
+   "date": "2026-09-16T07:36:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/brandlarm-pa-stadshuset-i-skelleftea-rostsedlar-flyttas-ut",
+   "desc": "Ett larm om brandrök gick på Skellefteå stadshus vid 09 på onsdagsmorgonen. Personalen har fått lämna byggnaden och röstsedlar har flyttas ut. – Rösträkningen försenas en timme, säger valnämndens ordförande Annika Nyman (S)."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Flygtrafiken kör igen på Malmö Airport",
-   "date": "2026-09-15T16:14:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/malmo-airport-stangd-for-flygtrafik",
-   "desc": "Flygen stoppades tillfälligt på Malmö Airport under tisdagskvällen. Strax före klockan 20 började flygen köra igen."
+   "title": "Kalmar tar tillbaka titeln – har Sveriges längsta bänk",
+   "date": "2026-09-16T06:03:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/kalmar-tar-tillbaka-titeln-har-sveriges-langsta-bank",
+   "desc": "Kampen om Sveriges längsta bänk fortsätter. Nu har Kalmar återtagit titeln från Hjo – efter att Gustav Vasa-bänken förlängts med nästan 30 meter. Den 299 meter långa bänken sträcker sig längs Kalmarsund och är nu längst i Sverige."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fyra personbilar krockade vid Klämmestorp – två personer till sjukhus",
-   "date": "2026-09-15T16:04:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/fyra-personbilar-krockade-vid-klammestorp-tva-personer-till-sjukhus",
-   "desc": "Fyra personbilar har varit inblandade i en krock i en korsning på väg 195 i höjd med Klämmestorp, utanför Jönköping. Två personer har förts med ambulans till sjukhus."
+   "title": "Kebnekaises sydtopp fortsätter smälta",
+   "date": "2026-09-16T05:32:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kebnekaises-sydtopp-fortsatter-smalta-87p0yw",
+   "desc": "Kebnekaises sydtopp fortsätter att smälta, visar årets mätning."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Man i 20-årsåldern begärs häktad för dödsolyckan på Östermalm",
+   "date": "2026-09-16T07:50:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-i-20-arsaldern-begars-haktad-for-dodsolyckan-pa-ostermalm",
+   "desc": "Den man som suttit anhållen misstänkt för dödskraschen på Östermalm i helgen, där en kvinna i 55-årsåldern dog, begärs nu häktad."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Följ med in till rösträkningen i Stockholm",
+   "date": "2026-09-16T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/folj-med-in-till-rostrakningen-i-stockholm",
+   "desc": "I Nacka strand sitter just nu hundratals rösträknare och går igenom stockholmarnas röster i årets val. SVT fick följa med in i lokalerna för att se hur arbetet går till. – Att räkna rösterna tar tid. Det behöver göras noggrant och enligt rutiner. Det behöver bli rätt, säger Hans Lind, valsamordnare på länsstyrelsen."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-09-15T16:13:34.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/v-okade-kraftigt-i-jarva-anklagas-for-desinformationskampanj",
    "desc": "Vänsterpartiet gjorde ett succéval i flera av landets utsatta områden, inte minst i Rinkeby där partiet samlade fler än hälften av rösterna i flera av valdistrikten. Samtidigt anklagar högersidan Vänsterpartiet för etniskt riktad desinformation. – Det har jag inte sett, säger Rashid Mohammed (V), ordförande i Järva stadsdelsnämnd."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Volleyboll växer kraftigt – hundratals i kö till Sollentunas klubb",
-   "date": "2026-09-15T10:07:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/volleyboll-vaxer-kraftigt-hundratals-i-ko-till-sollentunas-klubb",
-   "desc": "En volleyboll-boom är här. Sedan pandemin har deltagartillfällena ökat med 51 procent och antalet licensierade spelare har blivit 56 procent fler. Lilla sportspegeln besökte Sollentuna Volleybollklubb och pratade med de unga spelarna."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Strulig morgon i tunnelbanetrafiken",
-   "date": "2026-09-15T06:24:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/problem-i-tunnelbanetrafiken",
-   "desc": "Det har varit en problematisk tisdagsmorgon i tunnelbanetrafiken. På blå linjen behövde resenärer utrymma tåg efter vagnfel vid Västra Skogen, och även på gröna linjen har det varit strul."
   },
   {
    "src": "BBC",
