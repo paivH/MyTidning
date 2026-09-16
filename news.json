@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T14:00:24.122Z",
+ "updated": "2026-09-16T18:17:27.521Z",
  "items": [
   {
    "src": "BBC",
@@ -12,74 +12,90 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Photos show widespread damage at US sites from Iranian attacks",
+   "date": "2026-09-16T16:33:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+   "desc": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+   "date": "2026-09-16T17:16:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+   "date": "2026-09-16T12:26:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+   "desc": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
    "date": "2026-09-16T10:02:05.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
    "desc": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-   "date": "2026-09-16T09:36:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-   "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-   "date": "2026-09-16T13:28:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-   "date": "2026-09-15T20:34:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-   "desc": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man gripen i Grekland – kopplas till sprängning i Falkenberg",
+   "date": "2026-09-16T17:41:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/man-gripen-i-grekland-kopplas-till-sprangning-i-falkenberg",
+   "desc": "En man som misstänks ha varit inblandad i flera dåd i Falkenberg 2024 har gripits i Grekland, rapporterar HN."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Två Härnösandsbor misstänks för spioneri i Finland",
-   "date": "2026-09-16T13:42:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/tva-harnosandsbor-misstanks-for-spioneri-i-finland",
-   "desc": "Två män skrivna på samma adress i Härnösand misstänkts för spioneri i Finland. Häktningsförhandlingarna hölls under onsdagen i Helsingfors tingsrätt."
+   "title": "Man omkom i traktorolycka i Kramfors",
+   "date": "2026-09-16T17:11:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/man-omkom-i-traktorolycka-i-kramfors",
+   "desc": "En man i 70-årsåldern i Kramfors kommun har omkommit efter att ha blivit fastklämd under en traktor under onsdagen. – Vi åkte dit och samlade in information och kom fram till att det handlade om en olycka, säger polisens presstalesperson Elisabeth Glaas."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här räknas onsdagsrösterna i Nyköping: ”Dubbelt så många”",
-   "date": "2026-09-16T13:39:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/har-raknas-onsdagsrosterna-i-nykoping-dubbelt-sa-manga",
-   "desc": "På onsdagen anlände rösterna som inte hann fram på valdagen till landets kommuner för en så kallad uppsamlingsräkning. Antalet sådana röster blev fler i år än tidigare valår – vilket märktes av i bland annat Nyköping. – Vi har fått mer än dubbelt än det vi brukar få, säger Jenny Åtegård, kanslichef på Nyköpings kommun."
+   "title": "SVT:s prognos: Hoppet ute för Tidöpartierna",
+   "date": "2026-09-16T16:29:54.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/svts-prognos-hoppet-ute-for-tidopartierna",
+   "desc": "Hoppet är ute för Tidöpartierna att nå majoritet i riksdagsvalet 2026. Det enligt SVT:s Valprognos. – Sannolikheten för en vändning i det här läget är så låg att vi vågar slå fast att oppositionen får flest mandat i det här valet, säger SVT:s reporter Fouad Youcefi."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lastbil i krock med personbil på E18 i Årjängs kommun",
-   "date": "2026-09-16T12:59:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/lastbil-i-krock-med-personbil-pa-e18-i-arjangs-kommun",
-   "desc": "Under onsdagseftermiddagen krockade en lastbil och en personbil vid Sanda i Årjängs kommun. Vägen är just nu avstängd i båda riktningar. – Lastbilen är i diket, säger en teamledare på SOS alarm."
+   "title": "Brutala siffrorna för Liberalerna: Tappar i nästan hela Västsverige",
+   "date": "2026-09-16T15:37:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/brutala-siffrorna-for-liberalerna-tappar-i-nastan-hela-vastsverige",
+   "desc": "En bred och tydlig försvagning – över i princip hela Västra Götaland. Så ser det ut för Liberalerna i kommunvalen där partiet tappat i 42 av 49 kommuner och åker ur fullmäktige i 8. – Vi behöver samlas och tillsammans titta framåt på detta, säger Joakim Tångeskog-Broström, ordförande för Liberalerna i Mölndal, en av kommunerna där partiet backat mest."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Oklart kring styret i Gnesta efter MP:s rekordökning: ”Det är fint och jobbigt”",
-   "date": "2026-09-16T12:13:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/oklart-kring-styret-i-gnesta-efter-mps-framfart-det-ar-fint-och-jobbigt",
-   "desc": "Vilken konstellation ska styra Gnesta kommun de fyra kommande åren? Det är en fråga som väntar på sitt svar – men MP:s toppnamn Johan Lexell är tydlig med hur han vill ha det."
+   "title": "Dömde mannen överklagar Brattåsdomen till hovrätten",
+   "date": "2026-09-16T15:28:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/klart-domde-mannen-overklagar-brattasdomen",
+   "desc": "Mannen som dömdes till medhjälp för två mord i Brattås 2005 har överklagat domen. Nu väntar en förhandling i hovrätten. – Hovrätten i Sundsvall håller på att planera huvudförhandlingen, jag gissar på att det blir i mitten av oktober, säger mannens advokat Johan Lavås."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Efter skadan – Dregen slutar i Hellacopters",
-   "date": "2026-09-16T11:38:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/dregen-slutar-i-hellacopters",
-   "desc": "Epoken Dregen i Hellacopters är över. Handskadan som Dregen ådrog sig för tre år sedan gör att han inte kan återvända till bandet."
+   "title": "Nyheter från dagen: 16 september",
+   "date": "2026-09-16T17:05:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-16-september-plbdc0",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under onsdagen den 16 september."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Mandatrysare i Botkyrka – ett mandat skiljer blocken",
+   "date": "2026-09-16T15:26:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mandatrysare-i-botkyrka-ett-mandat-skiljer-blocken",
+   "desc": "Socialdemokraterna och Vänsterpartiet fick flest röster av Botkyrkaborna men når ändå inte majoritet om de skulle regera med Miljöpartiet. Botkyrkas bästa, där borgerliga partier och Oberoende S ingår, tar sats för att styra kommunen fyra år till."
   },
   {
    "src": "STHLM",
@@ -87,7 +103,7 @@
    "title": "Kvinna påkörd på parkering",
    "date": "2026-09-16T13:51:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-pakord-pa-parkering",
-   "desc": "En äldre kvinna ska ha blivit påkörd av en personbil på en parkeringsplats i Vallentuna. Räddningstjänst och ambulans är på plats och kvinnan vårdas av ambulanspersonal. Ambulanshelikopter är på väg. – Man har hittat en blödande person på gatan, säger Daniel Wikdahl, presstalesperson hos Polisen."
+   "desc": "En äldre kvinna ska ha blivit påkörd av en personbil på en parkeringsplats i Vallentuna. Räddningstjänst och ambulans var på plats. – Hon ska ha blivit påbackad av bilen och man håller på att utreda händelsen på plats, säger Daniel Wikdahl, presstalesperson hos Polisen."
   },
   {
    "src": "STHLM",
@@ -100,33 +116,17 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Man i 20-årsåldern häktas för dödsolyckan på Östermalm",
+   "title": "Man i 20-årsåldern häktad för dödsolyckan på Östermalm",
    "date": "2026-09-16T07:50:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-i-20-arsaldern-begars-haktad-for-dodsolyckan-pa-ostermalm",
    "desc": "Den man som suttit anhållen misstänkt för dödskraschen på Östermalm i helgen, där en kvinna i 55-årsåldern dog, häktas."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Följ med in till rösträkningen i Stockholm",
-   "date": "2026-09-16T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/folj-med-in-till-rostrakningen-i-stockholm",
-   "desc": "I Nacka strand sitter just nu hundratals rösträknare och går igenom stockholmarnas röster i årets val. SVT fick följa med in i lokalerna för att se hur arbetet går till. – Att räkna rösterna tar tid. Det behöver göras noggrant och enligt rutiner. Det behöver bli rätt, säger Hans Lind, valsamordnare på länsstyrelsen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Störningar i kollektivtrafiken på flera håll i Stockholm",
-   "date": "2026-09-15T19:00:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-i-kollektivtrafiken-7k95vc",
-   "desc": "Det blev stopp på tunnelbanans gröna linje i båda riktningar mellan Hagsätra och Stureby på tisdag kväll. Även stopp för pendeltågstrafiken mellan Älvsjö och Farsta strand."
-  },
-  {
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
-   "date": "2026-09-14T15:24:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p9lg84?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-16T14:51:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p9wz01?at_medium=RSS&at_campaign=rss",
    "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   },
   {
