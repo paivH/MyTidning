@@ -1,6 +1,22 @@
 {
- "updated": "2026-09-16T18:17:27.521Z",
+ "updated": "2026-09-16T21:30:47.650Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US interest rates raised for first time in three years",
+   "date": "2026-09-16T21:02:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Photos show widespread damage at US sites from Iranian attacks",
+   "date": "2026-09-16T18:36:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+   "desc": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,14 +24,6 @@
    "date": "2026-09-16T12:36:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
    "desc": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Photos show widespread damage at US sites from Iranian attacks",
-   "date": "2026-09-16T16:33:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-   "desc": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News."
   },
   {
    "src": "BBC",
@@ -28,18 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-   "date": "2026-09-16T12:26:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-   "desc": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-   "date": "2026-09-16T10:02:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-   "desc": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
+   "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+   "date": "2026-09-16T19:59:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+   "desc": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender."
   },
   {
    "src": "SVT",
