@@ -1,11 +1,19 @@
 {
- "updated": "2026-09-16T08:47:25.591Z",
+ "updated": "2026-09-16T14:00:24.122Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "EU chief backs plan for Canada to become 'associate member'",
+   "date": "2026-09-16T12:36:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+   "desc": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-   "date": "2026-09-16T06:57:32.000Z",
+   "date": "2026-09-16T10:02:05.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
    "desc": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
   },
@@ -13,17 +21,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-   "date": "2026-09-16T08:35:56.000Z",
+   "date": "2026-09-16T09:36:54.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
    "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 12 killed after war-damaged Gaza building collapses",
-   "date": "2026-09-16T07:58:22.000Z",
+   "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+   "date": "2026-09-16T13:28:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Dozens of people are missing beneath the rubble of the building in Gaza City, where 10 families had reportedly been living."
+   "desc": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living."
   },
   {
    "src": "BBC",
@@ -34,60 +42,68 @@
    "desc": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
-   "date": "2026-09-16T07:00:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-   "desc": "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Två Härnösandsbor misstänks för spioneri i Finland",
+   "date": "2026-09-16T13:42:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/tva-harnosandsbor-misstanks-for-spioneri-i-finland",
+   "desc": "Två män skrivna på samma adress i Härnösand misstänkts för spioneri i Finland. Häktningsförhandlingarna hölls under onsdagen i Helsingfors tingsrätt."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hällristningarna förstörda i Umeå – polis utreder grovt fornminnesbrott",
-   "date": "2026-09-16T08:21:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/hallristningarna-forstorda-pa-hamrinsberget-polis-utreder-grovt-fornminnesbrott-i-umea",
-   "desc": "Hällristningar på Hamrinsberget i Umeå har förstörts under sommaren. Någon har slipat bort delar av ristningarna. Nu utreder polis grovt fornminnesbrott."
+   "title": "Här räknas onsdagsrösterna i Nyköping: ”Dubbelt så många”",
+   "date": "2026-09-16T13:39:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/har-raknas-onsdagsrosterna-i-nykoping-dubbelt-sa-manga",
+   "desc": "På onsdagen anlände rösterna som inte hann fram på valdagen till landets kommuner för en så kallad uppsamlingsräkning. Antalet sådana röster blev fler i år än tidigare valår – vilket märktes av i bland annat Nyköping. – Vi har fått mer än dubbelt än det vi brukar få, säger Jenny Åtegård, kanslichef på Nyköpings kommun."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Minst 60 döda i sudanesisk gruvkollaps",
-   "date": "2026-09-16T08:11:48.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/minst-60-doda-i-sudanesisk-gruvkollaps",
-   "desc": "Minst 60 människor har dött efter att en guldgruva kollapsat i Sudan, uppger överlevare för AFP."
+   "title": "Lastbil i krock med personbil på E18 i Årjängs kommun",
+   "date": "2026-09-16T12:59:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/lastbil-i-krock-med-personbil-pa-e18-i-arjangs-kommun",
+   "desc": "Under onsdagseftermiddagen krockade en lastbil och en personbil vid Sanda i Årjängs kommun. Vägen är just nu avstängd i båda riktningar. – Lastbilen är i diket, säger en teamledare på SOS alarm."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Rösträkning försenas i Skellefteå efter brandlarm på stadshuset",
-   "date": "2026-09-16T07:36:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/brandlarm-pa-stadshuset-i-skelleftea-rostsedlar-flyttas-ut",
-   "desc": "Ett larm om brandrök gick på Skellefteå stadshus vid 09 på onsdagsmorgonen. Personalen har fått lämna byggnaden och röstsedlar har flyttas ut. – Rösträkningen försenas en timme, säger valnämndens ordförande Annika Nyman (S)."
+   "title": "Oklart kring styret i Gnesta efter MP:s rekordökning: ”Det är fint och jobbigt”",
+   "date": "2026-09-16T12:13:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/oklart-kring-styret-i-gnesta-efter-mps-framfart-det-ar-fint-och-jobbigt",
+   "desc": "Vilken konstellation ska styra Gnesta kommun de fyra kommande åren? Det är en fråga som väntar på sitt svar – men MP:s toppnamn Johan Lexell är tydlig med hur han vill ha det."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kalmar tar tillbaka titeln – har Sveriges längsta bänk",
-   "date": "2026-09-16T06:03:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/kalmar-tar-tillbaka-titeln-har-sveriges-langsta-bank",
-   "desc": "Kampen om Sveriges längsta bänk fortsätter. Nu har Kalmar återtagit titeln från Hjo – efter att Gustav Vasa-bänken förlängts med nästan 30 meter. Den 299 meter långa bänken sträcker sig längs Kalmarsund och är nu längst i Sverige."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kebnekaises sydtopp fortsätter smälta",
-   "date": "2026-09-16T05:32:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kebnekaises-sydtopp-fortsatter-smalta-87p0yw",
-   "desc": "Kebnekaises sydtopp fortsätter att smälta, visar årets mätning."
+   "title": "Efter skadan – Dregen slutar i Hellacopters",
+   "date": "2026-09-16T11:38:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/dregen-slutar-i-hellacopters",
+   "desc": "Epoken Dregen i Hellacopters är över. Handskadan som Dregen ådrog sig för tre år sedan gör att han inte kan återvända till bandet."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Man i 20-årsåldern begärs häktad för dödsolyckan på Östermalm",
+   "title": "Kvinna påkörd på parkering",
+   "date": "2026-09-16T13:51:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-pakord-pa-parkering",
+   "desc": "En äldre kvinna ska ha blivit påkörd av en personbil på en parkeringsplats i Vallentuna. Räddningstjänst och ambulans är på plats och kvinnan vårdas av ambulanspersonal. Ambulanshelikopter är på väg. – Man har hittat en blödande person på gatan, säger Daniel Wikdahl, presstalesperson hos Polisen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt för barnvåldtäkt i Järfälla släppt – inte längre misstänkt",
+   "date": "2026-09-16T10:10:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-begars-haktad-for-barnvaldtakt-i-jarfalla",
+   "desc": "Den person som suttit anhållen misstänkt för grov våldtäkt mot barn i Järfälla har nu släppts. – Polisen har arbetat mycket intensivt med ärendet och efter att häktningsframställan skickades in har nya omständigheter framkommit som gör att jag inte längre betraktar personen som misstänkt. Jag har därför beslutat att försätta personen på fri fot, säger kammaråklagare Oskar Hedström."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Man i 20-årsåldern häktas för dödsolyckan på Östermalm",
    "date": "2026-09-16T07:50:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-i-20-arsaldern-begars-haktad-for-dodsolyckan-pa-ostermalm",
-   "desc": "Den man som suttit anhållen misstänkt för dödskraschen på Östermalm i helgen, där en kvinna i 55-årsåldern dog, begärs nu häktad."
+   "desc": "Den man som suttit anhållen misstänkt för dödskraschen på Östermalm i helgen, där en kvinna i 55-årsåldern dog, häktas."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-09-15T19:00:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-i-kollektivtrafiken-7k95vc",
    "desc": "Det blev stopp på tunnelbanans gröna linje i båda riktningar mellan Hagsätra och Stureby på tisdag kväll. Även stopp för pendeltågstrafiken mellan Älvsjö och Farsta strand."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 15 september",
-   "date": "2026-09-15T18:27:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-15-september-s9wqcl",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under tisdagen den 15 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "V ökade kraftigt i Järva – anklagas för desinformationskampanj",
-   "date": "2026-09-15T16:13:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/v-okade-kraftigt-i-jarva-anklagas-for-desinformationskampanj",
-   "desc": "Vänsterpartiet gjorde ett succéval i flera av landets utsatta områden, inte minst i Rinkeby där partiet samlade fler än hälften av rösterna i flera av valdistrikten. Samtidigt anklagar högersidan Vänsterpartiet för etniskt riktad desinformation. – Det har jag inte sett, säger Rashid Mohammed (V), ordförande i Järva stadsdelsnämnd."
   },
   {
    "src": "BBC",
