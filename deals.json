@@ -1,41 +1,41 @@
 {
- "updated": "2026-09-15T09:03:18.720Z",
+ "updated": "2026-09-16T08:55:37.548Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma",
+   "item": "Svenska äpplen Aroma, lösvikt",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Färsk kycklingfilé 900g",
+   "item": "Kycklingfilé Solna 900g",
    "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
-   "item": "Kantareller inhemska 250g",
+   "item": "Färsk chanterellsvamp 250g",
    "price": "39 kr",
    "url": "https://www.ica.se"
   },
   {
-   "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
-   "price": "49 kr",
-   "url": "https://www.ikea.com/se/sv/"
-  },
-  {
    "store": "Rusta",
-   "item": "Stormljus 6-pack",
-   "price": "29 kr",
+   "item": "Ljusslinga LED 10m utomhus",
+   "price": "79 kr",
    "url": "https://www.rusta.com/se"
   },
   {
+   "store": "IKEA",
+   "item": "Köttbullar 1kg fryst",
+   "price": "59 kr",
+   "url": "https://www.ikea.com/se/sv/"
+  },
+  {
    "store": "Lidl",
-   "item": "Rostbiff nöt 400g",
-   "price": "45 kr",
+   "item": "Pumpa Hokkaido styck",
+   "price": "15 kr",
    "url": "https://www.lidl.se"
   }
  ]
