@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-17T10:14:14.293Z",
+ "updated": "2026-09-17T15:09:23.003Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ninth woman's body found as South African police investigate string of deaths",
+   "date": "2026-09-17T13:44:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+   "desc": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ninth woman's body found as South African police investigate string of deaths",
-   "date": "2026-09-17T09:51:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-   "desc": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid."
+   "title": "Swedish PM Kristersson resigns after election loss",
+   "date": "2026-09-17T12:41:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+   "desc": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government."
   },
   {
    "src": "BBC",
@@ -34,52 +42,68 @@
    "desc": "Under the plans, only children over 15 would be able to set up their own social media accounts."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US interest rates raised for first time in three years",
-   "date": "2026-09-17T00:40:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-   "desc": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Svansar avklippta på hästar i Katrineholm och Vingåker – polisen utreder samband",
+   "date": "2026-09-17T14:05:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/flera-avklippta-svansar-och-djurplageri-polisen-utreder-samband",
+   "desc": "Sen årsskiftet har hästar i området kring Katrineholm och Vingåker mystiskt blivit klippta i både svansar och lugg. Ett tiotal polisanmälningar har gjorts och på Helena Strid Söderströms ridskola har även en häst blivit förgiftad."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Majblomman saknas helt i vissa kommuner – då får barnen inget stöd",
-   "date": "2026-09-17T10:00:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/majblomman-saknas-helt-i-vissa-kommuner-da-far-barnen-inget-stod",
-   "desc": "I Nybro och Emmaboda finns ingen lokal Majblommeföreningen. Det betyder att barn där inte kan ta del av det ekonomiskt stöd från Majblomman som till exempel delas ut i grannkommunen Lessebo. – Det är svårt att hitta volontärer som vill engagera sig, säger Fanny Rölander, volontäransvarig på Majblomman."
+   "title": "”Nytt för Ed Sheeran att befinna sig i skandal”",
+   "date": "2026-09-17T13:46:59.000Z",
+   "link": "https://www.svt.se/kultur/nytt-for-ed-sheeran-att-befinna-sig-i-skandal",
+   "desc": "Turerna kring de avhoppade förbanden till artisten Ed Sheeran blir allt fler. Musikjournalisten Natasha Azarmi tror att Sheerans ovilja att ta ställning har kostat honom."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Så blev hovrättsdomen mot 21-åringen som beställde mordbränder från Thailand",
-   "date": "2026-09-17T09:46:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sa-blev-hovrattsdomen-mot-21-aringen-som-bestallde-mordbrander-fran-thailand",
-   "desc": "I tingsrätten dömdes han till nio års fängelse för bland annat anstiftan av grov mordbrand och för att ha anlitat ungdomar att utföra brott. Han anses ligga bakom både en brand på Råslätt och på Liljeholmen. I hovrätten döms han nu också för anstiftan av en brand i Sävsjö under sommaren 2025, som han frikänts ifrån. De skärper straffet till tio års fängelse."
+   "title": "HV71 värvar NHL-forward i sista stund",
+   "date": "2026-09-17T12:24:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hv71-varvar-nhl-meriterad-forward-i-sista-stund",
+   "desc": "Med två dagar kvar till seriestarten har HV71 gjort klart med den slovakiske forwarden Pavol Regenda. – En stor och kraftfull spelare som kommer spetsa vår forwardssida, säger sportchefen Johan Hult i ett pressmedelande ."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här är favoriterna till att bli nästa kulturminister",
-   "date": "2026-09-17T09:37:54.000Z",
-   "link": "https://www.svt.se/kultur/har-ar-favoriterna-till-att-bli-nasta-kulturminister",
-   "desc": "SVT:s valprognos slår fast att oppositionen vinner valet. Det betyder att Sverige kan få en ny kulturminister i höst. Kulturnyheterna har bett kvällstidningarnas kulturchefer att gissa vem det kan bli."
+   "title": "Anställd på LVM-hem anmäls efter klagomål om gränslöst beteende",
+   "date": "2026-09-17T11:52:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/anstalld-pa-lvm-hem-anmals-efter-klagomal-om-granslost-beteende",
+   "desc": "Fyra klienter på ett LVM-hem i Jönköpings län har klagat på en anställd för gränslöst beteende. Ärendet gäller ofredande, sexuellt ofredande och möjlig åtalsanmälan."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Karolinska utreds – patienter behöver hjärttransplantation",
-   "date": "2026-09-17T08:29:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/karolinska-utreds-patienter-behover-hjarttransplantation",
-   "desc": "Efter att två patienters läkemedel förväxlades i samband med hjärtoperationer på Karolinska universitetssjukhuset ska nu Statens haverikommission utreda händelsen. Patienterna vårdas fortsatt på intensivvårdsavdelningen och kommer behöva hjärttransplantation."
+   "title": "Annika försökte förtidsrösta fem gånger – utan att lyckas: ”Ett problem”",
+   "date": "2026-09-17T11:36:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/annika-batsman-i-umea-forsokte-rosta-sex-ganger-innan-hon-lyckades",
+   "desc": "Annika Båtsman från Umeå försökte förtidsrösta fem gånger – men gav upp på grund av långa köer. Istället fick hon anlita barnvakt för att kunna stå i kö i timmar under valdagen. – Det var tydligt att det tog alldeles för lång tid, säger hon."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Så vill EU stoppa sociala medier för barn",
-   "date": "2026-09-17T08:11:38.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/sa-vill-eu-stoppa-sociala-medier-for-barn",
-   "desc": "Max en timme skärm om dagen för barn under 13 år – och inte på egna enheter. Så vill EU-kommissionen bygga sin 13-årsgräns på sociala medier."
+   "title": "Kvinnan pekades felaktigt ut för barnvåldtäkt i Järfälla: ”En fruktansvärd upplevelse”",
+   "date": "2026-09-17T14:30:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinnan-pekades-felaktigt-ut-for-barnvaldtakt-i-jarfalla-en-fruktansvard-upplevelse",
+   "desc": "Under onsdagen släpptes den kvinna som initialt misstänktes för grov våldtäkt mot barn i Järfälla efter att ha varit frihetsberövad i tre dagar. SVT har träffat en närstående till kvinnan. – Kvinnan känner sig tvungen att bo hos vänner på annan ort nu, berättar SVT:s reporter Jens Larsson"
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Här toppade partierna skolvalen: ”Moderaternas valsedlar tog slut”",
+   "date": "2026-09-17T12:17:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-toppade-partierna-skolvalen-moderaternas-valsedlar-tog-slut",
+   "desc": "När Stockholms gymnasieelever går till skolval är Moderaterna den givna favoriten. Men resultaten varierar mellan stadsdelarna och skolorna. SVT gör nedslag på tre olika skolor – som röster helt annorlunda."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Haninge kan få nytt styre",
+   "date": "2026-09-17T11:11:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/haninge-kan-fa-nytt-styre",
+   "desc": "Det kan bli maktskifte i Haninge. Både Moderaterna, som styrt tillsammans med Liberalerna och Kristdemokraterna, och Sverigedemokraterna, som stöttat Haningealliansens minoritetsstyre, har tappat två mandat var. – Min plan är att vi ska fortsätta i kommunledningen, säger kommunstyrelsens ordförande Sven Gustafsson (M)."
   },
   {
    "src": "STHLM",
@@ -98,28 +122,12 @@
    "desc": "En ny person är anhållen skäligen misstänkt för den grova våldtäkten i Järfälla, bekräftar åklagaren till SVT. I torsdags förra veckan utsattes ett barn för våldtäkt utomhus i Viksjö i Järfälla, norr om Stockholm. En person var först misstänkt men avskrevs från utredningen."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Fick rätt mot staten igen – skadeståndet dubblas",
-   "date": "2026-09-17T05:31:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fick-ratt-mot-staten-igen-skadestandet-dubblas",
-   "desc": "I vintras fick Ulla-Lena Lindqvist rätt i sin stämning mot staten efter nästan fyra års kamp mot skenskrivningar på hennes sommarstuga. Nu dubblar tingsrätten hennes skadestånd."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stopp på Lidingöbanan för andra dagen i rad",
-   "date": "2026-09-17T04:08:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-pa-lidingobanan",
-   "desc": "Det är stopp på Lidingöbanan mellan Ropsten och Baggeby under torsdagsmorgonen. Bussar ersätter på sträckan och prognos saknas för när trafiken är igång igen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 16 september",
-   "date": "2026-09-16T17:05:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-16-september-plbdc0",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under onsdagen den 16 september."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-17T14:24:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pb38sd?at_medium=RSS&at_campaign=rss",
+   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-09-15T13:30:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p9q0vg?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United boss Michael Carrick speaks ahead of the League Cup tie with Brighton."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-14T16:58:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p9lvlj?at_medium=RSS&at_campaign=rss",
-   "desc": "Gaz and Joe reflect on Manchester United's derby day defeat to Manchester City."
   }
  ]
 }
