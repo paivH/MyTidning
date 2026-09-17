@@ -1,13 +1,21 @@
 {
- "updated": "2026-09-17T00:02:30.146Z",
+ "updated": "2026-09-17T05:05:51.349Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US interest rates raised for first time in three years",
-   "date": "2026-09-16T22:16:51.000Z",
+   "date": "2026-09-17T00:40:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
    "desc": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+   "date": "2026-09-16T23:41:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+   "desc": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC."
   },
   {
    "src": "BBC",
@@ -21,17 +29,9 @@
    "src": "BBC",
    "section": "Världen",
    "title": "EU chief backs plan for Canada to become 'associate member'",
-   "date": "2026-09-16T12:36:51.000Z",
+   "date": "2026-09-17T00:32:05.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-   "desc": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-   "date": "2026-09-16T17:16:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year."
+   "desc": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal."
   },
   {
    "src": "BBC",
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Katastrofen i Nepal hade kunnat förutspås",
-   "date": "2026-09-16T23:06:30.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/katastrofen-i-nepal-hade-kunnat-forutspas",
-   "desc": "En jordbävning som drabbade Nepal 2015 kan ha varit en av faktorerna bakom det katastrofala raset i Himalaya – tillsammans med klimatförändringarna. Forskare menar att det går att förutse kommande katastrofer, men att det är svårt och dyrt."
+   "title": "Mjällbytränaren Andreas Brännströms känga till politikerna: ”Var tysta ett tag”",
+   "date": "2026-09-17T04:19:21.000Z",
+   "link": "https://www.svt.se/sport/fotboll/andreas-brannstroms-kanga-till-politikerna-var-tysta-ett-tag",
+   "desc": "Mjällbys tränare Andreas Brännström tänker inte bara på fotboll. På plattformen X tog han häromdagen till orda politiskt. – Man får några ”håll dig till fotboll din jävel”, säger han till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "USA öppnar för 100-procentiga tullar mot länder som köper rysk olja",
-   "date": "2026-09-16T22:32:13.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/usa-oppnar-for-100-procentiga-tullar-mot-lander-som-koper-rysk-olja",
-   "desc": "USA:s representanthus har röstat igenom ett lagförslag om skärpta sanktioner mot Ryssland. Lagen ger president Donald Trump möjlighet att införa tullar på upp till 100 procent mot länder som köper rysk olja och gas."
+   "title": "Så fick svenska regissören Oscarsnominerad stjärna i huvudrollen",
+   "date": "2026-09-17T03:30:02.000Z",
+   "link": "https://www.svt.se/kultur/sa-fick-svenska-regissoren-oscarsnominerad-stjarna-i-huvudrollen",
+   "desc": "Jonatan Etzlers andra långfilm ”Bad Apples” har Hollywoodstjärnan Saoirse Ronan i huvudrollen. Kulturnyheterna träffade honom och fick veta hur det gick till"
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man gripen i Grekland – kopplas till sprängning i Falkenberg",
-   "date": "2026-09-16T17:41:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/halland/man-gripen-i-grekland-kopplas-till-sprangning-i-falkenberg",
-   "desc": "En man som misstänks ha varit inblandad i flera dåd i Falkenberg 2024 har gripits i Grekland, rapporterar HN."
+   "title": "Leif Nixon om våldsbejakande innehåll på nätet – svårt att reglera",
+   "date": "2026-09-17T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/leif-nixon-om-valdsbejakande-innehall-pa-natet-svart-att-reglera",
+   "desc": "Leif Nixon, IT- och säkerhetsexpert, om våldsbejakande innehåll på nätet – därför räcker inte bara teknik eller åldersgränser."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man omkom i traktorolycka i Kramfors",
-   "date": "2026-09-16T17:11:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/man-omkom-i-traktorolycka-i-kramfors",
-   "desc": "En man i 70-årsåldern i Kramfors kommun har omkommit efter att ha blivit fastklämd under en traktor under onsdagen. – Vi åkte dit och samlade in information och kom fram till att det handlade om en olycka, säger polisens presstalesperson Elisabeth Glaas."
+   "title": "Allt fler får hudcancer – se när reportern kollar upp en leverfläck",
+   "date": "2026-09-17T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/allt-fler-far-hudcancer-se-nar-reportern-kollar-upp-en-leverflack",
+   "desc": "På åtta år har fallen av malignt melanom ökat med 126 procent i Sörmland, enligt preliminära siffror från Region Sörmland. Ökningen märks också i vården, som tvingats ändra sina rutiner för att hantera fler patienter som behöver opereras."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "SVT:s prognos: Hoppet ute för Tidöpartierna",
-   "date": "2026-09-16T16:29:54.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/svts-prognos-hoppet-ute-for-tidopartierna",
-   "desc": "Hoppet är ute för Tidöpartierna att nå majoritet i riksdagsvalet 2026. Det enligt SVT:s Valprognos. – Sannolikheten för en vändning i det här läget är så låg att vi vågar slå fast att oppositionen får flest mandat i det här valet, säger SVT:s reporter Fouad Youcefi."
+   "title": "Här får patienter gratis terapi – av studenter i Luleå",
+   "date": "2026-09-17T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-far-patienter-gratis-terapi-av-studenter-i-lulea",
+   "desc": "Just nu förbereds för att studenterna vid Norrbottens första psykologutbildning ska kunna ta emot egna patienter. På sikt ska en helt ny mottagning öppnas vid Luleå tekniska universitet (LTU)."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Stopp på Lidingöbanan för andra dagen i rad",
+   "date": "2026-09-17T04:08:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-pa-lidingobanan",
+   "desc": "Det är stopp på Lidingöbanan mellan Ropsten och Baggeby under torsdagsmorgonen. Bussar ersätter på sträckan och prognos saknas för när trafiken är igång igen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-16T10:10:31.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-begars-haktad-for-barnvaldtakt-i-jarfalla",
    "desc": "Den person som suttit anhållen misstänkt för grov våldtäkt mot barn i Järfälla har nu släppts. – Polisen har arbetat mycket intensivt med ärendet och efter att häktningsframställan skickades in har nya omständigheter framkommit som gör att jag inte längre betraktar personen som misstänkt. Jag har därför beslutat att försätta personen på fri fot, säger kammaråklagare Oskar Hedström."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man i 20-årsåldern häktad för dödsolyckan på Östermalm",
-   "date": "2026-09-16T07:50:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-i-20-arsaldern-begars-haktad-for-dodsolyckan-pa-ostermalm",
-   "desc": "Den man som suttit anhållen misstänkt för dödskraschen på Östermalm i helgen, där en kvinna i 55-årsåldern dog, häktas."
   },
   {
    "src": "BBC",
