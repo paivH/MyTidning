@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T08:55:37.548Z",
+ "updated": "2026-09-17T09:00:13.026Z",
  "verified": false,
  "deals": [
   {
@@ -9,34 +9,34 @@
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Kycklingfilé Solna 900g",
-   "price": "59 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
    "store": "ICA",
-   "item": "Färsk chanterellsvamp 250g",
-   "price": "39 kr",
+   "item": "Kycklingfilé Kronfågel 900g",
+   "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Rusta",
-   "item": "Ljusslinga LED 10m utomhus",
-   "price": "79 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Färsk laxfilé 400g",
+   "price": "49 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Champinjoner 500g",
+   "price": "15 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
+   "item": "Köttbullar 1kg, fryst",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Lidl",
-   "item": "Pumpa Hokkaido styck",
-   "price": "15 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Utegrill i rea inför hösten",
+   "price": "299 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
