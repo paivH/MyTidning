@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-16T21:30:47.650Z",
+ "updated": "2026-09-17T00:02:30.146Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US interest rates raised for first time in three years",
-   "date": "2026-09-16T21:02:11.000Z",
+   "date": "2026-09-16T22:16:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday."
+   "desc": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut."
   },
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Katastrofen i Nepal hade kunnat förutspås",
+   "date": "2026-09-16T23:06:30.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/katastrofen-i-nepal-hade-kunnat-forutspas",
+   "desc": "En jordbävning som drabbade Nepal 2015 kan ha varit en av faktorerna bakom det katastrofala raset i Himalaya – tillsammans med klimatförändringarna. Forskare menar att det går att förutse kommande katastrofer, men att det är svårt och dyrt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "USA öppnar för 100-procentiga tullar mot länder som köper rysk olja",
+   "date": "2026-09-16T22:32:13.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/usa-oppnar-for-100-procentiga-tullar-mot-lander-som-koper-rysk-olja",
+   "desc": "USA:s representanthus har röstat igenom ett lagförslag om skärpta sanktioner mot Ryssland. Lagen ger president Donald Trump möjlighet att införa tullar på upp till 100 procent mot länder som köper rysk olja och gas."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Man gripen i Grekland – kopplas till sprängning i Falkenberg",
    "date": "2026-09-16T17:41:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/halland/man-gripen-i-grekland-kopplas-till-sprangning-i-falkenberg",
@@ -64,22 +80,6 @@
    "date": "2026-09-16T16:29:54.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/svts-prognos-hoppet-ute-for-tidopartierna",
    "desc": "Hoppet är ute för Tidöpartierna att nå majoritet i riksdagsvalet 2026. Det enligt SVT:s Valprognos. – Sannolikheten för en vändning i det här läget är så låg att vi vågar slå fast att oppositionen får flest mandat i det här valet, säger SVT:s reporter Fouad Youcefi."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Brutala siffrorna för Liberalerna: Tappar i nästan hela Västsverige",
-   "date": "2026-09-16T15:37:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/brutala-siffrorna-for-liberalerna-tappar-i-nastan-hela-vastsverige",
-   "desc": "En bred och tydlig försvagning – över i princip hela Västra Götaland. Så ser det ut för Liberalerna i kommunvalen där partiet tappat i 42 av 49 kommuner och åker ur fullmäktige i 8. – Vi behöver samlas och tillsammans titta framåt på detta, säger Joakim Tångeskog-Broström, ordförande för Liberalerna i Mölndal, en av kommunerna där partiet backat mest."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Dömde mannen överklagar Brattåsdomen till hovrätten",
-   "date": "2026-09-16T15:28:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/klart-domde-mannen-overklagar-brattasdomen",
-   "desc": "Mannen som dömdes till medhjälp för två mord i Brattås 2005 har överklagat domen. Nu väntar en förhandling i hovrätten. – Hovrätten i Sundsvall håller på att planera huvudförhandlingen, jag gissar på att det blir i mitten av oktober, säger mannens advokat Johan Lavås."
   },
   {
    "src": "STHLM",
