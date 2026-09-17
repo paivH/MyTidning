@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-17T15:09:23.003Z",
+ "updated": "2026-09-17T19:09:21.746Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Canada welcomes EU proposal to become 'associate member'",
+   "date": "2026-09-17T12:27:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\"."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,34 +20,58 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-   "date": "2026-09-17T05:00:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims."
+   "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+   "date": "2026-09-17T15:07:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-   "date": "2026-09-17T08:22:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\"."
+   "title": "Hyrox athlete apologises for continuing race after soiling herself",
+   "date": "2026-09-17T15:05:13.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+   "desc": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Swedish PM Kristersson resigns after election loss",
-   "date": "2026-09-17T12:41:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-   "desc": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government."
+   "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+   "date": "2026-09-17T17:08:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+   "desc": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "EU announces plan to restrict social media access for under-15s",
-   "date": "2026-09-17T10:00:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Under the plans, only children over 15 would be able to set up their own social media accounts."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Låt mig få se min dotter” – pappa misstänks ha fört flicka till Syrien",
+   "date": "2026-09-17T17:27:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lat-mig-fa-se-min-dotter-pappa-misstanks-ha-fort-flicka-till-syrien",
+   "desc": "”Låt mig få se min dotter”. En mamma i Nässjö kommun vädjar till sin exman i ett videosamtal. Han misstänks ha fört deras dotter till Syrien. Sedan dess har hon kämpat för att få hem sitt barn. Nu faller domen mot pappan som står åtalad för grov egenmäktighet med barn."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Myndigheten varnar för TikTok-trend med klämleksaken squishy",
+   "date": "2026-09-17T15:36:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/myndigheten-varnar-for-tiktok-trend-med-klamleksamken-squishies",
+   "desc": "Kemikalieinspektionen och Konsumentverket varnar för den nya trenden att värma den populära klämleksaken squishy i mikron. – Ja, jag kommer fortsätta använda den men inte sätta den i mikron, säger Vide Klintheim, 12 år."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Mälarenergi gör sig av med 40 tjänster – och tillsätter åtta nya",
+   "date": "2026-09-17T15:25:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/malarenergi-gor-sig-av-med-40-tjanster-och-tillsatter-atta-nya",
+   "desc": "Trots en vinst på över en halv miljard förra året ska 40 tjänster försvinna från Mälarenergi. Samtidigt tillsätter de åtta nya tjänster. – Det hänger ihop med en kompentesväxling som vi behöver, säger Henrik Holm, chef för affärsområdet Kraft & Värme."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flera till sjukhus efter incident på skjutfält utanför Karlsborg",
+   "date": "2026-09-17T15:25:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-pa-skjutfalt-utanfor-karlsborg",
+   "desc": "Fem personer vårdas på intensiven efter vad Försvarsmakten kallar för ”en incident” på Kråks skjutfält utanför Karlsborg. Larmet ska ha kommit in som en explosion. Totalt sju personer fördes till sjukhus, bekräftar Skaraborgs sjukhus för SVT."
   },
   {
    "src": "SVT",
@@ -50,36 +82,12 @@
    "desc": "Sen årsskiftet har hästar i området kring Katrineholm och Vingåker mystiskt blivit klippta i både svansar och lugg. Ett tiotal polisanmälningar har gjorts och på Helena Strid Söderströms ridskola har även en häst blivit förgiftad."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "”Nytt för Ed Sheeran att befinna sig i skandal”",
-   "date": "2026-09-17T13:46:59.000Z",
-   "link": "https://www.svt.se/kultur/nytt-for-ed-sheeran-att-befinna-sig-i-skandal",
-   "desc": "Turerna kring de avhoppade förbanden till artisten Ed Sheeran blir allt fler. Musikjournalisten Natasha Azarmi tror att Sheerans ovilja att ta ställning har kostat honom."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "HV71 värvar NHL-forward i sista stund",
-   "date": "2026-09-17T12:24:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hv71-varvar-nhl-meriterad-forward-i-sista-stund",
-   "desc": "Med två dagar kvar till seriestarten har HV71 gjort klart med den slovakiske forwarden Pavol Regenda. – En stor och kraftfull spelare som kommer spetsa vår forwardssida, säger sportchefen Johan Hult i ett pressmedelande ."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Anställd på LVM-hem anmäls efter klagomål om gränslöst beteende",
-   "date": "2026-09-17T11:52:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/anstalld-pa-lvm-hem-anmals-efter-klagomal-om-granslost-beteende",
-   "desc": "Fyra klienter på ett LVM-hem i Jönköpings län har klagat på en anställd för gränslöst beteende. Ärendet gäller ofredande, sexuellt ofredande och möjlig åtalsanmälan."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Annika försökte förtidsrösta fem gånger – utan att lyckas: ”Ett problem”",
-   "date": "2026-09-17T11:36:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/annika-batsman-i-umea-forsokte-rosta-sex-ganger-innan-hon-lyckades",
-   "desc": "Annika Båtsman från Umeå försökte förtidsrösta fem gånger – men gav upp på grund av långa köer. Istället fick hon anlita barnvakt för att kunna stå i kö i timmar under valdagen. – Det var tydligt att det tog alldeles för lång tid, säger hon."
+   "title": "Nyheter från dagen: 17 september",
+   "date": "2026-09-17T17:36:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-17-september-dmfgvj",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdagen den 17 september."
   },
   {
    "src": "STHLM",
@@ -114,14 +122,6 @@
    "desc": "Efter att två patienters läkemedel förväxlades i samband med hjärtoperationer på Karolinska universitetssjukhuset ska nu Statens haverikommission utreda händelsen. Patienterna vårdas fortsatt på intensivvårdsavdelningen och kommer behöva hjärttransplantation."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Ny person anhållen för grov våldtäkt mot barn i Järfälla",
-   "date": "2026-09-17T08:05:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ny-person-misstankt-for-valdtakt-mot-barn-i-jarfalla",
-   "desc": "En ny person är anhållen skäligen misstänkt för den grova våldtäkten i Järfälla, bekräftar åklagaren till SVT. I torsdags förra veckan utsattes ett barn för våldtäkt utomhus i Viksjö i Järfälla, norr om Stockholm. En person var först misstänkt men avskrevs från utredningen."
-  },
-  {
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
@@ -141,17 +141,17 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
-   "date": "2026-09-15T15:25:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p9r2fn?at_medium=RSS&at_campaign=rss",
-   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
+   "date": "2026-09-15T13:30:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p9q0vg?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United boss Michael Carrick speaks ahead of the League Cup tie with Brighton."
   },
   {
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
-   "date": "2026-09-15T13:30:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p9q0vg?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United boss Michael Carrick speaks ahead of the League Cup tie with Brighton."
+   "date": "2026-09-14T16:58:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p9lvlj?at_medium=RSS&at_campaign=rss",
+   "desc": "Gaz and Joe reflect on Manchester United's derby day defeat to Manchester City."
   }
  ]
 }
