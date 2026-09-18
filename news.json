@@ -1,6 +1,22 @@
 {
- "updated": "2026-09-18T05:30:46.594Z",
+ "updated": "2026-09-18T10:29:33.302Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Three dead and eight injured in Philippines school shooting",
+   "date": "2026-09-18T10:04:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+   "desc": "The gunman is among the dead in what is the third school shooting in the country since June."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "At least 16 killed in attack on mosque in Pakistan",
+   "date": "2026-09-18T10:13:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+   "desc": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official told the BBC."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -26,60 +42,60 @@
    "desc": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-   "date": "2026-09-17T21:41:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-   "desc": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-   "date": "2026-09-17T17:08:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-   "desc": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Högersidan bildar majoritetsstyre i Södertälje",
+   "date": "2026-09-18T09:46:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/hogersidan-bildar-majoritetsstyre-i-sodertalje",
+   "desc": "Efter 36 år tappar nu Socialdemokraterna makten i Södertälje. Ett högerstyre bestående av Realistpartiet, Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna kliver fram och bildar en majoritet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt mord i Osby – en anhållen",
-   "date": "2026-09-18T04:49:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-mord-i-osby-en-gripen",
-   "desc": "En man i Osby greps under torsdagskvällen efter att en person hittats död i en bostad. Polisen utreder händelsen som mord."
+   "title": "Åkessons (SD) attack mot V och S: Mobiliserat islamistiska väljare",
+   "date": "2026-09-18T09:23:06.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/jimmie-akessons-sd-attack-mot-v-ingen-normal-manniska-rostar-pa-ett-sadant-parti",
+   "desc": "Sverigedemokraterna backade tydligt och Vänsterpartiet gick framåt. Islamister ligger bakom V-ökningen i riksdagsvalet, påstår SD-ledaren Jimmie Åkesson."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stora valskrällen – Moderaternas frammarsch på landsbygden",
-   "date": "2026-09-18T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/stora-valskrallen-moderaternas-frammarsch-pa-landsbygden",
-   "desc": "På riksplanet ser Moderaterna ut att förlora makten, men på landsbygden gör partiet succé – inte minst i Östergötland. Här går partiet starkt framåt på flera håll. – Moderaterna har haft väldigt starka företrädare lokalt, säger Teodor Johansson (M)."
+   "title": "Hovrätten fastställer domen mot fyra Lundsbergselever",
+   "date": "2026-09-18T09:05:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/hovratten-faststaller-domen-mot-fyra-lundsbergselever",
+   "desc": "Hovrätten för västra Sverige fastställer nu till stora delar domen mot de fyra Lundsbergselever som i vintras dömdes för misshandel av fyra yngre elever på skolan."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här testar hemvärnet nya metoder mot framtidens fiende",
-   "date": "2026-09-18T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/har-testar-hemvarnet-nya-metoder-mot-framtidens-fiende",
-   "desc": "Efter ukrainsk modell experimenterar hemvärnet med nya sätt att försvara landet: Småskalig improvisation. Just nu övar soldater med egentillverkade sensorer mot spelade angripare i Södertälje. – Vi försöker ligga i framkant. Teknikutvecklingen är så snabb så vi behöver hitta nya system, säger Magnus Sjölund, chef vid hemvärnets stridsskola."
+   "title": "Tyska förband förstärker Gotland i Nato-operation",
+   "date": "2026-09-18T08:48:18.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/tyska-forband-forstarker-gotland-i-nato-operation",
+   "desc": "Tyska förband rullar i dag in på Gotland i en förstärkningsoperation tillsammans med svenska Försvarsmakten. Operationen är ett test av Natos planer för hur ön ska försvaras. – Det här är ingen vanlig övning. Operationen genomförs på riktigt och styrkorna skyddar transporten med riktiga vapen., säger Manne Fagerström på Försvarsmaktens operationsledning."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter fjolårets tumult – polisen rustar inför Färjestads premiär i Karlstad",
-   "date": "2026-09-18T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/efter-fjolarets-tumult-polisen-rustar-infor-farjestads-premiar-i-karlstad",
-   "desc": "Polisen rustar inför Färjestads premiär i Karlstad efter fjolårets tumult. Kameror ska hjälpa myndigheten att hålla ordning i år."
+   "title": "Skola, varg och kärnkraft driver Centerpartiet i Söderköping och Valdemarsvik",
+   "date": "2026-09-18T08:23:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/skola-varg-och-karnkraft-driver-centerpartiet-i-soderkoping-och-valdemarsvik",
+   "desc": "Centerpartiet gick blygsamt framåt i riksdagsvalet, men i Östergötland har partiet i flera kommuner starkt fäste och fortsätter ta mark."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Recension: ”Tony” av Matt Johnson",
-   "date": "2026-09-18T03:30:07.000Z",
-   "link": "https://www.svt.se/kultur/recension-tony-av-matt-johnson",
-   "desc": ""
+   "title": "Klart: Socialdemokraterna återtar makten i Botkyrka",
+   "date": "2026-09-18T10:01:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nytt-politiskt-majoritetsstyre-i-botkyrka",
+   "desc": "Socialdemokraterna återtar makten i Botkyrka kommun. Under fredagen meddelar partiet att man kommit överens med tre andra partier för att bilda det nya styret."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Här förlorar Riddarholmskyrkan sitt kors: ”Nervöst”",
+   "date": "2026-09-18T07:18:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-forlorar-riddarholmskyrkan-sitt-kors-nervost",
+   "desc": "På grund av farliga gifter kräver lagen att Riddarholmskyrkans spira renoveras. I klippet ser du när personal i skyddsutrustning tar sig 90 meter upp för att lossa och vira ner korset som toppar spiran. – Det är nervöst, jag har fjärilar i magen, säger Viktor Axelsson Banck, projektägare på Statens fastighetsverk."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-09-17T12:17:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-toppade-partierna-skolvalen-moderaternas-valsedlar-tog-slut",
    "desc": "När Stockholms gymnasieelever går till skolval är Moderaterna den givna favoriten. Men resultaten varierar mellan stadsdelarna och skolorna. SVT gör nedslag på tre olika skolor – som röster helt annorlunda."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Haninge kan få nytt styre",
-   "date": "2026-09-17T11:11:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/haninge-kan-fa-nytt-styre",
-   "desc": "Det kan bli maktskifte i Haninge. Både Moderaterna, som styrt tillsammans med Liberalerna och Kristdemokraterna, och Sverigedemokraterna, som stöttat Haningealliansens minoritetsstyre, har tappat två mandat var. – Min plan är att vi ska fortsätta i kommunledningen, säger kommunstyrelsens ordförande Sven Gustafsson (M)."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Karolinska utreds – patienter behöver hjärttransplantation",
-   "date": "2026-09-17T08:29:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/karolinska-utreds-patienter-behover-hjarttransplantation",
-   "desc": "Efter att två patienters läkemedel förväxlades i samband med hjärtoperationer på Karolinska universitetssjukhuset ska nu Statens haverikommission utreda händelsen. Patienterna vårdas fortsatt på intensivvårdsavdelningen och kommer behöva hjärttransplantation."
   },
   {
    "src": "BBC",
