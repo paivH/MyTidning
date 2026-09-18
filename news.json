@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-18T14:36:40.236Z",
+ "updated": "2026-09-18T18:02:18.864Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-   "date": "2026-09-18T14:02:09.000Z",
+   "date": "2026-09-18T15:14:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
    "desc": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
   },
@@ -36,10 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
-   "date": "2026-09-18T11:39:11.000Z",
+   "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+   "date": "2026-09-18T17:31:30.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-   "desc": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says."
+   "desc": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Det finns sprickor i maktens fasad”",
+   "date": "2026-09-18T17:07:37.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/det-finns-sprickor-i-maktens-fasad",
+   "desc": "Ryssland går till val. Det är representanterna till parlamentets underhus, statsduman, som ska väljas för första gången sedan det fullskaliga kriget inleddes. Duman stiftar lagar och beslutar om budget – men Ryssland är ingen fungerande demokrati och det här är inte heller något fritt val. Trots det finns det ändå några saker som kan vara bra att hålla koll på."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Chocken på kyrkogården: Charlies pappas grav vandaliserades",
+   "date": "2026-09-18T15:35:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/chocken-pa-kyrkogarden-charlies-pappas-grav-vandaliserades",
+   "desc": "Kyrkogården i Mariefred har sedan början sommaren utsatts för vandalism. 16-årige Charlie möttes av en gravsten som delats mitt itu när han kom för att minnas sin pappa. – Det känns sjukt, säger han."
   },
   {
    "src": "SVT",
@@ -66,28 +82,20 @@
    "desc": "Åklagaren har lagt ner förundersökningen om misstänkt grov mordbrand efter radhusbranden i Arboga."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Pappa tog dottern till Syrien – döms till fängelse",
-   "date": "2026-09-18T12:08:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/pappan-misstanks-ha-fort-dottern-till-syrien-nu-faller-domen",
-   "desc": "Den man som åtalats för att fört sin dotter till Syrien döms till fängelse i ett år och nio månader. Han ska också betala skadestånd till flickan på 85 000 kronor."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ung person anhållen i Nyköping: Misstänkt för förberedelse till mord",
-   "date": "2026-09-18T11:59:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/ung-person-anhallen-i-nykoping-misstankt-for-forberedelse-till-mord",
-   "desc": "En ung person greps i Nyköping under torsdagen och har nu anhållits misstänkt för förberedelse till mord, det uppger kammaråklagare Emilia Calmtorp. – Det stämmer att vi har en person anhållen på den rubriceringen."
+   "title": "Nyheter från dagen: 18 september",
+   "date": "2026-09-18T17:40:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-18-september-hhsk92",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 18 september."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "En person begärd häktad för grov våldtäkt mot barn i Järfälla",
+   "title": "En person häktas misstänkt för grov våldtäkt mot barn i Järfälla",
    "date": "2026-09-18T11:46:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/ny-person-begard-haktad-for-grov-valdtakt-mot-barn-i-jarfalla",
-   "desc": "Den person som suttit anhållen sedan i onsdags, misstänkt för barnvåldtäkten i Järfälla, har nu begärts häktad."
+   "desc": "Den person som suttit anhållen sedan i onsdags, misstänkt för barnvåldtäkten i Järfälla, har nu häktats."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "På grund av farliga gifter kräver lagen att Riddarholmskyrkans spira renoveras. I klippet ser du när personal i skyddsutrustning tar sig 90 meter upp för att lossa och vira ner korset som toppar spiran. – Det är nervöst, jag har fjärilar i magen, säger Viktor Axelsson Banck, projektägare på Statens fastighetsverk."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 17 september",
-   "date": "2026-09-17T17:36:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-17-september-dmfgvj",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdagen den 17 september."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-18T16:06:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pbc1cl?at_medium=RSS&at_campaign=rss",
+   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   },
   {
    "src": "BBC",
@@ -135,14 +143,6 @@
    "title": "Manchester United",
    "date": "2026-09-17T14:24:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0pb38sd?at_medium=RSS&at_campaign=rss",
-   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-16T14:51:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p9wz01?at_medium=RSS&at_campaign=rss",
    "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   },
   {
