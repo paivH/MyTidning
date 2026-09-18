@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T09:00:13.026Z",
+ "updated": "2026-09-18T08:35:10.550Z",
  "verified": false,
  "deals": [
   {
@@ -9,34 +9,34 @@
    "url": "https://www.ica.se"
   },
   {
+   "store": "Lidl",
+   "item": "Kycklingfilé färsk 1kg",
+   "price": "59 kr/kg",
+   "url": "https://www.lidl.se"
+  },
+  {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
-   "price": "59 kr",
+   "item": "Färsk laxfilé, Norge",
+   "price": "89 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Färsk laxfilé 400g",
-   "price": "49 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Champinjoner 500g",
-   "price": "15 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Krukväxter för hösten, div sorter",
+   "price": "39 kr/st",
+   "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg, fryst",
-   "price": "59 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Rusta",
-   "item": "Utegrill i rea inför hösten",
-   "price": "299 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Rotfrukter, morötter 2kg",
+   "price": "15 kr",
+   "url": "https://www.lidl.se"
   }
  ]
 }
