@@ -1,29 +1,37 @@
 {
- "updated": "2026-09-18T18:02:18.864Z",
+ "updated": "2026-09-18T21:05:35.162Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-   "date": "2026-09-18T15:14:35.000Z",
+   "date": "2026-09-18T18:04:38.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
    "desc": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Three dead and eight injured in Philippines school shooting",
-   "date": "2026-09-18T11:01:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-   "desc": "The gunman is among the dead in what is the third school shooting in the country since June."
+   "title": "Trump says he is banning CNN and Politico from White House",
+   "date": "2026-09-18T20:47:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president has had a tense and fiery relationship with the US media throughout his political career."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Police begin operation to move migrants from Ceuta beaches",
-   "date": "2026-09-18T11:59:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site."
+   "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+   "date": "2026-09-18T18:56:17.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+   "desc": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+   "date": "2026-09-18T20:17:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+   "desc": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
   },
   {
    "src": "BBC",
@@ -34,12 +42,12 @@
    "desc": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-   "date": "2026-09-18T17:31:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-   "desc": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Mystiska spåren efter spionmisstänkta svenskarna",
+   "date": "2026-09-18T20:51:18.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/mystiska-sparen-efter-spionmisstankta-svenskarna",
+   "desc": "Två svenska män i 40-årsåldern misstänks för spioneri i Finland. Männen har kopplingar till ett offshorebolag på Brittiska Jungfruöarna – men har i övrigt lämnat få offentliga spår efter sig."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-18T13:21:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/smaland/stod-felparkerad-i-ett-ar-nu-har-skrotbilen-pa-olandska-alvaret-flyttats",
    "desc": "Både kommunen och markägaren ville få bort bilen som riskerade att skada miljön på Alvaret på södra Öland. Men en krånglig process satte stopp. Nu har de hittat lösningen – en röd lapp."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ingen misstänks för brott efter radhusbranden i Arboga",
-   "date": "2026-09-18T13:16:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/ingen-misstanks-for-brott-efter-radhusbranden-i-arboga",
-   "desc": "Åklagaren har lagt ner förundersökningen om misstänkt grov mordbrand efter radhusbranden i Arboga."
   },
   {
    "src": "STHLM",
