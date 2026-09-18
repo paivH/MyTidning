@@ -1,85 +1,101 @@
 {
- "updated": "2026-09-18T10:29:33.302Z",
+ "updated": "2026-09-18T14:36:40.236Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+   "date": "2026-09-18T14:02:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+   "desc": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Three dead and eight injured in Philippines school shooting",
-   "date": "2026-09-18T10:04:43.000Z",
+   "date": "2026-09-18T11:01:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
    "desc": "The gunman is among the dead in what is the third school shooting in the country since June."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 16 killed in attack on mosque in Pakistan",
-   "date": "2026-09-18T10:13:02.000Z",
+   "title": "Police begin operation to move migrants from Ceuta beaches",
+   "date": "2026-09-18T11:59:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+   "date": "2026-09-18T11:49:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+   "desc": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+   "date": "2026-09-18T11:39:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-   "desc": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official told the BBC."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Canada welcomes EU proposal to become 'associate member'",
-   "date": "2026-09-17T12:27:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ninth woman's body found as South African police investigate string of deaths",
-   "date": "2026-09-17T13:44:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-   "desc": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-   "date": "2026-09-17T20:34:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
+   "desc": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Högersidan bildar majoritetsstyre i Södertälje",
-   "date": "2026-09-18T09:46:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/hogersidan-bildar-majoritetsstyre-i-sodertalje",
-   "desc": "Efter 36 år tappar nu Socialdemokraterna makten i Södertälje. Ett högerstyre bestående av Realistpartiet, Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna kliver fram och bildar en majoritet."
+   "title": "Stillastående lastbil stoppade trafiken på E4",
+   "date": "2026-09-18T13:38:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/stopp-pa-e4-lastbil-stillastaende",
+   "desc": "Det var under fredagseftermiddagen stor påverkan på trafiken på E4 från trafikplats Norsholm till Linköping då en lastbil blev stående, efter att ett däck exploderat."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Åkessons (SD) attack mot V och S: Mobiliserat islamistiska väljare",
-   "date": "2026-09-18T09:23:06.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/jimmie-akessons-sd-attack-mot-v-ingen-normal-manniska-rostar-pa-ett-sadant-parti",
-   "desc": "Sverigedemokraterna backade tydligt och Vänsterpartiet gick framåt. Islamister ligger bakom V-ökningen i riksdagsvalet, påstår SD-ledaren Jimmie Åkesson."
+   "title": "Stod felparkerad i ett år – nu har skrotbilen på öländska Alvaret flyttats",
+   "date": "2026-09-18T13:21:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/stod-felparkerad-i-ett-ar-nu-har-skrotbilen-pa-olandska-alvaret-flyttats",
+   "desc": "Både kommunen och markägaren ville få bort bilen som riskerade att skada miljön på Alvaret på södra Öland. Men en krånglig process satte stopp. Nu har de hittat lösningen – en röd lapp."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hovrätten fastställer domen mot fyra Lundsbergselever",
-   "date": "2026-09-18T09:05:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/hovratten-faststaller-domen-mot-fyra-lundsbergselever",
-   "desc": "Hovrätten för västra Sverige fastställer nu till stora delar domen mot de fyra Lundsbergselever som i vintras dömdes för misshandel av fyra yngre elever på skolan."
+   "title": "Ingen misstänks för brott efter radhusbranden i Arboga",
+   "date": "2026-09-18T13:16:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/ingen-misstanks-for-brott-efter-radhusbranden-i-arboga",
+   "desc": "Åklagaren har lagt ner förundersökningen om misstänkt grov mordbrand efter radhusbranden i Arboga."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tyska förband förstärker Gotland i Nato-operation",
-   "date": "2026-09-18T08:48:18.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/tyska-forband-forstarker-gotland-i-nato-operation",
-   "desc": "Tyska förband rullar i dag in på Gotland i en förstärkningsoperation tillsammans med svenska Försvarsmakten. Operationen är ett test av Natos planer för hur ön ska försvaras. – Det här är ingen vanlig övning. Operationen genomförs på riktigt och styrkorna skyddar transporten med riktiga vapen., säger Manne Fagerström på Försvarsmaktens operationsledning."
+   "title": "Pappa tog dottern till Syrien – döms till fängelse",
+   "date": "2026-09-18T12:08:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/pappan-misstanks-ha-fort-dottern-till-syrien-nu-faller-domen",
+   "desc": "Den man som åtalats för att fört sin dotter till Syrien döms till fängelse i ett år och nio månader. Han ska också betala skadestånd till flickan på 85 000 kronor."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Skola, varg och kärnkraft driver Centerpartiet i Söderköping och Valdemarsvik",
-   "date": "2026-09-18T08:23:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/skola-varg-och-karnkraft-driver-centerpartiet-i-soderkoping-och-valdemarsvik",
-   "desc": "Centerpartiet gick blygsamt framåt i riksdagsvalet, men i Östergötland har partiet i flera kommuner starkt fäste och fortsätter ta mark."
+   "title": "Ung person anhållen i Nyköping: Misstänkt för förberedelse till mord",
+   "date": "2026-09-18T11:59:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/ung-person-anhallen-i-nykoping-misstankt-for-forberedelse-till-mord",
+   "desc": "En ung person greps i Nyköping under torsdagen och har nu anhållits misstänkt för förberedelse till mord, det uppger kammaråklagare Emilia Calmtorp. – Det stämmer att vi har en person anhållen på den rubriceringen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "En person begärd häktad för grov våldtäkt mot barn i Järfälla",
+   "date": "2026-09-18T11:46:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ny-person-begard-haktad-for-grov-valdtakt-mot-barn-i-jarfalla",
+   "desc": "Den person som suttit anhållen sedan i onsdags, misstänkt för barnvåldtäkten i Järfälla, har nu begärts häktad."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Här styr ”kartellpartierna” – har gemensam vision",
+   "date": "2026-09-18T11:08:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-styr-kartellpartierna-har-gemensam-vision",
+   "desc": "I Sundbyberg har Socialdemokraterna, Vänsterpartiet, Miljöpartiet och Centerpartiet styrt tillsammans den senaste mandatperioden, det vill säga samma styre som diskuteras på nationell nivå. – Det handlar om hur villig man är att gå in i ett samarbete med problemlösning i fokus, säger Towe Bengtsson (V), kommunalråd."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdagen den 17 september."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinnan pekades felaktigt ut för barnvåldtäkt i Järfälla: ”En fruktansvärd upplevelse”",
-   "date": "2026-09-17T14:30:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinnan-pekades-felaktigt-ut-for-barnvaldtakt-i-jarfalla-en-fruktansvard-upplevelse",
-   "desc": "Under onsdagen släpptes den kvinna som initialt misstänktes för grov våldtäkt mot barn i Järfälla efter att ha varit frihetsberövad i tre dagar. SVT har träffat en närstående till kvinnan. – Kvinnan känner sig tvungen att bo hos vänner på annan ort nu, berättar SVT:s reporter Jens Larsson"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här toppade partierna skolvalen: ”Moderaternas valsedlar tog slut”",
-   "date": "2026-09-17T12:17:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-toppade-partierna-skolvalen-moderaternas-valsedlar-tog-slut",
-   "desc": "När Stockholms gymnasieelever går till skolval är Moderaterna den givna favoriten. Men resultaten varierar mellan stadsdelarna och skolorna. SVT gör nedslag på tre olika skolor – som röster helt annorlunda."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-18T13:56:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pbb4vf?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd head coach Michael Carrick says he hates losing games."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-09-15T13:30:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0p9q0vg?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United boss Michael Carrick speaks ahead of the League Cup tie with Brighton."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-14T16:58:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p9lvlj?at_medium=RSS&at_campaign=rss",
-   "desc": "Gaz and Joe reflect on Manchester United's derby day defeat to Manchester City."
   }
  ]
 }
