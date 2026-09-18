@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-17T08:48:15.236Z",
+ "updated": "2026-09-18T08:23:52.585Z",
  "items": [
   {
-   "ingredient": "päron",
-   "idea": "Snabbpickla päronskivor i lag 1:1:1 (ättika, socker, vatten) med kanel, klart på 30 minuter."
+   "ingredient": "pumpa",
+   "idea": "Snabbpicklad pumpa: skiva tunt, koka lag 1:1:1 ättika, vatten och socker, häll varm över, kyl en timme."
   },
   {
    "ingredient": "rödbetor",
-   "idea": "Fermentera rödbetor i 2% saltlag i 5-7 dagar för syrlig, probiotisk vinterdelikatess."
-  },
-  {
-   "ingredient": "pumpa",
-   "idea": "Baka ett pumpabröd med rostad pumpapuré i degen, ger saftig krumma och gyllene färg."
+   "idea": "Fermentera rödbetor i 2% saltlag, 5–7 dagar i rumstemperatur, blir syrlig och krispig."
   },
   {
    "ingredient": "purjolök",
-   "idea": "Fräs purjolök i smör med dijon och grädde, servera över pasta på 15 minuter."
+   "idea": "Snabbstekt purjolök i smör med dijon och grädde, servera på rostat surdegsbröd som snabb vardagsrätt."
+  },
+  {
+   "ingredient": "jordärtskocka",
+   "idea": "Mixa jordärtskocka till puré, blanda in i surdegsdegen för fluffig krumma och mild sötma."
   }
  ]
 }
