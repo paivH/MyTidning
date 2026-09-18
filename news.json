@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T22:19:31.790Z",
+ "updated": "2026-09-18T00:35:26.716Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Över 30 gruvarbetare dog i arrestlokal i Nigeria",
+   "date": "2026-09-17T23:13:31.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/over-30-gruvarbetare-dog-i-arrestlokal-i-nigeria",
+   "desc": "Minst 37 personer har dött i en arrestlokal i Nigeria, där de hölls inlåsta efter att ha gripits som misstänkta för olaglig gruvbrytning. Den ansvariga säkerhetsstyrkan säger sig misstänka ett sjukdomsutbrott, men uppgifter från en överlevande tyder på att alltför många trängts ihop på en liten yta."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "”Låt mig få se min dotter” – pappa misstänks ha fört flicka till Syrien",
    "date": "2026-09-17T17:27:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lat-mig-fa-se-min-dotter-pappa-misstanks-ha-fort-flicka-till-syrien",
@@ -72,14 +80,6 @@
    "date": "2026-09-17T15:25:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-pa-skjutfalt-utanfor-karlsborg",
    "desc": "Fem personer vårdas på intensiven efter vad Försvarsmakten kallar för ”en incident” på Kråks skjutfält utanför Karlsborg. Larmet ska ha kommit in som en explosion. Totalt sju personer fördes till sjukhus, bekräftar Skaraborgs sjukhus för SVT."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Svansar avklippta på hästar i Katrineholm och Vingåker – polisen utreder samband",
-   "date": "2026-09-17T14:05:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/flera-avklippta-svansar-och-djurplageri-polisen-utreder-samband",
-   "desc": "Sen årsskiftet har hästar i området kring Katrineholm och Vingåker mystiskt blivit klippta i både svansar och lugg. Ett tiotal polisanmälningar har gjorts och på Helena Strid Söderströms ridskola har även en häst blivit förgiftad."
   },
   {
    "src": "STHLM",
