@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-19T14:36:39.878Z",
+ "updated": "2026-09-19T17:44:42.269Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+   "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
    "date": "2026-09-19T11:36:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory."
+   "desc": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
   },
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Vinlopp lockade 2 500: ”Känns lite busigt”",
+   "date": "2026-09-19T15:15:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vinlopp-lockade-2-500-kanns-lite-busigt",
+   "desc": "Under lördagen sprang omkring 2 500 löpare runt Långholmen – med ett vinglas i handen. Vingelrundan är ett av de evenemang som blivit möjliga sedan matkravet slopades i juni. – Jag tror att folk tycker att det känns lite busigt, säger arrangören Kenneth Gustavsson."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Jardel är instruktör i höga klackar: ”Blundar om någon går fult”",
    "date": "2026-09-19T09:30:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/jardel-ar-instruktor-i-hoga-klackar-blundar-om-nagon-gar-fult",
@@ -112,14 +120,6 @@
    "date": "2026-09-18T17:40:19.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-18-september-hhsk92",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 18 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "En person häktas misstänkt för grov våldtäkt mot barn i Järfälla",
-   "date": "2026-09-18T11:46:15.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ny-person-begard-haktad-for-grov-valdtakt-mot-barn-i-jarfalla",
-   "desc": "Den person som suttit anhållen sedan i onsdags, misstänkt för barnvåldtäkten i Järfälla, har nu häktats."
   },
   {
    "src": "BBC",
