@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T01:25:58.924Z",
+ "updated": "2026-09-19T06:17:18.064Z",
  "items": [
   {
    "src": "BBC",
@@ -7,7 +7,31 @@
    "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
    "date": "2026-09-18T22:58:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials."
+   "desc": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump says he is banning CNN and Politico from White House",
+   "date": "2026-09-19T05:36:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president has had a tense and fiery relationship with the US media throughout his political career."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Google's Gemini AI hacked three companies in security test",
+   "date": "2026-09-19T04:27:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+   "desc": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump signs sweeping Russia sanctions bill",
+   "date": "2026-09-18T22:05:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+   "desc": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine."
   },
   {
    "src": "BBC",
@@ -18,28 +42,36 @@
    "desc": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump says he is banning CNN and Politico from White House",
-   "date": "2026-09-18T23:26:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president has had a tense and fiery relationship with the US media throughout his political career."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Andreas Almgren inför VM i halvmaraton: ”Ska bli så häftigt”",
+   "date": "2026-09-19T05:56:16.000Z",
+   "link": "https://www.svt.se/sport/friidrott/andreas-almgren-infor-vm-i-halvmaraton-ska-bli-sa-haftigt",
+   "desc": "Andreas Almgren gör en intressant start i VM i halvmaraton i Köpenhamn på söndag. Löparstjärnan har en tydlig målsättning inför tävlingen. – Jag kommer springa för att försöka ta ett guld, säger han till DR."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-   "date": "2026-09-18T18:56:17.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-   "desc": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Spelade Nordkoreas nationalsång – när Sydkorea skulle spela",
+   "date": "2026-09-19T05:09:27.000Z",
+   "link": "https://www.svt.se/sport/artikel/spelade-nordkoreas-nationalsang-nar-sydkorea-skulle-spela",
+   "desc": "Det rådde totalförvirring i de asiatiska spelen som pågår i Japan. Sydkoreanska landhockeyspelare väntade på att få höra nationalsången – men i stället spelade arrangören upp Nordkoreas. – Det är helt oacceptabelt, säger Ryu Seung-min, ordförande för Sydkoreas olympiska kommitté."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-   "date": "2026-09-18T20:17:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-   "desc": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Se när 349 barn illustrerar valresultatet",
+   "date": "2026-09-19T04:00:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/se-kaoset-nar-349-barn-illustrerar-valresultatet",
+   "desc": "När de sista rösterna nu är räknade står det klart att den rödgröna oppositionen har vunnit valet och får 176 mandat i riksdagen, medan Tidöpartierna får 173."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Antonia från Umeå köpte stuga på en ö – delar med sig av renoveringen",
+   "date": "2026-09-19T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/antonia-fran-umea-kopte-stuga-pa-en-o-delar-med-sig-av-renoveringen",
+   "desc": "Inget rinnande vatten och endast en roddbåt som transport – det var inget som avskräckte influencern Antonia Isoletto från att köpa en ensam stuga ute på en ö utanför Umeå. – Folk har förutfattade meningar om mig. Det är nog inte många som vet att jag lagt mer pengar på tak och skorsten än shopping, säger hon."
   },
   {
    "src": "SVT",
@@ -50,36 +82,20 @@
    "desc": "Två svenska män i 40-årsåldern misstänks för spioneri i Finland. Männen har kopplingar till ett offshorebolag på Brittiska Jungfruöarna – men har i övrigt lämnat få offentliga spår efter sig."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "”Det finns sprickor i maktens fasad”",
-   "date": "2026-09-18T17:07:37.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/det-finns-sprickor-i-maktens-fasad",
-   "desc": "Ryssland går till val. Det är representanterna till parlamentets underhus, statsduman, som ska väljas för första gången sedan det fullskaliga kriget inleddes. Duman stiftar lagar och beslutar om budget – men Ryssland är ingen fungerande demokrati och det här är inte heller något fritt val. Trots det finns det ändå några saker som kan vara bra att hålla koll på."
+   "title": "Se när 349 barn illustrerar valresultatet",
+   "date": "2026-09-19T04:00:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/se-kaoset-nar-349-barn-illustrerar-valresultatet",
+   "desc": "När de sista rösterna nu är räknade står det klart att den rödgröna oppositionen har vunnit valet och får 176 mandat i riksdagen, medan Tidöpartierna får 173."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Chocken på kyrkogården: Charlies pappas grav vandaliserades",
-   "date": "2026-09-18T15:35:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/chocken-pa-kyrkogarden-charlies-pappas-grav-vandaliserades",
-   "desc": "Kyrkogården i Mariefred har sedan början sommaren utsatts för vandalism. 16-årige Charlie möttes av en gravsten som delats mitt itu när han kom för att minnas sin pappa. – Det känns sjukt, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Stillastående lastbil stoppade trafiken på E4",
-   "date": "2026-09-18T13:38:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/stopp-pa-e4-lastbil-stillastaende",
-   "desc": "Det var under fredagseftermiddagen stor påverkan på trafiken på E4 från trafikplats Norsholm till Linköping då en lastbil blev stående, efter att ett däck exploderat."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Stod felparkerad i ett år – nu har skrotbilen på öländska Alvaret flyttats",
-   "date": "2026-09-18T13:21:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/stod-felparkerad-i-ett-ar-nu-har-skrotbilen-pa-olandska-alvaret-flyttats",
-   "desc": "Både kommunen och markägaren ville få bort bilen som riskerade att skada miljön på Alvaret på södra Öland. Men en krånglig process satte stopp. Nu har de hittat lösningen – en röd lapp."
+   "title": "Här lär sig eleverna om våld – Luka, 10: ”Bra att veta”",
+   "date": "2026-09-19T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-lar-sig-eleverna-om-vald-luka-10-bra-att-veta",
+   "desc": "På Kvarnsbackaskolan i Kista får barnen i årskurs 4 lära sig om olika våldstyper – något som fått positiva effekter, enligt skolkuratorn Gulistan Kavak. – När du lär barn om de olika våldstyperna så förebygger du också att de utför våld, säger hon."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-09-18T11:08:56.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-styr-kartellpartierna-har-gemensam-vision",
    "desc": "I Sundbyberg har Socialdemokraterna, Vänsterpartiet, Miljöpartiet och Centerpartiet styrt tillsammans den senaste mandatperioden, det vill säga samma styre som diskuteras på nationell nivå. – Det handlar om hur villig man är att gå in i ett samarbete med problemlösning i fokus, säger Towe Bengtsson (V), kommunalråd."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Klart: Socialdemokraterna återtar makten i Botkyrka",
-   "date": "2026-09-18T10:01:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nytt-politiskt-majoritetsstyre-i-botkyrka",
-   "desc": "Socialdemokraterna återtar makten i Botkyrka kommun. Under fredagen meddelar partiet att man kommit överens med tre andra partier för att bilda det nya styret."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här förlorar Riddarholmskyrkan sitt kors: ”Nervöst”",
-   "date": "2026-09-18T07:18:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-forlorar-riddarholmskyrkan-sitt-kors-nervost",
-   "desc": "På grund av farliga gifter kräver lagen att Riddarholmskyrkans spira renoveras. I klippet ser du när personal i skyddsutrustning tar sig 90 meter upp för att lossa och vira ner korset som toppar spiran. – Det är nervöst, jag har fjärilar i magen, säger Viktor Axelsson Banck, projektägare på Statens fastighetsverk."
   },
   {
    "src": "BBC",
