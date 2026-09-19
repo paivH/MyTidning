@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T17:44:42.269Z",
+ "updated": "2026-09-19T19:59:19.385Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says he is banning CNN and Politico from White House",
-   "date": "2026-09-19T05:36:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president has had a tense and fiery relationship with the US media throughout his political career."
+   "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+   "date": "2026-09-19T19:09:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+   "desc": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Journalists denied White House access after Trump banned some media outlets",
+   "date": "2026-09-19T19:13:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+   "desc": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Converse pulls 'deeply upsetting' advert after backlash",
+   "date": "2026-09-19T14:05:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+   "desc": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging."
   },
   {
    "src": "BBC",
@@ -26,20 +42,20 @@
    "desc": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump signs sweeping Russia sanctions bill",
-   "date": "2026-09-18T22:05:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-   "desc": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Två bilar i kollision på E20 i Partille",
+   "date": "2026-09-19T19:47:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/tva-bilar-i-kollision-pa-e20",
+   "desc": "Två bilar har kolliderat på E20 mellan Partillemotet och Skulltorpsmotet, skriver polisen på sin hemsida."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Grim discoveries of murdered women spark fear in South Africa",
-   "date": "2026-09-18T23:04:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-   "desc": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Björklöven vann i återkomsten – tystade fullsatt Avicii Arena",
+   "date": "2026-09-19T18:23:58.000Z",
+   "link": "https://www.svt.se/sport/ishockey/bjorkloven-vann-i-aterkomsten-tystade-fullsatt-avicii-arena",
+   "desc": "Björklövens återkomst till ishockeyns finrum slutade med en 3–0-seger mot Djurgården. Frontfigur blev AIK-fostrade Robin Kovacs som tystade ett fullsatt Avicii Arena. – Vi ville komma hit och förstöra deras fest, säger han till SVT Sport."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Domarna kommer i år att ha större fokus på att hitta filmningar och förstärkningar. En ny regel ger domarna möjligheten att straffa en spelare hårdare än tidigare. – Vi har varit för dåliga att fånga upp klara förstärkningar, säger domaren Mikael Holm till SVT Sport."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Andreas Almgren inför VM i halvmaraton: ”Ska bli så häftigt”",
-   "date": "2026-09-19T05:56:16.000Z",
-   "link": "https://www.svt.se/sport/friidrott/andreas-almgren-infor-vm-i-halvmaraton-ska-bli-sa-haftigt",
-   "desc": "Andreas Almgren gör en intressant start i VM i halvmaraton i Köpenhamn på söndag. Löparstjärnan har en tydlig målsättning inför tävlingen. – Jag kommer springa för att försöka ta ett guld, säger han till DR."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Spelade Nordkoreas nationalsång – när Sydkorea skulle spela",
-   "date": "2026-09-19T05:09:27.000Z",
-   "link": "https://www.svt.se/sport/artikel/spelade-nordkoreas-nationalsang-nar-sydkorea-skulle-spela",
-   "desc": "Det rådde totalförvirring i de asiatiska spelen som pågår i Japan. Sydkoreanska landhockeyspelare väntade på att få höra nationalsången – men i stället spelade arrangören upp Nordkoreas. – Det är helt oacceptabelt, säger Ryu Seung-min, ordförande för Sydkoreas olympiska kommitté."
+   "title": "Nyheter från dagen: 19 september",
+   "date": "2026-09-19T18:02:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-19-september-wi7d1p",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under lördagen den 19 september."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-19T03:30:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-lar-sig-eleverna-om-vald-luka-10-bra-att-veta",
    "desc": "På Kvarnsbackaskolan i Kista får barnen i årskurs 4 lära sig om olika våldstyper – något som fått positiva effekter, enligt skolkuratorn Gulistan Kavak. – När du lär barn om de olika våldstyperna så förebygger du också att de utför våld, säger hon."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 18 september",
-   "date": "2026-09-18T17:40:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-18-september-hhsk92",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 18 september."
   },
   {
    "src": "BBC",
