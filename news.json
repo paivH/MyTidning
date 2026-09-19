@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-19T11:18:54.735Z",
+ "updated": "2026-09-19T14:36:39.878Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-   "date": "2026-09-19T11:01:34.000Z",
+   "date": "2026-09-19T11:36:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials."
+   "desc": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory."
   },
   {
    "src": "BBC",
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Google's Gemini AI hacked three companies in security test",
-   "date": "2026-09-19T04:27:11.000Z",
+   "date": "2026-09-19T13:39:32.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
    "desc": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
   },
@@ -40,6 +40,14 @@
    "date": "2026-09-18T23:04:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
    "desc": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "SD backar i klassiska fästet Skåne: ”Har varit mycket bråk”",
+   "date": "2026-09-19T14:23:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/sd-backar-i-klassiska-fastet-skane-har-varit-mycket-brak",
+   "desc": "För första gången har Sverigedemokraterna nu backat i ett riksdagsval – och en stark anledning tycks vara Skåne. Partiet tappar stöd i samtliga kommuner i den historiskt SD-vänliga regionen. – Jag röstade för ett byte inom laget kan man säga, säger den tidigare SD-väljaren Martin Kirschner."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-19T05:09:27.000Z",
    "link": "https://www.svt.se/sport/artikel/spelade-nordkoreas-nationalsang-nar-sydkorea-skulle-spela",
    "desc": "Det rådde totalförvirring i de asiatiska spelen som pågår i Japan. Sydkoreanska landhockeyspelare väntade på att få höra nationalsången – men i stället spelade arrangören upp Nordkoreas. – Det är helt oacceptabelt, säger Ryu Seung-min, ordförande för Sydkoreas olympiska kommitté."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Se när 349 barn illustrerar valresultatet",
-   "date": "2026-09-19T04:00:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/se-kaoset-nar-349-barn-illustrerar-valresultatet",
-   "desc": "När de sista rösterna nu är räknade står det klart att den rödgröna oppositionen har vunnit valet och får 176 mandat i riksdagen, medan Tidöpartierna får 173."
   },
   {
    "src": "STHLM",
@@ -141,17 +141,17 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
-   "date": "2026-09-17T14:24:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pb38sd?at_medium=RSS&at_campaign=rss",
-   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
+   "date": "2026-09-15T13:30:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p9q0vg?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United boss Michael Carrick speaks ahead of the League Cup tie with Brighton."
   },
   {
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
-   "date": "2026-09-15T13:30:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0p9q0vg?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United boss Michael Carrick speaks ahead of the League Cup tie with Brighton."
+   "date": "2026-09-14T16:58:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0p9lvlj?at_medium=RSS&at_campaign=rss",
+   "desc": "Gaz and Joe reflect on Manchester United's derby day defeat to Manchester City."
   }
  ]
 }
