@@ -1,41 +1,41 @@
 {
- "updated": "2026-09-19T08:22:30.470Z",
+ "updated": "2026-09-20T08:53:52.600Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
-   "price": "19 kr/kg",
+   "item": "Färsk laxfilé Norge",
+   "price": "99 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
-   "price": "69 kr/st",
+   "item": "Äpplen Ingrid Marie svenska",
+   "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Champinjoner 500g",
-   "price": "15 kr/st",
+   "item": "Färsk kycklingfilé 900g",
+   "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Färsk laxfilé Atlantic 400g",
-   "price": "49 kr/st",
+   "item": "Champinjoner 500g",
+   "price": "15 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (frys)",
-   "price": "59 kr/st",
+   "item": "Köttbullar 1kg fryst",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Stormljus utomhus 3-pack",
-   "price": "49 kr/st",
+   "item": "Stormljus paket om 12",
+   "price": "39 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
