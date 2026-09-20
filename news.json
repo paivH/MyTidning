@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T17:20:15.055Z",
+ "updated": "2026-09-20T19:37:09.545Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
-   "date": "2026-09-20T16:50:21.000Z",
+   "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+   "date": "2026-09-20T19:21:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
    "desc": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern."
   },
@@ -28,7 +28,7 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+   "title": "Trump says triumphal arch will be military complex with drones and snipers",
    "date": "2026-09-20T16:36:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
    "desc": "Trump said the updated plans were at the request of the US military and for national security purposes."
@@ -40,6 +40,22 @@
    "date": "2026-09-19T23:49:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
    "desc": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fullt utvecklad villabrand i Fjärås",
+   "date": "2026-09-20T18:23:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/fullt-utvecklad-villabrand-i-fjaras",
+   "desc": "Det brinner för fullt i en villa i Fjärås i Kungsbacka kommun."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nya väljarströmmar i bruksorter – M ökar, S och SD tappar",
+   "date": "2026-09-20T17:53:51.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/nya-valjarstrommar-i-bruksorter-m-okar-s-och-sd-tappar",
+   "desc": "I flera klassiska bruksorter har väljarstödet förändrats i årets riksdagsval. Moderaterna ökar, samtidigt som både Socialdemokraterna och Sverigedemokraterna tappar. Christer West, som bor i Hagfors, är en av väljarna som bytt parti. – Tidö har gjort ett jättebra jobb, säger han."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "För ett år sedan dödades ambulanssjuksköterskan Helena Löfgren under ett uppdrag i Nordanstigs kommun. Under söndagen hölls en tyst minut runtom i länet för att hedra hennes minne. – Vi vill uppmärksamma hennes minne och även hedra kollegor och anhöriga, säger Sara Hassanzadeh, vårdenhetschef."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Stina Nilsson vann Klarälvsloppet efter jätteryck",
-   "date": "2026-09-20T12:15:52.000Z",
-   "link": "https://www.svt.se/sport/rullskidor/stina-nilsson-vann-klaralvsloppet-efter-jatteryck",
-   "desc": "Loppet leddes länge av en trio. Innan Stina Nilsson bröt sig loss och gick i mål som överlägsen etta. – Det kan bli en kul vinter, säger 33-åringen till SVT efter loppet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kökaoset i Umeå anmäls – rekordmånga överklagar årets val",
-   "date": "2026-09-20T12:14:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/kokaoset-i-umea-anmals-rekordmanga-overklagar-arets-val",
-   "desc": "På vissa håll i landet fick väljare vänta i flera timmar för att rösta. I Umeå var köerna som längst – och nu växer missnöjet. Flera personer har överklagat valet och kräver omval."
+   "title": "Nyheter från dagen: 20 september",
+   "date": "2026-09-20T18:06:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-20-september-yzbmzh",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 20 september."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-19T09:30:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/jardel-ar-instruktor-i-hoga-klackar-blundar-om-nagon-gar-fult",
    "desc": "Giraffer, kameler och ankor är några av de gångstilar som klackinstruktören Jardel Oliveira de Sousa ser när han studerar folk på Stockholms gator. – Om jag ser någon som går för fult blundar jag, säger han."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Se när 349 barn illustrerar valresultatet",
-   "date": "2026-09-19T04:00:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/se-kaoset-nar-349-barn-illustrerar-valresultatet",
-   "desc": "När de sista rösterna nu är räknade står det klart att den rödgröna oppositionen har vunnit valet och får 176 mandat i riksdagen, medan Tidöpartierna får 173."
   },
   {
    "src": "BBC",
