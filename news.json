@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20T19:37:09.545Z",
+ "updated": "2026-09-20T22:09:10.860Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-   "date": "2026-09-20T19:21:28.000Z",
+   "date": "2026-09-20T20:21:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
    "desc": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern."
   },
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-   "date": "2026-09-19T23:49:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-   "desc": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital."
+   "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+   "date": "2026-09-20T21:17:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+   "desc": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Personbil krockade med älg utanför Kristianstad – E22 avstängd",
+   "date": "2026-09-20T19:57:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/personbil-krockade-med-alg-e22-avstangd",
+   "desc": "En personbil körde på en älg på E22 i höjd med Tollarp, utanför Kristianstad. Älgen dog och därefter körde två personbilar på älgen varav den ena bilen välte."
   },
   {
    "src": "SVT",
@@ -47,7 +55,7 @@
    "title": "Fullt utvecklad villabrand i Fjärås",
    "date": "2026-09-20T18:23:57.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/halland/fullt-utvecklad-villabrand-i-fjaras",
-   "desc": "Det brinner för fullt i en villa i Fjärås i Kungsbacka kommun."
+   "desc": "Räddningstjänsten larmades till en fullt utvecklad villabrand i Fjärås på söndagskvällen"
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Andreas Almgren tog hem ett historiskt VM-guld i halvmaraton. Och bakom superloppet låg en noggrant utvald taktik, menar SVT:s expert Jonas Hedman. – Han visar att han kan behärska olika typer av upplägg, säger han."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Tyst minut hölls för Helena – ett år sedan ambulansdådet i Harmånger",
-   "date": "2026-09-20T13:55:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/tyst-minut-holls-for-helena-ett-ar-sedan-ambulansdadet-i-harmanger",
-   "desc": "För ett år sedan dödades ambulanssjuksköterskan Helena Löfgren under ett uppdrag i Nordanstigs kommun. Under söndagen hölls en tyst minut runtom i länet för att hedra hennes minne. – Vi vill uppmärksamma hennes minne och även hedra kollegor och anhöriga, säger Sara Hassanzadeh, vårdenhetschef."
+   "title": "Villa i Djursholm förstörd i brand",
+   "date": "2026-09-20T21:57:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/villa-i-djursholm-forstord-i-brand",
+   "desc": "En villa i Djursholm i Danderyds kommun står i brand sent på söndagen. – Den är totalskadad, säger räddningstjänstens ledningsoperatör Lisen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-19T15:15:04.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/vinlopp-lockade-2-500-kanns-lite-busigt",
    "desc": "Under lördagen sprang omkring 2 500 löpare runt Långholmen – med ett vinglas i handen. Vingelrundan är ett av de evenemang som blivit möjliga sedan matkravet slopades i juni. – Jag tror att folk tycker att det känns lite busigt, säger arrangören Kenneth Gustavsson."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Jardel är instruktör i höga klackar: ”Blundar om någon går fult”",
-   "date": "2026-09-19T09:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/jardel-ar-instruktor-i-hoga-klackar-blundar-om-nagon-gar-fult",
-   "desc": "Giraffer, kameler och ankor är några av de gångstilar som klackinstruktören Jardel Oliveira de Sousa ser när han studerar folk på Stockholms gator. – Om jag ser någon som går för fult blundar jag, säger han."
   },
   {
    "src": "BBC",
