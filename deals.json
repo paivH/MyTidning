@@ -1,29 +1,29 @@
 {
- "updated": "2026-09-20T08:53:52.600Z",
+ "updated": "2026-09-21T09:24:31.348Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färsk laxfilé Norge",
-   "price": "99 kr/kg",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "ICA",
-   "item": "Äpplen Ingrid Marie svenska",
+   "item": "Svenska äpplen Aroma, lösvikt",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
+   "store": "ICA",
    "item": "Färsk kycklingfilé 900g",
    "price": "59 kr",
+   "url": "https://www.ica.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Svamp Kantareller 250g",
+   "price": "24 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Champinjoner 500g",
-   "price": "15 kr",
+   "item": "Höstjackor Herr/Dam",
+   "price": "249 kr",
    "url": "https://www.lidl.se"
   },
   {
@@ -34,7 +34,7 @@
   },
   {
    "store": "Rusta",
-   "item": "Stormljus paket om 12",
+   "item": "Levande ljus 6-pack",
    "price": "39 kr",
    "url": "https://www.rusta.com/se"
   }
