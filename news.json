@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T16:48:34.852Z",
+ "updated": "2026-09-21T20:45:43.167Z",
  "items": [
   {
    "src": "BBC",
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-   "date": "2026-09-21T14:26:29.000Z",
+   "date": "2026-09-21T16:54:56.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
    "desc": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\""
   },
@@ -29,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "First UK charges brought over 1994 Rwanda genocide",
-   "date": "2026-09-21T16:33:02.000Z",
+   "date": "2026-09-21T17:48:23.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
    "desc": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences."
   },
@@ -37,9 +37,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-   "date": "2026-09-21T14:06:12.000Z",
+   "date": "2026-09-21T20:26:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
    "desc": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Norrtåg varnar om förseningar på flera sträckor",
+   "date": "2026-09-21T19:56:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/norrtag-varnar-om-forseningar-pa-flera-strackor",
+   "desc": "Trafikverkets banarbeten just nu gör att tågen tvingas köra långsammare på vissa sträckor, och orsakar förseningar under en månads tid."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Influencern Joakim Lundell drar tillbaka sin stämning mot en kvinna i Trosa. Istället väljer han att polisanmäla henne. – Det har eskalerat, det har fått en omfattning som inte längre kan bedömas som en isolerad förtalstvist, säger Lundells advokat Markus Hamro-Drotz."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Höll dottern på andra sidan jorden i två år – slipper fängelse",
-   "date": "2026-09-21T12:46:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/uppsala/holl-dottern-pa-andra-sidan-jorden-i-tva-ar-slipper-fangelse",
-   "desc": "Utan pappans medgivande förde kvinnan sin nioåriga dotter utomlands och höll henne på andra sidan jorden i två år. Nu döms kvinnan – men slipper fängelsestraff."
+   "title": "Nyheter från dagen: 21 september",
+   "date": "2026-09-21T17:40:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-21-september-mi4wz3",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under måndagen den 21 september."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-20T21:57:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/villa-i-djursholm-forstord-i-brand",
    "desc": "En villa i Danderyds kommun förstördes i en brand natten till måndag. Polisen kan inte utesluta att branden är anlagd, och har spärrat av ett området runt huset."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 20 september",
-   "date": "2026-09-20T18:06:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-20-september-yzbmzh",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 20 september."
   },
   {
    "src": "BBC",
