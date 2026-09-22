@@ -1,27 +1,11 @@
 {
- "updated": "2026-09-22T13:52:07.269Z",
+ "updated": "2026-09-22T17:54:02.490Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
-   "date": "2026-09-22T08:17:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-   "date": "2026-09-22T13:49:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-   "date": "2026-09-22T13:17:39.000Z",
+   "date": "2026-09-22T14:03:20.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
    "desc": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
   },
@@ -36,50 +20,66 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-   "date": "2026-09-22T13:39:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security."
+   "title": "Eleven injured in shooting outside Turkish school",
+   "date": "2026-09-22T10:42:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+   "date": "2026-09-22T13:58:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Top South African policeman charged with sexual offences",
+   "date": "2026-09-22T16:54:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+   "desc": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Därför kan inte Gävleungdomar låta bli energidrycken: ”Får motivation i livet”",
-   "date": "2026-09-22T13:45:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/darfor-kan-inte-gavleungdomar-lata-bli-energidrycken-far-motivation-i-livet",
-   "desc": "Svenska ungdomar mellan 15 och 19 år dricker energidryck oftare än jämnåriga i övriga Norden. En ny studie från Livsmedelsverket visar att 28 procent dricker minst en energidryck om dagen och 75 procent minst en gång i veckan."
+   "title": "”Andrum – men krisen är inte över”",
+   "date": "2026-09-22T16:09:42.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/andrum-men-krisen-ar-inte-over",
+   "desc": "Vänsterpartiets krishantering i ger partiet ett visst andrum. Men krisen är inte över och misstankarna om valfusk riktar åter strålkastarljuset mot Vänsterpartiets bristande kontroll över sina listor."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Yasin Ayari hyllar Dejan Kulusevski: ”Inte normalt”",
-   "date": "2026-09-22T13:23:06.000Z",
-   "link": "https://www.svt.se/sport/fotboll/yasin-ayari-hyllar-dejan-kulusevski-inte-normalt",
-   "desc": "Dejan Kulusevski har inte spelat fotboll sedan i maj i fjol. Nu är han på väg tillbaka – och hyllas av vännen Yasin Ayari. – Det är inte normalt, han är väldigt stark, säger Brighton-stjärnan."
+   "title": "”Rädslan för nästa hybridattack drar in oss alla på slagfältet”",
+   "date": "2026-09-22T15:52:47.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/radslan-for-nasta-hybridattack-drar-in-oss-alla-pa-slagfaltet",
+   "desc": "Ryssland ökar nu sin press mot Europa med återkommande larm om hybridattacker och anfallsplaner. Men vår rädsla för nästa attack kan sätta oss i en ännu farligare sits – där vi befinner oss mitt i slagfältet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Gratismatch i fotboll slutade med 65 parkeringsböter",
-   "date": "2026-09-22T13:00:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/gratismatch-i-fotboll-slutade-med-65-parkeringsboter",
-   "desc": "65 bilister som parkerade vid Stadsparksvallen under J-Södras match i på måndagskvällen möttes av parkeringsböter efter matchen. När ordinarie platser inte räckte till valde många att ställa bilen på gräsytor i Stadsparken, något som blev kostsamt, det uppger Jönköpings-Posten"
+   "title": "JLT bjuder på gratis resor – pekar samtidigt ut unga som fuskåkare",
+   "date": "2026-09-22T15:13:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/jlt-bjuder-pa-gratis-resor-pekar-samtidigt-ut-unga-som-fuskakare",
+   "desc": "Samtidigt som JLT firar Bilfria dagen med gratis buss- och tågresor i hela länet brottas kollektivtrafiken med ett annat problem. Biljettkontroller visar att många resenärer saknar giltig biljett, och en stor del av fallen gäller skolelever som reser med oaktiverade skolbiljetter."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Paramount och Warner-affären närmar sig",
-   "date": "2026-09-22T12:48:40.000Z",
-   "link": "https://www.svt.se/kultur/paramount-och-warner-affaren-narmar-sig",
-   "desc": "Den största sammanslagningen i Hollywoods historia. Så beskrivs den stundande affären mellan Paramount och Warner Bros. som nu verkar vara närmre än någonsin."
+   "title": "Carl Starfelt fick dobbar i ansiktet: ”Tur”",
+   "date": "2026-09-22T14:56:37.000Z",
+   "link": "https://www.svt.se/sport/fotboll/carl-starfelt-fick-dobbar-i-ansiktet-tur",
+   "desc": "Landslagsbacken Carl Starfelt visade upp mod. Men det höll på att kosta honom ett öga. – Jag fick en stämpling mot huvudet, säger landslagsbacken om jacket i ansiktet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Beskedet: M och S ska styra Kinda",
-   "date": "2026-09-22T12:30:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/m-och-s-ska-styra-kinda",
-   "desc": "Moderaterna och Socialdemokraterna fortsätter det blocköverskridande samarbetet i Kinda. Det presenterades vid en pressträff i Kisa under tisdagen."
+   "title": "Årjäng Kristdemokraternas starkaste fäste i riksdagsvalet",
+   "date": "2026-09-22T14:45:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/arjang-kristdemokraternas-starkaste-faste-i-riksdagsvalet",
+   "desc": "När rösterna till riksdagsvalet nu är färdigräknade kan man konstatera att Kristdemokraterna fick sin största andel röster i Årjängs kommun. – De har bra politiker som säger vad de tycker, säger Alexander Johansson som röstade på partiet."
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-09-22T15:38:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pbxhff?at_medium=RSS&at_campaign=rss",
+   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-09-21T15:38:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0pbs3gs?at_medium=RSS&at_campaign=rss",
    "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
@@ -144,14 +152,6 @@
    "date": "2026-09-19T21:30:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0pbghm1?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd boss Michael Carrick says the goal given against Man City was tough to take."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-18T13:56:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pbb4vf?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd head coach Michael Carrick says he hates losing games."
   }
  ]
 }
