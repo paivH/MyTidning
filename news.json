@@ -1,11 +1,19 @@
 {
- "updated": "2026-09-22T17:54:02.490Z",
+ "updated": "2026-09-22T20:49:56.390Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "US to build two military bases in Greenland under new deal with Denmark",
+   "date": "2026-09-22T18:43:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+   "desc": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-   "date": "2026-09-22T14:03:20.000Z",
+   "date": "2026-09-22T19:47:44.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
    "desc": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
   },
@@ -20,26 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+   "date": "2026-09-22T19:06:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+   "desc": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Eleven injured in shooting outside Turkish school",
    "date": "2026-09-22T10:42:47.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
    "desc": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
-   "date": "2026-09-22T13:58:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Top South African policeman charged with sexual offences",
-   "date": "2026-09-22T16:54:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
-   "desc": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old."
   },
   {
    "src": "SVT",
@@ -84,6 +84,22 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Yxman gripen i Tullinge Centrum",
+   "date": "2026-09-22T18:33:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/yxman-gripen-i-tullinge-centrum",
+   "desc": "Vid 17-tiden inkom flera larm till polisen som vittnade om en man med yxa i Tullinge Centrum, Botkyrka kommun. Nu är mannen gripen misstänkt för grovt brott."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 22 september",
+   "date": "2026-09-22T18:01:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-22-september-rzazmi",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under tisdagen den 22 september."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Egon efter branddomen: ”Känns som ett hån”",
    "date": "2026-09-22T13:18:41.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/egon-efter-branddomen-kanns-som-ett-han",
@@ -104,22 +120,6 @@
    "date": "2026-09-22T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/gangkriminell-tande-eld-pa-egons-har-nu-kommer-domen",
    "desc": "Egon Malmgren, 73, satt på bussen på väg till ett födelsedagskalas i Stockholm när en man, som senare ska visa sig vara gängkriminell, tände eld på hans hår. Sedan dess har de rättsliga turerna varit många. Nu, sex år senare, frias mannen – trots att han erkänt – eftersom brottet är preskriberat."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 21 september",
-   "date": "2026-09-21T17:40:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-21-september-mi4wz3",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under måndagen den 21 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Evakuering i tunnelbanan – resenärer fick gå genom tunnlarna",
-   "date": "2026-09-21T10:25:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/resenarer-evakueras-vid-firdhemsplan",
-   "desc": "Strax innan klockan två på måndagseftermiddagen började trafiken återigen rulla på tunnelbanans gröna linje. Trafiken hade då stått stilla sen förmiddagen då ett tåg drabbats av vagnfel och resenärer fått evakueras vid Fridhemsplan. – Nu kör trafiken igen. Men tågen går fortfarande oregelbundet, säger Natalie Nordenswan, presstalesperson vid SL."
   },
   {
    "src": "BBC",
