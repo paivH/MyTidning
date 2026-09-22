@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T09:24:31.348Z",
+ "updated": "2026-09-22T08:53:13.052Z",
  "verified": false,
  "deals": [
   {
@@ -10,32 +10,32 @@
   },
   {
    "store": "ICA",
-   "item": "Färsk kycklingfilé 900g",
+   "item": "Kycklingfilé Kronfågel 900g",
    "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Svamp Kantareller 250g",
-   "price": "24 kr",
+   "item": "Färsk laxfilé 400g",
+   "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Höstjackor Herr/Dam",
-   "price": "249 kr",
+   "item": "Svamp Kantareller 250g",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
-   "price": "49 kr",
+   "item": "Köttbullar 1kg, fryst",
+   "price": "69 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Levande ljus 6-pack",
-   "price": "39 kr",
+   "item": "Stormljus utomhus 3-pack",
+   "price": "79 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
