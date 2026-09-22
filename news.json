@@ -1,6 +1,38 @@
 {
- "updated": "2026-09-22T03:07:52.469Z",
+ "updated": "2026-09-22T08:43:00.640Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+   "date": "2026-09-22T01:04:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+   "desc": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+   "date": "2026-09-22T07:14:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+   "date": "2026-09-22T08:17:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
+   "date": "2026-09-22T08:10:21.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
+   "desc": "Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -10,76 +42,52 @@
    "desc": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-   "date": "2026-09-22T00:16:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-   "desc": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-   "date": "2026-09-21T16:54:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-   "desc": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\""
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "First UK charges brought over 1994 Rwanda genocide",
-   "date": "2026-09-21T17:48:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-   "desc": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-   "date": "2026-09-21T20:26:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-   "desc": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kiev blir Kyjiv – SVT ändrar ukrainska namnformerna",
+   "date": "2026-09-22T07:23:30.000Z",
+   "link": "https://www.svt.se/kultur/kiev-blir-kyjiv-svt-andrar-ukrainska-namnformerna",
+   "desc": "Från och med den 22 september skriver SVT Kyjiv i stället för Kiev. Samtidigt ändras Odessa till Odesa, Donbass till Donbas och Tjernobyl till Tjornobyl. Här förklarar vi varför."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Källor: USA planerar nya baser på Grönland",
-   "date": "2026-09-22T02:12:37.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/kallor-usa-planerar-nya-baser-pa-gronland",
-   "desc": "USA vill öppna två nya militärbaser på Grönland, erfar Danmarks radio. Uppgifterna kommer inför att USA, Grönland och Danmark väntas underteckna ett nytt säkerhetsavtal för ön på tisdagen."
+   "title": "Polisens besked: Misstänkt föremål i Linköping inte skarpt",
+   "date": "2026-09-22T07:19:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/larm-om-misstankt-foremal-i-linkoping",
+   "desc": "Strax innan klockan 09 på tisdagen skickade SOS Alarm ut ett larm om ”överhängande fara” vid ett flerbostadshus i Ramshäll i Linköping. Polisen bekräftade tidigt att de undersökte ett misstänkt farligt föremål."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Norrtåg varnar om förseningar på flera sträckor",
-   "date": "2026-09-21T19:56:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/norrtag-varnar-om-forseningar-pa-flera-strackor",
-   "desc": "Trafikverkets banarbeten just nu gör att tågen tvingas köra långsammare på vissa sträckor, och orsakar förseningar under en månads tid."
+   "title": "Elliot Stroud om succéstarten i Premier League: ”Har inte hunnit stanna upp”",
+   "date": "2026-09-22T06:51:08.000Z",
+   "link": "https://www.svt.se/sport/fotboll/elliot-stroud-om-succestarten-i-premier-league-har-inte-hunnit-stanna-upp",
+   "desc": "Elliot Stroud har gjort flytten till de brittiska öarna. Hull-spelaren njuter av tillvaron. – Det är svårt att smälta, säger Stroud till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Emil Holms VM-dröm krossades: ”Tuffaste jag varit med om”",
-   "date": "2026-09-21T15:59:30.000Z",
-   "link": "https://www.svt.se/sport/fotboll/emil-holms-vm-drom-krossades-tuffaste-jag-varit-med-om",
-   "desc": "Emil Holm, 26, skulle göra sitt första VM. Planerna krossades. – Det tuffaste jag varit med om i karriären, säger han."
+   "title": "Tre olyckor i Norrköping – två barn påkörda",
+   "date": "2026-09-22T06:38:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/tva-barn-pakorda-i-norrkoping",
+   "desc": "Under tisdagsmorgonen har två trafikolyckor inträffat där barn blivit påkörda i Norrköping."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nya språkregler: Nu ska Kiev bli Kyjiv",
-   "date": "2026-09-21T14:31:32.000Z",
-   "link": "https://www.svt.se/kultur/nya-sprakregler-nu-ska-kiev-bli-kyjiv",
-   "desc": "Kiev ska nu heta Kyjiv och Tjernobyl blir Tjornobyl. Det är några av de nya rekommendationerna från språkmyndigheten Isof, och kommer att införas av både SVT och SR. – Många uppfattar frågan som laddad, eftersom stavningen Kiev förknippas med Sovjettiden, säger Ola Karlsson, språkvårdare på Isof."
+   "title": "Statsvetaren om misstänkta valfusket: Mandaten i riksdagen kan stå på spel",
+   "date": "2026-09-22T06:25:10.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/statsvetaren-om-misstankta-valfusket-mandaten-i-riksdagen-kunna-sta-pa-spel",
+   "desc": "Förundersökningen om misstänkt valfusk i Borlänge kan, beroende på utfallet, innebära ett omval i valkretsen Dalarna, enligt Erik Wångmar, docent vid Linnéuniversitetet. – Här skulle mandaten i riksdagen kunna stå på spel, säger han i Morgonstudion."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Graham Potter om Kristoffer Nordfeldt-situationen: ”Ingen är perfekt”",
-   "date": "2026-09-21T14:23:04.000Z",
-   "link": "https://www.svt.se/sport/fotboll/graham-potter-om-kristoffer-nordfeldt-situationen-ingen-ar-perfekt",
-   "desc": "Kristoffer Nordfeldt togs inte ut i Nations League-truppen och meddelade sedan att han slutar i landslaget. Nu förklarar Graham Potter vad som egentligen hände. – Vi hade ett samtal men det får stanna mellan oss, säger han på en presskonferens."
+   "title": "Gängkriminell tände eld på Egons hår – nu kommer domen",
+   "date": "2026-09-22T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/gangkriminell-tande-eld-pa-egons-har-nu-kommer-domen",
+   "desc": "Egon Malmgren, 73, satt på bussen på väg till ett födelsedagskalas i Stockholm när en man, som senare ska visa sig vara gängkriminell, tände eld på hans hår. Sedan dess har de rättsliga turerna varit många. Nu, sex år senare, kommer domen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-21T03:30:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/rox-ar-lanets-enda-ograshund-soker-den-fruktade-vaxten-honshirs",
    "desc": "Sökhunden Rox rör sig snabbt mellan burkarna med små gröna blad. Han är länets enda ogräshund och tränas för att hitta det aggressiva ogräset hönshirs innan växten släpper sina frön ute på åkrarna. – Ogräset tränger bort de odlade grödorna, säger Jörgen Holmén, projektledare för ”Ogräshundar” vid Naturbruksförvaltningen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Villa i Danderyd förstörd i brand",
-   "date": "2026-09-20T21:57:15.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/villa-i-djursholm-forstord-i-brand",
-   "desc": "En villa i Danderyds kommun förstördes i en brand natten till måndag. Polisen kan inte utesluta att branden är anlagd, och har spärrat av ett området runt huset."
   },
   {
    "src": "BBC",
