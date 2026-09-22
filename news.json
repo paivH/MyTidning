@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T23:47:48.406Z",
+ "updated": "2026-09-22T03:07:52.469Z",
  "items": [
   {
    "src": "BBC",
@@ -13,9 +13,9 @@
    "src": "BBC",
    "section": "Världen",
    "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-   "date": "2026-09-21T22:48:33.000Z",
+   "date": "2026-09-22T00:16:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-   "desc": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit."
+   "desc": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-09-21T20:26:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
    "desc": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Källor: USA planerar nya baser på Grönland",
+   "date": "2026-09-22T02:12:37.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/kallor-usa-planerar-nya-baser-pa-gronland",
+   "desc": "USA vill öppna två nya militärbaser på Grönland, erfar Danmarks radio. Uppgifterna kommer inför att USA, Grönland och Danmark väntas underteckna ett nytt säkerhetsavtal för ön på tisdagen."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-21T14:23:04.000Z",
    "link": "https://www.svt.se/sport/fotboll/graham-potter-om-kristoffer-nordfeldt-situationen-ingen-ar-perfekt",
    "desc": "Kristoffer Nordfeldt togs inte ut i Nations League-truppen och meddelade sedan att han slutar i landslaget. Nu förklarar Graham Potter vad som egentligen hände. – Vi hade ett samtal men det får stanna mellan oss, säger han på en presskonferens."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Joakim Lundell drar tillbaka stämningen mot kvinnan – polisanmäler henne",
-   "date": "2026-09-21T12:56:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/lundell-drar-tillbaka-stamningen-mot-kvinna-polisanmaler-henne",
-   "desc": "Influencern Joakim Lundell drar tillbaka sin stämning mot en kvinna i Trosa. Istället väljer han att polisanmäla henne. – Det har eskalerat, det har fått en omfattning som inte längre kan bedömas som en isolerad förtalstvist, säger Lundells advokat Markus Hamro-Drotz."
   },
   {
    "src": "STHLM",
