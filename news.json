@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T07:16:43.547Z",
+ "updated": "2026-09-23T12:52:44.250Z",
  "items": [
   {
    "src": "BBC",
@@ -12,18 +12,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-   "date": "2026-09-22T06:03:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-   "desc": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI."
+   "title": "Reports of violence against women in Gaza surge, UN agency finds",
+   "date": "2026-09-23T05:02:26.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+   "desc": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US to build two military bases in Greenland under new deal with Denmark",
-   "date": "2026-09-22T21:36:55.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-   "desc": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory."
+   "title": "Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC",
+   "date": "2026-09-23T11:42:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+   "desc": "There are fears of a return to war in the northern region as tensions between the government and TPLF escalate."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+   "date": "2026-09-23T12:31:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it."
   },
   {
    "src": "BBC",
@@ -34,52 +42,68 @@
    "desc": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Eleven killed in mass shooting at house in South Africa",
-   "date": "2026-09-23T07:02:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-   "desc": "One of those killed is believed to be a pregnant woman, police said."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Lucas Bergvall om förlängningen: ”Mycket spekulationer”",
+   "date": "2026-09-23T12:01:51.000Z",
+   "link": "https://www.svt.se/sport/fotboll/lucas-bergvall-om-forlangningen-mycket-spekulationer",
+   "desc": "Han ryktades lämna Tottenham. Men i stället blev Lucas Bergvall kvar – och fick förlängt kontrakt. – Jag gick på magkänslan, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Student bar ceremonisvärd på väg till campus – åtalas",
-   "date": "2026-09-23T06:57:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/student-bar-ceremonisvard-pa-vag-till-campus-atalas",
-   "desc": "Med ett 124 centimeter långt ceremonisvärd på axeln gick studenten mot Luleå tekniska universitet. Polisen larmades ut efter ett anonymt tips – och nu åtalas mannen för brott mot knivlagen."
+   "title": "Hugo Larsson om nobben: ”Alla vill ju spela VM”",
+   "date": "2026-09-23T12:01:41.000Z",
+   "link": "https://www.svt.se/sport/fotboll/hugo-larsson-om-nobben-alla-vill-ju-spela-vm",
+   "desc": "Hugo Larsson var utanför Sveriges VM-trupp. Nu uttalar sig 22-åringen för första gången om nobben från Graham Potter. – Alla spelare vill ju spela VM och det var en besvikelse där och då, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Sanningskommissionen klar – Birgitta läser vittnesmål vid överlämnandet",
-   "date": "2026-09-23T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/sapmi/birgitta-ricklund-ska-lasa-sanningskommissionens-vittnesmal-pa-overlamningen",
-   "desc": "Birgitta Ricklund är en av fyra som ska läsa vittnesmålen, när Sanningskommissionens berättelsebok överlämnas nästa vecka. – Det jag ska läsa kommer inte från mig utan från oss som grupp; vi samer, säger hon."
+   "title": "Efter misstänkta valfusket – nytt fall utreds",
+   "date": "2026-09-23T11:45:36.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/efter-misstankta-valfusket-nytt-fall-utreds",
+   "desc": "Riksenheten mot korruption utreder den misstänkta valfuskhärvan i Borlänge. Men specialenheten inom Åklagarmyndigheten utreder även ett annat ärende kopplat till riksdagsvalet. – Rubriceringen är otillbörlig förmån vid röstning, säger åklagaren Oskar Edvardsson."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ernstbergers nyckelvittne talar ut: ”Inga bevis” för politisk påverkan",
-   "date": "2026-09-23T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/granskning/ug/ernstbergers-nyckelvittne-talar-ut-inga-bevis-for-politisk-paverkan",
-   "desc": "Allras tidigare vd Alexander Ernstberger hävdar att den dåvarande S-ledda regeringen påverkade hovrätten att döma honom till fängelse. Mannen som använts som källa till uppgifterna, i Ernstbergers bok och en inlaga till Högsta domstolen, menar att han mot sin vilja utnyttjades till att sprida en konspiration. – När det gäller Alexander finns absolut inga bevis för jäv eller påtryckningar."
+   "title": "Flera arbetare har sökt vård efter gaslarm på SSAB i Luleå",
+   "date": "2026-09-23T11:26:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/flera-arbetare-har-sokt-vard-efter-gaslarm-pa-ssab-i-lulea",
+   "desc": "Flera arbetare vid SSAB:s stålverksbygge i Luleå sökte vård på onsdagen efter att ett portabelt gaslarm utlöst. Samtliga har fått lämna sjukhuset, enligt SSAB. – Vi har inga närmare uppgifter om hälsotillstånd och om eventuella symtom kan kopplas till gaslarmet under morgonen, skriver Emmy Arebo, kommunikatör vid SSAB."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Göran har kartlagt spionen i Gävle: ”Pågår även i dag”",
-   "date": "2026-09-23T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/goran-har-kartlagt-spionen-i-gavle-pagar-aven-i-dag",
-   "desc": "Tidigare säkerhetspolisen Göran Janrell har kartlagt spionen Hilding Andersson som var i Gävle vintern 1951. – Han fotograferade och pratade med ortsbefolkningen, säger Göran Janrell."
+   "title": "13-åriga Yu Zidis nya succé: Tog tredje raka guldet i Asiatiska spelen",
+   "date": "2026-09-23T10:50:06.000Z",
+   "link": "https://www.svt.se/sport/simning/13-aringa-yu-zidis-nya-succe-tog-tredje-raka-guldet-i-asiatiska-masterskapen",
+   "desc": "Succén fortsätter för det kinesiska underbarnet Yu Zidi i Asiatiska spelen. 13-åringen tog sitt tredje raka guld när hon vann 400 meter medley i Nagoya, Japan. Segertiden 4.28,56 var mindre än fem sekunder ifrån kanadensiskan Summer McIntoshs världsrekord på 4.23,65."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Liberalerna backar i Östergötland – men Finspång går mot strömmen",
-   "date": "2026-09-23T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/liberalerna-backar-i-ostergotland-men-finspang-gar-mot-strommen",
-   "desc": "Till slut lyckades Liberalerna nå drygt fem procent i riksdagsvalet – men lokalt ser det ut att ha gått sämre. I Östergötland backar Liberalerna i sex kommuner och i tre står man helt still."
+   "title": "Stjäl parkbänkar – mitt i centrala Stockholm",
+   "date": "2026-09-23T12:26:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stjal-parkbankar-mitt-i-centrala-stockholm",
+   "desc": "En parkbänksliga har härjat i Stockholm i sommar. Personer klädda i arbetskläder – och som uppfattats jobba för staden – har skruvat loss bänkar till ett värde av nära 600 000 kronor. – Bänkarna har varit fastsatta i marken. Tjuvarna har antingen sågat av dem nere vid marken, kanske med vinkelslip, eller skruvat loss dem med någon form av mutterdragare, skriver Malinda Flodman, pressanvarig på trafikkontoret, till SVT."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Dödsfall i Värmdö – äldre man hittad i vattnet",
+   "date": "2026-09-23T10:21:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/dodsfall-i-varmdo-aldre-man-hittad-i-vattnet",
+   "desc": "En person anträffades avliden i Farstaviken i Värmdö kommun under onsdagen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Här byter körfältet på Nockebybron håll – följer rusningstrafiken",
+   "date": "2026-09-23T09:01:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-byter-korfaltet-pa-nockebybron-hall-foljer-rusningstrafiken",
+   "desc": "Den 1 oktober får Nockebybron, som förbinder Ekerö med Stockholm, en ovanlig trafiklösning: Ett körfält där trafikriktningen vänds under dagen, så att bron alltid har två filer åt det håll rusningstrafiken går."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-09-22T18:33:41.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/yxman-gripen-i-tullinge-centrum",
    "desc": "Vid 17-tiden inkom flera larm till polisen som vittnade om en man med yxa i Tullinge centrum, Botkyrka kommun. Nu är mannen gripen misstänkt för grovt brott."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 22 september",
-   "date": "2026-09-22T18:01:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-22-september-rzazmi",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under tisdagen den 22 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Egon efter branddomen: ”Känns som ett hån”",
-   "date": "2026-09-22T13:18:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/egon-efter-branddomen-kanns-som-ett-han",
-   "desc": "Egon Malmgren känner stor besvikelse över dagens dom i Nacka tingsrätt. – Det känns nästan som ett hån mot mig med allt vad jag varit igenom, säger han till SVT."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stockholmspolis åtalas för våldtäkt mot barn",
-   "date": "2026-09-22T11:22:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stockholmspolis-atalas-for-valdtakt-mot-barn",
-   "desc": "En polis anställd inom polisregion Stockholm åtalas för att ha våldtagit flera barn, haft tusentals filer barnpornografiskt material och genomfört sexuella handlingar med djur."
   },
   {
    "src": "BBC",
