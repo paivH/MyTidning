@@ -1,42 +1,42 @@
 {
- "updated": "2026-09-22T08:53:13.052Z",
+ "updated": "2026-09-23T08:55:22.099Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
-   "price": "19 kr/kg",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
+   "item": "Färsk kycklingfilé Kronfågel 900g",
    "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Färsk laxfilé 400g",
-   "price": "49 kr",
+   "item": "Äpplen Royal Gala 1kg",
+   "price": "19 kr",
    "url": "https://www.lidl.se"
   },
   {
-   "store": "Lidl",
-   "item": "Svamp Kantareller 250g",
-   "price": "39 kr",
-   "url": "https://www.lidl.se"
+   "store": "ICA",
+   "item": "Svenska potatis fast sort 2kg",
+   "price": "19 kr",
+   "url": "https://www.ica.se"
+  },
+  {
+   "store": "Rusta",
+   "item": "Höstlökar blandpåse 20 st",
+   "price": "49 kr",
+   "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg, fryst",
+   "item": "Köttbullar 1kg fryst",
    "price": "69 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Rusta",
-   "item": "Stormljus utomhus 3-pack",
-   "price": "79 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Kaffe Bellarom mörkrost 500g",
+   "price": "34 kr",
+   "url": "https://www.lidl.se"
   }
  ]
 }
