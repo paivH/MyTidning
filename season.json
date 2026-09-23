@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-22T08:41:56.948Z",
+ "updated": "2026-09-23T08:44:10.539Z",
  "items": [
   {
-   "ingredient": "jordärtskocka",
-   "idea": "Snabbpickla jordärtskocka i 2:1:1 ättika-vatten-socker med lagerblad, klart på 30 minuter, perfekt till smörgås."
+   "ingredient": "kål",
+   "idea": "Fermentera kål till surkål: 2% salt av vikt, packa hårt, låt stå 1-2 veckor rumstempererat."
+  },
+  {
+   "ingredient": "äpplen",
+   "idea": "Baka snabbt äppelbröd: riv äpplen i degen, tillsätt kanel, låt jäsa 40 minuter innan gräddning."
+  },
+  {
+   "ingredient": "rödbetor",
+   "idea": "Picklade rödbetor: koka 1 dl ättika, 1 dl socker, 2 dl vatten, häll över skivade betor."
   },
   {
    "ingredient": "svamp",
-   "idea": "Stek kantareller hastigt i smör, toppa på rostat surdegsbröd med timjan – klart på tio minuter."
-  },
-  {
-   "ingredient": "purjolök",
-   "idea": "Ferment purjolök i saltlag 2% i en vecka, får syrlig krispig smak till gryträtter och sallader."
-  },
-  {
-   "ingredient": "pumpa",
-   "idea": "Baka surdegsbröd med rostad pumpapuré i degen, ger fuktig krumma och gyllene färg – perfekt frukostbröd."
+   "idea": "Snabbstekt svamp med vitlök och timjan på rostat surdegsbröd, klart på 15 minuter."
   }
  ]
 }
