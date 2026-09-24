@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-24T02:58:18.232Z",
+ "updated": "2026-09-24T08:17:08.607Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+   "date": "2026-09-24T07:10:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+   "desc": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,14 +16,6 @@
    "date": "2026-09-23T22:01:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
    "desc": "The US and China are vying for AI supremacy while seeking to keep it under human control."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-   "date": "2026-09-24T02:23:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-   "desc": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June."
   },
   {
    "src": "BBC",
@@ -29,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-   "date": "2026-09-23T16:53:37.000Z",
+   "date": "2026-09-24T04:37:47.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
    "desc": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
   },
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Pakistan: Attackerat Afghanistan",
-   "date": "2026-09-24T02:36:01.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/pakistan-attackerat-afghanistan",
-   "desc": "Pakistan har utfört attacker mot tio olika platser i Afghanistan, meddelar den pakistanska regeringen natten mot torsdagen."
+   "title": "Kritiserade Israelsamtal och ny uppförandekod – nu startar Bokmässan",
+   "date": "2026-09-24T08:04:16.000Z",
+   "link": "https://www.svt.se/kultur/kritiserade-israelsamtal-och-ny-uppforandekod-nu-startar-bokmassan",
+   "desc": "Bokmässan har för andra året polisanmälts för en programpunkt hos Vänskapsförbundet Sverige-Israel. I år uppdaterar mässan sin uppförandekod för området där utställaren står."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Open AI hackade Medicare i Australien",
-   "date": "2026-09-23T21:21:06.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/open-ai-hackade-myndighetssidor-i-australien",
-   "desc": "Premiärminister Anthony Albanese säger att AI-botar, utvecklade av Open AI, tagit sig in i Australiens sjukförsäkringssystem Medicare och kommit åt ickeoffentliga filer."
+   "title": "Får betala stort skadestånd efter fräck konstkupp i Jönköping",
+   "date": "2026-09-24T07:29:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/far-betala-stort-skadestand-efter-frack-konstkupp-i-jonkoping",
+   "desc": "Den man som för över tio år sedan lurade till sig en värdefull urna från ett äldreboende i Jönköping döms nu att betala ett skadestånd på 722 500 kronor. Det innebär att Göta Hovrätt skärper straffet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "AI-toppar i FN: Krävs globalt säkerhetssamarbete",
-   "date": "2026-09-23T21:09:11.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/ai-toppar-i-fn-kravs-globalt-sakerhetssamarbete",
-   "desc": "Sam Altman och Dario Amodei vill se att världens ledare går samman för att säkerställa en säker användning av AI-teknkiken. Det var budskapet från de två cheferna för Open AI respektive Anthropic när de talade inför FN:s säkerhetsråd."
+   "title": "Handledare vid övningskörning misstänkt för rattfylleri",
+   "date": "2026-09-24T06:44:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/man-handledde-ovningskorning-misstankt-for-rattfylleri",
+   "desc": "En övningskörning under onsdagskvällen slutade tvärt efter att det visade sig att handledaren var påverkad av alkohol. Handledaren, en man i 55-års åldern misstänks nu för rattfylleri."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Deadline närmar sig – de pekas ut för den viktiga talmansposten",
-   "date": "2026-09-23T17:02:52.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/deadline-narmar-sig-de-pekas-ut-for-den-viktiga-talmansposten",
-   "desc": "På söndag är deadline för nomineringar till talmansposten. För Socialdemokraterna ses talmannen som en nyckelperson i förhandlingarna om makten. – För mig är det självklart att Andreas Norlén inte sitter kvar, säger S gruppledare Lena Hallengren till TT."
+   "title": "Tillträdesförbud för Dolly Partons släkting",
+   "date": "2026-09-24T06:11:10.000Z",
+   "link": "https://www.svt.se/kultur/domare-tilltradesforbud-for-dolly-partons-slakting",
+   "desc": "Efter anklagelser om hot och utpressning har Dolly Partons managementbolag fått igenom ett tillfälligt tillträdesförbud gentemot stjärnans systerson Bryan Seaver."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ramlade från brygga i Piteå och drunknade",
-   "date": "2026-09-23T15:53:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/befarad-drunkning-ramlade-fran-brygga-i-pitea",
-   "desc": "En man i 80-årsåldern föll i vattnet från en brygga i Piteå under onsdagen. Händelsen uppmärksammades i efterhand via kameraövervakning och en stor sökinsats inleddes. Senare meddelar polisen att mannen anträffades avliden. Anhöriga är underrättade."
+   "title": "Singelolycka på Öresundsbron – risk för köer",
+   "date": "2026-09-24T05:43:24.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/singelolycka-pa-oresundsbron",
+   "desc": "En personbil åkte in ett räcke på Öresundsbron under torsdagsmorgonen. Föraren ska inte ha skadats allvarligt. En mindre mängd olja har läckt ut på platsen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Här ska ungas intresse för forskning väckas",
+   "date": "2026-09-24T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-ska-ungas-intresse-for-forskning-vackas",
+   "desc": "Hur ska fler barn och unga få upp ögonen för forskning, innovation och framtidens vård? Ett sätt kan vara att låta 200 skolelever själva testa på tekniken i en 60 000 kvadratmeter stor forskningspark. – Det var faktiskt jätteintressant, säger eleven Merve Celepli."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-23T10:21:44.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/dodsfall-i-varmdo-aldre-man-hittad-i-vattnet",
    "desc": "En person anträffades avliden i Farstaviken i Värmdö kommun under onsdagen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här byter körfältet på Nockebybron håll – följer rusningstrafiken",
-   "date": "2026-09-23T09:01:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-byter-korfaltet-pa-nockebybron-hall-foljer-rusningstrafiken",
-   "desc": "Den 1 oktober får Nockebybron, som förbinder Ekerö med Stockholm, en ovanlig trafiklösning: Ett körfält där trafikriktningen vänds under dagen, så att bron alltid har två filer åt det håll rusningstrafiken går."
   },
   {
    "src": "BBC",
