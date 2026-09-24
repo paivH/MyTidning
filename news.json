@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T23:50:05.689Z",
+ "updated": "2026-09-24T02:58:18.232Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-   "date": "2026-09-23T23:44:58.000Z",
+   "date": "2026-09-24T02:23:54.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
    "desc": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June."
   },
@@ -40,6 +40,14 @@
    "date": "2026-09-23T21:26:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
    "desc": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Pakistan: Attackerat Afghanistan",
+   "date": "2026-09-24T02:36:01.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/pakistan-attackerat-afghanistan",
+   "desc": "Pakistan har utfört attacker mot tio olika platser i Afghanistan, meddelar den pakistanska regeringen natten mot torsdagen."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-09-23T15:53:17.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/befarad-drunkning-ramlade-fran-brygga-i-pitea",
    "desc": "En man i 80-årsåldern föll i vattnet från en brygga i Piteå under onsdagen. Händelsen uppmärksammades i efterhand via kameraövervakning och en stor sökinsats inleddes. Senare meddelar polisen att mannen anträffades avliden. Anhöriga är underrättade."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här är listan som kan rädda dig om kriget kommer",
-   "date": "2026-09-23T15:10:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/har-ar-listan-som-kan-radda-dig-om-kriget-kommer",
-   "desc": "Radio, sovsäckar, vatten och kontanter. Har du det som behövs för att klara en vecka utan stöd utifrån? Myndigheten för civilt försvar vill öka förståelsen för vad som krävs av var och en i en krissituation."
   },
   {
    "src": "STHLM",
