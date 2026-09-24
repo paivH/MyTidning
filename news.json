@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-24T18:08:02.387Z",
+ "updated": "2026-09-24T21:39:42.278Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+   "date": "2026-09-24T21:21:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+   "desc": "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\"."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,34 +20,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-   "date": "2026-09-24T15:42:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-   "desc": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
+   "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+   "date": "2026-09-24T18:06:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+   "desc": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-   "date": "2026-09-24T14:08:38.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-   "desc": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech."
+   "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+   "date": "2026-09-24T19:02:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+   "desc": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-   "date": "2026-09-24T16:00:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-   "desc": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says."
+   "title": "Priest killed and four injured in knife attack at Polish abbey",
+   "date": "2026-09-24T19:18:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+   "desc": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-   "date": "2026-09-24T15:37:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-   "desc": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jättetapp för Tidö i utsatta områden: ”Har talat illa om oss”",
+   "date": "2026-09-24T18:59:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/jattetapp-for-tido-i-utsatta-omraden-har-talat-illa-om-oss",
+   "desc": "Tidöpartierna har tappat drygt 7 procentenheter av sitt stöd i riksdagsvalet bland väljare i utsatta områden sedan 2022. Sverigedemokraterna är det parti som backar mest, men blir trots det störst. De tre partier som ingår i regeringen, M, KD och L, samlar tillsammans endast 10 procent av rösterna. – De kan inte först tala illa om oss och sen förvänta sig att vi röstar på dem, säger Fadumo Aden, i Göteborgsstadsdelen Bergsjön."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Donald Trumps bannlysning av mediebolagen CNN, Politico och MS Now från Vita huset har utvecklats till en omfattande rättslig process – och väckt frågor om pressfriheten i USA. Här är de viktigaste turerna i konflikten."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Säkert hösttecken – älgar dyker upp i bostadsområden på Frösön",
-   "date": "2026-09-24T14:36:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/sakert-hosttecken-algar-dyker-upp-i-bostadsomraden-pa-froson",
-   "desc": "Under torsdagen har två älgar setts till i centrala Frösön. Det var efter samtal från polisen som kommunjägarna i Östersund fick kännedom om älgarna. Det är inte helt ovanligt att de närmar sig bostadsområden under hösten för att äta."
+   "title": "Misstänkt knivdåd i Botkyrka",
+   "date": "2026-09-24T19:23:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-knivdad-i-botkyrka",
+   "desc": "Ett misstänkt mordförsök har inträffat i Tumba, Botkyrka kommun. En pojke i artonårsåldern kom hem med svåra skador och polisen söker fortfarande efter en gärningsman. – Vi bedömer att han har blivit knivhuggen, säger Daniel Wikdahl, presstalesperson på polisen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-24T09:14:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/19-aring-doms-efter-hot-mot-v-politiker-pa-tiktok",
    "desc": "En 19-årig man från Västergötland döms för olaga hot efter att ha skrivit en hotfull kommentar på sociala medier till vänsterpartisten Jonas Lindberg, ledamot i regionfullmäktige i Stockholm."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här ska ungas intresse för forskning väckas",
-   "date": "2026-09-24T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-ska-ungas-intresse-for-forskning-vackas",
-   "desc": "Hur ska fler barn och unga få upp ögonen för forskning, innovation och framtidens vård? Ett sätt kan vara att låta 200 skolelever själva testa på tekniken i en 60 000 kvadratmeter stor forskningspark. – Det var faktiskt jätteintressant, säger eleven Merve Celepli."
   },
   {
    "src": "BBC",
