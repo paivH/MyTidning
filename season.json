@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-23T08:44:10.539Z",
+ "updated": "2026-09-24T08:37:28.738Z",
  "items": [
   {
-   "ingredient": "kål",
-   "idea": "Fermentera kål till surkål: 2% salt av vikt, packa hårt, låt stå 1-2 veckor rumstempererat."
-  },
-  {
    "ingredient": "äpplen",
-   "idea": "Baka snabbt äppelbröd: riv äpplen i degen, tillsätt kanel, låt jäsa 40 minuter innan gräddning."
-  },
-  {
-   "ingredient": "rödbetor",
-   "idea": "Picklade rödbetor: koka 1 dl ättika, 1 dl socker, 2 dl vatten, häll över skivade betor."
+   "idea": "Snabbinlägg äppelskivor i lag 1:1:1 (ättika, socker, vatten) med kanelstång, klart på en timme."
   },
   {
    "ingredient": "svamp",
-   "idea": "Snabbstekt svamp med vitlök och timjan på rostat surdegsbröd, klart på 15 minuter."
+   "idea": "Snabbstekt svamp i smör med vitlök och timjan, servera på rostat surdegsbröd som kvällsmat."
+  },
+  {
+   "ingredient": "rödbetor",
+   "idea": "Fermentera skivade rödbetor i 2% saltlake, 5-7 dagar rumstemperatur, syrligt tillbehör till allt."
+  },
+  {
+   "ingredient": "purjolök",
+   "idea": "Baka purjolöksfokaccia: press ner stekt purjolök i degen före andra jäsningen, ugn 220°C."
   }
  ]
 }
