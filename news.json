@@ -1,21 +1,29 @@
 {
- "updated": "2026-09-25T00:14:29.162Z",
+ "updated": "2026-09-25T05:11:04.114Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+   "date": "2026-09-25T03:57:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+   "desc": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-   "date": "2026-09-24T23:32:51.000Z",
+   "date": "2026-09-25T00:44:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
    "desc": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "White House restores access to media outlets banned by Trump after judge's order",
-   "date": "2026-09-24T17:49:20.000Z",
+   "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+   "date": "2026-09-25T01:10:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-   "desc": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away."
+   "desc": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored."
   },
   {
    "src": "BBC",
@@ -34,57 +42,65 @@
    "desc": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-   "date": "2026-09-24T19:02:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-   "desc": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Flera fordon i olycka på E6",
+   "date": "2026-09-25T04:51:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/flera-fordon-i-olycka-pa-e6-hdi9cg",
+   "desc": "En lastbil och två personbilar har kolliderat på E6 i höjd med trafikplats Landskrona norra. Ett körfält är avstängt i riktning mot Malmö."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Potatisskörden hotas i Belgien",
-   "date": "2026-09-24T22:15:29.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/potatisskorden-hotas-i-belgien",
-   "desc": "Brist på regn och höga temperaturer skapar problem för belgiska potatisodlare – i år ser både kvalitet och kvantitet ut att bli sämre."
+   "title": "Svärdet skar genom Jhonas rygg – skadades svårt under skoldådet i Fagersta",
+   "date": "2026-09-25T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/svardet-skar-genom-jhonas-rygg-skadades-svart-under-skoldadet-i-fagersta",
+   "desc": "Han trodde att det var en kompis som skämtade när han plötsligt fick ett hårt slag i ryggen. När Jhonas, 16, vände sig om stod en maskerad person med hjälm framför honom. I samma ögonblick högg han ett svärd rakt in i Jhonas rygg. – Min enda tanke var att jag måste ta mig därifrån, säger Jhonas Aostri."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Jättetapp för Tidö i utsatta områden: ”Har talat illa om oss”",
-   "date": "2026-09-24T18:59:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/jattetapp-for-tido-i-utsatta-omraden-har-talat-illa-om-oss",
-   "desc": "Tidöpartierna har tappat drygt 7 procentenheter av sitt stöd i riksdagsvalet bland väljare i utsatta områden sedan 2022. Sverigedemokraterna är det parti som backar mest, men blir trots det störst. De tre partier som ingår i regeringen, M, KD och L, samlar tillsammans endast 10 procent av rösterna. – De kan inte först tala illa om oss och sen förvänta sig att vi röstar på dem, säger Fadumo Aden, i Göteborgsstadsdelen Bergsjön."
+   "title": "Ellen och Märta är världsmästare i westernridning",
+   "date": "2026-09-25T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/ellen-och-marta-ar-varldsmastare-i-westernridning",
+   "desc": "Märta Broberg från Linköping och Ellen Berntsson från Åtvidaberg är världsmästare i westernridning. Tillsammans med Alma Hultstrand vann det svenska laget World Youth Games i Kreuth i södra Tyskland. Vi besökte östgötaduon hemma i stallet i Bersbo, utanför Åtvidaberg."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter 16 års samarbete – nu spricker Täby-alliansen",
-   "date": "2026-09-24T17:22:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-16-ars-samarbete-nu-spricker-taby-alliansen",
-   "desc": "Det pågår politiska förhandlingar i Täby kommun. Centerpartiet petas från alliansen på grund av riks- och regionpolitiken. Nu vill M, L och KD styra på egen hand. –Jag hoppas att Centerpartiet hittar tillbaka till borgerligheten på region- och riksnivå. Då är de välkomna tillbaka igen, säger Erik Andersson (M), kommunstyrelsens ordförande i Täby."
+   "title": "Mindre skolk efter mobilförbudet på Fristadsskolan: ”Ingen vill gå hem utan sin telefon”",
+   "date": "2026-09-25T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/mindre-skolk-efter-mobilforbudet-pa-fristadsskolan-ingen-vill-ga-hem-utan-sin-telefon",
+   "desc": "Efter att Fristadsskolan i Eskilstuna införde mobilförbud har skolan låtit genomföra en enkät bland lärarna för att få en bild av de första veckorna med de nya reglerna. Svaren pekar på flera tydliga förändringar. Flera minuter sparas varje dag, elever är mer aktiva på rasterna och närvaron har ökat."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här åker Trafikverket Inlandsbanan – ska se var de 12 miljarderna behövs",
-   "date": "2026-09-24T16:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/har-aker-trafikverket-inlandsbanan-ska-se-var-de-12-miljarderna-behovs",
-   "desc": "I veckan har Trafikverket rest med Inlandsbanan för att få en uppfattning om de renoverings- och åtgärdsbehov som finns på den närmare 100 år gamla järnvägen mellan Mora och Gällivare. Upprustningsbehoven är stora och den förra regeringen har avsatt pengar. Men hur mycket det faktiskt blir beror på vad Trafikverket anser att man faktiskt behöver åtgärda."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "TikTok-video skakar skolchefen: ”Får inte lämnas i nåt tomrum”",
-   "date": "2026-09-24T15:37:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/tiktok-video-skakar-skolchefen-far-inte-lamnas-i-nat-tomrum",
-   "desc": "Efter torsdagens misstänkta mordförsök mot en elev på Fagrabäcksskolan i Växjö samlades skolans elever klassvis redan på eftermiddagen för att prata och bearbeta det som hänt. Många hade redan då nåtts av den Tiktok-video med den misstänkta gärningsmannen som lagt ut efter attacken: – Jag blev väldigt betryckt och illa berörd, säger Anders Elingfors, skolchef på Växjö kommun."
+   "title": "Ida Kors (SD) om nya jobbet i riksdagen: ”Nu är det på riktigt”",
+   "date": "2026-09-25T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ida-kors-sd-om-nya-jobbet-i-riksdagen-nu-ar-det-pa-riktigt",
+   "desc": "Nästa vecka börjar Jönköpingspolitikern Ida Kors (SD) från Jönköping sitt uppdrag i riksdagen. Med familjen kvar hemma förbereder hon sig för sitt nya jobb, och en vardag mellan Jönköping och Stockholm."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt knivdåd i Botkyrka",
+   "title": "Häktad person har rymt från Karolinska i Huddinge",
+   "date": "2026-09-25T04:21:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/haktad-person-har-rymt-fran-karolinska-i-huddinge",
+   "desc": "På torsdagen vid 18-tiden larmades polisen till Karolinska sjukhuset i Huddinge. Detta efter att en häktad man i 25-årsåldern rymt vid en tillfällig sjukhusvistelse."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Elever på Olovslundsskolan i Bromma evakueras – föräldrar kritiska",
+   "date": "2026-09-25T03:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/elever-pa-olovslundsskolan-i-bromma-evakueras-foraldrar-kritiska",
+   "desc": "Olovslundsskolan i Bromma ska renoveras. Under två års tid kommer hundratals elever behöva bussas till Vällingbyskolan sju kilometer bort. Samtidigt menar Sverigedemokraterna att styret i Stockholms stadshus har undanhållit informationen om flytten till efter valet – men det förnekas av Socialdemokraterna."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt mordförsök i Botkyrka – en skadad",
    "date": "2026-09-24T19:23:54.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-knivdad-i-botkyrka",
    "desc": "Ett misstänkt mordförsök har inträffat i Tumba, Botkyrka kommun. En pojke i artonårsåldern kom hem med svåra skador och polisen söker fortfarande efter en gärningsman. – Vi bedömer att han har blivit knivhuggen, säger Daniel Wikdahl, presstalesperson på polisen."
@@ -104,22 +120,6 @@
    "date": "2026-09-24T17:22:13.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-16-ars-samarbete-nu-spricker-taby-alliansen",
    "desc": "Det pågår politiska förhandlingar i Täby kommun. Centerpartiet petas från alliansen på grund av riks- och regionpolitiken. Nu vill M, L och KD styra på egen hand. –Jag hoppas att Centerpartiet hittar tillbaka till borgerligheten på region- och riksnivå. Då är de välkomna tillbaka igen, säger Erik Andersson (M), kommunstyrelsens ordförande i Täby."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Valkansliet polisanmäler efter anklagelser om valfusk i Järva",
-   "date": "2026-09-24T15:50:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/valmyndigheten-polisanmaler-efter-anklagelser-om-valfusk-i-jarva",
-   "desc": "Valkansliet i Stockholms stad polisanmäler nu misstänkt valfusk i Järva efter de anklagelser som riktats mot Vänsterpartiet på Svenska Dagbladets ledarsida. Men enligt chefen för valnämndens kansli, Eva Debels, stämmer inte anklagelserna överens med de uppgifter som valkansliet samlat in under förtidsröstningen. – Vi har kommit fram till att informationen bäst behandlas av polisen, säger hon."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "19-åring döms efter hot mot V-politiker på Tiktok",
-   "date": "2026-09-24T09:14:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/19-aring-doms-efter-hot-mot-v-politiker-pa-tiktok",
-   "desc": "En 19-årig man från Västergötland döms för olaga hot efter att ha skrivit en hotfull kommentar på sociala medier till vänsterpartisten Jonas Lindberg, ledamot i regionfullmäktige i Stockholm."
   },
   {
    "src": "BBC",
