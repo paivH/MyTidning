@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-25T15:24:01.362Z",
+ "updated": "2026-09-25T19:24:09.523Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Special agents' blood and urine test results stolen in FBI hack",
+   "date": "2026-09-25T13:56:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+   "desc": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,14 +16,6 @@
    "date": "2026-09-25T15:06:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
    "desc": "The pontiff delivered the warning on the first day of his trip to France on Friday."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-   "date": "2026-09-25T10:36:55.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders."
   },
   {
    "src": "BBC",
@@ -28,18 +28,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Special agents' blood and urine test results stolen in FBI hack",
-   "date": "2026-09-25T13:56:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-   "desc": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+   "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+   "date": "2026-09-25T19:13:35.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+   "desc": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Jay-Z rape accuser says her allegation was false",
-   "date": "2026-09-25T10:51:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-   "desc": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar."
+   "title": "Students strike across Germany in protest against military service",
+   "date": "2026-09-25T15:36:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+   "desc": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bilförare kraschade in i byggnad på hustomt i Piteå",
+   "date": "2026-09-25T17:32:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/bilforare-har-kraschat-in-i-ett-hus-i-pitea",
+   "desc": "En singelolycka med personbil har inträffat strax utanför centrala Piteå. Föraren ska ha kört in i en byggnad på en hustomt och räddningstjänsten behövde klippa i fordonet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fortsatt dödläge – en vecka efter uppdraget: ”Hoppas de slutar”",
+   "date": "2026-09-25T17:21:42.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/fortsatt-dodlage-en-vecka-efter-uppdraget-hoppas-de-slutar",
+   "desc": "För en vecka sedan gav talmannen Magdalena Andersson i uppgift att försöka bilda regering. Men S-ledaren är långt ifrån en lösning – och en vecka efter att ha fått uppdraget har regelrätta regeringsförhandlingar inte påbörjats. Nu är en gemensam budget hotad. – Det är ganska få som tänker att vi kommer hinna, säger en rödgrön källa."
   },
   {
    "src": "SVT",
@@ -66,20 +82,20 @@
    "desc": "Efter ett larm om en tom rullstol vid kajkanten i Lugnvik i Östersunds kommun på fredagen inleddes ett stort sökpådrag. Räddningstjänsten sökte igenom vattnet med dykare och även drönare använes i insatsen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Dom: Kraftverket i Hednäs ska rivas och området återställas",
-   "date": "2026-09-25T12:43:13.000Z",
-   "link": "https://www.svt.se/nyheter/sapmi/dom-kraftverket-i-hednas-ska-rivas-och-omradet-aterstallas",
-   "desc": "Skellefteå Kraft får tillstånd att riva Hednäs kraftverk i Åbyälven. Inom fem år ska anläggningen vara borta, enligt en dom i mark- och miljödomstolen. Rivningen ska ske så skonsamt som möjligt för rennäringen, skriver domstolen."
+   "title": "Nyheter från dagen: 25 september",
+   "date": "2026-09-25T18:03:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-25-september-aoofb9",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 25 september."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Polisen tog hjälp av eleverna efter mordförsöket: ”Tog bild på våra mobiler”",
-   "date": "2026-09-25T12:34:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/polisen-tog-hjalp-av-eleverna-efter-mordforsoket-tog-bild-pa-vara-mobiler",
-   "desc": "Efter knivdådet vid Fagrabäcksskolan i Växjö under torsdagen känner elever som SVT pratat med en viss oro, även om poliser är på plats för att de ska känna sig trygga. – Jag ville egentligen inte komma till skolan. Jag ville bara tänka på något annat, säger Kelsey Iraguha, som går i 7:an på skolan."
+   "title": "Järvabor efter påstående om valfusk: ”Måste göra en utredning”",
+   "date": "2026-09-25T16:12:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/jarvabor-efter-pastaende-om-valfusk-maste-gora-en-utredning",
+   "desc": "Uppgifter om valfusk har löpt om varandra efter valet. Nu utreds även uppgifter om misstänkt fusk i Järva i Stockholm. Bland de som bor i området råder skilda meningar. Vissa vill se en utredning medan andra menar att uppgifterna används för att misstänkliggöra en folkgrupp."
   },
   {
    "src": "STHLM",
@@ -100,26 +116,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Slutprognosen: nya tunnelbanan blir 23 miljarder dyrare",
+   "title": "Nya tunnelbanan försenas – och blir 23 miljarder dyrare: ”Unikt”",
    "date": "2026-09-25T09:32:35.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/slutprognosen-nya-tunnelbanan-blir-23-miljarder-dyrare",
    "desc": "Den nya tunnelbanan både försenas och blir 23 miljarder kronor dyrare. Det visar Region Stockholms slutkostnadsprognos som presenterades på fredagen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Häktad person har rymt från Karolinska i Huddinge",
-   "date": "2026-09-25T04:21:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/haktad-person-har-rymt-fran-karolinska-i-huddinge",
-   "desc": "På torsdagen vid 18-tiden larmades polisen till Karolinska sjukhuset i Huddinge. Detta efter att en häktad man i 25-årsåldern rymt vid en tillfällig sjukhusvistelse."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Elever på Olovslundsskolan i Bromma evakueras – föräldrar kritiska",
-   "date": "2026-09-25T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/elever-pa-olovslundsskolan-i-bromma-evakueras-foraldrar-kritiska",
-   "desc": "Olovslundsskolan i Bromma ska renoveras. Under två års tid kommer hundratals elever behöva bussas till Vällingbyskolan sju kilometer bort. Samtidigt menar Sverigedemokraterna att styret i Stockholms stadshus har undanhållit informationen om flytten till efter valet – men det förnekas av Socialdemokraterna."
   },
   {
    "src": "BBC",
