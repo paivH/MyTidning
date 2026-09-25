@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-25T05:11:04.114Z",
+ "updated": "2026-09-25T10:22:48.871Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+   "date": "2026-09-25T10:05:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -23,63 +31,63 @@
    "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
    "date": "2026-09-25T01:10:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-   "desc": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored."
+   "desc": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Hundreds of thousands expected in Paris for Pope's visit",
-   "date": "2026-09-24T23:17:00.000Z",
+   "date": "2026-09-25T09:35:37.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
    "desc": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-   "date": "2026-09-24T18:06:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-   "desc": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Uppgifter: Kvinna skadad i våldsdåd i Hovslätt – var utsatt för hot",
+   "date": "2026-09-25T10:07:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/uppgifter-kvinna-skadad-i-valdsdad-pa-hovslatt-var-utsatt-for-hot",
+   "desc": "Allvarliga hot har tidigare riktats mot den kvinna som enligt uppgifter skadades i våldsdådet i Hovslätt i Jönköping under natten till fredagen. En man dömdes senare till fängelse för hot mot kvinnan och hennes barn. Polisen vill inte svara på om de tidigare hoten kan ha koppling till nattens skottlossning."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Flera fordon i olycka på E6",
-   "date": "2026-09-25T04:51:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/flera-fordon-i-olycka-pa-e6-hdi9cg",
-   "desc": "En lastbil och två personbilar har kolliderat på E6 i höjd med trafikplats Landskrona norra. Ett körfält är avstängt i riktning mot Malmö."
+   "title": "Larm om smällar i köpcentrum i Norrköping",
+   "date": "2026-09-25T10:03:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/larm-om-smallar-i-kopcentrum-i-norrkoping",
+   "desc": "Polisen har larmats om att en person blivit skadad i samband med en händelse på Mirum Galleria i Norrköping. I nuläget är det inte klarlagt exakt hur personen kommit till skada, men allmänheten har larmat om att man hört höga smällar."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Svärdet skar genom Jhonas rygg – skadades svårt under skoldådet i Fagersta",
-   "date": "2026-09-25T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/svardet-skar-genom-jhonas-rygg-skadades-svart-under-skoldadet-i-fagersta",
-   "desc": "Han trodde att det var en kompis som skämtade när han plötsligt fick ett hårt slag i ryggen. När Jhonas, 16, vände sig om stod en maskerad person med hjälm framför honom. I samma ögonblick högg han ett svärd rakt in i Jhonas rygg. – Min enda tanke var att jag måste ta mig därifrån, säger Jhonas Aostri."
+   "title": "Rikards son är försvunnen – kritiserar polisens hantering: ”Vi är bara till besvär”",
+   "date": "2026-09-25T10:03:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/rikards-son-ar-forsvunnen-kritiserar-polisens-hantering-vi-ar-bara-till-besvar",
+   "desc": "Sedan i början av september är 30-åriga Albin från Härad försvunnen. Familjen, frivilliga och organisationen Missing people har letat i skog och mark i närheten av bostaden utan att hitta honom. De är kritiska till att de inte får tillräckligt med hjälp av polisen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ellen och Märta är världsmästare i westernridning",
-   "date": "2026-09-25T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/ellen-och-marta-ar-varldsmastare-i-westernridning",
-   "desc": "Märta Broberg från Linköping och Ellen Berntsson från Åtvidaberg är världsmästare i westernridning. Tillsammans med Alma Hultstrand vann det svenska laget World Youth Games i Kreuth i södra Tyskland. Vi besökte östgötaduon hemma i stallet i Bersbo, utanför Åtvidaberg."
+   "title": "Egna orden från V-ledamoten: ”Skulle kännas bättre”",
+   "date": "2026-09-25T09:42:08.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/egna-orden-fran-v-ledamoten-skulle-kannas-battre",
+   "desc": "Den inkryssade riksdagsledamoten Mohamed Abdukardir Ali (V) ber om två veckors ledighet. Det framgår av ett mejl till talmannen, som SVT har tagit del av. ”Det skulle kännas bättre om jag officiellt kunde vara ledig i väntan på besked från polismyndighet”, skriver han i mejlet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Mindre skolk efter mobilförbudet på Fristadsskolan: ”Ingen vill gå hem utan sin telefon”",
-   "date": "2026-09-25T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/mindre-skolk-efter-mobilforbudet-pa-fristadsskolan-ingen-vill-ga-hem-utan-sin-telefon",
-   "desc": "Efter att Fristadsskolan i Eskilstuna införde mobilförbud har skolan låtit genomföra en enkät bland lärarna för att få en bild av de första veckorna med de nya reglerna. Svaren pekar på flera tydliga förändringar. Flera minuter sparas varje dag, elever är mer aktiva på rasterna och närvaron har ökat."
+   "title": "Macklemore åker på ”Befria Palestina-turné”",
+   "date": "2026-09-25T09:27:09.000Z",
+   "link": "https://www.svt.se/kultur/macklemore-aker-pa-befria-palestina-turne",
+   "desc": "Rapparen Macklemore utannonserar turnén ”Befria Palestina” där biljettintäkterna ska gå till stöd för Gaza."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ida Kors (SD) om nya jobbet i riksdagen: ”Nu är det på riktigt”",
-   "date": "2026-09-25T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ida-kors-sd-om-nya-jobbet-i-riksdagen-nu-ar-det-pa-riktigt",
-   "desc": "Nästa vecka börjar Jönköpingspolitikern Ida Kors (SD) från Jönköping sitt uppdrag i riksdagen. Med familjen kvar hemma förbereder hon sig för sitt nya jobb, och en vardag mellan Jönköping och Stockholm."
+   "title": "Slutprognosen: nya tunnelbanan blir 23 miljarder dyrare",
+   "date": "2026-09-25T09:32:35.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/slutprognosen-nya-tunnelbanan-blir-23-miljarder-dyrare",
+   "desc": "Den nya tunnelbanan både försenas och blir 23 miljarder kronor dyrare. Det visar Region Stockholms slutkostnadsprognos som presenterades på fredagen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-24T17:47:24.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-24-september-4sbme5",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdagen den 24 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Efter 16 års samarbete – nu spricker Täby-alliansen",
-   "date": "2026-09-24T17:22:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-16-ars-samarbete-nu-spricker-taby-alliansen",
-   "desc": "Det pågår politiska förhandlingar i Täby kommun. Centerpartiet petas från alliansen på grund av riks- och regionpolitiken. Nu vill M, L och KD styra på egen hand. –Jag hoppas att Centerpartiet hittar tillbaka till borgerligheten på region- och riksnivå. Då är de välkomna tillbaka igen, säger Erik Andersson (M), kommunstyrelsens ordförande i Täby."
   },
   {
    "src": "BBC",
