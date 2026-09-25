@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-24T08:37:28.738Z",
+ "updated": "2026-09-25T08:58:47.419Z",
  "items": [
   {
-   "ingredient": "äpplen",
-   "idea": "Snabbinlägg äppelskivor i lag 1:1:1 (ättika, socker, vatten) med kanelstång, klart på en timme."
-  },
-  {
-   "ingredient": "svamp",
-   "idea": "Snabbstekt svamp i smör med vitlök och timjan, servera på rostat surdegsbröd som kvällsmat."
-  },
-  {
-   "ingredient": "rödbetor",
-   "idea": "Fermentera skivade rödbetor i 2% saltlake, 5-7 dagar rumstemperatur, syrligt tillbehör till allt."
+   "ingredient": "päron",
+   "idea": "Snabbpicklade päronskivor: 1:1:1 ättika, vatten, socker, koka upp med kryddnejlika, kyl 30 min."
   },
   {
    "ingredient": "purjolök",
-   "idea": "Baka purjolöksfokaccia: press ner stekt purjolök i degen före andra jäsningen, ugn 220°C."
+   "idea": "Fermentera purjolöksringar i 2% saltlake en vecka, syrlig krämig topping till smörgåsar."
+  },
+  {
+   "ingredient": "pumpa",
+   "idea": "Baka pumpabröd: riv rå pumpa i degen, 10% av mjölvikten, ger saftig krumelur."
+  },
+  {
+   "ingredient": "jordärtskocka",
+   "idea": "Snabbstek jordärtskockeskivor i smör och timjan 8 minuter, servera som enkel vardagstillbehör."
   }
  ]
 }
