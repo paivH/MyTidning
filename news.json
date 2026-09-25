@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-25T19:24:09.523Z",
+ "updated": "2026-09-25T22:37:22.911Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+   "date": "2026-09-25T20:47:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+   "desc": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,14 +28,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-   "date": "2026-09-25T03:57:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-   "desc": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
    "date": "2026-09-25T19:13:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Students strike across Germany in protest against military service",
-   "date": "2026-09-25T15:36:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-   "desc": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow."
+   "title": "Trump's plans for massive arch move ahead",
+   "date": "2026-09-25T18:27:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+   "desc": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\"."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Emil Holms nya smäll – utburen på bår",
+   "date": "2026-09-25T20:06:54.000Z",
+   "link": "https://www.svt.se/sport/fotboll/emil-holms-nya-small-utbytt-skadad",
+   "desc": "Smäll för Sverige. Emil Holm, 26, skrek ut sin smärta och byttes ut med en skada i matchen mot Rumänien. – Vi är förkrossade, säger förbundskapten Graham Potter."
   },
   {
    "src": "SVT",
@@ -47,7 +55,7 @@
    "title": "Bilförare kraschade in i byggnad på hustomt i Piteå",
    "date": "2026-09-25T17:32:20.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/norrbotten/bilforare-har-kraschat-in-i-ett-hus-i-pitea",
-   "desc": "En singelolycka med personbil har inträffat strax utanför centrala Piteå. Föraren ska ha kört in i en byggnad på en hustomt och räddningstjänsten behövde klippa i fordonet."
+   "desc": "En singelolycka med personbil inträffade strax utanför centrala Piteå under fredagskvällen. Föraren ska ha kört in i en byggnad på en hustomt och räddningstjänsten behövde klippa i fordonet. En man och en kvinna, båda i 70-årsåldern, vårdas på intensivvårdsavdelning med allvarliga skador."
   },
   {
    "src": "SVT",
@@ -74,12 +82,20 @@
    "desc": "Under veckan har Försvarsmakten genomfört en omfattande övning i och runt Övertorneå centralort. Bron över till Finland har blivit extra viktig att skydda efter Sveriges inträde i Nato – och när SVT är på plats säkras bron mot möjliga sabotage."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Tom rullstol vid vattnet orsakade utryckning i Lugnvik",
-   "date": "2026-09-25T13:24:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/tom-rullstol-vid-vattnet-orsakade-utryckning-i-lugnvik",
-   "desc": "Efter ett larm om en tom rullstol vid kajkanten i Lugnvik i Östersunds kommun på fredagen inleddes ett stort sökpådrag. Räddningstjänsten sökte igenom vattnet med dykare och även drönare använes i insatsen."
+   "title": "Fjellner (M) kräver att kommunstyrelsen utreder valfusk: ”Katastrof”",
+   "date": "2026-09-25T20:09:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fjellner-m-kraver-att-kommunstyrelsen-utreder-valfusk-katastrof",
+   "desc": "Moderaterna i Stockholms stad vill se en utredning från kommunen kring det misstänkta valfusket. I en intervju i kvällens Aktuellt uppmanar oppositionsborgarråd Christofer Fjellner (M) att styret ska agera på anklagelserna. – Framför allt måste vi gå till botten med vad som har hänt, säger han."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt mordbrand i Stockholm",
+   "date": "2026-09-25T19:50:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-stockholm",
+   "desc": "Ett trapphus i ett lägenhetshus i Hägerstensåsen började brinna under fredagskvällen. Polisen misstänker att branden är anlagd och söker nu efter gärningsman och förhör vittnen i området."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-09-25T13:30:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/thords-utrop-uppskattas-av-resenarerna-nu-vill-sl-fa-fler-att-tanka-pa-varandra",
    "desc": "Högljudda mobiler, ryggsäckar som tar plats och resenärer som inte lämnar sittplats åt behövande. Det är några av beteendena som SL vill komma åt när de återigen uppmanar resenärer att visa mer hänsyn i kollektivtrafiken."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Förundersökning inledd om misstänkt valfusk i Järva",
-   "date": "2026-09-25T12:34:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forundersokning-inledd-om-misstankt-valfusk-i-jarva",
-   "desc": "Polisen har inlett en förundersökning angående misstänkta valfusket i Järva, efter påståenden i en ledarartikel i Svenska dagbladet. I talande stund behandlas sammanlagt fem ärenden om misstänkt valfusk i Stockholmsområdet. – De andra fyra ärendena på andra platser i Stockholm, säger polisens presstalesperson Nadya Norton."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nya tunnelbanan försenas – och blir 23 miljarder dyrare: ”Unikt”",
-   "date": "2026-09-25T09:32:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/slutprognosen-nya-tunnelbanan-blir-23-miljarder-dyrare",
-   "desc": "Den nya tunnelbanan både försenas och blir 23 miljarder kronor dyrare. Det visar Region Stockholms slutkostnadsprognos som presenterades på fredagen."
   },
   {
    "src": "BBC",
