@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-26T15:41:03.821Z",
+ "updated": "2026-09-26T18:57:42.092Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Huge crowds greet Pope in Paris for open-air Mass",
-   "date": "2026-09-26T13:23:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-   "desc": "More than half a million people are expected to attend the event in the heart of the French capital."
+   "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+   "date": "2026-09-26T18:17:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president says Tehran had only put forward the proposal because it is losing the war."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-   "date": "2026-09-26T05:03:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-   "desc": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators."
+   "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+   "date": "2026-09-26T16:53:32.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+   "desc": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer."
   },
   {
    "src": "BBC",
@@ -36,10 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Bangkok roads submerged as flood disaster declared",
-   "date": "2026-09-26T07:21:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-   "desc": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
+   "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+   "date": "2026-09-26T15:48:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+   "desc": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\"."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "John Mellberg om kallelsen till landslaget: ”Överraskande på något sätt”",
+   "date": "2026-09-26T17:48:40.000Z",
+   "link": "https://www.svt.se/sport/fotboll/john-mellberg-om-kallelsen-till-landslaget-overraskande-pa-nagot-satt",
+   "desc": "John Mellberg kallades av förbundskapten Graham Potter. Ett besked som överraskade försvararen. – Samtidigt tycker jag att jag har gjort det bra när jag spelat, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Benjamin Nygren om CL-missen: ”Extra tungt...”",
+   "date": "2026-09-26T17:48:28.000Z",
+   "link": "https://www.svt.se/sport/fotboll/benjamin-nygren-om-cl-missen-extra-tungt",
+   "desc": "För andra året i rad har Celtic missat att ta sig till Champions League. Tungt för spelarna och supportrarna menar Benjamin Nygren. – Fansen blir så klart lika besvikna som vi, säger han till SVT Sport."
   },
   {
    "src": "SVT",
@@ -66,28 +82,20 @@
    "desc": "Sverige fortsätter att plocka EM-medaljer i orientering – men den här gången var det inte guldfavoriten Tove Alexandersson. Istället slog Hanna Lundberg till med ett jättelopp i medeldistansen och säkrade segern. – Det är helt jävla sjukt, säger hon till SVT Sport."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Succén fortsätter – Felicia Schröder tvåmålsskytt för Real Madrid",
-   "date": "2026-09-26T12:54:32.000Z",
-   "link": "https://www.svt.se/sport/fotboll/succen-fortsatter-schroder-tvamalsskytt",
-   "desc": "Felicia Schröder, 19, går som tåget. Under lördagen hittade hon nät två gånger om. Svenskan blev stor matchhjälte."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lång kö och trängsel när Östgötateatern sålde ut kostymer",
-   "date": "2026-09-26T12:47:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/lang-ko-och-trangsel-nar-ostgotateatern-salde-ut-kostymer",
-   "desc": "Östgötateaterns kostymförråd i Norrköping ska byta lokaler och under Kulturnattshelgen har man passat på att lätta på lasten genom att sälja av med 10 000 kostymer plus en stor mängd hattar."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Jan, 80, springer Lidingöloppet för 28:e gången – trotsar cancer och hemlöshet",
    "date": "2026-09-26T15:15:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/jan-80-springer-lidingoloppet-for-28e-gangen-trotsar-cancer-och-hemloshet",
    "desc": "80-åriga Jan Brågård lever på existensminimum i sin bil och turnerar runt Sverige för att delta i diverse uthållighetslopp. Innan han springer Lidingöloppet för 28:e gången berättar han för SVT om sitt liv i alkoholism och när vändningen kom. – Det är ett sätt att att hålla dörren öppen för livet, säger han."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 26 september",
+   "date": "2026-09-26T15:07:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-26-september-9ccm5e",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under lördagen den 26 september."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-26T03:30:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-trangt-kan-du-behova-leva-i-landets-skyddsrum",
    "desc": "Knappt en kvadratmeter per person. Så mycket yta är beräknad i landets skyddsrum, och där ska du kunna spendera tre dygn utan avbrott. Dessutom finns det förbud i skyddsrummet. – Skyddsrum är bara till för människor, säger Jörgen Frändén på Huge, Huddinges kommunala fastighetsbolag."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Fjellner (M) kräver att kommunstyrelsen utreder valfusk: ”Katastrof”",
-   "date": "2026-09-25T20:09:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fjellner-m-kraver-att-kommunstyrelsen-utreder-valfusk-katastrof",
-   "desc": "Moderaterna i Stockholms stad vill se en utredning från kommunen kring det misstänkta valfusket. I en intervju i kvällens Aktuellt uppmanar oppositionsborgarråd Christofer Fjellner (M) att styret ska agera på anklagelserna. – Framför allt måste vi gå till botten med vad som har hänt, säger han."
   },
   {
    "src": "BBC",
