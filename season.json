@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-25T08:58:47.419Z",
+ "updated": "2026-09-26T08:45:07.598Z",
  "items": [
   {
-   "ingredient": "päron",
-   "idea": "Snabbpicklade päronskivor: 1:1:1 ättika, vatten, socker, koka upp med kryddnejlika, kyl 30 min."
+   "ingredient": "pumpa",
+   "idea": "Snabbinlagd pumpa: skiva tunt, koka lag 2:1:1 vinäger, socker, vatten, häll varm över, kyl en timme."
+  },
+  {
+   "ingredient": "svamp",
+   "idea": "Snabb vardagsrätt: stek kantareller i smör, vitlök och timjan, servera på rostat surdegsbröd."
+  },
+  {
+   "ingredient": "rödbetor",
+   "idea": "Fermentera rödbetor i 2% saltlake, låt stå 5-7 dagar vid rumstemperatur för syrlig smak."
   },
   {
    "ingredient": "purjolök",
-   "idea": "Fermentera purjolöksringar i 2% saltlake en vecka, syrlig krämig topping till smörgåsar."
-  },
-  {
-   "ingredient": "pumpa",
-   "idea": "Baka pumpabröd: riv rå pumpa i degen, 10% av mjölvikten, ger saftig krumelur."
-  },
-  {
-   "ingredient": "jordärtskocka",
-   "idea": "Snabbstek jordärtskockeskivor i smör och timjan 8 minuter, servera som enkel vardagstillbehör."
+   "idea": "Baka purjolöksbröd: fräs purjolök i smör, blanda i degen, låt jäsa över natten."
   }
  ]
 }
