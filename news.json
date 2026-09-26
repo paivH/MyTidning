@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-26T11:38:50.053Z",
+ "updated": "2026-09-26T15:41:03.821Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Huge crowds greet Pope in Paris for open-air Mass",
+   "date": "2026-09-26T13:23:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+   "desc": "More than half a million people are expected to attend the event in the heart of the French capital."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,18 +20,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "OpenAI bots meddled with multiple US government agency sites",
-   "date": "2026-09-26T02:50:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-   "desc": "OpenAI said its bots accessed public data from a range of institutions during test exercises."
+   "title": "British national among six dead in building explosion close to Acropolis in Athens",
+   "date": "2026-09-26T12:47:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
-   "date": "2026-09-26T10:18:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Local media report the property included a holiday rental, with US tourists and a UK national among the missing."
+   "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+   "date": "2026-09-26T15:12:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+   "desc": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials."
   },
   {
    "src": "BBC",
@@ -34,52 +42,60 @@
    "desc": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-   "date": "2026-09-25T23:20:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-   "desc": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jonas Eriksson reder ut Sveriges bortdömda mål: ”Får kontroll tack vare handen”",
+   "date": "2026-09-26T14:47:09.000Z",
+   "link": "https://www.svt.se/sport/fotboll/jonas-eriksson-reder-ut-sveriges-bortdomda-mal-far-kontroll-tack-vare-handen",
+   "desc": "Elliot Strouds bortdömda mål har diskuterats flitigt. Nu reder domarexperten Jonas Eriksson ut situationen. – Det är oturligt och olyckligt att det bedöms på grund av en hands som sker elva sekunder tidigare, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Boende i Bangkok om översvämningarna: ”Chock”",
-   "date": "2026-09-26T10:27:10.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/boende-i-bangkok-om-oversvamningarna-chock",
-   "desc": "Många av Bangkoks gator ligger under vatten. Det plötsliga katastrofläget kom som en överraskning för många. – Det känns ganska skrämmande, säger Nichapat Klangprapan till Reuters."
+   "title": "Hundratals hushåll utanför Linköping utan vatten",
+   "date": "2026-09-26T14:23:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/hundratals-hushall-utanfor-linkoping-utan-vatten",
+   "desc": "Sedan 14.30-tiden står över 1100 hushåll öster om Linköping utan vatten."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Utsatte katt för sexuella handlingar – man och kvinna från Västerbotten åtalas",
-   "date": "2026-09-26T10:20:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/utsatte-katt-for-sexuella-handlingar-man-och-kvinna-fran-vasterbotten-atalas",
-   "desc": "En man och en kvinna från Västerbotten åtalas misstänka för att ha utsatt en katt för sexuella handlingar. Bland bevisen finns flera inspelade filmer."
+   "title": "EM-guld till Hanna Lundberg – Tove Alexandersson med jättemiss",
+   "date": "2026-09-26T13:13:22.000Z",
+   "link": "https://www.svt.se/sport/orientering/em-guld-till-hanna-lundberg-tove-alexandersson-med-jattemiss",
+   "desc": "Sverige fortsätter att plocka EM-medaljer i orientering – men den här gången var det inte guldfavoriten Tove Alexandersson. Istället slog Hanna Lundberg till med ett jättelopp i medeldistansen och säkrade segern. – Det är helt jävla sjukt, säger hon till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Två slagsmål på två dagar – Akilov isolerades",
-   "date": "2026-09-26T09:12:34.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/tva-slagsmal-pa-tva-dagar-nu-halls-akilov-avskild",
-   "desc": "Två polisanmälda slagsmål på två dagar – sedan placerades Rakhmat Akilov i avskildhet. Nya handlingar från Kriminalvården visar hur situationen kring den dömde terroristen har eskalerat på Tidaholmsanstalten."
+   "title": "Succén fortsätter – Felicia Schröder tvåmålsskytt för Real Madrid",
+   "date": "2026-09-26T12:54:32.000Z",
+   "link": "https://www.svt.se/sport/fotboll/succen-fortsatter-schroder-tvamalsskytt",
+   "desc": "Felicia Schröder, 19, går som tåget. Under lördagen hittade hon nät två gånger om. Svenskan blev stor matchhjälte."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Riksbankschefens varning till regeringen: Annars går inte ekvationen ihop",
-   "date": "2026-09-26T08:23:39.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/riksbankschefens-varning-till-regeringen-annars-gar-inte-ekvationen-ihop",
-   "desc": "Riksbanken har flaggat för flera räntehöjningar framöver. Men enligt riksbankschef Erik Thedéen kan ytterligare räntehöjningar vänta – om den kommande regeringen inte finansierar sina vallöften. – Annars går inte den där ekvationen ihop, säger han i Ekots lördagsintervju."
+   "title": "Lång kö och trängsel när Östgötateatern sålde ut kostymer",
+   "date": "2026-09-26T12:47:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/lang-ko-och-trangsel-nar-ostgotateatern-salde-ut-kostymer",
+   "desc": "Östgötateaterns kostymförråd i Norrköping ska byta lokaler och under Kulturnattshelgen har man passat på att lätta på lasten genom att sälja av med 10 000 kostymer plus en stor mängd hattar."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "CNN bannlysta från presidentflyget",
-   "date": "2026-09-26T07:39:32.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/cnn-bannlysta-fran-presidentflyget",
-   "desc": "Striden mellan USA:s president Donald Trump och medierna fortsätter. Vita husets senaste drag är att CNN-reportrar under lördagen inte tillåts resa med Trump ombord på presidentflyget Air Force One."
+   "title": "Jan, 80, springer Lidingöloppet för 28:e gången – trotsar cancer och hemlöshet",
+   "date": "2026-09-26T15:15:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/jan-80-springer-lidingoloppet-for-28e-gangen-trotsar-cancer-och-hemloshet",
+   "desc": "80-åriga Jan Brågård lever på existensminimum i sin bil och turnerar runt Sverige för att delta i diverse uthållighetslopp. Innan han springer Lidingöloppet för 28:e gången berättar han för SVT om sitt liv i alkoholism och när vändningen kom. – Det är ett sätt att att hålla dörren öppen för livet, säger han."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Stopp på E18 efter olycka utanför Kallhäll i Järfälla",
+   "date": "2026-09-26T13:05:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/totalstopp-pa-e18-mellan-jarfalla-och-kungsangen",
+   "desc": "E18 mellan trafikplats Kallhäll och trafikplats Jakobsberg var under lördagseftermiddagen helt avstängd efter en singelolycka. En spolbil ska ha vält och blockerar körfälten i båda riktningarna vilket lett till långa köer. Vid 17-tiden var lastbilen fortfarande inte bärgad."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-09-25T20:09:50.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/fjellner-m-kraver-att-kommunstyrelsen-utreder-valfusk-katastrof",
    "desc": "Moderaterna i Stockholms stad vill se en utredning från kommunen kring det misstänkta valfusket. I en intervju i kvällens Aktuellt uppmanar oppositionsborgarråd Christofer Fjellner (M) att styret ska agera på anklagelserna. – Framför allt måste vi gå till botten med vad som har hänt, säger han."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt mordbrand i Stockholm",
-   "date": "2026-09-25T19:50:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-stockholm",
-   "desc": "Ett trapphus i ett lägenhetshus i Hägerstensåsen började brinna under fredagskvällen. Polisen misstänker att branden är anlagd och söker nu efter gärningsman och förhör vittnen i området."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 25 september",
-   "date": "2026-09-25T18:03:10.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-25-september-aoofb9",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under fredagen den 25 september."
   },
   {
    "src": "BBC",
