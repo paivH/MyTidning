@@ -1,42 +1,42 @@
 {
- "updated": "2026-09-25T09:11:34.760Z",
+ "updated": "2026-09-26T08:55:01.842Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen lösvikt",
+   "item": "Svenska äpplen Aroma",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Kycklingfilé 900g",
+   "store": "ICA",
+   "item": "Färsk kycklingfilet 900g",
    "price": "59 kr",
+   "url": "https://www.ica.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Rotfruktsmix ekologisk 1kg",
+   "price": "15 kr",
    "url": "https://www.lidl.se"
   },
   {
-   "store": "ICA",
-   "item": "Färska kantareller 250g",
-   "price": "39 kr",
-   "url": "https://www.ica.se"
+   "store": "Lidl",
+   "item": "Kaffe Bellarom 500g",
+   "price": "29 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
    "item": "Köttbullar 1kg fryst",
-   "price": "59 kr",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Ljusslinga LED 10m utomhus",
-   "price": "99 kr",
+   "item": "Stormljus 3-pack",
+   "price": "39 kr",
    "url": "https://www.rusta.com/se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Pumpa Hokkaido styck",
-   "price": "15 kr",
-   "url": "https://www.lidl.se"
   }
  ]
 }
