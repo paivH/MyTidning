@@ -1,14 +1,6 @@
 {
- "updated": "2026-09-26T06:21:55.818Z",
+ "updated": "2026-09-26T11:38:50.053Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "OpenAI bots meddled with multiple US government agency sites",
-   "date": "2026-09-26T02:50:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-   "desc": "OpenAI said its bots accessed public data from a range of institutions during test exercises."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,10 +12,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-   "date": "2026-09-25T20:47:49.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-   "desc": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president."
+   "title": "OpenAI bots meddled with multiple US government agency sites",
+   "date": "2026-09-26T02:50:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+   "desc": "OpenAI said its bots accessed public data from a range of institutions during test exercises."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
+   "date": "2026-09-26T10:18:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Local media report the property included a holiday rental, with US tourists and a UK national among the missing."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Bangkok roads submerged as flood disaster declared",
+   "date": "2026-09-26T07:21:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+   "desc": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
   },
   {
    "src": "BBC",
@@ -34,52 +42,44 @@
    "desc": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-   "date": "2026-09-25T23:05:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-   "desc": "Current and former agents speak to the BBC about the devastating impact of the FBI hack."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Boende i Bangkok om översvämningarna: ”Chock”",
+   "date": "2026-09-26T10:27:10.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/boende-i-bangkok-om-oversvamningarna-chock",
+   "desc": "Många av Bangkoks gator ligger under vatten. Det plötsliga katastrofläget kom som en överraskning för många. – Det känns ganska skrämmande, säger Nichapat Klangprapan till Reuters."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Översvämningar i Bangkok – katastroftillstånd utfärdat",
-   "date": "2026-09-26T05:12:44.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/oversvamningar-i-bangkok-katastroftillstand-utfardat",
-   "desc": "Stora översvämningar har drabbat Thailands huvudstad Bangkok. Katastroftillstånd har utlysts sedan kraftiga regn täckt gatorna med djupt vatten."
+   "title": "Utsatte katt för sexuella handlingar – man och kvinna från Västerbotten åtalas",
+   "date": "2026-09-26T10:20:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/utsatte-katt-for-sexuella-handlingar-man-och-kvinna-fran-vasterbotten-atalas",
+   "desc": "En man och en kvinna från Västerbotten åtalas misstänka för att ha utsatt en katt för sexuella handlingar. Bland bevisen finns flera inspelade filmer."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Knutson: ”S dröm är att slippa V”",
-   "date": "2026-09-26T03:37:03.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/knutson-s-drom-ar-att-slippa-v",
-   "desc": "Vänsterpartiet kräver ministerposter, men Socialdemokraterna tvekar. Trots att partierna står nära varandra i flera frågor finns en lång historia av misstro. – Socialdemokraternas dröm är att slippa Vänsterpartiet, säger SVT:s inrikespolitiska kommentator Mats Knutson."
+   "title": "Två slagsmål på två dagar – Akilov isolerades",
+   "date": "2026-09-26T09:12:34.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/tva-slagsmal-pa-tva-dagar-nu-halls-akilov-avskild",
+   "desc": "Två polisanmälda slagsmål på två dagar – sedan placerades Rakhmat Akilov i avskildhet. Nya handlingar från Kriminalvården visar hur situationen kring den dömde terroristen har eskalerat på Tidaholmsanstalten."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter tolv års filmande – nu är filmen om Dogge Doggelito klar",
-   "date": "2026-09-26T03:30:08.000Z",
-   "link": "https://www.svt.se/kultur/efter-tolv-ars-filmande-nu-ar-filmen-om-dogge-doggelito-klar",
-   "desc": "Regissören Iván Blanco följde Latin Kings-legendaren i över ett decennium. Nu går ”Första blatten på månen” upp på bio."
+   "title": "Riksbankschefens varning till regeringen: Annars går inte ekvationen ihop",
+   "date": "2026-09-26T08:23:39.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/riksbankschefens-varning-till-regeringen-annars-gar-inte-ekvationen-ihop",
+   "desc": "Riksbanken har flaggat för flera räntehöjningar framöver. Men enligt riksbankschef Erik Thedéen kan ytterligare räntehöjningar vänta – om den kommande regeringen inte finansierar sina vallöften. – Annars går inte den där ekvationen ihop, säger han i Ekots lördagsintervju."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Udda fyndet utanför Nyköping: Trepanerad människoskalle",
-   "date": "2026-09-26T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/udda-fyndet-utanfor-nykoping-trepanerad-manniskoskalle",
-   "desc": "Vid en utgrävning i Tystberga gjordes nyligen ett udda fynd: Toppen av en människoskalle – med ett kirurgiskt utfört hål i mitten. Och enligt arkeologen Tove Stjärna finns det flera saker som sticker ut med fyndet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så skyddar du din trädgård mot mördarsniglar – under hösten: ”Inte så mysigt att trampa i”",
-   "date": "2026-09-26T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/sa-skyddar-du-din-tradgard-mot-mordarsniglar-under-hosten-inte-sa-mysigt-att-trampa-i",
-   "desc": "Under hösten är det viktigt att hitta och döda mördarsniglar – för att minska mängden till nästa säsong. Även privatpersoner bör leta igenom sin trädgård innan vintern. – Det är viktigt att hitta så många som möjligt, säger Eva-Karin Sjödin, hundförare."
+   "title": "CNN bannlysta från presidentflyget",
+   "date": "2026-09-26T07:39:32.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/cnn-bannlysta-fran-presidentflyget",
+   "desc": "Striden mellan USA:s president Donald Trump och medierna fortsätter. Vita husets senaste drag är att CNN-reportrar under lördagen inte tillåts resa med Trump ombord på presidentflyget Air Force One."
   },
   {
    "src": "STHLM",
@@ -87,7 +87,7 @@
    "title": "Stopp på delar av röda linjen i helgen",
    "date": "2026-09-26T05:44:34.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-pa-delar-av-roda-linjen-i-helgen",
-   "desc": "Trafiken på tunnelbanans röda linje är stoppad mellan Östermalmstorg och Karlaplan under hela helgen. Undantag är ett tåg som pendlar mellan Östermalmstorg och Karlaplan för resenärer som ska till Ropsten."
+   "desc": "Ett växelfel har inträffat någonstans mellan Östermalmstorg och Karlaplan men nu kan tåg mellan Ropsten och Östermalmstorg trafikeras igen. – Vi har kapacitet för normal trafik och resenärerna behöver bara göra ett byte på Östermalmstorg, säger SL:s presschef Andreas Strömberg."
   },
   {
    "src": "STHLM",
