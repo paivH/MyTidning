@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-25T22:37:22.911Z",
+ "updated": "2026-09-26T01:09:20.280Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+   "date": "2026-09-25T23:38:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+   "desc": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,34 +20,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Special agents' blood and urine test results stolen in FBI hack",
-   "date": "2026-09-25T13:56:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-   "desc": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+   "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+   "date": "2026-09-25T23:20:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+   "desc": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Pope warns against 'losing humanity' to AI machines",
-   "date": "2026-09-25T15:06:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-   "desc": "The pontiff delivered the warning on the first day of his trip to France on Friday."
+   "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+   "date": "2026-09-25T23:05:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+   "desc": "Current and former agents speak to the BBC about the devastating impact of the FBI hack."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-   "date": "2026-09-25T19:13:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-   "desc": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump's plans for massive arch move ahead",
-   "date": "2026-09-25T18:27:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-   "desc": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\"."
+   "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+   "date": "2026-09-26T00:09:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+   "desc": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said."
   },
   {
    "src": "SVT",
