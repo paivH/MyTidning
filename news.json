@@ -1,13 +1,37 @@
 {
- "updated": "2026-09-27T05:31:56.154Z",
+ "updated": "2026-09-27T11:19:15.709Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-   "date": "2026-09-26T22:15:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-   "desc": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators."
+   "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+   "date": "2026-09-27T07:44:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+   "desc": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
+   "date": "2026-09-26T23:04:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+   "desc": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Four killed in helicopter crash near Montreal",
+   "date": "2026-09-27T02:43:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+   "desc": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Two mass shootings in South Africa leave 27 dead",
+   "date": "2026-09-27T10:00:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
   },
   {
    "src": "BBC",
@@ -18,68 +42,68 @@
    "desc": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "British national among six dead in building explosion close to Acropolis in Athens",
-   "date": "2026-09-26T12:47:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-   "date": "2026-09-26T15:48:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-   "desc": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-   "date": "2026-09-27T04:23:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-   "desc": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rasmus Aspholms utspark gick rakt i mål: ”Overkligt”",
+   "date": "2026-09-27T10:54:31.000Z",
+   "link": "https://www.svt.se/sport/fotboll/rasmus-aspholms-utspark-gick-rakt-i-mal-overkligt",
+   "desc": "Varken Rasmus Aspholm eller den vilda kommentatorn kunde tro sina ögon. Utsparken seglade över hela planen – och in i mål. – Det var overkligt, säger Luleå-målvakten till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bokmässan ställer in Stefan Holms programpunkter",
-   "date": "2026-09-27T05:01:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/bokmassan-staller-in-stefan-holms-programpunkter",
-   "desc": "Stefan Holms programpunkter på Bokmässan ställs in med anledning av idrottarens våldsamma angrepp mot journalisten Emil Persson på lördagen."
+   "title": "Daniel Svenssons svar på ryktena: ”Såg något om det”",
+   "date": "2026-09-27T10:04:04.000Z",
+   "link": "https://www.svt.se/sport/fotboll/daniel-svenssons-svar-pa-ryktena-sag-nagot-om-det",
+   "desc": "Daniel Svensson, 24, ryktades till Arsenal och Liverpool. Vänsterbacken tonar ner allt. – Jag såg något om det, säger han till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här är doldisarna som ska lösa regeringspusslet",
-   "date": "2026-09-27T03:40:49.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/har-ar-doldisarna-som-ska-losa-regeringspusslet",
-   "desc": "Källor pekar ut möjliga förhandlare"
+   "title": "Emil Persson bad Stefan Holm om ursäkt – för åtta år sedan",
+   "date": "2026-09-27T09:33:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/emil-persson-bad-stefan-holm-om-ursakt-for-atta-ar-sedan",
+   "desc": "Stefan Holm hävdar att Emil Persson aldrig bett honom om ursäkt för skämtet som berörde hans son i ett tv-program 2018. Men redan dagen efter skickade Emil Persson en ursäkt. ”Dra åt helvete!!!!!!”, svarade Stefan Holm på sms:et."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Allt fler unga kvinnor döms för våldsbrott – forskare i Umeå vill ha mer kunskap",
-   "date": "2026-09-27T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/allt-fler-unga-kvinnor-doms-for-valdsbrott-forskare-i-umea-vill-ha-mer-kunskap",
-   "desc": "Allt fler unga kvinnor döms för våldsbrott. Nu ska forskare i Umeå intervjua dömda kvinnor för att få mer kunskap om deras erfarenheter av våld, utsatthet och tiden i fängelse. – Det finns väldigt lite forskning om kvinnor på anstalt, säger Linda Arnell, docent i socialt arbete vid Umeå universitet."
+   "title": "Valdeltagandet ökade i utsatta områden: ”Kan ha uppfattats som särskilt viktigt”",
+   "date": "2026-09-27T08:26:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/valdeltagandet-okade-i-utsatta-omraden-kan-ha-uppfattats-som-sarskilt-viktigt",
+   "desc": "Valdeltagandet blev högre i år i utsatta områden än 2022 – men valdeltagandet är ingen toppnotering utan snarare tillbaka 2018 års nivåer. Det visar SVT:s kartläggning nu när den slutliga rösträkningen är klar. – Valet kan ha uppfattats som särskilt viktigt i dessa områden, säger Karl-Oskar Lindgren, som forskar om valdeltagande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Jamaica Kincaid: Mamma lärde mig läsa för att få vara ifred",
-   "date": "2026-09-27T03:30:02.000Z",
-   "link": "https://www.svt.se/kultur/jamaica-kincaid-mamma-larde-mig-lasa-for-att-fa-vara-ifred",
-   "desc": "Författaren Jamaica Kincaid har skrivit mycket om mor- och dotterrelationer. I en intervju med SVT:s Babel berättar hon hur hennes mamma lärde henne att läsa vid tre års ålder för att bli lämnad ifred."
+   "title": "Corey Conners missar totalt – då kommer åskådare till undsättning med spark",
+   "date": "2026-09-27T07:57:42.000Z",
+   "link": "https://www.svt.se/sport/golf/corey-conners-missar-totalt-da-kommer-askadare-till-undsattning-med-spark",
+   "desc": "Corey Conners missade på helt fel ställe under Presidents Cup. Då fick han oväntad sparkhjälp av en åskådare. – Jag vet inte vad som hände, säger kommentatorn Dan Hicks i NBC."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Drunkningstillbud utanför Falun – man svårt skadad",
-   "date": "2026-09-26T17:55:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/drunkningslarm-fran-vikasjon-utanfor-falun",
-   "desc": "En person vårdas på sjukhus för svåra skador efter ett drunkningslarm från Vikavägen, vid norra Vikasjön. Ytterligare en person ska ha varit inblandad men är oskadd."
+   "title": "Följ med på beredskapsövning på Möja",
+   "date": "2026-09-27T11:18:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/folj-med-pa-beredskapsovning-pa-moja",
+   "desc": "Under helgen har Värmdö kommun och flera frivilligorganisationer haft en beredskapsövning för att tillsammans öva på att stärka motståndskraften i skärgården. – Det är långa avstånd och det tar tid att transportera folk. Det är en jätteutmaning, säger Johan Berglind, säkerhetssamordnare i Värmdö kommun."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Vattenläcka utanför Huddinge – gata i Vidja utan vatten",
+   "date": "2026-09-27T06:55:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vattenlacka-utanfor-huddinge-gata-i-vidja-utan-vatten",
+   "desc": "En vattenledning brast intill ett fritidshus i Vidja, söder om Stockholm, under söndagsmorgonen. Läckan är under kontroll efter att man stängt av vattnet till bostadsområdet. – Vi har ingen klar prognos på när vattnet kan sättas på igen, säger Patrik Johansson, vakthavande befäl på Räddningstjänsten."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Fyra anhållna efter grovt rån i Rinkeby",
+   "date": "2026-09-27T06:40:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fyra-anhallna-efter-grovt-ran-i-rinkeby",
+   "desc": "Fyra unga män är gripna och anhållna efter ett grovt rån i en bostad i Rinkeby under lördagen. Målsägande hotades med kniv och ett pistolliknande föremål."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-09-26T15:15:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/jan-80-springer-lidingoloppet-for-28e-gangen-trotsar-cancer-och-hemloshet",
    "desc": "80-åriga Jan Brågård lever på existensminimum i sin bil och turnerar runt Sverige för att delta i diverse uthållighetslopp. Innan han springer Lidingöloppet för 28:e gången berättar han för SVT om sitt liv i alkoholism och när vändningen kom. – Det är ett sätt att att hålla dörren öppen för livet, säger han."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 26 september",
-   "date": "2026-09-26T15:07:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-26-september-9ccm5e",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under lördagen den 26 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stopp på E18 efter olycka utanför Kallhäll i Järfälla",
-   "date": "2026-09-26T13:05:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/totalstopp-pa-e18-mellan-jarfalla-och-kungsangen",
-   "desc": "E18 mellan trafikplats Kallhäll och trafikplats Jakobsberg var under lördagseftermiddagen helt avstängd efter en singelolycka. En spolbil ska ha vält och blockerade körfälten i båda riktningarna vilket ledde till långa köer."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stopp på delar av röda linjen i helgen",
-   "date": "2026-09-26T05:44:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-pa-delar-av-roda-linjen-i-helgen",
-   "desc": "Ett växelfel har inträffat någonstans mellan Östermalmstorg och Karlaplan men nu kan tåg mellan Ropsten och Östermalmstorg trafikeras igen. – Vi har kapacitet för normal trafik och resenärerna behöver bara göra ett byte på Östermalmstorg, säger SL:s presschef Andreas Strömberg."
   },
   {
    "src": "BBC",
