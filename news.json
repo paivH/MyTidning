@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T00:10:29.596Z",
+ "updated": "2026-09-27T05:31:56.154Z",
  "items": [
   {
    "src": "BBC",
@@ -37,9 +37,41 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-   "date": "2026-09-26T22:04:26.000Z",
+   "date": "2026-09-27T04:23:09.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
    "desc": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bokmässan ställer in Stefan Holms programpunkter",
+   "date": "2026-09-27T05:01:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/bokmassan-staller-in-stefan-holms-programpunkter",
+   "desc": "Stefan Holms programpunkter på Bokmässan ställs in med anledning av idrottarens våldsamma angrepp mot journalisten Emil Persson på lördagen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här är doldisarna som ska lösa regeringspusslet",
+   "date": "2026-09-27T03:40:49.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/har-ar-doldisarna-som-ska-losa-regeringspusslet",
+   "desc": "Källor pekar ut möjliga förhandlare"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Allt fler unga kvinnor döms för våldsbrott – forskare i Umeå vill ha mer kunskap",
+   "date": "2026-09-27T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/allt-fler-unga-kvinnor-doms-for-valdsbrott-forskare-i-umea-vill-ha-mer-kunskap",
+   "desc": "Allt fler unga kvinnor döms för våldsbrott. Nu ska forskare i Umeå intervjua dömda kvinnor för att få mer kunskap om deras erfarenheter av våld, utsatthet och tiden i fängelse. – Det finns väldigt lite forskning om kvinnor på anstalt, säger Linda Arnell, docent i socialt arbete vid Umeå universitet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jamaica Kincaid: Mamma lärde mig läsa för att få vara ifred",
+   "date": "2026-09-27T03:30:02.000Z",
+   "link": "https://www.svt.se/kultur/jamaica-kincaid-mamma-larde-mig-lasa-for-att-fa-vara-ifred",
+   "desc": "Författaren Jamaica Kincaid har skrivit mycket om mor- och dotterrelationer. I en intervju med SVT:s Babel berättar hon hur hennes mamma lärde henne att läsa vid tre års ålder för att bli lämnad ifred."
   },
   {
    "src": "SVT",
@@ -50,36 +82,12 @@
    "desc": "En person vårdas på sjukhus för svåra skador efter ett drunkningslarm från Vikavägen, vid norra Vikasjön. Ytterligare en person ska ha varit inblandad men är oskadd."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "John Mellberg om kallelsen till landslaget: ”Överraskande på något sätt”",
-   "date": "2026-09-26T17:48:40.000Z",
-   "link": "https://www.svt.se/sport/fotboll/john-mellberg-om-kallelsen-till-landslaget-overraskande-pa-nagot-satt",
-   "desc": "John Mellberg kallades av förbundskapten Graham Potter. Ett besked som överraskade försvararen. – Samtidigt tycker jag att jag har gjort det bra när jag spelat, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Benjamin Nygren om CL-missen: ”Extra tungt...”",
-   "date": "2026-09-26T17:48:28.000Z",
-   "link": "https://www.svt.se/sport/fotboll/benjamin-nygren-om-cl-missen-extra-tungt",
-   "desc": "För andra året i rad har Celtic missat att ta sig till Champions League. Tungt för spelarna och supportrarna menar Benjamin Nygren. – Fansen blir så klart lika besvikna som vi, säger han till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sågar det bortdömda målet: ”Vi är på en skör lina i SHL”",
-   "date": "2026-09-26T17:41:30.000Z",
-   "link": "https://www.svt.se/sport/ishockey/sagar-det-bortdomda-malet-vi-ar-pa-en-skor-lina-i-shl",
-   "desc": "Mathias Bromés bortdömda mål blev snabbt en snackis. Han sågade domslutet – och får medhåll av experten John Klingberg som tittat på bilderna. – Jag förstår att han är arg, säger Klingberg."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Jonas Eriksson reder ut Sveriges bortdömda mål: ”Får kontroll tack vare handen”",
-   "date": "2026-09-26T14:47:09.000Z",
-   "link": "https://www.svt.se/sport/fotboll/jonas-eriksson-reder-ut-sveriges-bortdomda-mal-far-kontroll-tack-vare-handen",
-   "desc": "Elliot Strouds bortdömda mål har diskuterats flitigt. Nu reder domarexperten Jonas Eriksson ut situationen. – Det är oturligt och olyckligt att det bedöms på grund av en hands som sker elva sekunder tidigare, säger han."
+   "title": "Moa och Hannah i Stockholm försöker få barn som lesbiskt par",
+   "date": "2026-09-27T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/moa-och-hannah-forsoker-fa-barn-som-lesbiskt-par",
+   "desc": "När Moa och Hannah bestämde sig för att de ville ha barn visste de inte var de skulle börja. Efter många internetsökningar och samtal med andra lesbiska lyckades de bana ut vägen. Nu dokumenterar de sin resa mot att bli föräldrar i sociala medier. – Vi märkte att det inte fanns så mycket information om det här, säger Hannah Silfvercrantz."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-26T05:44:34.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-pa-delar-av-roda-linjen-i-helgen",
    "desc": "Ett växelfel har inträffat någonstans mellan Östermalmstorg och Karlaplan men nu kan tåg mellan Ropsten och Östermalmstorg trafikeras igen. – Vi har kapacitet för normal trafik och resenärerna behöver bara göra ett byte på Östermalmstorg, säger SL:s presschef Andreas Strömberg."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Så trångt kan du behöva leva i landets skyddsrum",
-   "date": "2026-09-26T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-trangt-kan-du-behova-leva-i-landets-skyddsrum",
-   "desc": "Knappt en kvadratmeter per person. Så mycket yta är beräknad i landets skyddsrum, och där ska du kunna spendera tre dygn utan avbrott. Dessutom finns det förbud i skyddsrummet. – Skyddsrum är bara till för människor, säger Jörgen Frändén på Huge, Huddinges kommunala fastighetsbolag."
   },
   {
    "src": "BBC",
