@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T11:19:15.709Z",
+ "updated": "2026-09-27T15:44:17.567Z",
  "items": [
   {
    "src": "BBC",
@@ -12,7 +12,23 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
+   "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+   "date": "2026-09-27T11:38:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Two mass shootings in South Africa leave 27 dead",
+   "date": "2026-09-27T14:09:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
    "date": "2026-09-26T23:04:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
    "desc": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today."
@@ -20,66 +36,50 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Four killed in helicopter crash near Montreal",
-   "date": "2026-09-27T02:43:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-   "desc": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Two mass shootings in South Africa leave 27 dead",
-   "date": "2026-09-27T10:00:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-   "desc": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-   "date": "2026-09-26T19:48:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-   "desc": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer."
+   "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+   "date": "2026-09-27T12:36:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Rasmus Aspholms utspark gick rakt i mål: ”Overkligt”",
-   "date": "2026-09-27T10:54:31.000Z",
-   "link": "https://www.svt.se/sport/fotboll/rasmus-aspholms-utspark-gick-rakt-i-mal-overkligt",
-   "desc": "Varken Rasmus Aspholm eller den vilda kommentatorn kunde tro sina ögon. Utsparken seglade över hela planen – och in i mål. – Det var overkligt, säger Luleå-målvakten till SVT Sport."
+   "title": "Man åtalad misstänkt för våldtäkt på krog i Eskilstuna",
+   "date": "2026-09-27T14:33:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/man-atalad-misstankt-for-valdtakt-pa-krog-i-eskilstuna",
+   "desc": "En man i 50-årsåldern har åtalats misstänkt för våldtäkt på en krog i Eskilstuna."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Daniel Svenssons svar på ryktena: ”Såg något om det”",
-   "date": "2026-09-27T10:04:04.000Z",
-   "link": "https://www.svt.se/sport/fotboll/daniel-svenssons-svar-pa-ryktena-sag-nagot-om-det",
-   "desc": "Daniel Svensson, 24, ryktades till Arsenal och Liverpool. Vänsterbacken tonar ner allt. – Jag såg något om det, säger han till SVT Sport."
+   "title": "Näringslivet sätter press på C  – ”Orolig för giftig cocktail”",
+   "date": "2026-09-27T14:24:18.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/naringslivet-satter-press-pa-c-orolig-for-giftig-cocktail",
+   "desc": "Företag och intresseorganisationer ökar nu pressen på Centerpartiet. Målet: att C ska stoppa de andra rödgröna partiernas vallöften om skattehöjningar och slopat karensavdrag. – Jag tror på Centerpartiet, och jag tror och hoppas att de kommer vara tuffa förhandlare, säger Johan Andersson, som leder företagsgruppen Mellby gård, till SVT:s Agenda."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Emil Persson bad Stefan Holm om ursäkt – för åtta år sedan",
-   "date": "2026-09-27T09:33:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/emil-persson-bad-stefan-holm-om-ursakt-for-atta-ar-sedan",
-   "desc": "Stefan Holm hävdar att Emil Persson aldrig bett honom om ursäkt för skämtet som berörde hans son i ett tv-program 2018. Men redan dagen efter skickade Emil Persson en ursäkt. ”Dra åt helvete!!!!!!”, svarade Stefan Holm på sms:et."
+   "title": "Två gripna efter slagsmål och påkörning",
+   "date": "2026-09-27T13:42:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/tva-gripna-efter-misshandel-och-pakorning",
+   "desc": "Strax efter klockan 13.30 på söndagen larmades polisen om ett slagsmål mellan två män utomhus på Timmermansgatan i stadsdelen Hageby i Norrköping."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Valdeltagandet ökade i utsatta områden: ”Kan ha uppfattats som särskilt viktigt”",
-   "date": "2026-09-27T08:26:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/valdeltagandet-okade-i-utsatta-omraden-kan-ha-uppfattats-som-sarskilt-viktigt",
-   "desc": "Valdeltagandet blev högre i år i utsatta områden än 2022 – men valdeltagandet är ingen toppnotering utan snarare tillbaka 2018 års nivåer. Det visar SVT:s kartläggning nu när den slutliga rösträkningen är klar. – Valet kan ha uppfattats som särskilt viktigt i dessa områden, säger Karl-Oskar Lindgren, som forskar om valdeltagande."
+   "title": "Svenska Hampus lagar mat åt nödställda i Thailand",
+   "date": "2026-09-27T12:28:05.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/svenska-hampus-lagar-mat-at-nodstallda-i-thailand",
+   "desc": "Bangkok har drabbats av omfattande översvämningar och tusentals människor har tvingats lämna sina hem. Svenska Hampus Jörnmark, 40, bor några mil utanför huvudstaden – och hjälper nu människor i nöd. – Just nu lagar vi mat åt sjukhuset där det finns folk som har tvingats övernatta och inte kunnat handla mat, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Corey Conners missar totalt – då kommer åskådare till undsättning med spark",
-   "date": "2026-09-27T07:57:42.000Z",
-   "link": "https://www.svt.se/sport/golf/corey-conners-missar-totalt-da-kommer-askadare-till-undsattning-med-spark",
-   "desc": "Corey Conners missade på helt fel ställe under Presidents Cup. Då fick han oväntad sparkhjälp av en åskådare. – Jag vet inte vad som hände, säger kommentatorn Dan Hicks i NBC."
+   "title": "Stefan Holm: Har gjort bort mig",
+   "date": "2026-09-27T11:11:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/stefan-holm-har-gjort-bort-mig",
+   "desc": "Stefan Holm ber Emil Persson om ursäkt i ett långt inlägg på Facebook. Han skriver också att han nu ska söka hjälp. ”Jag har gjort bort mig rejält och för detta finns inga ursäkter.”"
   },
   {
    "src": "STHLM",
@@ -125,6 +125,14 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
+   "date": "2026-09-27T14:33:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pcr7vv?at_medium=RSS&at_campaign=rss",
+   "desc": "Eva Olid after winning her first WSL game as Man Utd boss."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
    "date": "2026-09-21T15:38:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0pbs3gs?at_medium=RSS&at_campaign=rss",
    "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
@@ -144,14 +152,6 @@
    "date": "2026-09-19T21:30:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0pbghm1?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd boss Michael Carrick says the goal given against Man City was tough to take."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-18T13:56:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pbb4vf?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd head coach Michael Carrick says he hates losing games."
   }
  ]
 }
