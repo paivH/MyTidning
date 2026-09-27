@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-26T08:45:07.598Z",
+ "updated": "2026-09-27T09:25:29.142Z",
  "items": [
   {
-   "ingredient": "pumpa",
-   "idea": "Snabbinlagd pumpa: skiva tunt, koka lag 2:1:1 vinäger, socker, vatten, häll varm över, kyl en timme."
-  },
-  {
    "ingredient": "svamp",
-   "idea": "Snabb vardagsrätt: stek kantareller i smör, vitlök och timjan, servera på rostat surdegsbröd."
+   "idea": "Snabbstekt kantarell i smör och vitlök, servera på rostat surdegsbröd med gräddfil – klart på 15 minuter."
   },
   {
    "ingredient": "rödbetor",
-   "idea": "Fermentera rödbetor i 2% saltlake, låt stå 5-7 dagar vid rumstemperatur för syrlig smak."
+   "idea": "Snabbpickla rödbetor i lag 1:1:1 (ättika, socker, vatten), redo att äta efter bara två timmar."
+  },
+  {
+   "ingredient": "kål",
+   "idea": "Fermentera strimlad vitkål till surkål med 2% salt, packa hårt i burk, låt stå en vecka."
   },
   {
    "ingredient": "purjolök",
-   "idea": "Baka purjolöksbröd: fräs purjolök i smör, blanda i degen, låt jäsa över natten."
+   "idea": "Stek purjolök i smör, vik in i surdegsdegen före jäsning för en salt, len brödsmak."
   }
  ]
 }
