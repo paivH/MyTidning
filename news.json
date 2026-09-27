@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T15:44:17.567Z",
+ "updated": "2026-09-27T19:29:48.008Z",
  "items": [
   {
    "src": "BBC",
@@ -12,14 +12,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
-   "date": "2026-09-27T11:38:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Two mass shootings in South Africa leave 27 dead",
    "date": "2026-09-27T14:09:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
@@ -28,7 +20,7 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
+   "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
    "date": "2026-09-26T23:04:08.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
    "desc": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today."
@@ -36,10 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ten climbers missing after avalanche hits Himalayan base camp",
-   "date": "2026-09-27T12:36:57.000Z",
+   "title": "Two bodies found after avalanche hits Himalayan climbing group",
+   "date": "2026-09-27T17:05:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak."
+   "desc": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Four killed in helicopter crash near Montreal",
+   "date": "2026-09-27T02:43:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+   "desc": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nanasi om speciella situationen inför VM: ”Ville så klart åka med”",
+   "date": "2026-09-27T16:17:06.000Z",
+   "link": "https://www.svt.se/sport/fotboll/nanasi-om-speciella-situationen-infor-vm-ville-sa-klart-aka-med",
+   "desc": "Han var reserven som aldrig fick åka med till VM. En speciell situation, medger Sebastian Nanasi, 24, – Det var fortfarande kul att få vara med den lilla biten, säger han."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Bangkok har drabbats av omfattande översvämningar och tusentals människor har tvingats lämna sina hem. Svenska Hampus Jörnmark, 40, bor några mil utanför huvudstaden – och hjälper nu människor i nöd. – Just nu lagar vi mat åt sjukhuset där det finns folk som har tvingats övernatta och inte kunnat handla mat, säger han."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Stefan Holm: Har gjort bort mig",
-   "date": "2026-09-27T11:11:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/stefan-holm-har-gjort-bort-mig",
-   "desc": "Stefan Holm ber Emil Persson om ursäkt i ett långt inlägg på Facebook. Han skriver också att han nu ska söka hjälp. ”Jag har gjort bort mig rejält och för detta finns inga ursäkter.”"
+   "title": "Nyheter från dagen: 27 september",
+   "date": "2026-09-27T17:36:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-27-september-31rfy9",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 27 september."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-09-27T03:30:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/moa-och-hannah-forsoker-fa-barn-som-lesbiskt-par",
    "desc": "När Moa och Hannah bestämde sig för att de ville ha barn visste de inte var de skulle börja. Efter många internetsökningar och samtal med andra lesbiska lyckades de bana ut vägen. Nu dokumenterar de sin resa mot att bli föräldrar i sociala medier. – Vi märkte att det inte fanns så mycket information om det här, säger Hannah Silfvercrantz."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Jan, 80, springer Lidingöloppet för 28:e gången – trotsar cancer och hemlöshet",
-   "date": "2026-09-26T15:15:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/jan-80-springer-lidingoloppet-for-28e-gangen-trotsar-cancer-och-hemloshet",
-   "desc": "80-åriga Jan Brågård lever på existensminimum i sin bil och turnerar runt Sverige för att delta i diverse uthållighetslopp. Innan han springer Lidingöloppet för 28:e gången berättar han för SVT om sitt liv i alkoholism och när vändningen kom. – Det är ett sätt att att hålla dörren öppen för livet, säger han."
   },
   {
    "src": "BBC",
