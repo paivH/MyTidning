@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T08:55:01.842Z",
+ "updated": "2026-09-27T09:38:52.213Z",
  "verified": false,
  "deals": [
   {
@@ -10,32 +10,32 @@
   },
   {
    "store": "ICA",
-   "item": "Färsk kycklingfilet 900g",
+   "item": "Färsk kycklingfilé Kronfågel 750g",
    "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Rotfruktsmix ekologisk 1kg",
-   "price": "15 kr",
+   "item": "Rostat kaffe Bellarom 450g",
+   "price": "34 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Kaffe Bellarom 500g",
-   "price": "29 kr",
+   "item": "Färska svenska morötter 1kg",
+   "price": "12 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
    "item": "Köttbullar 1kg fryst",
-   "price": "49 kr",
+   "price": "69 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Stormljus 3-pack",
-   "price": "39 kr",
+   "item": "Höstlökar blandpack 20-pack",
+   "price": "49 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
