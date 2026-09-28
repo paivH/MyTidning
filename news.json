@@ -1,21 +1,13 @@
 {
- "updated": "2026-09-27T22:31:31.551Z",
+ "updated": "2026-09-28T01:22:12.137Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-   "date": "2026-09-27T07:44:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-   "desc": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Two mass shootings in South Africa leave 27 dead",
-   "date": "2026-09-27T14:09:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-   "desc": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
+   "title": "Inside Yemen's front-line city as Houthis battle for control",
+   "date": "2026-09-27T21:16:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+   "desc": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
   },
   {
    "src": "BBC",
@@ -32,6 +24,14 @@
    "date": "2026-09-27T17:05:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
    "desc": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Two mass shootings in South Africa leave 27 dead",
+   "date": "2026-09-27T14:09:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
   },
   {
    "src": "BBC",
