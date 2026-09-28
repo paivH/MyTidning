@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-27T09:25:29.142Z",
+ "updated": "2026-09-28T10:02:12.161Z",
  "items": [
   {
-   "ingredient": "svamp",
-   "idea": "Snabbstekt kantarell i smör och vitlök, servera på rostat surdegsbröd med gräddfil – klart på 15 minuter."
-  },
-  {
    "ingredient": "rödbetor",
-   "idea": "Snabbpickla rödbetor i lag 1:1:1 (ättika, socker, vatten), redo att äta efter bara två timmar."
+   "idea": "Snabbinlagda rödbetor: koka skivor 5 min, lägg i lag 1:1:1 ättika, socker, vatten – klara på en timme."
   },
   {
    "ingredient": "kål",
-   "idea": "Fermentera strimlad vitkål till surkål med 2% salt, packa hårt i burk, låt stå en vecka."
+   "idea": "Fermentera strimlad kål med 2% salt i burk 5–7 dagar för krispig, syrlig hemmagjord surkål eller kimchi."
   },
   {
-   "ingredient": "purjolök",
-   "idea": "Stek purjolök i smör, vik in i surdegsdegen före jäsning för en salt, len brödsmak."
+   "ingredient": "pumpa",
+   "idea": "Baka surdegsbröd med pumpapuré i degen – ger saftig krumma och en lätt söt, gyllen skorpa."
+  },
+  {
+   "ingredient": "svamp",
+   "idea": "Snabbstekt svamp i smör och vitlök på rostat bröd – enkel vardagsmiddag klar på tio minuter."
   }
  ]
 }
