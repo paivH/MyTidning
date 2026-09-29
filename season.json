@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-28T10:02:12.161Z",
+ "updated": "2026-09-29T10:01:05.809Z",
  "items": [
   {
-   "ingredient": "rödbetor",
-   "idea": "Snabbinlagda rödbetor: koka skivor 5 min, lägg i lag 1:1:1 ättika, socker, vatten – klara på en timme."
-  },
-  {
-   "ingredient": "kål",
-   "idea": "Fermentera strimlad kål med 2% salt i burk 5–7 dagar för krispig, syrlig hemmagjord surkål eller kimchi."
-  },
-  {
-   "ingredient": "pumpa",
-   "idea": "Baka surdegsbröd med pumpapuré i degen – ger saftig krumma och en lätt söt, gyllen skorpa."
+   "ingredient": "purjolök",
+   "idea": "Skiva tunt, salta med 2% saltlake, ferment i burk 5–7 dagar för syrlig krydda till soppor."
   },
   {
    "ingredient": "svamp",
-   "idea": "Snabbstekt svamp i smör och vitlök på rostat bröd – enkel vardagsmiddag klar på tio minuter."
+   "idea": "Snabb vardagsrätt: stek i smör, klicka gräddfil, servera på surdegstoast – klart på 15 minuter."
+  },
+  {
+   "ingredient": "rödbetor",
+   "idea": "Koka, skiva, lägg i lag 1:1:1 ättika-socker-vatten med kryddpeppar, kallställ picklade över natt."
+  },
+  {
+   "ingredient": "jordärtskocka",
+   "idea": "Strimla, salta 2% saltlake, ferment en vecka för krispigt, syrligt tillbehör till bröd och ost."
   }
  ]
 }
