@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T19:32:24.111Z",
+ "updated": "2026-09-29T23:24:25.731Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,22 @@
    "date": "2026-09-29T16:23:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
    "desc": "The ban is part of a number of proposals that must be approved in parliament within 30 days."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "South Africa to clean up high-risk areas after 12 women killed",
+   "date": "2026-09-29T22:33:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The deaths sparked a national outcry about the scale of violence against women in the country."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+   "date": "2026-09-29T22:33:13.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees."
   },
   {
    "src": "BBC",
@@ -26,20 +42,20 @@
    "desc": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-   "date": "2026-09-29T15:40:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-   "desc": "The suspect, 24, was arrested before the alleged cyber attack took place."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Spanien besegrade Kroatien – efter Lamine Yamals show",
+   "date": "2026-09-29T20:37:10.000Z",
+   "link": "https://www.svt.se/sport/fotboll/spanien-besegrade-kroatien-efter-lamine-yamals-show",
+   "desc": "Spanien besegrade Kroatien med 4–1 i Nations League. Och Lamine Yamal hade ny show. 19-åringen stod för två mål och en assist."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "First female prime minister named in Morocco after winning elections",
-   "date": "2026-09-29T17:14:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-   "desc": "Her appointment by the king makes her only the second woman to lead a government in the Arab world."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Trent Alexander-Arnolds revansch – efter petningen",
+   "date": "2026-09-29T20:36:51.000Z",
+   "link": "https://www.svt.se/sport/fotboll/trent-alexander-arnolds-revansch-efter-petningen",
+   "desc": "Trent Alexander-Arnold var utanför sommarens VM-trupp. Nu fick han sin revansch. 27-åringen spelade fram till 1–0-målet när England besegrade Tjeckien i Nations League."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-09-29T16:31:09.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/lilla-aktuellt-sparar-katten-i-hatten-klippen-hittar-mannen-bakom-kostymen",
    "desc": "Hotfulla klipp om ”Katten i hatten” har skrämt barn och fått stor spridning på sociala medier. Men nu kommer några lugnande ord från en expert. Lilla Aktuellt har granskat materialet, spårat flera av klippens ursprung – och hittat mannen bakom en av kostymerna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "SVT:s ekonomikommentator Alexander Norén: Därför köper techmiljardären skog i Härjedalen",
-   "date": "2026-09-29T15:25:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ekonomikommentator-alexander-noren-darfor-koper-techmiljardaren-skog-i-harjedalen",
-   "desc": "Det amerikanska AI-bolaget Palantirs vd har gjort ett storförvärv av skogsmark i Storsjö i Härjedalen. Men vem är egentligen den omstridde vd:n Alex Karp – och vad ska han med marken till?"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här är bakgrunden till Stefan Holms attack mot Emil Persson under Bokmässan",
-   "date": "2026-09-29T14:50:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/har-ar-bakgrunden-till-stefan-holms-attack-mot-emil-persson-under-bokmassan",
-   "desc": "Det är lättsam stämning och skratt i Kanal 5-programmet Breaking News när Patrik Sjöberg är gäst 2018. Då presenteras påståendet som åtta år senare kommer få Stefan Holm att gå till fysisk attack mot Emil Persson. Se klippet och få koll på bråket under Bokmässan 2026."
   },
   {
    "src": "STHLM",
