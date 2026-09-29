@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-28T21:33:11.563Z",
+ "updated": "2026-09-29T01:26:27.019Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "OpenAI scraps rollout of new model over safety concerns",
+   "date": "2026-09-29T01:18:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+   "desc": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,6 +16,14 @@
    "date": "2026-09-27T21:16:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
    "desc": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+   "date": "2026-09-28T20:50:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+   "desc": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder."
   },
   {
    "src": "BBC",
@@ -20,26 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-   "date": "2026-09-28T17:26:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-   "desc": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\"."
+   "title": "French PM warns against escalation of school protests after 164 arrested",
+   "date": "2026-09-28T21:46:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-   "date": "2026-09-28T17:15:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-   "desc": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
-   "date": "2026-09-28T15:39:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Patrik Wålemark hyllas efter succédebuten: ”Perfekt”",
+   "date": "2026-09-28T21:33:55.000Z",
+   "link": "https://www.svt.se/sport/fotboll/patrik-walemark-hyllas-efter-succedebuten-perfekt",
+   "desc": "Patrik Wålemark gjorde succé i sin blågula startdebut. Nu hyllas han stort. – Det är inte mycket att klaga på, säger Viktor Gyökeres till SVT Sport."
   },
   {
    "src": "SVT",
@@ -74,20 +82,12 @@
    "desc": "Enligt The Athletic har Manchester City fällts på 114 av 115 punkter för att ha brutit mot de finansiella reglerna i Premier League. I värsta fall kan klubben degraderas hela vägen ner till den engelska femtedivisionen. – Det skulle såklart vara väldigt omskakande, men samtidigt på något sätt uppfriskande, säger SVT Sports expert Jonas Eriksson."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tonåringar häktade efter skjutning i Strängnäs",
-   "date": "2026-09-28T14:17:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/tonaringar-haktade-efter-skjutning-i-strangnas",
-   "desc": "En 14-åring och 15-åring har blivit häktade efter en skottlossning i centrala Strängnäs, det bekräftar åklagaren Emma Harris."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Liljeholmsbron har fastnat – trafiken står still",
+   "title": "Liljeholmsbron fastnade en kort stund",
    "date": "2026-09-28T21:06:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/liljeholmsbron-har-fastnat-trafiken-star-still",
-   "desc": "Liljeholmsbron i Stockholm ser ut att ha fastnat i uppfällt läge och orsakar just nu trafikstörningar."
+   "desc": "Liljeholmsbron i Stockholm fastnade i uppfällt läge sent på måndagen – men felet åtgärdades snabbt."
   },
   {
    "src": "STHLM",
