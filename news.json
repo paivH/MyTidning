@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-29T14:12:28.119Z",
+ "updated": "2026-09-29T19:32:24.111Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+   "date": "2026-09-29T16:23:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+   "desc": "The ban is part of a number of proposals that must be approved in parliament within 30 days."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,66 +28,74 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-   "date": "2026-09-29T13:15:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine."
+   "title": "Dutch police arrest suspected member of group that claimed FBI hack",
+   "date": "2026-09-29T15:40:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The suspect, 24, was arrested before the alleged cyber attack took place."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "OpenAI scraps rollout of new model over safety concerns",
-   "date": "2026-09-29T09:14:13.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-   "desc": "The firm also issued an update on incidents in which its models accessed Australian government systems."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
-   "date": "2026-09-29T13:41:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-   "desc": "The measures include a proposed ban on evictions until 2030 and the automatic renewal of tenant contracts."
+   "title": "First female prime minister named in Morocco after winning elections",
+   "date": "2026-09-29T17:14:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+   "desc": "Her appointment by the king makes her only the second woman to lead a government in the Arab world."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Vindelns kommun inför klädkod för anställda",
-   "date": "2026-09-29T13:40:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vindelns-kommun-infor-kladkod-for-anstallda",
-   "desc": "Vindelns kommun har beslutat att införa en klädkod för de anställda. Kläderna ska ge ”god täckning av kroppens privata delar” och korta plagg, djupa urringningar och genomskinliga plagg är inte lämpliga. – Vi som är arbetsgivare behöver ta ett ansvar, säger HR-chefen Katarina Häggström."
+   "title": "Man sparkade och slog på bilar i Sjöbo – polis använde elpistol",
+   "date": "2026-09-29T18:55:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/man-sparkade-och-slog-pa-bilar-i-sjobo-polis-anvande-elpistol",
+   "desc": "En man i 60-årsåldern är misstänkt för skadegörelse på ett tiotal bilar och flera fönster till byggnader i centrala Sjöbo. När polisen anlände till platsen hade mannen blodiga händer. Polisen använde elpistol för att stoppa honom."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Färjestads tränare om Marcus Johanssons skada: ”Hoppas han blir frisk snabbt”",
-   "date": "2026-09-29T13:39:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/farjestads-tranare-om-marcus-johanssons-skada-hoppas-han-blir-frisk-snabbt",
-   "desc": "Färjestads stjärnvärvning Marcus Johansson är skadad och kommer att bli borta i flera månader. – Tråkigt, men det är en del av hockey och sporten, säger tränare Cam Abbott till SVT."
+   "title": "Elever ska ha nollats med kattmat och kiss – trots Polhemsgymnasiets stopp",
+   "date": "2026-09-29T16:59:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/elever-ska-elever-ha-nollats-med-kattmat-och-kiss-trots-polhemsgymnasiets-stopp",
+   "desc": "Polhemsgymnasiet i Göteborg har en rapporterad historia av förnedrande nollningar, och nu är nollningen helt borttagen. Trots det tycks förnedringen fortsätta – denna gång under en ”aktivitetsdag” som nyligen arrangerades efter skoltid. – Jag har vänner som grät och kände sig förnedrade efteråt, säger en anonym elev till SVT."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Familjehemspappa häktad misstänkt för våldtäkt mot barn",
-   "date": "2026-09-29T13:12:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/familjehemspappa-haktad-misstankt-for-valdtakt-mot-barn",
-   "desc": "En man i 60-årsåldern hemmahörande i Umeå kommun har häktats misstänkt för våldtäkt mot barn och grovt barnfridsbrott. Mannen är familjehemspappa och har vårdnaden om flera barn."
+   "title": "Lilla Aktuellt spårar ”Katten i hatten”-klippen – hittar mannen bakom kostymen",
+   "date": "2026-09-29T16:31:09.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/lilla-aktuellt-sparar-katten-i-hatten-klippen-hittar-mannen-bakom-kostymen",
+   "desc": "Hotfulla klipp om ”Katten i hatten” har skrämt barn och fått stor spridning på sociala medier. Men nu kommer några lugnande ord från en expert. Lilla Aktuellt har granskat materialet, spårat flera av klippens ursprung – och hittat mannen bakom en av kostymerna."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Finlands valchef om misstänkt valfusk i Sverige – omöjligt i Finland",
-   "date": "2026-09-29T13:03:04.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/finlands-valchef-om-misstankt-valfusk-i-sverige-omojligt-i-finland",
-   "desc": "Misstankar om valfusk i Sverige väcker frågor om valsedlar och rösträkning. Finlands högsta valchef Arto Jääskeläinen säger att samma sak inte skulle vara möjlig i Finland."
+   "title": "SVT:s ekonomikommentator Alexander Norén: Därför köper techmiljardären skog i Härjedalen",
+   "date": "2026-09-29T15:25:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ekonomikommentator-alexander-noren-darfor-koper-techmiljardaren-skog-i-harjedalen",
+   "desc": "Det amerikanska AI-bolaget Palantirs vd har gjort ett storförvärv av skogsmark i Storsjö i Härjedalen. Men vem är egentligen den omstridde vd:n Alex Karp – och vad ska han med marken till?"
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Varg som rör sig centralt oroar i Karlskoga",
-   "date": "2026-09-29T12:46:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/varg-som-ror-sig-centralt-oroar-i-karlskoga",
-   "desc": "Flera Karlskogabor har sett en varg centralt och kommunens viltvårdare har fått många samtal om djuret. – Den har ett udda beteende, säger Jan Lund."
+   "title": "Här är bakgrunden till Stefan Holms attack mot Emil Persson under Bokmässan",
+   "date": "2026-09-29T14:50:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/har-ar-bakgrunden-till-stefan-holms-attack-mot-emil-persson-under-bokmassan",
+   "desc": "Det är lättsam stämning och skratt i Kanal 5-programmet Breaking News när Patrik Sjöberg är gäst 2018. Då presenteras påståendet som åtta år senare kommer få Stefan Holm att gå till fysisk attack mot Emil Persson. Se klippet och få koll på bråket under Bokmässan 2026."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 29 september",
+   "date": "2026-09-29T18:02:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-29-september-r7wyhi",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under tisdagen den 29 september."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Slakthusområdet i Stockholm ett av världens coolaste",
+   "date": "2026-09-29T16:33:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/slakthusomradet-i-stockholm-ett-av-varldens-coolaste",
+   "desc": "Slakthusområdet i Stockholm är ett av världens 40 coolaste områden – åtminstone enligt internationella resemagasinet Time Out. ”Slaktis” får sällskap på listan av kvarter i bland annat Seoul, Rabat och Los Angeles."
   },
   {
    "src": "STHLM",
@@ -100,26 +116,18 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Polisinsats nära tunnelbana – område avspärrat",
+   "title": "Man hittad död i Skärmarbrink – polisen utreder mord",
    "date": "2026-09-29T06:09:16.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisinsats-vid-hammarbyhojden-omrade-avsparrat",
-   "desc": "Polisen har spärrat av ett område i terrängen nära Skärmarbrinks tunnelbanestation i Hammarbyhöjden i Stockholm. Exakt varför de har spärrat av är dock oklart."
+   "desc": "En man har hittats död vid ett skogsområde i Skärmarbrink i södra Stockholm. Polisen har inlett en förundersökning om mord, men ingen har gripits."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Liljeholmsbron fastnade en kort stund",
-   "date": "2026-09-28T21:06:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/liljeholmsbron-har-fastnat-trafiken-star-still",
-   "desc": "Liljeholmsbron i Stockholm fastnade i uppfällt läge sent på måndagen – men felet åtgärdades snabbt."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 28 september",
-   "date": "2026-09-28T18:13:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-28-september-6hsobv",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 28 september."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-29T15:51:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pd1wk0?at_medium=RSS&at_campaign=rss",
+   "desc": "Gaz Drinkwater and Joe McGrath react to reports on the Manchester City ruling."
   },
   {
    "src": "BBC",
@@ -144,14 +152,6 @@
    "date": "2026-09-21T15:38:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0pbs3gs?at_medium=RSS&at_campaign=rss",
    "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-21T12:03:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pbqmwr?at_medium=RSS&at_campaign=rss",
-   "desc": "Joe and Gaz reflect on United's draw at Fulham and their League Cup exit in midweek."
   }
  ]
 }
