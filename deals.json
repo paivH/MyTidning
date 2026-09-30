@@ -1,42 +1,42 @@
 {
- "updated": "2026-09-29T10:14:02.296Z",
+ "updated": "2026-09-30T10:05:23.951Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färsk kycklingfilé Kronfågel 900g",
-   "price": "59 kr",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "ICA",
-   "item": "Svenska äpplen Ingrid Marie 1kg",
-   "price": "19 kr",
+   "item": "Svenska äpplen lösvikt",
+   "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
    "item": "Färsk laxfilé 400g",
-   "price": "49 kr",
+   "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
-   "store": "Lidl",
-   "item": "Höstpumpa i lösvikt",
-   "price": "12 kr/kg",
-   "url": "https://www.lidl.se"
+   "store": "ICA",
+   "item": "Kycklingfilé Kronfågel 1kg",
+   "price": "79 kr",
+   "url": "https://www.ica.se"
   },
   {
    "store": "IKEA",
    "item": "Köttbullar 1kg fryst",
-   "price": "59 kr",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Stormljus 3-pack",
+   "item": "Höstlökar blandpack 20st",
    "price": "39 kr",
    "url": "https://www.rusta.com/se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Pumpa Hokkaido styck",
+   "price": "15 kr",
+   "url": "https://www.lidl.se"
   }
  ]
 }
