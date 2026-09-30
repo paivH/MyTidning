@@ -1,6 +1,30 @@
 {
- "updated": "2026-09-30T08:50:06.051Z",
+ "updated": "2026-09-30T15:34:21.785Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+   "date": "2026-09-30T15:29:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+   "desc": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+   "date": "2026-09-30T14:53:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+   "desc": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+   "date": "2026-09-30T11:36:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+   "desc": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,114 +36,90 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-   "date": "2026-09-30T04:01:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-   "desc": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israel-bound flight diverted after fight between pilots",
-   "date": "2026-09-30T07:51:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "desc": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Girl has multiple surgeries to control infections after strike in Gaza",
    "date": "2026-09-30T05:02:50.000Z",
    "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
    "desc": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-   "date": "2026-09-30T05:24:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kökaoset stoppade 80-åring från att rösta i Umeå: ”Sörjde”",
+   "date": "2026-09-30T14:56:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/kokaoset-stoppade-80-aring-fran-att-rosta-i-umea-sorjde",
+   "desc": "Med skakande ben tvingades en 80-årig kvinna i Umeå ge upp köandet till vallokalen. Men när hon försökte igen var det fortfarande timslånga köer. – Köerna rörde aldrig på sig. Det blev ingen röstning för mig 2026. Jag sörjde det mycket, säger hon."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt farligt brev till tingsrätten i Hudiksvall – polis på plats",
-   "date": "2026-09-30T08:29:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/misstankt-farligt-brev-till-tingsratten-i-hudiksvall-polis-pa-plats",
-   "desc": "En försändelse med ett misstänkt farligt innehåll har kommit till tingsrätten i Hudiksvall under onsdagsmorgonen. – Just nu får ingen komma in och ingen går ut, säger Vendela Enmarker, lagman vid Hälsinglands tingsrätt."
+   "title": "Misstänkt för skolattack akut omhändertagen – bedöms ha våldskapital",
+   "date": "2026-09-30T14:41:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/misstankt-for-skolattack-akut-omhandertagen-bedoms-ha-valdskapital",
+   "desc": "Den 13-åring som misstänks för mordförsök på en annan elev på Fagrabäcksskolan i Växjö förra veckan omhändertogs akut samma dag. Enligt socialtjänstens beslut har han våldskapital och behöver tillsyn på en låst avdelning."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stegra bekräftar investeringsbehov – och byter vd",
-   "date": "2026-09-30T08:08:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/stegra-byter-vd-buskhe-tar-over",
-   "desc": "Ståltillverkaren Stegras styrelse har utsett den tidigare Saabchefen Håkan Buskhe till ny vd, skriver bolaget i ett pressmeddelande. Bolaget bekräftar även uppgifter i media om att det krävs mer finansiering."
+   "title": "Efter skottlossningen i Hovslätt – insamling startad för familjen",
+   "date": "2026-09-30T14:36:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-skottlossningen-i-hovslatt-insamling-startad-for-familjen",
+   "desc": "En insamling har startats för familjen som drabbades av skottlossningen i Hovslätt. På kort tid har över 150 000 kronor samlats in. – Vi upplevde att väldigt många hörde av sig och ville göra något, säger en familjevän."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Två personer hittade döda i bostad i Eslöv",
-   "date": "2026-09-30T07:38:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/polisinsats-i-bostadsomrade-i-eslov",
-   "desc": "Under onsdagsmorgonen hittades två personer, en man och en kvinna, döda i en bostad i Eslöv. En stor polisinsats pågår i bostadsområdet och polisen utreder mord."
+   "title": "Vänsterextremist döms – slog nazist i huvudet med flaska i Aspudden",
+   "date": "2026-09-30T12:58:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vansterextremist-doms-misshandlade-nazist-fore-fotbollsmatch",
+   "desc": "Ett storbråk mellan vänster- och högerextrema personer gjorde att en fotbollsmatch aldrig kunde spelas i Aspudden i april 2025. Nu har en vänsterextrem man dömts till ett års fängelse för att ha slagit en nazist i huvudet med en flaska – och för att ha misshandlat en minderårig, rapporterar Expressen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Larm från passagerarplan på väg mot Israel",
-   "date": "2026-09-30T06:45:28.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/larm-fran-passagerarplan-pa-vag-mot-israel",
-   "desc": "Ett passagerarflygplan på väg från Dubai till israeliska Tel Aviv utfärdade en nödsignal och svängde om i luften. Israeliska stridsflygplan lyfte. Planet har nu landat i norra Saudiarabien. Enligt israeliska medier var det ett bråk mellan piloterna som gjorde att planet tvingades landa."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Klotter i Sara Lidman-tunneln – polis utreder skadegörelse",
-   "date": "2026-09-30T06:24:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/klotter-i-sara-lidman-tunneln-polis-utreder-skadegorelse",
-   "desc": "Sara Lidman-tunneln i Umeå har utsatts för klotter under natten. Polisen har upprättat en anmälan om skadegörelse."
+   "title": "Farligt utsläpp i Ronneby – sex personer till sjukhus",
+   "date": "2026-09-30T12:17:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/farligt-utslapp-i-ronneby-flera-omhandertas-av-ambulans",
+   "desc": "Räddningstjänst och polis kallades till ett flerfamiljshus i centrala Ronneby under onsdagen, efter att boende slagit larm om en märklig lukt. Sex personer fördes till sjukhus, och huset har spärrats av."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Utredning: Staten bör ta över flygplatser",
+   "title": "Vänsterextremist döms – slog nazist i huvudet med flaska i Aspudden",
+   "date": "2026-09-30T12:58:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vansterextremist-doms-misshandlade-nazist-fore-fotbollsmatch",
+   "desc": "Ett storbråk mellan vänster- och högerextrema personer gjorde att en fotbollsmatch aldrig kunde spelas i Aspudden i april 2025. Nu har en vänsterextrem man dömts till ett års fängelse för att ha slagit en nazist i huvudet med en flaska – och för att ha misshandlat en minderårig, rapporterar Expressen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Kusinerna sökte boende i Stockholm – utsattes för rasistiska påhopp",
+   "date": "2026-09-30T12:07:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kusinerna-sokte-boende-i-stockholm-utsattes-for-rasistiska-pahopp",
+   "desc": "Kusinerna Ilyas Mokhtar och Abdinur Ismail sökte en trea i Stockholm på Facebook. Reaktionen blev flera rasistiska påhopp och nästan tusen kommentarer. – Det är kanske 20 procent hat och 80 procent kärlek, säger Abdinur."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "En anhållen misstänkt för dråp i Märsta",
+   "date": "2026-09-30T10:24:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-anhallen-misstankt-for-drap-i-marsta",
+   "desc": "En person hittats död i en bostad i Märsta, norr om Stockholm, på tisdagskvällen. Polisen utreder det som dråp. En misstänkt man har gripits och är nu anhållen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Polisen utreder grovt brott i Barkarby",
+   "date": "2026-09-30T10:21:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisen-utreder-grovt-brott-i-barkarby",
+   "desc": "Det pågår en polisinsats efter ett misstänkt grovt brott i Barkarby i Järfälla kommun, norr om Stockholm."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Utredning: Staten bör ta över nio flygplatser i Sverige",
    "date": "2026-09-30T07:16:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/utredning-staten-bor-ta-over-flygplatser",
    "desc": "Staten bör ta över ägandet av nio regionala flygplatser och också öka det statliga stödet, föreslår en utredning som dock passar på Brommas framtid."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Hyresgäst skulle avhysas från villa i Älvsjö – sköt tre personer",
-   "date": "2026-09-30T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hyresgast-skulle-avhysas-fran-villa-i-alvsjo-skot-tre-personer",
-   "desc": "En 60-årig man hade inte betalat hyran på villan han bodde i. När ägarna och deras advokat skulle kolla till fastigheten inför att avhysa mannen hämtade han en pistol och öppnade eld. Tre personer skadades varav en allvarligt. Nu kommer domen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Transkvinna stoppades från praktik i kyrka",
-   "date": "2026-09-30T01:46:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/transkvinna-stoppades-fran-praktik-i-kyrka",
-   "desc": "En elev fick sin praktik indragen från Equmeniakyrkan i Hallunda på grund av att personen var trans."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 29 september",
-   "date": "2026-09-29T18:02:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-29-september-r7wyhi",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under tisdagen den 29 september."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Slakthusområdet i Stockholm ett av världens coolaste",
-   "date": "2026-09-29T16:33:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/slakthusomradet-i-stockholm-ett-av-varldens-coolaste",
-   "desc": "Slakthusområdet i Stockholm är ett av världens 40 coolaste områden – åtminstone enligt internationella resemagasinet Time Out. ”Slaktis” får sällskap på listan av kvarter i bland annat Seoul, Rabat och Los Angeles."
   },
   {
    "src": "BBC",
