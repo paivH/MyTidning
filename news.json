@@ -1,6 +1,30 @@
 {
- "updated": "2026-09-30T15:34:21.785Z",
+ "updated": "2026-09-30T20:29:54.933Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "What we know about stabbing on Flydubai flight to Israel",
+   "date": "2026-09-30T17:51:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+   "desc": "The captain and first officer were injured, and one pilot has been arrested, officials say."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+   "date": "2026-09-30T17:14:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+   "desc": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "UK-France 'one in, one out' migrant scheme scrapped",
+   "date": "2026-09-30T17:11:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+   "desc": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -18,68 +42,52 @@
    "desc": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-   "date": "2026-09-30T11:36:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-   "desc": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Chinese AI tool told researchers how to make bioweapons",
-   "date": "2026-09-29T23:15:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-   "desc": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-   "date": "2026-09-30T05:02:50.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "John Klingberg om Frölundas problem: ”Kommer inte gå”",
+   "date": "2026-09-30T19:28:53.000Z",
+   "link": "https://www.svt.se/sport/ishockey/experten-om-serieledarens-problem-kommer-inte-ga",
+   "desc": "Frölunda är obesegrat hittills i SHL – men man har inte bara imponerat. SVT Sports expert John Klingberg menar att senaste segern var ett rån. – Man måste ha mer puck, säger han om serieledaren."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kökaoset stoppade 80-åring från att rösta i Umeå: ”Sörjde”",
-   "date": "2026-09-30T14:56:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/kokaoset-stoppade-80-aring-fran-att-rosta-i-umea-sorjde",
-   "desc": "Med skakande ben tvingades en 80-årig kvinna i Umeå ge upp köandet till vallokalen. Men när hon försökte igen var det fortfarande timslånga köer. – Köerna rörde aldrig på sig. Det blev ingen röstning för mig 2026. Jag sörjde det mycket, säger hon."
+   "title": "Malmö FF klart för åttondelsfinal i Europa Cup",
+   "date": "2026-09-30T18:51:27.000Z",
+   "link": "https://www.svt.se/sport/fotboll/malmo-ff-klart-for-attondelsfinal-i-europa-cup",
+   "desc": "Malmö FF är för första gången klart för åttondelsfinal i Europa Cup. Det efter en promenadseger mot St. Pölten. – Vinsten var riktigt skön, säger Zecira Musovic till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt för skolattack akut omhändertagen – bedöms ha våldskapital",
-   "date": "2026-09-30T14:41:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/misstankt-for-skolattack-akut-omhandertagen-bedoms-ha-valdskapital",
-   "desc": "Den 13-åring som misstänks för mordförsök på en annan elev på Fagrabäcksskolan i Växjö förra veckan omhändertogs akut samma dag. Enligt socialtjänstens beslut har han våldskapital och behöver tillsyn på en låst avdelning."
+   "title": "Michael Andersson om dottern Carolines våldsamma krasch: ”Tur i oturen”",
+   "date": "2026-09-30T18:17:32.000Z",
+   "link": "https://www.svt.se/sport/cykel/michael-andersson-om-dottern-carolines-valdsamma-krasch-tur-i-oturen",
+   "desc": "Caroline Andersson låg orörlig på asfalten efter lördagens våldsamma krasch i cykel-VM. Under onsdagen konstaterades att 25-åringen drabbats av fyra mindre blödningar i hjärnan. Pappa Michael ”Roddarn” Andersson följde de otäcka scenerna på plats i Montreal. – Jag vet inte vilka ord man ska sätta på det, men det är klart att det har varit domedagstankar, säger han till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter skottlossningen i Hovslätt – insamling startad för familjen",
-   "date": "2026-09-30T14:36:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-skottlossningen-i-hovslatt-insamling-startad-for-familjen",
-   "desc": "En insamling har startats för familjen som drabbades av skottlossningen i Hovslätt. På kort tid har över 150 000 kronor samlats in. – Vi upplevde att väldigt många hörde av sig och ville göra något, säger en familjevän."
+   "title": "Novak Djokovic tog första vinsten sedan Wimbledon: ”Hade svårt hålla mig fräsch”",
+   "date": "2026-09-30T17:53:39.000Z",
+   "link": "https://www.svt.se/sport/tennis/novak-djokovic-tog-forsta-vinsten-sedan-wimbledon-hade-svart-halla-mig-frasch",
+   "desc": "Legendaren Novak Djokovic hänger i trots krämpor. I dag tog han första segern sedan Wimbledon genom att besegra Nuno Borges i China Open i Peking. – Den är utsökt, säger kommentatorn om serbens läckra lobb."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Vänsterextremist döms – slog nazist i huvudet med flaska i Aspudden",
-   "date": "2026-09-30T12:58:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vansterextremist-doms-misshandlade-nazist-fore-fotbollsmatch",
-   "desc": "Ett storbråk mellan vänster- och högerextrema personer gjorde att en fotbollsmatch aldrig kunde spelas i Aspudden i april 2025. Nu har en vänsterextrem man dömts till ett års fängelse för att ha slagit en nazist i huvudet med en flaska – och för att ha misshandlat en minderårig, rapporterar Expressen."
+   "title": "Cristiano Ronaldo lämnar samlingen i privatjet – kan vara slutet i landslaget",
+   "date": "2026-09-30T17:52:59.000Z",
+   "link": "https://www.svt.se/sport/fotboll/cristiano-ronaldo-lamnar-samlingen-i-privatjet",
+   "desc": "Cristiano Ronaldo bänkades mot Norge och förbundskaptenen har meddelat att han inte får starta mot Danmark. Under kvällen lämnade Ronaldo samlingen i Köpenhamn i sin privatjet med sikte på Madrid. ”När tiden är inne kommer jag berätta sanningen för det portugisiska folket om orsakerna”, skriver han på Instagram."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Farligt utsläpp i Ronneby – sex personer till sjukhus",
-   "date": "2026-09-30T12:17:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/blekinge/farligt-utslapp-i-ronneby-flera-omhandertas-av-ambulans",
-   "desc": "Räddningstjänst och polis kallades till ett flerfamiljshus i centrala Ronneby under onsdagen, efter att boende slagit larm om en märklig lukt. Sex personer fördes till sjukhus, och huset har spärrats av."
+   "title": "Nyheter från dagen: 30 september",
+   "date": "2026-09-30T18:03:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-30-september-z0mvcj",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under onsdagen den 30 september."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,20 @@
    "desc": "Det pågår en polisinsats efter ett misstänkt grovt brott i Barkarby i Järfälla kommun, norr om Stockholm."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Utredning: Staten bör ta över nio flygplatser i Sverige",
-   "date": "2026-09-30T07:16:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/utredning-staten-bor-ta-over-flygplatser",
-   "desc": "Staten bör ta över ägandet av nio regionala flygplatser och också öka det statliga stödet, föreslår en utredning som dock passar på Brommas framtid."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-30T18:38:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pd8jcs?at_medium=RSS&at_campaign=rss",
+   "desc": "Wayne Barton on the 'lost tapes' that inspired his new book about Sir Alex Ferguson."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United",
+   "date": "2026-09-30T15:36:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pd79lh?at_medium=RSS&at_campaign=rss",
+   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   },
   {
    "src": "BBC",
@@ -133,25 +149,9 @@
    "src": "BBC",
    "section": "United",
    "title": "Manchester United",
-   "date": "2026-09-28T16:02:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pcx75q?at_medium=RSS&at_campaign=rss",
-   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
    "date": "2026-09-27T14:33:00.000Z",
    "link": "https://www.bbc.co.uk/sounds/play/p0pcr7vv?at_medium=RSS&at_campaign=rss",
    "desc": "Eva Olid after winning her first WSL game as Man Utd boss."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-21T15:38:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pbs3gs?at_medium=RSS&at_campaign=rss",
-   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
   }
  ]
 }
