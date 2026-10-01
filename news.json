@@ -1,90 +1,90 @@
 {
- "updated": "2026-10-01T06:19:02.027Z",
+ "updated": "2026-10-01T13:42:03.236Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-   "date": "2026-10-01T05:34:41.000Z",
+   "title": "US death row inmate survives execution attempt after two lethal injections",
+   "date": "2026-10-01T09:59:59.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-   "desc": "Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital."
+   "desc": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-   "date": "2026-10-01T03:43:06.000Z",
+   "title": "What happened in failed execution of Christa Pike - and what next?",
+   "date": "2026-10-01T12:51:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+   "desc": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+   "date": "2026-10-01T11:26:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-   "desc": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says."
+   "desc": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What we know about stabbing on Flydubai flight to Israel",
-   "date": "2026-10-01T02:31:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "desc": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say."
+   "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
+   "date": "2026-10-01T13:34:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
+   "desc": "Adam Polovincik tells the BBC he told his young children \"everything is going to be all right\" as flight plunged more than 17,000ft (5,200m)."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+   "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
    "date": "2026-09-30T23:10:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
    "desc": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-   "date": "2026-10-01T00:08:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Scientists say such rapid melting is no longer surprising given the pace of climate change."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Abdullah drabbades av utsläppet: ”Som knivar i halsen”",
+   "date": "2026-10-01T13:25:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/abdullah-drabbades-av-utslappet-som-knivar-i-halsen",
+   "desc": "Abdullah Alhaj Ghadban och hans fru hade precis ätit lunch när de såg blåljuspersonalen på innergården. När han öppnade lägenhetsdörren slog gasutsläppet till direkt. – Det kändes som knivar i halsen, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Avrättning i USA misslyckades",
-   "date": "2026-10-01T05:01:00.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/avrattning-i-usa-misslyckades",
-   "desc": "Den uppmärksammade avrättningen av Christa Pike i delstaten Tennessee har misslyckats. Den dödsdömda kvinnan andades fortfarande och snarkade ljudligt efter att ha fått två doser av preparatet pentobarbital som skulle ha tagit livet av henne, uppger vittnen."
+   "title": "Influencern Olivia Oras dog efter skönhetsingrepp i Finland",
+   "date": "2026-10-01T13:19:35.000Z",
+   "link": "https://www.svt.se/nyheter/uutiset/svenska/influencern-olivia-oras-dog-efter-skonhetsingrepp-i-finland",
+   "desc": "Den 27-åriga finländska influencern Olivia Oras avled efter komplikationer från ett skönhetsingrepp. Fallet har fått stor uppmärksamhet i Finland och satt fokus på patientsäkerheten inom skönhetsbranschen samt på brister i lagstiftningen. Nu vill den finländska regeringen skärpa regelverket och stärka myndigheternas tillsyn av branschen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Därför köpte Palantir-chefen fjällmark i Härjedalen",
-   "date": "2026-10-01T04:31:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/darfor-kopte-palantir-chefen-fjallmark-i-harjedalen",
-   "desc": "Lokala jägare ska få jakträtter på den mark som techmiljardären Alex Karp, vd för Palantir, köpt i Härjedalen. Det uppger köparen för SVT. Skidåkning sägs vara det som lockat Karp, som redan har en fjällstuga i Sverige."
+   "title": "Plastikkirurg om Finland: ”Lagförändringarna borde ha gjorts för flera år sedan”",
+   "date": "2026-10-01T13:18:55.000Z",
+   "link": "https://www.svt.se/nyheter/uutiset/svenska/plastikkirurg-om-finland-lagforandringarna-borde-ha-gjorts-for-flera-ar-sedan",
+   "desc": "Specialistläkaren i plastikkirurgi Riikka Veltheim, som har arbetat i Sverige i över 20 år, har i flera år kritiserat Finlands reglering av estetiska behandlingar. Enligt henne borde lagstiftningen ha reformerats tidigare. Veltheim tycker det är tragiskt att frågan hamnar i fokus först efter ett uppmärksammat dödsfall."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "SVT sänder succétävlingen i München: ”Kommer ställa upp med de bästa”",
-   "date": "2026-10-01T04:17:16.000Z",
-   "link": "https://www.svt.se/sport/skidskytte/svt-sander-succetavlingen-i-munchen-kommer-stalla-upp-med-de-basta",
-   "desc": "Fjolåret blev en succé. Nu står det klart att SVT sänder rullskidskyttetävlingarna i München 17-18 oktober. – Vi kommer att ställa upp med de bästa, säger förbundskapten Johannes Lukas."
+   "title": "Abba-låt bryter miljardvallen – igen",
+   "date": "2026-10-01T13:07:49.000Z",
+   "link": "https://www.svt.se/kultur/abba-lat-bryter-miljardvallen-igen",
+   "desc": "För tredje gången bryter en Abba-låt miljardvallen på Spotify. ”The winner takes it all” gör sällskap med ”Dancing queen” och ”Gimme! Gimme! Gimme! (A man after midnight)”."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Försvarsmakten i unik operation i Finland – ”Håller gränsen”",
-   "date": "2026-10-01T04:13:44.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/forsvarsmakten-i-unik-operation-i-finland-haller-gransen",
-   "desc": "Uppdraget för sjömännen och officerarna ombord på Visbykorvetten är att ”hålla gränsen”. Men gränsen som bevakas är Finlands. SVT följde med på en unik operation i Finska viken."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Krista Audere ny chefsdirigent för Radiokören – första kvinnan på positionen",
-   "date": "2026-10-01T03:30:07.000Z",
-   "link": "https://www.svt.se/kultur/krista-audere-ny-chefsdirigent-for-radiokoren",
-   "desc": "Den lettiska dirigenten Krista Audere får det prestigefyllda jobbet som ny chefsdirigent för Radiokören. – Alla frågar mig varför jag varför jag tog det här jobbet, men de borde fråga dem vad de såg hos mig – det här är ett jobb man inte tackar nej till, säger Krista Audere."
+   "title": "Nytt värmerekord för en dag i oktober i Göteborg – över 22 grader",
+   "date": "2026-10-01T13:02:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/nytt-varmerekord-for-en-dag-i-oktober-i-goteborg-over-22-grader",
+   "desc": "Sommarvärme och strålande sol – i oktober. Aldrig tidigare har en oktoberdag i Göteborg varit så varm som torsdagen. Tidigt på eftermiddagen noterades 22,5 grader på Sveriges framsida."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Noel, 13, blev påkörd – föraren smet från platsen",
+   "title": "Noel, 13, blev påkörd i Huddinge – föraren smet från platsen",
    "date": "2026-10-01T03:30:07.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/noel-13-blev-pakord-foraren-smet-fran-platsen",
    "desc": "När 13-årige Noel Norman skulle cykla hem från skolan en torsdagseftermiddag blev han påkörd av en bil. Istället för att se till att han var oskadd valde föraren att smita – efter att hon skällt ut honom. – Det var dåligt att hon körde iväg. Hon borde ha stannat och hjälpt, säger Noel Norman."
@@ -124,34 +124,42 @@
   {
    "src": "BBC",
    "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-30T18:38:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pd8jcs?at_medium=RSS&at_campaign=rss",
-   "desc": "Wayne Barton on the 'lost tapes' that inspired his new book about Sir Alex Ferguson."
+   "title": "How should Man City be punished? Fans have their say!",
+   "date": "2026-10-01T12:16:14.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwg7k7d5101ko?at_medium=RSS&at_campaign=rss",
+   "desc": "Arsenal, Manchester City, Manchester United, Aston Villa and Liverpool fans have their say on how the Citizens should be punished after the club was found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-30T15:36:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pd79lh?at_medium=RSS&at_campaign=rss",
-   "desc": "News and views on the Red Devils in two minutes. Weekdays, 5pm."
+   "title": "Man Utd and Arsenal wins among 'best in Brighton's history'",
+   "date": "2026-09-29T11:01:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zq8d7e3vo?at_medium=RSS&at_campaign=rss",
+   "desc": "Tony Bloom helped transform the club's fortunes after he became majority shareholder in 2009."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-29T15:51:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pd1wk0?at_medium=RSS&at_campaign=rss",
-   "desc": "Gaz Drinkwater and Joe McGrath react to reports on the Manchester City ruling."
+   "title": "Fernandes, Gakpo & Dorgu join injury list",
+   "date": "2026-09-27T19:05:33.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0qxknzpn8jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Bruno Fernandes, Cody Gakpo and Patrick Dorgu all join the international break's high-profile injury list after suffering issues that have curtailed their involvement in Nations League matches."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Manchester United",
-   "date": "2026-09-27T14:33:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pcr7vv?at_medium=RSS&at_campaign=rss",
-   "desc": "Eva Olid after winning her first WSL game as Man Utd boss."
+   "title": "Sporting Witness",
+   "date": "2026-09-26T06:00:00.000Z",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8rxq?at_medium=RSS&at_campaign=rss",
+   "desc": "Magi Haroun was the first female photographer in the Premier League"
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Why schoolboys have become a huge part of football's transfer market",
+   "date": "2026-09-25T06:32:33.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Sport explores why clubs at the top of English football are increasingly trading academy players and what the impact is on the youngsters themselves."
   }
  ]
 }
