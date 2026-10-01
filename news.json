@@ -1,13 +1,29 @@
 {
- "updated": "2026-09-30T20:29:54.933Z",
+ "updated": "2026-10-01T00:08:10.375Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "What we know about stabbing on Flydubai flight to Israel",
-   "date": "2026-09-30T17:51:49.000Z",
+   "date": "2026-09-30T21:36:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "desc": "The captain and first officer were injured, and one pilot has been arrested, officials say."
+   "desc": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+   "date": "2026-09-30T23:10:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+   "desc": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+   "date": "2026-09-30T23:55:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+   "desc": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
   },
   {
    "src": "BBC",
@@ -20,26 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "UK-France 'one in, one out' migrant scheme scrapped",
-   "date": "2026-09-30T17:11:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-   "desc": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-   "date": "2026-09-30T15:29:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-   "desc": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-   "date": "2026-09-30T14:53:02.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-   "desc": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says."
+   "title": "Tiny image sparks big backlash in Nikon photo contest",
+   "date": "2026-09-30T23:10:19.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+   "desc": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest."
   },
   {
    "src": "SVT",
@@ -68,18 +68,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Novak Djokovic tog första vinsten sedan Wimbledon: ”Hade svårt hålla mig fräsch”",
-   "date": "2026-09-30T17:53:39.000Z",
-   "link": "https://www.svt.se/sport/tennis/novak-djokovic-tog-forsta-vinsten-sedan-wimbledon-hade-svart-halla-mig-frasch",
-   "desc": "Legendaren Novak Djokovic hänger i trots krämpor. I dag tog han första segern sedan Wimbledon genom att besegra Nuno Borges i China Open i Peking. – Den är utsökt, säger kommentatorn om serbens läckra lobb."
+   "title": "Uppgifter till SVT: Misstänkte mannen skulle få fotboja – dagen efter skjutningen",
+   "date": "2026-09-30T18:06:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/uppgifter-till-svt-misstankte-mannen-skulle-fa-fotboja-dagen-efter-skjutningen",
+   "desc": "Mannen som misstänks för skottlossningen i Hovslätt hade nyligen frigivits från fängelset och ska ha brutit mot kontaktförbudet mot sin ex-flickvän. Dagen efter skjutningen skulle han få fotboja, enligt uppgifter till SVT."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Cristiano Ronaldo lämnar samlingen i privatjet – kan vara slutet i landslaget",
-   "date": "2026-09-30T17:52:59.000Z",
-   "link": "https://www.svt.se/sport/fotboll/cristiano-ronaldo-lamnar-samlingen-i-privatjet",
-   "desc": "Cristiano Ronaldo bänkades mot Norge och förbundskaptenen har meddelat att han inte får starta mot Danmark. Under kvällen lämnade Ronaldo samlingen i Köpenhamn i sin privatjet med sikte på Madrid. ”När tiden är inne kommer jag berätta sanningen för det portugisiska folket om orsakerna”, skriver han på Instagram."
+   "title": "Novak Djokovic tog första vinsten sedan Wimbledon: ”Hade svårt hålla mig fräsch”",
+   "date": "2026-09-30T17:53:39.000Z",
+   "link": "https://www.svt.se/sport/tennis/novak-djokovic-tog-forsta-vinsten-sedan-wimbledon-hade-svart-halla-mig-frasch",
+   "desc": "Legendaren Novak Djokovic hänger i trots krämpor. I dag tog han första segern sedan Wimbledon genom att besegra Nuno Borges i China Open i Peking. – Den är utsökt, säger kommentatorn om serbens läckra lobb."
   },
   {
    "src": "STHLM",
