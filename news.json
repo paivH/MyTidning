@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-02T02:25:14.948Z",
+ "updated": "2026-10-02T08:48:02.380Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+   "date": "2026-10-02T08:33:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+   "desc": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+   "date": "2026-10-02T08:16:32.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+   "desc": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,74 +28,82 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What happened in the failed execution of Christa Pike - and what next?",
-   "date": "2026-10-02T02:11:34.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-   "desc": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
+   "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+   "date": "2026-10-02T02:49:44.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+   "desc": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-   "date": "2026-10-01T19:59:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-   "date": "2026-10-01T19:38:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-   "date": "2026-10-01T20:30:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-   "desc": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis."
+   "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+   "date": "2026-10-02T03:09:13.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+   "desc": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\"."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man skadad efter skottlossning i Jönköping",
-   "date": "2026-10-01T21:22:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/skottlossning-i-jonkoping-3fw505",
-   "desc": "En man har hittats med skottskador i Jönköping på torsdagskvällen. Han har förts till sjukhus och skadeläget är oklart."
+   "title": "Se när berget sprängs för nya E22 – förbi Söderköping",
+   "date": "2026-10-02T08:21:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/se-nar-berget-sprangs-for-nya-e22-forbi-soderkoping",
+   "desc": "Sprängningarna för den nya trafikplatsen Slussporten är i gång inför byggstarten av E22 förbi Söderköping. Arbetena sker ungefär en gång i veckan under hösten och kan innebära kortare stopp i trafiken."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Mardrömssekunderna sänkte Norge – föll mot Wales",
-   "date": "2026-10-01T20:36:11.000Z",
-   "link": "https://www.svt.se/sport/fotboll/mardromssekunderna-sankte-norge-foll-mot-wales",
-   "desc": "Norge fick en mardrömsstart på den andra halvleken mot Wales. Torbjörn Heggem blev utvisad efter 14 sekunder. Sedan föll norrmännen i Nations League-mötet. – Katastrof. Fullständigt hjärnsläpp, säger NRK:s expert Carl-Erik Torp."
+   "title": "Havererad avrättning i USA – dödsdömd kvinnas tillstånd kritiskt",
+   "date": "2026-10-02T08:12:51.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/havererad-avrattning-i-usa-dodsdomd-kvinnas-tillstand-kritiskt",
+   "desc": "Sju nålar i vänstra armen. Och den högra blev lila av sticken under försöket att avrätta Christa Pike i Tennessee, uppger hennes advokater. Trots det överlevde 50-åringen. Guvernören måste nu omvandla Christa Pikes straff, säger advokaten Randall Spivey."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Färjestads Per Åslund gjorde målet som få uppfattade: ”Ribban va?”",
-   "date": "2026-10-01T19:24:55.000Z",
-   "link": "https://www.svt.se/sport/ishockey/farjestads-per-aslund-gjorde-malet-som-fa-uppfattade-ribban-va",
-   "desc": "Färjestad vann rivalmötet över Djurgården med 4–0 på ett välfyllt Avicii Arena. Men när Per Åslund gjorde 2–0 var det få som uppfattade det. – Jag var hundra procent säker, säger målskytten till SVT Sport."
+   "title": "Pekas ut av Graham Potter: ”Imponerat”",
+   "date": "2026-10-02T07:42:19.000Z",
+   "link": "https://www.svt.se/sport/fotboll/pekas-ut-av-graham-potter-imponerat",
+   "desc": "Förbundskapten Graham Potter ville inte prata om enskilda spelare i Bosnien-Hercegovina. Men sedan kunde han inte hålla sig. – Han har imponerat, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Björklövens Fredrik Forsberg hyllas efter segern: ”Spetskompetens”",
-   "date": "2026-10-01T19:13:39.000Z",
-   "link": "https://www.svt.se/sport/ishockey/bjorklovens-fredrik-forsberg-hyllas-efter-segern-spetskompetens",
-   "desc": "Björklöven besegrade Växjö och vann andra raka på hemmais. Fredrik Forsberg gjorde sitt första SHL-mål när Björklöven vann med 4-2. – Han har en spetskompetens, säger Radiosportens expert Johan Garpenlöv."
+   "title": "Man död i samband med jakt i Arjeplog – polisen misstänker mord",
+   "date": "2026-10-02T07:38:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-dod-i-arjeplogs-kommun",
+   "desc": "En man har enligt initiala uppgifter blivit skjuten i samband med jakt i Arjeplogs kommun. En man är anhållen. Båda ska vara hemmahörande i Norge."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Minut-för-minut: Skräcken ombord på flyget från Dubai",
-   "date": "2026-10-01T18:50:22.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/minut-for-minut-skracken-ombord-pa-flyget-fran-dubai",
-   "desc": "Ett flygplan på väg från Dubai till Tel Aviv tvingades vända och landa i Saudiarabien. Enligt passagerare knivhöggs en pilot ombord på planet. SVT går igenom händelseförloppet minut för minut."
+   "title": "Nu får fler busslinjer i Stockholm flexibla nattstopp",
+   "date": "2026-10-02T07:29:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-far-fler-busslinjer-i-stockholm-flexibla-nattstopp",
+   "desc": "Med start på måndag kan fler som vill ha en kortare väg hem be busschauffören att stanna mellan två hållplatser. De flexibla nattstoppen har tidigare funnits i Södertälje, Sigtuna och Danderyd men utökas nu med 14 linjer i länet."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nu får fler busslinjer i Stockholm flexibla nattstopp",
+   "date": "2026-10-02T07:29:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-far-fler-busslinjer-i-stockholm-flexibla-nattstopp",
+   "desc": "Med start på måndag kan fler som vill ha en kortare väg hem be busschauffören att stanna mellan två hållplatser. De flexibla nattstoppen har tidigare funnits i Södertälje, Sigtuna och Danderyd men utökas nu med 14 linjer i länet."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Sommarens konserter gav miljardklirr i Stockholms kassa",
+   "date": "2026-10-02T05:48:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sommarens-konserter-gav-miljardklirr-i-kassan",
+   "desc": "Nära 1,2 miljarder kronor. Så mycket spenderade besökare i samband med Bad Bunny och The Weeknds konserter i Stockholm i somras."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Unika biblioteksmodellen i Nacka hotas – personalen tar striden till domstol",
+   "date": "2026-10-02T03:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/unika-biblioteksmodellen-i-nacka-hotas-personalen-tar-striden-till-domstol",
+   "desc": "Nacka är ensamt i Sverige om att låta privata aktörer driva samtliga folkbibliotek. Nu riskerar den modellen att förändras, sedan ett kommunalt bolag vunnit upphandlingen för biblioteken i Dieselverkstaden, Älta och Saltsjöbaden. De personaldrivna biblioteken överklagar beslutet – och omkring 30 anställda kan förlora jobbet."
   },
   {
    "src": "STHLM",
@@ -98,36 +122,12 @@
    "desc": "Läkare på Karolinska sjukhuset varnar för att barn kan få symtom på för tidig pubertet efter kontakt med anhörigas hormonkrämer, geler och sprej. Det kan handla om könsbehåring och bröstutveckling, även för mycket små barn."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Klubbat: Ätstörningsvården ska flytta till Karolinska",
-   "date": "2026-10-01T14:31:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/klubbat-atstorningsvarden-ska-flytta-till-karolinska",
-   "desc": "Nu står det klart att heldygnsvården på Stockholms centrum för ätstörningar, SCÄ, permanent flyttar in i gamla Karolinskas byggnader i Solna."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Domen efter eldattacken mot Egon överklagas",
-   "date": "2026-10-01T14:04:10.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/domen-efter-eldattacken-mot-egon-overklagas",
-   "desc": "En gängkriminell man satte eld på Egons hår när han satt på bussen. Mannen friades i tingrätten. Brottet hade då preskriberats, eftersom det var över sex år sedan händelsen inträffade. Nu har åklagaren i fallet överklagat till hovrätten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Noel, 13, blev påkörd i Huddinge – föraren smet från platsen",
-   "date": "2026-10-01T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/noel-13-blev-pakord-foraren-smet-fran-platsen",
-   "desc": "När 13-årige Noel Norman skulle cykla hem från skolan en torsdagseftermiddag blev han påkörd av en bil. Istället för att se till att han var oskadd valde föraren att smita – efter att hon skällt ut honom. – Det var dåligt att hon körde iväg. Hon borde ha stannat och hjälpt, säger Noel Norman."
-  },
-  {
    "src": "BBC",
    "section": "United",
-   "title": "Class of 92 became spirit of Man Utd - Ferguson",
-   "date": "2026-10-01T17:58:49.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/crje8ekqpyxqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Sir Alex Ferguson told BBC Breakfast about why he decided to trust in youth at Manchester United and why the Class of 92 became the spirit of the club."
+   "title": "Ferguson on being 'terrified' by brain haemorrhage and 'fantastic' return to Man Utd",
+   "date": "2026-10-02T05:25:13.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday."
   },
   {
    "src": "BBC",
