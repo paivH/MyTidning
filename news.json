@@ -1,37 +1,29 @@
 {
- "updated": "2026-10-02T08:48:02.380Z",
+ "updated": "2026-10-02T15:19:06.130Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-   "date": "2026-10-02T08:33:38.000Z",
+   "date": "2026-10-02T09:08:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-   "desc": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi."
+   "desc": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-   "date": "2026-10-02T08:16:32.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-   "desc": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
+   "title": "Cornell students gather to voice anger over alleged gang rape",
+   "date": "2026-10-02T10:00:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-   "date": "2026-10-01T22:28:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-   "desc": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-   "date": "2026-10-02T02:49:44.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
-   "desc": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James."
+   "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+   "date": "2026-10-02T14:01:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived."
   },
   {
    "src": "BBC",
@@ -42,44 +34,76 @@
    "desc": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\"."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Se när berget sprängs för nya E22 – förbi Söderköping",
-   "date": "2026-10-02T08:21:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/se-nar-berget-sprangs-for-nya-e22-forbi-soderkoping",
-   "desc": "Sprängningarna för den nya trafikplatsen Slussporten är i gång inför byggstarten av E22 förbi Söderköping. Arbetena sker ungefär en gång i veckan under hösten och kan innebära kortare stopp i trafiken."
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+   "date": "2026-10-02T05:53:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+   "desc": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Havererad avrättning i USA – dödsdömd kvinnas tillstånd kritiskt",
-   "date": "2026-10-02T08:12:51.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/havererad-avrattning-i-usa-dodsdomd-kvinnas-tillstand-kritiskt",
-   "desc": "Sju nålar i vänstra armen. Och den högra blev lila av sticken under försöket att avrätta Christa Pike i Tennessee, uppger hennes advokater. Trots det överlevde 50-åringen. Guvernören måste nu omvandla Christa Pikes straff, säger advokaten Randall Spivey."
+   "title": "Beslutet: Så många vargar ska det få finnas i Sörmland",
+   "date": "2026-10-02T15:06:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/beslutet-sa-manga-vargar-ska-det-fa-finnas-i-sormland",
+   "desc": "Hur stor ska vargstammen vara i Sörmland och i länen runtomkring? Den frågan har de senaste åren varit omdebatterad – nu har Naturvårdsverket beslutat om en ny lägstanivå."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Pekas ut av Graham Potter: ”Imponerat”",
-   "date": "2026-10-02T07:42:19.000Z",
-   "link": "https://www.svt.se/sport/fotboll/pekas-ut-av-graham-potter-imponerat",
-   "desc": "Förbundskapten Graham Potter ville inte prata om enskilda spelare i Bosnien-Hercegovina. Men sedan kunde han inte hålla sig. – Han har imponerat, säger han."
+   "title": "Det här gäller när du kör elsparkcykel",
+   "date": "2026-10-02T15:05:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/det-har-galler-nar-du-kor-elsparkcykel",
+   "desc": "SVT Sörmland har fått flera frågor om reglerna för elsparkcyklar – bland annat om när de behöver trafikförsäkras. Kristofer Elo, utredare på transportstyrelsen, reder ut vad som gäller."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man död i samband med jakt i Arjeplog – polisen misstänker mord",
-   "date": "2026-10-02T07:38:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-dod-i-arjeplogs-kommun",
-   "desc": "En man har enligt initiala uppgifter blivit skjuten i samband med jakt i Arjeplogs kommun. En man är anhållen. Båda ska vara hemmahörande i Norge."
+   "title": "Efter 100 år av S-styre – Linda Mattsson kan bli historisk i Ånge",
+   "date": "2026-10-02T15:02:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/efter-100-ar-av-s-styre-linda-mattsson-kan-bli-historisk-i-ange",
+   "desc": "Vår Framtid ökade med nära 12 procentenheter sedan förra valet och själv fick partiledaren Linda Mattsson flest personkryss av alla i valet i Ånge. Nu talar allt för att Socialdemokraternas 100-åriga maktepok i kommunen är slut – och i så fall blir Linda Mattsson den första kvinnan någonsin att leda Ånge."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nu får fler busslinjer i Stockholm flexibla nattstopp",
-   "date": "2026-10-02T07:29:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-far-fler-busslinjer-i-stockholm-flexibla-nattstopp",
-   "desc": "Med start på måndag kan fler som vill ha en kortare väg hem be busschauffören att stanna mellan två hållplatser. De flexibla nattstoppen har tidigare funnits i Södertälje, Sigtuna och Danderyd men utökas nu med 14 linjer i länet."
+   "title": "Förbundskaptenen imponeras av Sverige: ”Enastående”",
+   "date": "2026-10-02T14:29:22.000Z",
+   "link": "https://www.svt.se/sport/fotboll/forbundskaptenen-imponeras-av-sverige-enastaende",
+   "desc": "Flera stjärnor saknas för Blågult inför mötet med Bosnien-Hercegovina. Det spelar ingen roll, menar motståndarnas förbundskapten. – Där är de enastående, säger Sergej Barbarez och pekar på en detalj med svenskarna."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Stockholms stad möttes om misstänkt valfusk – inget beslut om utredning",
+   "date": "2026-10-02T13:56:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiker-i-mote-om-misstankt-valfusk-tillsatter-ingen-utredning",
+   "desc": "Kommunstyrelsen i Stockholm hade under fredagen extramöte kring uppgifterna om misstänkt valfusk i Järva. Men staden tog inget beslut om att starta någon egen utredning. – Det här är föremål för polisutredning och jag förutsätter att det är en tydlig extern granskning när det är en polisutredning, så vi avvaktar den, säger finansborgarråd Karin Wanngård (S)."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Så ska kommunerna i Stockholms län styres efter valet 2026",
+   "date": "2026-10-02T14:14:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-ska-kommunerna-i-stockholms-lan-styres-efter-valet-2026",
+   "desc": "Hur ska kommunerna i Stockholms län styras efter valet 2026? Och hur skiljer det sig från tidigare? Se läget för din kommun i guiden. Listan uppdateras löpande i takt med att nya styren presenteras."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Stockholms stad möttes om misstänkt valfusk – inget beslut om utredning",
+   "date": "2026-10-02T13:56:52.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiker-i-mote-om-misstankt-valfusk-tillsatter-ingen-utredning",
+   "desc": "Kommunstyrelsen i Stockholm hade under fredagen extramöte kring uppgifterna om misstänkt valfusk i Järva. Men staden tog inget beslut om att starta någon egen utredning. – Det här är föremål för polisutredning och jag förutsätter att det är en tydlig extern granskning när det är en polisutredning, så vi avvaktar den, säger finansborgarråd Karin Wanngård (S)."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Två begärs häktade misstänkta för mord i Skärmarbrink",
+   "date": "2026-10-02T10:11:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-begars-haktade-misstankta-for-mord-i-skarmarbrink",
+   "desc": "En man hittades död vid ett skogsområde i södra Stockholm i tisdags. Nu begärs två personer häktad på sannolika skäl misstänkta för mord."
   },
   {
    "src": "STHLM",
@@ -98,33 +122,9 @@
    "desc": "Nära 1,2 miljarder kronor. Så mycket spenderade besökare i samband med Bad Bunny och The Weeknds konserter i Stockholm i somras."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Unika biblioteksmodellen i Nacka hotas – personalen tar striden till domstol",
-   "date": "2026-10-02T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/unika-biblioteksmodellen-i-nacka-hotas-personalen-tar-striden-till-domstol",
-   "desc": "Nacka är ensamt i Sverige om att låta privata aktörer driva samtliga folkbibliotek. Nu riskerar den modellen att förändras, sedan ett kommunalt bolag vunnit upphandlingen för biblioteken i Dieselverkstaden, Älta och Saltsjöbaden. De personaldrivna biblioteken överklagar beslutet – och omkring 30 anställda kan förlora jobbet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 1 oktober",
-   "date": "2026-10-01T18:23:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-1-oktober-drry7p",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under torsdagen den 1 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Varning från läkare på  Karolinska: Hormonläkemedel kan skada barn",
-   "date": "2026-10-01T16:16:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/varning-fran-lakare-pa-karolinska-hormonlakemedel-kan-skada-barn",
-   "desc": "Läkare på Karolinska sjukhuset varnar för att barn kan få symtom på för tidig pubertet efter kontakt med anhörigas hormonkrämer, geler och sprej. Det kan handla om könsbehåring och bröstutveckling, även för mycket små barn."
-  },
-  {
    "src": "BBC",
    "section": "United",
-   "title": "Ferguson on being 'terrified' by brain haemorrhage and 'fantastic' return to Man Utd",
+   "title": "Ferguson 'terrified' before 'fantastic' return to Man Utd after brain haemorrhage",
    "date": "2026-10-02T05:25:13.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
    "desc": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday."
