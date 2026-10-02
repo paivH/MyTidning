@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-02T15:19:06.130Z",
+ "updated": "2026-10-02T20:03:39.786Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Riot police clash with students as education protests rage in France",
+   "date": "2026-10-02T17:43:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+   "date": "2026-10-02T17:44:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+   "desc": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,74 +28,66 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Cornell students gather to voice anger over alleged gang rape",
-   "date": "2026-10-02T10:00:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-   "desc": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced."
+   "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+   "date": "2026-10-02T15:26:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+   "desc": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-   "date": "2026-10-02T14:01:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-   "date": "2026-10-02T03:09:13.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-   "desc": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-   "date": "2026-10-02T05:53:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-   "desc": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates."
+   "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+   "date": "2026-10-02T15:30:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+   "desc": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Beslutet: Så många vargar ska det få finnas i Sörmland",
-   "date": "2026-10-02T15:06:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/beslutet-sa-manga-vargar-ska-det-fa-finnas-i-sormland",
-   "desc": "Hur stor ska vargstammen vara i Sörmland och i länen runtomkring? Den frågan har de senaste åren varit omdebatterad – nu har Naturvårdsverket beslutat om en ny lägstanivå."
+   "title": "Ännu en smäll för Sverige – Carl Starfelt skadad",
+   "date": "2026-10-02T19:19:08.000Z",
+   "link": "https://www.svt.se/sport/fotboll/annu-en-small-for-sverige-carl-starfelt-skadad",
+   "desc": "Sveriges skadehelvete fortsätter. Efter dryga halvtimmen mot Bosnien-Hercegovina tvingades Carl Starfelt byta efter att ha tagit sig mot baksidan."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Det här gäller när du kör elsparkcykel",
-   "date": "2026-10-02T15:05:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/det-har-galler-nar-du-kor-elsparkcykel",
-   "desc": "SVT Sörmland har fått flera frågor om reglerna för elsparkcyklar – bland annat om när de behöver trafikförsäkras. Kristofer Elo, utredare på transportstyrelsen, reder ut vad som gäller."
+   "title": "Misstänkt mördare misstänkt för terrorplan mot Nigel Farage",
+   "date": "2026-10-02T18:20:23.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/misstankt-mordare-misstankt-for-terrorplan-mot-nigel-farage",
+   "desc": "I juli i år greps en man misstänkt för mordet på den brittiska ex-ministern Ann Widdecombe. Nu misstänks han för att ha förberedelse av terrorbrott, bland annat mot politikern Nigel Farage, rapporterar The Telegraph."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter 100 år av S-styre – Linda Mattsson kan bli historisk i Ånge",
-   "date": "2026-10-02T15:02:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/efter-100-ar-av-s-styre-linda-mattsson-kan-bli-historisk-i-ange",
-   "desc": "Vår Framtid ökade med nära 12 procentenheter sedan förra valet och själv fick partiledaren Linda Mattsson flest personkryss av alla i valet i Ånge. Nu talar allt för att Socialdemokraternas 100-åriga maktepok i kommunen är slut – och i så fall blir Linda Mattsson den första kvinnan någonsin att leda Ånge."
+   "title": "Indiska piloten får samtal från Modi: ”Ropar mantran för dig”",
+   "date": "2026-10-02T17:39:07.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/indiska-piloten-far-samtal-fran-modi-ropar-mantran-for-dig",
+   "desc": "Den indiska piloten Smit Machchhar attackerades av andrepiloten under en flygning mellan Dubai och Tel Aviv. Han bidrog sedan till att rädda passagerarna ombord, trots sina skador. – Folk i Indien ber för dig, säger Modi i samtalet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Förbundskaptenen imponeras av Sverige: ”Enastående”",
-   "date": "2026-10-02T14:29:22.000Z",
-   "link": "https://www.svt.se/sport/fotboll/forbundskaptenen-imponeras-av-sverige-enastaende",
-   "desc": "Flera stjärnor saknas för Blågult inför mötet med Bosnien-Hercegovina. Det spelar ingen roll, menar motståndarnas förbundskapten. – Där är de enastående, säger Sergej Barbarez och pekar på en detalj med svenskarna."
+   "title": "Vittnet från den svältande byn: ”Maratonlopp på minerad väg”",
+   "date": "2026-10-02T17:32:57.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/vittnet-fran-den-svaltande-byn-maratonlopp-pa-minerad-vag",
+   "desc": "Det rapporteras om massvält i den ockuperade staden Olesjky i södra Ukraina. Staden uppges vara helt isolerad från omvärlden – men SVT har nått fram till flera vittnen. – De hade tur häromdagen och hittade en mullbärsbuske med några bär på, skriver en kvinna vars familj är kvar i staden."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stockholms stad möttes om misstänkt valfusk – inget beslut om utredning",
-   "date": "2026-10-02T13:56:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiker-i-mote-om-misstankt-valfusk-tillsatter-ingen-utredning",
-   "desc": "Kommunstyrelsen i Stockholm hade under fredagen extramöte kring uppgifterna om misstänkt valfusk i Järva. Men staden tog inget beslut om att starta någon egen utredning. – Det här är föremål för polisutredning och jag förutsätter att det är en tydlig extern granskning när det är en polisutredning, så vi avvaktar den, säger finansborgarråd Karin Wanngård (S)."
+   "title": "Inkomstgapet mellan män och kvinnor minskar – men långsamt",
+   "date": "2026-10-02T17:08:16.000Z",
+   "link": "https://www.svt.se/nyheter/ekonomi/inkomstgapet-mellan-man-och-kvinnor-minskar-men-langsamt",
+   "desc": "Gapet mellan kvinnors och mäns inkomster fortsätter att minska, men utvecklingen går långsamt. Kvinnors disponibla inkomster var i genomsnitt 21,6 procent lägre än mäns under 2024, enligt en ny rapport från Medlingsinstitutet."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 2 oktober",
+   "date": "2026-10-02T18:18:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-2-oktober-i9pmo5",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under fredagen den 2 oktober."
   },
   {
    "src": "STHLM",
@@ -100,10 +108,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Två begärs häktade misstänkta för mord i Skärmarbrink",
+   "title": "En misstänkt för mord i Skärmarbrink släppt",
    "date": "2026-10-02T10:11:40.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-begars-haktade-misstankta-for-mord-i-skarmarbrink",
-   "desc": "En man hittades död vid ett skogsområde i södra Stockholm i tisdags. Nu begärs två personer häktad på sannolika skäl misstänkta för mord."
+   "desc": "Två av tre anhållna har släppts efter det misstänkta mordet i Skärmarbrink i tisdags. För den tredje hålls häktningsförhandling på lördagen, rapporterar Mitti."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-02T07:29:56.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-far-fler-busslinjer-i-stockholm-flexibla-nattstopp",
    "desc": "Med start på måndag kan fler som vill ha en kortare väg hem be busschauffören att stanna mellan två hållplatser. De flexibla nattstoppen har tidigare funnits i Södertälje, Sigtuna och Danderyd men utökas nu med 14 linjer i länet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Sommarens konserter gav miljardklirr i Stockholms kassa",
-   "date": "2026-10-02T05:48:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sommarens-konserter-gav-miljardklirr-i-kassan",
-   "desc": "Nära 1,2 miljarder kronor. Så mycket spenderade besökare i samband med Bad Bunny och The Weeknds konserter i Stockholm i somras."
   },
   {
    "src": "BBC",
