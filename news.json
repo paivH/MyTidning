@@ -1,21 +1,29 @@
 {
- "updated": "2026-10-03T09:38:16.092Z",
+ "updated": "2026-10-03T14:32:10.545Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-   "date": "2026-10-03T09:23:31.000Z",
+   "date": "2026-10-03T14:27:33.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-   "desc": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker."
+   "desc": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russia strikes second major bridge in Kyiv, mayor says",
-   "date": "2026-10-03T07:25:09.000Z",
+   "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+   "date": "2026-10-03T12:59:10.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-   "desc": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days."
+   "desc": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Protesters across Spain demand action over housing crisis",
+   "date": "2026-10-03T13:34:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament."
   },
   {
    "src": "BBC",
@@ -28,18 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-   "date": "2026-10-02T20:32:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-   "desc": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee."
+   "title": "Women given shorts at Oktoberfest to prevent upskirting",
+   "date": "2026-10-02T23:16:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+   "desc": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Riot police clash with students as education protests rage in France",
-   "date": "2026-10-02T21:13:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-   "desc": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Djurens dag firades på Mariebergskogen",
+   "date": "2026-10-03T14:04:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/djurens-dag-firades-pa-mariebergskogen",
+   "desc": "Det var många barn och vuxna som ville träffa Mariebergsskogens 172 djur under lördagen när Djurens dag firades i Karlstad. – Jag har kommit hit varje dag i 20 år, säger pensionären Gertrud Hullegård."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Det här talar emot att regeringsbildningen slutar i extraval",
+   "date": "2026-10-03T10:34:52.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/det-har-talar-emot-att-regeringsbildningen-slutar-i-extraval",
+   "desc": "Läget i politiken ser låst ut – och redan nu talas det om extraval. Men hur sannolikt är det att svenska folket kallas till valurnorna på nytt? Här är några saker som talar emot ett extraval."
   },
   {
    "src": "SVT",
@@ -66,20 +82,20 @@
    "desc": "En bil har kört in i en folkmassa som stod på en väg för att heja på rugbylaget Newcastle Knights norr om Sydney under lördagen lokal tid, skriver AP. Tio personer har skadats, däribland flera barn, enligt australiska myndigheter."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Här är smuggelkontona som försöker locka migranter in i EU",
-   "date": "2026-10-03T04:18:29.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/har-ar-smuggelkontona-som-forsoker-locka-migranter-in-i-eu",
-   "desc": "En väg in i EU från Belarus. Det är drömmen som konton på Tiktok säljer till migranter från Afrika och Mellanöstern. Bakom döljer sig smugglare och chaufförer som lockas med tiotusentals kronor – men också Ryssland och Belarus som använder migranterna som del i sitt hybridkrig mot EU."
+   "title": "Här springer tusentals i Stockholms nya E4-tunnlar – SVT:s reporter hänger på",
+   "date": "2026-10-03T13:17:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-springer-tusentals-i-stockholms-nya-e4-tunnlar-svts-reporter-hanger-pa",
+   "desc": "Under lördagen får E4 en ovanlig typ av trafik – nämligen hela 33 000 människor som springer genom de nya tunnlarna i Stockholm. – Vi kollar mest runt och gör ett litet platsbesök, säger Alexander Ohlén som bor i Gävle."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Tv-chefen: Världen behöver urfolkens kunskap och perspektiv",
-   "date": "2026-10-03T04:00:01.000Z",
-   "link": "https://www.svt.se/nyheter/sapmi/varlden-behover-urfolkens-kunskap-och-perspektiv",
-   "desc": "Världen behöver urfolkens kunskap och perspektiv, det anser före detta NRK-chefen Nils Johan Heatta. Därför spelar urfolksmedier en viktig roll i dag. – Vi öppnar upp till en okänd värld, säger Heatta."
+   "title": "Krock på E18 vid Barkarby skapade långa köer",
+   "date": "2026-10-03T11:26:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/langa-koer-efter-krock-pa-e18-i-hojd-med-barkarby",
+   "desc": "På lördagen krockade två bilar på E18 i höjd med Barkarby. En av bilarna började brinna, och olyckan skapade långa bilköer. Vid 14-tiden kunde trafiken släppas på som vanligt. Det finns inga uppgifter om att någon har skadats."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-10-02T14:14:43.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-ska-kommunerna-i-stockholms-lan-styres-efter-valet-2026",
    "desc": "Hur ska kommunerna i Stockholms län styras efter valet 2026? Och hur skiljer det sig från tidigare? Se läget för din kommun i guiden. Listan uppdateras löpande i takt med att nya styren presenteras."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stockholms stad möttes om misstänkt valfusk – inget beslut om utredning",
-   "date": "2026-10-02T13:56:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiker-i-mote-om-misstankt-valfusk-tillsatter-ingen-utredning",
-   "desc": "Kommunstyrelsen i Stockholm hade under fredagen extramöte kring uppgifterna om misstänkt valfusk i Järva. Men staden tog inget beslut om att starta någon egen utredning. – Det här är föremål för polisutredning och jag förutsätter att det är en tydlig extern granskning när det är en polisutredning, så vi avvaktar den, säger finansborgarråd Karin Wanngård (S)."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "En misstänkt för mord i Skärmarbrink släppt",
-   "date": "2026-10-02T10:11:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-begars-haktade-misstankta-for-mord-i-skarmarbrink",
-   "desc": "Två av tre anhållna har släppts efter det misstänkta mordet i Skärmarbrink i tisdags. För den tredje hålls häktningsförhandling på lördagen, rapporterar Mitti."
   },
   {
    "src": "BBC",
