@@ -1,11 +1,27 @@
 {
- "updated": "2026-10-03T03:46:18.850Z",
+ "updated": "2026-10-03T09:38:16.092Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-   "date": "2026-10-02T20:25:19.000Z",
+   "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+   "date": "2026-10-03T09:23:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+   "desc": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russia strikes second major bridge in Kyiv, mayor says",
+   "date": "2026-10-03T07:25:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+   "desc": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+   "date": "2026-10-03T04:38:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
    "desc": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
   },
@@ -20,66 +36,50 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-   "date": "2026-10-03T02:23:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-   "desc": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Riot police clash with students as education protests rage in France",
    "date": "2026-10-02T21:13:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
    "desc": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-   "date": "2026-10-02T15:30:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-   "desc": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tullverket: Ny lag gör skillnad – beslag av stöldgods i Göteborg",
+   "date": "2026-10-03T09:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/tullverket-ny-lag-gor-skillnad-beslag-av-stoldgods-i-goteborg",
+   "desc": "I Göteborg stoppades en lastbil med stöldgods för över en halv miljon kronor. En ny lag utökar Tullverkets befogenheter – och nu har flera dömts."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här bevaras urgammal båtbyggarkonst  – från vikingatiden",
-   "date": "2026-10-03T03:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/har-bevaras-urgammal-batbyggarkonst-fran-vikingatiden",
-   "desc": "De studerande på båtbyggarlinjen på Stensunds folkhökskola har en sak gemensamt – kärleken till klinkbyggda båtar."
+   "title": "SD: Nej till att be samer om ursäkt",
+   "date": "2026-10-03T04:53:07.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sd-nej-till-att-be-samer-om-ursakt",
+   "desc": "I veckan krävde Sanningskommissionen för samiska folket att en offentlig ursäkt bör ske för statens övergrepp mot samerna. Men när SVT ställer frågan till riksdagspartierna tvekar flera av dem – och Sverigedemokraterna är helt emot. – Utgångspunkten är att vi inte vill tillgodose detta krav, säger Martin Kinnunen (SD)."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Rödgrön kvartett fortsätter styra Arboga",
-   "date": "2026-10-03T03:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/styret-klart-i-arboga-samma-kvartett-fortsatter",
-   "desc": "I början av året tog partierna över styret i Arboga kommun. Efter valet och interna förhandlingar står det nu klart att S, V, C och MP fortsätter styra de kommande fyra åren. ”Vi tar ett gemensamt ansvar för att leda Arboga framåt”, skriver partierna i ett gemensamt uttalande."
+   "title": "Bil har kört in i folkmassa norr om Sydney – 10 skadade",
+   "date": "2026-10-03T04:22:17.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/bil-har-kort-in-i-folkmassa-i-sydney-10-skadade",
+   "desc": "En bil har kört in i en folkmassa som stod på en väg för att heja på rugbylaget Newcastle Knights norr om Sydney under lördagen lokal tid, skriver AP. Tio personer har skadats, däribland flera barn, enligt australiska myndigheter."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kraftig ökning: Privata utredare omsätter miljarder på adhd och autism",
-   "date": "2026-10-03T03:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/kraftig-okning-privata-utredare-omsatter-miljarder-pa-adhd-och-autism",
-   "desc": "Den privat finansierade marknaden för utredningar inom adhd och autism växer snabbt. Under 2024 omsatte branschen 1,57 miljarder kronor. Det konstaterar Myndigheten för vård- och omsorgsanalys i en ny kartläggning."
+   "title": "Här är smuggelkontona som försöker locka migranter in i EU",
+   "date": "2026-10-03T04:18:29.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/har-ar-smuggelkontona-som-forsoker-locka-migranter-in-i-eu",
+   "desc": "En väg in i EU från Belarus. Det är drömmen som konton på Tiktok säljer till migranter från Afrika och Mellanöstern. Bakom döljer sig smugglare och chaufförer som lockas med tiotusentals kronor – men också Ryssland och Belarus som använder migranterna som del i sitt hybridkrig mot EU."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kollaps för Irans oljetrafik – föll till noll i september",
-   "date": "2026-10-03T02:44:13.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/kollaps-for-irans-oljetrafik-foll-till-noll-i-september",
-   "desc": "Iran har inte kunnat fylla på oljefartyg i sina hamnar alls i september på grund av USA:s blockad, enligt satellitdata sammanställd av Bloomberg och analysfirmorna Kpler och Vortexa. Det innebär att fartygsfrakterna av råolja från iranska hamnar har fallit från omkring 250 000 per dag i augusti, enligt statistiken."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sebastian Nanasi utsatt för laserattack: ”Klart man blir påverkad”",
-   "date": "2026-10-02T21:48:11.000Z",
-   "link": "https://www.svt.se/sport/fotboll/sebastian-nanasi-utsatt-for-laserattack-klart-man-blir-paverkad",
-   "desc": "Ett sätt att psyka svenskarna. Sebastian Nanasi blev utsatt för en laserattack i mötet med Bosnien-Hercegovina. – Jag försökte fokusera, säger han till SVT Sport."
+   "title": "Tv-chefen: Världen behöver urfolkens kunskap och perspektiv",
+   "date": "2026-10-03T04:00:01.000Z",
+   "link": "https://www.svt.se/nyheter/sapmi/varlden-behover-urfolkens-kunskap-och-perspektiv",
+   "desc": "Världen behöver urfolkens kunskap och perspektiv, det anser före detta NRK-chefen Nils Johan Heatta. Därför spelar urfolksmedier en viktig roll i dag. – Vi öppnar upp till en okänd värld, säger Heatta."
   },
   {
    "src": "STHLM",
