@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-03T14:32:10.545Z",
+ "updated": "2026-10-03T18:30:32.657Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+   "date": "2026-10-03T17:48:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -13,14 +21,14 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-   "date": "2026-10-03T12:59:10.000Z",
+   "date": "2026-10-03T16:16:49.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
    "desc": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Protesters across Spain demand action over housing crisis",
+   "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
    "date": "2026-10-03T13:34:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
    "desc": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament."
@@ -34,12 +42,20 @@
    "desc": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Women given shorts at Oktoberfest to prevent upskirting",
-   "date": "2026-10-02T23:16:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-   "desc": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter misslyckade avrättningen av Christa Pike – fängelsechef avgår",
+   "date": "2026-10-03T15:42:33.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/efter-misslyckade-avrattningen-fangelsechef-avgar",
+   "desc": "Tidigare i veckan skapade den misslyckade avrättningen av Christa Pike i Tennessee rubriker världen över. Nu avgår den högsta chefen för delstatens fängelsesystem. ”Det är i delstatens bästa intresse”, säger chefen i ett uttalande enligt AP."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ryska attacker mot broar – tre dagar i rad",
+   "date": "2026-10-03T14:58:47.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ryska-attacker-mot-broar-tre-dagar-i-rad",
+   "desc": "Den södra och norra bron över floden i Kyjiv har attackerats sedan i torsdags, enligt ukrainska myndigheter. Attackerna slår mot transport i hela Ukraina och stadens borgmästare kallar läget mycket dramatiskt. – Man vill slå sönder varandras förmåga att fortsätta kriga, säger Roger Djupsjö vid Försvarshögskolan."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "I Göteborg stoppades en lastbil med stöldgods för över en halv miljon kronor. En ny lag utökar Tullverkets befogenheter – och nu har flera dömts."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "SD: Nej till att be samer om ursäkt",
-   "date": "2026-10-03T04:53:07.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sd-nej-till-att-be-samer-om-ursakt",
-   "desc": "I veckan krävde Sanningskommissionen för samiska folket att en offentlig ursäkt bör ske för statens övergrepp mot samerna. Men när SVT ställer frågan till riksdagspartierna tvekar flera av dem – och Sverigedemokraterna är helt emot. – Utgångspunkten är att vi inte vill tillgodose detta krav, säger Martin Kinnunen (SD)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bil har kört in i folkmassa norr om Sydney – 10 skadade",
-   "date": "2026-10-03T04:22:17.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/bil-har-kort-in-i-folkmassa-i-sydney-10-skadade",
-   "desc": "En bil har kört in i en folkmassa som stod på en väg för att heja på rugbylaget Newcastle Knights norr om Sydney under lördagen lokal tid, skriver AP. Tio personer har skadats, däribland flera barn, enligt australiska myndigheter."
+   "title": "Nyheter från dagen: 3 oktober",
+   "date": "2026-10-03T17:12:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-3-oktober-7qz604",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under lördagen den 3 oktober."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-02T18:18:32.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-2-oktober-i9pmo5",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om under fredagen den 2 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Så ska kommunerna i Stockholms län styres efter valet 2026",
-   "date": "2026-10-02T14:14:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-ska-kommunerna-i-stockholms-lan-styres-efter-valet-2026",
-   "desc": "Hur ska kommunerna i Stockholms län styras efter valet 2026? Och hur skiljer det sig från tidigare? Se läget för din kommun i guiden. Listan uppdateras löpande i takt med att nya styren presenteras."
   },
   {
    "src": "BBC",
