@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T18:30:32.657Z",
+ "updated": "2026-10-03T21:57:26.198Z",
  "items": [
   {
    "src": "BBC",
@@ -31,7 +31,7 @@
    "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
    "date": "2026-10-03T13:34:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament."
+   "desc": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
   },
   {
    "src": "BBC",
@@ -40,6 +40,14 @@
    "date": "2026-10-03T04:38:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
    "desc": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Okänt föremål hittat – fartygstrafiken i Helsingfors begränsas",
+   "date": "2026-10-03T20:17:46.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/okant-foremal-hittat-fgartygstrafiken-i-helsingfors-begransas",
+   "desc": "Efter att ett okänt föremål påträffats i farleden begränsas fartygstrafiken, rapporterar Yle."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-10-03T10:34:52.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/det-har-talar-emot-att-regeringsbildningen-slutar-i-extraval",
    "desc": "Läget i politiken ser låst ut – och redan nu talas det om extraval. Men hur sannolikt är det att svenska folket kallas till valurnorna på nytt? Här är några saker som talar emot ett extraval."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tullverket: Ny lag gör skillnad – beslag av stöldgods i Göteborg",
-   "date": "2026-10-03T09:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/tullverket-ny-lag-gor-skillnad-beslag-av-stoldgods-i-goteborg",
-   "desc": "I Göteborg stoppades en lastbil med stöldgods för över en halv miljon kronor. En ny lag utökar Tullverkets befogenheter – och nu har flera dömts."
   },
   {
    "src": "STHLM",
