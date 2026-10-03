@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T23:55:36.027Z",
+ "updated": "2026-10-03T03:46:18.850Z",
  "items": [
   {
    "src": "BBC",
@@ -7,15 +7,7 @@
    "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
    "date": "2026-10-02T20:25:19.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-   "desc": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Riot police clash with students as education protests rage in France",
-   "date": "2026-10-02T21:13:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-   "desc": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
+   "desc": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
   },
   {
    "src": "BBC",
@@ -28,18 +20,58 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-   "date": "2026-10-02T17:44:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-   "desc": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024."
+   "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+   "date": "2026-10-03T02:23:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+   "desc": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-   "date": "2026-10-02T15:26:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-   "desc": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure."
+   "title": "Riot police clash with students as education protests rage in France",
+   "date": "2026-10-02T21:13:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+   "desc": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+   "date": "2026-10-02T15:30:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+   "desc": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här bevaras urgammal båtbyggarkonst  – från vikingatiden",
+   "date": "2026-10-03T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/har-bevaras-urgammal-batbyggarkonst-fran-vikingatiden",
+   "desc": "De studerande på båtbyggarlinjen på Stensunds folkhökskola har en sak gemensamt – kärleken till klinkbyggda båtar."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rödgrön kvartett fortsätter styra Arboga",
+   "date": "2026-10-03T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/styret-klart-i-arboga-samma-kvartett-fortsatter",
+   "desc": "I början av året tog partierna över styret i Arboga kommun. Efter valet och interna förhandlingar står det nu klart att S, V, C och MP fortsätter styra de kommande fyra åren. ”Vi tar ett gemensamt ansvar för att leda Arboga framåt”, skriver partierna i ett gemensamt uttalande."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kraftig ökning: Privata utredare omsätter miljarder på adhd och autism",
+   "date": "2026-10-03T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/kraftig-okning-privata-utredare-omsatter-miljarder-pa-adhd-och-autism",
+   "desc": "Den privat finansierade marknaden för utredningar inom adhd och autism växer snabbt. Under 2024 omsatte branschen 1,57 miljarder kronor. Det konstaterar Myndigheten för vård- och omsorgsanalys i en ny kartläggning."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kollaps för Irans oljetrafik – föll till noll i september",
+   "date": "2026-10-03T02:44:13.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/kollaps-for-irans-oljetrafik-foll-till-noll-i-september",
+   "desc": "Iran har inte kunnat fylla på oljefartyg i sina hamnar alls i september på grund av USA:s blockad, enligt satellitdata sammanställd av Bloomberg och analysfirmorna Kpler och Vortexa. Det innebär att fartygsfrakterna av råolja från iranska hamnar har fallit från omkring 250 000 per dag i augusti, enligt statistiken."
   },
   {
    "src": "SVT",
@@ -50,36 +82,12 @@
    "desc": "Ett sätt att psyka svenskarna. Sebastian Nanasi blev utsatt för en laserattack i mötet med Bosnien-Hercegovina. – Jag försökte fokusera, säger han till SVT Sport."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Sverige snuvades på segern i gruppfinalen: ”Tungt”",
-   "date": "2026-10-02T20:40:02.000Z",
-   "link": "https://www.svt.se/sport/fotboll/sverige-snuvades-pa-segern-i-gruppfinalen",
-   "desc": "Sverige var på väg mot segern mot Bosnien-Hercegovina i Zenica men fick nöja sig med 1–1 i gruppfinalen i Nations League. – Det är tungt att släppa in det där målet, säger Viktor Gyökeres till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ännu en smäll för Sverige – Carl Starfelt skadad",
-   "date": "2026-10-02T19:19:08.000Z",
-   "link": "https://www.svt.se/sport/fotboll/annu-en-small-for-sverige-carl-starfelt-skadad",
-   "desc": "Sveriges skadehelvete fortsätter. Efter dryga halvtimmen mot Bosnien-Hercegovina tvingades Carl Starfelt byta efter att ha tagit sig mot baksidan. – Han kommer självklart att missa Rumänien-matchen, konstaterar Graham Potter."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt mördare misstänkt för terrorplan mot Nigel Farage",
-   "date": "2026-10-02T18:20:23.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/misstankt-mordare-misstankt-for-terrorplan-mot-nigel-farage",
-   "desc": "I juli i år greps en man misstänkt för mordet på den brittiska ex-ministern Ann Widdecombe. Nu misstänks han för att ha förberedelse av terrorbrott, bland annat mot politikern Nigel Farage, rapporterar The Telegraph."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Indiska piloten får samtal från Modi: ”Ropar mantran för dig”",
-   "date": "2026-10-02T17:39:07.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/indiska-piloten-far-samtal-fran-modi-ropar-mantran-for-dig",
-   "desc": "Den indiska piloten Smit Machchhar attackerades av andrepiloten under en flygning mellan Dubai och Tel Aviv. Han bidrog sedan till att rädda passagerarna ombord, trots sina skador. – Folk i Indien ber för dig, säger Modi i samtalet."
+   "title": "Här badar Erik med sin anka – nu väntar VM i vintersim i Argentina",
+   "date": "2026-10-03T03:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-badar-erik-med-sin-anka-nu-vantar-vm-i-vintersim-i-argentina",
+   "desc": "Det började som en rolig grej. Nu badar han varje vecka, året runt och lägger ut klippen på Tiktok. Där har flera klipp blivit virala. Men hans nästa mål blir medalj i vintersim. – Jag ska träna på alla simstilar och i låga temperaturer, säger Erik Fellman."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-02T10:11:40.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-begars-haktade-misstankta-for-mord-i-skarmarbrink",
    "desc": "Två av tre anhållna har släppts efter det misstänkta mordet i Skärmarbrink i tisdags. För den tredje hålls häktningsförhandling på lördagen, rapporterar Mitti."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nu får fler busslinjer i Stockholm flexibla nattstopp",
-   "date": "2026-10-02T07:29:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-far-fler-busslinjer-i-stockholm-flexibla-nattstopp",
-   "desc": "Med start på måndag kan fler som vill ha en kortare väg hem be busschauffören att stanna mellan två hållplatser. De flexibla nattstoppen har tidigare funnits i Södertälje, Sigtuna och Danderyd men utökas nu med 14 linjer i länet."
   },
   {
    "src": "BBC",
