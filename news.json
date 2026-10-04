@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T21:57:26.198Z",
+ "updated": "2026-10-04T00:23:27.968Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,14 @@
    "date": "2026-10-03T17:48:42.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
    "desc": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Cornell president says university 'must do better' after frat house rape allegations",
+   "date": "2026-10-04T00:11:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\"."
   },
   {
    "src": "BBC",
@@ -34,12 +42,12 @@
    "desc": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-   "date": "2026-10-03T04:38:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-   "desc": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tumult vid spanska demonstrantläger",
+   "date": "2026-10-03T23:18:19.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tumult-vid-spanska-demonstrantlager",
+   "desc": "Spansk polis har skjutit gummikulor och varningsskott under lördagskvällen sedan högerextrema grupper försökt ta sig fram till demonstrantläger."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-10-03T14:04:42.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/varmland/djurens-dag-firades-pa-mariebergskogen",
    "desc": "Det var många barn och vuxna som ville träffa Mariebergsskogens 172 djur under lördagen när Djurens dag firades i Karlstad. – Jag har kommit hit varje dag i 20 år, säger pensionären Gertrud Hullegård."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Det här talar emot att regeringsbildningen slutar i extraval",
-   "date": "2026-10-03T10:34:52.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/det-har-talar-emot-att-regeringsbildningen-slutar-i-extraval",
-   "desc": "Läget i politiken ser låst ut – och redan nu talas det om extraval. Men hur sannolikt är det att svenska folket kallas till valurnorna på nytt? Här är några saker som talar emot ett extraval."
   },
   {
    "src": "STHLM",
