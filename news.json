@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-04T06:09:36.443Z",
+ "updated": "2026-10-04T12:42:10.488Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+   "date": "2026-10-04T12:09:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Australia investigating Flydubai co-pilot's links to country",
+   "date": "2026-10-04T06:19:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+   "desc": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,22 +36,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-   "date": "2026-10-04T04:57:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-   "desc": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-   "date": "2026-10-03T16:16:49.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-   "desc": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
    "date": "2026-10-04T03:42:15.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bagaren Amalias bästa tips: Så gör du en riktigt god kanelbulle",
-   "date": "2026-10-04T05:07:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/bagaren-amalias-basta-tips-sa-gor-du-en-riktigt-god-kanelbulle",
-   "desc": "På söndag är det kanelbullens dag – en dag då svenskarna sätter i sig runt nio miljoner bullar. Bagaren Amalia Andersson i Umeå har flera tips på vad du ska tänka på om du vill baka en riktigt god bulle."
+   "title": "Lista: Tre röda flaggor på börsen",
+   "date": "2026-10-04T12:28:54.000Z",
+   "link": "https://www.svt.se/nyheter/ekonomi/lista-tre-roda-flaggor-pa-borsen",
+   "desc": "Trots stigande räntor, dyrare olja och en möjlig AI-bubbla vid horisonten står börsen stadig. Men hur vet man när börsen blivit lite för het? Här listar ekonomijournalisten Gabriel Mellqvist tre varningsflaggor."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nära 300 skandinaver är med i den israeliska militären – SVT har träffat en av dem",
-   "date": "2026-10-04T03:58:16.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/nara-300-skandinaver-ar-med-i-den-israeliska-militaren-svt-har-traffat-en-av-dem",
-   "desc": "Hundratals skandinaver finns registrerade som en del av den israeliska militären, IDF. Siffrorna är militärens egna och visar på tiotusentals personer med dubbla eller flera medborgarskap. – Här finns Sverige – 150, Danmark – 99, Norge – 35, Finland – 62. Det är viktigt att folk runtom i världen får veta vad som pågår, säger John McEvoy på brittiska Declassified UK till SVT."
+   "title": "Tågstopp mellan Göteborg och Stockholm – träd hänger mot kontaktledning",
+   "date": "2026-10-04T11:04:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/tagstopp-mellan-goteborg-och-stockholm-fi6tay",
+   "desc": "Tågtrafiken mellan Göteborg och Stockholm står helt stilla sedan ett elfel mellan Herrljunga och Borås. Ett träd ska ha hamnat över spåret och hänger mot en kontaktledning. – Den senaste infon vi fick var att de har arbetsfordon på väg ut, säger Daniel Vesterlund Hamrén på SJ:s pressjour."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Victorias hobby: Att leva som en Vasadrottning",
-   "date": "2026-10-04T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/victorias-hobby-att-leva-som-en-vasadrottning",
-   "desc": "Tjocka sammetstyger, handsömnad och ugnsstekt hare. Det är vardagsmat för Victoria Enefors som ägnar en stor del av sin fritid åt att fördjupa sig i 1500-talsdrottningen Katarina Jagellonicas liv."
+   "title": "Över 5 000 gripna efter studentprotester i Frankrike",
+   "date": "2026-10-04T10:57:36.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/over-5-000-gripna-efter-studentprotester-i-frankrike",
+   "desc": "De franska studentprotesterna är ”utom kontroll”, uppger polischefen i Paris enligt nyhetsbyrån Reuters. Under den senaste veckan har runt 5 000 personer gripits över hela landet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Dan i Linköping har översatt Nya testamentet: ”Svåra avvägningar”",
-   "date": "2026-10-04T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/dan-i-linkoping-har-oversatt-nya-testamentet-svara-avvagningar",
-   "desc": "Dan Nässelqvist, stiftsteolog vid Svenska kyrkan i Linköping, är en av författarna bakom den nya översättningen av Nya testamentet. I sju års tid har han arbetat med den nya översättningen som lanserades förra veckan."
+   "title": "Patient förlorade synen – efter utebliven uppföljning",
+   "date": "2026-10-04T10:32:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/patient-forlorade-synen-efter-utebliven-uppfoljning",
+   "desc": "Det var under hösten 2025 som patienten sökte akutvård efter att ha fått plötslig ensidig synnedsättning. Under akutbesöket konstaterades en blödning i ögat."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Khadar i Falun ska ge stamceller till leukemipatient – fick matchning direkt",
-   "date": "2026-10-04T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/khadar-i-falun-ska-ge-stamceller-till-leukemipatient-fick-matchning-direkt",
-   "desc": "Khadar Farah i Falun hade aldrig hört talas om Tobiasregistret. En tiktok-video senare hade han skrivit upp sig och fått en matching för att donera stamceller – på ovanligt kort tid. Och det finns ett stort behov av donatorer som just är män och av utomeuropeiskt ursprung. – Att rädda en annan människas liv är den optimala lyckan, säger Khadar Farah."
+   "title": "Två döda och en skadad i skjutning i norska Halden",
+   "date": "2026-10-04T06:09:29.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/skjutning-i-norska-halden-nara-svenska-gransen",
+   "desc": "En far och son har dött och en person skadats allvarligt efter en skjutning i norska Halden. En man i 20-årsåldern är misstänkt för mord, bekräftar polisen för NRK. Polisen misstänker att 20-åringen har koppling till jaktlaget, enligt åklagare Anders Svarholt. – Vi tror inte att det här rör sig om en helt slumpmässig person som har börjat avfyra skott mot ett jaktlag, säger han till NTB."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Åtalad Stockholmspolis kopplas till pedofilnätverk",
+   "date": "2026-10-04T07:24:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/atalad-stockholmspolis-kopplas-till-pedofilnatverk",
+   "desc": "En polis som åtalats för flera fall av våldtäkt mot barn förekom också i en tidigare utredning om ett uppmärksammat pedofilnätverk, något som P4 Stockholm var först att rapportera om. – Det vi hade då var alias, vi visste inte då att det var en polis inom myndigheten, säger utredaren Jonas Göthner."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-03T13:17:14.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-springer-tusentals-i-stockholms-nya-e4-tunnlar-svts-reporter-hanger-pa",
    "desc": "Under lördagen får E4 en ovanlig typ av trafik – nämligen hela 33 000 människor som springer genom de nya tunnlarna i Stockholm. – Vi kollar mest runt och gör ett litet platsbesök, säger Alexander Ohlén som bor i Gävle."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Krock på E18 vid Barkarby skapade långa köer",
-   "date": "2026-10-03T11:26:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/langa-koer-efter-krock-pa-e18-i-hojd-med-barkarby",
-   "desc": "På lördagen krockade två bilar på E18 i höjd med Barkarby. En av bilarna började brinna, och olyckan skapade långa bilköer. Vid 14-tiden kunde trafiken släppas på som vanligt. Det finns inga uppgifter om att någon har skadats."
   },
   {
    "src": "BBC",
