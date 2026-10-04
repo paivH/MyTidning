@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T09:31:06.230Z",
+ "updated": "2026-10-04T10:17:48.500Z",
  "verified": false,
  "deals": [
   {
@@ -10,32 +10,32 @@
   },
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma/Ingrid Marie",
+   "item": "Svenska äpplen Ingrid Marie 1kg",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Färsk laxfilé Atlantic 400g",
-   "price": "49 kr",
+   "item": "Rostad rotfruktsmix 500g",
+   "price": "19 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Rostade kastanjer säsong 300g",
-   "price": "24 kr",
+   "item": "Kaffe Bellarom mörkrost 500g",
+   "price": "34 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
-   "price": "59 kr",
+   "item": "Köttbullar 1kg (frys)",
+   "price": "69 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Stormljus LED 3-pack höstkollektion",
-   "price": "79 kr",
+   "item": "LED-ljusslinga 10m utomhus",
+   "price": "99 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
