@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T12:42:10.488Z",
+ "updated": "2026-10-04T17:16:40.155Z",
  "items": [
   {
    "src": "BBC",
@@ -12,34 +12,50 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Australia investigating Flydubai co-pilot's links to country",
-   "date": "2026-10-04T06:19:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-   "desc": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel."
+   "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+   "date": "2026-10-04T14:25:32.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-   "date": "2026-10-03T17:48:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections."
+   "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+   "date": "2026-10-04T16:51:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Cornell president says university 'must do better' after frat house rape allegations",
-   "date": "2026-10-04T00:11:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\"."
+   "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+   "date": "2026-10-04T13:33:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+   "desc": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-   "date": "2026-10-04T03:42:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
+   "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+   "date": "2026-10-04T16:24:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Efter flera djurangrepp: Varg skjuten i Karlskoga",
+   "date": "2026-10-04T14:19:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/efter-flera-djurangrepp-varg-skjuten-i-karlskoga",
+   "desc": "En vargtik har skjutits norr om Karlskoga efter att länsstyrelsen beslutat om skyddsjakt. Bakgrunden är flera vargangrepp på tamdjur, senast i torsdags när en kalv dödades. – Vi hoppas att det hjälper, säger Ola Karlsson, ordförande i Jägareförbundet Örebro, och till vardags moderatpolitiker i kommun och region."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Läkare från Umeå skrev ut sömnmedel till sig själv – får kritik",
+   "date": "2026-10-04T13:33:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/lakare-fran-umea-skrev-ut-somnmedel-till-sig-sjalv-far-kritik",
+   "desc": "En läkare från Umeå skrev ut stora mängder narkotikaklassade sömnmedel och lugnande läkemedel till en närstående. Han ska även ha skrivit ut sömnmedel till sig själv. Nu får läkaren kritik av Inspektionen för vård och omsorg, Ivo."
   },
   {
    "src": "SVT",
@@ -52,10 +68,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tågstopp mellan Göteborg och Stockholm – träd hänger mot kontaktledning",
+   "title": "Tågstopp mellan Göteborg och Stockholm – träd hängde över kontaktledning",
    "date": "2026-10-04T11:04:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/tagstopp-mellan-goteborg-och-stockholm-fi6tay",
-   "desc": "Tågtrafiken mellan Göteborg och Stockholm står helt stilla sedan ett elfel mellan Herrljunga och Borås. Ett träd ska ha hamnat över spåret och hänger mot en kontaktledning. – Den senaste infon vi fick var att de har arbetsfordon på väg ut, säger Daniel Vesterlund Hamrén på SJ:s pressjour."
+   "desc": "Tågtrafiken mellan Göteborg och Stockholm stod helt stilla under stora delar av söndagen på grund av ett elfel mellan Herrljunga och Borås. Ett träd ska ha fallit över spåret och blev hängandes i en kontaktledning."
   },
   {
    "src": "SVT",
@@ -63,28 +79,28 @@
    "title": "Över 5 000 gripna efter studentprotester i Frankrike",
    "date": "2026-10-04T10:57:36.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/over-5-000-gripna-efter-studentprotester-i-frankrike",
-   "desc": "De franska studentprotesterna är ”utom kontroll”, uppger polischefen i Paris enligt nyhetsbyrån Reuters. Under den senaste veckan har runt 5 000 personer gripits över hela landet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Patient förlorade synen – efter utebliven uppföljning",
-   "date": "2026-10-04T10:32:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/patient-forlorade-synen-efter-utebliven-uppfoljning",
-   "desc": "Det var under hösten 2025 som patienten sökte akutvård efter att ha fått plötslig ensidig synnedsättning. Under akutbesöket konstaterades en blödning i ögat."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Två döda och en skadad i skjutning i norska Halden",
-   "date": "2026-10-04T06:09:29.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/skjutning-i-norska-halden-nara-svenska-gransen",
-   "desc": "En far och son har dött och en person skadats allvarligt efter en skjutning i norska Halden. En man i 20-årsåldern är misstänkt för mord, bekräftar polisen för NRK. Polisen misstänker att 20-åringen har koppling till jaktlaget, enligt åklagare Anders Svarholt. – Vi tror inte att det här rör sig om en helt slumpmässig person som har börjat avfyra skott mot ett jaktlag, säger han till NTB."
+   "desc": "De franska studentprotesterna är ”utom kontroll”, uppger polischefen i Paris enligt nyhetsbyrån Reuters. Under den senaste veckan har runt 5 000 personer gripits över hela landet. Mellan 400 och 500 franska skolor kommer att hålla helt eller ”delvis” stängt på måndagen, uppger utbildningsminister Édouard Geffray på söndagen, enligt BFMTV."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Åtalad Stockholmspolis kopplas till pedofilnätverk",
+   "title": "Nyheter för dagen: 4 oktober",
+   "date": "2026-10-04T15:18:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-for-dagen-4-oktober",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under söndagen den 4 oktober."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Vilgot, 22, startade walkclub i Stockholm för att minska ensamhet",
+   "date": "2026-10-04T15:14:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vilgot-22-startade-walkclub-i-stockholm-for-att-minska-ensamhet",
+   "desc": "Efter en resa till Australien upplevde Vilgot Norman plötsligt ensamheten i Sverige – och att en gemenskap saknades. Därför startade han en walkclub som snabbt fått stor spridning på sociala medier. – Jag har fått vänner för livet, säger Therese Magnusson, 52, som varit med på flera av tillfällena."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Åtalad Stockholmspolis kopplas till pedofilnätverk – hör utredaren om fallet",
    "date": "2026-10-04T07:24:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/atalad-stockholmspolis-kopplas-till-pedofilnatverk",
    "desc": "En polis som åtalats för flera fall av våldtäkt mot barn förekom också i en tidigare utredning om ett uppmärksammat pedofilnätverk, något som P4 Stockholm var först att rapportera om. – Det vi hade då var alias, vi visste inte då att det var en polis inom myndigheten, säger utredaren Jonas Göthner."
@@ -104,22 +120,6 @@
    "date": "2026-10-04T03:27:10.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordforsok-i-farsta",
    "desc": "En man har förts till sjukhus efter att ha blivit skadad med ett vasst föremål i Farsta, södra Stockholm. Polisen utreder misstänkt mordförsök. – Det har varit en konflikt mellan två vuxna män som spårat ur, säger Carina Skagerlind, polisens presstalesperson."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 3 oktober",
-   "date": "2026-10-03T17:12:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-3-oktober-7qz604",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under lördagen den 3 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här springer tusentals i Stockholms nya E4-tunnlar – SVT:s reporter hänger på",
-   "date": "2026-10-03T13:17:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-springer-tusentals-i-stockholms-nya-e4-tunnlar-svts-reporter-hanger-pa",
-   "desc": "Under lördagen får E4 en ovanlig typ av trafik – nämligen hela 33 000 människor som springer genom de nya tunnlarna i Stockholm. – Vi kollar mest runt och gör ett litet platsbesök, säger Alexander Ohlén som bor i Gävle."
   },
   {
    "src": "BBC",
