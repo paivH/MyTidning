@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T23:25:59.947Z",
+ "updated": "2026-10-05T02:15:00.785Z",
  "items": [
   {
    "src": "BBC",
@@ -28,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-   "date": "2026-10-04T23:20:03.000Z",
+   "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+   "date": "2026-10-05T00:27:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-   "desc": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October."
+   "desc": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
   },
   {
    "src": "BBC",
@@ -40,6 +40,22 @@
    "date": "2026-10-04T13:33:05.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
    "desc": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Andra valomgång väntar i Brasilien",
+   "date": "2026-10-05T00:52:00.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/andra-valomgang-vantar-i-brasilien",
+   "desc": "Det blir en andra valomgång i Brasiliens presidentval. Det står klart sedan nästan alla röster räknats."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ronaldo fortsatt välkommen i landslaget",
+   "date": "2026-10-04T23:56:56.000Z",
+   "link": "https://www.svt.se/sport/artikel/ronaldo-fortsatt-valkommen-i-landslaget",
+   "desc": "Cristiano Ronaldo är välkommen tillbaka till det portugisiska landslaget ”om han vill”. Det säger förbundskaptenen Jorge Jesus efter att superstjärnan lämnade landslagssamlingen för några dagar sedan."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-10-04T12:28:54.000Z",
    "link": "https://www.svt.se/nyheter/ekonomi/lista-tre-roda-flaggor-pa-borsen",
    "desc": "Trots stigande räntor, dyrare olja och en möjlig AI-bubbla vid horisonten står börsen stadig. Men hur vet man när börsen blivit lite för het? Här listar ekonomijournalisten Gabriel Mellqvist tre varningsflaggor."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tågstopp mellan Göteborg och Stockholm – träd hängde över kontaktledning",
-   "date": "2026-10-04T11:04:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/tagstopp-mellan-goteborg-och-stockholm-fi6tay",
-   "desc": "Tågtrafiken mellan Göteborg och Stockholm stod helt stilla under stora delar av söndagen på grund av ett elfel mellan Herrljunga och Borås. Ett träd ska ha fallit över spåret och blev hängandes i en kontaktledning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Över 5 000 gripna efter studentprotester i Frankrike",
-   "date": "2026-10-04T10:57:36.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/over-5-000-gripna-efter-studentprotester-i-frankrike",
-   "desc": "De franska studentprotesterna är ”utom kontroll”, uppger polischefen i Paris enligt nyhetsbyrån Reuters. Under den senaste veckan har runt 5 000 personer gripits över hela landet. Mellan 400 och 500 franska skolor kommer att hålla helt eller ”delvis” stängt på måndagen, uppger utbildningsminister Édouard Geffray på söndagen, enligt BFMTV."
   },
   {
    "src": "STHLM",
