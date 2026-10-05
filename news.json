@@ -1,85 +1,93 @@
 {
- "updated": "2026-10-05T02:15:00.785Z",
+ "updated": "2026-10-05T09:25:10.663Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-   "date": "2026-10-04T12:09:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-   "date": "2026-10-04T14:25:32.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-   "date": "2026-10-04T16:51:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-   "date": "2026-10-05T00:27:06.000Z",
+   "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+   "date": "2026-10-05T03:16:16.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
    "desc": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-   "date": "2026-10-04T13:33:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city."
+   "title": "Watch: How Brazil's dramatic election unfolded",
+   "date": "2026-10-05T04:51:24.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+   "desc": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US air force removes all bombers from British military base RAF Fairford",
+   "date": "2026-10-05T09:20:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+   "desc": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+   "date": "2026-10-05T06:15:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "France closes up to 500 schools Monday over student protests",
+   "date": "2026-10-05T04:49:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Andra valomgång väntar i Brasilien",
-   "date": "2026-10-05T00:52:00.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/andra-valomgang-vantar-i-brasilien",
-   "desc": "Det blir en andra valomgång i Brasiliens presidentval. Det står klart sedan nästan alla röster räknats."
+   "title": "De får årets Nobelpris i medicin",
+   "date": "2026-10-05T09:17:39.000Z",
+   "link": "https://www.svt.se/nyheter/vetenskap/de-far-arets-nobelpris-i-medicin",
+   "desc": "Tidigast klockan 11.30 i dag får vi veta vem eller vilka som tilldelas årets Nobelpris i medicin. SVT sänder direkt från Karolinska Institutet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ronaldo fortsatt välkommen i landslaget",
-   "date": "2026-10-04T23:56:56.000Z",
-   "link": "https://www.svt.se/sport/artikel/ronaldo-fortsatt-valkommen-i-landslaget",
-   "desc": "Cristiano Ronaldo är välkommen tillbaka till det portugisiska landslaget ”om han vill”. Det säger förbundskaptenen Jorge Jesus efter att superstjärnan lämnade landslagssamlingen för några dagar sedan."
+   "title": "Högg av hand med machete – två män får längre fängelsestraff",
+   "date": "2026-10-05T09:17:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hogg-av-hand-med-machete-tva-man-far-langre-fangelsestraff",
+   "desc": "Straffen skärps för de två män som högg av handen på en 19-åring i Gröndal i Stockholm. Svea hovrätt dömer dem nu till betydligt längre fängelsestraff för mordförsök, rapporterar Mitt i."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter flera djurangrepp: Varg skjuten i Karlskoga",
-   "date": "2026-10-04T14:19:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/efter-flera-djurangrepp-varg-skjuten-i-karlskoga",
-   "desc": "En vargtik har skjutits norr om Karlskoga efter att länsstyrelsen beslutat om skyddsjakt. Bakgrunden är flera vargangrepp på tamdjur, senast i torsdags när en kalv dödades. – Vi hoppas att det hjälper, säger Ola Karlsson, ordförande i Jägareförbundet Örebro, och till vardags moderatpolitiker i kommun och region."
+   "title": "Släktgårdens produktiva jordbruksmark ska offras för gigantiskt AI-center i Töva",
+   "date": "2026-10-05T09:05:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/slaktgardens-produktiva-jordbruksmark-ska-offras-for-gigantiskt-ai-center-i-tova",
+   "desc": "Gården såldes i tron att den skulle leva vidare. I stället ska den rivas för en industriell storsatsning, ett besked som kom som en chock för den tidigare ägaren. – Det är ju förfärligt. Det var inte min tanke när jag sålde, säger Britt-Mari Dumky."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Läkare från Umeå skrev ut sömnmedel till sig själv – får kritik",
-   "date": "2026-10-04T13:33:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/lakare-fran-umea-skrev-ut-somnmedel-till-sig-sjalv-far-kritik",
-   "desc": "En läkare från Umeå skrev ut stora mängder narkotikaklassade sömnmedel och lugnande läkemedel till en närstående. Han ska även ha skrivit ut sömnmedel till sig själv. Nu får läkaren kritik av Inspektionen för vård och omsorg, Ivo."
+   "title": "Ebba Årsjö möttes av hat på sociala medier: ”Väldigt hemskt”",
+   "date": "2026-10-05T08:53:47.000Z",
+   "link": "https://www.svt.se/sport/parasport/ebba-arsjo-mottes-av-hat-pa-sociala-medier-valdigt-hemskt",
+   "desc": "Ebba Årsjö visade öppet upp sitt nyopererade ben på sociala medier. Då möttes parastjärnan av mängder med hatkommentarer. – Det är fruktansvärt så klart, säger Årsjö i Morgonstudion."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lista: Tre röda flaggor på börsen",
-   "date": "2026-10-04T12:28:54.000Z",
-   "link": "https://www.svt.se/nyheter/ekonomi/lista-tre-roda-flaggor-pa-borsen",
-   "desc": "Trots stigande räntor, dyrare olja och en möjlig AI-bubbla vid horisonten står börsen stadig. Men hur vet man när börsen blivit lite för het? Här listar ekonomijournalisten Gabriel Mellqvist tre varningsflaggor."
+   "title": "Besfort Zeneli hyllar anfallspartnern Viktor Gyökeres: ”Otrolig”",
+   "date": "2026-10-05T08:39:44.000Z",
+   "link": "https://www.svt.se/sport/fotboll/besfort-zeneli-hyllar-anfallspartnern-viktor-gyokeres-otrolig",
+   "desc": "Besfort Zeneli fick göra Viktor Gyökeres sällskap på topp mot Bosnien-Hercegovina. 23-åringen imponeras av Arsenal-anfallaren. – När han sätter fart är det inte många som kan stoppa honom, säger han."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Högg av hand med machete – två män får längre fängelsestraff",
+   "date": "2026-10-05T09:17:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hogg-av-hand-med-machete-tva-man-far-langre-fangelsestraff",
+   "desc": "Straffen skärps för de två män som högg av handen på en 19-åring i Gröndal i Stockholm. Svea hovrätt dömer dem nu till betydligt längre fängelsestraff för mordförsök, rapporterar Mitt i."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Motsvarande 1,5 miljoner svenskar undviker träning på grund av ”hygienoro”, enligt en ny enkätundersökning. Ofta rör det sig om yngre kvinnor. SVT Nyheter Stockholm var med när Jacob och Karl fick testa att träna – med mensvärk."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt mordförsök i Farsta – man skadad med vasst föremål",
-   "date": "2026-10-04T03:27:10.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordforsok-i-farsta",
-   "desc": "En man har förts till sjukhus efter att ha blivit skadad med ett vasst föremål i Farsta, södra Stockholm. Polisen utreder misstänkt mordförsök. – Det har varit en konflikt mellan två vuxna män som spårat ur, säger Carina Skagerlind, polisens presstalesperson."
+   "src": "BBC",
+   "section": "United",
+   "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+   "date": "2026-10-05T08:08:02.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-09-27T19:05:33.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm0qxknzpn8jo?at_medium=RSS&at_campaign=rss",
    "desc": "Bruno Fernandes, Cody Gakpo and Patrick Dorgu all join the international break's high-profile injury list after suffering issues that have curtailed their involvement in Nations League matches."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Sporting Witness",
-   "date": "2026-09-26T06:00:00.000Z",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8rxq?at_medium=RSS&at_campaign=rss",
-   "desc": "Magi Haroun was the first female photographer in the Premier League"
   }
  ]
 }
