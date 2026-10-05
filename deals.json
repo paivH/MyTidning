@@ -1,41 +1,41 @@
 {
- "updated": "2026-10-04T10:17:48.500Z",
+ "updated": "2026-10-05T10:58:15.600Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färsk kycklingfilet Kronfågel 900g",
-   "price": "59 kr",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "ICA",
-   "item": "Svenska äpplen Ingrid Marie 1kg",
+   "item": "Svenska äpplen Aroma, lösvikt",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
+   "store": "ICA",
+   "item": "Färsk laxfilé",
+   "price": "89 kr/kg",
+   "url": "https://www.ica.se"
+  },
+  {
    "store": "Lidl",
-   "item": "Rostad rotfruktsmix 500g",
-   "price": "19 kr",
+   "item": "Rotsaksmix i påse 1 kg",
+   "price": "15 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Kaffe Bellarom mörkrost 500g",
-   "price": "34 kr",
+   "item": "Köttfärs nöt 500g",
+   "price": "39 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (frys)",
-   "price": "69 kr",
+   "item": "Köttbullar 1 kg, frysta",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "LED-ljusslinga 10m utomhus",
-   "price": "99 kr",
+   "item": "LED-ljusslinga utomhus 10m",
+   "price": "79 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
