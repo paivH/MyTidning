@@ -1,41 +1,41 @@
 {
- "updated": "2026-10-05T10:58:15.600Z",
+ "updated": "2026-10-06T10:53:46.320Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
-   "price": "19 kr/kg",
+   "item": "Färska champinjoner 250g",
+   "price": "15 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Färsk laxfilé",
-   "price": "89 kr/kg",
+   "item": "Svenska äpplen Aroma/Ingrid Marie",
+   "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Rotsaksmix i påse 1 kg",
-   "price": "15 kr",
+   "item": "Kycklingfilé 1kg",
+   "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Köttfärs nöt 500g",
-   "price": "39 kr",
+   "item": "Pumpa Hokkaido",
+   "price": "12 kr/st",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1 kg, frysta",
+   "item": "Köttbullar 1kg (fryst)",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "LED-ljusslinga utomhus 10m",
-   "price": "79 kr",
+   "item": "Stormljus LED 3-pack",
+   "price": "49 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
