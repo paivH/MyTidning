@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-06T19:40:10.963Z",
+ "updated": "2026-10-06T23:31:57.548Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+   "date": "2026-10-06T22:00:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+   "desc": "Experts say her survival after the lethal injections is highly unusual."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -28,18 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-   "date": "2026-10-06T16:22:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
    "date": "2026-10-06T18:05:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
    "desc": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här är Lionel Messis landslagskarriär",
+   "date": "2026-10-06T19:56:44.000Z",
+   "link": "https://www.svt.se/sport/fotboll/har-ar-lionel-messis-landslagskarriar",
+   "desc": "I natt gör Lionel Messi, 39, en sista landskamp för Argentina. En av tidernas främsta landslagsspelare tackar för sig – efter över 200 landskamper och 125 mål."
   },
   {
    "src": "SVT",
@@ -63,7 +71,7 @@
    "title": "Chockförlust för Mjällby i svenska cupen-kvalet",
    "date": "2026-10-06T16:52:41.000Z",
    "link": "https://www.svt.se/sport/fotboll/chockforlust-for-mjallby-i-svenska-cupen-kvalet",
-   "desc": "Trollhättan stod för en superskräll i kvalet till svenska cupens gruppspel. Division 1 södra-laget slog ut Mjällby efter att Melwin Berg satte det matchvinnande målet redan i 11:e minuten. – Det är ingen underskattning. Vi är inte ett bättre fotbollslag än så här just nu, säger Mjällbys Jacob Bergström i Expressens sändning."
+   "desc": "Trollhättan stod för en superskräll i kvalet till svenska cupens gruppspel. Division 1 södra-laget slog ut Mjällby efter att Melwin Berg satte det matchvinnande målet redan i 11:e minuten. – Det är helt underbart, det är det roligaste som hänt sen jag kom hit, säger målskytten till SVT Sport."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-10-06T15:12:54.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vastmanland/maktskifte-i-sala-hogerkoalition-satter-prio-pa-att-vanda-ekonomin",
    "desc": "De fyra tidigare oppositionspartierna SD, M, SBÄ och KD fick efter valet majoritet – nu är de överens om att bilda kommunens nya styre: Koalition Sala. – Det första blir att fortsätta stabilisera ekonomin, säger Erik Hamrin (M), som blir kommunstyrelsens ordförande."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Infästningar brast på Strömsundsbron – ingick inte i renovering",
-   "date": "2026-10-06T15:05:10.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/infastningar-brast-pa-stromsundsbron-ingick-inte-i-renovering",
-   "desc": "Strömsundsbron har renoverats och uppgraderats under fyra års tid. Då har de så kallade pendellager som sitter vid brons landfäste inte åtgärdats. För en vecka sedan brast ett av dem, meddelade Trafikverket under tisdagen."
   },
   {
    "src": "STHLM",
