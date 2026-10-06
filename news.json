@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-06T14:20:58.819Z",
+ "updated": "2026-10-06T19:40:10.963Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Tear gas in Paris and Marseille as school protests grow across France",
+   "date": "2026-10-06T18:03:19.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,66 +28,74 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+   "date": "2026-10-06T16:22:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-   "date": "2026-10-06T13:36:46.000Z",
+   "date": "2026-10-06T18:05:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
    "desc": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-   "date": "2026-10-06T02:22:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'Ghost particles' from space telescope wins physics Nobel",
-   "date": "2026-10-06T11:24:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ryssland förnekar pest: Det vet vi om den misstänkta smittan i Sibirien",
+   "date": "2026-10-06T19:17:23.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ryssland-fornekar-pest-det-vet-vi-om-den-misstankta-smittan-i-sibirien",
+   "desc": "Det sprids information att en ung kvinna har dött efter att ha fått den smittsamma sjukdomen pest. Ryska myndigheter har gett henne en helt annan diagnos. SVT Verifierar har gått igenom händelseförloppet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Novak Djokovic tog årets första titel – efter motståndarens skada",
-   "date": "2026-10-06T13:54:52.000Z",
-   "link": "https://www.svt.se/sport/tennis/novak-djokovic-tog-arets-forsta-titel-efter-motstandarens-skada",
-   "desc": "Räkna aldrig bort en 24-faldig Grand Slam-mästare. I China Open vann 39-årige Novak Djokovic sin första ATP-titel på drygt ett år – efter att finalmotståndaren Alex de Minaur tvingats kasta in handduken på grund av skada. – Jag mår inte kanon, säger de Minaur efter matchen."
+   "title": "Zigiotti Olme och Beata Olsson avslöjar skitsnacket  på planen",
+   "date": "2026-10-06T17:30:28.000Z",
+   "link": "https://www.svt.se/sport/fotboll/zigiotti-olme-och-beata-olsson-avslojar-skitsnacket-pa-planen",
+   "desc": "I lördagens stormatch mellan Manchester United och Liverpool i Women's Super League startade hela sex svenskor. För SVT Sport avslöjar klubblagsrivalerna och landslagskompisarna Julia Zigiotti Olme och Beata Olsson pikarna mellan svenskorna på planen. – Jag var riktigt irriterad, säger Olsson till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Präst i Norrbotten dömdes för barnporr – avkragas",
-   "date": "2026-10-06T13:23:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/prast-i-norrbotten-domdes-for-barnporr-avkragas",
-   "desc": "En präst i Norrbotten dömdes i höstas till fängelse för grovt barnpornografibrott. På tisdagen beslutade Luleå stifts domkapitel att han inte längre får tjänstgöra som präst. – Han har yttrat sig, men just nu vill jag inte gå in på det, säger biskop Åsa Nyström."
+   "title": "Chockförlust för Mjällby i svenska cupen-kvalet",
+   "date": "2026-10-06T16:52:41.000Z",
+   "link": "https://www.svt.se/sport/fotboll/chockforlust-for-mjallby-i-svenska-cupen-kvalet",
+   "desc": "Trollhättan stod för en superskräll i kvalet till svenska cupens gruppspel. Division 1 södra-laget slog ut Mjällby efter att Melwin Berg satte det matchvinnande målet redan i 11:e minuten. – Det är ingen underskattning. Vi är inte ett bättre fotbollslag än så här just nu, säger Mjällbys Jacob Bergström i Expressens sändning."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Truls Möregårdh slog ut kines i Peking – nu väntar bäste kinesen",
-   "date": "2026-10-06T13:23:23.000Z",
-   "link": "https://www.svt.se/sport/bordtennis/truls-moregardh-slog-ut-kines-i-peking-nu-vantar-baste-kinesen",
-   "desc": "Truls Möregårdh är klar för åttondel i China Smash i Peking efter att ha besegrat en hemmaspelare. Nu väntar ännu en kines, den bäst rankade i turneringen, Wen Ruibo. – Det är otroligt dålig tajming, säger J-O Waldner om matchens häftigaste duell."
+   "title": "Maktskifte i Sala – högerkoalition sätter prio på att vända ekonomin",
+   "date": "2026-10-06T15:12:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/maktskifte-i-sala-hogerkoalition-satter-prio-pa-att-vanda-ekonomin",
+   "desc": "De fyra tidigare oppositionspartierna SD, M, SBÄ och KD fick efter valet majoritet – nu är de överens om att bilda kommunens nya styre: Koalition Sala. – Det första blir att fortsätta stabilisera ekonomin, säger Erik Hamrin (M), som blir kommunstyrelsens ordförande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Döms för dataintrång i 129 patientjournaler",
-   "date": "2026-10-06T13:22:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/doms-for-dataintrang-i-129-patientjournaler",
-   "desc": "En tidigare anställd inom Region Östergötland döms för att utan behörigt skäl ha gått in i 129 patientjournaler. Påföljden blir villkorlig dom och 288 000 kronor i skadestånd till 36 patienter."
+   "title": "Infästningar brast på Strömsundsbron – ingick inte i renovering",
+   "date": "2026-10-06T15:05:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/infastningar-brast-pa-stromsundsbron-ingick-inte-i-renovering",
+   "desc": "Strömsundsbron har renoverats och uppgraderats under fyra års tid. Då har de så kallade pendellager som sitter vid brons landfäste inte åtgärdats. För en vecka sedan brast ett av dem, meddelade Trafikverket under tisdagen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Tonåring döms efter att ha plågat måsunge till döds",
-   "date": "2026-10-06T12:04:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tonaring-doms-efter-att-ha-plagat-masunge-till-dods",
-   "desc": "En tonårig pojke från södra delarna av Jönköpings län döms för djurplågeri efter att ha sparkat och stampat ihjäl en måsunge. Han hävdade att fågeln var allvarligt skadad när han hittade den och att han dödade den för att avsluta fågelns lidande, men tingsrätten väljer att döma honom för djurplågeri."
+   "title": "Nyheter från dagen: 6 oktober",
+   "date": "2026-10-06T17:50:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-6-oktober-q9w60f",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under tisdagen den 6 oktober."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Sökte hjälp efter Foxtrot-hot – då hittade polisen 52 handgranater",
+   "date": "2026-10-06T17:03:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sokte-hjalp-efter-foxtrot-hot-da-hittade-polisen-52-handgranater",
+   "desc": "En man i 25-årsåldern larmade polisen efter hot från Foxtrot-nätverket. Det ledde till ett oväntat fynd – 52 skarpa handgranater hittades i en matkasse i hans källarförråd i Fruängen. Nu åtalas mannen för att ha förvarat handgranaterna åt Foxtrot."
   },
   {
    "src": "STHLM",
@@ -87,7 +103,7 @@
    "title": "50-tal polisanmälda efter hot mot V-profil i Järva",
    "date": "2026-10-06T12:37:32.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/50-tal-polisanmalda-efter-hot-mot-v-profil-i-jarva",
-   "desc": "En våg av hat och hot på Facebook drabbade vänsterpartisten Mohamed Nuur i Järvaområdet efter att han skrivit att Tidöpartierna inte kommer styra landet. Nu har ett 50-tal personer polisanmälts för olaga hot. – Att någon kallar mig n-ordet är jag van vid men att någon skriver att de vill sätta ett skott i min panna, det kan jag inte försvara mig mot, säger Nuur (V) som sitter som bostadspolitiker Stockholm stad."
+   "desc": "En våg av hat och hot på Facebook drabbade vänsterpartisten Mohamed Nuur i Järvaområdet efter att han skrivit att Tidöpartierna inte kommer styra landet. Nu har ett 50-tal personer polisanmälts för olaga hot. – Att någon kallar mig n-ordet är jag van vid men att någon skriver att de vill sätta ett skott i min panna, det kan jag inte försvara mig mot, säger Nuur (V) som sitter som suppleant i Svenska Bostäder."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "En död person hittades på tisdagsmorgonen i vattnet vid Blekholmsterrassen i centrala Stockholm. En förundersökning om mord har inletts."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Så kom Rida in på läkarprogrammet – efter två år i Sverige",
-   "date": "2026-10-06T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-kom-rida-in-pa-lakarprogrammet-efter-tva-ar-i-sverige",
-   "desc": "När Rida Haider kom till Sverige i december 2023 kunde hon bara säga ”hej” och ”tack” på svenska. Idag, knappt tre år senare, läser hon sin andra termin på läkarprogrammet vid Karolinska institutet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 5 oktober",
-   "date": "2026-10-05T18:21:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-5-oktober-b7ze10",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under måndagen den 5 oktober."
+   "src": "BBC",
+   "section": "United",
+   "title": "Why is JJ Gabriel in Man Utd's team photo?",
+   "date": "2026-10-06T16:35:55.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cme3x1y53d27o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Sport Manchester United reporter Simon Stone gives an update on 16-year-old JJ Gabriel's future at the club after the teenager was included in the club's official team photo."
   },
   {
    "src": "BBC",
@@ -132,7 +140,7 @@
   {
    "src": "BBC",
    "section": "United",
-   "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+   "title": "£800m in, £800m out - why Man City scandal shines light on Man Utd finances",
    "date": "2026-10-05T08:08:02.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out."
@@ -152,14 +160,6 @@
    "date": "2026-10-01T12:16:14.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cwg7k7d5101ko?at_medium=RSS&at_campaign=rss",
    "desc": "Arsenal, Manchester City, Manchester United, Aston Villa and Liverpool fans have their say on how the Citizens should be punished after the club was found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Man Utd and Arsenal wins among 'best in Brighton's history'",
-   "date": "2026-09-29T11:01:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zq8d7e3vo?at_medium=RSS&at_campaign=rss",
-   "desc": "Tony Bloom helped transform the club's fortunes after he became majority shareholder in 2009."
   }
  ]
 }
