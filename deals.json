@@ -1,41 +1,41 @@
 {
- "updated": "2026-10-06T10:53:46.320Z",
+ "updated": "2026-10-07T10:41:19.396Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färska champinjoner 250g",
-   "price": "15 kr",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "ICA",
-   "item": "Svenska äpplen Aroma/Ingrid Marie",
+   "item": "Svenska äpplen Aroma, lösvikt",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Kycklingfilé 1kg",
-   "price": "59 kr",
+   "item": "Rostad kaffe Bellarom 500g",
+   "price": "34 kr",
    "url": "https://www.lidl.se"
   },
   {
+   "store": "ICA",
+   "item": "Kycklingfilé Kronfågel 750g",
+   "price": "59 kr",
+   "url": "https://www.ica.se"
+  },
+  {
    "store": "Lidl",
-   "item": "Pumpa Hokkaido",
-   "price": "12 kr/st",
+   "item": "Färsk laxfilé 400g",
+   "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (fryst)",
-   "price": "59 kr",
+   "item": "Köttbullar 1 kg (Matbutiken)",
+   "price": "69 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
    "item": "Stormljus LED 3-pack",
-   "price": "49 kr",
+   "price": "79 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
