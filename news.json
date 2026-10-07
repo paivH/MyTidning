@@ -1,13 +1,21 @@
 {
- "updated": "2026-10-07T17:53:22.191Z",
+ "updated": "2026-10-07T22:37:27.162Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-   "date": "2026-10-07T17:47:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-   "desc": "The step comes after several groups complained of police using disproportionate force towards teenagers."
+   "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+   "date": "2026-10-07T21:40:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+   "desc": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+   "date": "2026-10-07T20:27:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war."
   },
   {
    "src": "BBC",
@@ -20,26 +28,50 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+   "date": "2026-10-07T17:47:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+   "desc": "The step comes after several groups complained of police using disproportionate force towards teenagers."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-   "date": "2026-10-07T17:29:46.000Z",
+   "date": "2026-10-07T19:30:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
    "desc": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-   "date": "2026-10-07T14:50:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "C till V: ”Ett jättestort problem kvarstår”",
+   "date": "2026-10-07T20:36:17.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/c-till-v-ett-jattestort-problem-kvarstar",
+   "desc": "Låst läge mellan Centerpartiet och Vänsterpartiet. I onsdagskvällens Aktuellt möttes Martin Ådahl (C) och Ida Gabrielsson (V) för att diskutera partiernas röda linjer och vad som skulle krävas för att komma vidare. – Det är ett jättestort problem som kvarstår, säger Ådahl och syftar på antisemitism inom Vänsterpartiet."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
-   "date": "2026-10-07T14:53:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vräkningen slutade med nyval i Spanien – nu är Maricarmen död",
+   "date": "2026-10-07T19:18:00.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/vrakningen-slutade-med-nyval-i-spanien-nu-ar-maricarmen-dod",
+   "desc": "Maricarmen vräktes ur sin lägenhet och bars ut på bår, något som ledde till massprotester mot den spanska bostadskrisen och fick premiärminister Sánchez att utlysa nyval. Nu är 87-åringen död."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rostangrepp hittades på Strömsundsbron – ett år innan renoveringen",
+   "date": "2026-10-07T18:08:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/rostangrepp-hittades-pa-stromsundsbron-ett-ar-innan-renoveringen",
+   "desc": "Redan 2023 upptäcktes skador på Strömsundsbrons pendellager. Rostangrepp. Men pendellagren bedömdes ändå vara ”i gott skick”. Det framgår av inspektionsprotokollet som SVT tagit del av. – Korrosion är en allvarlig skada, sådana indikationer bör man ta på allvar, säger professor John Leander, expert på brokonstruktioner, vid Kungliga Tekniska högskolan (KTH)."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Zedig-fallet kan förändra dansk lagstiftning: ”Fått stor uppmärksamhet”",
+   "date": "2026-10-07T18:08:00.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/zedig-fallet-kan-forandra-dansk-lagstiftning-fatt-stor-uppmarksamhet",
+   "desc": "Ett års fängelse blev straffet för den man som utdelade det dödliga knytnävsslaget mot en svensk polis i Köpenhamn. Nu rasar danska politiker mot straffet, som de menar är oacceptabelt lågt."
   },
   {
    "src": "SVT",
@@ -50,36 +82,12 @@
    "desc": "Det finns tecken på att den dödliga dosen pentobarbital, som gavs till dödsdömda Christa Pike, kan ha läckt ut i hennes arm i stället för att nå blodomloppet. Hennes små vener kan ha räddat hennes liv, uppger medicinska experter för New York Times."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Internt tryck inför rödgrönt toppmöte: ”Skarpaste gränsen”",
-   "date": "2026-10-07T16:02:40.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/internt-tryck-infor-rodgront-toppmote-skarpaste-gransen",
-   "desc": "C-ledaren Elisabeth Thand Ringqvst har samlat till rödgrönt toppmöte. Internt finns ett tryck på att hålla fast vid C:s röda linjer – samtidigt som partiet inte vill ge sken av att vara den som sinkar regeringsbildningen. – Det finns en bild av att C har varit problemet, säger en C-källa."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Ryssland saktar in i Ukraina – pressats tillbaka i Donbas",
-   "date": "2026-10-07T15:40:55.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/ryssland-saktar-in-i-ukraina-pressats-tillbaka-i-donbas",
-   "desc": "Den ryska militären trycker på vid fronten, men har inga större framgångar att visa upp i år. Tvärtom har man tappat mark i den viktiga Donetskregionen, enligt tankesmedjan ISW. Samtidigt har dock luftangreppen mot Ukraina intensifierats. – Det går inget vidare för Ryssland i dagsläget, säger Johan Huovinen vid Försvarshögskolan."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Brottsplats Cornell: Här skedde den misstänka gruppvåldtäkten",
-   "date": "2026-10-07T15:33:44.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/brottsplats-cornell-har-skedde-den-misstanka-gruppvaldtakten",
-   "desc": "Sju män anklagas för en gruppvåldtäkt mot en neddrogad kvinna vid elituniversitetet Cornell i USA – ett fall som har väckt reaktioner världen över. – I en gruppchatt ska medlemmar i föreningen sagt att det fanns ”gratis ligg”, säger USA-korrespondenten Carl Fridh Kleberg, på plats vid det ökända studenthemmet Chi Phi."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här övar gotlänningarna på evakuering: ”Realistiskt”",
-   "date": "2026-10-07T15:03:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/har-ovar-gotlanningarna-pa-evakuering-realistiskt",
-   "desc": "Den omfattande utrymningsövningen på Gotland gick på onsdagen in i sin mest aktiva fas. Under onsdagen deltog omkring 250 figuranter som spelade civilbefolkning som behövde lämna ett område och ta sig till en mottagningsplats."
+   "title": "Nyheter från dagen: 7 oktober",
+   "date": "2026-10-07T18:04:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-oktober-0rrrsa",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under onsdagen den 7 oktober."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om under tisdagen den 6 oktober."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Sökte hjälp efter Foxtrot-hot – då hittade polisen 52 handgranater",
-   "date": "2026-10-06T17:03:15.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sokte-hjalp-efter-foxtrot-hot-da-hittade-polisen-52-handgranater",
-   "desc": "En man i 25-årsåldern larmade polisen efter hot från Foxtrot-nätverket. Det ledde till ett oväntat fynd – 52 skarpa handgranater hittades i en matkasse i hans källarförråd i Fruängen. Nu åtalas mannen för att ha förvarat handgranaterna åt Foxtrot."
+   "src": "BBC",
+   "section": "United",
+   "title": "Can the Premier League afford to lose Man City?",
+   "date": "2026-10-07T18:19:19.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqwy74g6gk82o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Sport's Dan Roan and Dale Johnson explain the possible implications of different sanctions on Manchester City after they were found guilty of breaching the Premier League's financial rules."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-02T05:25:13.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
    "desc": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "How should Man City be punished? Fans have their say!",
-   "date": "2026-10-01T12:16:14.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cwg7k7d5101ko?at_medium=RSS&at_campaign=rss",
-   "desc": "Arsenal, Manchester City, Manchester United, Aston Villa and Liverpool fans have their say on how the Citizens should be punished after the club was found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons."
   }
  ]
 }
