@@ -1,41 +1,41 @@
 {
- "updated": "2026-10-07T10:41:19.396Z",
+ "updated": "2026-10-08T11:01:20.536Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
+   "item": "Färsk kycklingfilet Kronfågel 900g",
+   "price": "59 kr/st",
+   "url": "https://www.ica.se"
+  },
+  {
+   "store": "ICA",
+   "item": "Svenska äpplen Aroma 1kg",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Rostad kaffe Bellarom 500g",
-   "price": "34 kr",
+   "item": "Rotfrukter blandade i nät 1,5kg",
+   "price": "19 kr",
    "url": "https://www.lidl.se"
   },
   {
-   "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 750g",
-   "price": "59 kr",
-   "url": "https://www.ica.se"
-  },
-  {
    "store": "Lidl",
-   "item": "Färsk laxfilé 400g",
-   "price": "49 kr",
+   "item": "W5 Diskmedel 500ml",
+   "price": "12 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1 kg (Matbutiken)",
-   "price": "69 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Stormljus LED 3-pack",
-   "price": "79 kr",
+   "item": "Stearinljus 10-pack",
+   "price": "29 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
