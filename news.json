@@ -1,93 +1,117 @@
 {
- "updated": "2026-10-08T02:26:47.355Z",
+ "updated": "2026-10-08T09:19:59.341Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-   "date": "2026-10-08T00:09:17.000Z",
+   "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+   "date": "2026-10-08T05:00:44.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+   "desc": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+   "date": "2026-10-08T08:18:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+   "desc": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+   "date": "2026-10-08T08:13:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+   "desc": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
+   "date": "2026-10-08T07:15:45.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
    "desc": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-   "date": "2026-10-07T20:27:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israelis demand accountability over 7 October failures three years after attacks",
-   "date": "2026-10-07T16:00:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-   "desc": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-   "date": "2026-10-07T17:47:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-   "desc": "The step comes after several groups complained of police using disproportionate force towards teenagers."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-   "date": "2026-10-07T19:30:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-   "desc": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely."
+   "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+   "date": "2026-10-08T03:02:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "C till V: ”Ett jättestort problem kvarstår”",
-   "date": "2026-10-07T20:36:17.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/c-till-v-ett-jattestort-problem-kvarstar",
-   "desc": "Låst läge mellan Centerpartiet och Vänsterpartiet. I onsdagskvällens Aktuellt möttes Martin Ådahl (C) och Ida Gabrielsson (V) för att diskutera partiernas röda linjer och vad som skulle krävas för att komma vidare. – Det är ett jättestort problem som kvarstår, säger Ådahl och syftar på antisemitism inom Vänsterpartiet."
+   "title": "Caroline Andersson blank efter kraschen: ”Inga minnen på fem dagar”",
+   "date": "2026-10-08T09:10:06.000Z",
+   "link": "https://www.svt.se/sport/cykel/caroline-andersson-blank-efter-kraschen-inga-minnen-pa-fem-dagar",
+   "desc": "Caroline Andersson har precis kommit hem till Sverige efter den svåra kraschen vid cykel-VM i Montreal för tio dagar sedan. Hon har inga minnen av kraschen. – Minnena dök upp efter fem dagar, berättar 25-åringen nu i den första intervjun efter olyckan."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Vräkningen slutade med nyval i Spanien – nu är Maricarmen död",
-   "date": "2026-10-07T19:18:00.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/vrakningen-slutade-med-nyval-i-spanien-nu-ar-maricarmen-dod",
-   "desc": "Maricarmen vräktes ur sin lägenhet och bars ut på bår, något som ledde till massprotester mot den spanska bostadskrisen och fick premiärminister Sánchez att utlysa nyval. Nu är 87-åringen död."
+   "title": "Misstänkte busschauffören släpps",
+   "date": "2026-10-08T08:10:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/misstankte-busschaufforen-slapps",
+   "desc": "Den brottsmisstänkte busschauffören, som förnekar brott, släpps. Det bekräftar åklagaren för Smålandsposten."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Rostangrepp hittades på Strömsundsbron – ett år innan renoveringen",
-   "date": "2026-10-07T18:08:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/rostangrepp-hittades-pa-stromsundsbron-ett-ar-innan-renoveringen",
-   "desc": "Redan 2023 upptäcktes skador på Strömsundsbrons pendellager. Rostangrepp. Men pendellagren bedömdes ändå vara ”i gott skick”. Det framgår av inspektionsprotokollet som SVT tagit del av. – Korrosion är en allvarlig skada, sådana indikationer bör man ta på allvar, säger professor John Leander, expert på brokonstruktioner, vid Kungliga Tekniska högskolan (KTH)."
+   "title": "Här lär sig Luleås femteklassare att panta gammal teknik",
+   "date": "2026-10-08T07:55:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-lar-sig-luleas-femteklassare-att-panta-gammal-teknik",
+   "desc": "Container till Luleå skolor ska lära femteklassare om återbruk av teknik. Eleverna kan sedan panta gamla prylar och samla pengar till skolan."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Zedig-fallet kan förändra dansk lagstiftning: ”Fått stor uppmärksamhet”",
-   "date": "2026-10-07T18:08:00.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/zedig-fallet-kan-forandra-dansk-lagstiftning-fatt-stor-uppmarksamhet",
-   "desc": "Ett års fängelse blev straffet för den man som utdelade det dödliga knytnävsslaget mot en svensk polis i Köpenhamn. Nu rasar danska politiker mot straffet, som de menar är oacceptabelt lågt."
+   "title": "Brå: Färre elever uppger att de utsatts för brott",
+   "date": "2026-10-08T07:24:01.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/bra-farre-elever-uppger-att-de-utsatts-for-brott",
+   "desc": "Andelen elever i årskurs 9 som uppger att de har utsatts för brott har nått sin lägsta nivå sedan 2015. Samtidigt minskar även andelen som säger att de själva har begått brott. Det visar den senaste skolundersökningen från Brå."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Teorin: Så överlevde Christa Pike två dödliga doser",
-   "date": "2026-10-07T17:13:07.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/teorin-sa-overlevde-christa-pike-tva-dodliga-doser",
-   "desc": "Det finns tecken på att den dödliga dosen pentobarbital, som gavs till dödsdömda Christa Pike, kan ha läckt ut i hennes arm i stället för att nå blodomloppet. Hennes små vener kan ha räddat hennes liv, uppger medicinska experter för New York Times."
+   "title": "Misstänkt mordförsök i Lugnvik – ung man förd till vård",
+   "date": "2026-10-08T07:10:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/misstankt-mordforsok-i-lugnvik-ung-man-ford-till-vard",
+   "desc": "Ett stort antal personer ska under onsdagskvällen enligt initiala uppgifter från polisen varit inblandade i ett bråk i Lugnvik. En ung man skadades och fick föras till vård."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt mordförsök i Sundbyberg",
+   "title": "Livstidsdom fastställs efter sprängningen i Tumba",
+   "date": "2026-10-08T09:01:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/livstidsdom-faststalls-efter-sprangningen-i-tumba",
+   "desc": "I juni dömdes en man, mot sitt nekande, till livstids fängelse efter sprängningen i Tumba i fjol där en mamma och hennes fyraåriga dotter skadades svårt. Domen överklagades och nu har hovrättens dom meddelats: Livstidsdomen står fast,"
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Blocköverskridande samtal i Region Stockholm",
+   "date": "2026-10-08T07:57:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/blockoverskridande-samtal-i-region-stockholm",
+   "desc": "Socialdemokraterna, Miljöpartiet, Kristdemokraterna, Centerpartiet och Liberalerna har nu inlett förhandlingar om att styra Region Stockholm, skriver partierna i ett pressmeddelande."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Mireille tackade nej till dolt bud på lägenhet – gjorde vinstaffär",
+   "date": "2026-10-08T03:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mireille-tackade-nej-till-dolt-bud-gjorde-vinstaffar",
+   "desc": "Att köpa bostad i Stockholm är på många sätt ett spel med olika strategier och satsningar. Det menar mäklaren Julius Sonerud. Men att dölja sina kort är inte alltid en smart lösning. – Stjärnorna ska stå rätt, säger Julius Sonerud."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt mordförsök i Sundbyberg – en person har livshotande skador",
    "date": "2026-10-07T22:49:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordforsok-i-sundbyberg",
-   "desc": "Ett misstänkt grovt våldsbrott har inträffat i Sundbyberg, norr om Stockholm, under sena onsdagskvällen. En person är gripen."
+   "desc": "En man i 30-årsåldern har gripits misstänkt för mordförsök efter att en annan man knivhuggits i Sundbyberg, norr om Stockholm, under sena onsdagskvällen. Den skadade fördes till sjukhus med livshotande skador."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-10-07T18:04:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-oktober-0rrrsa",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om under onsdagen den 7 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bussförare döms efter dödsolycka i Tyresö",
-   "date": "2026-10-07T14:14:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bussforare-doms-efter-dodsolyckan-i-tyreso",
-   "desc": "Den 22 december förra året blev en kvinna i 80-årsåldern påkörd av en buss vid ett övergångsställe i Tyresö centrum. Hon dog samma kväll av sina skador. Nu döms bussföraren för vållande till annans död – men frias från vårdslöshet i trafik. Det var Mitt i först att rapportera."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här är Stockholms stads nya styre",
-   "date": "2026-10-07T09:33:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-presenteras-stockholms-stads-nya-styre",
-   "desc": "Trots att Moderaterna gjorde ett rekordval i Stockholms stad blir det fortsatt de rödgröna som styr kommunen framöver. På onsdagen presenterades den politiska riktningen framåt. – En politik som sätter välfärden först, som tar klimatpolitiken på allvar och där arbetet med att minska ojämlikheten är en central och gemensam uppgift, säger tillträdande finansborgarråd Emilia Bjuggren (S)."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bella ska vräkas – på grund av mannen som misshandlade henne",
-   "date": "2026-10-07T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bella-ska-vrakas-pa-grund-av-mannen-som-misshandlade-henne",
-   "desc": "Bella Kareem och hennes två barn ska vräkas efter att mannen hon haft en relation med, som dömts för att ha misshandlat henne, sagt upp hyreskontraktet. Han har aldrig bott i lägenheten och enligt Bella visste hon inte att kontraktet enbart stod i hans namn. – Det känns så orättvist, säger hon."
   },
   {
    "src": "BBC",
