@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-07T22:37:27.162Z",
+ "updated": "2026-10-08T02:26:47.355Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-   "date": "2026-10-07T21:40:24.000Z",
+   "date": "2026-10-08T00:09:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
    "desc": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September."
   },
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Misstänkt mordförsök i Sundbyberg",
+   "date": "2026-10-07T22:49:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordforsok-i-sundbyberg",
+   "desc": "Ett misstänkt grovt våldsbrott har inträffat i Sundbyberg, norr om Stockholm, under sena onsdagskvällen. En person är gripen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 7 oktober",
    "date": "2026-10-07T18:04:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-oktober-0rrrsa",
@@ -112,14 +120,6 @@
    "date": "2026-10-07T03:30:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/bella-ska-vrakas-pa-grund-av-mannen-som-misshandlade-henne",
    "desc": "Bella Kareem och hennes två barn ska vräkas efter att mannen hon haft en relation med, som dömts för att ha misshandlat henne, sagt upp hyreskontraktet. Han har aldrig bott i lägenheten och enligt Bella visste hon inte att kontraktet enbart stod i hans namn. – Det känns så orättvist, säger hon."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 6 oktober",
-   "date": "2026-10-06T17:50:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-6-oktober-q9w60f",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under tisdagen den 6 oktober."
   },
   {
    "src": "BBC",
