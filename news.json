@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T16:45:00.233Z",
+ "updated": "2026-10-08T21:47:14.716Z",
  "items": [
   {
    "src": "BBC",
@@ -21,17 +21,17 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-   "date": "2026-10-08T16:24:52.000Z",
+   "date": "2026-10-08T17:38:59.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
    "desc": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Residents airlifted to safety after flooding in central Chile",
-   "date": "2026-10-08T11:31:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days."
+   "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+   "date": "2026-10-08T19:10:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election."
   },
   {
    "src": "BBC",
@@ -40,6 +40,22 @@
    "date": "2026-10-08T12:32:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
    "desc": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vårdbiträdet Birat brottade ner gärningsmannen: ”Slog honom så han släppte kniven”",
+   "date": "2026-10-08T18:08:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/vardbitradet-birat-brottade-ner-garningsmannen-slog-honom-sa-han-slappte-kniven",
+   "desc": "Under onsdagsförmiddagen hörde vårdbiträdet Birat skrik på Bellevuegården i Malmö. När hon sprang ut på torget såg hon en man hålla fast en kvinna med en kniv i handen. När gärningsmannen försökte fly platsen sprang Birat efter och brottade ner honom."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polisinsats på internatskola i Sigtuna",
+   "date": "2026-10-08T17:35:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisinsats-pa-internatskola-i-sigtuna",
+   "desc": "Två unga personer har gripits efter en polisinsats på internatskolan Sigtuna humanistiska läroverk på torsdagen, enligt uppgifter till Aftonbladet. Polisen bekräftar ett de haft en en insats, men vill inte gå in på vad den handlar om. Enligt skolans vd kommer verksamheten att pågå som vanligt."
   },
   {
    "src": "SVT",
@@ -66,20 +82,20 @@
    "desc": "En helikopter på låg höjd och två personer hängandes i lina över en spänningssatt kraftledning. En vanlig dag på jobbet för linjemontörerna som de senaste dagarna varit i farten i närheten av Sparreholm."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Naken Trumpstaty i guld på plats i EU-parlamentet",
-   "date": "2026-10-08T15:14:55.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/naken-trumpstaty-i-guld-pa-plats-i-eu-parlamentet",
-   "desc": "En två och en halv meter hög staty av en guldförgylld och naken Donald Trump sittandes på en plågad mans axlar har ställts ut i EU-parlamentet i Strasbourg."
+   "title": "Nyheter från dagen: 8 oktober",
+   "date": "2026-10-08T18:19:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-8-oktober-tloy7m",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under torsdagen den 8 oktober."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Alla norska tåg står stilla – problem hos Telenor",
-   "date": "2026-10-08T15:03:14.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/alla-norska-tag-star-stilla",
-   "desc": "Hela den norska tågtrafiken står stilla på grund av ett problem i kommunikationssystemet. Problemet är kopplat till en störning hos Telenor, som också ska innebära svårigheter att nå flera nödnummer i landet, enligt polisen i Oslo. – Folk strömmar ut från centralstationen, berättar svenske resenären Mattias Ekberg för SVT."
+   "title": "Polisinsats på internatskola i Sigtuna",
+   "date": "2026-10-08T17:35:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisinsats-pa-internatskola-i-sigtuna",
+   "desc": "Två unga personer har gripits efter en polisinsats på internatskolan Sigtuna humanistiska läroverk på torsdagen, enligt uppgifter till Aftonbladet. Polisen bekräftar ett de haft en en insats, men vill inte gå in på vad den handlar om. Enligt skolans vd kommer verksamheten att pågå som vanligt."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-10-08T09:01:44.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/livstidsdom-faststalls-efter-sprangningen-i-tumba",
    "desc": "I juni dömdes en man, mot sitt nekande, till livstids fängelse efter sprängningen i Tumba i fjol där en mamma och hennes fyraåriga dotter skadades svårt. Domen överklagades och nu har hovrättens dom meddelats: Livstidsdomen står fast."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Blocköverskridande samtal i Region Stockholm",
-   "date": "2026-10-08T07:57:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/blockoverskridande-samtal-i-region-stockholm",
-   "desc": "Socialdemokraterna, Miljöpartiet, Kristdemokraterna, Centerpartiet och Liberalerna har nu inlett förhandlingar om att styra Region Stockholm, skriver partierna i ett pressmeddelande."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Mireille tackade nej till dolt bud på lägenhet – gjorde vinstaffär",
-   "date": "2026-10-08T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mireille-tackade-nej-till-dolt-bud-gjorde-vinstaffar",
-   "desc": "Att köpa bostad i Stockholm är på många sätt ett spel med olika strategier och satsningar. Det menar mäklaren Julius Sonerud på Erik Olsson. Men att dölja sina kort är inte alltid en smart lösning. – Stjärnorna ska stå rätt, säger Julius Sonerud."
   },
   {
    "src": "BBC",
