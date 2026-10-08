@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-07T10:27:40.365Z",
+ "updated": "2026-10-08T10:48:21.980Z",
  "items": [
   {
-   "ingredient": "brysselkål",
-   "idea": "Halstra halverad brysselkål i smör på hög värme 4 min, salta – snabb vardagsrätt med krispiga blad."
-  },
-  {
-   "ingredient": "äpplen",
-   "idea": "Snabbpickla äppelklyftor i 1:1:1 ättika, socker, vatten med kanel – klart på 30 minuter, perfekt till fläsk."
-  },
-  {
-   "ingredient": "rotfrukter",
-   "idea": "Fermentera tärnade rotfrukter i 2% saltlag en vecka för syrlig, probiotisk tillbehör till middagen."
-  },
-  {
    "ingredient": "pumpa",
-   "idea": "Baka surdegsbröd med riven pumpa i degen – ger saftig krumma och naturlig sötma utan extra socker."
+   "idea": "Snabbpickla pumpatärningar i 1:1:1 ättika, socker och vatten med kanel – klart på 30 minuter, perfekt till ost."
+  },
+  {
+   "ingredient": "kål",
+   "idea": "Fermentera strimlad vitkål med 2% salt i 5-7 dagar för krispig surkål, servera till pannkakor."
+  },
+  {
+   "ingredient": "morötter",
+   "idea": "Baka morotslimpa med rivna morötter, dinkelmjöl och kardemumma – saftigt bröd som håller sig länge."
+  },
+  {
+   "ingredient": "brysselkål",
+   "idea": "Halvera brysselkål, stek snabbt i smör på hög värme 5 minuter tills karamelliserad, salta flingsalt."
   }
  ]
 }
