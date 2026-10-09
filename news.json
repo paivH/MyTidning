@@ -1,85 +1,101 @@
 {
- "updated": "2026-10-09T08:25:34.568Z",
+ "updated": "2026-10-09T15:28:05.632Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+   "date": "2026-10-09T14:00:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Firing squad execution to be livestreamed, Pentagon says",
-   "date": "2026-10-09T07:05:05.000Z",
+   "date": "2026-10-09T12:24:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
    "desc": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-   "date": "2026-10-08T23:11:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev."
+   "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+   "date": "2026-10-09T09:43:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "ICE agent shoots man in New York City",
-   "date": "2026-10-09T04:26:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-   "desc": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\"."
+   "title": "France promises 3,000 extra teachers in first step to calm student protests",
+   "date": "2026-10-09T11:35:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+   "desc": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-   "date": "2026-10-08T16:31:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-   "date": "2026-10-08T19:10:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election."
+   "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
+   "date": "2026-10-09T15:24:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Konflikterna inom polisens spaningsgrupp skakade Brattåsutredningen",
-   "date": "2026-10-09T08:00:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/konflikterna-inom-polisens-spaningsgrupp-skakade-brattasutredningen",
-   "desc": "Dagen efter dubbelmordet i Brattås 2005 skulle Härnösandspolisen och länskriminalen ha en dragning om läget. Det började med att två chefer blev osams om vem som skulle hålla i mötet. Det satte agendan för en av landets mest kritiserade polisutredningar någonsin. – Visst har man känt en viss skam för att vi inte har löst det, säger förre förundersökningsledaren Jan-Ola Nordin."
+   "title": "Gaslarmet på SSAB i Luleå – stoppar allt arbete på område",
+   "date": "2026-10-09T14:31:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/gaslarmet-pa-ssab-i-lulea-stoppar-allt-arbete-pa-omradet",
+   "desc": "För några veckor sedan pausades arbetet på SSAB:s industriområde Aronstorp i Luleå. Detta efter ett gaslarm om vätecyanid. Nu stängs den delen av arbetsplatsen ned helt och hållet på obestämd framtid."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "”Ett extraval vore en mardröm för S”",
-   "date": "2026-10-09T07:27:11.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ett-extraval-vore-en-mardrom-for-s",
-   "desc": "Centerpartiet räknar kallt med att Socialdemokraterna håller fast vid sin motvilja mot V i regeringen. Lika kallt räknar Vänsterpartiet med att S aldrig kommer låta det gå till ett extraval. Och där har partiet en poäng – Magdalena Andersson (S) kan svårligen möta väljarna med budskapet: ”Förlåt, jag lyckades inte bilda regering, var god rösta igen”."
+   "title": "Färjetrafiken i Strömsund dröjer – viktiga tillstånd saknas",
+   "date": "2026-10-09T14:18:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/farjetrafiken-i-stromsund-drojer-viktiga-tillstand-saknas",
+   "desc": "I slutet av förra veckan meddelade Trafikverket att man tänkte sätta in färjor över Ströms Vattudal nu när bron är stängd för biltrafik. Men när färjetrafiken kan komma igång är fortfarande oklart."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Christian Zedigs pappa: Min Christian ska inte dö förgäves",
-   "date": "2026-10-09T07:24:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/christian-zedigs-pappa-min-christian-ska-inte-do-forgaves",
-   "desc": "I ett inlägg på sociala medier uppmanar nu polismannen Christian Zedigs pappa Danmarks statsminister att komma till Sverige och förklara varför straffet efter Christians död blev så kort."
+   "title": "Makten kvar hos sossarna – måste ta med MP i styret",
+   "date": "2026-10-09T14:17:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/makten-kvar-hos-sossarna-tvingas-ta-med-mp-i-styret",
+   "desc": "Miljöpartiet blir en del av det nya styret i Piteå. Det står klart efter att man kommit överens med Socialdemokraterna och Centerpartiet. – Det känns jätteroligt att få komma in i värmen, säger Miljöpartisten Malin Ullberg."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Två till sjukhus efter krock vid Ljungbyhed – trafiken släpps på",
-   "date": "2026-10-09T05:25:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/tva-till-sjukhus-efter-krock-vid-ljungbyhed",
-   "desc": "En personbil krockade med en skåpbil i en rondell på riksväg 13 väster om Ljungbyhed på fredagsmorgonen. Båda förarna har förts till sjukhus."
+   "title": "Busschauffören Lennart såg olyckan: ”Rullar som en film i huvudet”",
+   "date": "2026-10-09T14:16:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/busschaufforen-lennart-sag-olyckan-rullar-som-en-film-i-huvudet",
+   "desc": "Klockan 13.00 på fredag stannade bussarna i Kronoberg. Länstrafiken Kronoberg och Connect Bus beordrade en tyst minut för de som drabbades av bussolyckan på riksväg 25 tidigare i veckan. Busschauffören Lennart Falk såg olyckan från andra sidan vägen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ivar Stenberg hyllas för läckra assisten: ”En riktigt smart spelare”",
-   "date": "2026-10-09T04:55:55.000Z",
-   "link": "https://www.svt.se/sport/ishockey/ivar-stenberg-hyllas-for-lackra-assisten-en-riktigt-smart-spelare",
-   "desc": "Ivar Stenberg, 19, klev fram i förlängningen. Den svenske talangen stod för en läcker framspelning när San Jose Sharks vann. – Han kan göra avgörande insatser när det behövs som mest, säger lagkamraten Darnell Nurse."
+   "title": "Man sköt med gevär mot fastighet i Burträsk – döms till fängelse",
+   "date": "2026-10-09T13:43:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-skot-med-gevar-mot-fastighet-i-burtrask-doms-till-fangelse",
+   "desc": "En man i 45-årsåldern sköt med ett gevär mot en fastighet i Burträsk. Nu döms mannen till fängelse i ett år för vapenbrott och skadegörelse."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Orolig stämning bland elever på internatskolan i Sigtuna",
+   "date": "2026-10-09T14:06:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/orolig-stamning-bland-elever-pa-internatskolan-i-sigtuna",
+   "desc": "Efter att tre gymnasieelever anhållits misstänka för flera brott vid internatskolan i Sigtuna, har flera elever lämnat skolan och väktare har befunnit sig på platsen under fredagen. – Det är ganska orolig stämning, säger eleven Christian Skantze."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Grovt sexuellt övergrepp utreds efter polisinsats på internatet i Sigtuna",
+   "date": "2026-10-09T08:44:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-grovt-sexuellt-overgrepp-utreds-pa-sigtuna",
+   "desc": "Tre gymnasieelever i 18-årsåldern har anhållits efter en polisinsats på internatskolan Sigtunaskolan Humanistiska Läroverket. Brotten som utreds är grovt sexuellt övergrepp, grovt olaga tvång och misshandel mot tre minderåriga målsägande, visar handlingar som SVT tagit del av. – Det pågår nu ett intensivt utredningsarbete, säger åklagaren Lisa Dos Santos."
   },
   {
    "src": "STHLM",
@@ -100,26 +116,26 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Polisinsats på internatskola i Sigtuna",
+   "title": "Allvarligt brott på internatskolan i Sigtuna – tre elever anhållna",
    "date": "2026-10-08T17:35:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisinsats-pa-internatskola-i-sigtuna",
-   "desc": "Tre manliga elever i 18-årsåldern har anhållits efter torsdagens insats på internatskolan i Sigtuna. Brottsmisstankarna är av ”allvarlig karaktär”, uppger Åklagarmyndigheten. – Det pågår nu ett intensivt utredningsarbete, säger åklagaren Lisa Dos Santos."
+   "desc": "Tre manliga elever i 18-årsåldern har anhållits efter torsdagens insats på internatskolan i Sigtuna. Misstankarna rör bland annat sexuella övergrepp. – Det pågår nu ett intensivt utredningsarbete, säger åklagaren Lisa Dos Santos."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Läkare häktad – misstänks ha planerat två mord",
-   "date": "2026-10-08T15:45:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/lakare-haktad-misstanks-ha-planerat-tva-mord",
-   "desc": "En kvinnlig läkare i 50-årsåldern häktades under torsdagen misstänkt för planering av två mord, enligt Expressen. De misstänkta brotten ska ha ägt rum mellan 3 och 4 oktober i Stockholm."
+   "src": "BBC",
+   "section": "United",
+   "title": "'It's affected me personally' - Carrick on City case",
+   "date": "2026-10-09T14:54:21.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqgm0yy99dv9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United head coach Michael Carrick says he has his \"own questions\" on the Manchester City case, as calls continue for the club to be stripped of previous silverware."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bostadspriserna lyfter i Stockholm – innerstan sticker ut",
-   "date": "2026-10-08T14:22:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bostadspriserna-lyfter-i-stockholm-innerstan-sticker-ut",
-   "desc": "Bostadsrättspriserna i Stockholms innerstad ligger nu på 124 000 kronor per kvadratmeter, vilket är den högsta siffran på flera år. Antalet bostadsaffärer fortsätter öka enligt nya siffror. – Det görs mycket affärer och det finns en stark tilltro till bostadsmarknaden, trots möjligtvis kommande räntehöjningar och geopolitisk oro, säger Oskar Öholm, vd för Mäklarsamfundet."
+   "src": "BBC",
+   "section": "United",
+   "title": "I've got my own questions on Man City case - Carrick",
+   "date": "2026-10-09T14:30:38.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter."
   },
   {
    "src": "BBC",
@@ -128,14 +144,6 @@
    "date": "2026-10-09T07:57:23.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United's £70m summer signing Carlos Baleba is expected to make his debut against Tottenham Hotspur at Old Trafford"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Carrick stays cool, but should he be worried about Man Utd's form?",
-   "date": "2026-10-09T07:36:24.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6x29vg0p7kko?at_medium=RSS&at_campaign=rss",
-   "desc": "After three weeks off because of the international break, BBC Sport looks back at Manchester United's indifferent start to the new Premier League season, which saw Michael Carrick's side win just one of their opening five matches."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-07T18:19:19.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cqwy74g6gk82o?at_medium=RSS&at_campaign=rss",
    "desc": "BBC Sport's Dan Roan and Dale Johnson explain the possible implications of different sanctions on Manchester City after they were found guilty of breaching the Premier League's financial rules."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Why is JJ Gabriel in Man Utd's team photo?",
-   "date": "2026-10-06T16:35:55.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cme3x1y53d27o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sport Manchester United reporter Simon Stone gives an update on 16-year-old JJ Gabriel's future at the club after the teenager was included in the club's official team photo."
   }
  ]
 }
