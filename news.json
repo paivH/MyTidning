@@ -1,45 +1,53 @@
 {
- "updated": "2026-10-09T15:28:05.632Z",
+ "updated": "2026-10-09T20:15:27.912Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-   "date": "2026-10-09T14:00:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
+   "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+   "date": "2026-10-09T20:13:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+   "desc": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Firing squad execution to be livestreamed, Pentagon says",
-   "date": "2026-10-09T12:24:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-   "desc": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\"."
+   "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+   "date": "2026-10-09T18:40:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-   "date": "2026-10-09T09:43:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it."
+   "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+   "date": "2026-10-09T18:40:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "France promises 3,000 extra teachers in first step to calm student protests",
-   "date": "2026-10-09T11:35:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-   "desc": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students."
+   "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+   "date": "2026-10-09T19:39:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+   "desc": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
-   "date": "2026-10-09T15:24:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes."
+   "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+   "date": "2026-10-09T17:14:44.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+   "desc": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Drunkningslarm öster om Karlskrona – man förd till sjukhus",
+   "date": "2026-10-09T17:28:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/en-person-till-sjukhus-efter-drunkningslarm-kn4rsf",
+   "desc": "Strax innan klockan 18 under fredagskvällen kom ett larm om en drunkning i Svanhalla, öster om Karlskrona. En man har hittats i vattnet och förts till sjukhus med helikopter. Skadeläget är oklart."
   },
   {
    "src": "SVT",
@@ -74,12 +82,20 @@
    "desc": "Klockan 13.00 på fredag stannade bussarna i Kronoberg. Länstrafiken Kronoberg och Connect Bus beordrade en tyst minut för de som drabbades av bussolyckan på riksväg 25 tidigare i veckan. Busschauffören Lennart Falk såg olyckan från andra sidan vägen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Man sköt med gevär mot fastighet i Burträsk – döms till fängelse",
-   "date": "2026-10-09T13:43:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-skot-med-gevar-mot-fastighet-i-burtrask-doms-till-fangelse",
-   "desc": "En man i 45-årsåldern sköt med ett gevär mot en fastighet i Burträsk. Nu döms mannen till fängelse i ett år för vapenbrott och skadegörelse."
+   "title": "Nyheter från dagen: 9 oktober",
+   "date": "2026-10-09T18:02:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-9-oktober-p740om",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under fredagen den 9 oktober."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Släpptes efter mordet i Skärmarbrink – nu häktad",
+   "date": "2026-10-09T17:54:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/slapptes-efter-mordet-i-skarmarbrink-nu-haktad",
+   "desc": "Samma dag som en 20-årig man hittades död i Skärmarbrink greps tre personer, varav två släpptes. Nu har en av de två, en kvinna, inte bara gripits än en gång – utan även häktats."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-10-09T08:09:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/musikern-william-avvisades-fran-tunnelbanan-risk-for-ordningsstorning",
    "desc": "Ingripande ordningsvakter, tillkallade poliser och stoppad tågtrafik under 20 minuter. Det blev resultatet när musikern William Sundman Sääf skulle åka tunnelbana. – Vi hade inte ens börjat spela, säger han."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 8 oktober",
-   "date": "2026-10-08T18:19:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-8-oktober-tloy7m",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under torsdagen den 8 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Allvarligt brott på internatskolan i Sigtuna – tre elever anhållna",
-   "date": "2026-10-08T17:35:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisinsats-pa-internatskola-i-sigtuna",
-   "desc": "Tre manliga elever i 18-årsåldern har anhållits efter torsdagens insats på internatskolan i Sigtuna. Misstankarna rör bland annat sexuella övergrepp. – Det pågår nu ett intensivt utredningsarbete, säger åklagaren Lisa Dos Santos."
   },
   {
    "src": "BBC",
