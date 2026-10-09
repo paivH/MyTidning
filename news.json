@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-08T21:47:14.716Z",
+ "updated": "2026-10-09T01:42:32.355Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+   "date": "2026-10-08T23:11:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+   "date": "2026-10-09T01:25:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\"."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,26 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-   "date": "2026-10-08T17:38:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-   "date": "2026-10-08T19:10:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-   "date": "2026-10-08T12:32:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
+   "title": "Adidas sues Australian label White Fox over four stripes design",
+   "date": "2026-10-08T18:17:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages."
   },
   {
    "src": "SVT",
