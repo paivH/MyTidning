@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-10T06:10:50.182Z",
+ "updated": "2026-10-10T12:50:48.784Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+   "date": "2026-10-10T12:29:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+   "desc": "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+   "date": "2026-10-10T11:17:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,26 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US country music star Ella Langley cancels show due to 'security threat'",
-   "date": "2026-10-10T02:02:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
+   "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+   "date": "2026-10-09T21:55:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+   "desc": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-   "date": "2026-10-10T04:07:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-   "date": "2026-10-10T05:25:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Två fall av misstänkt valfusk i Västerås",
+   "date": "2026-10-10T07:10:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/tva-fall-av-misstankt-valfusk-i-vasteras",
+   "desc": "Riksenheten mot korruption utreder två fall av misstänkt valfusk i Västerås. Brottsrubriceringen gäller otillbörligt verkande vid röstning. Det rapporterar P4 Västmanland."
   },
   {
    "src": "SVT",
@@ -74,12 +82,20 @@
    "desc": "Är du nyinflyttad i Norrland? Vad behöver du ha koll på? Se några av tipsen i klippet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Tomas från Alvesta får tälja Dalahästar: ”Den första söder om Stockholm”",
-   "date": "2026-10-10T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/tomas-fran-alvesta-far-talja-dalahastar-den-forsta-soder-om-stockholm",
-   "desc": "72-åriga Tomas Tedestam är en före detta bildlärare i Alvesta som älskar att tälja små figurer. När hans fru såg ett inslag på tv om att ett företag i Dalarna behövde täljare till dalahästar – då sökte han jobbet – och fick det."
+   "title": "Elena, 78, lämnade allt för en kvinna: ”Jag grät ofta”",
+   "date": "2026-10-10T09:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/elena-78-lamnade-allt-for-en-kvinna-jag-grat-ofta",
+   "desc": "Under hösten får HBTQI-personer över 65 möjligheten att mötas och dela med sig av sina livshistorier. Skärholmens stadsförvaltning ligger bakom initiativet. – Ett utrymme att få vara sig själv, säger Ewa Söderlind, en av deltagarna."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Flera gripna efter klimataktion vid Bromma flygplats",
+   "date": "2026-10-10T08:50:24.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/klimataktivister-pa-landningsbanan-vid-bromma-flygplats",
+   "desc": "Polisen har fått larm om ett intrång på Bromma flygplats. Enligt uppgifter till SVT rör det sig om en klimataktion riktad mot en privatjetterminal."
   },
   {
    "src": "STHLM",
@@ -87,15 +103,15 @@
    "title": "Från hemlös till guide på Centralstationen: ”Ett community här”",
    "date": "2026-10-10T03:30:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/fran-hemlos-till-guide-pa-centralstationen-ett-community-har",
-   "desc": "Centralen har länge varit ett tillhåll en stor del av Stockholms akut hemlösa. En av den som tillbringat sina nätter på centralen är Hasse Karlsson, som kommit ut ur hemlösheten och gör guidade turer kring de hemlösas central. – Det är ett community här, säger Hasse Karlsson."
+   "desc": "Centralen har länge varit ett tillhåll för en stor del av Stockholms akut hemlösa. En av den som tillbringat sina nätter på centralen är Hasse Karlsson, som kommit ut ur hemlösheten och gör guidade turer kring de hemlösas central. – Det är ett community här, säger Hasse Karlsson."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Skottlossning mot villa i Segeltorp",
+   "title": "En anhållen efter skottlossning mot villa i Segeltorp",
    "date": "2026-10-10T02:24:38.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-huddinge",
-   "desc": "Det har inträffat en skottlossning mot en villa i Segeltorp, Huddinge kommun, natten mot lördag. En ung man greps av polisen kort efter larmet."
+   "desc": "Det har inträffat en skottlossning mot en villa i Segeltorp, Huddinge kommun, natten mot lördag. En ung man greps av polisen kort efter larmet, och anhölls på lördagen av åklagare."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-10-09T18:02:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-9-oktober-p740om",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om under fredagen den 9 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Släpptes efter mordet i Skärmarbrink – nu häktad",
-   "date": "2026-10-09T17:54:15.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/slapptes-efter-mordet-i-skarmarbrink-nu-haktad",
-   "desc": "Samma dag som en 20-årig man hittades död i Skärmarbrink greps tre personer, varav två släpptes. Nu har en av de två, en kvinna, inte bara gripits än en gång – utan även häktats."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Orolig stämning bland elever på internatskolan i Sigtuna",
-   "date": "2026-10-09T14:06:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/orolig-stamning-bland-elever-pa-internatskolan-i-sigtuna",
-   "desc": "Efter att tre gymnasieelever anhållits misstänka för flera brott vid internatskolan i Sigtuna, har flera elever lämnat skolan och väktare har befunnit sig på platsen under fredagen. – Det är ganska orolig stämning, säger eleven Christian Skantze."
   },
   {
    "src": "BBC",
