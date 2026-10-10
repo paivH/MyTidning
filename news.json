@@ -1,45 +1,77 @@
 {
- "updated": "2026-10-10T12:50:48.784Z",
+ "updated": "2026-10-10T17:37:16.713Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+   "date": "2026-10-10T17:31:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+   "date": "2026-10-10T14:16:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Several injured in attack on airport in Saudi capital Riyadh",
+   "date": "2026-10-10T16:56:32.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "desc": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+   "date": "2026-10-10T16:30:21.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
+  },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
    "date": "2026-10-10T12:29:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-   "desc": "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration."
+   "desc": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-   "date": "2026-10-10T11:17:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Justin Kloos tvåmålsskytt när HV71 tog första trepoängaren",
+   "date": "2026-10-10T15:34:42.000Z",
+   "link": "https://www.svt.se/sport/ishockey/justin-kloos-tvamalsskytt-nar-hv71-tog-forsta-trepoangaren",
+   "desc": "HV71 har tagit sin första trepoängare för säsongen. Justin Kloos blev tvåmålsskytt och matchhjälte mot Brynäs. – Det är stort, säger han i TV4."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-   "date": "2026-10-10T04:38:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Här blommar öknen  – efter El Niño-regn",
+   "date": "2026-10-10T14:57:47.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/har-blommar-oknen-efter-el-nino-regn",
+   "desc": "Atacamaöknen i norra Chile är en av världens torraste platser. Efter ovanligt kraftiga regn har miljontals frön och lökar, som legat vilande under marken vaknat till liv."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-   "date": "2026-10-09T22:30:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "AIK föll med 5–6 i historisk  match mot BP",
+   "date": "2026-10-10T14:57:05.000Z",
+   "link": "https://www.svt.se/sport/fotboll/aik-foll-i-galen-match-mot-bp",
+   "desc": "AIK förlorade en makalös – och historisk – tillställning mot BP på Nationalarenan. Slutsiffrorna skrevs till 5–6 efter elva (!) mål i den andra halvleken. – Nu ska man ner till Stureplan och fira, säger Simon Strand i TV4."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-   "date": "2026-10-09T21:55:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-   "desc": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Isak Bjerkebo matchhjälte – Sirius besegrade Gais",
+   "date": "2026-10-10T14:50:53.000Z",
+   "link": "https://www.svt.se/sport/fotboll/isak-bjerkebo-matchhjalte-sirius-besegrade-gais",
+   "desc": "Det såg ut att bli mållöst på Gamla Ullevi. Då klev Isak Bjerkebo fram och säkrade tre poäng i guldstriden. – Den satt långt inne i dag, säger Bjerkebo till SVT Sport."
   },
   {
    "src": "SVT",
@@ -50,36 +82,20 @@
    "desc": "Riksenheten mot korruption utreder två fall av misstänkt valfusk i Västerås. Brottsrubriceringen gäller otillbörligt verkande vid röstning. Det rapporterar P4 Västmanland."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "SD-toppen: Slöjförbudet kostade oss unga väljare",
-   "date": "2026-10-10T04:18:18.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sd-toppen-slojforbudet-kostade-oss-unga-valjare",
-   "desc": "SD-toppen Tobias Andersson petades från sitt tunga uppdrag i riksdagen i veckan. Nu riktar han kritik mot partiets valstrategi – och pekar särskilt ut ett förslag som orsaken till att Sverigedemokraterna tappade unga väljare i valet. – Utspelet om slöjförbud saknade nyans, förklaring och argumentationsunderlag, säger han."
+   "title": "Moped påkörd av minibuss – två till sjukhus",
+   "date": "2026-10-10T15:35:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/moped-pakord-av-minibuss-tva-till-sjukhus",
+   "desc": "Två unga kvinnor har förts till sjukhus med oklart skadeläge till följd av en trafikolycka på Söderbyleden i Haninge kommun. De två färdades på moped och blev påkörda av en minibuss."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Så hittade polisens dna-detektiv Linda ”Brattåsmannen”",
-   "date": "2026-10-10T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-hittade-polisens-dna-detektiv-linda-brattasmannen",
-   "desc": "I den nya SVT-serien ”Dna-spåret: Dubbelmordet i Brattås” berättas historien om hur den mordmisstänkte mannen kunde hittas efter 21 år. Och det var polisens dna-släktforskare Linda Kvist som till sist kunde ge utredarna ett namn på den som avsatt dna-spåret. – Det blev nog ett litet adrenalinpåslag, berättar hon för SVT."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sara är ny i Lycksele – här får hon överlevnadstips: ”Måste köpa bra skor”",
-   "date": "2026-10-10T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/sara-ar-ny-i-lycksele-har-far-hon-overlevnadstips-maste-kopa-bra-skor",
-   "desc": "Sara Törnquist är nyinflyttad från Göteborg till Lycksele. Hon är en av ett 15-tal personer som i veckan fick veta mer om hur man lever nära naturen och överlever i norr. – Jag har fått en ökad respekt för snö, is och kyla, säger hon."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tre saker du bör ha koll på som norrlänning",
-   "date": "2026-10-10T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/tre-saker-du-bor-ha-koll-pa-som-norrlanning",
-   "desc": "Är du nyinflyttad i Norrland? Vad behöver du ha koll på? Se några av tipsen i klippet."
+   "title": "Försvararen i Sigtuna-fallet: ”En kultur och tradition som vuxit fram över tid”",
+   "date": "2026-10-10T13:56:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvararen-i-sigtuna-fallet-en-kultur-och-tradition-som-vuxit-fram-over-tid",
+   "desc": "Tre gymnasieelever vid internatskolan i Sigtuna har anhållits misstänkta för flera brott. Nu ger en av elevernas advokat sin bild av misstankarna. ”Det som har hänt behöver ses i ett större sammanhang”, skriver Elin Ternert, försvarsadvokat till SVT."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-10-10T03:30:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/fran-hemlos-till-guide-pa-centralstationen-ett-community-har",
    "desc": "Centralen har länge varit ett tillhåll för en stor del av Stockholms akut hemlösa. En av den som tillbringat sina nätter på centralen är Hasse Karlsson, som kommit ut ur hemlösheten och gör guidade turer kring de hemlösas central. – Det är ett community här, säger Hasse Karlsson."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "En anhållen efter skottlossning mot villa i Segeltorp",
-   "date": "2026-10-10T02:24:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-huddinge",
-   "desc": "Det har inträffat en skottlossning mot en villa i Segeltorp, Huddinge kommun, natten mot lördag. En ung man greps av polisen kort efter larmet, och anhölls på lördagen av åklagare."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 9 oktober",
-   "date": "2026-10-09T18:02:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-9-oktober-p740om",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om under fredagen den 9 oktober."
   },
   {
    "src": "BBC",
