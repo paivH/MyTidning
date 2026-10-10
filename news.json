@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-10T17:37:16.713Z",
+ "updated": "2026-10-10T21:05:48.426Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-   "date": "2026-10-10T17:31:24.000Z",
+   "date": "2026-10-10T19:28:28.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
    "desc": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-   "date": "2026-10-10T14:16:50.000Z",
+   "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+   "date": "2026-10-10T20:51:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
    "desc": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
   },
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Several injured in attack on airport in Saudi capital Riyadh",
-   "date": "2026-10-10T16:56:32.000Z",
+   "date": "2026-10-10T18:37:10.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
    "desc": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it."
   },
@@ -29,17 +29,25 @@
    "src": "BBC",
    "section": "Världen",
    "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-   "date": "2026-10-10T16:30:21.000Z",
+   "date": "2026-10-10T17:44:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
    "desc": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-   "date": "2026-10-10T12:29:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-   "desc": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections."
+   "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+   "date": "2026-10-10T19:08:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+   "desc": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Anders Eriksson får plötsligt göra EM-debut",
+   "date": "2026-10-10T19:17:10.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/anders-eriksson-far-plotsligt-gora-em-debut",
+   "desc": "Mattias Karlsson skadade sig när han bäddade sängen. Och med kort varsel blev Anders Eriksson inringd – och ska nu göra EM-debut. – Skittaggad, tycker det ska bli så oerhört kul, säger han till SVT Sport."
   },
   {
    "src": "SVT",
@@ -74,12 +82,20 @@
    "desc": "Det såg ut att bli mållöst på Gamla Ullevi. Då klev Isak Bjerkebo fram och säkrade tre poäng i guldstriden. – Den satt långt inne i dag, säger Bjerkebo till SVT Sport."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Två fall av misstänkt valfusk i Västerås",
-   "date": "2026-10-10T07:10:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/tva-fall-av-misstankt-valfusk-i-vasteras",
-   "desc": "Riksenheten mot korruption utreder två fall av misstänkt valfusk i Västerås. Brottsrubriceringen gäller otillbörligt verkande vid röstning. Det rapporterar P4 Västmanland."
+   "title": "Brand i pizzeria i Snättringe",
+   "date": "2026-10-10T20:34:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-i-pizzeria-i-snattringe",
+   "desc": "Det brinner i en byggnad i Snättringe, Huddinge kommun, som inrymmer en pizzeria och ett mäklarkontor. Polisen misstänker att branden är anlagd."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 10 oktober",
+   "date": "2026-10-10T18:06:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-10-oktober-wsjphk",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om lördagen den 10 oktober."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,20 @@
    "desc": "Under hösten får HBTQI-personer över 65 möjligheten att mötas och dela med sig av sina livshistorier. Skärholmens stadsförvaltning ligger bakom initiativet. – Ett utrymme att få vara sig själv, säger Ewa Söderlind, en av deltagarna."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Flera gripna efter klimataktion vid Bromma flygplats",
-   "date": "2026-10-10T08:50:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/klimataktivister-pa-landningsbanan-vid-bromma-flygplats",
-   "desc": "Polisen har fått larm om ett intrång på Bromma flygplats. Enligt uppgifter till SVT rör det sig om en klimataktion riktad mot en privatjetterminal."
+   "src": "BBC",
+   "section": "United",
+   "title": "Boos, anguish & fading belief -'worrying day' for under-pressure Carrick",
+   "date": "2026-10-10T20:54:46.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
+   "desc": "It couldn't happen again could it? Another failure to beat 10 men increases pressure on Man Utd boss Michael Carrick after a 1-1 draw against Tottenham Hotspur."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Från hemlös till guide på Centralstationen: ”Ett community här”",
-   "date": "2026-10-10T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fran-hemlos-till-guide-pa-centralstationen-ett-community-har",
-   "desc": "Centralen har länge varit ett tillhåll för en stor del av Stockholms akut hemlösa. En av den som tillbringat sina nätter på centralen är Hasse Karlsson, som kommit ut ur hemlösheten och gör guidade turer kring de hemlösas central. – Det är ett community här, säger Hasse Karlsson."
+   "src": "BBC",
+   "section": "United",
+   "title": "Growing frustration at Old Trafford - analysis",
+   "date": "2026-10-10T19:24:40.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw62y7y35vm4o?at_medium=RSS&at_campaign=rss",
+   "desc": "There is growing frustration at Old Trafford as Manchester United drop points against a 10-man Tottenham."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-10-09T07:57:23.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United's £70m summer signing Carlos Baleba is expected to make his debut against Tottenham Hotspur at Old Trafford"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Why Carlos Baleba could get Man Utd's 'season going'",
-   "date": "2026-10-08T13:19:34.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c63el302ken5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd fan Jay Motty explains how new signing Carlos Baleba could be a key addition to the squad"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Can the Premier League afford to lose Man City?",
-   "date": "2026-10-07T18:19:19.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqwy74g6gk82o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sport's Dan Roan and Dale Johnson explain the possible implications of different sanctions on Manchester City after they were found guilty of breaching the Premier League's financial rules."
   }
  ]
 }
