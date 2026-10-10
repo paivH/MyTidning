@@ -1,23 +1,17 @@
 {
- "updated": "2026-10-09T11:00:25.355Z",
+ "updated": "2026-10-10T10:14:02.909Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Ingrid Marie, lösvikt",
-   "price": "19 kr/kg",
+   "item": "Färsk laxfilé Norge",
+   "price": "89 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Rotfrukter morötter 1kg",
-   "price": "12 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
    "store": "ICA",
-   "item": "Kycklingfilet Kronfågel 750g",
-   "price": "59 kr",
+   "item": "Svenska äpplen Aroma",
+   "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
@@ -27,8 +21,14 @@
    "url": "https://www.lidl.se"
   },
   {
+   "store": "Lidl",
+   "item": "Pumpa Hokkaido",
+   "price": "12 kr/st",
+   "url": "https://www.lidl.se"
+  },
+  {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (fryst)",
+   "item": "Köttbullar 1kg (Food market)",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
