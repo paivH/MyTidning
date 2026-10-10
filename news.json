@@ -1,85 +1,101 @@
 {
- "updated": "2026-10-10T00:11:38.193Z",
+ "updated": "2026-10-10T06:10:50.182Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-   "date": "2026-10-09T21:54:28.000Z",
+   "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+   "date": "2026-10-10T04:38:20.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended."
+   "desc": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-   "date": "2026-10-09T18:40:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
+   "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+   "date": "2026-10-09T22:30:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-   "date": "2026-10-09T21:50:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years."
+   "title": "US country music star Ella Langley cancels show due to 'security threat'",
+   "date": "2026-10-10T02:02:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-   "date": "2026-10-09T21:26:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-   "desc": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online."
+   "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+   "date": "2026-10-10T04:07:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-   "date": "2026-10-09T17:14:44.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-   "desc": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks."
+   "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+   "date": "2026-10-10T05:25:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Drunkningslarm öster om Karlskrona – man förd till sjukhus",
-   "date": "2026-10-09T17:28:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/blekinge/en-person-till-sjukhus-efter-drunkningslarm-kn4rsf",
-   "desc": "Strax innan klockan 18 under fredagskvällen kom ett larm om en drunkning i Svanhalla, öster om Karlskrona. En man har hittats i vattnet och förts till sjukhus med helikopter. Skadeläget är oklart."
+   "title": "SD-toppen: Slöjförbudet kostade oss unga väljare",
+   "date": "2026-10-10T04:18:18.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sd-toppen-slojforbudet-kostade-oss-unga-valjare",
+   "desc": "SD-toppen Tobias Andersson petades från sitt tunga uppdrag i riksdagen i veckan. Nu riktar han kritik mot partiets valstrategi – och pekar särskilt ut ett förslag som orsaken till att Sverigedemokraterna tappade unga väljare i valet. – Utspelet om slöjförbud saknade nyans, förklaring och argumentationsunderlag, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Gaslarmet på SSAB i Luleå – stoppar allt arbete på område",
-   "date": "2026-10-09T14:31:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/gaslarmet-pa-ssab-i-lulea-stoppar-allt-arbete-pa-omradet",
-   "desc": "För några veckor sedan pausades arbetet på SSAB:s industriområde Aronstorp i Luleå. Detta efter ett gaslarm om vätecyanid. Nu stängs den delen av arbetsplatsen ned helt och hållet på obestämd framtid."
+   "title": "Så hittade polisens dna-detektiv Linda ”Brattåsmannen”",
+   "date": "2026-10-10T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-hittade-polisens-dna-detektiv-linda-brattasmannen",
+   "desc": "I den nya SVT-serien ”Dna-spåret: Dubbelmordet i Brattås” berättas historien om hur den mordmisstänkte mannen kunde hittas efter 21 år. Och det var polisens dna-släktforskare Linda Kvist som till sist kunde ge utredarna ett namn på den som avsatt dna-spåret. – Det blev nog ett litet adrenalinpåslag, berättar hon för SVT."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Färjetrafiken i Strömsund dröjer – viktiga tillstånd saknas",
-   "date": "2026-10-09T14:18:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/farjetrafiken-i-stromsund-drojer-viktiga-tillstand-saknas",
-   "desc": "I slutet av förra veckan meddelade Trafikverket att man tänkte sätta in färjor över Ströms Vattudal nu när bron är stängd för biltrafik. Men när färjetrafiken kan komma igång är fortfarande oklart."
+   "title": "Sara är ny i Lycksele – här får hon överlevnadstips: ”Måste köpa bra skor”",
+   "date": "2026-10-10T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/sara-ar-ny-i-lycksele-har-far-hon-overlevnadstips-maste-kopa-bra-skor",
+   "desc": "Sara Törnquist är nyinflyttad från Göteborg till Lycksele. Hon är en av ett 15-tal personer som i veckan fick veta mer om hur man lever nära naturen och överlever i norr. – Jag har fått en ökad respekt för snö, is och kyla, säger hon."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Makten kvar hos sossarna – måste ta med MP i styret",
-   "date": "2026-10-09T14:17:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/makten-kvar-hos-sossarna-tvingas-ta-med-mp-i-styret",
-   "desc": "Miljöpartiet blir en del av det nya styret i Piteå. Det står klart efter att man kommit överens med Socialdemokraterna och Centerpartiet. – Det känns jätteroligt att få komma in i värmen, säger Miljöpartisten Malin Ullberg."
+   "title": "Tre saker du bör ha koll på som norrlänning",
+   "date": "2026-10-10T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/tre-saker-du-bor-ha-koll-pa-som-norrlanning",
+   "desc": "Är du nyinflyttad i Norrland? Vad behöver du ha koll på? Se några av tipsen i klippet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Busschauffören Lennart såg olyckan: ”Rullar som en film i huvudet”",
-   "date": "2026-10-09T14:16:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/busschaufforen-lennart-sag-olyckan-rullar-som-en-film-i-huvudet",
-   "desc": "Klockan 13.00 på fredag stannade bussarna i Kronoberg. Länstrafiken Kronoberg och Connect Bus beordrade en tyst minut för de som drabbades av bussolyckan på riksväg 25 tidigare i veckan. Busschauffören Lennart Falk såg olyckan från andra sidan vägen."
+   "title": "Tomas från Alvesta får tälja Dalahästar: ”Den första söder om Stockholm”",
+   "date": "2026-10-10T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/tomas-fran-alvesta-far-talja-dalahastar-den-forsta-soder-om-stockholm",
+   "desc": "72-åriga Tomas Tedestam är en före detta bildlärare i Alvesta som älskar att tälja små figurer. När hans fru såg ett inslag på tv om att ett företag i Dalarna behövde täljare till dalahästar – då sökte han jobbet – och fick det."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Från hemlös till guide på Centralstationen: ”Ett community här”",
+   "date": "2026-10-10T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fran-hemlos-till-guide-pa-centralstationen-ett-community-har",
+   "desc": "Centralen har länge varit ett tillhåll en stor del av Stockholms akut hemlösa. En av den som tillbringat sina nätter på centralen är Hasse Karlsson, som kommit ut ur hemlösheten och gör guidade turer kring de hemlösas central. – Det är ett community här, säger Hasse Karlsson."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Skottlossning mot villa i Segeltorp",
+   "date": "2026-10-10T02:24:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-huddinge",
+   "desc": "Det har inträffat en skottlossning mot en villa i Segeltorp, Huddinge kommun, natten mot lördag. En ung man greps av polisen kort efter larmet."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-10-09T14:06:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/orolig-stamning-bland-elever-pa-internatskolan-i-sigtuna",
    "desc": "Efter att tre gymnasieelever anhållits misstänka för flera brott vid internatskolan i Sigtuna, har flera elever lämnat skolan och väktare har befunnit sig på platsen under fredagen. – Det är ganska orolig stämning, säger eleven Christian Skantze."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Grovt sexuellt övergrepp utreds efter polisinsats på internatet i Sigtuna",
-   "date": "2026-10-09T08:44:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-grovt-sexuellt-overgrepp-utreds-pa-sigtuna",
-   "desc": "Tre gymnasieelever i 18-årsåldern har anhållits efter en polisinsats på internatskolan Sigtunaskolan Humanistiska Läroverket. Brotten som utreds är grovt sexuellt övergrepp, grovt olaga tvång och misshandel mot tre minderåriga målsägande, visar handlingar som SVT tagit del av. – Det pågår nu ett intensivt utredningsarbete, säger åklagaren Lisa Dos Santos."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Musikern William avvisades från tunnelbanan: ”Risk för ordningsstörning”",
-   "date": "2026-10-09T08:09:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/musikern-william-avvisades-fran-tunnelbanan-risk-for-ordningsstorning",
-   "desc": "Ingripande ordningsvakter, tillkallade poliser och stoppad tågtrafik under 20 minuter. Det blev resultatet när musikern William Sundman Sääf skulle åka tunnelbana. – Vi hade inte ens börjat spela, säger han."
   },
   {
    "src": "BBC",
