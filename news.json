@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-11T18:15:57.987Z",
+ "updated": "2026-10-11T22:14:41.162Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Saudi capital airport hit by second Houthi strike in two days",
-   "date": "2026-10-11T16:41:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
+   "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+   "date": "2026-10-11T21:36:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+   "desc": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-   "date": "2026-10-11T14:38:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-   "desc": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
+   "title": "Saudi capital airport hit by second Houthi strike in two days",
+   "date": "2026-10-11T21:30:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
   },
   {
    "src": "BBC",
@@ -28,18 +28,26 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+   "date": "2026-10-11T21:12:44.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Homes and bridges swept away as fresh floods hit Nepal",
    "date": "2026-10-11T12:03:52.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
    "desc": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-   "date": "2026-10-11T15:18:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-   "desc": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Egypten anklagas för dödlig attack mot guldgruva",
+   "date": "2026-10-11T18:42:21.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/egypten-anklagas-for-dodlig-attack-mot-guldgruva",
+   "desc": "Minst 72 personer dödades i ett luftangrepp mot en guldgruva vid gränsen mellan Sudan och Egypten, uppger en människorättsorganisation."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-10-11T12:21:11.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/gaza-han-flydde-striderna-vid-gula-linjen",
    "desc": "Trots vapenvilan fortsätter attackerna i Gaza. SVT har verifierat hur israelisk militär flyttar fram sina trupper – samtidigt som Gazas invånare trängs ihop på en krympande yta. – Det är ofattbart trångt idag, säger Toby Fricker, talesperson för FN:s barnfond Unicef."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Två brandmän till sjukhus efter brand vid gruva i Lycksele",
-   "date": "2026-10-11T11:31:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/tva-brandman-till-sjukhus-efter-brand-vid-gruva-i-lycksele",
-   "desc": "Ett förrådstält vid Fäbodtjärnsgruvan i Vindelgranselse i Lycksele kommun började brinna på lördagskvällen. I tältet fanns kemikalier, och två brandmän behövde söka sjukvård efter att ha andats in giftig rök."
   },
   {
    "src": "STHLM",
