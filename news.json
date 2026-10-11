@@ -1,45 +1,77 @@
 {
- "updated": "2026-10-11T06:08:25.971Z",
+ "updated": "2026-10-11T13:15:10.811Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-   "date": "2026-10-11T03:57:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-   "desc": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike."
+   "title": "Ukraine strikes Russian data centre again despite Trump warning",
+   "date": "2026-10-11T12:50:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+   "desc": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-   "date": "2026-10-11T01:41:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+   "title": "Pope Leo to have surgery after lump found on lung",
+   "date": "2026-10-11T12:52:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+   "desc": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-   "date": "2026-10-10T22:13:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-   "desc": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance."
+   "title": "Homes and bridges swept away as fresh floods hit Nepal",
+   "date": "2026-10-11T12:03:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-   "date": "2026-10-10T17:44:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
+   "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+   "date": "2026-10-11T11:11:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+   "desc": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-   "date": "2026-10-10T20:51:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+   "title": "US justice department investigates TV networks over Trump pool coverage",
+   "date": "2026-10-11T05:05:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+   "desc": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sora Matsushima segrare i China Smash – vrålar rakt ut",
+   "date": "2026-10-11T12:30:47.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/sora-matsushima-segrare-i-china-smash-vralar-rakt-ut",
+   "desc": "Herrfinalen i China Smash avgjordes med skiljeset. Då drog världsettan Sora Matsushima på sig en varning inför sista matchbollen. – Oväntad dramatik, säger SVT:s kommentator Johan Ejeborg"
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Gaza: Han flydde striderna vid gula linjen",
+   "date": "2026-10-11T12:21:11.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/gaza-han-flydde-striderna-vid-gula-linjen",
+   "desc": "Trots vapenvilan fortsätter attackerna i Gaza. SVT har verifierat hur israelisk militär flyttar fram sina trupper – samtidigt som Gazas invånare trängs ihop på en krympande yta. – Det är ofattbart trångt idag, säger Toby Fricker, talesperson för FN:s barnfond Unicef."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Två brandmän till sjukhus efter brand vid gruva i Lycksele",
+   "date": "2026-10-11T11:31:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/tva-brandman-till-sjukhus-efter-brand-vid-gruva-i-lycksele",
+   "desc": "Ett förrådstält vid Fäbodtjärnsgruvan i Vindelgranselse i Lycksele kommun började brinna på lördagskvällen. I tältet fanns kemikalier, och två brandmän behövde söka sjukvård efter att ha andats in giftig rök."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jakt efter misstänkt skadeskjuten älg i Eksjö",
+   "date": "2026-10-11T09:00:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/skadeskjuten-alg-i-eksjo",
+   "desc": "En älg tog sig in i Eksjö under söndagsförmiddagen. Polis och kommunjägare fanns på plats."
   },
   {
    "src": "SVT",
@@ -47,39 +79,7 @@
    "title": "Premiär för ”Hövdingen” – dokumentär om sekt i Sollefteå",
    "date": "2026-10-11T05:30:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/premiar-for-hovdingen-dokumentar-om-sekt-i-solleftea",
-   "desc": "För 35 år slog en grupp människor upp ett tältläger utanför Österåsen, Sollefteå. De strävade mot en annan typ av värld, men den naturromantiska drömmen sprack och deltagarna fann sig själva i en sekt, med mörka konsekvenser. Idag släpps de första två avsnitten i SVT:s dokumentärserie ”Hövdingen”. – Jag känner väldigt starkt för barnen som inte har valt att vara med i en sekt, säger producenten Eva Lövroth."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man greps misstänkt för grov våldtäkt på nattklubb i Malmö",
-   "date": "2026-10-11T05:17:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-grov-valdtakt-pa-nattklubb-i-malmo",
-   "desc": "Polis tillkallades under natten till en nattklubb i Malmö. En man misstänks för grov våldtäkt mot en kvinna."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tre personer till sjukhus efter olycka i rondell i Vimmerby",
-   "date": "2026-10-11T04:39:10.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/tre-personer-till-sjukhus-efter-krock-i-rondell-i-vimmerby",
-   "desc": "En förare körde en bil med fyra passagerare rakt in i en rondell på riksväg 40 under söndagsmorgonen. Tre personer fördes till sjukhus med ambulans."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fossil olja i höstsäsongens fleecetröja",
-   "date": "2026-10-11T04:17:42.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/fossil-olja-i-hostsasongens-fleecetroja",
-   "desc": "Många favoriter i höst- och vintergarderoben, som fleece och fuskpäls, är tillverkade av polyester – ett material som görs av fossil olja. Och trots modeindustrins mål om att minska växthusgasutsläppen ökar användningen av polyesterfibrer. – Textilindustrin borde försöka fokusera på att återvinna sina egna produkter, säger polymerteknikexperten Dan Åkesson."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hemsnickrat racket har tagit Elias Ranefur till toppen",
-   "date": "2026-10-11T04:08:51.000Z",
-   "link": "https://www.svt.se/sport/bordtennis/hemsnickrat-racket-har-tagit-elias-ranefur-till-toppen",
-   "desc": "Han har fått sitt stora genombrott vid 30 års ålder. En av förklaringarna till att framgångarna har kommit nu ligger i Elias Ranefurs helt unika racket. – Jag började att experimentera, säger Elias Ranefur till SVT Sport."
+   "desc": "För 35 år sedan slog en grupp människor upp ett tältläger utanför Österåsen, Sollefteå. De strävade mot en annan typ av värld, men den naturromantiska drömmen sprack och deltagarna fann sig själva i en sekt, med mörka konsekvenser. Idag släpps de första två avsnitten i SVT:s dokumentärserie ”Hövdingen”. – Jag känner väldigt starkt för barnen som inte har valt att vara med i en sekt, säger producenten Eva Lövroth."
   },
   {
    "src": "STHLM",
@@ -124,10 +124,10 @@
   {
    "src": "BBC",
    "section": "United",
-   "title": "Man Utd midfield can't control games - Murphy",
-   "date": "2026-10-10T22:58:38.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Match of the Day pundit Danny Murphy looks at Manchester United's problems in midfield in their 1-1 draw against 10-man Tottenham."
+   "title": "Lammens wants rid of 'sour taste' of Spurs draw on Atletico trip",
+   "date": "2026-10-11T11:01:30.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx240170dp62o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United goalkeeper Senne Lammens cannot wait to face Atletico Madrid in the Champions League to get rid of the 'sour taste' of another Premier League disappointment."
   },
   {
    "src": "BBC",
@@ -140,7 +140,7 @@
   {
    "src": "BBC",
    "section": "United",
-   "title": "Boos, anguish & fading belief -'worrying day' for under-pressure Carrick",
+   "title": "Boos, anguish & fading belief - 'worrying day' for under-pressure Carrick",
    "date": "2026-10-10T20:54:46.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
    "desc": "It couldn't happen again could it? Another failure to beat 10 men increases pressure on Man Utd boss Michael Carrick after a 1-1 draw against Tottenham Hotspur."
