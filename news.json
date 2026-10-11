@@ -1,21 +1,29 @@
 {
- "updated": "2026-10-11T13:15:10.811Z",
+ "updated": "2026-10-11T18:15:57.987Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine strikes Russian data centre again despite Trump warning",
-   "date": "2026-10-11T12:50:46.000Z",
+   "title": "Saudi capital airport hit by second Houthi strike in two days",
+   "date": "2026-10-11T16:41:37.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+   "date": "2026-10-11T14:38:10.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
    "desc": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Pope Leo to have surgery after lump found on lung",
-   "date": "2026-10-11T12:52:38.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-   "desc": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
+   "title": "Poland detains man suspected of planning assassination of PM Tusk",
+   "date": "2026-10-11T17:27:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Police received credible information about possible attacks against Donald Tusk and his defence minister."
   },
   {
    "src": "BBC",
@@ -28,18 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-   "date": "2026-10-11T11:11:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-   "desc": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday."
+   "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+   "date": "2026-10-11T15:18:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+   "desc": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US justice department investigates TV networks over Trump pool coverage",
-   "date": "2026-10-11T05:05:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-   "desc": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Djurgårdens festplaner stoppas: ”Partykiller”",
+   "date": "2026-10-11T15:58:46.000Z",
+   "link": "https://www.svt.se/sport/fotboll/djurgardens-festplaner-stoppas-partykiller",
+   "desc": "Första derbysegern på ett bra tag. Då blir det ett vilt firande för Djurgården. Eller? – Nej, vi ska ingenstans, säger tränare Jani Honkavaara. – Han tar partykiller-rollen, säger Kristian Lien."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Zelenskyj beskrivs som en bråkmakare som förvärrar energikrisen”",
+   "date": "2026-10-11T15:49:14.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/zelenskyj-beskrivs-som-en-brakmakare-som-forvarrar-energikrisen",
+   "desc": "Trump verkar ha tröttnat på Zelenskyj – igen. Nu riskerar USA att slå undan Ukrainas viktigaste påtryckningsmedel mot Ryssland. Donald Trump är personligt investerad i rysk oljeproduktion. Oavsett om hans påstående om energivapenvila på söndagen stämmer, är den senaste amerikanska svängen det sista Ukraina behöver."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "Ett förrådstält vid Fäbodtjärnsgruvan i Vindelgranselse i Lycksele kommun började brinna på lördagskvällen. I tältet fanns kemikalier, och två brandmän behövde söka sjukvård efter att ha andats in giftig rök."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Jakt efter misstänkt skadeskjuten älg i Eksjö",
-   "date": "2026-10-11T09:00:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/skadeskjuten-alg-i-eksjo",
-   "desc": "En älg tog sig in i Eksjö under söndagsförmiddagen. Polis och kommunjägare fanns på plats."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Premiär för ”Hövdingen” – dokumentär om sekt i Sollefteå",
-   "date": "2026-10-11T05:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/premiar-for-hovdingen-dokumentar-om-sekt-i-solleftea",
-   "desc": "För 35 år sedan slog en grupp människor upp ett tältläger utanför Österåsen, Sollefteå. De strävade mot en annan typ av värld, men den naturromantiska drömmen sprack och deltagarna fann sig själva i en sekt, med mörka konsekvenser. Idag släpps de första två avsnitten i SVT:s dokumentärserie ”Hövdingen”. – Jag känner väldigt starkt för barnen som inte har valt att vara med i en sekt, säger producenten Eva Lövroth."
+   "title": "Stor demonstration i tunnelbanan efter virala avvisningen",
+   "date": "2026-10-11T16:38:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stor-demonstration-i-tunnelbanan-efter-virala-avvisningen",
+   "desc": "Efter att musikern William Sundman Sääf avvisats från tunnelbanan arrangerade han under söndagen en motprotest – och ett fyrtiotal personer dök upp. – Jag trodde bara att tio personer och min mamma skulle dyka upp, säger han."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-10T13:56:44.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvararen-i-sigtuna-fallet-en-kultur-och-tradition-som-vuxit-fram-over-tid",
    "desc": "Tre gymnasieelever vid internatskolan i Sigtuna har anhållits misstänkta för flera brott. Nu ger en av elevernas advokat sin bild av misstankarna. ”Det som har hänt behöver ses i ett större sammanhang”, skriver Elin Ternert, försvarsadvokat till SVT."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Elena, 78, lämnade allt för en kvinna: ”Jag grät ofta”",
-   "date": "2026-10-10T09:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/elena-78-lamnade-allt-for-en-kvinna-jag-grat-ofta",
-   "desc": "Under hösten får HBTQI-personer över 65 möjligheten att mötas och dela med sig av sina livshistorier. Skärholmens stadsförvaltning ligger bakom initiativet. – Ett utrymme att få vara sig själv, säger Ewa Söderlind, en av deltagarna."
   },
   {
    "src": "BBC",
