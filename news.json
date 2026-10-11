@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T21:05:48.426Z",
+ "updated": "2026-10-11T00:19:05.158Z",
  "items": [
   {
    "src": "BBC",
@@ -12,6 +12,22 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+   "date": "2026-10-10T22:40:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "desc": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+   "date": "2026-10-10T22:13:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+   "desc": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
    "date": "2026-10-10T20:51:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
@@ -20,26 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Several injured in attack on airport in Saudi capital Riyadh",
-   "date": "2026-10-10T18:37:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-   "desc": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
    "date": "2026-10-10T17:44:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
    "desc": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-   "date": "2026-10-10T19:08:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-   "desc": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
   },
   {
    "src": "SVT",
@@ -84,7 +84,7 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Brand i pizzeria i Snättringe",
+   "title": "Brand i pizzeria i Snättringe – tros vara anlagd",
    "date": "2026-10-10T20:34:54.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-i-pizzeria-i-snattringe",
    "desc": "Det brinner i en byggnad i Snättringe, Huddinge kommun, som inrymmer en pizzeria och ett mäklarkontor. Polisen misstänker att branden är anlagd."
@@ -124,6 +124,22 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Man Utd midfield can't control games - Murphy",
+   "date": "2026-10-10T22:58:38.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Match of the Day pundit Danny Murphy looks at Manchester United's problems in midfield in their 1-1 draw against 10-man Tottenham."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "'Unforgivable' - Man Utd fan on Carrick's decisions",
+   "date": "2026-10-10T21:21:54.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cj75pz27k7lyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd fan Beth Tucker believes that it is 'unforgivable' for Man Utd to have only taken one point from two games against ten men."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Boos, anguish & fading belief -'worrying day' for under-pressure Carrick",
    "date": "2026-10-10T20:54:46.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
@@ -144,22 +160,6 @@
    "date": "2026-10-09T14:54:21.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cqgm0yy99dv9o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United head coach Michael Carrick says he has his \"own questions\" on the Manchester City case, as calls continue for the club to be stripped of previous silverware."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "I've got my own questions on Man City case - Carrick",
-   "date": "2026-10-09T14:30:38.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Is £70m Baleba ready for his Man Utd exam?",
-   "date": "2026-10-09T07:57:23.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United's £70m summer signing Carlos Baleba is expected to make his debut against Tottenham Hotspur at Old Trafford"
   }
  ]
 }
