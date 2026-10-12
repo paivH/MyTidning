@@ -1,13 +1,29 @@
 {
- "updated": "2026-10-12T01:30:47.081Z",
+ "updated": "2026-10-12T08:31:51.483Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+   "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
    "date": "2026-10-11T21:36:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
    "desc": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+   "date": "2026-10-12T05:00:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump faces growing backlash over plans to import diesel from Russia",
+   "date": "2026-10-11T23:18:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+   "desc": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections."
   },
   {
    "src": "BBC",
@@ -20,66 +36,74 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Poland detains man suspected of planning assassination of PM Tusk",
-   "date": "2026-10-11T17:27:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Police received credible information about possible attacks against Donald Tusk and his defence minister."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-   "date": "2026-10-11T21:12:44.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Homes and bridges swept away as fresh floods hit Nepal",
-   "date": "2026-10-11T12:03:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing."
+   "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+   "date": "2026-10-11T23:13:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nordkorea avfyrade projektil",
-   "date": "2026-10-12T01:20:42.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/nordkorea-avfyrade-projektil",
-   "desc": "Nordkorea har avfyrat en projektil utanför sin östkust, mot Japanska havet, uppger Sydkoreas militär under natten mot måndagen, svensk tid."
+   "title": "Det som händer på färjan… Vilka historier bär du med dig från dina kryssningar?",
+   "date": "2026-10-12T07:41:11.000Z",
+   "link": "https://www.svt.se/nyheter/uutiset/svenska/det-som-hander-pa-farjan-vilka-historier-bar-du-med-dig-fran-dina-kryssningar",
+   "desc": "Färjan mellan Sverige och Finland är mer än ett transportmedel. Här ryms barndomsminnen, festkvällar, klasskillnader och känslan av att höra hemma mellan två länder. Vilka historier bär du med dig från dina kryssningar? Dela dem i chatten!"
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Burnham: Ryssland försökte påverka Brexit-omröstningen",
-   "date": "2026-10-12T01:10:09.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/burnham-ryssland-forsokte-paverka-brexit-omrostningen",
-   "desc": "Ryssland försökte påverka den brittiska folkomröstningen om Brexit 2016. Det säger Storbritanniens premiärminister Andy Burnham i en brittisk politikpodd, rapporterar flera medier."
+   "title": "Misstänkt skuggfartyg utanför Trelleborg tillåts lämna Sverige",
+   "date": "2026-10-12T06:55:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-skuggfartyg-tillats-lamna-sverige",
+   "desc": "Transportstyrelsen har hävt nyttjandeförbudet för tankfartyget Sea Owl 1, som tidigare i år bordades av Kustbevakningens utanför Trelleborg. Det innebär att det nu är fritt fram för fartyget att lämna Sverige."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bakom lyxvillans fasad – par misstänks för misshandel av minst 14 barn",
-   "date": "2026-10-11T23:21:16.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/bakom-lyxvillans-fasad-par-misstanks-for-misshandel-av-minst-14-barn",
-   "desc": "En man och en kvinna i Kalifornien misstänks för misshandel av minst 14 av sina 21 barn. Majoriteten av barnen är födda genom surrogatmödraskap – via en byrå som paret själva drev. – Dessa fruktansvärda övergrepp saknar motstycke, säger distriktåklagare Nathan J. Hochman."
+   "title": "Här snackar Carina Bergfeldt med Härnösandsborna om Brattåsmorden",
+   "date": "2026-10-12T06:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/har-snackar-carina-bergfeldt-med-harnosandsborna-om-brattasmorden",
+   "desc": "En del har levt med frustrationen över det ouppklarade dubbelmordet i över 20 år. Andra var inte ens födda när det skedde. Ändå har Brattåsmorden varit som ett öppet sår för de allra flesta Härnösandsbor, oavsett ålder. Carina Bergfeldt pratar med några av dem här i klippet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Egypten anklagas för dödlig attack mot guldgruva",
-   "date": "2026-10-11T18:42:21.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/egypten-anklagas-for-dodlig-attack-mot-guldgruva",
-   "desc": "Minst 72 personer dödades i ett luftangrepp mot en guldgruva vid gränsen mellan Sudan och Egypten, uppger en människorättsorganisation."
+   "title": "Zheng Qinwen sjöng för fansen efter första titeln på två år: ”Ett tufft år”",
+   "date": "2026-10-12T05:54:29.000Z",
+   "link": "https://www.svt.se/sport/tennis/zheng-qinwen-sjong-for-fansen-efter-forsta-titeln-pa-tva-ar-ett-tufft-ar",
+   "desc": "Den regerande OS-mästaren Zheng Qinwen vann finalen i storturneringen China Open inför hemmafansen i Peking. Som tack för stödet bjöd kinesiskan på sång."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Djurgårdens festplaner stoppas: ”Partykiller”",
-   "date": "2026-10-11T15:58:46.000Z",
-   "link": "https://www.svt.se/sport/fotboll/djurgardens-festplaner-stoppas-partykiller",
-   "desc": "Första derbysegern på ett bra tag. Då blir det ett vilt firande för Djurgården. Eller? – Nej, vi ska ingenstans, säger tränare Jani Honkavaara. – Han tar partykiller-rollen, säger Kristian Lien."
+   "title": "J-O Waldner visar: Så funkar Truls Möregårdh ”chopblock”",
+   "date": "2026-10-12T04:33:26.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/j-o-waldner-visar-sa-funkar-truls-moregardh-chopblock",
+   "desc": "Truls Möregårdh har gjort sig känd för den så kallade ”chopblocken”. Men vad är det för slag – och varför gör man det? – Det ska vara ett överraskningsslag, man ska inte göra det två-tre gånger i rad, säger SVT:s expert."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Trafikolycka i Sollentuna – en person till sjukhus med ambulans",
+   "date": "2026-10-12T05:43:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-pa-vag-267-stor-paverkan-mellan-rotebro-och-staket",
+   "desc": "En lastbil och en personbil har kolliderat på länsväg 267 mellan Rotebro och Kallhäll/Stäket. Föraren av personbilen fördes med ambulans till sjukhus."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt mordbrand i södra Stockholm – satte eld på lägenhetsdörr",
+   "date": "2026-10-12T04:24:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-sodra-stockholm-satte-eld-pa-lagenhetsdorr",
+   "desc": "Ett misstänkt brandattentat inträffade i natt i ett flerfamiljshus i Blåsut i södra Stockholm. En förundersökning om grov mordbrand har inletts."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "ABF kan stoppas från bidrag i Botkyrka – aktiviteter rapporterades dubbelt",
+   "date": "2026-10-12T03:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/abf-kan-stoppas-fran-bidrag-i-botkyrka-aktiviteter-rapporterades-dubbelt",
+   "desc": "En av ABF Södertörns medlemsorganisationer har rapporterat aktiviteter till både ABF och Botkyrka kommun. Nu måste ABF visa för kommunen hur detta ska undvikas i framtiden, annars kan de stoppas från bidrag. – Det här är allvarligt. Dubbelrapportering strider mot reglerna, säger Robert Aslan (Oberoende S), ordförande i kultur- och fritidsnämnden."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-10-10T20:34:54.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-i-pizzeria-i-snattringe",
    "desc": "Det brinner i en byggnad i Snättringe, Huddinge kommun, som inrymmer en pizzeria och ett mäklarkontor. Polisen misstänker att branden är anlagd."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 10 oktober",
-   "date": "2026-10-10T18:06:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-10-oktober-wsjphk",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om lördagen den 10 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Moped påkörd av minibuss – två till sjukhus",
-   "date": "2026-10-10T15:35:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/moped-pakord-av-minibuss-tva-till-sjukhus",
-   "desc": "Två unga kvinnor har förts till sjukhus med oklart skadeläge till följd av en trafikolycka på Söderbyleden i Haninge kommun. De två färdades på moped och blev påkörda av en minibuss."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Försvararen i Sigtuna-fallet: ”En kultur och tradition som vuxit fram över tid”",
-   "date": "2026-10-10T13:56:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvararen-i-sigtuna-fallet-en-kultur-och-tradition-som-vuxit-fram-over-tid",
-   "desc": "Tre gymnasieelever vid internatskolan i Sigtuna har anhållits misstänkta för flera brott. Nu ger en av elevernas advokat sin bild av misstankarna. ”Det som har hänt behöver ses i ett större sammanhang”, skriver Elin Ternert, försvarsadvokat till SVT."
   },
   {
    "src": "BBC",
