@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T22:14:41.162Z",
+ "updated": "2026-10-12T01:30:47.081Z",
  "items": [
   {
    "src": "BBC",
@@ -7,15 +7,15 @@
    "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
    "date": "2026-10-11T21:36:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment."
+   "desc": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Saudi capital airport hit by second Houthi strike in two days",
-   "date": "2026-10-11T21:30:11.000Z",
+   "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+   "date": "2026-10-11T22:45:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
+   "desc": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend."
   },
   {
    "src": "BBC",
@@ -44,6 +44,30 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Nordkorea avfyrade projektil",
+   "date": "2026-10-12T01:20:42.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/nordkorea-avfyrade-projektil",
+   "desc": "Nordkorea har avfyrat en projektil utanför sin östkust, mot Japanska havet, uppger Sydkoreas militär under natten mot måndagen, svensk tid."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Burnham: Ryssland försökte påverka Brexit-omröstningen",
+   "date": "2026-10-12T01:10:09.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/burnham-ryssland-forsokte-paverka-brexit-omrostningen",
+   "desc": "Ryssland försökte påverka den brittiska folkomröstningen om Brexit 2016. Det säger Storbritanniens premiärminister Andy Burnham i en brittisk politikpodd, rapporterar flera medier."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bakom lyxvillans fasad – par misstänks för misshandel av minst 14 barn",
+   "date": "2026-10-11T23:21:16.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/bakom-lyxvillans-fasad-par-misstanks-for-misshandel-av-minst-14-barn",
+   "desc": "En man och en kvinna i Kalifornien misstänks för misshandel av minst 14 av sina 21 barn. Majoriteten av barnen är födda genom surrogatmödraskap – via en byrå som paret själva drev. – Dessa fruktansvärda övergrepp saknar motstycke, säger distriktåklagare Nathan J. Hochman."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Egypten anklagas för dödlig attack mot guldgruva",
    "date": "2026-10-11T18:42:21.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/egypten-anklagas-for-dodlig-attack-mot-guldgruva",
@@ -56,30 +80,6 @@
    "date": "2026-10-11T15:58:46.000Z",
    "link": "https://www.svt.se/sport/fotboll/djurgardens-festplaner-stoppas-partykiller",
    "desc": "Första derbysegern på ett bra tag. Då blir det ett vilt firande för Djurgården. Eller? – Nej, vi ska ingenstans, säger tränare Jani Honkavaara. – Han tar partykiller-rollen, säger Kristian Lien."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "”Zelenskyj beskrivs som en bråkmakare som förvärrar energikrisen”",
-   "date": "2026-10-11T15:49:14.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/zelenskyj-beskrivs-som-en-brakmakare-som-forvarrar-energikrisen",
-   "desc": "Trump verkar ha tröttnat på Zelenskyj – igen. Nu riskerar USA att slå undan Ukrainas viktigaste påtryckningsmedel mot Ryssland. Donald Trump är personligt investerad i rysk oljeproduktion. Oavsett om hans påstående om energivapenvila på söndagen stämmer, är den senaste amerikanska svängen det sista Ukraina behöver."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Sora Matsushima segrare i China Smash – vrålar rakt ut",
-   "date": "2026-10-11T12:30:47.000Z",
-   "link": "https://www.svt.se/sport/bordtennis/sora-matsushima-segrare-i-china-smash-vralar-rakt-ut",
-   "desc": "Herrfinalen i China Smash avgjordes med skiljeset. Då drog världsettan Sora Matsushima på sig en varning inför sista matchbollen. – Oväntad dramatik, säger SVT:s kommentator Johan Ejeborg"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Gaza: Han flydde striderna vid gula linjen",
-   "date": "2026-10-11T12:21:11.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/gaza-han-flydde-striderna-vid-gula-linjen",
-   "desc": "Trots vapenvilan fortsätter attackerna i Gaza. SVT har verifierat hur israelisk militär flyttar fram sina trupper – samtidigt som Gazas invånare trängs ihop på en krympande yta. – Det är ofattbart trångt idag, säger Toby Fricker, talesperson för FN:s barnfond Unicef."
   },
   {
    "src": "STHLM",
