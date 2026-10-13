@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-12T11:10:46.816Z",
+ "updated": "2026-10-13T10:52:02.198Z",
  "items": [
   {
-   "ingredient": "morötter",
-   "idea": "Snabbpicklade morötter: koka 2 dl ättika 12%, 2 dl vatten, 1 dl socker, häll över stavar, klart på en timme."
+   "ingredient": "svartrot",
+   "idea": "Snabbpickla svartrot i 1:1:1 ättika, socker, vatten med senapsfrön – klar efter ett dygn i kylen."
   },
   {
    "ingredient": "kål",
-   "idea": "Fermentera kål som surkål: strimla, massera med 2% salt av vikten, packa hårt i burk, vänta tre veckor."
-  },
-  {
-   "ingredient": "pumpa",
-   "idea": "Snabb vardagsrätt: tärna pumpa, stek i smör med vitlök och salvia, toppa med fetaost, klart på 20 minuter."
+   "idea": "Fermentera strimlad vitkål med 2% salt i en vecka, pressa ner i burk till hemgjord surkål."
   },
   {
    "ingredient": "äpplen",
-   "idea": "Baka surdegsbröd med äppeltärningar och kanel i degen, servera varmt med smör en vardagskväll."
+   "idea": "Baka äppelbröd: riv äpple i degen med kanel och valnötter, ger saftigt frukostbröd."
+  },
+  {
+   "ingredient": "morötter",
+   "idea": "Stek morotsstavar i smör och spiskummin, 10 minuter – snabbt vardagstillbehör till middagen."
   }
  ]
 }
