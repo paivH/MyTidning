@@ -1,41 +1,41 @@
 {
- "updated": "2026-10-12T11:26:52.141Z",
+ "updated": "2026-10-13T11:16:05.073Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färsk laxfilé Norge",
-   "price": "89 kr/kg",
+   "item": "Svensk fläskkarré",
+   "price": "59 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma",
-   "price": "19 kr/kg",
+   "item": "Färsk laxfilé",
+   "price": "89 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Köttfärs nöt 500g",
-   "price": "39 kr",
+   "item": "Äpplen Ingrid Marie 2kg",
+   "price": "25 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Pumpa Hokkaido",
-   "price": "12 kr/st",
+   "item": "Kycklingfilé 1kg",
+   "price": "69 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
+   "item": "Köttbullar 1kg (fryst)",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Stearinljus 10-pack",
-   "price": "29 kr",
+   "item": "Stormljus LED 3-pack",
+   "price": "79 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
