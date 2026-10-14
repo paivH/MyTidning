@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T15:19:40.912Z",
+ "updated": "2026-10-14T19:33:34.072Z",
  "items": [
   {
    "src": "BBC",
@@ -12,18 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US inflation rises more than expected - here's what is happening with prices",
-   "date": "2026-10-14T13:40:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
+   "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+   "date": "2026-10-14T15:12:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+   "desc": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-   "date": "2026-10-14T11:17:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-   "desc": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
+   "title": "US inflation rises more than expected - here's what is happening with prices",
+   "date": "2026-10-14T15:26:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
   },
   {
    "src": "BBC",
@@ -36,50 +36,66 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Turkish police raid opposition TV station, halting live broadcasts",
-   "date": "2026-10-14T10:50:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-   "desc": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government."
+   "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+   "date": "2026-10-14T13:35:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+   "desc": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Pojken döms för dådet i Nykvarn – han fångas på video när bomben placeras ut",
-   "date": "2026-10-14T15:10:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/pojken-doms-for-dadet-i-nykvarn-han-fangas-pa-video-nar-bomben-placeras-ut",
-   "desc": "En 17-årig pojke döms till nio månaders sluten ungdomsvård efter en sprängning i mars mot en villa i Taxinge, utanför Nykvarn. Övervakningskamerorna fångade både förövaren och explosionen."
+   "title": "IK Uppsala lägger ned klubben efter säsongen",
+   "date": "2026-10-14T17:26:13.000Z",
+   "link": "https://www.svt.se/sport/fotboll/ik-uppsala-lagger-ner-klubben-efter-sasongen",
+   "desc": "Damallsvenska klubben IK Uppsala kommer med ett dystert besked. Tabelljumbon lägger ned klubben efter säsongen. – Det är tråkigt att det ska sluta så här, säger mittfältaren Tekla Höckert till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter chattskandalen i Alingsås: Så blir nya rödgröna styret",
-   "date": "2026-10-14T15:01:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/efter-chattskandalen-i-alingsas-sa-blir-nya-rodgrona-styret",
-   "desc": "Under onsdagen presenterades ett nytt majoritetsstyre i Alingsås, där S, V, MP och C ingår. Beskedet kommer ett och ett halvt år efter att den så kallade i chattskandalen biserade. Tidigare företrädare för två av partierna i det nya styret."
+   "title": "Lastbil i krock med häst och ryttare i Timrå",
+   "date": "2026-10-14T16:56:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/trafikolycka-med-hast-och-ryttare-utanfor-timra",
+   "desc": "Under onsdagskvällen kolliderade en lastbil med ett hästekipage i Laggarberg i Timrå kommun. Ryttaren fick föras med ambulans till sjukvård och hästen avlivades på plats."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "E45 söder om Rätan helt blockerad efter lastbilsolycka",
-   "date": "2026-10-14T14:32:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/e45-helt-blockerad-efter-lastbilsolycka",
-   "desc": "En lastbil med släp har vält på E45 mellan Rätan och Överhogdal och vägen är nu helt avstängd för trafik."
+   "title": "Lammkött styckades – i skolans slöjdsal i Uddevalla",
+   "date": "2026-10-14T15:53:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/lammkott-styckades-i-skolans-slojdsal-i-uddevalla",
+   "desc": "Personen ska ha tagit med sig lammkött och styckat det i skolans träslöjdssal i Uddevalla. Händelsen har väckt oro och föräldrar som SVT varit i kontakt med har krävt svar från skolan på frågor om hygien och säkerhet. – Min första känsla var förvåning. Det här ska inte förekomma i skolans lokaler, skriver skolans rektor i ett mejl till SVT."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hammarbys besked: Amin Boudri missar resten av säsongen",
-   "date": "2026-10-14T14:29:01.000Z",
-   "link": "https://www.svt.se/sport/fotboll/hammarbys-besked-amin-bodri-missar-resten-av-sasongen",
-   "desc": "I helgen torskade Hammarby derbyt mot Djurgården. Nu kommer nästa smäll – Amin Boudri har opererat knät och missar resten av säsongen, skriver klubben på sin hemsida."
+   "title": "SSAB:s vd om polisrazzian: Arbetarna har rätt att jobba här",
+   "date": "2026-10-14T15:47:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/ssabs-vd-om-polisrazzian-arbetarna-har-ratt-att-jobba-har",
+   "desc": "20 filippinska arbetare som blev satta i förvar efter en razzia mot SSAB i Oxelösund har rätt att arbeta i Sverige, det säger företagets vd Johnny Sjöström. – Vi håller inte med om de påståenden som florerat i medier."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Valp gick med brutet ben – kvinna misstänks ha vanvårdat 16 hundar",
-   "date": "2026-10-14T14:25:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/valp-gick-runt-med-brutet-ben-kvinna-misstanks-ha-vanvardat-16-hundar",
-   "desc": "En kvinna misstänks ha vanvårdat 16 hundar, varav minst 7 valpar, i en kommun i Västerbotten. Enligt åtalet hade flera av hundarna intorkad urin och avföring i pälsen – de flesta var magra. En valp gick runt med ett brutet bakben."
+   "title": "Här brister Truls Möregårdh ut i skratt – efter jättemissen",
+   "date": "2026-10-14T15:36:03.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/har-brister-truls-moregardh-ut-i-skratt-efter-jattemissen",
+   "desc": "Truls Möregårdh avancerade enkelt vidare i bordtennis-EM. Men stjärnan bjöd också på en ovanlig miss och brast ut i skratt. – Tur att jag vann det setet för annars hade jag fan varit lack på riktigt, säger han till SVT Sport."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 14 oktober",
+   "date": "2026-10-14T18:15:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-14-oktober-7cip3n",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om onsdagen den 14 oktober."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Fånge på rymmen från Svartsjöanstalten",
+   "date": "2026-10-14T16:10:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fange-pa-rymmen-fran-svartsjoanstalten",
+   "desc": "En man har rymt från Svartsjöanstalten utanför Ekerö. Polisen har jobbat intensivt med sökningsarbetet men ännu är mannen inte påträffad. – Sånt här svalnar med tiden, i nuläget går vi på olika tips säger Stockholmspolisens presstalesperson Mats Eriksson."
   },
   {
    "src": "STHLM",
@@ -87,7 +103,7 @@
    "title": "Man knivskuren i Sigtuna – misstänkt gripen",
    "date": "2026-10-14T14:23:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-knivskuren-i-sigtuna-misstankt-gripen",
-   "desc": "En man har knivskurits utanför en port i Sigtuna norr om Stockholm. Han har förts till sjukhus i helikopter, skriver polisen på sin sajt."
+   "desc": "En man har knivskurits utanför en port i Märsta i Sigtuna kommun norr om Stockholm. Han fördes till sjukhus i helikopter."
   },
   {
    "src": "STHLM",
@@ -103,23 +119,23 @@
    "title": "Polis utredde barnporrbrott – misstänktes själv",
    "date": "2026-10-14T13:34:54.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/polis-utredde-barnporrbrott-misstanktes-sjalv",
-   "desc": "Ett polisbefäl i Stockholm tilläts fortsätta arbeta med barnsexbrott i nära tre månader trots att han misstänkts för barnpornografibrott, skriver DN."
+   "desc": "Ett polisbefäl i Stockholm tilläts fortsätta arbeta med fall gällande sexualbrott mot barn i nära tre månader – trots att han själv misstänktes för barnpornografibrott, skriver DN."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bestiger Mount Everest – i Hammarbybacken",
-   "date": "2026-10-14T10:31:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bestiger-mount-everest-i-hammarbybacken",
-   "desc": "Många drömmer om att klättra upp för Mount Everest men för de allra flesta blir det aldrig verklighet. Chansen för utmaningen har dock breddats och nu har den tagits till Hammarbybacken."
+   "src": "BBC",
+   "section": "United",
+   "title": "Wilcox the target again in another damaging Man Utd fallout",
+   "date": "2026-10-14T15:30:03.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+   "desc": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Flera bilar i krock på E4 – köer mot Stockholm",
-   "date": "2026-10-14T04:50:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/flera-bilar-i-krock-pa-e4-langa-koer-cmvcer",
-   "desc": "Långa köer på E4 mot Stockholm efter att flera bilar kolliderat i höjd med Vårby."
+   "src": "BBC",
+   "section": "United",
+   "title": "'We expect more from the top' - Martinez hits out at Man Utd board",
+   "date": "2026-10-14T15:19:36.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmz7x0wl759qo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United defender Lisandro Martinez slams the club's board following their Champions League loss to Atletico Madrid, calling on technical director Jason Wilcox to have done more during the transfer window."
   },
   {
    "src": "BBC",
@@ -132,7 +148,7 @@
   {
    "src": "BBC",
    "section": "United",
-   "title": "Man United are hurting - Carrick",
+   "title": "Man Utd are hurting - Carrick",
    "date": "2026-10-14T09:39:04.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cqn73x7de63lo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United manager Michael Carrick says \"the boys are hurting\" after going five games without a win following a 2-0 defeat against Atletico Madrid in the Champions League."
@@ -144,22 +160,6 @@
    "date": "2026-10-14T07:29:58.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cq0ld0d4zpwno?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United fan speaks about the club's Champions League defeat and the uncertain times at the club right now."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Man Utd defender Martinez issues scathing attack on board",
-   "date": "2026-10-13T21:43:09.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Which Man Utd manager last won a Champions League away game?",
-   "date": "2026-10-13T16:25:21.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq9vzej02rzeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United fans on who their last manager was to win an away Champions League game, ahead of their fixture against Atletico Madrid."
   }
  ]
 }
