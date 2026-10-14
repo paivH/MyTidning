@@ -1,19 +1,27 @@
 {
- "updated": "2026-10-14T10:25:04.095Z",
+ "updated": "2026-10-14T15:19:40.912Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
-   "date": "2026-10-14T10:04:28.000Z",
+   "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+   "date": "2026-10-14T13:11:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-   "desc": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions."
+   "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US inflation rises more than expected - here's what is happening with prices",
+   "date": "2026-10-14T13:40:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-   "date": "2026-10-14T08:53:40.000Z",
+   "date": "2026-10-14T11:17:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
    "desc": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
   },
@@ -21,65 +29,89 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-   "date": "2026-10-14T09:32:54.000Z",
+   "date": "2026-10-14T13:41:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-   "desc": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Saudi employee charged with planting recording device in OpenAI office",
-   "date": "2026-10-13T21:42:49.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
+   "desc": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Turkish police raid opposition TV station, halting live broadcasts",
-   "date": "2026-10-14T10:07:02.000Z",
+   "date": "2026-10-14T10:50:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
    "desc": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man knuffades ner i vattnet på Gotland – 42-åring döms",
-   "date": "2026-10-14T09:44:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/man-knuffades-ner-i-vattnet-pa-gotland-42-aring-doms",
-   "desc": "En 42-årig man döms av Gotlands tingsrätt för vållande till annans död efter en händelse i Klintehamns småbåtshamn i juni. Åklagaren hade i första hand åtalat honom för mord."
+   "title": "Pojken döms för dådet i Nykvarn – han fångas på video när bomben placeras ut",
+   "date": "2026-10-14T15:10:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/pojken-doms-for-dadet-i-nykvarn-han-fangas-pa-video-nar-bomben-placeras-ut",
+   "desc": "En 17-årig pojke döms till nio månaders sluten ungdomsvård efter en sprängning i mars mot en villa i Taxinge, utanför Nykvarn. Övervakningskamerorna fångade både förövaren och explosionen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ebba Anderssons oro över Therese Johaugs OS-satsning",
-   "date": "2026-10-14T09:43:12.000Z",
-   "link": "https://www.svt.se/sport/friidrott/ebba-anderssons-oro-over-therese-johaugs-os-satsning",
-   "desc": "Therese Johaug har öppnat för att eventuellt göra en satsning mot OS 2028 i maraton. De svenska stjärnorna är imponerade – men höjer också ett varningens finger. – Hoppas kroppen hennes håller för det. Längdskidåkning är mer skonsamt, så är hennes kropp tillräckligt tålig? frågar sig Ebba Andersson."
+   "title": "Efter chattskandalen i Alingsås: Så blir nya rödgröna styret",
+   "date": "2026-10-14T15:01:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/efter-chattskandalen-i-alingsas-sa-blir-nya-rodgrona-styret",
+   "desc": "Under onsdagen presenterades ett nytt majoritetsstyre i Alingsås, där S, V, MP och C ingår. Beskedet kommer ett och ett halvt år efter att den så kallade i chattskandalen biserade. Tidigare företrädare för två av partierna i det nya styret."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Vinnaren i Jamskmellon: ”Jag fick till det rätt så bra”",
-   "date": "2026-10-14T09:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/vinnaren-i-jamskmellon-jag-fick-till-det-ratt-sa-bra",
-   "desc": "Ulla Wrethagen, ursprungligen från Hammerdal men bosatt i Stockholm, blev den första vinnaren i Jamskmellon. Hennes grupp Ulla å kærestan vann med låten Vejen öve Hammerdal. Det fullsatta Trångsvikens bygdegård utsåg Linda Forss med låten De e nagå ma deg till publikens favorit."
+   "title": "E45 söder om Rätan helt blockerad efter lastbilsolycka",
+   "date": "2026-10-14T14:32:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/e45-helt-blockerad-efter-lastbilsolycka",
+   "desc": "En lastbil med släp har vält på E45 mellan Rätan och Överhogdal och vägen är nu helt avstängd för trafik."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Wisemanledare värvade unga till huliganfirma – döms till fem månaders fängelse",
-   "date": "2026-10-14T09:25:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/wisemanledare-varvade-unga-till-huliganfirma-doms-till-fem-manaders-fangelse",
-   "desc": "En man i 35-årsåldern rekryterade ungdomar mellan 16-19 år till huliganfirman Wisemen. Nu döms han för involverande av underårig i brottslighet."
+   "title": "Hammarbys besked: Amin Boudri missar resten av säsongen",
+   "date": "2026-10-14T14:29:01.000Z",
+   "link": "https://www.svt.se/sport/fotboll/hammarbys-besked-amin-bodri-missar-resten-av-sasongen",
+   "desc": "I helgen torskade Hammarby derbyt mot Djurgården. Nu kommer nästa smäll – Amin Boudri har opererat knät och missar resten av säsongen, skriver klubben på sin hemsida."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Trump: Redo att söka efter olja på Grönland",
-   "date": "2026-10-14T09:23:02.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/trump-redo-att-soka-efter-olja-pa-gronland",
-   "desc": "USA är redo att leta efter olja, gas och mineraler på Grönland. Det skriver Donald Trump på Truth Social om ”vårt nya och vackra Grönland”. – Jag förmodar att danskarna och grönländarna gnisslar tänderna lite, säger USA-forskaren Jan Hallenberg."
+   "title": "Valp gick med brutet ben – kvinna misstänks ha vanvårdat 16 hundar",
+   "date": "2026-10-14T14:25:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/valp-gick-runt-med-brutet-ben-kvinna-misstanks-ha-vanvardat-16-hundar",
+   "desc": "En kvinna misstänks ha vanvårdat 16 hundar, varav minst 7 valpar, i en kommun i Västerbotten. Enligt åtalet hade flera av hundarna intorkad urin och avföring i pälsen – de flesta var magra. En valp gick runt med ett brutet bakben."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Man knivskuren i Sigtuna – misstänkt gripen",
+   "date": "2026-10-14T14:23:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-knivskuren-i-sigtuna-misstankt-gripen",
+   "desc": "En man har knivskurits utanför en port i Sigtuna norr om Stockholm. Han har förts till sjukhus i helikopter, skriver polisen på sin sajt."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Polisen gör nytt tillslag på Sigtunaskolan",
+   "date": "2026-10-14T14:17:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisen-gor-nytt-tillslag-pa-sigtunaskolan",
+   "desc": "Tre elever i 18-årsåldern har häktats misstänkta för flera grova brott. Under onsdagen har polisen återvänt till internatskolan i en ny insats."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Polis utredde barnporrbrott – misstänktes själv",
+   "date": "2026-10-14T13:34:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polis-utredde-barnporrbrott-misstanktes-sjalv",
+   "desc": "Ett polisbefäl i Stockholm tilläts fortsätta arbeta med barnsexbrott i nära tre månader trots att han misstänkts för barnpornografibrott, skriver DN."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Bestiger Mount Everest – i Hammarbybacken",
+   "date": "2026-10-14T10:31:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bestiger-mount-everest-i-hammarbybacken",
+   "desc": "Många drömmer om att klättra upp för Mount Everest men för de allra flesta blir det aldrig verklighet. Chansen för utmaningen har dock breddats och nu har den tagits till Hammarbybacken."
   },
   {
    "src": "STHLM",
@@ -90,36 +122,12 @@
    "desc": "Långa köer på E4 mot Stockholm efter att flera bilar kolliderat i höjd med Vårby."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bandidoskopplad man sköts ihjäl i Hagsätra – skytten döms till livstids fängelse",
-   "date": "2026-10-14T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bandidoskopplad-man-skots-ihjal-i-hagsatra-nu-kommer-domen",
-   "desc": "En man i 45-årsåldern sköts ihjäl med flera skott i Hagsätra i Stockholm. I dag kom domen där fem personer dömdes för inblandning i mordet. Skytten, som erkänt, får livstids fängelse."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 13 oktober.",
-   "date": "2026-10-13T17:48:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-13-oktober-33iyo6",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om tisdagen den 13 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinna gripen i Danderyd – försökte köra över man efter bråk",
-   "date": "2026-10-13T17:34:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-gripen-i-danderyd-forsokte-kora-over-man-efter-brak",
-   "desc": "Ett bråk bröt ut mellan en kvinna och en man i Danderyd. Kvinnan ska därefter ha satt sig i en bil och försökt köra på mannen, men istället kört in i ett par stenar så motorhuven börjat ryka. – Hon fick åka med oss till stationen istället för sjukhuset, säger Marcus Björling, presstalesperson på Stockholmspolisen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Förfallna husen i Vårberg tvångsförvaltas inte",
-   "date": "2026-10-13T09:07:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forfallna-husen-i-varberg-tvangsforvaltas-inte",
-   "desc": "I dag kom Svea hovrätts dom där frågan om tvångsförvaltning av flera fastigheter i Vårbergs centrum avgjordes. Fastigheterna kommer inte att tvångsförvaltas. –Jag tycker det är väldigt tråkigt, säger Ivica Buco som bor i ett av hyreshusen."
+   "src": "BBC",
+   "section": "United",
+   "title": "Why did Martinez call out Man Utd hierarchy?",
+   "date": "2026-10-14T11:56:59.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmvg7ngy2dqdo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United defender Lisandro Martinez said he had \"expected more\" investment in the squad over the summer, following Tuesday's 2-0 defeat by Atletico Madrid in the Champions League."
   },
   {
    "src": "BBC",
@@ -128,14 +136,6 @@
    "date": "2026-10-14T09:39:04.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cqn73x7de63lo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United manager Michael Carrick says \"the boys are hurting\" after going five games without a win following a 2-0 defeat against Atletico Madrid in the Champions League."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "The boys are hurting - Carrick",
-   "date": "2026-10-14T08:36:24.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cx4g12n0m437o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United manager Michael Carrick says the players are hurting following their 2-0 defeat to Atletico Madrid in the UEFA Champions League."
   },
   {
    "src": "BBC",
