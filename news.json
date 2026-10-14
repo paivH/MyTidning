@@ -1,13 +1,21 @@
 {
- "updated": "2026-10-14T19:33:34.072Z",
+ "updated": "2026-10-14T22:57:10.539Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-   "date": "2026-10-14T13:11:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-   "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets."
+   "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+   "date": "2026-10-14T20:55:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Student protesters attack government buildings in Tirana",
+   "date": "2026-10-14T20:29:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest."
   },
   {
    "src": "BBC",
@@ -34,12 +42,12 @@
    "desc": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-   "date": "2026-10-14T13:35:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-   "desc": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tung svenskkväll på bordtennis-EM: ”Skittråkigt”",
+   "date": "2026-10-14T20:19:26.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/tung-svenskkvall-pa-bordtennis-em-skittrakigt",
+   "desc": "Det var en tung kväll i singelspelet för de svenska bordtennisdamerna på EM. Både Stina Källberg och Filippa Bergand är utslagna. – Skittråkigt såklart men just nu är jag bara så jävla trött så jag kan inte ens tänka, säger Bergand till SVT Sport."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-10-14T15:47:46.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/ssabs-vd-om-polisrazzian-arbetarna-har-ratt-att-jobba-har",
    "desc": "20 filippinska arbetare som blev satta i förvar efter en razzia mot SSAB i Oxelösund har rätt att arbeta i Sverige, det säger företagets vd Johnny Sjöström. – Vi håller inte med om de påståenden som florerat i medier."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här brister Truls Möregårdh ut i skratt – efter jättemissen",
-   "date": "2026-10-14T15:36:03.000Z",
-   "link": "https://www.svt.se/sport/bordtennis/har-brister-truls-moregardh-ut-i-skratt-efter-jattemissen",
-   "desc": "Truls Möregårdh avancerade enkelt vidare i bordtennis-EM. Men stjärnan bjöd också på en ovanlig miss och brast ut i skratt. – Tur att jag vann det setet för annars hade jag fan varit lack på riktigt, säger han till SVT Sport."
   },
   {
    "src": "STHLM",
@@ -124,6 +124,22 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Martinez outburst came out of 'anger and frustration'",
+   "date": "2026-10-14T22:42:02.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United defender Lisandro Martinez says he \"spoke out of anger and frustration\" when launching a scathing attack on the club's hierarchy."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Yoro sent off as Man Utd stumble to defeat against Atletico Madrid",
+   "date": "2026-10-14T21:00:34.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United's winless run stretches to five matches, as they're beaten 2-0 by Atletico Madrid in the Champions League, in a match which saw them concede in the opening minute before ending the game with ten men after Leny Yoro was sent off."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Wilcox the target again in another damaging Man Utd fallout",
    "date": "2026-10-14T15:30:03.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
@@ -144,22 +160,6 @@
    "date": "2026-10-14T11:56:59.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cmvg7ngy2dqdo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United defender Lisandro Martinez said he had \"expected more\" investment in the squad over the summer, following Tuesday's 2-0 defeat by Atletico Madrid in the Champions League."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Man Utd are hurting - Carrick",
-   "date": "2026-10-14T09:39:04.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqn73x7de63lo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United manager Michael Carrick says \"the boys are hurting\" after going five games without a win following a 2-0 defeat against Atletico Madrid in the Champions League."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Why Lisandro Martinez's comments could divide Man Utd fans",
-   "date": "2026-10-14T07:29:58.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq0ld0d4zpwno?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United fan speaks about the club's Champions League defeat and the uncertain times at the club right now."
   }
  ]
 }
