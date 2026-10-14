@@ -1,13 +1,29 @@
 {
- "updated": "2026-10-13T21:23:46.203Z",
+ "updated": "2026-10-14T00:27:17.593Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-   "date": "2026-10-13T20:46:06.000Z",
+   "date": "2026-10-14T00:17:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
    "desc": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+   "date": "2026-10-13T21:42:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+   "date": "2026-10-13T23:42:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+   "desc": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany."
   },
   {
    "src": "BBC",
@@ -21,25 +37,9 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-   "date": "2026-10-13T20:02:15.000Z",
+   "date": "2026-10-13T22:29:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
    "desc": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-   "date": "2026-10-13T19:51:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-   "desc": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-   "date": "2026-10-13T18:25:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-   "desc": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe."
   },
   {
    "src": "SVT",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+   "date": "2026-10-13T21:43:09.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Which Man Utd manager last won a Champions League away game?",
    "date": "2026-10-13T16:25:21.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cq9vzej02rzeo?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "date": "2026-10-11T11:01:30.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cx240170dp62o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United goalkeeper Senne Lammens cannot wait to face Atletico Madrid in the Champions League to get rid of the 'sour taste' of another Premier League disappointment."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'Unforgivable' - Man Utd fan on Carrick's decisions",
-   "date": "2026-10-10T21:21:54.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cj75pz27k7lyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd fan Beth Tucker believes that it is 'unforgivable' for Man Utd to have only taken one point from two games against ten men."
   }
  ]
 }
