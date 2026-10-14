@@ -1,18 +1,34 @@
 {
- "updated": "2026-10-14T05:13:10.237Z",
+ "updated": "2026-10-14T10:25:04.095Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-   "date": "2026-10-14T00:17:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-   "desc": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
+   "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+   "date": "2026-10-14T10:04:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+   "desc": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+   "date": "2026-10-14T08:53:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+   "desc": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+   "date": "2026-10-14T09:32:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+   "desc": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Saudi employee charged with planting recording device in OpenAI office",
    "date": "2026-10-13T21:42:49.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
    "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
@@ -20,66 +36,50 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-   "date": "2026-10-13T23:42:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-   "desc": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-   "date": "2026-10-13T15:52:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-   "desc": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-   "date": "2026-10-14T04:20:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
+   "title": "Turkish police raid opposition TV station, halting live broadcasts",
+   "date": "2026-10-14T10:07:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+   "desc": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bauhausgalan skräddarsyr lopp – för Andreas Almgren: ”Kan gå till historien”",
-   "date": "2026-10-14T05:00:05.000Z",
-   "link": "https://www.svt.se/sport/friidrott/bauhausgalan-skraddarsyr-lopp-for-andreas-almgren-kan-ga-till-historien",
-   "desc": "Förra året bjöd Andreas Almgren på en magisk kväll på Stockholms stadion. Nu vill han återskapa magin – när Bauhaus-galan nästa år satsar stort på 10 000 meter med ett lopp skräddarsytt för den svenske löparstjärnan. – Jag tror att det här kan bli ett lopp som går till historien, säger han till SVT Sport."
+   "title": "Man knuffades ner i vattnet på Gotland – 42-åring döms",
+   "date": "2026-10-14T09:44:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/man-knuffades-ner-i-vattnet-pa-gotland-42-aring-doms",
+   "desc": "En 42-årig man döms av Gotlands tingsrätt för vållande till annans död efter en händelse i Klintehamns småbåtshamn i juni. Åklagaren hade i första hand åtalat honom för mord."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Smilla Sundell klar för UFC efter seger",
-   "date": "2026-10-14T04:56:02.000Z",
-   "link": "https://www.svt.se/sport/mma/smilla-sundell-klar-for-ufc-efter-seger",
-   "desc": "Redan för 1,5 år sedan var planen klar: Supertalangen Smilla Sundell skulle lämna thaiboxning för MMA. Nu har hon nått hela vägen – svenskan har säkrat ett kontrakt i UFC. – Det känns väldigt, väldigt bra. Jag är jätteglad. Drömmen blev sann, säger svenskan till Sportbladet."
+   "title": "Ebba Anderssons oro över Therese Johaugs OS-satsning",
+   "date": "2026-10-14T09:43:12.000Z",
+   "link": "https://www.svt.se/sport/friidrott/ebba-anderssons-oro-over-therese-johaugs-os-satsning",
+   "desc": "Therese Johaug har öppnat för att eventuellt göra en satsning mot OS 2028 i maraton. De svenska stjärnorna är imponerade – men höjer också ett varningens finger. – Hoppas kroppen hennes håller för det. Längdskidåkning är mer skonsamt, så är hennes kropp tillräckligt tålig? frågar sig Ebba Andersson."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Brist på förare – då kör lastbilarna själva",
-   "date": "2026-10-14T04:22:29.000Z",
-   "link": "https://www.svt.se/nyheter/ekonomi/brist-pa-forare-da-kor-lastbilarna-sjalva",
-   "desc": "Det är svårt att locka unga till yrket som lastbilsförare. Tillverkarna ser lösningen i självkörande lastbilar, och i USA är det bara månader kvar innan Volvos lastbilar kör helt utan förare på allmänna vägar."
+   "title": "Vinnaren i Jamskmellon: ”Jag fick till det rätt så bra”",
+   "date": "2026-10-14T09:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/vinnaren-i-jamskmellon-jag-fick-till-det-ratt-sa-bra",
+   "desc": "Ulla Wrethagen, ursprungligen från Hammerdal men bosatt i Stockholm, blev den första vinnaren i Jamskmellon. Hennes grupp Ulla å kærestan vann med låten Vejen öve Hammerdal. Det fullsatta Trångsvikens bygdegård utsåg Linda Forss med låten De e nagå ma deg till publikens favorit."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "SVT/Verian: MP ökar i första mätningen efter valet",
-   "date": "2026-10-14T03:48:05.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/svtverian-mp-okar-i-forsta-matningen-efter-valet",
-   "desc": "Miljöpartiet ökar i den första opinionsmätningen efter valet, samtidigt som Moderaterna fortsätter att stärkas. Det visar SVT/Verians väljarbarometer för oktober. – Det är möjligt att MP har gynnats av sin återhållsamma roll i regeringsbildningen, säger Per Söderpalm, opinionsansvarig på Verian."
+   "title": "Wisemanledare värvade unga till huliganfirma – döms till fem månaders fängelse",
+   "date": "2026-10-14T09:25:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/wisemanledare-varvade-unga-till-huliganfirma-doms-till-fem-manaders-fangelse",
+   "desc": "En man i 35-årsåldern rekryterade ungdomar mellan 16-19 år till huliganfirman Wisemen. Nu döms han för involverande av underårig i brottslighet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "De vill stoppa bygget av ny kärnkraft vid Studsvik",
-   "date": "2026-10-14T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/de-vill-stoppa-bygget-av-ny-karnkraft-vid-studsvik",
-   "desc": "Stora naturvärden skulle gå förlorade om det blir verklighet av planerna på ny kärnkraft vid Studsvik. Det menar företrädare för det nystartade lokala nätverket Rädda Sörmlandskusten. – Vi tycker inte att man ska exploatera i vår fantastiska Sörmlandskust, säger medgrundaren Linda Östling."
+   "title": "Trump: Redo att söka efter olja på Grönland",
+   "date": "2026-10-14T09:23:02.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/trump-redo-att-soka-efter-olja-pa-gronland",
+   "desc": "USA är redo att leta efter olja, gas och mineraler på Grönland. Det skriver Donald Trump på Truth Social om ”vårt nya och vackra Grönland”. – Jag förmodar att danskarna och grönländarna gnisslar tänderna lite, säger USA-forskaren Jan Hallenberg."
   },
   {
    "src": "STHLM",
@@ -92,10 +92,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Bandidoskopplad man sköts ihjäl i Hagsätra – nu kommer domen",
+   "title": "Bandidoskopplad man sköts ihjäl i Hagsätra – skytten döms till livstids fängelse",
    "date": "2026-10-14T03:30:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/bandidoskopplad-man-skots-ihjal-i-hagsatra-nu-kommer-domen",
-   "desc": "En man i 45-årsåldern sköts ihjäl med flera skott i Hagsätra i Stockholm. I dag väntas domen där sju personer står åtalade misstänkta för inblandning i mordet."
+   "desc": "En man i 45-årsåldern sköts ihjäl med flera skott i Hagsätra i Stockholm. I dag kom domen där fem personer dömdes för inblandning i mordet. Skytten, som erkänt, får livstids fängelse."
   },
   {
    "src": "STHLM",
@@ -124,7 +124,31 @@
   {
    "src": "BBC",
    "section": "United",
-   "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+   "title": "Man United are hurting - Carrick",
+   "date": "2026-10-14T09:39:04.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqn73x7de63lo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United manager Michael Carrick says \"the boys are hurting\" after going five games without a win following a 2-0 defeat against Atletico Madrid in the Champions League."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "The boys are hurting - Carrick",
+   "date": "2026-10-14T08:36:24.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cx4g12n0m437o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United manager Michael Carrick says the players are hurting following their 2-0 defeat to Atletico Madrid in the UEFA Champions League."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Why Lisandro Martinez's comments could divide Man Utd fans",
+   "date": "2026-10-14T07:29:58.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq0ld0d4zpwno?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United fan speaks about the club's Champions League defeat and the uncertain times at the club right now."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Man Utd defender Martinez issues scathing attack on board",
    "date": "2026-10-13T21:43:09.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss",
    "desc": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League."
@@ -136,30 +160,6 @@
    "date": "2026-10-13T16:25:21.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cq9vzej02rzeo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United fans on who their last manager was to win an away Champions League game, ahead of their fixture against Atletico Madrid."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Is Man Utd's Fernandes issue a symptom or reason for their form?",
-   "date": "2026-10-13T05:47:49.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United skipper Bruno Fernandes is yet to reach the highs of last season - is it because of his side's poor start or the reason for it?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'We want to be part of something successful' - Carrick",
-   "date": "2026-10-12T20:56:47.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmkge20yywrzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United manager Michael Carrick says he doesn't feel the pressure that he and his team are under, following Manchester United's worst start to a league season in 40 years."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Lammens wants rid of 'sour taste' of Spurs draw on Atletico trip",
-   "date": "2026-10-11T11:01:30.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cx240170dp62o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United goalkeeper Senne Lammens cannot wait to face Atletico Madrid in the Champions League to get rid of the 'sour taste' of another Premier League disappointment."
   }
  ]
 }
