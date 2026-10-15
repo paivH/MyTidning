@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-14T22:57:10.539Z",
+ "updated": "2026-10-15T01:16:20.186Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+   "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
    "date": "2026-10-14T20:55:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
    "desc": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
@@ -12,10 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Student protesters attack government buildings in Tirana",
+   "title": "Student protesters attack government buildings in Albania",
    "date": "2026-10-14T20:29:05.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest."
+   "desc": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects."
   },
   {
    "src": "BBC",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "'Players won't like it' - Martinez apologises, but is the damage done?",
+   "date": "2026-10-14T23:13:53.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cw2409qg6pe0o?at_medium=RSS&at_campaign=rss",
+   "desc": "Champions League Match of the Day pundits Nedum Onuoha, Stephen Warnock, and Rory Smith analyse Lisandro Martinez's comments following Manchester United's 2-0 loss to Atletico Madrid and the impact they'll have on the club."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Martinez outburst came out of 'anger and frustration'",
    "date": "2026-10-14T22:42:02.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "date": "2026-10-14T15:19:36.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cmz7x0wl759qo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United defender Lisandro Martinez slams the club's board following their Champions League loss to Atletico Madrid, calling on technical director Jason Wilcox to have done more during the transfer window."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Why did Martinez call out Man Utd hierarchy?",
-   "date": "2026-10-14T11:56:59.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmvg7ngy2dqdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United defender Lisandro Martinez said he had \"expected more\" investment in the squad over the summer, following Tuesday's 2-0 defeat by Atletico Madrid in the Champions League."
   }
  ]
 }
