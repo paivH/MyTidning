@@ -1,42 +1,42 @@
 {
- "updated": "2026-10-14T09:07:34.036Z",
+ "updated": "2026-10-15T08:40:50.124Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
+   "item": "Färsk laxfilé Norge",
+   "price": "89 kr/kg",
+   "url": "https://www.ica.se"
+  },
+  {
+   "store": "ICA",
+   "item": "Äpplen Ingrid Marie Sverige",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Butternut squash",
-   "price": "14 kr/st",
+   "item": "Köttfärs nöt/fläsk 800g",
+   "price": "49 kr",
    "url": "https://www.lidl.se"
   },
   {
-   "store": "ICA",
-   "item": "Kycklingfilet Kronfågel 900g",
-   "price": "69 kr",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "Rusta",
-   "item": "Stormljus utomhus 3-pack",
-   "price": "79 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Rostade kastanjer 300g",
+   "price": "19 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (frysta)",
+   "item": "Köttbullar 1kg fryst",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Lidl",
-   "item": "Rotfruktsmix Sverige 1kg",
-   "price": "15 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Stearinljus doftade höst 4-pack",
+   "price": "39 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
