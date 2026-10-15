@@ -1,19 +1,27 @@
 {
- "updated": "2026-10-15T16:14:08.626Z",
+ "updated": "2026-10-15T19:57:39.199Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-   "date": "2026-10-15T15:52:10.000Z",
+   "date": "2026-10-15T17:47:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
    "desc": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years."
   },
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+   "date": "2026-10-15T17:18:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+   "desc": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-   "date": "2026-10-15T15:09:15.000Z",
+   "date": "2026-10-15T16:50:18.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
    "desc": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
   },
@@ -28,58 +36,58 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-   "date": "2026-10-15T10:05:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-   "desc": "Residents have been told to avoid leaving their homes unless absolutely necessary."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-   "date": "2026-10-15T14:51:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-   "desc": "A search and rescue operation is under way in the Black Sea after the latest attack in the area."
+   "title": "Maduro pleads not guilty to new torture-related charges in New York",
+   "date": "2026-10-15T16:52:44.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+   "desc": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Två uppges döda efter attack mot presidentpalats i Jemen",
-   "date": "2026-10-15T15:44:44.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/tva-uppges-doda-efter-attack-mot-presidentpalats-i-jemen",
-   "desc": "Huthirebellerna uppges ha avfyrat flera missiler mot presidentpalatset i staden Aden i Jemen på torsdagen. Två personer ska ha dödats, uppger regeringskällor för Reuters."
+   "title": "Mjällby vann klubbens första Europamatch i historien",
+   "date": "2026-10-15T18:35:33.000Z",
+   "link": "https://www.svt.se/sport/fotboll/mjallby-vann-klubbens-forsta-europamatch-i-historien",
+   "desc": "Kris inrikes – historisk första seger utrikes. Sannerligen vitt skilda världar för Mjällby som vann klubbens första Europamatch i historien. – Jag är stolt över alla, säger Jacob Bergström till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lång väntan på pengar från Rally Sweden – oro i Vännäs MK: ”Har muttrats”",
-   "date": "2026-10-15T14:34:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/lang-vantan-pa-pengar-fran-rally-sweden-oro-i-vannas-mk-har-muttrats",
-   "desc": "Föreningen Vännäs MK fick vänta ett halvår på att Rally Sweden skulle betala dem för delar av det arbete som klubben utfört under VM-rallyt i februari 2026. Nu diskuteras förskottsbetalning inför nästa års rally. – Det har muttrats lite om att vi ska börja jobba med 2027 när vi inte har fått betalt för årets arbete ännu, säger Jonas Sundqvist från Vännäs MK."
+   "title": "Totaldominant Truls Möregårdh vidare på EM: ”Det är utklassning”",
+   "date": "2026-10-15T18:34:09.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/totaldominant-truls-moregardh-vidare-pa-em-det-ar-utklassning",
+   "desc": "Truls Möregårdh totaldominerade. Stjärnan är vidare till åttondelsfinal på bordtennis-EM efter 4–0 i set mot Andre Bertelsmeier. – Det känns bra, jag spelar bra, jag är bra, säger Möregårdh till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nu stängs Vildmarksvägen för vintern",
-   "date": "2026-10-15T14:25:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/nu-stangs-vildmarksvagen-for-vintern-jfmrui",
-   "desc": "Under torsdagen stängs Vildmarksvägen för vintern. Bommarna fälls vid Karitjärn och Saxån, och Sveriges högst belägna asfalterade väg blir inte längre farbar med bil."
+   "title": "Störd av skada – men Kristian Karlsson vidare i bordtennis-EM",
+   "date": "2026-10-15T17:56:53.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/stord-av-skada-men-kristian-karlsson-vidare-i-bordtennis-em",
+   "desc": "Han hade märkbart ont men tog sig vidare ändå. En skada i vänster arm oroar Kristian Karlsson inför fortsättningen av bordtennis-EM. – Jag ska ha så mycket smärtstillande i mig att det skulle kunna döda en liten elefant, säger han till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nu packar Bo ihop – en av de sista att lämna Björnö camping",
-   "date": "2026-10-15T14:15:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/bo-packar-ihop-sina-saker-en-av-de-sista-att-lamna-bjorno-camping",
-   "desc": "Snart är campingen på Björnö i Västerås tömd på boende. Bo Jireteg är en av alla heltidsboende som nu packar ihop sina ägodelar, inför den framtvingade flytten. – Jag tycker det är förjävligt. Visst behövs en uppgradering, men inte de fantasier kommunen har om en lyxcamping, säger Bo Jireteg."
+   "title": "Ragundas nya styre valt – Anders Ljung (C) blir kommunalråd",
+   "date": "2026-10-15T17:41:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ragundas-nya-styre-valt-anders-ljung-c-blir-kommunalrad",
+   "desc": "Centerpartiets Anders Ljung från Bispgården valdes till ny ordförande i kommunstyrelsen i Ragunda nu på torsdagskvällen. Han fick 14 röster och Socialdemokraternas Anton Hammar fick 11."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lastbilen lämnade Strömsundsbron efter nästan  16 dygn",
-   "date": "2026-10-15T14:02:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/lastbilen-lamnade-stromsundsbron-efter-nastan-16-dygn",
-   "desc": "Efter lång förberedelse och 96 stora betongblock på Strömsundsbron var det dags – den 100 ton tunga transporten skulle köras av Strömsundsbron."
+   "title": "Uppgifter: Polisen stoppas när Migrationsverkets förvar är fulla",
+   "date": "2026-10-15T17:21:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/uppgifter-polisen-stoppas-nar-migrationsverkets-forvar-ar-fulla",
+   "desc": "Polisen har fått ställa in vad de kallar en gränspolisiär insats eftersom migrationsverkets förvar är fulla. Det rapporterar Aftonbladet. Enhetschefen på förvaret i Flen, Robert Ljungkvist, bekräftar bilden. – Det påverkar deras insatser, säger han."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 15 oktober",
+   "date": "2026-10-15T18:19:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-15-oktober-gzri0k",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om torsdagen den 15 oktober."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "250 förhör och över 300 timmar övervakningsfilm – utredningen efter den misstänkta grova våldtäkten mot ett barn i Järfälla är omfattande och nu meddelar Åklagarmyndigheten att åtalstiden förlängs."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Ytterligare två personer misstänkta för brott på Sigtunaskolan",
-   "date": "2026-10-15T07:05:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fjarde-person-misstankt-for-brott-pa-sigtunaskolan",
-   "desc": "Tre elever i 18-årsåldern har häktats misstänkta för flera grova brott på Sigtunaskolan. Nu är ytterligare två personer anhållna. Samtidigt får Skolinspektionen löpande in nya uppgifter."
+   "src": "BBC",
+   "section": "United",
+   "title": "Martinez apologises for outburst and fined by Man Utd",
+   "date": "2026-10-15T18:03:28.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-14T21:00:34.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United's winless run stretches to five matches, as they're beaten 2-0 by Atletico Madrid in the Champions League, in a match which saw them concede in the opening minute before ending the game with ten men after Leny Yoro was sent off."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Wilcox the target again in another damaging Man Utd fallout",
-   "date": "2026-10-14T15:30:03.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox."
   }
  ]
 }
