@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T19:30:09.570Z",
+ "updated": "2026-10-16T22:10:24.245Z",
  "items": [
   {
    "src": "BBC",
@@ -20,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-   "date": "2026-10-16T15:59:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-   "desc": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
+   "title": "Trump denies limiting Ukraine access to Starlink network",
+   "date": "2026-10-16T19:33:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night."
   },
   {
    "src": "BBC",
@@ -47,7 +47,15 @@
    "title": "Lien med 17:e målet när Djurgården slog BP",
    "date": "2026-10-16T18:59:00.000Z",
    "link": "https://www.svt.se/sport/fotboll/lien-med-17e-malet-nar-djurgarden-slog-bp",
-   "desc": "Kristian Lien fortsätter att ösa in mål för Djurgården. I dag kom säsongens 17:e för skytteligaledaren när laget bortaslog BP med 2–0. – Det var mycket som inte stämde för min del i dag så det var trevligt att avgöra, säger han till TV4."
+   "desc": "Kristian Lien fortsätter att ösa in mål för Djurgården. I dag kom säsongens 17:e för skytteligaledaren när laget bortaslog BP med 2–0. – Ett riktigt skitmål, men de ska göras de också, säger han till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Stort polispådrag i Ronneby – man körde in i stadshuset",
+   "date": "2026-10-16T18:46:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/stort-polispadrag-i-ronneby-man-korde-in-i-stadshuset",
+   "desc": "En man har säkrats av polis efter att han har kört en bil in i Ronneby stadshus entré."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Elias Ranefur pressade världstvåan Felix Lebrun i åttondelsfinalen på bordtennis-EM, men föll till slut. En situation som stack ut var när Ranefur vann en boll som sedan spelades om efter Lebruns vädjan. – Domaren kändes väldigt tveksam. Det kändes som att hon gick med på vad han sa, säger svensken till SVT Sport."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Jägaren Johan kom öga mot öga med älg i skogen: ”Riktigt nära”",
-   "date": "2026-10-16T14:10:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/jagaren-johan-kom-oga-mot-oga-med-alg-i-skogen-riktigt-nara",
-   "desc": "Det blev en dramatisk älgjakt utanför Värnamo på fredagsförmiddagen när Johan Larsson och hunden Bertil var ute."
+   "title": "En svårt skadad efter skjutning i idrottshall i södra Stockholm",
+   "date": "2026-10-16T19:32:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-skjuten-i-idrottshall-i-sodra-stockholm",
+   "desc": "En person är allvarligt skadad efter att ha skjutits inne i en idrottshall i Älvsjö i södra Stockholm, uppger polisen på sin hemsida. Vittnen på plats uppger för SVT att den skjutna är en ung kvinna."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Det är knappt två veckor sen som Kevin, fyra år, opererades i öronen. Men när han vaknade upp hade han ont i handen. Det visade sig vara en brännskada. – Jag kände inte igen honom, han grät och var förtvivlad. Jag vill veta vad som hänt, säger mamma Negin Amirekhtiar."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Åklagaren: Elever på Sigtunaskolan har gjort sig av med föremål",
-   "date": "2026-10-16T08:36:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/aklagaren-elever-pa-sigtunaskolan-har-gjort-sig-av-med-foremal",
-   "desc": "Sedan polisinsatsen på internatskolan i Sigtuna förra veckan har elever gjort sig av med föremål som skulle kunna vara viktiga för utredningen, uppger åklagare Lisa dos Santos. – Jag hade hellre sett att man gjorde tvärtom ifall det är någonting som man bedömer kan vara av intresse för polisutredningen, så att man i sådana fall kontaktar polisen i stället."
+   "src": "BBC",
+   "section": "United",
+   "title": "Ranking the Premier League's all-time greatest super subs",
+   "date": "2026-10-16T21:15:47.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
+   "desc": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?"
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-15T10:57:15.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&at_campaign=rss",
    "desc": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'Players won't like it' - Martinez apologises, but is the damage done?",
-   "date": "2026-10-14T23:13:53.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cw2409qg6pe0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Champions League Match of the Day pundits Nedum Onuoha, Stephen Warnock, and Rory Smith analyse Lisandro Martinez's comments following Manchester United's 2-0 loss to Atletico Madrid and the impact they'll have on the club."
   }
  ]
 }
