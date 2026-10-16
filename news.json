@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-16T06:05:32.242Z",
+ "updated": "2026-10-16T11:43:47.941Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Three children and teacher killed in US primary school shooting",
-   "date": "2026-10-16T03:45:09.000Z",
+   "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+   "date": "2026-10-16T11:41:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The suspect was shot dead by a community member who followed him into the Oregon school, police said."
+   "desc": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-   "date": "2026-10-16T01:36:45.000Z",
+   "date": "2026-10-16T08:27:16.000Z",
    "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
    "desc": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say."
   },
@@ -28,66 +28,90 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-   "date": "2026-10-15T17:47:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years."
+   "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+   "date": "2026-10-16T10:37:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-   "date": "2026-10-15T16:50:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
+   "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+   "date": "2026-10-16T08:45:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+   "desc": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lastbil med flis har vält – både väg- och tågtrafik stängs av",
-   "date": "2026-10-16T05:35:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/vag-52-och-tagtrafiken-avstangd-efter-lastbilsolycka",
-   "desc": "Både tågtrafiken och riksväg 52 har stängts av mellan Katrineholm och Vingåker efter en lastbilsolycka, meddelar Räddningstjänsten Östra Götaland."
+   "title": "Nöjesprofilen Jonas ”Heavy” Stentäpp död",
+   "date": "2026-10-16T10:39:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/nojesprofilen-jonas-heavy-stentapp-dod",
+   "desc": "Musikern och journalisten Jonas ”Heavy” Stentäpp har somnat in efter en kort tids sjukdom. Han blev rikskänd när han tillsammans med Hjalmar Östman i duon Hjalle och Heavy medverkade i TV4-programmet På rymmen i slutet av 1990-talet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Klart: SVT sänder New York Marathon med Andreas Almgren",
-   "date": "2026-10-16T04:13:04.000Z",
-   "link": "https://www.svt.se/sport/friidrott/klart-svt-sander-new-york-marathon-med-andreas-almgren",
-   "desc": "Den 1 november gör löparstjärnan Andreas Almgren maratondebut i New York. Nu står det klart att SVT Sport sänder loppet. – Jag hoppas att så många som möjligt följer loppet, säger Almgren."
+   "title": "Vattendrama i skolkök i Umeå – kycklingen duschas i 40 minuter",
+   "date": "2026-10-16T10:19:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vattendrama-i-skolkok-i-umea-kycklingen-duschas-i-40-minuter",
+   "desc": "Plötsligt utlöstes sprinklersystemet i köket på Norra Ålidhemsskolan – där skolmaten lagas. Dagens lunch, majskyckling, blev duschad i 40 minuter innan räddningstjänsten lyckades stänga av. – Det har varit ett vattendrama i köket, säger Cornelia Nordlund, enhetschef på måltidsservice i Umeå."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "På plats: Här skjuter Försvarsmakten skarpt med Patriot på Kreta",
-   "date": "2026-10-16T03:58:34.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/pa-plats-har-skjuter-forsvarsmakten-skarpt-med-patriot-pa-kreta",
-   "desc": "Här skjuter Försvarsmakten för första gången skarpt med luftvärnssystemet Patriot. De två robotarna som avfyrades i övningen kostar över 40 miljoner styck – och nu är förbandet godkänt för den kommande skarpa insatsen i Polen. – Det här visar att vi har förmågan att leverera när det är på riktigt, säger ställföreträdande arméchef Per Nilsson."
+   "title": "Polisen frustrerad efter ännu en lastbilsolycka vid järnvägsbron i Eskilstuna",
+   "date": "2026-10-16T10:08:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/polisens-frustrerad-efter-annu-en-lastbilsolycka-vid-jarnvagsbron-i-eskilstuna",
+   "desc": "En lastbil körde vid halv nio under fredagen in i en balk vid järnvägsbron i Eskilstuna – och det är inte första gången. Anneli Ruuska, trafikpolis i Eskilstuna, är frustrerad över att det är ett återkommande problem."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Pingisfeber i Ånge – ”Något stort på gång”",
-   "date": "2026-10-16T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/pingisfeber-i-ange-nagot-stort-pa-gang",
-   "desc": "Det märks ett växande intresse för att spela pingis i Ånge. Nystartade Ånge Pingis lockar spelsugna barn och vuxna på sina träningar varje vecka. Och på Bobergsskolan väljer elever att stanna efter skolan för att spela och umgås. – Det är något stort på gång, menar initiativtagaren Ulf Brandt."
+   "title": "Se explosionen som slog ut strömmen i delar av Kiruna",
+   "date": "2026-10-16T10:05:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-explosionen-som-slog-ut-strommen-i-delar-av-kiruna",
+   "desc": "Ett nytt LSS-boende håller på att byggas på Hagelstigen i Kiruna. I veckan började det plötsligt smälla och spraka lågor vid arbetsplatsen och strömmen slogs ut i flera timmar. – När jag gick ut på balkongen möttes jag av ett högljutt fyrverkeri och explosioner, säger Charlotta Fjällborg som bor i området."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter klagomålen mot nya E18 – ”tvättbrädan” ska bort: ”Lätt att vara efterklok”",
-   "date": "2026-10-16T03:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/efter-klagomalen-mot-nya-e18-tvattbradan-ska-bort-latt-att-vara-efterklok",
-   "desc": "Mindre än ett och ett halvt år efter invigningen av den nya motorvägen, ska E18 mellan Köping och Västjädra asfalteras om. Trafikverket ska åtgärda vibrationerna i vägbanan, som trafikanter liknat vid en tvättbräda. – Det blev inte som vi hade tänkt. En effekt av att vi bara lade ett tunt lager med asfalt, säger projektledaren Per Ahlenius på Trafikverket."
+   "title": "SD, M, KD och L ska styra kommunen: ”Nystart för Nyköping”",
+   "date": "2026-10-16T09:22:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/sd-m-kd-och-l-ska-styra-kommunen-nystart-for-nykoping",
+   "desc": "Moderaterna, Sverigedemokraterna, Kristdemokraterna och Liberalerna i Nyköping har kommit överens om att bilda ett nytt styre för Nyköpings kommun. Centerpartiet kommer fungera som stödparti."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Stort signalfel – Lidingöbanan står stilla",
+   "title": "Polisens larm: Misstänker spelfusk i division 2",
+   "date": "2026-10-16T10:29:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisens-larm-misstanker-spelfusk-i-division-2",
+   "desc": "Polisen misstänker att söndagens match i division 2 mellan Nacka FC och Syrianska kan ha utsatts för påverkan. En anmälan om försök till spelfusk är upprättad."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Kevin, 4 år, brännskadades under operation – ingen vet varför",
+   "date": "2026-10-16T09:45:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kevin-4-ar-brannskadades-under-operation-ingen-vet-varfor",
+   "desc": "Det är knappt två veckor sen som Kevin, fyra år, opererades i öronen. Men när han vaknade upp hade han ont i handen. Det visade sig vara en brännskada. – Jag kände inte igen honom, han grät och var förtvivlad. Jag vill veta vad som hänt, säger mamma Negin Amirekhtiar."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Åklagaren: Elever på Sigtunaskolan har gjort sig av med föremål",
+   "date": "2026-10-16T08:36:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/aklagaren-elever-pa-sigtunaskolan-har-gjort-sig-av-med-foremal",
+   "desc": "Sedan polisinsatsen på internatskolan i Sigtuna förra veckan har elever gjort sig av med föremål som skulle kunna vara viktiga för utredningen, uppger åklagare Lisa dos Santos. – Jag hade hellre sett att man gjorde tvärtom ifall det är någonting som man bedömer kan vara av intresse för polisutredningen, så att man i sådana fall kontaktar polisen i stället."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Stort signalfel – Lidingöbanan stod stilla",
    "date": "2026-10-16T04:27:11.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/lidingobanan-star-still-signalfel",
-   "desc": "Trafiken är helt inställd på grund av ett omfattande signalfel. Det finns ingen prognos för när felet ska vara åtgärdat."
+   "desc": "Trafiken var under fredagen helt inställd på grund av ett omfattande signalfel. Från klockan 12 är trafiken igång igen."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-10-15T18:19:22.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-15-oktober-gzri0k",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om torsdagen den 15 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Roslagsfår dödade av lodjur – länsstyrelsen: ”Lodjursstammen ökar”",
-   "date": "2026-10-15T14:44:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/roslagsfar-dodade-av-lodjur-lansstyrelsen-stammen-okar",
-   "desc": "När anställda på Färsna 4H-gård skulle klippa fåren gjorde de en chockerande upptäckt: En tacka och två lamm hade attackerats av ett lodjur under natten. – Sorgligt, fåren som bor här är våra kompisar, säger gårdens ordförande Atlas Bäck."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Ofarlig rökgranat låg bakom brandlarm i Hornstull",
-   "date": "2026-10-15T13:54:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-brand-i-hornstull-hornsgatan-avstangd-och-boende-evakueras",
-   "desc": "Räddningstjänsten undersöker en rökutveckling i ett flerfamiljshus i Hornstull på Södermalm i Stockholm. Det visar sig vara en harmlös rökgranat som används för att testa ventilationen. Hornsgatan stängdes av men kunde öppnas upp igen kort därpå."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Hon tar över i nya styret i Upplands-Bro",
-   "date": "2026-10-15T11:39:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hon-tar-over-i-nya-styret-i-upplands-bro",
-   "desc": "Efter åtta år med alliansstyre med stöd av SD får kommunen nu en blocköverskridande majoritet bestående av S, M och C. Tillsammans har partierna 30 av kommunfullmäktiges 41 mandat."
   },
   {
    "src": "BBC",
