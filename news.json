@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-16T15:59:58.260Z",
+ "updated": "2026-10-16T19:30:09.570Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-   "date": "2026-10-16T15:59:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-   "desc": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
+   "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+   "date": "2026-10-16T16:00:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+   "desc": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
   },
   {
    "src": "BBC",
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+   "date": "2026-10-16T15:59:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+   "desc": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Pope pictured for first time since surgery and cancer diagnosis",
    "date": "2026-10-16T14:36:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
@@ -28,18 +36,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-   "date": "2026-10-16T14:21:32.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-   "desc": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "India's 'cockroach' party founder detained ahead of protest",
    "date": "2026-10-16T11:44:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The youth-led movement planned a fresh Delhi protest after mass detentions last week and the jailing of two leaders."
+   "desc": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Lien med 17:e målet när Djurgården slog BP",
+   "date": "2026-10-16T18:59:00.000Z",
+   "link": "https://www.svt.se/sport/fotboll/lien-med-17e-malet-nar-djurgarden-slog-bp",
+   "desc": "Kristian Lien fortsätter att ösa in mål för Djurgården. I dag kom säsongens 17:e för skytteligaledaren när laget bortaslog BP med 2–0. – Det var mycket som inte stämde för min del i dag så det var trevligt att avgöra, säger han till TV4."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Truls Möregårdh utslagen ur bordtennis-EM – rasade på domaren",
+   "date": "2026-10-16T17:42:50.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/truls-moregardh-utslagen-pa-bordtennis-em-rasande-pa-domaren",
+   "desc": "EM är över för Truls Möregårdh. Stjärnan föll tungt mot Borgar Haug i åttondelsfinalen – och gav domaren en rejäl utskällning i sjätte set. – Truls är fruktansvärt irriterad, säger SVT:s expert David Kärrå Gustafsson."
   },
   {
    "src": "SVT",
@@ -66,20 +82,20 @@
    "desc": "Det blev en dramatisk älgjakt utanför Värnamo på fredagsförmiddagen när Johan Larsson och hunden Bertil var ute."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Så kan Ryssland utnyttja gripna svensken: ”Sätta press på regeringen”",
-   "date": "2026-10-16T13:33:02.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sa-kan-ryssland-utnyttja-gripna-svensken-satta-press-pa-regeringen",
-   "desc": "SVT kan koppla den svenska medborgare som gripits av rysk underrättelsetjänst till ett ukrainskt militärförband. Enligt flera underrättelseexperter riskerar mannen, som är i 35-årsåldern och hemmahörande i Stockholmsområdet, att bli en bricka i ett politiskt spel. – Ryssland kan utnyttja honom för att sätta press på Sverige på olika sätt, säger underrättelseexperten Tony Ingesson."
+   "title": "Nyheter från dagen: 16 oktober",
+   "date": "2026-10-16T17:43:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-16-oktober-hi1qx6",
+   "desc": "Det här har SVT Nyheter Stockholm rapporterat om torsdagen den 16 oktober."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ebba Busch tror inte på  utplåning av mänskligheten",
-   "date": "2026-10-16T13:21:27.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-tror-inte-pa-utplaning-av-manskligheten",
-   "desc": "Kan AI innebära slutet för mänskligheten? Nej, tror både Mikael Damberg (S) och Ebba Busch (KD). – Men jag tycker att man ska ta den frågan på allvar, säger hon."
+   "title": "Skolpersonal i Sigtuna larmar: ”Tystnadskultur”",
+   "date": "2026-10-16T17:09:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skolpersonal-i-sigtuna-larmar-tystnadskultur",
+   "desc": "”Jag vågar inte framträda”, ”Största möjliga diskretion”, ”Riskerar min anställning”. Anmälningarna efter de misstänkta brotten på internatskolan i Sigtuna fortsätter att komma, och nu har också skolpersonal börjat höra av sig."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "Sedan polisinsatsen på internatskolan i Sigtuna förra veckan har elever gjort sig av med föremål som skulle kunna vara viktiga för utredningen, uppger åklagare Lisa dos Santos. – Jag hade hellre sett att man gjorde tvärtom ifall det är någonting som man bedömer kan vara av intresse för polisutredningen, så att man i sådana fall kontaktar polisen i stället."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stort signalfel – Lidingöbanan stod stilla",
-   "date": "2026-10-16T04:27:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/lidingobanan-star-still-signalfel",
-   "desc": "Trafiken var under fredagen helt inställd på grund av ett omfattande signalfel. Från klockan 12 är trafiken igång igen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 15 oktober",
-   "date": "2026-10-15T18:19:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-15-oktober-gzri0k",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om torsdagen den 15 oktober."
+   "src": "BBC",
+   "section": "United",
+   "title": "'I'm telling you the truth' - Carrick on Martinez fallout",
+   "date": "2026-10-16T16:16:34.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ckq5n3wvg65do?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United head coach Michael Carrick says the club have \"moved on\" from Lisandro Martinez's explosive post-match comments earlier this week."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-14T23:13:53.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cw2409qg6pe0o?at_medium=RSS&at_campaign=rss",
    "desc": "Champions League Match of the Day pundits Nedum Onuoha, Stephen Warnock, and Rory Smith analyse Lisandro Martinez's comments following Manchester United's 2-0 loss to Atletico Madrid and the impact they'll have on the club."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Outburst came out of 'anger and frustration' - Martinez",
-   "date": "2026-10-14T22:42:02.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United defender Lisandro Martinez says he \"spoke out of anger and frustration\" when launching a scathing attack on the club's hierarchy."
   }
  ]
 }
