@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:10:24.245Z",
+ "updated": "2026-10-17T00:40:11.421Z",
  "items": [
   {
    "src": "BBC",
@@ -12,6 +12,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+   "date": "2026-10-16T23:07:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+   "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
    "date": "2026-10-16T14:31:04.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
@@ -20,26 +28,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump denies limiting Ukraine access to Starlink network",
-   "date": "2026-10-16T19:33:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night."
+   "title": "Katie Zacharia leaving her White House role less than five days on the job",
+   "date": "2026-10-16T21:05:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Pope pictured for first time since surgery and cancer diagnosis",
-   "date": "2026-10-16T14:36:39.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-   "desc": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "India's 'cockroach' party founder detained ahead of protest",
-   "date": "2026-10-16T11:44:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders."
+   "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+   "date": "2026-10-16T23:54:35.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+   "desc": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it."
   },
   {
    "src": "SVT",
@@ -87,7 +87,7 @@
    "title": "En svårt skadad efter skjutning i idrottshall i södra Stockholm",
    "date": "2026-10-16T19:32:43.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-skjuten-i-idrottshall-i-sodra-stockholm",
-   "desc": "En person är allvarligt skadad efter att ha skjutits inne i en idrottshall i Älvsjö i södra Stockholm, uppger polisen på sin hemsida. Vittnen på plats uppger för SVT att den skjutna är en ung kvinna."
+   "desc": "En kvinna i 25-årsåldern är allvarligt skadad efter att ha skjutits inne i en idrottshall i Älvsjö i södra Stockholm. En jakt på gärningspersonen pågår, ännu är ingen gripen."
   },
   {
    "src": "STHLM",
