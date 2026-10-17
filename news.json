@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:25:53.034Z",
+ "updated": "2026-10-17T16:33:53.397Z",
  "items": [
   {
    "src": "BBC",
@@ -12,7 +12,7 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+   "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
    "date": "2026-10-17T09:58:17.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
    "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
-   "date": "2026-10-17T10:46:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
-   "desc": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft."
+   "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+   "date": "2026-10-17T12:11:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+   "desc": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Alexander Isak målskytt i comebacken",
+   "date": "2026-10-17T15:50:59.000Z",
+   "link": "https://www.svt.se/sport/fotboll/alexander-isak-malskytt-i-comebacken",
+   "desc": "Liverpools målspruta Alexander Isak är tillbaka med besked. Borta mot Brentford fick anfallsstjärnan chansen från start, och gjorde mål direkt i återkomsten."
   },
   {
    "src": "SVT",
@@ -47,7 +55,7 @@
    "title": "Kvinna hittad död i Linköping – polisen utreder mord",
    "date": "2026-10-17T12:53:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/ost/kvinna-hittat-dod-i-linkoping-polisen-utreder-mord",
-   "desc": "En kvinna har hittats död utomhus i Valla i Linköping."
+   "desc": "En kvinna i 45-årsåldern har hittats död utomhus vid ett lägenhetshus i Valla i Linköping. Polisen har inlett en förundersökning om mord."
   },
   {
    "src": "SVT",
@@ -71,15 +79,7 @@
    "title": "Kommunen efter entrékraschen: ”Öppet som vanligt på måndag”",
    "date": "2026-10-17T10:55:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/blekinge/kommunen-efter-entrekraschen-oppet-som-vanligt-pa-mandag",
-   "desc": "Efter att en man körde en bil rakt in i Ronneby stadshus entré på fredagskvällen meddelar kommunen att stadshuset kommer vara öppet som vanligt på måndag. – Våra medborgare är alltid välkomna till oss, säger Bengt Nilsson, kommundirektör."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Den skjutna kvinnan jobbar med unga i Stockholms kommun",
-   "date": "2026-10-17T10:05:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/den-skjutna-kvinnan-jobbar-med-unga-i-stockholms-kommun",
-   "desc": "Kvinnan som sköts i en idrottshall i Älvsjö i södra Stockholm på fredagskvällen är medarbetare inom kommunens ungdomsverksamhet. – Det är en fruktansvärd händelse och alla våra tankar går till familjen, anhöriga och medarbetarna i vår organisation som också drabbas av det här, säger Lee Orberson, stadsdelsdirektör i Hägersten-Älvsjö."
+   "desc": "Efter att en man körde en bil rakt in i Ronneby stadshus entré på fredagskvällen, meddelar kommunen att stadshuset kommer vara öppet som vanligt på måndag, men med väktare på plats. – Våra medborgare är alltid välkomna till oss, säger Bengt Nilsson, kommundirektör."
   },
   {
    "src": "STHLM",
