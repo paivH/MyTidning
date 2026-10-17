@@ -1,27 +1,19 @@
 {
- "updated": "2026-10-17T05:16:57.250Z",
+ "updated": "2026-10-17T09:33:59.909Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-   "date": "2026-10-17T02:33:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump waives several Russia sanctions as new US law takes effect",
-   "date": "2026-10-17T05:02:50.000Z",
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "date": "2026-10-17T07:41:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests."
+   "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-   "date": "2026-10-17T01:19:04.000Z",
+   "date": "2026-10-17T06:49:48.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
    "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
   },
@@ -42,44 +34,52 @@
    "desc": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
   },
   {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+   "date": "2026-10-17T02:33:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Charlie Paveys förändring: ”Annars går kroppen sönder”",
+   "date": "2026-10-17T09:17:32.000Z",
+   "link": "https://www.svt.se/sport/fotboll/charlie-paveys-forandring-annars-gar-kroppen-sonder",
+   "desc": "Han har varit borta en längre period. Men nu är AIK-talangen Charlie Pavey, 18, tillbaka i full träning. – Det har varit jobbigt, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Uppgifter: Grovt brott vid Ön på Limhamn",
+   "date": "2026-10-17T06:24:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/uppgifter-tva-man-gripna-misstankta-for-valdtakt-vid-on-pa-limhamn",
+   "desc": "Enligt Sydsvenskan utreder polisen ett grovt brott på Ön på Limhamn. Det uppger tidningen på lördagsmorgonen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Samarbetet med Ryssland har gjort Nordkorea mycket starkare”",
+   "date": "2026-10-17T06:03:00.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/samarbetet-med-ryssland-har-gjort-nordkorea-mycket-starkare",
+   "desc": "Nordkoreas samarbete med Ryssland har stärkt landet ekonomiskt, militärt och strategiskt. – Nordkorea behöver inte resten av världen på samma sätt nu när man har Ryssland, säger Ulrika Bergsten, SVT:s utrikesreporter och tidigare Asienkorrespondent."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jonas Andersson förbluffas över förslaget: ”Måste ha ett högre pris”",
+   "date": "2026-10-17T05:53:21.000Z",
+   "link": "https://www.svt.se/sport/ishockey/jonas-andersson-forbluffas-over-forslaget-maste-ha-ett-hogre-pris",
+   "desc": "Vilken trade hade du velat se i SHL? SVT Sports experter fick ge sina förslag. – Jag tror inte Örebro skulle gå med på det, säger Jonas Andersson om Johanna Lagus förslag."
+  },
+  {
    "src": "SVT",
    "section": "Sverige · Stockholm",
    "title": "Misstänkt gruppvåldtäkt i Göteborg",
    "date": "2026-10-17T05:07:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vast/misstankt-valdtakt-i-goteborg-x4c1tu",
-   "desc": "En kvinna anmälde under fredagskvällen att hon våldtagits av flera personer vid Amhults torg i Göteborg. Polisen spärrade av ett område vid platsen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Brand i livsmedelsbutik i Gamlestaden",
-   "date": "2026-10-17T04:21:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-livsmedelsbutik-i-gamlestaden",
-   "desc": "Under natten till lördagen bröten brand ut på taket till en Coop-butik i Gamlestaden i Göteborg. Branden ska ha startat i en fläkt."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Studenter vid Linköpings universitet svetsar kaminer till Ukraina",
-   "date": "2026-10-17T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/studenter-vid-linkopings-universitet-svetsar-kaminer-till-ukraina",
-   "desc": "Studenter på Linköpings universitet har under veckan svetsat ett 30-tal kaminer som ska skickas till Ukraina. Kaminerna ska användas av både civila och soldater, där behovet av värme är stort."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "100-åriga sparrisburken från Nyadal flyttar in på Västernorrlands museum",
-   "date": "2026-10-17T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/100-arig-sparrisburk-fran-nyadal-flyttar-in-pa-vasternorrlands-museum",
-   "desc": "Man gör nog säkrast i att inte ens försöka lukta och smaka den 100-åriga inlagda sparrisen som Östersundsbon Åke Lundgren ärvt. Eftersom han inte slänger mat i onödan, har han istället skänkt arvegodset till Västernorrlands museum. – Ingen av mina barn är intresserad av att ta över burken och är jag jävligt less på den, säger Åke Lundgren."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Länsstyrelsen: Otydligt hur Senior ska ersätta metylenklorid",
-   "date": "2026-10-17T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/lansstyrelsen-otydligt-hur-senior-ska-ersatta-metylenklorid",
-   "desc": "Informationen om hur Senior Material ska ersätta den giftiga kemikalien metylenklorid är bristfällig. Det menar länsstyrelsen i Sörmland som nu vill att kommer med ett tydligare underlag. Något som P4 Sörmland var först med att rapportera."
+   "desc": "En kvinna anmälde under fredagskvällen att hon våldtagits av flera personer utomhus vid Amhults torg i Göteborg. Polisen spärrade av ett område vid platsen."
   },
   {
    "src": "STHLM",
@@ -92,10 +92,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "En svårt skadad efter skjutning i idrottshall i södra Stockholm",
+   "title": "Två anhållna efter skjutning i idrottshall i södra Stockholm",
    "date": "2026-10-16T19:32:43.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-skjuten-i-idrottshall-i-sodra-stockholm",
-   "desc": "En kvinna i 25-årsåldern är allvarligt skadad efter att ha skjutits inne i en idrottshall i Älvsjö i södra Stockholm. En jakt på gärningspersonen pågår, ännu är ingen gripen."
+   "desc": "Två män i övre tonåren har anhållits misstänkta för mordförsök efter skjutningen i en idrottshall i Älvsjö i södra Stockholm på fredagskvällen. – Vi kan inte utesluta att fler är inblandade, säger Mats Eriksson, presstalesperson vid Stockholmspolisen. Den kvinna i 25-årsåldern som sköts vårdas fortsatt på sjukhus med allvarliga skador."
   },
   {
    "src": "STHLM",
