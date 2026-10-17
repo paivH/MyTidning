@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T08:35:35.021Z",
+ "updated": "2026-10-17T08:07:42.049Z",
  "verified": false,
  "deals": [
   {
@@ -9,34 +9,34 @@
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Färsk laxfilé 400g",
-   "price": "49 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
    "store": "ICA",
    "item": "Kycklingfilé Kronfågel 900g",
-   "price": "69 kr",
+   "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Rusta",
-   "item": "LED-ljusslinga 10m utomhus",
-   "price": "79 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Pumpa Hokkaido, styck",
+   "price": "15 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Rapsolja Castello 1L",
+   "price": "22 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
    "item": "Köttbullar 1kg (fryst)",
-   "price": "59 kr",
+   "price": "49 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Lidl",
-   "item": "Rotfruktsmix svensk 1kg",
-   "price": "15 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Stearinljus doftljus, 3-pack",
+   "price": "39 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
