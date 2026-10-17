@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T16:33:53.397Z",
+ "updated": "2026-10-17T18:59:47.207Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Taha Ayari missade öppet mål när AIK kryssade mot IFK Göteborg",
+   "date": "2026-10-17T18:05:59.000Z",
+   "link": "https://www.svt.se/sport/fotboll/taha-ayari-missade-oppet-mal-nar-aik-kryssade-mot-ifk-goteborg",
+   "desc": "Det blev delad pott i rivalmötet mellan AIK och IFK Göteborg. Taha Ayari, 21, stod för en av säsongens grövsta missar i 2–2-matchen. – Målet är helt öppet, utbrister TV4 Plays kommentator Niklas Jarelind."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fejkade nyheter om V-ledamoten Mohamed Ali sprids",
+   "date": "2026-10-17T16:49:33.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/fejkade-nyheter-om-v-ledamoten-mohamed-ali-sprids",
+   "desc": "”Utvisa honom!”, ryter kommentar efter kommentar på Facebook. Bilderna som fått dem att reagera handlar om V-ledamoten Mohamed Ali, och påstår att han nu erkänner valfusk och har gripits av polis. Men bakom dessa falska uppgifter ligger ingen svensk nyhetssajt, utan en vietnamesisk ”marknadsföringsbyrå”."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Alexander Isak målskytt i comebacken",
    "date": "2026-10-17T15:50:59.000Z",
    "link": "https://www.svt.se/sport/fotboll/alexander-isak-malskytt-i-comebacken",
@@ -66,20 +82,12 @@
    "desc": "Oväntad seger mot Truls Möregårdh. Men Borgar Haugs EM är slut efter mötet med Anton Källberg, 29. Nu spelar svensken EM-semifinal. – Sverige är bättre än Norge i pingis, konstaterar Chris Härenstam."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Räddningsinsats inledd efter försvunnen fiskare",
-   "date": "2026-10-17T11:23:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/raddningsinsats-inledd-efter-fiskare",
-   "desc": "En fiskebåt har observerats slå mot klipporna vid Stora Härmanö i Orust kommun. En större räddningsinsats har dragits igång. – Vi letar efter en person som vi misstänker försvunnit, säger Jonas Franzén, presstalesperson på Sjöfartsverket."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kommunen efter entrékraschen: ”Öppet som vanligt på måndag”",
-   "date": "2026-10-17T10:55:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/blekinge/kommunen-efter-entrekraschen-oppet-som-vanligt-pa-mandag",
-   "desc": "Efter att en man körde en bil rakt in i Ronneby stadshus entré på fredagskvällen, meddelar kommunen att stadshuset kommer vara öppet som vanligt på måndag, men med väktare på plats. – Våra medborgare är alltid välkomna till oss, säger Bengt Nilsson, kommundirektör."
+   "title": "Nyheter från dagen: 17 oktober",
+   "date": "2026-10-17T17:37:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-17-oktober-49ck26",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under lördagen den 17 oktober"
   },
   {
    "src": "STHLM",
@@ -87,7 +95,7 @@
    "title": "Den skjutna kvinnan jobbar med unga i Stockholms kommun",
    "date": "2026-10-17T10:05:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/den-skjutna-kvinnan-jobbar-med-unga-i-stockholms-kommun",
-   "desc": "Kvinnan som sköts i en idrottshall i Älvsjö i södra Stockholm på fredagskvällen är medarbetare inom kommunens ungdomsverksamhet. – Det är en fruktansvärd händelse och alla våra tankar går till familjen, anhöriga och medarbetarna i vår organisation som också drabbas av det här, säger Lee Orberson, stadsdelsdirektör i Hägersten-Älvsjö."
+   "desc": "Kvinnan som sköts i en idrottshall i Älvsjö i södra Stockholm på fredagskvällen är medarbetare inom kommunens ungdomsverksamhet. – Det är en fruktansvärd händelse och alla våra tankar går till familjen, anhöriga och medarbetarna i vår organisation som också drabbas av det här, säger Lee Orberson, stadsdelsdirektör i Hägersten-Älvsjö. På lördagskvällen meddelade polisen att kvinnan avlidit."
   },
   {
    "src": "STHLM",
@@ -100,10 +108,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna skjuten i idrottshall i södra Stockholm – två anhållna",
+   "title": "Kvinna död efter skjutning i idrottshall i södra Stockholm – två anhållna",
    "date": "2026-10-16T19:32:43.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-skjuten-i-idrottshall-i-sodra-stockholm",
-   "desc": "Två pojkar under 18 år har anhållits på sannolika skäl misstänkta för mordförsök efter skjutningen av en kvinna i en idrottshall i Älvsjö. De gripna är inte hemmahörande i Stockholm. – De misstänkta ser inte ut att ha någon koppling till brottsoffret, säger kammaråklagare Lukas Tigerstrand till SVT Nyheter."
+   "desc": "Den kvinna som sköts i Älvsjö igår har avlidit. Två pojkar under 18 år har anhållits på sannolika skäl misstänkta för mord. De är inte hemmahörande i Stockholm. – De ser inte ut att ha någon koppling till brottsoffret, säger kammaråklagare Lukas Tigerstrand till SVT Nyheter."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-16T17:43:14.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-16-oktober-hi1qx6",
    "desc": "Det här har SVT Nyheter Stockholm rapporterat om torsdagen den 16 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Skolpersonal i Sigtuna larmar: ”Tystnadskultur”",
-   "date": "2026-10-16T17:09:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skolpersonal-i-sigtuna-larmar-tystnadskultur",
-   "desc": "”Jag vågar inte framträda”, ”Största möjliga diskretion”, ”Riskerar min anställning”. Anmälningarna efter de misstänkta brotten på internatskolan i Sigtuna fortsätter att komma, och nu har också skolpersonal börjat höra av sig."
   },
   {
    "src": "BBC",
