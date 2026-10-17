@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-17T00:40:11.421Z",
+ "updated": "2026-10-17T05:16:57.250Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+   "date": "2026-10-17T02:33:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump waives several Russia sanctions as new US law takes effect",
+   "date": "2026-10-17T05:02:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "desc": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+   "date": "2026-10-17T01:19:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+   "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+   "date": "2026-10-17T03:11:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+   "desc": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -10,76 +42,52 @@
    "desc": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-   "date": "2026-10-16T23:07:38.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-   "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-   "date": "2026-10-16T14:31:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-   "desc": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Katie Zacharia leaving her White House role less than five days on the job",
-   "date": "2026-10-16T21:05:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-   "date": "2026-10-16T23:54:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-   "desc": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt gruppvåldtäkt i Göteborg",
+   "date": "2026-10-17T05:07:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/misstankt-valdtakt-i-goteborg-x4c1tu",
+   "desc": "En kvinna anmälde under fredagskvällen att hon våldtagits av flera personer vid Amhults torg i Göteborg. Polisen spärrade av ett område vid platsen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lien med 17:e målet när Djurgården slog BP",
-   "date": "2026-10-16T18:59:00.000Z",
-   "link": "https://www.svt.se/sport/fotboll/lien-med-17e-malet-nar-djurgarden-slog-bp",
-   "desc": "Kristian Lien fortsätter att ösa in mål för Djurgården. I dag kom säsongens 17:e för skytteligaledaren när laget bortaslog BP med 2–0. – Ett riktigt skitmål, men de ska göras de också, säger han till SVT Sport."
+   "title": "Brand i livsmedelsbutik i Gamlestaden",
+   "date": "2026-10-17T04:21:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-livsmedelsbutik-i-gamlestaden",
+   "desc": "Under natten till lördagen bröten brand ut på taket till en Coop-butik i Gamlestaden i Göteborg. Branden ska ha startat i en fläkt."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stort polispådrag i Ronneby – man körde in i stadshuset",
-   "date": "2026-10-16T18:46:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/blekinge/stort-polispadrag-i-ronneby-man-korde-in-i-stadshuset",
-   "desc": "En man har säkrats av polis efter att han har kört en bil in i Ronneby stadshus entré."
+   "title": "Studenter vid Linköpings universitet svetsar kaminer till Ukraina",
+   "date": "2026-10-17T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/studenter-vid-linkopings-universitet-svetsar-kaminer-till-ukraina",
+   "desc": "Studenter på Linköpings universitet har under veckan svetsat ett 30-tal kaminer som ska skickas till Ukraina. Kaminerna ska användas av både civila och soldater, där behovet av värme är stort."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Truls Möregårdh utslagen ur bordtennis-EM – rasade på domaren",
-   "date": "2026-10-16T17:42:50.000Z",
-   "link": "https://www.svt.se/sport/bordtennis/truls-moregardh-utslagen-pa-bordtennis-em-rasande-pa-domaren",
-   "desc": "EM är över för Truls Möregårdh. Stjärnan föll tungt mot Borgar Haug i åttondelsfinalen – och gav domaren en rejäl utskällning i sjätte set. – Truls är fruktansvärt irriterad, säger SVT:s expert David Kärrå Gustafsson."
+   "title": "100-åriga sparrisburken från Nyadal flyttar in på Västernorrlands museum",
+   "date": "2026-10-17T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/100-arig-sparrisburk-fran-nyadal-flyttar-in-pa-vasternorrlands-museum",
+   "desc": "Man gör nog säkrast i att inte ens försöka lukta och smaka den 100-åriga inlagda sparrisen som Östersundsbon Åke Lundgren ärvt. Eftersom han inte slänger mat i onödan, har han istället skänkt arvegodset till Västernorrlands museum. – Ingen av mina barn är intresserad av att ta över burken och är jag jävligt less på den, säger Åke Lundgren."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Linus Carlstrand ställs mot sitt förra lag: ”Folk har blivit utbuade för mindre”",
-   "date": "2026-10-16T15:25:52.000Z",
-   "link": "https://www.svt.se/sport/fotboll/linus-carlstrand-stalls-mot-sitt-forra-lag-folk-har-blivit-utbuade-for-mindre",
-   "desc": "Han har ett förflutet i IFK Göteborg. Nu ska Linus Carlstrand, 22, kliva in i ett klassikermöte – i andra färger. – Folk har blivit utbuade för mindre, säger AIK-stjärnan."
+   "title": "Länsstyrelsen: Otydligt hur Senior ska ersätta metylenklorid",
+   "date": "2026-10-17T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/lansstyrelsen-otydligt-hur-senior-ska-ersatta-metylenklorid",
+   "desc": "Informationen om hur Senior Material ska ersätta den giftiga kemikalien metylenklorid är bristfällig. Det menar länsstyrelsen i Sörmland som nu vill att kommer med ett tydligare underlag. Något som P4 Sörmland var först med att rapportera."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Elias Ranefur förlorar efter stjärnans vädjan: ”Hade jag käftat emot...”",
-   "date": "2026-10-16T15:11:42.000Z",
-   "link": "https://www.svt.se/sport/bordtennis/elias-ranefur-forlorar-efter-stjarnans-vadjan-hade-jag-kaftat-emot",
-   "desc": "Elias Ranefur pressade världstvåan Felix Lebrun i åttondelsfinalen på bordtennis-EM, men föll till slut. En situation som stack ut var när Ranefur vann en boll som sedan spelades om efter Lebruns vädjan. – Domaren kändes väldigt tveksam. Det kändes som att hon gick med på vad han sa, säger svensken till SVT Sport."
+   "title": "Han blir ny ålderspresident i Stockholms stadshus",
+   "date": "2026-10-17T03:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/han-blir-ny-alderspresident-i-stockholms-stadshus",
+   "desc": "Liberalernas Björn Ljung tar över titeln som ålderspresident i Stockholms kommunfullmäktige när avgående finansborgarrådet Karin Wanngård (S) lämnar. – Jag ska sköta mitt ämbete med stor varsamhet och respekt för vårt fina fullmäktige, säger Björn Ljung (L)."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-16T10:29:11.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisens-larm-misstanker-spelfusk-i-division-2",
    "desc": "Polisen misstänker att söndagens match i division 2 mellan Nacka FC och Syrianska kan ha utsatts för påverkan. En anmälan om försök till spelfusk är upprättad."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kevin, 4 år, brännskadades under operation – ingen vet varför",
-   "date": "2026-10-16T09:45:41.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kevin-4-ar-brannskadades-under-operation-ingen-vet-varfor",
-   "desc": "Det är knappt två veckor sen som Kevin, fyra år, opererades i öronen. Men när han vaknade upp hade han ont i handen. Det visade sig vara en brännskada. – Jag kände inte igen honom, han grät och var förtvivlad. Jag vill veta vad som hänt, säger mamma Negin Amirekhtiar."
   },
   {
    "src": "BBC",
