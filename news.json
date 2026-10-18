@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-18T01:21:01.635Z",
+ "updated": "2026-10-18T06:18:46.351Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-   "date": "2026-10-17T20:52:17.000Z",
+   "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
+   "date": "2026-10-18T05:56:20.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
    "desc": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "date": "2026-10-18T01:10:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+   "date": "2026-10-18T05:04:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
   },
   {
    "src": "BBC",
@@ -28,58 +28,66 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Anti-government protesters battle with police in Albania",
-   "date": "2026-10-17T20:53:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-   "desc": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
+   "title": "Deaths confirmed in major fire at Canada military base",
+   "date": "2026-10-18T04:00:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 17 dead in crush at Hindu festival event in India",
-   "date": "2026-10-17T19:19:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-   "desc": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "date": "2026-10-18T01:10:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Taha Ayari missade öppet mål när AIK kryssade mot IFK Göteborg",
-   "date": "2026-10-17T18:05:59.000Z",
-   "link": "https://www.svt.se/sport/fotboll/taha-ayari-missade-oppet-mal-nar-aik-kryssade-mot-ifk-goteborg",
-   "desc": "Det blev delad pott i rivalmötet mellan AIK och IFK Göteborg. Taha Ayari, 21, stod för en av säsongens grövsta missar i 2–2-matchen. – Målet är helt öppet, utbrister TV4 Plays kommentator Niklas Jarelind."
+   "title": "Liten orkidé symbol för rödgrön konflikt – skogspolitiken splittrar",
+   "date": "2026-10-18T03:59:53.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/liten-orkide-symbol-for-rodgron-konflikt-skogspolitiken-splittrar",
+   "desc": "Skogspolitiken kan bli en svår knäckfråga i förhandlingarna om en rödgrön regering. Centerpartiet och Miljöpartiet står långt ifrån varandra."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fejkade nyheter om V-ledamoten Mohamed Ali sprids",
-   "date": "2026-10-17T16:49:33.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/fejkade-nyheter-om-v-ledamoten-mohamed-ali-sprids",
-   "desc": "”Utvisa honom!”, ryter kommentar efter kommentar på Facebook. Bilderna som fått dem att reagera handlar om V-ledamoten Mohamed Ali, och påstår att han nu erkänner valfusk och har gripits av polis. Men bakom dessa falska uppgifter ligger ingen svensk nyhetssajt, utan en vietnamesisk ”marknadsföringsbyrå”."
+   "title": "Tre frågor där tuffa strider väntar mellan de rödgröna partierna",
+   "date": "2026-10-18T03:56:27.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/tre-fragor-dar-tuffa-strider-vantar-mellan-de-rodgrona-partierna",
+   "desc": "Synen på SD, att utsläppen ska ner och att tonårsutvisningar ska stoppas – där är de rödgröna överens. Men i flera centrala politiska områden spretar viljorna. SVT:s politikreporter reder ut positionerna i stridsfrågorna."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Alexander Isak målskytt i comebacken",
-   "date": "2026-10-17T15:50:59.000Z",
-   "link": "https://www.svt.se/sport/fotboll/alexander-isak-malskytt-i-comebacken",
-   "desc": "Liverpools målspruta Alexander Isak är tillbaka med besked. Borta mot Brentford fick anfallsstjärnan chansen från start, och gjorde mål direkt i återkomsten."
+   "title": "Här startar batterifabriken om i Skellefteå – Ida är tillbaka: ”Så kul”",
+   "date": "2026-10-18T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-startar-batterifabriken-om-i-skelleftea-ida-ar-tillbaka-sa-kul",
+   "desc": "Efter batteritillverkaren Northvolts konkurs 2025 har fabriken i Skellefteå gått på sparlåga. Men nu laddar fabriken om och ska börja leverera sina första batterier i början av nästa år. – Jag har längtat, säger Linda Hammega, som är en av de anställda som återvänt."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna hittad död i Linköping – polisen utreder mord",
-   "date": "2026-10-17T12:53:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/kvinna-hittat-dod-i-linkoping-polisen-utreder-mord",
-   "desc": "En kvinna i 45-årsåldern har hittats död utomhus vid ett lägenhetshus i Valla i Linköping. Polisen har inlett en förundersökning om mord."
+   "title": "Richard, 35, hyllades för insatsen vid radhusbranden i Arboga – nu ska han bli brandman",
+   "date": "2026-10-18T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/richard-35-hyllades-for-insatsen-vid-radhusbranden-i-arboga-nu-ska-han-bli-brandman",
+   "desc": "När radhusbranden rasade i Arboga hjälpte Richard Alun, 35, räddningstjänsten med att dra slang, söka vattenposter och vada i ån för att få igång pumpen. – Det kändes som en film. Det var tur att de kom ganska fort så jag kunde fråga om de behövde hjälp, säger Richard Alun."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Anton Källberg klar för EM-semifinal – slog norrmannen",
-   "date": "2026-10-17T12:19:47.000Z",
-   "link": "https://www.svt.se/sport/bordtennis/anton-kallberg-klar-for-em-semifinal-slog-norrmannen",
-   "desc": "Oväntad seger mot Truls Möregårdh. Men Borgar Haugs EM är slut efter mötet med Anton Källberg, 29. Nu spelar svensken EM-semifinal. – Sverige är bättre än Norge i pingis, konstaterar Chris Härenstam."
+   "title": "Pappans dagböcker visar verkligheten i nazisternas ”mönstergetto”",
+   "date": "2026-10-18T03:30:01.000Z",
+   "link": "https://www.svt.se/kultur/pappans-dagbocker-visar-verkligheten-i-nazisternas-monstergetto",
+   "desc": "Pavel Fischl överlevde både Theresienstadt-gettot och förintelselägret Auschwitz. Mot alla odds klarade sig också hans dagböcker undan nazisterna. Nu ges de ut på svenska och Kulturnyheterna har träffat Pavels son Michael Dagan som står bakom utgivningen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Lyxklockor stals från olåst monter på NK – tjuven fångades på film",
+   "date": "2026-10-18T03:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/lyxklockor-stals-fran-olast-monter-pa-nk-tjuven-fangades-pa-film",
+   "desc": "Två lyxklockor värda nästan en halv miljon kronor stals från en olåst glasmonter på varuhuset NK. Hela stölden fångades av butikens övervakningskameror."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-16T19:32:43.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-skjuten-i-idrottshall-i-sodra-stockholm",
    "desc": "Den kvinna som sköts i Älvsjö igår har avlidit. Två pojkar under 18 år har anhållits på sannolika skäl misstänkta för mord. De är inte hemmahörande i Stockholm. – De ser inte ut att ha någon koppling till brottsoffret, säger kammaråklagare Lukas Tigerstrand till SVT Nyheter."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 16 oktober",
-   "date": "2026-10-16T17:43:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-16-oktober-hi1qx6",
-   "desc": "Det här har SVT Nyheter Stockholm rapporterat om torsdagen den 16 oktober."
   },
   {
    "src": "BBC",
