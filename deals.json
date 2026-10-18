@@ -1,40 +1,40 @@
 {
- "updated": "2026-10-17T08:07:42.049Z",
+ "updated": "2026-10-18T08:24:22.517Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
-   "price": "19 kr/kg",
+   "item": "Färsk laxfilé Norge",
+   "price": "89 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
-   "price": "59 kr",
+   "item": "Svenska äpplen Aroma",
+   "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Pumpa Hokkaido, styck",
-   "price": "15 kr",
+   "item": "Färsk kycklingfilé 1kg",
+   "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Rapsolja Castello 1L",
-   "price": "22 kr",
+   "item": "Pumpa Hokkaido",
+   "price": "12 kr/st",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (fryst)",
-   "price": "49 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Stearinljus doftljus, 3-pack",
+   "item": "Stearinljus 10-pack",
    "price": "39 kr",
    "url": "https://www.rusta.com/se"
   }
