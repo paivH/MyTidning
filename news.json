@@ -1,13 +1,21 @@
 {
- "updated": "2026-10-18T06:18:46.351Z",
+ "updated": "2026-10-18T11:31:58.716Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
-   "date": "2026-10-18T05:56:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
+   "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+   "date": "2026-10-18T10:53:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+   "desc": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+   "date": "2026-10-17T22:09:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans."
   },
   {
    "src": "BBC",
@@ -28,58 +36,74 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Deaths confirmed in major fire at Canada military base",
-   "date": "2026-10-18T04:00:50.000Z",
+   "title": "Several dead or injured in major fire at Canada military base",
+   "date": "2026-10-18T08:52:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "date": "2026-10-18T01:10:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+   "desc": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Liten orkidé symbol för rödgrön konflikt – skogspolitiken splittrar",
-   "date": "2026-10-18T03:59:53.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/liten-orkide-symbol-for-rodgron-konflikt-skogspolitiken-splittrar",
-   "desc": "Skogspolitiken kan bli en svår knäckfråga i förhandlingarna om en rödgrön regering. Centerpartiet och Miljöpartiet står långt ifrån varandra."
+   "title": "Boende efter dödsskjutningen i Älvsjö: ”Sorg och förtvivlan”",
+   "date": "2026-10-18T10:43:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/boende-efter-dodsskjutningen-i-alvsjo-oro-och-chock",
+   "desc": "Under söndagsmorgonen brinner ljus utanför Kämpetorpshallarna i Älvsjö. Fredagens dödsskjutning har påverkat både boende och kollegor till den dödade kvinnan. – Första känslan är ju oro och chock. Jag börjar tänka på min egen tonåring som nyss gått på den skolan. Så det känns ju väldigt nära, säger Suzan Habib, som bor i området."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tre frågor där tuffa strider väntar mellan de rödgröna partierna",
-   "date": "2026-10-18T03:56:27.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/tre-fragor-dar-tuffa-strider-vantar-mellan-de-rodgrona-partierna",
-   "desc": "Synen på SD, att utsläppen ska ner och att tonårsutvisningar ska stoppas – där är de rödgröna överens. Men i flera centrala politiska områden spretar viljorna. SVT:s politikreporter reder ut positionerna i stridsfrågorna."
+   "title": "Förödelsen stor efter protesterna i Frankrike",
+   "date": "2026-10-18T09:26:34.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/forodelsen-stor-efter-protesterna-i-frankrike",
+   "desc": "Dagen efter de våldsamma protesterna vaknar Frankrike upp till omfattande förstörelse, med spår av bränder, plundring och vandalism på flera håll runt om i landet. Nu kräver borgmästarna i landets tre största städer en ”transparent utredning av händelsekedjan som ledde till denna situation”."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här startar batterifabriken om i Skellefteå – Ida är tillbaka: ”Så kul”",
-   "date": "2026-10-18T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-startar-batterifabriken-om-i-skelleftea-ida-ar-tillbaka-sa-kul",
-   "desc": "Efter batteritillverkaren Northvolts konkurs 2025 har fabriken i Skellefteå gått på sparlåga. Men nu laddar fabriken om och ska börja leverera sina första batterier i början av nästa år. – Jag har längtat, säger Linda Hammega, som är en av de anställda som återvänt."
+   "title": "Dejan Kulusevski med i Tottenhams trupp – första gången på över ett år",
+   "date": "2026-10-18T09:00:45.000Z",
+   "link": "https://www.svt.se/sport/fotboll/dejan-kulusevski-med-i-tottenhams-trupp-forsta-gangen-pa-over-ett-ar",
+   "desc": "Väntan har varit lång. Men nu är han tillbaka igen. Dejan Kulusevski finns med i Tottenhams trupp i mötet med Coventry. – Han kommer att vara med på bänken, säger tränare Roberto De Zerbi."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Richard, 35, hyllades för insatsen vid radhusbranden i Arboga – nu ska han bli brandman",
-   "date": "2026-10-18T03:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/richard-35-hyllades-for-insatsen-vid-radhusbranden-i-arboga-nu-ska-han-bli-brandman",
-   "desc": "När radhusbranden rasade i Arboga hjälpte Richard Alun, 35, räddningstjänsten med att dra slang, söka vattenposter och vada i ån för att få igång pumpen. – Det kändes som en film. Det var tur att de kom ganska fort så jag kunde fråga om de behövde hjälp, säger Richard Alun."
+   "title": "Lionel Messi förlängde sin poängsvit efter två nya mål",
+   "date": "2026-10-18T08:21:50.000Z",
+   "link": "https://www.svt.se/sport/fotboll/lionel-messi-forlangde-sin-poangsvit-efter-tva-nya-mal",
+   "desc": "Landslagskarriären är avslutad. Men i MLS ångar Lionel Messi på – två nya mål i natt och poängsviten är förlängd. – Ingen kan göra något åt honom, säger kommentatorn."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Pappans dagböcker visar verkligheten i nazisternas ”mönstergetto”",
-   "date": "2026-10-18T03:30:01.000Z",
-   "link": "https://www.svt.se/kultur/pappans-dagbocker-visar-verkligheten-i-nazisternas-monstergetto",
-   "desc": "Pavel Fischl överlevde både Theresienstadt-gettot och förintelselägret Auschwitz. Mot alla odds klarade sig också hans dagböcker undan nazisterna. Nu ges de ut på svenska och Kulturnyheterna har träffat Pavels son Michael Dagan som står bakom utgivningen."
+   "title": "Svenska landslagsåkarna om Victoria Carls comeback",
+   "date": "2026-10-18T06:23:53.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/svenska-landslagsakarna-om-victoria-carls-comeback",
+   "desc": "Tyska stjärnan Victoria Carl är på väg tillbaka efter en 18 månader lång dopningsavstängning. Då välkomnar de svenska åkarna henne med öppna armar. – Jag tror ingen tror att hon dopat sig medvetet, säger Johanna Hagström till SVT Sport."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Boende efter dödsskjutningen i Älvsjö: ”Sorg och förtvivlan”",
+   "date": "2026-10-18T10:43:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/boende-efter-dodsskjutningen-i-alvsjo-oro-och-chock",
+   "desc": "Under söndagsmorgonen brinner ljus utanför Kämpetorpshallarna i Älvsjö. Fredagens dödsskjutning har påverkat både boende och kollegor till den dödade kvinnan. – Första känslan är ju oro och chock. Jag börjar tänka på min egen tonåring som nyss gått på den skolan. Så det känns ju väldigt nära, säger Suzan Habib, som bor i området."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Skolinspektionen överväger ny tillsyn av Sigtunaskolan",
+   "date": "2026-10-18T09:42:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skolinspektionen-overvager-ny-tillsyn-av-sigtunaskolan",
+   "desc": "Efter förra veckans polisinsats mot internatskolan i Sigtuna överväger Skolinspektionen att genomföra en ny tillsyn. Om skolan inte följer skollagen kan myndigheten välja att ta till skarpare åtgärder. – Vi kan förena våra krav med ett vite. Vi kan tillfälligt stänga skolan, säger generaldirektör Marie Axelsson till TV4 Nyheterna."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Efter spruckna förhandlingar: Fyrklöver på gång i Region Stockholm",
+   "date": "2026-10-18T07:04:45.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-spruckna-forhandlingar-nytt-styre-pa-gang-i-region-stockholm",
+   "desc": "Socialdemokraterna, Miljöpartiet, Centerpartiet och Liberalerna kan bli lösningen på vilka som ska styra Region Stockholm i en minoritet. Det skriver finansregionrådet Aida Hadžialić (S) på Facebook. Så sent som för tio dagar sedan ingick också Kristdemokraterna i planen att styra Regionen, men det samarbetet sprack."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-10-17T17:37:44.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-17-oktober-49ck26",
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under lördagen den 17 oktober"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Den skjutna kvinnan jobbade med unga i Stockholms kommun",
-   "date": "2026-10-17T10:05:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/den-skjutna-kvinnan-jobbar-med-unga-i-stockholms-kommun",
-   "desc": "Kvinnan som sköts i en idrottshall i Älvsjö i södra Stockholm på fredagskvällen är medarbetare inom kommunens ungdomsverksamhet. – Det är en fruktansvärd händelse och alla våra tankar går till familjen, anhöriga och medarbetarna i vår organisation som också drabbas av det här, säger Lee Orberson, stadsdelsdirektör i Hägersten-Älvsjö. På lördagskvällen meddelade polisen att kvinnan avlidit."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Han blir ny ålderspresident i Stockholms stadshus",
-   "date": "2026-10-17T03:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/han-blir-ny-alderspresident-i-stockholms-stadshus",
-   "desc": "Liberalernas Björn Ljung tar över titeln som ålderspresident i Stockholms kommunfullmäktige när avgående finansborgarrådet Karin Wanngård (S) lämnar. – Jag ska sköta mitt ämbete med stor varsamhet och respekt för vårt fina fullmäktige, säger Björn Ljung (L)."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kvinna död efter skjutning i idrottshall i södra Stockholm – två anhållna",
-   "date": "2026-10-16T19:32:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-skjuten-i-idrottshall-i-sodra-stockholm",
-   "desc": "Den kvinna som sköts i Älvsjö igår har avlidit. Två pojkar under 18 år har anhållits på sannolika skäl misstänkta för mord. De är inte hemmahörande i Stockholm. – De ser inte ut att ha någon koppling till brottsoffret, säger kammaråklagare Lukas Tigerstrand till SVT Nyheter."
   },
   {
    "src": "BBC",
