@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:18:59.809Z",
+ "updated": "2026-10-18T18:14:19.562Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-   "date": "2026-10-18T11:57:49.000Z",
+   "date": "2026-10-18T15:46:10.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
    "desc": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
   },
@@ -44,6 +44,22 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Bläckfisken ökar i Nordsjön: ”Sugkopparna gör ingenting – det är jättegott”",
+   "date": "2026-10-18T17:44:07.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/blackfisken-okar-i-nordsjon-sugkopparna-gor-ingenting-det-ar-jattegott",
+   "desc": "Fångsten av bläckfisk i Nordsjön har tredubblats på ett år samtidigt som andra fiskebestånd är under press. När havet skiftar meny bör vi också ändra vad vi serverar på tallriken, menar den danske professorn Ole G. Mouritsen. – Sugkopparna gör ingenting. När man smakar märker man att det är jättegott."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Anton Källberg förlorade EM-finalen efter jätterysare",
+   "date": "2026-10-18T17:00:38.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/anton-kallberg-forlorade-em-finalen-efter-jatterysare",
+   "desc": "Franske världstvåan Felix Lebrun blev för svår. Anton Källberg förlorade en tajt EM-final – efter att ha blivit utklassad i det avgörande skiljesetet. – Det kändes bra, förutom i de två sista seten då jag är i princip chanslös, säger en besviken silvermedaljör till SVT."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Martin Ponsiluoma med ny seger i Tyskland: ”Vilken king han är”",
    "date": "2026-10-18T14:50:57.000Z",
    "link": "https://www.svt.se/sport/rullskidor/ponsiluoma-med-ny-seger-i-tyskland-vilken-king-han-ar",
@@ -66,20 +82,12 @@
    "desc": "Anton Källberg skrällde mot tysken Dang Qiu. 29-åringen vann en svängig match med 4–2 i set och är klar för EM-final. – En Källberg för ett år sen hade inte vänt här, säger J-O Waldner i SVT:s sändning."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Häcken stormar mot guldet – efter Tindells show: ”Stänger ligan”",
-   "date": "2026-10-18T12:51:45.000Z",
-   "link": "https://www.svt.se/sport/fotboll/hacken-stormar-mot-guldet-efter-tindells-show-stanger-ligan",
-   "desc": "Häcken har tagit ett rejält grepp om SM-guldet. Det efter dagens kross mot tabelltvåan Hammarby där Tabitha Tindell stod för två baljor. – Spelar vi som vi gjorde idag i resterande matcher så ser jag inte vad som ska stoppa oss, säger Häckens Anna Anvegård efter matchen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Boende efter dödsskjutningen i Älvsjö: ”Sorg och förtvivlan”",
-   "date": "2026-10-18T10:43:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/boende-efter-dodsskjutningen-i-alvsjo-oro-och-chock",
-   "desc": "Att en ung kvinna sköts ihjäl i Kämpetorpshallarna på fredagskvällen har påverkat många boende i området. Sabah Göranson från Älvsjö besökte på söndagen platsen för att lämna en blomma. – Det är fruktansvärt att ytterligare en människa förlorar sitt liv på det här sättet, i en skjutning. Jag kände att jag måste gå ut och visa att jag bryr mig, säger hon."
+   "title": "Nyheter från dagen: 18 oktober",
+   "date": "2026-10-18T17:40:45.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-18-oktober-jrm8ul",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 18 oktober"
   },
   {
    "src": "STHLM",
@@ -114,20 +122,28 @@
    "desc": "Två lyxklockor värda nästan en halv miljon kronor stals från en olåst glasmonter på varuhuset NK. Hela stölden fångades av butikens övervakningskameror."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 17 oktober",
-   "date": "2026-10-17T17:37:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-17-oktober-49ck26",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under lördagen den 17 oktober"
+   "src": "BBC",
+   "section": "United",
+   "title": "'Man Utd just can't seem to hold on to a lead.'",
+   "date": "2026-10-18T17:42:42.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c699zm3ky3lzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United fan Jay Motty is concerned about his side's inability to hold on to a lead, after they squandered a 1-0 advantage to draw 1-1 at Leeds United."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
-   "date": "2026-10-18T14:56:01.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road."
+   "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+   "date": "2026-10-18T17:24:45.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Carrick backs Man Utd to respond to 'struggle'",
+   "date": "2026-10-18T17:15:33.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmx2394lq9yyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United manager Michael Carrick backed his side to respond to their early season struggle after picking up seven points from their first seven matches in the Premier League."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-10-16T16:16:34.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/ckq5n3wvg65do?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United head coach Michael Carrick says the club have \"moved on\" from Lisandro Martinez's explosive post-match comments earlier this week."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'I am telling you the truth' - Carrick on Martinez fallout",
-   "date": "2026-10-16T13:59:12.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Martinez apologises for outburst and fined by Man Utd",
-   "date": "2026-10-15T18:03:28.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy."
   }
  ]
 }
