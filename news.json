@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-18T11:31:58.716Z",
+ "updated": "2026-10-18T15:18:59.809Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-   "date": "2026-10-18T10:53:54.000Z",
+   "date": "2026-10-18T12:07:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-   "desc": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
+   "desc": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-   "date": "2026-10-17T22:09:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans."
+   "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+   "date": "2026-10-18T11:57:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+   "desc": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
   },
   {
    "src": "BBC",
@@ -29,17 +29,49 @@
    "src": "BBC",
    "section": "Världen",
    "title": "European diplomats attacked by Israeli settlers in West Bank",
-   "date": "2026-10-17T23:52:38.000Z",
+   "date": "2026-10-18T12:16:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
    "desc": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Several dead or injured in major fire at Canada military base",
-   "date": "2026-10-18T08:52:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright."
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "date": "2026-10-18T01:10:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Martin Ponsiluoma med ny seger i Tyskland: ”Vilken king han är”",
+   "date": "2026-10-18T14:50:57.000Z",
+   "link": "https://www.svt.se/sport/rullskidor/ponsiluoma-med-ny-seger-i-tyskland-vilken-king-han-ar",
+   "desc": "Under lördagen tog Martin Ponsiluoma hem segern i supersprinten. Under söndagens masstart återupprepade han succén. – Det är så roligt att se honom när han på detta humöret, säger SVT:s kommentator Ola Bränholm."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Joakim Persson med dubbla fullträffar när Sirius tappade poäng sent",
+   "date": "2026-10-18T13:50:40.000Z",
+   "link": "https://www.svt.se/sport/fotboll/joakim-persson-med-dubbla-fulltraffar-nar-sirius-tappade-poang-sent",
+   "desc": "Efter två mål på tre minuter från Joakim Persson såg Sirius ut att vara på väg mot tre tunga poäng i guldstriden. Men Elfsborgs stekhete anfallare Leo Östman kvitterade sent och ordnade en pinne till Boråslaget på Studenternas. – Två onödiga mål, just nu känns det som två förlorade poäng, säger Sirius Marcus Lindberg till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Anton Källberg klar för EM-final efter skrällseger",
+   "date": "2026-10-18T13:19:44.000Z",
+   "link": "https://www.svt.se/sport/bordtennis/anton-kallberg-klar-for-em-final-efter-skrallseger",
+   "desc": "Anton Källberg skrällde mot tysken Dang Qiu. 29-åringen vann en svängig match med 4–2 i set och är klar för EM-final. – En Källberg för ett år sen hade inte vänt här, säger J-O Waldner i SVT:s sändning."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Häcken stormar mot guldet – efter Tindells show: ”Stänger ligan”",
+   "date": "2026-10-18T12:51:45.000Z",
+   "link": "https://www.svt.se/sport/fotboll/hacken-stormar-mot-guldet-efter-tindells-show-stanger-ligan",
+   "desc": "Häcken har tagit ett rejält grepp om SM-guldet. Det efter dagens kross mot tabelltvåan Hammarby där Tabitha Tindell stod för två baljor. – Spelar vi som vi gjorde idag i resterande matcher så ser jag inte vad som ska stoppa oss, säger Häckens Anna Anvegård efter matchen."
   },
   {
    "src": "SVT",
@@ -47,39 +79,7 @@
    "title": "Boende efter dödsskjutningen i Älvsjö: ”Sorg och förtvivlan”",
    "date": "2026-10-18T10:43:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/boende-efter-dodsskjutningen-i-alvsjo-oro-och-chock",
-   "desc": "Under söndagsmorgonen brinner ljus utanför Kämpetorpshallarna i Älvsjö. Fredagens dödsskjutning har påverkat både boende och kollegor till den dödade kvinnan. – Första känslan är ju oro och chock. Jag börjar tänka på min egen tonåring som nyss gått på den skolan. Så det känns ju väldigt nära, säger Suzan Habib, som bor i området."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Förödelsen stor efter protesterna i Frankrike",
-   "date": "2026-10-18T09:26:34.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/forodelsen-stor-efter-protesterna-i-frankrike",
-   "desc": "Dagen efter de våldsamma protesterna vaknar Frankrike upp till omfattande förstörelse, med spår av bränder, plundring och vandalism på flera håll runt om i landet. Nu kräver borgmästarna i landets tre största städer en ”transparent utredning av händelsekedjan som ledde till denna situation”."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Dejan Kulusevski med i Tottenhams trupp – första gången på över ett år",
-   "date": "2026-10-18T09:00:45.000Z",
-   "link": "https://www.svt.se/sport/fotboll/dejan-kulusevski-med-i-tottenhams-trupp-forsta-gangen-pa-over-ett-ar",
-   "desc": "Väntan har varit lång. Men nu är han tillbaka igen. Dejan Kulusevski finns med i Tottenhams trupp i mötet med Coventry. – Han kommer att vara med på bänken, säger tränare Roberto De Zerbi."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lionel Messi förlängde sin poängsvit efter två nya mål",
-   "date": "2026-10-18T08:21:50.000Z",
-   "link": "https://www.svt.se/sport/fotboll/lionel-messi-forlangde-sin-poangsvit-efter-tva-nya-mal",
-   "desc": "Landslagskarriären är avslutad. Men i MLS ångar Lionel Messi på – två nya mål i natt och poängsviten är förlängd. – Ingen kan göra något åt honom, säger kommentatorn."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Svenska landslagsåkarna om Victoria Carls comeback",
-   "date": "2026-10-18T06:23:53.000Z",
-   "link": "https://www.svt.se/sport/langdskidor/svenska-landslagsakarna-om-victoria-carls-comeback",
-   "desc": "Tyska stjärnan Victoria Carl är på väg tillbaka efter en 18 månader lång dopningsavstängning. Då välkomnar de svenska åkarna henne med öppna armar. – Jag tror ingen tror att hon dopat sig medvetet, säger Johanna Hagström till SVT Sport."
+   "desc": "Att en ung kvinna sköts ihjäl i Kämpetorpshallarna på fredagskvällen har påverkat många boende i området. Sabah Göranson från Älvsjö besökte på söndagen platsen för att lämna en blomma. – Det är fruktansvärt att ytterligare en människa förlorar sitt liv på det här sättet, i en skjutning. Jag kände att jag måste gå ut och visa att jag bryr mig, säger hon."
   },
   {
    "src": "STHLM",
@@ -87,7 +87,7 @@
    "title": "Boende efter dödsskjutningen i Älvsjö: ”Sorg och förtvivlan”",
    "date": "2026-10-18T10:43:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/boende-efter-dodsskjutningen-i-alvsjo-oro-och-chock",
-   "desc": "Under söndagsmorgonen brinner ljus utanför Kämpetorpshallarna i Älvsjö. Fredagens dödsskjutning har påverkat både boende och kollegor till den dödade kvinnan. – Första känslan är ju oro och chock. Jag börjar tänka på min egen tonåring som nyss gått på den skolan. Så det känns ju väldigt nära, säger Suzan Habib, som bor i området."
+   "desc": "Att en ung kvinna sköts ihjäl i Kämpetorpshallarna på fredagskvällen har påverkat många boende i området. Sabah Göranson från Älvsjö besökte på söndagen platsen för att lämna en blomma. – Det är fruktansvärt att ytterligare en människa förlorar sitt liv på det här sättet, i en skjutning. Jag kände att jag måste gå ut och visa att jag bryr mig, säger hon."
   },
   {
    "src": "STHLM",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+   "date": "2026-10-18T14:56:01.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Ranking the Premier League's all-time greatest super subs",
    "date": "2026-10-16T21:15:47.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "date": "2026-10-15T18:03:28.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Man Utd a circus after Martinez comments - Keane",
-   "date": "2026-10-15T10:57:15.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&at_campaign=rss",
-   "desc": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane."
   }
  ]
 }
