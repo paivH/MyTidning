@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-18T20:56:50.847Z",
+ "updated": "2026-10-18T22:48:56.254Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-   "date": "2026-10-18T12:07:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-   "desc": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -21,9 +13,25 @@
    "src": "BBC",
    "section": "Världen",
    "title": "What we know so far about deadly fire at Canadian military base",
-   "date": "2026-10-18T19:42:37.000Z",
+   "date": "2026-10-18T21:37:56.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
    "desc": "At least four people are confirmed to have died after a huge fire swept through the base."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+   "date": "2026-10-18T22:10:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+   "date": "2026-10-18T21:00:22.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+   "desc": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs."
   },
   {
    "src": "BBC",
@@ -32,14 +40,6 @@
    "date": "2026-10-18T15:46:10.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
    "desc": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-   "date": "2026-10-18T05:04:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
   },
   {
    "src": "SVT",
