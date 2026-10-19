@@ -1,21 +1,13 @@
 {
- "updated": "2026-10-19T18:40:13.294Z",
+ "updated": "2026-10-19T22:47:33.580Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Australian MP critically injured after being hit by car in apparent attack",
-   "date": "2026-10-19T14:09:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-   "desc": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-   "date": "2026-10-19T18:23:50.000Z",
+   "date": "2026-10-19T20:49:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks."
+   "desc": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing."
   },
   {
    "src": "BBC",
@@ -28,58 +20,66 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-   "date": "2026-10-19T16:22:12.000Z",
+   "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+   "date": "2026-10-19T21:12:30.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
    "desc": "The Saudi government did not immediately respond to BBC requests for comment."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-   "date": "2026-10-19T13:44:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
+   "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+   "date": "2026-10-19T21:02:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+   "desc": "The two top tennis pros married in 2021 and have one child together."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Exiled critic of Rwandan president found beheaded",
+   "date": "2026-10-19T13:42:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+   "desc": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stort vapentillslag – hittade 31 vapen hos man",
-   "date": "2026-10-19T16:09:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/stort-vapentillslag-hittade-31-vapen-hos-man",
-   "desc": "En man i 35-årsåldern utan vapenlicens, boende i Vimmerby kommun, hade gevär, pistoler, revolvrar och en kulspruta hemma i sin bostad och i en lagerlokal. Nu misstänks han för flera brott. – Det är ett av de större vapenbeslagen som gjorts i Sverige, säger åklagare Jacob Semark."
+   "title": "Experterna om Mjällbys sits: ”Kommer att få kvala”",
+   "date": "2026-10-19T20:25:23.000Z",
+   "link": "https://www.svt.se/sport/fotboll/experterna-om-mjallbys-sits-kommer-att-fa-kvala",
+   "desc": "Regerande mästaren är i ett prekärt läge. Negativt kval lär vänta. – Jag är väldigt, väldigt orolig för Mjällby, säger fotbollskrönikören Therese Strömberg i Fotbollsstudion."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här är de nominerade till Augustpriset 2026",
-   "date": "2026-10-19T16:00:09.000Z",
-   "link": "https://www.svt.se/kultur/har-ar-de-nominerade-till-augustpriset-2026",
-   "desc": "Sjöar, kyssar och Gustav Vasa. Årets nomineringar till Augustpriset är här, och listan innehåller allt från ungdomskärlek till tankar om döden och en studie av fiskars inre tankeliv."
+   "title": "AI och slagsmål i Göteborg – inte upploppen i Frankrike",
+   "date": "2026-10-19T20:02:55.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ai-och-slagsmal-i-goteborg-de-har-bilderna-visar-inte-upploppen-i-frankrike",
+   "desc": "En palestinaflagga hissas högt från franska nationalsymbolen Eiffeltornet, och ett gammalt par förnedras av demonstranter – det är bara två exempel på falska klipp som nu sprids i sociala medier och påstås visa helgens upplopp."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ali, 26, fick jobb på Ikea – sedan drog de tillbaka anställningen",
-   "date": "2026-10-19T15:48:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/ali-26-fick-jobb-pa-ikea-sedan-drog-de-tillbaka-anstallningen",
-   "desc": "Ali Alshihan, 26, sökte ett jobb på Ikea som han sedan via mejl fick veta att han fått. Fem dagar senare fick han mejl från Ikea att han inte längre hade fått jobbet och att Ikea hade förväxlat honom med en annan person."
+   "title": "Efter 43 år – Christiane Amanpour lämnar CNN",
+   "date": "2026-10-19T19:48:21.000Z",
+   "link": "https://www.svt.se/kultur/efter-43-ar-christiane-amanpour-lamnar-cnn",
+   "desc": "En av CNN:s mest välkända profiler, Christiane Amanpour, lämnar kanalen efter 43 år."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Huthiattack mot militärläger i Jemen – minst 53 dödades",
-   "date": "2026-10-19T15:04:54.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/huthiattack-mot-militarlager-i-jemen-minst-53-dodades",
-   "desc": "Minst 53 personer har dödats i en huthiattack mot ett militärläger för regeringsstyrkor i Jemen. Det är en av de dödligaste attackerna under den senaste tidens upptrappning, rapporterar AP."
+   "title": "Stopp på E45 – lastbil har vält utanför Ollsta",
+   "date": "2026-10-19T19:46:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/stopp-pa-e45-lastbil-har-valt-utanfor-ollsta",
+   "desc": "En lastbilsolycka har skett på E45 strax norr om Ollsta på måndagskvällen, mellan Häggenås och Lorås. Den orsakar stor trafikpåverkan."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Grannen Elliot efter mordet på Erikslid: ”En läskig syn”",
-   "date": "2026-10-19T14:54:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/grannen-elliot-efter-mordet-pa-erikslid-en-laskig-syn",
-   "desc": "Elliot Holmgren bor i samma trapphus på Erikslid i Skellefteå som där det misstänkta mordet ska ha inträffat i fredags. – Det var blodstänk och droppar överallt, säger han."
+   "title": "Måltorkan är över – Kalmar FF vann ångestmötet med Degerfors IF",
+   "date": "2026-10-19T18:50:10.000Z",
+   "link": "https://www.svt.se/sport/fotboll/maltorkan-ar-over-kalmar-ff-vann-angestmotet-med-degerfors-if",
+   "desc": "Den långa måltorkan är över. Kalmar bortaslog Degerfors med 2–1 i det allsvenska ångestmötet och klättrar upp på säker mark i tabellen. – Sjukt skönt. Bara att få göra mål är extra bra för det här laget, säger Vilmer Tyrén till SVT Sport."
   },
   {
    "src": "STHLM",
