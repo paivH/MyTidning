@@ -1,30 +1,6 @@
 {
- "updated": "2026-10-19T05:40:11.569Z",
+ "updated": "2026-10-19T12:00:07.859Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Macron calls for 'calm and order' after riots across France",
-   "date": "2026-10-19T05:07:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-   "desc": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "France's government under pressure after weekend of widespread violence",
-   "date": "2026-10-19T04:16:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-   "desc": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Major fire at Canada military base leaves four dead, dozens injured",
-   "date": "2026-10-18T23:06:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-   "desc": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\"."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -36,50 +12,98 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-   "date": "2026-10-18T23:20:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+   "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+   "date": "2026-10-19T09:24:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+   "date": "2026-10-19T10:33:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+   "desc": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+   "date": "2026-10-19T06:00:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+   "desc": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+   "date": "2026-10-19T09:11:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+   "desc": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance."
   },
   {
    "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rakade kvinnas underliv på äldreboende i Vännäs – vårdare döms till ett års fängelse",
+   "date": "2026-10-19T11:47:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/rakade-kvinnas-underliv-pa-aldreboende-i-vannas-vardare-doms-till-ett-ars-fangelse",
+   "desc": "En vårdare rakade en äldre kvinnas underliv på ett äldreboende i Vännäs kommun. Nu döms mannen, som är i 30-årsåldern, för sexuellt övergrepp till ett års fängelse."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tonåring häktad för rån i Kalmar – en jagas fortfarande",
+   "date": "2026-10-19T11:17:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/tonaring-haktad-for-ran-i-kalmar-en-jagas-fortfarande",
+   "desc": "En 19-åring häktas efter rånet mot en guldbutik i Kalmar på torsdagen förra veckan. Den andra rånaren är fortsatt på fri fot."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Svensk död i klättringsolycka på Malta",
+   "date": "2026-10-19T10:37:00.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/svensk-dod-i-klattringsolycka-pa-malta",
+   "desc": "En svensk man har omkommit i en klättringsolycka på Malta, rapporterar P4 Sjuhärad."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Åtal efter skoldådet i Fagersta dröjer – åklagaren: ”Mycket arbete återstår”",
+   "date": "2026-10-19T10:09:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/atal-efter-skoldadet-i-fagersta-drojer-aklagaren-mycket-arbete-aterstar",
+   "desc": "Åtalet efter skoldådet i Fagersta, då en flicka dog och tre pojkar skadades, dröjer. Över 760 förhör har gjorts – nu har åklagaren begärt och fått mer tid. – Min bedömning är att vi börjar få en klarare bild av händelseförloppet på skolan men mycket arbete återstår, säger senior åklagare Ann-Sofie Trossing."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Se den gigantiska dopingfabriken i Skellefteå – par togs på bar gärning",
+   "date": "2026-10-19T10:09:29.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/se-den-gigantiska-dopingfabriken-i-skelleftea-par-togs-pa-bar-garning",
+   "desc": "En gigantisk dopningfabrik har avslöjats i Skellefteå. Ett par togs på bar gärning när polisen slog till och genomförde en husrannsakan. Mannen och kvinnan misstänks för grovt dopningsbrott. – Mannen stod och kokade testosteron-olja i köket, kvinnan var också där. Det var en väldigt lycklig slump, säger Irene Falk, åklagare."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Stadsdelen om den avlidna kvinnan: ”Högt skattad medarbetare”",
+   "date": "2026-10-19T09:15:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stadsdelen-om-den-avlidna-kvinnan-hogt-skattad-medarbetare",
+   "desc": "I fredagskväll sköts en kvinna i 25-årsåldern i en idrottshall i Älvsjö. Hon avled under lördagen på sjukhus. Kvinnan jobbade inom stadsdelsförvaltningen med barn och unga."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Två nya misstänkta brottsoffer vid Sigtunaskolan",
+   "date": "2026-10-19T07:59:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-nya-misstankta-brottsoffer-vid-sigtunaskolan",
+   "desc": "Fallet vid Sigtunaskolan humanistiska läroverket fortsätter växa. Ytterligare två personer har uppmärksammats som misstänkta brottsoffer i utredningen. Dessutom har fler brottsrubricreingar tillkommit."
+  },
+  {
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Gunnar Strömmer (M) om skjutningen i Älvsjö: ”Väldigt obehagligt”",
    "date": "2026-10-19T03:45:20.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/gunnar-strommer-m-om-skjutningen-i-alvsjo-valdigt-obehagligt",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/gunnar-strommer-m-om-skjutningen-i-alvsjo-valdigt-obehagligt",
    "desc": "Kvinnan som dödades i fredags arbetade med att hjälpa ungdomar. Hon dog efter att ha blivit skjuten på en idrottsanläggning och händelsen har lett till stor oro. – Det är klart att det känns väldigt, väldigt obehagligt, säger justitieminister Gunnar Strömmer (M)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här är fastighetsköpen som Finland stoppat – Sverige saknar liknande lag",
-   "date": "2026-10-19T03:44:07.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/har-ar-fastighetskopen-som-finland-stoppat-sverige-saknar-liknande-lag",
-   "desc": "Fastigheter nära kritisk infrastruktur, osannolika affärsplaner och köpare med kopplingar till rysk elit. Finland har stoppat 68 fastighetsaffärer sedan 2022 med hänvisning till säkerhetsrisker. I Sverige hade köpen sannolikt genomförts."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Samiska på recept? Forskare kopplar samman språk och psykisk hälsa",
-   "date": "2026-10-19T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/sapmi/samiska-pa-recept-forskare-kopplar-samman-sprak-och-psykisk-halsa",
-   "desc": "När Giellavahkku/samiska språkveckan startar, tar forskaren Jon Petter Stoor ut svängarna. När språkets betydelse ska diskuteras, lyfter han frågan om språk och hälsa. – Det är en fråga jag ställer om inte samiska på recept vore något, säger han."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Maten snabbt slut vid strypt import – olönsamt att producera mera",
-   "date": "2026-10-19T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/maten-snabbt-slut-vid-strypt-import-olonsamt-att-producera-mera",
-   "desc": "Sverige är beroende av importen av livsmedel, det menar lantbrukarorganisationen LRF, som gjort beräkningar på hur fort livsmedel skulle ta slut om importen ströps. Tomaterna skulle saknas efter två månader. Eva Hörnström som odlar tomater i Timrå har möjlighet att odla mera men bedömer det som olönsamt. – Det går mycket tomater på en elräkning, säger hon och menar att el och bränslekostnader påverkar odlingen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så lyckades nya fritidsgården i Ronna locka fler tjejer",
-   "date": "2026-10-19T03:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/sa-lyckades-nya-fritidsgarden-i-ronna-locka-fler-tjejer",
-   "desc": "Sedan flytten från Rösberga fritidsgård till Mosaik aktivitetshus i Ronna har allt fler tjejer hittat till mötesplatsen. – Det känns tryggare att vara här när det är fler tjejer, säger Narin Özturk, som är på plats flera dagar i veckan."
   },
   {
    "src": "STHLM",
@@ -98,41 +122,17 @@
    "desc": "Detta har SVT Nyheter Stockholm rapporterat om under söndagen den 18 oktober"
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Boende efter dödsskjutningen i Älvsjö: ”Sorg och förtvivlan”",
-   "date": "2026-10-18T10:43:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/boende-efter-dodsskjutningen-i-alvsjo-oro-och-chock",
-   "desc": "Att en ung kvinna sköts ihjäl i Kämpetorpshallarna på fredagskvällen har påverkat många boende i området. Sabah Göranson från Älvsjö besökte på söndagen platsen för att lämna en blomma. – Det är fruktansvärt att ytterligare en människa förlorar sitt liv på det här sättet, i en skjutning. Jag kände att jag måste gå ut och visa att jag bryr mig, säger hon."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Skolinspektionen överväger ny tillsyn av Sigtunaskolan",
-   "date": "2026-10-18T09:42:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skolinspektionen-overvager-ny-tillsyn-av-sigtunaskolan",
-   "desc": "Efter förra veckans polisinsats mot internatskolan i Sigtuna överväger Skolinspektionen att genomföra en ny tillsyn. Om skolan inte följer skollagen kan myndigheten välja att ta till skarpare åtgärder. – Vi kan förena våra krav med ett vite. Vi kan tillfälligt stänga skolan, säger generaldirektör Marie Axelsson till TV4 Nyheterna."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Efter spruckna förhandlingar: Fyrklöver på gång i Region Stockholm",
-   "date": "2026-10-18T07:04:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/efter-spruckna-forhandlingar-nytt-styre-pa-gang-i-region-stockholm",
-   "desc": "Socialdemokraterna, Miljöpartiet, Centerpartiet och Liberalerna kan bli lösningen på vilka som ska styra Region Stockholm i en minoritet. Det skriver finansregionrådet Aida Hadžialić (S) på Facebook. Så sent som för tio dagar sedan ingick också Kristdemokraterna i planen att styra Regionen, men det samarbetet sprack."
+   "src": "BBC",
+   "section": "United",
+   "title": "Where should Carrick play Fernandes?",
+   "date": "2026-10-19T11:29:31.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmz7x14ng01jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Is Michael Carrick getting the best out of Bruno Fernandes?"
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Leeds extend Man Utd's winless run to six games",
-   "date": "2026-10-18T18:59:10.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
-   "desc": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'Man Utd just can't seem to hold on to a lead.'",
+   "title": "'Man Utd just can't seem to hold on to a lead'",
    "date": "2026-10-18T17:42:42.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c699zm3ky3lzo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United fan Jay Motty is concerned about his side's inability to hold on to a lead, after they squandered a 1-0 advantage to draw 1-1 at Leeds United."
