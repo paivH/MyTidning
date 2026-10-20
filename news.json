@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-19T22:47:33.580Z",
+ "updated": "2026-10-20T01:31:39.137Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+   "date": "2026-10-19T21:14:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+   "desc": "It comes after the country's interior minister admits that police \"lost control\" in some cities."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,14 +28,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-   "date": "2026-10-19T21:12:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Saudi government did not immediately respond to BBC requests for comment."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
    "date": "2026-10-19T21:02:33.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
@@ -36,10 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Exiled critic of Rwandan president found beheaded",
-   "date": "2026-10-19T13:42:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-   "desc": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda."
+   "title": "Five ways El Niño is affecting the weather around the world",
+   "date": "2026-10-19T23:08:25.000Z",
+   "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+   "desc": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence."
   },
   {
    "src": "SVT",
