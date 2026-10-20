@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-20T17:44:52.192Z",
+ "updated": "2026-10-20T21:11:56.776Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+   "date": "2026-10-20T20:01:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+   "desc": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,7 +20,7 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+   "title": "Man charged with attack on Australia MP to face court",
    "date": "2026-10-20T11:25:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
    "desc": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
@@ -20,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-   "date": "2026-10-20T17:30:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-   "desc": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
+   "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+   "date": "2026-10-20T20:00:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+   "desc": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
   },
   {
    "src": "BBC",
@@ -34,12 +42,12 @@
    "desc": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-   "date": "2026-10-20T11:45:49.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-   "desc": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Storbråk i Frölundas kross – trångt i utvisningsbåset: ”Hätskt”",
+   "date": "2026-10-20T19:32:29.000Z",
+   "link": "https://www.svt.se/sport/ishockey/storbrak-i-frolundas-kross-trangt-i-utvisningsbaset-hatskt",
+   "desc": "Frölunda krossade Djurgården med 6–2 på hemmais. Då blev det heta känslor och hela elva (!) spelare satt i utvisningsbåset samtidigt. – Det är lite hätskt, säger TV4:s Kajsa Kalméus mellan båsen."
   },
   {
    "src": "SVT",
@@ -47,7 +55,7 @@
    "title": "Läckta uppgifter om tomtens hälsa anmäldes till Ivo",
    "date": "2026-10-20T16:30:09.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lackta-uppgifter-om-tomtens-halsa-anmaldes-till-ivo",
-   "desc": "Läkarens julskämt på Höglandssjukhuset i Eksjö landade inte helt rätt. En person reagerade på läcka patientuppgifter och anmälde händelsen till Ivo, inspektionen för vård och omsorg."
+   "desc": "Läkarens julskämt på Höglandssjukhuset i Eksjö landade inte helt rätt. En person reagerade på läckta patientuppgifter och anmälde händelsen till Ivo, inspektionen för vård och omsorg."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Trump vänder Zelenskyj ryggen. Det har han gjort förut, men den här gången kostar varje sanktionerat straff för ukrainsk olydnad liv. De ryska attackerna mot civila mål fortsätter."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Anundshög plundrat igen – museiechefen: ”Dags för kameraövervakning”",
-   "date": "2026-10-20T14:05:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/anundshog-plundrat-igen-narmare-20-gropar-upptackta-dags-for-kameraovervakning",
-   "desc": "Efter fjolårets gravplundringar vid Anundshög i Västerås väcktes diskussioner om kameraövervakning, men inget kom på plats. Nu har nya gropar upptäckts vid två av skeppsättningarna. – Men jag tror inte det är sant, det var bara såhär ”det kan inte hända igen”, säger Nina Eklöf, chef för Västerås museer."
+   "title": "Nyheter från dagen: 20 oktober",
+   "date": "2026-10-20T17:45:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-20-oktober-py5qt4",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under tisdagen den 20 oktober."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-20T10:45:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordforsok-i-norrtalje-en-till-sjukhus",
    "desc": "En person har förts till sjukhus med allvarliga skador efter ett misstänkt mordförsök i Norrtälje, uppger polisen. En misstänkt man i 35-årsåldern har anhållits."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "M om flyttat regionfullmäktige: ”Övertramp från S sida”",
-   "date": "2026-10-20T10:36:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/m-om-installt-regionfullmaktige-overtramp-fran-s-sida",
-   "desc": "Det saknas fortfarande ett styre i Region Stockholm, vilket fick regionfullmäktiges ålderspresident att skjuta upp tisdagens fullmäktigemöte där det nya styret skulle väljas. Fel, menar Moderaterna. – Att ställa in mötet för att man är rädd att fullmäktige ska fatta ett annat beslut än det Socialdemokraterna vill, det är allvarligt, säger Axel Conradi (M), oppositionsregionråd."
   },
   {
    "src": "BBC",
