@@ -1,41 +1,41 @@
 {
- "updated": "2026-10-19T09:25:01.519Z",
+ "updated": "2026-10-20T08:59:25.178Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
-   "price": "19 kr/kg",
+   "item": "Svenska äpplen Aroma, 1,5 kg",
+   "price": "25 kr",
    "url": "https://www.ica.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Rotsaksmix, 1 kg",
-   "price": "15 kr",
-   "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
    "item": "Kycklingfilé Kronfågel 900g",
-   "price": "69 kr",
+   "price": "59 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Köttbullar frysta 1 kg",
-   "price": "39 kr",
+   "item": "Rotfruktsmix i lösvikt",
+   "price": "15 kr/kg",
+   "url": "https://www.lidl.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Chokladkaka Fin Carletto 100g, 3 för",
+   "price": "20 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1 kg (Svenska matvaror)",
+   "item": "Köttbullar 1 kg, frysta",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Stormljus LED 3-pack",
-   "price": "79 kr",
+   "item": "Stearinljus & ljuslyktor, hösttema",
+   "price": "49 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
