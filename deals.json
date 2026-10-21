@@ -1,42 +1,42 @@
 {
- "updated": "2026-10-20T08:59:25.178Z",
+ "updated": "2026-10-21T08:58:19.623Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, 1,5 kg",
+   "item": "Svenska äpplen Aroma, lösvikt",
+   "price": "19 kr/kg",
+   "url": "https://www.ica.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Färsk laxfilé 400g",
+   "price": "49 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
+   "store": "ICA",
+   "item": "Rotfruktsblandning (morot, palsternacka, rödbeta) 1 kg",
    "price": "25 kr",
    "url": "https://www.ica.se"
   },
   {
-   "store": "ICA",
-   "item": "Kycklingfilé Kronfågel 900g",
-   "price": "59 kr",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Rotfruktsmix i lösvikt",
-   "price": "15 kr/kg",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Chokladkaka Fin Carletto 100g, 3 för",
-   "price": "20 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Stearinljus doftljus höst, 3-pack",
+   "price": "39 kr",
+   "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1 kg, frysta",
+   "item": "Köttbullar 1 kg fryst",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Rusta",
-   "item": "Stearinljus & ljuslyktor, hösttema",
-   "price": "49 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Svamp Kantareller 250g",
+   "price": "35 kr",
+   "url": "https://www.lidl.se"
   }
  ]
 }
