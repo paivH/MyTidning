@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-20T21:11:56.776Z",
+ "updated": "2026-10-21T00:00:13.865Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-   "date": "2026-10-20T20:01:04.000Z",
+   "date": "2026-10-20T21:27:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
    "desc": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
   },
@@ -16,6 +16,14 @@
    "date": "2026-10-20T12:08:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
    "desc": "France's second city saw some of the worst violence as chaos gripped the country on Saturday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Elon Musk says Tesla-SpaceX merger being considered",
+   "date": "2026-10-20T23:24:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
   },
   {
    "src": "BBC",
@@ -32,14 +40,6 @@
    "date": "2026-10-20T20:00:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
    "desc": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-   "date": "2026-10-20T16:59:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure."
   },
   {
    "src": "SVT",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Carrick wants more clean sheets to turn season around",
+   "date": "2026-10-20T21:27:35.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "'Manchester United's backline is not able to compete'",
    "date": "2026-10-20T15:04:38.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/ck5ynjvypw9jo?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "date": "2026-10-18T17:42:42.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c699zm3ky3lzo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United fan Jay Motty is concerned about his side's inability to hold on to a lead, after they squandered a 1-0 advantage to draw 1-1 at Leeds United."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
-   "date": "2026-10-18T17:24:45.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win."
   }
  ]
 }
