@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-21T15:28:04.055Z",
+ "updated": "2026-10-21T19:29:49.784Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-   "date": "2026-10-21T13:49:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-   "desc": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says."
+   "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+   "date": "2026-10-21T17:42:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+   "desc": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
   },
   {
    "src": "BBC",
@@ -20,6 +20,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+   "date": "2026-10-21T18:10:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Australian MP loses both legs after alleged car attack, husband says",
    "date": "2026-10-21T07:56:30.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
@@ -28,18 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-   "date": "2026-10-21T08:42:49.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+   "title": "Family of prison officer killed by IRA receives state apology",
+   "date": "2026-10-21T16:58:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+   "desc": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-   "date": "2026-10-21T05:46:33.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
-   "desc": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "SVT möter flyktingarna från katastrofbyn: ”Hundar äter döda kroppar”",
+   "date": "2026-10-21T18:43:26.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/svt-moter-flyktingarna-fran-katastrofbyn-hundar-ater-doda-kroppar",
+   "desc": "Den humanitära katastrofen i den ockuperade staden Olesjky i södra Ukraina växer. Trots att bara några kilometer skiljer staden från ukrainskkontrollerade områden, flyr människor åt andra hållet. Vägen över floden Dnipro är för farlig. SVT har träffat flyktingarna i Ukraina."
   },
   {
    "src": "SVT",
@@ -74,20 +82,28 @@
    "desc": "Nya bensin- och dieselbilar kan få fortsätta säljas efter 2035 – efter en uppgörelse i EU-parlamentet mellan bland annat socialdemokrater och moderater. Men S i Sverige tycker att uppgörelsen är dålig. – Vi svenska socialdemokrater är ju starkt kritiska till det här, säger Åsa Westlund."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Piteåbon Harald, 7 år, är bäst i Sverige på schack",
-   "date": "2026-10-21T13:53:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/piteabon-harald-7-ar-ar-bast-i-sverige-pa-schack",
-   "desc": "Harald Bergdahl, 7 år, från Öjebyn har vunnit Skol-SM i schack. Därmed tog han Norrbottens första seger i tävlingen på över 30 år och kan också titulera sig svensk mästare i sin åldersklass."
+   "title": "Nyheter från dagen: 21 oktober",
+   "date": "2026-10-21T18:01:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-21-oktober-zf6rr0",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under onsdagen den 21 oktober."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Barn åt godis som misstänks vara narkotika – fördes till sjukhus",
+   "title": "Här hedras offret i Älvsjö med tyst minut",
+   "date": "2026-10-21T16:22:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-hedras-offret-i-alvsjo-med-tyst-minut",
+   "desc": "På onsdagskvällen hölls en tyst minut för att hedra kvinnan som sköts till döds i Älvsjö. Ett hundratal samlades för att delta vid minnesplatsen. Bland de som sörjde fanns Vänsterpartiets partiledare Nooshi Dadgostar. – Våldet måste bort, vapnen måste bort, och alla de som rekryterar, det måste bara bort, säger hon."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Barn till sjukhus efter att ha ätit ”godis” – misstänks vara narkotika",
    "date": "2026-10-21T15:19:29.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/barn-at-godis-som-misstanks-innehalla-narkotika-fordes-till-sjukhus",
-   "desc": "Fyra barn misstänks ha fått i sig narkotika vid en skola i Älvsjö. Barnen som är i 10-årsåldern ska ha hittat godisliknande föremål på marken. Personal larmade vid misstanke om att godiset i själva fallet var narkotika."
+   "desc": "Fyra barn misstänks ha fått i sig narkotika vid en skola i Älvsjö, något TV4 Nyheterna var först att rapportera om. Barnen som är i 10-årsåldern ska ha hittat godisliknande föremål på marken. Personal larmade vid misstanke om att godiset i själva fallet var narkotika. Barnen har förts till sjukhus för kontroll."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-10-21T10:59:53.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/beskedet-ingen-anstalt-for-domda-med-fotboja-i-taby",
    "desc": "Det blir ingen anstalt för brottslingar med fotboja i Täby som tänkt. Det meddelar Kriminalvården. – De förutsättningar som gjorde att vi hoppades kunna starta verksamheten har ändrats, säger Emma Ekstrand, direktör för avdelningen för innehåll och utveckling."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nytt styre i Region Stockholm: Mittenkoalition presenteras",
-   "date": "2026-10-21T07:46:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nytt-styre-i-stockholm-forhandlingarna-i-slutskedet",
-   "desc": "Efter en turbulent tid i Region Stockholm är en mittenkoalition klar. Ett nytt styre bestående av S, MP, KD, C och L presenterades på onsdagseftermiddagen. – Det är ett skenäktenskap som går emot vad stockholmarna röstade för, säger Axel Conradi, gruppledare för Moderaterna i Region Stockholm."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Fem år efter Einárs död – mordet har blivit ett kallt fall",
-   "date": "2026-10-21T07:04:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fem-ar-efter-einars-dod-mordet-har-blivit-ett-kallt-fall",
-   "desc": "Det har nu gått fem år sedan rapparen Nils ”Einár” Grönberg sköts till döds i Hammarby sjöstad i södra Stockholm. Utredningen har nu hamnat hos polisens grupp för kalla fall. – Det betyder inte att ärendet är stängt om det hamnade hos oss, säger utredaren Jesper Rundeberg."
   },
   {
    "src": "BBC",
