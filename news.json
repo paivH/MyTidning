@@ -1,85 +1,101 @@
 {
- "updated": "2026-10-21T05:07:02.193Z",
+ "updated": "2026-10-21T10:25:11.586Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-   "date": "2026-10-21T03:59:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
+   "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+   "date": "2026-10-21T09:22:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+   "desc": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "France is divided over who to blame for weekend riots and what to learn from them",
-   "date": "2026-10-21T01:22:51.000Z",
+   "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+   "date": "2026-10-20T20:00:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+   "desc": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+   "date": "2026-10-21T06:50:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
    "desc": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Elon Musk says Tesla-SpaceX merger being considered",
-   "date": "2026-10-20T23:24:47.000Z",
+   "title": "Australian MP loses both legs after alleged car attack, husband says",
+   "date": "2026-10-21T07:56:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+   "desc": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+   "date": "2026-10-21T08:42:49.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
    "desc": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Man charged with attack on Australia MP to face court",
-   "date": "2026-10-20T11:25:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-   "desc": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-   "date": "2026-10-20T20:00:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-   "desc": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nu är julgranen på plats i Lycksele – redan i oktober",
+   "date": "2026-10-21T10:09:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/nu-ar-julgranen-pa-plats-i-lycksele-redan-i-oktober",
+   "desc": "Lycksele kommun har redan fått årets julgran på plats på torget – trots att det bara är oktober. Men belysningen får vänta ett tag till. – Det är inte lika bråttom med det, säger Ola Gunnarsson, anläggningstekniker Lycksele kommun."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "FN: Omöjligt klara Parisavtalets mål",
-   "date": "2026-10-21T05:01:58.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/fn-omojligt-klara-parisavtalets-mal",
-   "desc": "För första gången säger FN rakt ut att världen inte kommer att klara Parisavtalets mål om max 1,5 graders global uppvärmning. Jordens medeltemperatur kommer oundvikligen att öka till 1,7 eller 1,8 grader jämfört med tiden före industrialiseringen. Samtidigt skulle kraftfull politik och massiv koldioxidlagring kunna rädda världen från de värsta konsekvenserna, skriver FN i Emissions gap report 2026 som presenteras idag."
+   "title": "Migrationsministern: ”Analyserar förutsättningar att kunna neka visum”",
+   "date": "2026-10-21T08:17:21.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/migrationsministern-analyserar-forutsattningar-att-kunna-neka-visum",
+   "desc": "Sverige kommer att se över möjligheterna att stoppa de ryska längdåkarna från att komma in i Sverige under VM 2027. Det meddelar migrationsministern efter SVT Sports avslöjande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Svenska skidförbundet vill stoppa ryska åkare från VM i Falun",
-   "date": "2026-10-21T04:00:07.000Z",
-   "link": "https://www.svt.se/sport/langdskidor/svenska-skidforbundet-vill-stoppa-ryska-akare-fran-vm-i-falun",
-   "desc": "Ett flertal ryska längdskidåkare har fått klartecken att tävla på VM i Falun nästa år. Något som inte uppskattas av det Svenska skidförbundet. Nu kan SVT Sport avslöja att förbundet, tillsammans med RF, försöker få regeringen att neka de ryska åkarna visum."
+   "title": "Karps skogsköp i Härjedalen JO-anmäls",
+   "date": "2026-10-21T08:04:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/karps-skogskop-i-harjedalen-jo-anmals",
+   "desc": "En privatperson har anmält Palantir-chefen Alex Karps skogsköp till Justitieombudsmannen, JO. Anmälaren menar att köpet strider mot lagen om utländska direktinvesteringar. Hon anmäler därför myndigheten ISP som godkände affären."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Dominika, 25, tröttnade på skärmarna – startade offlineklubb i Katrineholm",
-   "date": "2026-10-21T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/dominika-25-startade-offlineklubb-i-katrineholm-trottnade-pa-skarmen",
-   "desc": "En rapport från Internetstiftelsen visar att allt fler vill skära ned på sitt användande av digitala medier. Dominika Holmberg är en av dem som tröttnat på det digitala och hon anser att man borde minska användandet. – Det är bra för en själv, men också för den yngre generationen, säger hon."
+   "title": "Gängtoppen Ildar ”Scar” Galiyev åtalas för en rad våldsbrott",
+   "date": "2026-10-21T08:03:23.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/gangtoppen-ildar-scar-galiyev-atalas-for-en-rad-valdsbrott",
+   "desc": "Radhussprängningen i Hässelby, det dödliga bombdådet i Fullerö och mordet vid Mälarhöjdens IP. Nu åtalas Ildar ”Scar” Galiyev för sin roll i en rad uppmärksammade våldsdåd, bland annat för tre mord."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Vårdchefens make flög 83 gånger i högsta prisklass mellan Malmö och Stockholm",
-   "date": "2026-10-21T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/vardchefen-godkande-makens-83-flygresor-i-hogsta-prisklass-region-skane-fick-betala",
-   "desc": "SVT kan nu avslöja att maken till den tidigare chefen för cancervården i Skåne, reste i den dyraste biljettkategorin mellan Köpenhamn och Stockholm under åren 2016-2023 då han arbetade för Region Skåne. Sammanlagt gjorde han 83 enkelresor i flygbolagets högsta prisgrupp inom Skandinavien och endast 8 i vanlig ekonomiklass."
+   "title": "Vem var rapparen Nils Einár Grönberg?",
+   "date": "2026-10-21T07:03:23.000Z",
+   "link": "https://www.svt.se/kultur/vem-var-rapparen-nils-einar-gronberg",
+   "desc": "Det är fem år sedan rapparen Nils Einár Grönberg sköts till döds i Hammarby Sjöstad i Stockholm. I videon får du koll på den framgångsrika rapparens karriär fram till hans död den 21 oktober 2021."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Sista kvällen med gänget –  nu tackar LBSB för sig",
-   "date": "2026-10-21T03:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sista-kvallen-med-ganget-nu-tackar-lbsb-for-sig",
-   "desc": "Framgångssagan började för 13 år sedan och har tagit Västeråskvartetten till Globen, Rockbjörnen och på Sverigeturnéer – men snart är LBSB-festen över. – Det känns inte mer än rätt att avsluta i Västerås. Det kommer att bli magiskt och känslosamt, säger Bär 1."
+   "title": "Nytt styre i Region Stockholm: Mittenkoalition väntas presenteras",
+   "date": "2026-10-21T07:46:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nytt-styre-i-stockholm-forhandlingarna-i-slutskedet",
+   "desc": "Efter en turbulent tid i Region Stockholm verkar en ny mittenkoalition vara klar. Ett nytt styre bestående av S, MP, KD, C och L väntas presenteras på onsdagseftermiddagen. – Det är ett skenäktenskap som går emot vad stockholmarna röstade för, säger Axel Conradi, gruppledare för Moderaterna i Region Stockholm."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Fem år efter Einárs död – mordet har blivit ett kallt fall",
+   "date": "2026-10-21T07:04:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fem-ar-efter-einars-dod-mordet-har-blivit-ett-kallt-fall",
+   "desc": "Det har nu gått fem år sedan rapparen Nils ”Einár” Grönberg sköts till döds i Hammarby sjöstad i södra Stockholm. Utredningen har nu hamnat hos polisens grupp för kalla fall. – Det betyder inte att ärendet är stängt om det hamnade hos oss, säger utredaren Jesper Rundeberg."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "Sigtunaskolan har kallat alla elevers vårdnadshavare till ett informationsmöte med anledning av de grova brott som misstänks ha skett på skolan. Men inga frågor tilläts, vilket lett till missnöje bland föräldrarna."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Leona räddade fåret Martin från slakt: ”Han är min vän”",
-   "date": "2026-10-20T16:22:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/leona-raddade-faret-martin-fran-slakt-han-ar-min-van",
-   "desc": "Medan vännerna i första ring har inspark åker 16-åriga Leona Larsson från Vaxholm till hagen och hälsar på fåret Martin. Efter ett möte i somras, där de fick ett starkt band, fick hon reda på att han skulle slaktas. – Jag var tvungen att rädda honom, säger Leona Larsson."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Åklagaren efter mordet i Älvsjö: Fanns planer på att döda fler",
-   "date": "2026-10-20T14:06:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/aklagaren-efter-mordet-i-alvsjo-fanns-planer-pa-att-doda-fler",
-   "desc": "Det fanns planer på att döda fler personer i samband med mordet i Älvsjö, enligt åklagare Lukas Tigerstrand. Två tonårspojkar har häktats misstänkta för mord, grovt vapenbrott och förberedelse till mord. – Vi kommenterar inte vilket motiv vi utreder, säger han."
+   "src": "BBC",
+   "section": "United",
+   "title": "Fabregas and Como prepare for historic Man Utd tie",
+   "date": "2026-10-21T05:26:05.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-19T11:29:31.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cmz7x14ng01jo?at_medium=RSS&at_campaign=rss",
    "desc": "Is Michael Carrick getting the best out of Bruno Fernandes?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'Man Utd just can't seem to hold on to a lead'",
-   "date": "2026-10-18T17:42:42.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c699zm3ky3lzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United fan Jay Motty is concerned about his side's inability to hold on to a lead, after they squandered a 1-0 advantage to draw 1-1 at Leeds United."
   }
  ]
 }
