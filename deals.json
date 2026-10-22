@@ -1,7 +1,13 @@
 {
- "updated": "2026-10-21T08:58:19.623Z",
+ "updated": "2026-10-22T09:00:38.369Z",
  "verified": false,
  "deals": [
+  {
+   "store": "ICA",
+   "item": "Färsk laxfilé Norge",
+   "price": "99 kr/kg",
+   "url": "https://www.ica.se"
+  },
   {
    "store": "ICA",
    "item": "Svenska äpplen Aroma, lösvikt",
@@ -10,33 +16,27 @@
   },
   {
    "store": "Lidl",
-   "item": "Färsk laxfilé 400g",
-   "price": "49 kr",
+   "item": "Rotfrukter blandade 1kg",
+   "price": "15 kr",
    "url": "https://www.lidl.se"
   },
   {
-   "store": "ICA",
-   "item": "Rotfruktsblandning (morot, palsternacka, rödbeta) 1 kg",
-   "price": "25 kr",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "Rusta",
-   "item": "Stearinljus doftljus höst, 3-pack",
-   "price": "39 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Kaffe Bellarom 500g",
+   "price": "34 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1 kg fryst",
+   "item": "Köttbullar 1kg frysta",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Lidl",
-   "item": "Svamp Kantareller 250g",
-   "price": "35 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Stearinljus & ljuslykta höstkampanj",
+   "price": "39 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
