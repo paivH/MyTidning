@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-22T01:10:15.480Z",
+ "updated": "2026-10-22T06:21:10.497Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "How Arab parties could hold critical balance of power in Israeli election",
+   "date": "2026-10-22T05:30:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "date": "2026-10-22T03:48:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "desc": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,66 +36,58 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Macron accuses foreign leaders of exploiting French riots",
-   "date": "2026-10-21T14:04:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-   "desc": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Pope does not need further treatment after lung cancer surgery",
-   "date": "2026-10-21T20:09:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-   "date": "2026-10-21T18:10:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
+   "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+   "date": "2026-10-22T01:07:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+   "desc": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Inbytte Viktor Gyökeres bakom Arsenals kvittering i stormötet",
-   "date": "2026-10-21T20:53:22.000Z",
-   "link": "https://www.svt.se/sport/fotboll/inbytte-viktor-gyokeres-bakom-arsenals-kvittering-i-stormotet",
-   "desc": "Viktor Gyökeres hade varit på planen i 14 minuter när han vickade fram bollen till Declan Rice som gjorde 2–2 mot Bayern München i kvällens stormöte."
+   "title": "Grundlön och fasta arbetstider – knarkliga i Sundsvall drev affärer som ”företag”",
+   "date": "2026-10-22T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/knarkliga-var-som-ett-foretag-de-anstallda-hade-fast-manadslon",
+   "desc": "Fasta arbetstider, inget helgjobb och en fast grundlön, med möjlighet till högre inkomst för extraarbete. Narkotikahärvan som just nu rullas upp i Sundsvalls tingsrätt där metoden varit så kallade dead drops ger bilden av ett välfungerande företag – med ”medarbetare” i olika åldrar och från helt olika samhällsklasser."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "SVT möter flyktingarna från katastrofbyn: ”Hundar äter döda kroppar”",
-   "date": "2026-10-21T18:43:26.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/svt-moter-flyktingarna-fran-katastrofbyn-hundar-ater-doda-kroppar",
-   "desc": "Den humanitära katastrofen i den ockuperade staden Olesjky i södra Ukraina växer. Trots att bara några kilometer skiljer staden från ukrainskkontrollerade områden, flyr människor åt andra hållet. Vägen över floden Dnipro är för farlig. SVT har träffat flyktingarna i Ukraina."
+   "title": "Här byggs Eskilstunas nya familjecentral – femte i kommunen",
+   "date": "2026-10-22T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/har-byggs-eskilstunas-nya-familjecentral-femte-i-kommunen",
+   "desc": "En ny familjecentral planeras att öppna i Skogsängen i Eskilstuna till våren. Det är ett samarbete mellan regionen och kommunen för att fler, både föräldrar och barn, ska få stöd. – Det är bra på väldigt många olika sätt, säger socialchefen Lena Söderkvist Määttä."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Videoquiz: Gissa delstaten!",
-   "date": "2026-10-21T15:06:47.000Z",
-   "link": "https://www.svt.se/special/videoquiz-gissa-delstaten/",
-   "desc": ""
+   "title": "Man odlade cannabis i stora delar av sitt hus – döms till fängelse",
+   "date": "2026-10-22T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/man-odlade-cannabis-i-stora-delar-av-sitt-hus-doms-till-fangelse",
+   "desc": "En 40-årig man i Torsås kommun döms till två års fängelse för grovt narkotikabrott och rattfylleri. I hans bostadshus hittade polisen en omfattande cannabisodling med 53 plantor och flera kilo narkotika."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter långsittare – Ica i Tranås inför tidsgräns i caféet",
-   "date": "2026-10-21T15:05:10.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-langsittare-ica-kvantum-i-tranas-infor-tidsgrans-i-cafeet",
-   "desc": "Ica Kvantum i Tranås har infört en ny tidsgräns i sitt café, något Tranås tidning var först att berätta. Kunderna får nu fika i högst en timme, något som har mötts av både positiva och negativa reaktioner."
+   "title": "M i Stockholm: Misshandlade kvinnor ska få ta över hyreskontrakt",
+   "date": "2026-10-22T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/m-i-stockholm-misshandlade-kvinnor-ska-fa-ta-over-hyreskontrakt",
+   "desc": "SVT har tidigare rapporterat om tvåbarnsmamman Bella som vräktes på grund av sin våldsamma ex-partner. Nu föreslår Moderaterna i Stockholm att våldsoffer ska få ta över hyreskontraktet om deras partner döms för misshandel. – Att du kan bli satt på gatan som en konsekvens av att ha blivit misshandlad, det måste stoppas, säger Christofer Fjellner (M)."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Uppgifter: Polisen utreder Foxtrot-inblandning i mordet i Älvsjö",
-   "date": "2026-10-21T14:42:32.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/uppgifter-polisen-utreder-foxtrot-inblandning-i-mordet-i-alvsjo",
-   "desc": "Tonårspojkarna agerade på någon annans uppdrag när de sköt ihjäl en kvinna i 25-årsåldern i Älvsjö. Motivet ska ha varit hämnd riktad mot en av kvinnans anhöriga och polisen utreder nätverket Foxtrots inblandning i mordet. Det uppger flera av varandra oberoende källor för SVT."
+   "title": "Polisens arbete avskräcker stöldligorna: ”Glöm Sverige”",
+   "date": "2026-10-22T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/polisens-arbete-avskracker-stoldligorna-glom-sverige",
+   "desc": "Internationella stöldligor får allt svårare att verka i Sverige. När polisen skärpt arbetet och tullen blivit bättre på att stoppa stöldgods har stölderna minskat kraftigt. ”Mitt råd skulle vara att glömma Sverige för en stund” skriver en ligamedlem i sms till en bekant."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "M i Stockholm: Misshandlade kvinnor ska få ta över hyreskontrakt",
+   "date": "2026-10-22T03:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/m-i-stockholm-misshandlade-kvinnor-ska-fa-ta-over-hyreskontrakt",
+   "desc": "SVT har tidigare rapporterat om tvåbarnsmamman Bella som vräktes på grund av sin våldsamma ex-partner. Nu föreslår Moderaterna i Stockholm att våldsoffer ska få ta över hyreskontraktet om deras partner döms för misshandel. – Att du kan bli satt på gatan som en konsekvens av att ha blivit misshandlad, det måste stoppas, säger Christofer Fjellner (M)."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-21T11:10:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/skyddsstopp-pa-bussar-i-norrtalje",
    "desc": "Busstrafiken i Norrtälje stoppades efter att skyddsombud infört skyddsstopp, rapporterar Norrtelje tidning. Enligt SL påverkades ett 30-tal linjer men efter drygt tre timmar hävdes skyddstoppet. – Det var facket själva som drog tillbaka skyddsstoppet, säger Stefan Johansson, pressansvarig på Transdev."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Beskedet: Ingen anstalt för dömda med fotboja i Täby",
-   "date": "2026-10-21T10:59:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/beskedet-ingen-anstalt-for-domda-med-fotboja-i-taby",
-   "desc": "Det blir ingen anstalt för brottslingar med fotboja i Täby som tänkt. Det meddelar Kriminalvården. – De förutsättningar som gjorde att vi hoppades kunna starta verksamheten har ändrats, säger Emma Ekstrand, direktör för avdelningen för innehåll och utveckling."
   },
   {
    "src": "BBC",
