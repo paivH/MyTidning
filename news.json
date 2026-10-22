@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:27:17.066Z",
+ "updated": "2026-10-22T20:42:47.070Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Ny rapport: Fler i utsatta områden upplever påtryckningar vid val",
+   "date": "2026-10-22T19:08:05.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ny-rapport-fler-i-utsatta-omraden-upplever-patryckningar-vid-val",
+   "desc": "En ny undersökning från Järvaveckan Research visar att påtryckningar att rösta på ett visst parti eller kandidat är vanligare bland boende i utsatta områden än i resten av Sverige. – Det är viktigt att vi pratar med de här grupperna istället för om dem, säger Ahmed Abdirahman, vd för Stiftelsen Järvaveckan."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Oskrivna caféregler: ”Man bör köpa något mer efter 2 timmar”",
    "date": "2026-10-22T16:30:01.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/oskrivna-caferegler-man-bor-kopa-nagot-mer-efter-2-timmar",
@@ -74,12 +82,12 @@
    "desc": "Det publiceras stora mängder AI-genererade bilder på sociala medier. Nu protesterar fotografer i Umeå mot utvecklingen. – Det är ett korståg mot AI-genererad dynga. Det kommer mer och mer, folk vet inte vad en riktig bild är längre, säger ordföranden Mats Kyrö."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Konsthandlarens kompanjon frias från konststölden på Lindgården",
-   "date": "2026-10-22T13:51:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/konsthandlarens-kompanjon-frias-fran-konststolden-pa-lindgarden",
-   "desc": "Jönköpings tingsrätt frikänner en man i 45-årsåldern från åtal om grovt bedrägeri och grovt häleri. Målet rör den värdefulla Bergslagsurnan som hämtades från ett äldreboende i Jönköping för över tio år sedan och senare såldes på auktion för över 700 000 kronor."
+   "title": "Nyheter från dagen: 22 oktober",
+   "date": "2026-10-22T17:37:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-22-oktober-we74hb",
+   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdagen den 22 oktober."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,20 @@
    "desc": "Vaxholms stad gjorde flera fel i samband med upphandlingen av en ny turistapp när bolaget Rexidy vann uppdraget. Det framkommer i en oberoende rapport. I bolagets styrelse sitter kommunstyrelsens ordförande Tina Runhem (M) som suppleant och även en anhörig till henne."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stor trafikpåverkan på E18 – lastbil genom mitträcket",
-   "date": "2026-10-22T10:32:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/grus-pa-e18-lastbil-kort-in-i-mittracke",
-   "desc": "En lastbil med grus körde genom mitträcket på E18 i höjd med Kungsängen. Olyckan orsakade köer i flera timmar."
+   "src": "BBC",
+   "section": "United",
+   "title": "'Man United don't want to sack Carrick'",
+   "date": "2026-10-22T19:45:24.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmgqwlw4jq73o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Athletic's Laurie Whitwell says Manchester United's problems stem deeper than Michael Carrick."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Fernandes has home burgled while in Italy with Man Utd",
+   "date": "2026-10-22T18:04:21.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq9vz19p41x8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United captain Bruno Fernandes had his home burgled on Wednesday while he was in Italy for his club's Champions League game against Como."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-10-22T15:47:24.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6pqg18220gpo?at_medium=RSS&at_campaign=rss",
    "desc": "Journalist Andy Mitten weighs in on whether players should publicly criticise their manager"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Carrick carrying on but senior Man Utd figures concerned by performances",
-   "date": "2026-10-22T14:04:44.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
-   "desc": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Breaking down Man Utd's tactics after Fernandes' criticism",
-   "date": "2026-10-22T12:44:08.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm3elpw7yd25o?at_medium=RSS&at_campaign=rss",
-   "desc": "Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in their 4-1 thrashing by Italian side Como?"
   }
  ]
 }
