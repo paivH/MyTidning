@@ -1,42 +1,42 @@
 {
- "updated": "2026-10-22T09:00:38.369Z",
+ "updated": "2026-10-23T08:55:40.697Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färsk laxfilé Norge",
-   "price": "99 kr/kg",
+   "item": "Färsk laxfilé",
+   "price": "89 kr/kg",
    "url": "https://www.ica.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Äpplen Ingrid Marie 2kg",
+   "price": "25 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
-   "price": "19 kr/kg",
+   "item": "Rotfrukter blandade 1kg",
+   "price": "15 kr",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Rotfrukter blandade 1kg",
-   "price": "15 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Kaffe Bellarom 500g",
-   "price": "34 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "LED-ljusslinga för halloween",
+   "price": "49 kr",
+   "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg frysta",
+   "item": "Köttbullar 1kg fryst",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Rusta",
-   "item": "Stearinljus & ljuslykta höstkampanj",
-   "price": "39 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Pumpa till urholkning",
+   "price": "39 kr/st",
+   "url": "https://www.lidl.se"
   }
  ]
 }
