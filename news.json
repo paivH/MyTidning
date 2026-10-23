@@ -1,85 +1,117 @@
 {
- "updated": "2026-10-23T14:01:52.619Z",
+ "updated": "2026-10-23T18:35:30.018Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Anti-terror police investigate as one person killed in shooting near Paris",
-   "date": "2026-10-23T13:26:48.000Z",
+   "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+   "date": "2026-10-23T16:17:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-   "desc": "French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended."
+   "desc": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+   "date": "2026-10-23T18:10:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+   "desc": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+   "date": "2026-10-23T15:37:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+   "desc": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+   "date": "2026-10-23T16:59:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-   "date": "2026-10-23T11:01:08.000Z",
+   "date": "2026-10-23T16:19:36.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
-   "date": "2026-10-23T13:37:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-   "desc": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-   "date": "2026-10-23T12:48:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-   "desc": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-   "date": "2026-10-23T10:14:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
-   "desc": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month."
+   "desc": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\"."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "E4 avstängd norr om Gävle efter krock",
-   "date": "2026-10-23T13:19:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/e4-avstangd-norr-om-gavle-efter-krock",
-   "desc": "Två bilar har krockat strax norr om Skarvberget norr om Gävle. Vägen är avstängd i norrgående riktning."
+   "title": "Polisernas vansinnesfärd på E4 i Luleå – körde i 280 km/h",
+   "date": "2026-10-23T16:00:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/polisernas-vansinnesfard-pa-e4-i-lulea-korde-i-280-kmh",
+   "desc": "En polisman hävdade att han hade lånat ut sin motorcykel – och bytt kläder med föraren – strax innan fordonet registrerades i 281 kilometer i timmen. Tingsrätten köper inte förklaringen och nu döms han och två andra för fortkörning. – En brorsas kompis fick låna motorcykeln, körde iväg, kommer tillbaka, byter om, far hem, sa polisen i förhör."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Statens fastighetsverk kallas till kulturutskottet",
-   "date": "2026-10-23T13:12:09.000Z",
-   "link": "https://www.svt.se/kultur/konflikt-om-museers-hyror-till-kulturutskottet",
-   "desc": "Riksdagens kulturutskott kallar Statens fastighetsverk till möte med anledning av de höga museihyrorna."
+   "title": "Moa ritade långfilmen själv – nu kan den vinna pris i Norge",
+   "date": "2026-10-23T15:53:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/moa-ritade-langfilmen-sjalv-nu-kan-den-vinna-pris-i-norge",
+   "desc": "Den självlärda animatören Moa Olsson har ritat sin första långfilm helt själv, bild för bild, under mer än sex år. Nu är filmen nominerad i kategorin bästa nordisk-baltiska långfilm vid Fredrikstad Animation Festival i Norge. – Det var verkligen värt det, säger hon."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Döms för djurplågeri – förlamad ko låg i gödsel",
-   "date": "2026-10-23T12:47:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/halland/doms-for-djurplageri-forlamad-ko-lag-i-godsel",
-   "desc": "Kor och kalvar tvingades vistas i mycket gödsel och på blöta liggytor. Sjuka och skadade djur hade inte fått behandling. Bland annat hade en ko som drabbats av kalvförlamning blivit liggande utan hjälp på stallgolvet."
+   "title": "Så blev elitens internatskola en misstänkt brottsplats",
+   "date": "2026-10-23T15:03:28.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/sa-blev-elitens-internatskola-en-misstankt-brottsplats",
+   "desc": "Flera gymnasieelever vid internatskolan Sigtuanskolans Humanistiska läroverket är misstänkta för brott mot andra elever. Enligt både åklagare och försvarsadvokat grundar sig händelserna i en kultur på skolan där äldre straffar yngre."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ebba Busch (KD) om minskade klimatkrav på bilar: ”Idiotiskt”",
-   "date": "2026-10-23T12:14:31.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-kd-om-minskade-klimatkrav-pa-bilar-idiotiskt",
-   "desc": "Avgående näringsminister Ebba Busch (KD) beklagar sparpaketet från Volvo Cars. Nu varnar hon för att minskade klimatambitioner i EU kan slå hårt mot svenska företag. – I grunden är det idiotiskt, säger hon."
+   "title": "En man död efter skjutning i södra Stockholm",
+   "date": "2026-10-23T15:00:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-sodra-stockholm-kzidi4",
+   "desc": "En man i 25-årsåldern är död efter skjutningen i Bagarmossen. – Den personen som har skjutits har avlidit, säger Nadya Norton, presstalesperson vid polisen. Ingen är i nuläget gripen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Dömda systrarnas ord från häktet: ”Ofattbart att det blivit såhär”",
-   "date": "2026-10-23T12:14:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/domda-systrarnas-ord-fran-haktet-ofattbart-att-det-blivit-sahar",
-   "desc": "De dömdes till tio års fängelse för mordförsök på sin pappa – mot sitt nekande. Nu väntar de på att flyttas till kvinnofängelset Hinseberg. – Det är ofattbart att det blivit såhär, säger ena systern i podden Bakom Galler."
+   "title": "Anneli hittade döda höns på återvinningsstation i Åseda",
+   "date": "2026-10-23T14:34:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/anneli-hittade-fyra-doda-hons-pa-atervinningsstation-i-aseda",
+   "desc": "Anneli Ström blev chockad när hon gjorde en obehaglig upptäckt på återvinningsstationen i Åseda. I en kartong låg fyra döda höns."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 23 oktober",
+   "date": "2026-10-23T17:43:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-23-oktober-b8dxbq",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm fredag 23 oktober."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Stopp i trafiken mellan Hallonbergen och Kista",
+   "date": "2026-10-23T15:58:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-i-trafiken-mellan-hallonbergen-och-kista",
+   "desc": "Det är stopp mellan Kista och Hallonbergen i båda riktningarna för tunnelbanans blå linje 11, skriver SL på sin hemsida."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "En man död efter skjutning i södra Stockholm",
+   "date": "2026-10-23T15:00:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-sodra-stockholm-kzidi4",
+   "desc": "En man i 25-årsåldern är död efter skjutningen i Bagarmossen. – Den personen som har skjutits har avlidit, säger Nadya Norton, presstalesperson vid polisen. Ingen är i nuläget gripen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Därför slutade bussarna i Norrtälje rulla – och är konflikten över?",
+   "date": "2026-10-23T14:34:51.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/darfor-slutade-bussarna-i-norrtalje-rulla-och-ar-konflikten-over",
+   "desc": "Efter månader av diskussioner med arbetsgivaren valde skyddsombudet Fredrik Bergh i onsdags att stoppa busstrafiken i Norrtälje. Nu vill han se förändring – inte bara nya rutiner. – Jag förväntar mig bättre samverkan, säger skyddsombudet Fredrik Bergh."
   },
   {
    "src": "STHLM",
@@ -90,36 +122,20 @@
    "desc": "Till våren kommer 600 kvadratmeter av ängsväxter bre ut sig över taket på Garnisonen. Därifrån kommer plantor sen kunna levereras till hela stan. – Man utnyttjar en yta som annars inte används, säger Josefina Oddsberg Gustafsson, urbanekolog."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Trots barnens protester – bara poliser får bada i Kronobergsbadet",
-   "date": "2026-10-23T05:00:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trots-barnens-protester-bara-poliser-far-bada-i-kronobergsbadet",
-   "desc": "Elever protesterade mot att Kronobergsbadet ska bli polisbad. Men protesterna ledde ingenvart."
+   "src": "BBC",
+   "section": "United",
+   "title": "How long was Carrick's opening speech?",
+   "date": "2026-10-23T15:12:33.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqkgjl54njk6o?at_medium=RSS&at_campaign=rss",
+   "desc": "How long was Michael Carrick's emotional address at the start of his press conference?"
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Arlandas räkmackor dyrare än egna pristaket",
-   "date": "2026-10-23T03:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/arlandas-rakmackor-dyrare-an-egna-pristaket",
-   "desc": "Hur mycket kan en räkmacka före flyget kosta? Det svarar en ny undersökning på – som samtidigt slår fast att snittpriset på Arlandas räkmackor är högre än det egna pristaket."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 22 oktober",
-   "date": "2026-10-22T17:37:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-22-oktober-we74hb",
-   "desc": "Detta har SVT Nyheter Stockholm rapporterat om under torsdagen den 22 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nu öppnar Söderhallarna igen – efter tre års renovering",
-   "date": "2026-10-22T17:21:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-oppnar-soderhallarna-igen-efter-tre-ars-renovering",
-   "desc": "På fredagsmorgonen slår Söderhallarna på Medborgarplatsen upp sina dörrar för första gången på tre år. I klippet tar SVTs reporter reda på vad som är nytt – och vad som finns kvar från förr. – Saluhallen är först, men till hösten och sedan våren följer två öppningar till: ölhallen och biografen, säger Mattias Roussakoff, uthyrningsansvarig."
+   "src": "BBC",
+   "section": "United",
+   "title": "'We'll get it back' - Carrick responds to criticism",
+   "date": "2026-10-23T14:34:31.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cw4g15rqnv53o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United head coach Michael Carrick says \"there's a resilience about this football club\" as he responds to criticism after a poor run of form."
   },
   {
    "src": "BBC",
@@ -127,7 +143,7 @@
    "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
    "date": "2026-10-23T13:55:37.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United boss Michael Carrick spoke for five minutes and 30 seconds without taking questions at the start of his media briefing to outline what the club means to him, then later refused to rule out dropping captain Bruno Fernandes."
+   "desc": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-10-23T12:15:53.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
    "desc": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Former Man United chief Murtough joins Birmingham",
-   "date": "2026-10-23T11:20:20.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9zrdkv775r1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Birmingham City appoint ex-Manchester United chief John Murtough as director of football."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Should Man Utd boss Carrick drop captain Fernandes?",
-   "date": "2026-10-23T08:28:21.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Michael Carrick must decide whether to leave skipper Bruno Fernandes out of Sunday's crucial Premier League clash with Bournemouth"
   }
  ]
 }
