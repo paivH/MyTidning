@@ -1,85 +1,93 @@
 {
- "updated": "2026-10-24T04:52:41.393Z",
+ "updated": "2026-10-24T09:16:23.939Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "France prepares for day of protest a week after nationwide riots",
-   "date": "2026-10-24T04:03:46.000Z",
+   "date": "2026-10-24T06:19:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations."
+   "desc": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-   "date": "2026-10-24T00:05:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-   "desc": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
-   "date": "2026-10-24T03:51:25.000Z",
+   "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+   "date": "2026-10-24T09:03:15.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
    "desc": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Australian MP's condition improves after alleged car attack",
-   "date": "2026-10-24T01:55:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-   "desc": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital."
+   "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+   "date": "2026-10-23T22:47:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-   "date": "2026-10-23T19:46:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-   "desc": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
+   "title": "Trump administration sues to block certification of upcoming Alaska election",
+   "date": "2026-10-23T18:49:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+   "desc": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+   "date": "2026-10-23T23:08:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tsunamivarning efter skalv utanför Vanuatu",
-   "date": "2026-10-24T04:08:19.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/tsunamivarning-efter-skalv-utanfor-vanuatu",
-   "desc": "En tsunamivarning har utlysts efter ett jordskalv med magnituden 6,9 utanför Vanuatu, uppger PTWC, ett amerikanskt centrum för tsunamivarningar."
+   "title": "Kristin Thorleifsdóttir berättar om konstanta smärtorna: ”Inget roligt liv att leva”",
+   "date": "2026-10-24T08:02:31.000Z",
+   "link": "https://www.svt.se/sport/handboll/kristin-thorleifsdottir-berattar-om-konstanta-smartorna-inget-roligt-liv-att-leva",
+   "desc": "Kristin Thorleifsdóttir har opererat knät. Nu berättar 28-åringen för första gången om kampen mot smärtorna de senaste åren. – I perioder tog jag smärtstillande varje dag, säger Thorleifsdóttir till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hundratals skadade i Taiwan efter tyfon",
-   "date": "2026-10-24T04:07:34.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/hundratals-skadade-i-taiwan-efter-tyfon",
-   "desc": "350 personer har skadats i Taiwan sedan tyfonen Champi dragit fram."
+   "title": "SVT:s expert ställdes en mot en mot Connor McDavid: ”Helt sjukt”",
+   "date": "2026-10-24T07:57:42.000Z",
+   "link": "https://www.svt.se/sport/ishockey/svts-expert-stalldes-en-mot-en-mot-connor-mcdavid-helt-sjukt",
+   "desc": "SVT:s expert John Klingberg har ställts mot Connor McDavid många gånger – men ett tillfälle sticker ut. När han tvingades möta honom en mot en efter en träning. – Han är en utomjording, alltså, säger Klingberg."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Google fällde enorma mängder träd för finskt datacenter – utan tillstånd",
-   "date": "2026-10-24T04:02:46.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/google-fallde-enorma-mangder-trad-for-finskt-datacenter-utan-tillstand",
-   "desc": "Myndigheter i Finland har stoppat Google från att bygga två datacenter. Detta efter att techjätten fällt hundratusentals träd – olagligt. – Det är förstås en allvarlig sak, säger Finlands klimatminister Sari Multala."
+   "title": "”Hemliga” brevet: Kraven på Fifa i Infantino-härvan",
+   "date": "2026-10-24T06:36:09.000Z",
+   "link": "https://www.svt.se/sport/fotboll/hemliga-brevet-kraven-pa-fifa-i-infantino-harvan",
+   "desc": "I ett åtta sidor långt brev kräver Uefa svar från Fifa om allt från påstått maktmissbruk, till Donald Trumps inflytande och för långa halvtidspauser i VM. Brevet innehåller 42 punkter – här är några av dem."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Poserar bland eld och förödelse – klippet upprör världen",
-   "date": "2026-10-24T03:45:20.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/poserar-bland-eld-och-forodelse-klippet-uppror-varlden",
-   "desc": "Ett ben från en skyltdocka, en Lego-kartong och en Counter-Strike-pokal. Maskerade män visar upp föremål framför kamerorna medan butiker plundras och en brand rasar bakom dem. SVT har kartlagt vad som hände på paradgatan i Paris den 17 oktober. – Nästan alla fönster är igenbommade här, säger Regina Svedberg Ågren, SVT:s reporter på plats."
+   "title": "Nordkoreas ledare Kim Jong-un besöker Kina",
+   "date": "2026-10-24T06:22:18.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/nordkoreas-ledare-kim-jong-un-besoker-kina",
+   "desc": "Kim Jong-un har anlänt till Dandong i Kina via den nyöppnade Yalubron som binder samman länderna. Han togs emot av Kinas premiärminister Li Qiang, enligt den sydkoreanska nyhetsbyrån Yonhap."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Trosa kommun: Så kan skräpet du slänger på marken förorena vattendrag",
-   "date": "2026-10-24T03:30:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/trosa-kommun-sa-kan-skrapet-du-slanger-pa-marken-fororena-vattendrag",
-   "desc": "Skräpet du slänger på marken kan hamna i våra vattendrag – det vill Trosa kommun uppmärksamma folk på. Därför har kommunen valt att måla vid fyra dagvattenbrunnar i kommunen. – Vi vill att alla hjälps åt, säger projektledaren Karen Kynnefjäll."
+   "title": "Mytomspunna derbyt i Västerbotten: ”Alla spelarna fightades”",
+   "date": "2026-10-24T05:48:13.000Z",
+   "link": "https://www.svt.se/sport/ishockey/mytomspunna-derbyt-i-vasterbotten-alla-spelarna-fightades",
+   "desc": "För första gången på 19 år ska Björklöven och Skellefteå återigen mötas i en tävlingsmatch. Slaget om Västerbotten har alltid frambringat starka känslor hos såväl spelare som fans. Derbyt 7 november 1980 har blivit mytomspunnet och kallades i lokalmedia för ”tidernas slagsmål” – ett stort slagsmål bröt ut redan på uppvärmningen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Hundratals köar i Mall of Scandinavia – polisen på plats",
+   "date": "2026-10-24T07:42:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hundratals-koar-for-goodiebags-i-mall-of-scandinavia-polisen-pa-plats",
+   "desc": "Hundratals personer köar för att få en ”goodie bag” i Mall of Scandinavia. Polisen har larmats till platsen då det har lett till stök. – Ordningsvakter är oroliga, säger Ola Österling på Stockholmspolisen."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Det är stopp mellan Kista och Hallonbergen i båda riktningarna för tunnelbanans blå linje 11, skriver SL på sin hemsida."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "En man död efter skjutning i södra Stockholm",
-   "date": "2026-10-23T15:00:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-sodra-stockholm-kzidi4",
-   "desc": "En man i 25-årsåldern är död efter skjutningen i Bagarmossen. – Den personen som har skjutits har avlidit, säger Nadya Norton, presstalesperson vid polisen. Ingen är i nuläget gripen."
+   "src": "BBC",
+   "section": "United",
+   "title": "Malacia has 'no regrets' over Man Utd - despite having to train with kids",
+   "date": "2026-10-24T06:19:26.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjx23d4p2v3go?at_medium=RSS&at_campaign=rss",
+   "desc": "Tyrell Malacia opens up on his time at Manchester United after moving to FC Cincinnati to restart his career in Major League Soccer."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-23T13:26:47.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/ckzd6gyyd18mo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United boss Michael Carrick says he will 'do what's best for the club' when asked about whether he will strip Bruno Fernandes of the captaincy after the midfielder appeared to question Carrick's tactics."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Conte plays down 'unfounded' Man Utd speculation",
-   "date": "2026-10-23T12:15:53.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United."
   }
  ]
 }
