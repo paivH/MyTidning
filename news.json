@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:49:48.923Z",
+ "updated": "2026-10-24T19:12:55.768Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,14 @@
    "date": "2026-10-24T12:12:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
    "desc": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+   "date": "2026-10-24T17:21:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+   "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election."
   },
   {
    "src": "BBC",
@@ -29,17 +37,9 @@
    "src": "BBC",
    "section": "Världen",
    "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-   "date": "2026-10-24T09:45:47.000Z",
+   "date": "2026-10-24T17:11:56.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-   "desc": "The children were subsequently rescued from the water, police say."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-   "date": "2026-10-24T14:45:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-   "desc": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer."
+   "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
   },
   {
    "src": "SVT",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 24 oktober",
+   "date": "2026-10-24T17:38:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-24-oktober-ljtc5w",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm lördag 24 oktober."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Stormen väntas försena flera avgångar med Gotlandsfärjan",
    "date": "2026-10-24T15:38:30.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/flera-avgangar-forsenade-till-gotland",
@@ -112,14 +120,6 @@
    "date": "2026-10-24T03:30:08.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/skifte-inom-secondhand-pengar-stannar-pa-forsaljningsplattformarna",
    "desc": "Second hand-handeln håller på att utvecklats till en egen cirkulär ekonomi, där pengarna från sålda prylar blir nya köp på samma secondhand-plattformar, enligt en ny undersökning. – Vi ser ett tydligt skifte i konsumentbeteendet, säger Helena Salomonson, samhällschef Postnord."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 23 oktober",
-   "date": "2026-10-23T17:43:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-23-oktober-b8dxbq",
-   "desc": "Här är några utvalda nyheter från SVT Stockholm fredag 23 oktober."
   },
   {
    "src": "BBC",
