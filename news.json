@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T13:27:30.443Z",
+ "updated": "2026-10-24T16:49:48.923Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-   "date": "2026-10-24T11:23:59.000Z",
+   "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+   "date": "2026-10-24T15:21:44.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-   "desc": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+   "desc": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
   },
   {
    "src": "BBC",
@@ -36,55 +36,63 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-   "date": "2026-10-23T23:08:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
+   "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+   "date": "2026-10-24T14:45:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+   "desc": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Varning för ”livsfara” när stormen Boelo når Storbritannien",
-   "date": "2026-10-24T12:30:50.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/varning-for-livsfara-nar-stormen-boelo-nar-storbritannien",
-   "desc": "Storbritanniens nationella vädertjänst, Met Office har utfärdat nya varningar för Skottland, Nordirland och norra England. De orangea varningarna gäller från och med klockan 21 ikväll och betyder att ovädret för med ökad risk för trafikstörningar, skador på byggnader och fara för liv och hälsa."
+   "title": "Skellefteå tystade Umeå – rivstartade mot Björklöven",
+   "date": "2026-10-24T15:28:56.000Z",
+   "link": "https://www.svt.se/sport/ishockey/skelleftea-tystade-umea-rivstartade-mot-bjorkloven",
+   "desc": "Det blev ingen spänning i rivalmötet mellan Björklöven och Skellefteå. Arvid Lundberg inledde målskyttet redan efter 25 sekunder – sedan öste Skellefteå på och vann med hela 8–1. – Overkligt kändes det, säger Lundberg till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Regerande mästaren Julia Scheib kraschade direkt i premiären",
-   "date": "2026-10-24T12:29:02.000Z",
-   "link": "https://www.svt.se/sport/alpint/regerande-mastaren-julia-scheib-kraschade-direkt-i-premiaren",
-   "desc": "Tung säsongsstart för stora hemmahoppet. Regerande storslalommästaren Julia Scheib kraschade ut i första åket på hemmaplan. – Det blir en katapulteffekt, säger Viaplays expertkommentator Emil Johansson."
+   "title": "Tog med jaktgevär in i vallokal i Krokom – åtalas",
+   "date": "2026-10-24T15:04:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/tog-med-jaktgevar-in-i-vallokal-i-krokom-atalas",
+   "desc": "När jägaren skulle rösta tog hen med sig sitt jaktgevär in i vallokalen i Krokoms kommun. Nu åtalas jägaren för överträdelse av vapenlagen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter branden i Fristad: Kommunen kraftsamlar inför höstlovet",
-   "date": "2026-10-24T12:04:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/efter-branden-i-fristad-kommunen-kraftsamlar-infor-hostlovet",
-   "desc": "Borås stad och Svenska kyrkan erbjuder krisstöd i Fristad efter branden som bröt ut på fredagen, där sju ungdomar under 15 år skadades. Nu kraftsamlar kommunen inför det stundande höstlovet. – Det är många som är berörda, säger Anna Wikman, rektor i Fristad."
+   "title": "Smäll för Sirius – föll mot AIK efter kritiserat straffmål",
+   "date": "2026-10-24T14:54:11.000Z",
+   "link": "https://www.svt.se/sport/fotboll/small-for-sirius-foll-mot-aik-efter-kritiserat-straffmal",
+   "desc": "Tung smäll för Sirius i guldjakten. AIK besegrade serieledaren med 2–1 i Uppsala efter ett omdiskuterat straffmål. – Vi ska inte förlora den här matchen, säger Isak Bjerkebo till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nina Baresso siktar på återkomst till SBL – som 51-åring",
-   "date": "2026-10-24T10:25:24.000Z",
-   "link": "https://www.svt.se/sport/basket/nina-baresso-siktar-pa-aterkomst-till-sbl-som-51-aring",
-   "desc": "En av Sveriges största basketprofiler håller fortsatt igång – med ett högt uppsatt mål. Nina Baresso, 51, glänser för Huddinge i Basketettan och siktar på att få göra en sista säsong i högstaligan SBL. – Men jag vet att vägen dit är ganska lång så jag är väldigt realistisk, säger hon till SVT Sport."
+   "title": "Derbymardröm för Djurgården – självmål och rött kort: ”Skitdåligt”",
+   "date": "2026-10-24T14:50:44.000Z",
+   "link": "https://www.svt.se/sport/fotboll/derbymardrom-for-djurgarden-sjalvmal-och-rott-kort-skitdaligt",
+   "desc": "Mardrömsdag på jobbet för Djurgårdens Emma Holmqvist, 20. Först nickade hon in bollen i eget mål – sedan fick hon syna det röda kortet när Hammarby segrade. – Vi har lite otur, säger Djurgårdens lagkapten Sessy Åsland till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Se casinobluffen: Två män från Skellefteå döms för spelfusk",
-   "date": "2026-10-24T10:25:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/se-casinobluffen-tva-man-fran-skelleftea-doms-for-spelfusk",
-   "desc": "Två män i 20-årsåldern från Skellefteå samarbetade och manipulerade blackjack på ett nätcasino. Tillsammans lurade de till sig 31 000 kronor. Nu döms de för spelfusk. – Mig veterligen har vi inte tidigare haft liknande fall kopplade till onlinecasino i svensk domstol, säger Jan Sonnevi, på spelbolaget ATG."
+   "title": "20-åriga Charlize har avlidit – drabbades av blodcancer",
+   "date": "2026-10-24T13:51:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/20-ariga-charlize-har-avlidit-drabbades-av-blodcancer",
+   "desc": "Charlize Tibom från Avesta har avlidit, 20 år gammal, efter att ha drabbats av blodcancer. Efter att sjukhusvården nyligen avslutades bodde hon tillsammans med sina nära och kära för att ta vara på den sista tiden i livet. Mindre än en vecka innan hon somnade in gifte hon sig med sin pojkvän Oscar."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Hundratals köade i Mall of Scandinavia – polisen på plats",
+   "title": "Stormen väntas försena flera avgångar med Gotlandsfärjan",
+   "date": "2026-10-24T15:38:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/flera-avgangar-forsenade-till-gotland",
+   "desc": "Under söndagen väntas flera avgångar både till och från Gotland vara försenade på grund av stormen Boleo."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Polisen på plats när hundratals köade i Mall of Scandinavia",
    "date": "2026-10-24T07:42:27.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/hundratals-koar-for-goodiebags-i-mall-of-scandinavia-polisen-pa-plats",
    "desc": "Hundratals personer köade för att få en ”goodie bag” i Mall of Scandinavia under lördagsmorgonen. Polisen var på plats efter larm om stök. – Ordningsvakter är oroliga, säger Ola Österling på Stockholmspolisen."
@@ -112,14 +120,6 @@
    "date": "2026-10-23T17:43:19.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-23-oktober-b8dxbq",
    "desc": "Här är några utvalda nyheter från SVT Stockholm fredag 23 oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stopp i trafiken mellan Hallonbergen och Kista",
-   "date": "2026-10-23T15:58:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-i-trafiken-mellan-hallonbergen-och-kista",
-   "desc": "Det är stopp mellan Kista och Hallonbergen i båda riktningarna för tunnelbanans blå linje 11, skriver SL på sin hemsida."
   },
   {
    "src": "BBC",
