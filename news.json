@@ -1,13 +1,37 @@
 {
- "updated": "2026-10-24T00:13:56.857Z",
+ "updated": "2026-10-24T04:52:41.393Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-   "date": "2026-10-23T19:42:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-   "desc": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
+   "title": "France prepares for day of protest a week after nationwide riots",
+   "date": "2026-10-24T04:03:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+   "date": "2026-10-24T00:05:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+   "desc": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+   "date": "2026-10-24T03:51:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+   "desc": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Australian MP's condition improves after alleged car attack",
+   "date": "2026-10-24T01:55:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+   "desc": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital."
   },
   {
    "src": "BBC",
@@ -18,68 +42,60 @@
    "desc": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-   "date": "2026-10-23T20:18:13.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-   "date": "2026-10-23T15:37:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-   "desc": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-   "date": "2026-10-23T19:30:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tsunamivarning efter skalv utanför Vanuatu",
+   "date": "2026-10-24T04:08:19.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tsunamivarning-efter-skalv-utanfor-vanuatu",
+   "desc": "En tsunamivarning har utlysts efter ett jordskalv med magnituden 6,9 utanför Vanuatu, uppger PTWC, ett amerikanskt centrum för tsunamivarningar."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hitlers ”Örnnäste” i brand",
-   "date": "2026-10-23T21:27:31.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/hitlers-ornnaste-i-brand",
-   "desc": "”Örnnästet”, ett hus som byggdes åt Adolf Hitler i bergen utanför Berchtesgaden i södra Tyskland, har börjat brinna på fredagskvällen, rapporterar Bild."
+   "title": "Hundratals skadade i Taiwan efter tyfon",
+   "date": "2026-10-24T04:07:34.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/hundratals-skadade-i-taiwan-efter-tyfon",
+   "desc": "350 personer har skadats i Taiwan sedan tyfonen Champi dragit fram."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Polisernas vansinnesfärd på E4 i Luleå – körde i 280 km/h",
-   "date": "2026-10-23T16:00:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/polisernas-vansinnesfard-pa-e4-i-lulea-korde-i-280-kmh",
-   "desc": "En polisman hävdade att han hade lånat ut sin motorcykel – och bytt kläder med föraren – strax innan fordonet registrerades i 281 kilometer i timmen. Tingsrätten köper inte förklaringen och nu döms han och två andra för fortkörning. – En brorsas kompis fick låna motorcykeln, körde iväg, kommer tillbaka, byter om, far hem, sa polisen i förhör."
+   "title": "Google fällde enorma mängder träd för finskt datacenter – utan tillstånd",
+   "date": "2026-10-24T04:02:46.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/google-fallde-enorma-mangder-trad-for-finskt-datacenter-utan-tillstand",
+   "desc": "Myndigheter i Finland har stoppat Google från att bygga två datacenter. Detta efter att techjätten fällt hundratusentals träd – olagligt. – Det är förstås en allvarlig sak, säger Finlands klimatminister Sari Multala."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Moa ritade långfilmen själv – nu kan den vinna pris i Norge",
-   "date": "2026-10-23T15:53:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/moa-ritade-langfilmen-sjalv-nu-kan-den-vinna-pris-i-norge",
-   "desc": "Den självlärda animatören Moa Olsson har ritat sin första långfilm helt själv, bild för bild, under mer än sex år. Nu är filmen nominerad i kategorin bästa nordisk-baltiska långfilm vid Fredrikstad Animation Festival i Norge. – Det var verkligen värt det, säger hon."
+   "title": "Poserar bland eld och förödelse – klippet upprör världen",
+   "date": "2026-10-24T03:45:20.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/poserar-bland-eld-och-forodelse-klippet-uppror-varlden",
+   "desc": "Ett ben från en skyltdocka, en Lego-kartong och en Counter-Strike-pokal. Maskerade män visar upp föremål framför kamerorna medan butiker plundras och en brand rasar bakom dem. SVT har kartlagt vad som hände på paradgatan i Paris den 17 oktober. – Nästan alla fönster är igenbommade här, säger Regina Svedberg Ågren, SVT:s reporter på plats."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Så blev elitens internatskola en misstänkt brottsplats",
-   "date": "2026-10-23T15:03:28.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sa-blev-elitens-internatskola-en-misstankt-brottsplats",
-   "desc": "Flera gymnasieelever vid internatskolan Sigtuanskolans Humanistiska läroverket är misstänkta för brott mot andra elever. Enligt både åklagare och försvarsadvokat grundar sig händelserna i en kultur på skolan där äldre straffar yngre."
+   "title": "Trosa kommun: Så kan skräpet du slänger på marken förorena vattendrag",
+   "date": "2026-10-24T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/trosa-kommun-sa-kan-skrapet-du-slanger-pa-marken-fororena-vattendrag",
+   "desc": "Skräpet du slänger på marken kan hamna i våra vattendrag – det vill Trosa kommun uppmärksamma folk på. Därför har kommunen valt att måla vid fyra dagvattenbrunnar i kommunen. – Vi vill att alla hjälps åt, säger projektledaren Karen Kynnefjäll."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "En man död efter skjutning i södra Stockholm",
-   "date": "2026-10-23T15:00:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-sodra-stockholm-kzidi4",
-   "desc": "En man i 25-årsåldern är död efter skjutningen i Bagarmossen. – Den personen som har skjutits har avlidit, säger Nadya Norton, presstalesperson vid polisen. Ingen är i nuläget gripen."
+   "title": "Modeforskaren: Andrahandsförsäljning kan leda till fler nyköp i stället för färre",
+   "date": "2026-10-24T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/modeforskaren-second-hand-kan-leda-till-fler-nykop-i-stallet-for-farre",
+   "desc": "Allt fler handlar och säljer varor på andrahandsmarknaden – men det innebär inte nödvändigtvis att vår konsumtion blivit mer hållbar. – Försäljningen av nytillverkade varor minskar inte i samma takt som begagnatmarknaden växer, säger modeforskaren Malin Wennberg."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Skifte inom secondhand: Pengar stannar på försäljningsplattformarna",
+   "date": "2026-10-24T03:30:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skifte-inom-secondhand-pengar-stannar-pa-forsaljningsplattformarna",
+   "desc": "Second hand-handeln håller på att utvecklats till en egen cirkulär ekonomi, där pengarna från sålda prylar blir nya köp på samma secondhand-plattformar, enligt en ny undersökning. – Vi ser ett tydligt skifte i konsumentbeteendet, säger Helena Salomonson, samhällschef Postnord."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-10-23T15:00:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/larm-om-skottlossning-i-sodra-stockholm-kzidi4",
    "desc": "En man i 25-årsåldern är död efter skjutningen i Bagarmossen. – Den personen som har skjutits har avlidit, säger Nadya Norton, presstalesperson vid polisen. Ingen är i nuläget gripen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Därför slutade bussarna i Norrtälje rulla – och är konflikten över?",
-   "date": "2026-10-23T14:34:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/darfor-slutade-bussarna-i-norrtalje-rulla-och-ar-konflikten-over",
-   "desc": "Efter månader av diskussioner med arbetsgivaren valde skyddsombudet Fredrik Bergh i onsdags att stoppa busstrafiken i Norrtälje. Nu vill han se förändring – inte bara nya rutiner. – Jag förväntar mig bättre samverkan, säger skyddsombudet Fredrik Bergh."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här uppe finns unika plantskolan – först i Europa",
-   "date": "2026-10-23T09:59:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-uppe-finns-unika-plantskolan-forst-i-europa",
-   "desc": "Till våren kommer 600 kvadratmeter av ängsväxter bre ut sig över taket på Garnisonen. Därifrån kommer plantor sen kunna levereras till hela stan. – Man utnyttjar en yta som annars inte används, säger Josefina Oddsberg Gustafsson, urbanekolog."
   },
   {
    "src": "BBC",
