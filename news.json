@@ -1,30 +1,6 @@
 {
- "updated": "2026-10-25T13:39:27.564Z",
+ "updated": "2026-10-25T17:22:45.393Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-   "date": "2026-10-25T10:38:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-   "date": "2026-10-25T05:15:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-   "date": "2026-10-25T11:54:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-   "desc": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -36,58 +12,90 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-   "date": "2026-10-25T03:20:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-   "desc": "Police are searching for other casualties, with officials warning the actual death toll could rise further."
+   "title": "Venezuelan opposition leader María Machado returns after months in exile",
+   "date": "2026-10-25T16:21:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Early reports suggest record high turnout in Serbia elections",
+   "date": "2026-10-25T16:05:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+   "desc": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+   "date": "2026-10-25T15:32:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+   "desc": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+   "date": "2026-10-25T05:15:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt grovt brott i Sala Backe",
+   "title": "David Rumbutis skrev svensk gymnastikhistoria under VM",
+   "date": "2026-10-25T16:01:28.000Z",
+   "link": "https://www.svt.se/sport/gymnastik/david-rumbutis-skrev-svensk-gymnastikhistoria-under-vm",
+   "desc": "David Rumbutis har skrivit in sig i den svenska gymnastikhistorien. Under VM i Rotterdam nådde 26-åringen grenfinal i barr – som den förste svenske gymnasten någonsin inom manlig artistisk gymnastik. – Stort grattis till honom, utbrister kommentatorerna när svensken inledde sin serie."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Arvet efter franska revolutionen lever”",
+   "date": "2026-10-25T15:53:49.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/arvet-efter-franska-revolutionen-lever",
+   "desc": "Är det något man har med sig från franska revolutionen i Frankrike är det att folket kan störta ett helt system. Fransmännen vet detta och det vet även den franska staten."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fina gesten – Cornelia Kapocs ger bort straffen till Beata Olsson",
+   "date": "2026-10-25T14:45:36.000Z",
+   "link": "https://www.svt.se/sport/fotboll/fina-gesten-ger-bort-straffen-till-svenska-lagkamraten",
+   "desc": "Alla trodde Cornelia Kapocs skulle ta chansen att ge Liverpool ledningen på straff. Men gav osjälviskt över straffen till svenska lagkamraten Beata Olsson – som sköt sitt andra mål för säsongen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Isabelle Haaks dröminsats – hyllas efter supercuptiteln: ”Prinsessa”",
+   "date": "2026-10-25T13:59:08.000Z",
+   "link": "https://www.svt.se/sport/volleyboll/isabelle-haaks-drominsats-hyllas-efter-supercuptiteln-prinsessa",
+   "desc": "Isabelle Haak, 27, kunde inte ha önskat sig en bättre start på säsongen. Den svenska volleybollstjärnan briljerade när hennes Conegliano vann den italienska supercupen. – Väldigt skönt, säger Haak till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "En anhållen för grov misshandel i Sala Backe",
    "date": "2026-10-25T11:23:12.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-grovt-brott-i-uppsala-52gsu6",
-   "desc": "Åtta personer gripna vid pågående polisinsats i Sala Backe i Uppsala. Polisen är mycket förtegen om händelsen men bekräftar att man utreder ett misstänkt grovt brott."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Terrormisstänkt 39-åring ska genomgå ”psykiatrisk observation”",
-   "date": "2026-10-25T10:43:46.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/terrormisstankt-39-aring-ska-genomga-psykiatrisk-observation",
-   "desc": "Häktningen av den man som misstänks för fredagens skjutning i franska staden Trappes har hävts efter en psykiatrisk undersökning. 39-åringen ska nu genomgå fortsatt observation innan franska myndigheter kan besluta om nästa steg i processen, rapporterar Le Monde."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Emil Forsberg målskytt mot Messis Inter Miami",
-   "date": "2026-10-25T08:40:11.000Z",
-   "link": "https://www.svt.se/sport/fotboll/emil-forsberg-malskytt-mot-messis-inter-miami",
-   "desc": "När Inter Miami spelar brukar Lionel Messi ofta få rubrikerna. Men den här gången hölls han poänglös när Emil Forsberg blev målskytt i New Yorks 2–0-seger."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lukas Wernblom bet motståndare – åkte på matchstraff",
-   "date": "2026-10-25T08:20:15.000Z",
-   "link": "https://www.svt.se/sport/ishockey/lukas-wernblom-bet-motstandare-akte-pa-matchstraff",
-   "desc": "Det har blossat upp en smärre skandal i finsk hockey – med en svensk i centrum. TPS-spelaren Lukas Wernblom fick matchstraff när han under lördagen bet sin motståndare. – Det gjorde väldigt ont, säger offret Peetro Seppälä till Iltalehti."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Efter skidmärkenas bojkott – ryska åkarna köper skidor i butik",
-   "date": "2026-10-25T07:12:32.000Z",
-   "link": "https://www.svt.se/sport/langdskidor/efter-skidmarkenas-bojkott-ryska-akarna-koper-skidor-i-butik",
-   "desc": "Ett dussin ryska längdskidåkare kommer till start i årets världscup – utan specialtillverkade skidor. Efter invasionen av Ukraina bröt flera skidmärken sina avtal med ryska landslagsåkare, vilket nu kan få sportsliga konsekvenser. – För att tävla internationellt behöver vi få tillbaka den relation som fanns tidigare, säger tränaren Jegor Sorin."
+   "desc": "En person har anhållits misstänkt på sannolika skäl för grov misshandel efter en polisinsats i Sala Backe i Uppsala under söndagen. Åtta personer greps initialt, men nu har resterande sju släppts på fri fot. Brottsmisstankarna mot de kvarstår enligt Åklagarmyndigheten."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Tonårsflicka begärs häktad efter mordet i Älvsjö",
+   "title": "Krigsfartyget fast i Stockholm – stoppas av stormen Boelo",
+   "date": "2026-10-25T13:49:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/krigsfartyget-fast-i-stockholm-stoppas-av-stormen-boelo",
+   "desc": "Stormen Boelo har orsakat trafikstörningar och medfört en gul varning i Stockholms län på söndagen. Busvädret har även tvingat ett franskt krigsfartyg att skjuta upp hemfärden från Stockholm."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Tonårsflicka häktas efter mordet i Älvsjö",
    "date": "2026-10-25T10:33:51.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/tonarsflicka-begars-haktad-efter-mordet-i-alvsjo",
-   "desc": "En tonårsflicka begärs häktad misstänkt för inblandning i mordet på en 24-årig kvinna i Älvsjö, meddelar Åklagarmyndigheten."
+   "desc": "En tonårsflicka häktas misstänkt för inblandning i mordet på en kvinna i 25-årsåldern Älvsjö, uppger åklagaren för SVT Nyheter. Hon nekar till brott."
   },
   {
    "src": "STHLM",
@@ -114,20 +122,28 @@
    "desc": "En bil ska ha krockat med ett träd under lördagskvällen. En person har förts till sjukhus med oklart skadeläge."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 24 oktober",
-   "date": "2026-10-24T17:38:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-24-oktober-ljtc5w",
-   "desc": "Här är några utvalda nyheter från SVT Stockholm lördag 24 oktober."
+   "src": "BBC",
+   "section": "United",
+   "title": "Carrick future under major threat - can he survive?",
+   "date": "2026-10-25T16:51:48.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Fernandes dropped to Man Utd bench - was Carrick right?",
+   "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
+   "date": "2026-10-25T16:04:13.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
+   "desc": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?"
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
    "date": "2026-10-25T13:26:13.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United skipper Bruno Fernandes is dropped from the starting XI for Sunday's game against Bournemouth following his criticism of manager Michael Carrick."
+   "desc": "Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-10-24T21:34:19.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Malacia has 'no regrets' over Man Utd - despite having to train with kids",
-   "date": "2026-10-24T06:19:26.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjx23d4p2v3go?at_medium=RSS&at_campaign=rss",
-   "desc": "Tyrell Malacia opens up on his time at Manchester United after moving to FC Cincinnati to restart his career in Major League Soccer."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "How long was Carrick's opening speech?",
-   "date": "2026-10-23T15:12:33.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqkgjl54njk6o?at_medium=RSS&at_campaign=rss",
-   "desc": "How long was Michael Carrick's emotional address at the start of his press conference?"
   }
  ]
 }
