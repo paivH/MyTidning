@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:22:45.393Z",
+ "updated": "2026-10-25T19:50:32.012Z",
  "items": [
   {
    "src": "BBC",
@@ -13,7 +13,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Venezuelan opposition leader María Machado returns after months in exile",
-   "date": "2026-10-25T16:21:40.000Z",
+   "date": "2026-10-25T18:29:00.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
    "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
   },
@@ -40,6 +40,14 @@
    "date": "2026-10-25T05:15:52.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
    "desc": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Joen Vikingsson Sjöblom efter Rysslandsbeskedet: ”Inte förvånad”",
+   "date": "2026-10-25T18:18:30.000Z",
+   "link": "https://www.svt.se/sport/tyngdlyftning/joen-vikingsson-sjoblom-efter-rysslandsbeskedet-inte-forvanad",
+   "desc": "Joen Vikingsson Sjöblom, 23, drömmer om OS. För att nå dit kan han behöva åka till Ryssland – som tilldelats VM i tyngdlyftning 2030. – Det är tyvärr ett pris man måste betala, säger tyngdlyftaren till SVT Sport."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Isabelle Haak, 27, kunde inte ha önskat sig en bättre start på säsongen. Den svenska volleybollstjärnan briljerade när hennes Conegliano vann den italienska supercupen. – Väldigt skönt, säger Haak till SVT Sport."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "En anhållen för grov misshandel i Sala Backe",
-   "date": "2026-10-25T11:23:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-grovt-brott-i-uppsala-52gsu6",
-   "desc": "En person har anhållits misstänkt på sannolika skäl för grov misshandel efter en polisinsats i Sala Backe i Uppsala under söndagen. Åtta personer greps initialt, men nu har resterande sju släppts på fri fot. Brottsmisstankarna mot de kvarstår enligt Åklagarmyndigheten."
+   "title": "Nyheter från dagen: 25 oktober",
+   "date": "2026-10-25T19:35:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-25-oktober-3wta0j",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm söndag 25 oktober."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,20 @@
    "desc": "En man i 20-års åldern har gripits efter att ha misshandlat en taxichaufför i Östberga natten till söndag. – Han ska ha hoppat, slagit och sparkat på chauffören främst på överkroppen och huvudet, säger Ola Österling, presstalesperson hos polisen."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Bil har kört in i träd i Järfälla",
-   "date": "2026-10-24T20:07:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/singelolycka-i-jarfalla",
-   "desc": "En bil ska ha krockat med ett träd under lördagskvällen. En person har förts till sjukhus med oklart skadeläge."
+   "src": "BBC",
+   "section": "United",
+   "title": "'I'm carrying on as normal' - Carrick on his Man Utd future",
+   "date": "2026-10-25T18:40:35.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck5ynv4x49vzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United head coach Michael Carrick says he is 'carrying on as normal' as the pressure mounts on his position at the club."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Is Carrick the problem at Manchester United?",
+   "date": "2026-10-25T18:00:17.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck98zppmn0n6o?at_medium=RSS&at_campaign=rss",
+   "desc": "Following Manchester United's loss to Bournemouth, BBC Sport asked fans where they think the club's problems lie."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-10-25T13:26:13.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "What Man Utd need now is stability, not more changes - Pulis",
-   "date": "2026-10-25T06:34:07.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Man Utd not an unmanageable club - Carrick",
-   "date": "2026-10-24T21:34:19.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
-   "desc": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday."
   }
  ]
 }
