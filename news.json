@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-25T19:50:32.012Z",
+ "updated": "2026-10-25T22:15:55.635Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-   "date": "2026-10-25T09:00:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-   "desc": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+   "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+   "date": "2026-10-25T22:06:26.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
   },
   {
    "src": "BBC",
@@ -20,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Early reports suggest record high turnout in Serbia elections",
-   "date": "2026-10-25T16:05:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-   "desc": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
+   "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+   "date": "2026-10-25T09:00:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+   "desc": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
   },
   {
    "src": "BBC",
@@ -124,6 +124,22 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+   "date": "2026-10-25T21:24:21.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "'I'm worried about relegation' says Man Utd fan after 3-0 defeat",
+   "date": "2026-10-25T20:13:12.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c32l4gr587xro?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd fan Beth Tucker says she's worried about relegation after Man Utd's 3-0 home defeat to Bournemouth."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "'I'm carrying on as normal' - Carrick on his Man Utd future",
    "date": "2026-10-25T18:40:35.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/ck5ynv4x49vzo?at_medium=RSS&at_campaign=rss",
@@ -140,26 +156,10 @@
   {
    "src": "BBC",
    "section": "United",
-   "title": "Carrick future under major threat - can he survive?",
+   "title": "'It wasn't a farewell from me' - but horror start leaves Carrick on brink",
    "date": "2026-10-25T16:51:48.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
-   "date": "2026-10-25T16:04:13.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
-   "desc": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
-   "date": "2026-10-25T13:26:13.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick."
   }
  ]
 }
