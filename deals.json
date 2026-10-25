@@ -1,7 +1,13 @@
 {
- "updated": "2026-10-24T08:29:14.472Z",
+ "updated": "2026-10-25T08:48:35.913Z",
  "verified": false,
  "deals": [
+  {
+   "store": "ICA",
+   "item": "Svenska äpplen Aroma, lösvikt",
+   "price": "19 kr/kg",
+   "url": "https://www.ica.se"
+  },
   {
    "store": "ICA",
    "item": "Färsk laxfilé Norge",
@@ -9,33 +15,27 @@
    "url": "https://www.ica.se"
   },
   {
-   "store": "ICA",
-   "item": "Äpplen Ingrid Marie Sverige",
-   "price": "19 kr/kg",
-   "url": "https://www.ica.se"
-  },
-  {
    "store": "Lidl",
-   "item": "Köttfärs nöt/fläsk 800g",
-   "price": "49 kr",
+   "item": "Pumpa Hokkaido, styck",
+   "price": "15 kr/st",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Pumpa Hokkaido",
-   "price": "12 kr/st",
+   "item": "Kycklingfilé Guldfågeln 900g",
+   "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
+   "item": "Köttbullar 1kg, fryst",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Stearinljus & ljuslyktor höstkampanj",
-   "price": "från 15 kr",
+   "item": "Stearinljus & ljuslyktor, höstkampanj",
+   "price": "från 29 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
