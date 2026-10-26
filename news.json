@@ -1,19 +1,27 @@
 {
- "updated": "2026-10-25T22:15:55.635Z",
+ "updated": "2026-10-26T00:31:54.490Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-   "date": "2026-10-25T22:06:26.000Z",
+   "date": "2026-10-25T22:54:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
    "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
   },
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Deeply divided Israel braces for pivotal election",
+   "date": "2026-10-25T22:11:13.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+   "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Venezuelan opposition leader María Machado returns after months in exile",
-   "date": "2026-10-25T18:29:00.000Z",
+   "date": "2026-10-25T23:33:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
    "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
   },
@@ -32,14 +40,6 @@
    "date": "2026-10-25T15:32:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
    "desc": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-   "date": "2026-10-25T05:15:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
   },
   {
    "src": "SVT",
@@ -124,7 +124,15 @@
   {
    "src": "BBC",
    "section": "United",
-   "title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+   "title": "Man Utd lacked intensity & fight - Alderweireld",
+   "date": "2026-10-25T23:51:22.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6wyrg2vwjmgo?at_medium=RSS&at_campaign=rss",
+   "desc": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Manchester United's 3-0 defeat by Bournemouth, with Alderweireld suggesting there is no \"togetherness\" amongst the United squad."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
    "date": "2026-10-25T21:24:21.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else."
@@ -152,14 +160,6 @@
    "date": "2026-10-25T18:00:17.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/ck98zppmn0n6o?at_medium=RSS&at_campaign=rss",
    "desc": "Following Manchester United's loss to Bournemouth, BBC Sport asked fans where they think the club's problems lie."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'It wasn't a farewell from me' - but horror start leaves Carrick on brink",
-   "date": "2026-10-25T16:51:48.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday."
   }
  ]
 }
