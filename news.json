@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T23:00:18.853Z",
+ "updated": "2026-10-27T02:16:01.182Z",
  "items": [
   {
    "src": "BBC",
@@ -8,6 +8,22 @@
    "date": "2026-10-26T21:02:47.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
    "desc": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ex-FBI chief James Comey faces federal charges for third time",
+   "date": "2026-10-27T02:01:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+   "date": "2026-10-27T00:31:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being."
   },
   {
    "src": "BBC",
@@ -26,20 +42,12 @@
    "desc": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-   "date": "2026-10-26T16:27:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-   "desc": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-   "date": "2026-10-26T15:46:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Stor polisinsats efter bedrägeri vid Drottningholms slott",
+   "date": "2026-10-26T22:53:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-efter-bedrageri-vid-drottningholms-slott",
+   "desc": "En polisinsats pågår vid Drottningholms slott efter att en person som bor på slottsområdet utsatts för bedrägeri. Enligt polisen ska gärningspersonen fått med sig värdesaker för tiotusentals kronor."
   },
   {
    "src": "SVT",
@@ -74,20 +82,12 @@
    "desc": "Ballonger, röda mattan och prominenta gäster. På måndagen premiärflögs det till Gran Canaria från Nyköping. – Skavsta är en viktig hubb för länet, säger landshövding Robert Andrén."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Vem är Gadi Eisenkot?",
-   "date": "2026-10-26T17:51:11.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/vem-ar-gadi-eisenkot",
-   "desc": "Gadi Eisenkot är soldaten som blev Israels överbefälshavare. Nu har han pensionerat sig från militären – och utmanar Benjamin Netanyahu om premiärministerposten."
-  },
-  {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
    "title": "Stor polisinsats efter bedrägeri vid Drottningholms slott",
    "date": "2026-10-26T22:53:21.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-efter-bedrageri-vid-drottningholms-slott",
-   "desc": "En stor polisinsats pågår vid Drottningholms slott efter att en person som bor på slottsområdet utsatts för bedrägeri. Enligt polisen ska gärningspersonen fått med sig värdesaker för tiotusentals kronor."
+   "desc": "En polisinsats pågår vid Drottningholms slott efter att en person som bor på slottsområdet utsatts för bedrägeri. Enligt polisen ska gärningspersonen fått med sig värdesaker för tiotusentals kronor."
   },
   {
    "src": "STHLM",
