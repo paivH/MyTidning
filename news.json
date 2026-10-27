@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T19:47:30.236Z",
+ "updated": "2026-10-27T23:26:47.585Z",
  "items": [
   {
    "src": "BBC",
@@ -12,10 +12,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-   "date": "2026-10-27T15:13:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out."
+   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "date": "2026-10-27T22:11:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
   },
   {
    "src": "BBC",
@@ -36,10 +36,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+   "title": "Dutch zookeeper dies after being mauled by leopard",
    "date": "2026-10-27T19:30:37.000Z",
    "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
    "desc": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rögles Mark Friedman blodig – kastade handsken: ”Var förbannad”",
+   "date": "2026-10-27T21:47:57.000Z",
+   "link": "https://www.svt.se/sport/ishockey/rogles-mark-friedman-blodig-kastade-handsken-var-forbannad",
+   "desc": "Rögles Mark Friedman fick en Frölundaklubba rätt över munnen, blödde och blev skogstokig med en kastad handske. – Jag var bara förbannad över att jag blev uppskuren igen. Det var allt, säger han till Aftonbladet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Arsenals fiasko – förlorade mot League Two-laget Fleetwood",
+   "date": "2026-10-27T21:27:33.000Z",
+   "link": "https://www.svt.se/sport/fotboll/viktor-gyokeres-slar-till-forsta-malet-for-sasongen-i-arsenal",
+   "desc": "Sanslös skräll i ligacupen. League Two-laget Fleetwood slog ut Arsenal efter straffar och är klara för kvartsfinal. Trots att Viktor Gyökeres gjorde säsongens första mål för ”The Gunners”."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sverige vann EM-premiären – trots svårspelad is: ”Som en feberdröm”",
+   "date": "2026-10-27T20:20:07.000Z",
+   "link": "https://www.svt.se/sport/curling/sverige-vann-em-premiaren-trots-svarspelad-is-som-en-feberdrom",
+   "desc": "Lag Isabella Wranå vann planenligt premiärmatchen mot Estland i EM med 8–4. Men den svårspelade och långsamma isen i Tjeckien oroar. – Någonting måste ha gått lite fel när man preparerade isen i dag, säger Isabella Wranå efter segern."
   },
   {
    "src": "SVT",
@@ -58,28 +82,12 @@
    "desc": "Efter den historiska valsegern i Serbien ställs nu proteströrelsen Studentlistan inför nästa utmaning: Vem ska leda det icke-hierarkiska partiet – och i vilken riktning? – De har en hel del att ta tag i, säger SVT:s Europakorrespondent Niklas Svensson i Aktuellt."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Nya SD-styret i Oskarshamn vill stoppa Prideflaggan vid kommunhuset",
-   "date": "2026-10-27T16:11:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/nya-sd-styret-i-oskarshamn-vill-stoppa-prideflaggan-vid-kommunhuset",
-   "desc": "Som en del av uppgörelsen inom det nya styret i Oskarshamn kommer kommunen se över sin flaggpolicy. Något som kan innebära ett stopp för att hissa Prideflaggan vid stadshuset. – Just vid kommunens fastigheter ska man ha symboler som alla kan känna sig inkluderade i, säger Ted Nyberg (SD), tillträdande kommunalråd i Oskarshamn."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Flávio Bolsonaro har lämnat Brasilien efter valförlusten",
-   "date": "2026-10-27T16:02:17.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/flavio-bolsonaros-pass-indraget-efter-valforlusten",
-   "desc": "Högerpolitikern Flávio Bolsonaro har lämnat Brasilien efter förlusten i söndagens presidentval. Han befinner sig nu på ett flygplan på väg till USA, uppger amerikanska myndighetskällor till Reuters."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Östgötapolitiker på Nordiska rådets möte: ”Otroligt viktigt”",
-   "date": "2026-10-27T15:17:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/ostgotapolitiker-pa-nordiska-radets-mote-otroligt-viktigt",
-   "desc": "Samtidigt som Nordiska rådets årliga session pågår i Helsingfors, har ett uppmärksammat telefonsamtal väckt reaktioner. SVT Nyheter Öst är på plats och har träffat två östgötska riksdagsledamöter."
+   "title": "Man räddades från brinnande lägenhet i Gustavsberg – greps för mordbrand",
+   "date": "2026-10-27T20:33:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-fick-raddas-fran-brinnande-lagenhet-i-gustavsberg-greps-for-mordbrand",
+   "desc": "En fullt utvecklad brand utbröt i en lägenhet i Gustavsberg i Värmdö kommun på tisdagskvällen. En man fick hjälpas ner via balkongen, och därefter föras med ambulans till sjukhus. Samma man är nu gripen misstänkt för mordbrand."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-10-27T09:57:44.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/haktad-elev-misstanks-for-nya-brott-pa-sigtunaskolan",
    "desc": "En av tonåringarna som sedan tidigare sitter häktad misstänkt för misshandel och olaga tvång på Sigtunaskolan misstänks nu för nya brott. De nya misstankarna gäller ytterligare en misshandel samt grovt hemfridsbrott, enligt Aftonbladet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Schäfern Sid räddade sin förares liv – utses till årets polishund",
-   "date": "2026-10-27T09:02:21.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/schafern-sid-raddade-sin-forares-liv-utses-till-arets-polishund",
-   "desc": "Schäferhunden Sid har bidragit till att lösa flera allvarliga brott i Stockholmsregionen och räddat livet på sin hundförare Jesper Wretman. Nu utses han till årets polishund 2026."
   },
   {
    "src": "BBC",
