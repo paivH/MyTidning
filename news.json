@@ -1,13 +1,37 @@
 {
- "updated": "2026-10-28T09:16:02.402Z",
+ "updated": "2026-10-28T16:11:15.309Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "date": "2026-10-28T07:53:20.000Z",
+   "date": "2026-10-28T10:31:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
    "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+   "date": "2026-10-28T10:17:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+   "date": "2026-10-28T10:18:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+   "desc": "The energy minister described it as a \"major milestone\" for the East African nation."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+   "date": "2026-10-28T08:28:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+   "desc": "No official reason has been given for postponing next month’s hearing to May 2027, the family says."
   },
   {
    "src": "BBC",
@@ -18,68 +42,60 @@
    "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-   "date": "2026-10-28T04:32:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-   "desc": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Dutch zookeeper dies after being mauled by leopard",
-   "date": "2026-10-27T19:30:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-   "desc": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Norway and Finland leaders hold rare call with Putin",
-   "date": "2026-10-27T18:28:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-   "desc": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bortspolade vägen i Långå – ”Påverkar alla i byn”",
+   "date": "2026-10-28T15:36:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/bortspolade-vagen-i-langa-paverkar-alla-i-byn",
+   "desc": "Det finns både kritik och oro för isolering bland bybor i Långå efter att kraftbolaget Fortums test skadade vägen till byn. – Jag är starkt kritisk till att Fortum väljer att göra det här testet just nu, när vår ordinarie bro redan är avstängd, säger Cattis Olsson i Långå."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Två tåg har kolliderat i Spanien",
-   "date": "2026-10-28T08:35:35.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/tva-tag-har-krockat-i-spanien",
-   "desc": "Två tåg har krockat på höghastighetsbanan mellan Madrid och Sevilla, meddelar tågoperatören. Enligt vittnesuppgifter till El Pais ska flera personer ha skadats. Tidningen skriver med hänvisning till uppgifter från regeringen att minst 10 personer har dött."
+   "title": "Vattennivåerna sjunker – kan nå rekordlåga nivåer: ”Ovanligt”",
+   "date": "2026-10-28T15:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/vattennivaerna-sjunker-kan-na-rekordlaga-nivaer-ovanligt",
+   "desc": "I Järnlunden och Åsunden söder om Linköping är vattnet bara några centimeter från de lägsta som uppmätts på över 50 år. Den långvariga torkan har satt sina spår i Östergötlands sjöar och nivåerna kan enligt Tekniska verken sjunka ytterligare."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Valmyndigheten: Vi är redo för extraval",
-   "date": "2026-10-28T08:30:14.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/valmyndigheten-vi-ar-redo-for-extraval",
-   "desc": "Riksdagen har efter ett försök inte lyckats rösta fram en ny regering. Om man misslyckas med alla fyra försök väntar extraval. – Vi är redo, säger Valmyndighetens kanslichef Anna Nyqvist."
+   "title": "33 katter fick avlivas – man döms för grovt djurplågeri",
+   "date": "2026-10-28T15:00:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/33-katter-fick-avlivas-man-doms-for-grovt-djurplageri",
+   "desc": "En man i 70-årsåldern som bor i ett samhälle norr om Kalmar har dömts till böter för grovt djurplågeri. Länsstyrelsen var tvungen att omhänderta och avliva 33 katter som hittades i mannens bostad. Han har nu dömts för att ha utsatt 24 katter för lidande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt farligt föremål i Ladugårdsängen i Örebro – boende: ”Det är otäckt”",
-   "date": "2026-10-28T06:28:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/orebro/misstankt-farligt-foremal-i-ladugardsangen-i-orebro",
-   "desc": "Polisen spärrade under morgonen av ett område i Ladugårdsängen i Örebro på grund av ett misstänkt farligt föremål. Vid 9-tiden kom nationella bombskyddet till platsen för att undersöka föremålet. Strax efter 10 meddelades att föremålet inte var skarpt."
+   "title": "Tågolyckan i Spanien: Detta vet vi",
+   "date": "2026-10-28T14:36:29.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/tagolyckan-i-spanien-detta-vet-vi",
+   "desc": "Minst 64 personer har omkommit efter att två tåg kolliderat på höghastighetsbanan i den spanska regionen Toledo. Det här vet vi om olyckan."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Sjuksköterska åtalad för våldtäkt mot patient – nu inleds rättegången",
-   "date": "2026-10-28T06:00:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sjukskoterska-atalad-for-valdtakt-mot-patient-nu-inleds-rattegangen",
-   "desc": "Den manliga sjuksköterska som står åtalad misstänkt för grov våldtäkt på en patient som vårdades i livets slutskede på länssjukhuset Ryhov i Jönköping såg märkbart tagen ut när han kom in i rättssalen. På onsdagen inleddes rättegången bakom stängda dörrar – SVT:s reporter fick bara vara med på de inledande minutrarna."
+   "title": "Här griper polisen den misstänkte guldbedragaren",
+   "date": "2026-10-28T13:04:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/har-griper-polisen-den-misstankte-guldbedragaren",
+   "desc": "En 19-årig man från Östeuropa är åtalad för att ha försökt lura guld av en Gävlebo i 80-årsåldern till ett värde av 240 000 kronor. 19-åringen kunde gripas under dramatiska former av polisen när han kom för att hämta guldet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "E45 utanför Trollhättan öppen igen efter trafikolycka",
-   "date": "2026-10-28T05:34:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/e45-utanfor-trollhattan-avstangd-efter-olycka",
-   "desc": "Runt 06.15 inträffade en trafikolycka på E45 vid Stallbackabron utanför Trollhättan och vägen stängdes av helt i norrgående riktning. Vid 07.05 meddelar räddningstjänsten att vägen är öppen igen."
+   "title": "En person anhållen för mord i Bagarmossen",
+   "date": "2026-10-28T12:25:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-person-anhallen-for-mord-i-bagarmossen",
+   "desc": "En 36-årig man som varit anhållen i sin frånvaro misstänkt för mord i Bagarmossen har nu gripits."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Lurade brottsoffer på nära 70 miljoner kronor – åtalas",
+   "date": "2026-10-28T12:16:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/lurade-brottsoffer-pa-nara-70-miljoner-kronor-atalas",
+   "desc": "En man i 30-årsåldern från Stockholmsområdet misstänks ha lett en omfattande bedrägeriverksamhet från USA. Över 65 miljoner kronor ska han ha lurat till sig från personer i Sverige. Nu åtalas han."
   },
   {
    "src": "STHLM",
@@ -95,7 +111,7 @@
    "title": "Trots två ihjälskjutna i oktober – färre dödsskjutningar i Stockholm",
    "date": "2026-10-28T04:51:49.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/trots-tva-dodsskjutningar-i-oktober-farre-skjuts-ihjal-i-stockholm",
-   "desc": "En 25-årig man i Bagarmossen och en 24-årig kvinnlig fritidsledare i Älvsjö har skjutits ihjäl de senaste veckorna. Det var de två första dödsskjutningarna i Stockholms stad i år. Och statistik visar att dödsskjutningarna i både staden, länet och landet ser ut att hamna på lägre nivå än tidigare tre åren."
+   "desc": "En 25-årig man i Bagarmossen och en kvinnlig fritidsledare i 25-årsåldern Älvsjö har skjutits ihjäl de senaste veckorna. I somras sköts en man i 25-årsåldern ihjäl i Hässelby. Statistik visar att dödsskjutningarna i både staden, länet och landet ser ut att hamna på lägre nivå än tidigare tre åren."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "En rad misstänkta bedrägerier samt bedrägeriförsök mot äldre har inträffat i Stockholmsområdet på tisdagen, uppger polisen på sin sajt."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man räddades från brinnande lägenhet i Gustavsberg – greps för mordbrand",
-   "date": "2026-10-27T20:33:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-fick-raddas-fran-brinnande-lagenhet-i-gustavsberg-greps-for-mordbrand",
-   "desc": "En fullt utvecklad brand utbröt i en lägenhet i Gustavsberg i Värmdö kommun på tisdagskvällen. En man fick hjälpas ner via balkongen, och därefter föras med ambulans till sjukhus. Samma man är nu gripen misstänkt för mordbrand."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 27 oktober",
-   "date": "2026-10-27T18:59:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-27-oktober-8fmnfq",
-   "desc": "Här är några utvalda nyheter från SVT Stockholm tisdag 27 oktober."
+   "src": "BBC",
+   "section": "United",
+   "title": "Carrick and Fernandes hold clear-the-air talks",
+   "date": "2026-10-28T11:48:28.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-27T11:16:54.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
    "desc": "BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Why is Wilcox in line of fire from Man Utd fans?",
-   "date": "2026-10-26T15:24:12.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss",
-   "desc": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox."
   }
  ]
 }
