@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-28T16:11:15.309Z",
+ "updated": "2026-10-28T21:13:16.074Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+   "date": "2026-10-28T21:07:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "date": "2026-10-28T20:24:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "desc": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "How could Israel break election deadlock? Here are four scenarios",
+   "date": "2026-10-28T14:30:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+   "desc": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -18,68 +42,60 @@
    "desc": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-   "date": "2026-10-28T10:18:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-   "desc": "The energy minister described it as a \"major milestone\" for the East African nation."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
-   "date": "2026-10-28T08:28:39.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
-   "desc": "No official reason has been given for postponing next month’s hearing to May 2027, the family says."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-   "date": "2026-10-27T22:11:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-   "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Minut för minut: Den dödliga tågkraschen i Spanien",
+   "date": "2026-10-28T20:25:22.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/minut-for-minut-den-dodliga-tagkraschen-i-spanien",
+   "desc": "Två höghastighetståg har krockat mellan Madrid och Sevilla i Spanien. Många har dött och ännu fler har skadats. – Jag är bedrövad över den fruktansvärda olyckan, säger Spaniens kung, Felipe VI i ett uttalande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bortspolade vägen i Långå – ”Påverkar alla i byn”",
-   "date": "2026-10-28T15:36:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/bortspolade-vagen-i-langa-paverkar-alla-i-byn",
-   "desc": "Det finns både kritik och oro för isolering bland bybor i Långå efter att kraftbolaget Fortums test skadade vägen till byn. – Jag är starkt kritisk till att Fortum väljer att göra det här testet just nu, när vår ordinarie bro redan är avstängd, säger Cattis Olsson i Långå."
+   "title": "Kvinna hittad avliden i bostad i Ängelholm – polisen misstänker mord",
+   "date": "2026-10-28T20:03:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/kvinna-hittats-avliden-i-bostad-i-angelholm",
+   "desc": "En kvinna har hittats avliden i en bostad i Ängelholm under onsdagseftermiddagen, meddelar polisen. En man är gripen, misstänkt för mord. Kvinnan och mannen var närstående."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Vattennivåerna sjunker – kan nå rekordlåga nivåer: ”Ovanligt”",
-   "date": "2026-10-28T15:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/vattennivaerna-sjunker-kan-na-rekordlaga-nivaer-ovanligt",
-   "desc": "I Järnlunden och Åsunden söder om Linköping är vattnet bara några centimeter från de lägsta som uppmätts på över 50 år. Den långvariga torkan har satt sina spår i Östergötlands sjöar och nivåerna kan enligt Tekniska verken sjunka ytterligare."
+   "title": "Två män gripna efter våld i trapphus i Högdalen – man hittades skadad",
+   "date": "2026-10-28T19:15:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-man-gripna-efter-vald-i-trapphus",
+   "desc": "Två män i 30-årsåldern har gripits i Högdalen i Stockholm efter ett bråk i ett trapphus, där en blodig man hittats."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "33 katter fick avlivas – man döms för grovt djurplågeri",
-   "date": "2026-10-28T15:00:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/33-katter-fick-avlivas-man-doms-for-grovt-djurplageri",
-   "desc": "En man i 70-årsåldern som bor i ett samhälle norr om Kalmar har dömts till böter för grovt djurplågeri. Länsstyrelsen var tvungen att omhänderta och avliva 33 katter som hittades i mannens bostad. Han har nu dömts för att ha utsatt 24 katter för lidande."
+   "title": "Aliya och Najib utvisades till Somalia – i väntan på ny stopplag",
+   "date": "2026-10-28T16:56:39.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/aliya-och-najib-utvisades-till-somalia-i-vantan-pa-ny-stopplag",
+   "desc": "I valrörelsen lovade de rödgröna partierna att stoppa de så kallade tonårsutvisningarna. Men i väntan på ny lagstiftning fortsätter unga vuxna att utvisas från Sverige. SVT träffade Aliya och Najib timmar innan de utvisades till Somalia. – Jag är jättebesviken. De säger i sociala medier att de vill stoppa dem, att de vill pausa. Men på riktigt så pausas det inte, säger Aliya."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tågolyckan i Spanien: Detta vet vi",
-   "date": "2026-10-28T14:36:29.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/tagolyckan-i-spanien-detta-vet-vi",
-   "desc": "Minst 64 personer har omkommit efter att två tåg kolliderat på höghastighetsbanan i den spanska regionen Toledo. Det här vet vi om olyckan."
+   "title": "Asmat bunkrar flaskvatten – efter bakterielarmet i Hallstahammar",
+   "date": "2026-10-28T16:37:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/asmat-bunkrar-flaskvatten-efter-bakterielarmet-i-hallstahammar",
+   "desc": "Det har blivit rusning efter flaskvatten i Hallstahammar sedan bakterier upptäckts i dricksvattnet och invånarna uppmanats att koka vattnet. Asmat Tamer är en av många som jagat efter flaskvatten – och fyllde bilen med vatten för närmare 500 kronor. – Jag hoppas att det räcker hela veckan, säger han."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Här griper polisen den misstänkte guldbedragaren",
-   "date": "2026-10-28T13:04:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/gavleborg/har-griper-polisen-den-misstankte-guldbedragaren",
-   "desc": "En 19-årig man från Östeuropa är åtalad för att ha försökt lura guld av en Gävlebo i 80-årsåldern till ett värde av 240 000 kronor. 19-åringen kunde gripas under dramatiska former av polisen när han kom för att hämta guldet."
+   "title": "Nyheter från dagen: 28 oktober",
+   "date": "2026-10-28T19:23:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-28-oktober-z8zflf",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm onsdag 28 oktober."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Två män gripna efter våld i trapphus i Högdalen – man hittades skadad",
+   "date": "2026-10-28T19:15:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-man-gripna-efter-vald-i-trapphus",
+   "desc": "Två män i 30-årsåldern har gripits i Högdalen i Stockholm efter ett bråk i ett trapphus, där en blodig man hittats."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "Den man i 20-årsåldern som sitter häktad misstänkt för dödskraschen på Östermalm tidigare i höstas kan lida av en allvarlig psykisk störning, enligt uppgifter från Expressen."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Trots två ihjälskjutna i oktober – färre dödsskjutningar i Stockholm",
-   "date": "2026-10-28T04:51:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trots-tva-dodsskjutningar-i-oktober-farre-skjuts-ihjal-i-stockholm",
-   "desc": "En 25-årig man i Bagarmossen och en kvinnlig fritidsledare i 25-årsåldern Älvsjö har skjutits ihjäl de senaste veckorna. I somras sköts en man i 25-årsåldern ihjäl i Hässelby. Statistik visar att dödsskjutningarna i både staden, länet och landet ser ut att hamna på lägre nivå än tidigare tre åren."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Serie av äldrebedrägerier i Stockholmsområdet",
-   "date": "2026-10-28T00:40:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/serie-av-aldrebedragerier-i-stockholmsomradet",
-   "desc": "En rad misstänkta bedrägerier samt bedrägeriförsök mot äldre har inträffat i Stockholmsområdet på tisdagen, uppger polisen på sin sajt."
+   "src": "BBC",
+   "section": "United",
+   "title": "Sesko ruled out until January with shin injury",
+   "date": "2026-10-28T19:57:04.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-27T12:10:21.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
    "desc": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Carrick arrives at training ground with future unclear",
-   "date": "2026-10-27T11:16:54.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked."
   }
  ]
 }
