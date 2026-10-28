@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T23:26:47.585Z",
+ "updated": "2026-10-28T02:30:27.305Z",
  "items": [
   {
    "src": "BBC",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Serie av äldrebedrägerier i Stockholmsområdet",
+   "date": "2026-10-28T00:40:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/serie-av-aldrebedragerier-i-stockholmsomradet",
+   "desc": "En rad misstänkta bedrägerier samt bedrägeriförsök mot äldre har inträffat i Stockholmsområdet på tisdagen, uppger polisen på sin sajt."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Man räddades från brinnande lägenhet i Gustavsberg – greps för mordbrand",
    "date": "2026-10-27T20:33:12.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-fick-raddas-fran-brinnande-lagenhet-i-gustavsberg-greps-for-mordbrand",
@@ -112,14 +120,6 @@
    "date": "2026-10-27T14:50:55.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/vattenlackan-tvingade-malika-att-flytta-i-varas-bygget-i-varberg-star-stilla",
    "desc": "Malika var tvungen att evakuera sin lägenhet i Liljebos fastigheter i Vårberg efter en vattenläcka. Nu bor hon isolerad och har varit tvungen att ansöka om hemtjänst för att klara av det hon tidigare fick hjälp med av grannar. Och i Vårberg står bygget stilla."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Häktad elev misstänks för nya brott på Sigtunaskolan",
-   "date": "2026-10-27T09:57:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/haktad-elev-misstanks-for-nya-brott-pa-sigtunaskolan",
-   "desc": "En av tonåringarna som sedan tidigare sitter häktad misstänkt för misshandel och olaga tvång på Sigtunaskolan misstänks nu för nya brott. De nya misstankarna gäller ytterligare en misshandel samt grovt hemfridsbrott, enligt Aftonbladet."
   },
   {
    "src": "BBC",
