@@ -1,41 +1,41 @@
 {
- "updated": "2026-10-27T09:25:53.483Z",
+ "updated": "2026-10-28T10:07:54.459Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma, lösvikt",
-   "price": "19 kr/kg",
+   "item": "Färsk laxfilé Norge",
+   "price": "89 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Färsk kycklingfilet 900g",
-   "price": "59 kr",
+   "item": "Äpplen Ingrid Marie Sverige",
+   "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Pumpasoppa Freshona 500g",
-   "price": "19:90 kr",
+   "item": "Kycklingfilé 900g",
+   "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "Lidl",
-   "item": "Rostbröd Hasselback 1kg",
-   "price": "69 kr",
+   "item": "Rostbröd Fazer 500g",
+   "price": "22 kr",
    "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg, fryst",
+   "item": "Köttbullar 1kg fryst",
    "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Rusta",
-   "item": "Stearinljus 10-pack",
-   "price": "29 kr",
+   "item": "Stearinljus & ljuslyktor höstkampanj",
+   "price": "från 15 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
