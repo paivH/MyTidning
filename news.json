@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T01:07:30.151Z",
+ "updated": "2026-10-29T07:26:15.485Z",
  "items": [
   {
    "src": "BBC",
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-   "date": "2026-10-28T23:21:48.000Z",
+   "date": "2026-10-29T01:14:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
    "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”."
   },
@@ -44,42 +44,58 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Minut för minut: Den dödliga tågkraschen i Spanien",
-   "date": "2026-10-28T20:25:22.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/minut-for-minut-den-dodliga-tagkraschen-i-spanien",
-   "desc": "Två höghastighetståg har krockat mellan Madrid och Sevilla i Spanien. Många har dött och ännu fler har skadats. – Jag är bedrövad över den fruktansvärda olyckan, säger Spaniens kung, Felipe VI i ett uttalande."
+   "title": "Fyra personer gripna efter misstänkt rån – utreds för grovt vapenbrott",
+   "date": "2026-10-29T06:28:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/fyra-personer-gripna-efter-misstankt-ran-utreds-for-grovt-vapenbrott",
+   "desc": "Under onsdagskvällen greps fyra personer i Kristianstad efter ett misstänkt rån. Två män och två kvinnor utreds nu för grovt rån och grovt vapenbrott."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna hittad avliden i bostad i Ängelholm – polisen misstänker mord",
-   "date": "2026-10-28T20:03:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/kvinna-hittats-avliden-i-bostad-i-angelholm",
-   "desc": "En kvinna har hittats avliden i en bostad i Ängelholm under onsdagseftermiddagen, meddelar polisen. En man är gripen, misstänkt för mord. Kvinnan och mannen var närstående."
+   "title": "Man kom skadad till sjukhus – polisen utreder mordförsök i Västervik",
+   "date": "2026-10-29T05:51:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/man-kom-skadad-till-sjukhuset-polisen-utreder-mordforsok-i-vastervik",
+   "desc": "Polisen utreder ett mordförsök efter att en 25-årig man sökt vård på Västerviks sjukhus för misstänkta stick och skärskador. Mannen är allvarligt skadad och vårdas på IVA, uppger Region Kalmar län."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Två män gripna efter våld i trapphus i Högdalen – man hittades skadad",
-   "date": "2026-10-28T19:15:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tva-man-gripna-efter-vald-i-trapphus",
-   "desc": "Två män i 30-årsåldern har gripits i Högdalen i Stockholm efter ett bråk i ett trapphus, där en blodig man hittats."
+   "title": "Mediumet Maria, 45, ser ett ökat intresse för det övernaturliga",
+   "date": "2026-10-29T04:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/mediumet-maria-45-ser-ett-okat-intresse-for-det-overnaturliga",
+   "desc": "Astrologi, andar och medium – intresset för det övernaturliga ökar bland svenskar. Enligt en studie från Uppsala universitet tror fyra av tio svenskar på någon form av paranormala fenomen. Mediumet Maria Ejdetjärn säger att fler söker sig till henne vid högtider som allhelgona."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Aliya och Najib utvisades till Somalia – i väntan på ny stopplag",
-   "date": "2026-10-28T16:56:39.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/aliya-och-najib-utvisades-till-somalia-i-vantan-pa-ny-stopplag",
-   "desc": "I valrörelsen lovade de rödgröna partierna att stoppa de så kallade tonårsutvisningarna. Men i väntan på ny lagstiftning fortsätter unga vuxna att utvisas från Sverige. SVT träffade Aliya och Najib timmar innan de utvisades till Somalia. – Jag är jättebesviken. De säger i sociala medier att de vill stoppa dem, att de vill pausa. Men på riktigt så pausas det inte, säger Aliya."
+   "title": "I Lycksele är det billigast i landet att vara husägare – Vilma, 23: ”Rimligt pris”",
+   "date": "2026-10-29T04:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/i-lycksele-ar-det-billigast-i-landet-att-vara-husagare-vilma-23-rimligt-pris",
+   "desc": "Lycksele har de billigaste driftkostnader för el, vatten, avlopp och sophämtning i landet. Vilma Nilsson, 23 år, och hennes sambo Anton hade först tänkt att flytta till en lägenhet – men insåg att det blev billigare månadskostnad med ett hus. – Vi betalar ett rimligt pris varje månad tycker jag, säger Vilma."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Asmat bunkrar flaskvatten – efter bakterielarmet i Hallstahammar",
-   "date": "2026-10-28T16:37:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/asmat-bunkrar-flaskvatten-efter-bakterielarmet-i-hallstahammar",
-   "desc": "Det har blivit rusning efter flaskvatten i Hallstahammar sedan bakterier upptäckts i dricksvattnet och invånarna uppmanats att koka vattnet. Asmat Tamer är en av många som jagat efter flaskvatten – och fyllde bilen med vatten för närmare 500 kronor. – Jag hoppas att det räcker hela veckan, säger han."
+   "title": "Expertens råd – så ska du tänka kring boräntan",
+   "date": "2026-10-29T04:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/expertens-rad-sa-ska-du-tanka-kring-borantan",
+   "desc": "Sveriges inflation har återigen vänt uppåt, vilket medför risk för stigande räntor. För många kan det vara svårt att veta vilken ränta man ska välja. – Det handlar om att hitta en kombination, säger Markus Hagström Almroth, senior private banker på SEB."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Omfattande störningar för Stockholms pendeltåg under torsdagen och fredagen",
+   "date": "2026-10-29T05:00:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/omfattande-storningar-for-stockholms-pendeltag",
+   "desc": "Det är stora problem i Stockholms pendeltågstrafik under den tidiga torsdagsmorgonen. Ett växelfel orsakar omfattande förseningar samtidigt som tågen inte stannar vid flera viktiga knutpunkter, uppger SL. – Som resenär idag måste man ha koll på trafikinformationen, säger Andreas Strömberg på trafikförvaltningens presstjänst."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Julias remiss skickades aldrig – knölen växte till sex centimeter",
+   "date": "2026-10-29T04:30:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/julias-remiss-skickades-aldrig-knolen-vaxte-till-sex-centimeter",
+   "desc": "När Julia Dang upptäckte en knöl i bröstet sökte hon vård. Men remissen från vårdcentralen till sjukhuset skickades aldrig, och hon fick vänta flera månader på en ny undersökning. Under tiden växte tumören från omkring två till drygt sex centimeter. Nu riktar hon kritik mot vårdcentralen – samtidigt som allt fler patienter anmäler liknande brister i vården."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-10-28T12:25:14.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-person-anhallen-for-mord-i-bagarmossen",
    "desc": "En 36-årig man som varit anhållen i sin frånvaro misstänkt för mord i Bagarmossen har nu gripits."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Lurade brottsoffer på nära 70 miljoner kronor – åtalas",
-   "date": "2026-10-28T12:16:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/lurade-brottsoffer-pa-nara-70-miljoner-kronor-atalas",
-   "desc": "En man i 30-årsåldern från Stockholmsområdet misstänks ha lett en omfattande bedrägeriverksamhet från USA. Över 65 miljoner kronor ska han ha lurat till sig från personer i Sverige. Nu åtalas han."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt man för dödskrasch på Östermalm tros vara psykiskt sjuk",
-   "date": "2026-10-28T09:08:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-man-for-dodskrasch-pa-ostermalm-tros-vara-psykiskt-sjuk",
-   "desc": "Den man i 20-årsåldern som sitter häktad misstänkt för dödskraschen på Östermalm tidigare i höstas kan lida av en allvarlig psykisk störning, enligt uppgifter från Expressen."
   },
   {
    "src": "BBC",
