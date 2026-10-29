@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-28T09:54:11.300Z",
+ "updated": "2026-10-29T10:16:29.757Z",
  "items": [
   {
-   "ingredient": "brysselkål",
-   "idea": "Halstra halverad brysselkål i smör 4 min, vänd i senapsvinägrett – snabb vardagsrätt på tio minuter."
-  },
-  {
-   "ingredient": "äpplen",
-   "idea": "Fermentera äppelskivor i 3% saltlake i fem dagar för krispig, syrlig snacks till ostbrickan."
-  },
-  {
-   "ingredient": "svartrot",
-   "idea": "Snabbpickla svartrot i 1:1:1 ättika, socker, vatten med dillfrö – klart efter två timmar."
-  },
-  {
    "ingredient": "pumpa",
-   "idea": "Baka pumpabröd med rostad pumpapuré i degen för saftig krumma och gyllene, knaprig skorpa."
+   "idea": "Snabbinlägg pumpa i 1:1:2 ättika, vatten, socker med kanel – klar på 30 minuter, perfekt till smörgås."
+  },
+  {
+   "ingredient": "kål",
+   "idea": "Fermentera strimlad kål med 2% salt i en vecka för hemmagjord surkål, krispig och syrlig."
+  },
+  {
+   "ingredient": "rotfrukter",
+   "idea": "Baka ett rotfruktsbröd med rivna morötter och palsternacka i degen för saftighet och sötma."
+  },
+  {
+   "ingredient": "brysselkål",
+   "idea": "Stek halverad brysselkål hastigt i smör tills brynt, toppa med citron – klart på tio minuter."
   }
  ]
 }
