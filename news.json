@@ -1,29 +1,13 @@
 {
- "updated": "2026-10-29T14:33:53.695Z",
+ "updated": "2026-10-29T20:01:44.014Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+   "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
    "date": "2026-10-29T11:07:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-   "desc": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-   "date": "2026-10-29T01:14:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-   "date": "2026-10-29T13:49:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-   "desc": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+   "desc": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
   },
   {
    "src": "BBC",
@@ -36,50 +20,82 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+   "date": "2026-10-29T14:58:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The defeated presidential candidate says he will lead the opposition from the US."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Philippine police obtain warrant to search Thomas Markle's devices",
    "date": "2026-10-29T13:25:07.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-   "desc": "Images of child sexual abuse allegedly belonging to Meghan Markle's father had reportedly been found in his former home in the Philippines."
+   "desc": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+   "date": "2026-10-29T13:44:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+   "desc": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tidigare svensk landslagsspelare misstänkt för matchfixning",
-   "date": "2026-10-29T14:02:19.000Z",
-   "link": "https://www.svt.se/sport/fotboll/tidigare-svensk-landslagsspelare-misstankt-for-matchfixning",
-   "desc": "2023 uppges flera AIK-spelare ha velat förlora en match med flit. Nu kan SVT Sport avslöja att en av dem, en tidigare svensk landslagsspelare, delgivits misstanke om brott – men att ett eventuellt åtal lär dröja ett bra tag."
+   "title": "Kaosavslutning när Häcken tog första poängen i Champions League",
+   "date": "2026-10-29T19:52:59.000Z",
+   "link": "https://www.svt.se/sport/fotboll/kaosavslutning-nar-hacken-tog-forsta-poangen-i-champions-league",
+   "desc": "Med nio fingrar på SM-guldet tog Häcken i kväll höstens första poäng i Champions League Djupt in på tilläggstid kvitterade Anna Anvegård till 1–1 borta mot Paris FC. – Det är inte en vinst men det är en poäng och mycket bättre än ingenting, säger tränaren Elena Sadiku."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Strömsundsbron öppnar för gång- och cykeltrafik",
-   "date": "2026-10-29T13:59:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/stromsundsbron-oppnar-for-gang-och-cykeltrafik",
-   "desc": "På torsdagen meddelade Trafikverket att Strömsundsbron öppnar för gång- och cykeltrafik från och med fredag. Bron kommer dock fortsatt att vara stängd för övrig trafik. Enligt den nuvarande prognosen beräknas bron öppna för biltrafik den 31 januari nästa år."
+   "title": "Guldstriden lever – Hammarby besegrade Sirius i seriefinalen",
+   "date": "2026-10-29T19:37:45.000Z",
+   "link": "https://www.svt.se/sport/fotboll/guldstriden-lever-hammarby-besegrade-sirius-i-seriefinalen",
+   "desc": "Den allsvenska guldstriden lever. Hammarby vann seriefinalen mot Sirius med 2–0. – Jag kan inte beskriva känslorna, säger Paulos Abraham i TV4 Play."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Rättegången mot sjuksköterska avslutad – åklagaren yrkar på fängelse i minst sex år",
-   "date": "2026-10-29T13:19:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/rattegangen-mot-sjukskoterska-avslutad-mannen-kvar-i-haktet",
-   "desc": "Den sjuksköterska som misstänks för våldtäkt på en patient i livets slutskede bör dömas till minst sex års fängelse. Det yrkade åklagaren när rättegången idag avslutades i Jönköpings tingsrätt."
+   "title": "Analys: ”Ologiskt att rösta om Thand Ringqvist”",
+   "date": "2026-10-29T18:31:07.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/analys-ologiskt-att-rosta-om-thand-ringqvist",
+   "desc": "Att C-ledaren Elisabeth Thand Ringqvist nu ska ställas inför en statsministeromröstning i riksdagen är inte bara ologiskt, utan visar också tydligt att läget i regeringsfrågan är lika låst som förut."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna blev sexuellt utnyttjad efter utekväll i Skellefteå – man döms till fängelse",
-   "date": "2026-10-29T13:07:15.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/kvinna-blev-sexuellt-ofredad-efter-utekvall-man-doms-till-fangelse",
-   "desc": "Efter en utekväll i Skellefteå skjutsade en man hem en ung kvinna från krogen och utnyttjade henne sexuellt. Åklagaren yrkade att mannen skulle dömas för våldtäkt, men tingsrätten ansåg inte att det gick att bevisa. Mannen döms i stället för grovt sexuellt övergrepp och straffas med fängelse och utvisning."
+   "title": "Rödgrön ilska efter beskedet – C-källa: ”Farsartat”",
+   "date": "2026-10-29T17:32:11.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/rodgron-ilska-efter-beskedet-c-kalla-farsartat",
+   "desc": "Rödgröna partiledare rasar mot talmannens besked om att pröva C-ledaren Elisabeth Thand Ringqvist i en statsministeromröstning. Magdalena Andersson (S) kallar beslutet för ”anmärkningsvärt” – och inom C pyr missnöjet. – Alla tycker att det här är väldigt konstigt, säger en C-källa till SVT."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna föll från balkong på äldreboende i Luleå",
-   "date": "2026-10-29T12:52:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kvinna-foll-fran-balkong-pa-aldreboende-i-lulea",
-   "desc": "En äldre kvinna föll från en balkong på ett korttidsboende i Luleå på onsdagsmorgonen. Kommunen har gjort en Ivo-anmälan. – Personal såg att hon saknades på rummet, att balkongdörren var öppen, och hörde henne utanför, säger områdeschef Ronnie Arespång."
+   "title": "Nya elfel i östra Härjedalen – samma område drabbat för andra gången",
+   "date": "2026-10-29T16:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/nya-elfel-i-ostra-harjedalen-samma-omrade-drabbat-for-andra-gangen",
+   "desc": "Två veckor efter att ett stort antal kunder i Härjedalen drabbats av ett elfel, som slog ut olika sorters elektrisk utrustning, har samma område drabbats igen. I samband med ett strömavbrott i fredags har nya värmepumpar, elbilsladdare och andra saker gått sönder i området runt Älvros."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 29 oktober",
+   "date": "2026-10-29T17:14:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-29-oktober-p2uf1w",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm torsdag 29 oktober."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Miljöbovarna på kyrkogården – här är listan",
+   "date": "2026-10-29T16:44:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/miljobovarna-pa-kyrkogarden-har-ar-listan",
+   "desc": "Nu närmar sig allhelgonahelgen, då begravningsplatser fylls med tända ljus. Men att välja rätt sorts ljus och gravdekoration kan ha stor betydelse för miljön. – Det blir ju mycket som lämnas kvar, och det får personalen ta hand om, säger Kristina Segerström, stiftsingenjör vid Svenska kyrkan."
   },
   {
    "src": "STHLM",
@@ -92,10 +108,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Två idrottshallar brinner i Tumba – går inte att rädda",
+   "title": "Brinner fortfarande i idrottshall i Tumba: ”Kvar under natten”",
    "date": "2026-10-29T10:40:40.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/idrottshall-brinner-i-tumba",
-   "desc": "Två idrottshallar i Tumba står i lågor. Räddningstjänsten beskriver kraftiga lågor och rökutveckling. – Det är en väldigt häftig brand just nu, säger Tony Kullman, insatsledare på räddningstjänsten."
+   "desc": "Två idrottshallar i Tumba förstördes i en brand på torsdagen. Enligt räddningstjänsten var det kraftiga lågor och rökutveckling. – Branden pågår fortfarande men borde snart vara släckt. Vi kommer dock vara kvar hela natten, säger Ludwig Taylor hos Södertörns brandförsvar."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "En ny rapport från Arbetsförmedlingen visar att arbetslösheten sjunker i Stockholms län. Jämfört med tredje kvartalet 2025 har antalet inskrivna som arbetslösa minskat med 4 600 personer. SVT har tidigare rapporterat om Ahamad Haidari som fick sitt första jobb i Södertälje – kommunen med högst arbetslöshet. Hör honom berätta i klippet!"
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Han gömde 56 handgranater i källaren i Fruängen – döms",
-   "date": "2026-10-29T08:00:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/han-gomde-56-handgranater-i-kallaren-i-fruangen-nu-kommer-domen",
-   "desc": "På grund av en växande knarkskuld hos gängmedlemmar i Foxtrot tog 27-åringen emot 56 handgranater. – Det fanns inget space att ens försöka säga nej, säger han. Nu döms 27-åringen och den man som ska ha utpressat honom till fyra respektive sex års fängelse."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Omfattande störningar för Stockholms pendeltåg under torsdagen och fredagen",
-   "date": "2026-10-29T05:00:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/omfattande-storningar-for-stockholms-pendeltag",
-   "desc": "Det är stora problem i Stockholms pendeltågstrafik under den tidiga torsdagsmorgonen. Ett växelfel orsakar omfattande förseningar samtidigt som tågen inte stannar vid flera viktiga knutpunkter, uppger SL. – Som resenär idag måste man ha koll på trafikinformationen, säger Andreas Strömberg på trafikförvaltningens presstjänst."
+   "src": "BBC",
+   "section": "United",
+   "title": "Fernandes to stay as Man Utd captain",
+   "date": "2026-10-29T14:54:16.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5lyejmdz3nzo?at_medium=RSS&at_campaign=rss",
+   "desc": "'He's the one that's led the team so well for many a game and many a year, and he'll continue to do that.'"
   },
   {
    "src": "BBC",
@@ -127,7 +135,7 @@
    "title": "'Fully committed' Fernandes to remain Man Utd captain",
    "date": "2026-10-29T14:31:52.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Michael Carrick has confirmed Bruno Fernandes will remain as captain ahead of the Premier League trip to Chelsea."
+   "desc": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-28T19:57:04.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Carrick and Fernandes hold clear-the-air talks",
-   "date": "2026-10-28T11:48:28.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground."
   }
  ]
 }
