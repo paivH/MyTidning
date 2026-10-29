@@ -1,13 +1,29 @@
 {
- "updated": "2026-10-28T21:13:16.074Z",
+ "updated": "2026-10-29T01:07:30.151Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-   "date": "2026-10-28T21:07:06.000Z",
+   "title": "High-speed train crash kills at least 68 people in Spain",
+   "date": "2026-10-28T21:38:54.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+   "desc": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+   "date": "2026-10-28T21:24:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+   "desc": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+   "date": "2026-10-28T23:21:48.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
+   "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”."
   },
   {
    "src": "BBC",
@@ -24,22 +40,6 @@
    "date": "2026-10-28T14:30:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
    "desc": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "date": "2026-10-28T10:31:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-   "date": "2026-10-28T10:17:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
   },
   {
    "src": "SVT",
