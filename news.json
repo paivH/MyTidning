@@ -1,85 +1,109 @@
 {
- "updated": "2026-10-30T13:17:15.000Z",
+ "updated": "2026-10-30T18:42:06.181Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-   "date": "2026-10-30T12:25:53.000Z",
+   "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "date": "2026-10-30T17:39:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+   "desc": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+   "date": "2026-10-30T17:07:19.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+   "desc": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+   "date": "2026-10-30T16:26:11.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water."
+   "desc": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-   "date": "2026-10-30T01:35:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-   "desc": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-   "date": "2026-10-30T06:02:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-   "desc": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "How Kenyans got caught in $130m US ghost student scam",
-   "date": "2026-10-30T08:32:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-   "desc": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged."
+   "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+   "date": "2026-10-30T11:23:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+   "desc": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-   "date": "2026-10-30T13:03:34.000Z",
+   "date": "2026-10-30T15:03:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
    "desc": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Folk svarar: Så vill vi bli begravda",
-   "date": "2026-10-30T12:52:34.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/svenska/folk-svarar-sa-vill-vi-bli-begravda",
-   "desc": "Gravsten eller minneslund? Kremering eller kistbegravning? Hur vill människor bli begravda? SVT Uutiset besökte Skogskyrkogården i Stockholm och frågade förbipasserande vilka tankar de har kring sin egen begravning."
+   "title": "Lastbil har vält på E4an – oklart skadeläge",
+   "date": "2026-10-30T17:58:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/lastbil-har-valt-pa-e4an-oklart-skadelage",
+   "desc": "En lastbilsolycka inträffade på fredagskvällen vid 18:30-tiden. En lastbil har vält vid mitträcket på E4:an mellan Åstorp och Helsingborg. Vägen är avstängd i båda riktningar och det finns ingen prognos på när vägen kan öppna igen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Allt fler vill sätta sin personliga prägel på gravstenen",
-   "date": "2026-10-30T12:52:18.000Z",
-   "link": "https://www.svt.se/nyheter/uutiset/svenska/allt-fler-vill-satta-sin-personliga-pragel-pa-gravstenen",
-   "desc": "Under Alla helgons dag på lördag besöker många sina anhörigas gravar. Samtidigt visar en ny undersökning att den traditionella gravstenen fortfarande står högt i kurs, även bland unga vuxna. Enligt Maria Vänskä vill många också få sin gravsten färdig just lagom till helgen."
+   "title": "Svenska ishockeyförbundet om Ryssland-beslutet: ”Blev förbannad”",
+   "date": "2026-10-30T17:23:28.000Z",
+   "link": "https://www.svt.se/sport/ishockey/svenska-ishockeyforbundet-om-ryssland-beslutet-blev-forbannad",
+   "desc": "Rysslands tillåts delta i ishockey-VM med omedelbar verkan. Nu uttalar sig Svenska ishockeyförbundet. – Vi är oerhört bekymrade och besvikna på det här beslutet, säger ordföranden Anders Larsson till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Klättrade uppför stuprör och misshandlade man – döms till fängelse",
-   "date": "2026-10-30T12:34:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/klattrade-uppfor-stupror-och-misshandlade-man-doms-till-fangelse",
-   "desc": "En man i 20-årsåldern blev arg när den före detta flickvännen inte ville svara på hans samtal. Då klättrade han in i huset där hon befann sig och misshandlade mannen som bodde där. Nu döms han av Jönköpings tingsrätt till fängelse i ett år och nio månader för grov misshandel och grovt hemfridsbrott."
+   "title": "Drama under G20 – gruppfoto ställs in: ”Nej!”",
+   "date": "2026-10-30T17:08:39.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/drama-under-g20-gruppfoto-stalls-in-nej",
+   "desc": "Det blir inget lyckligt familjefoto för G20. USA har ställt in det planerade gruppfotot vid G20-mötet i Atlanta – efter europiska protester. Anledningen? Rysslands utrikesminister Sergej Lavrov."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Polisen varnar inför halloween: Då kan buset bli brottsligt",
-   "date": "2026-10-30T12:25:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/polisen-varnar-infor-halloween-da-kan-buset-bli-brottsligt",
-   "desc": "Bus eller godis – eller rakt av brottsligt? I helgen är det halloween och polisen går nu ut med en skarp uppmaning till föräldrar. Barnens harmlösa bus kan gå för långt – och i värsta fall vara olagligt. – Man kan göra sig skyldig till ett brott, säger polisens presstalesperson Adam Isaksson Samara."
+   "title": "Praktikant på förskola var dömd för barnporrbrott",
+   "date": "2026-10-30T15:47:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/praktikant-pa-forskola-var-domd-for-barnporrbrott",
+   "desc": "Eskilstuna kommun anställde nyligen en praktikant på en förskola. Personen visade sig vara dömd för barnpornografibrott. Domen missades vid registerkontrollen. – Vi ser allvarligt på det inträffade, säger Tomas Karlsson, chef på barn- och utbildningsförvaltningen i kommunen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nätkampanj uppmanar Järvabor att demonstrera som i Paris",
-   "date": "2026-10-30T11:24:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/natkampanj-uppmanar-jarvabor-att-demonstrera-som-i-paris",
-   "desc": "Flera okända Tiktok-konton har publicerat eller delat vidare bilder som uppmanar människor till protester i Järva likt de i Paris senaste veckorna. Kontona har även publicerat flera AI-genererade videor med samma uppmaning. Men det är oklart vem eller vilka som står bakom. – Verkar som att de har gjort samma sak i flera EU länder, säger Mustafa Ahmed som är samordnare på fryshuset i Järva"
+   "title": "Tjuvar rekade på Johannes gård i Medle – slog till mitt i natten",
+   "date": "2026-10-30T15:40:38.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/tjuvar-rekade-pa-johannes-gard-i-medle-slog-till-mitt-i-natten",
+   "desc": "Först rekade tjuvarna gården. Två dagar senare slog de till och stal mountainbikes och verktyg från familjen Viklund i Medle utanför Skellefteå. Nu varnar polisen för en våg av verktygsstölder mot både privatpersoner och byggföretag. – Det är känslan av otrygghet som påverkar mest, säger Johannes Viklund."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 30 oktober",
+   "date": "2026-10-30T17:59:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-30-oktober-mn5gg2",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm fredag 30 oktober."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Så slipper du få polisen efter dig under halloween",
+   "date": "2026-10-30T16:27:35.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-slipper-du-fa-polisen-efter-dig-under-halloween",
+   "desc": "Högsäsongen för utklädnader, bus och godis är här. Men hur undviker du att hamna i kontakt med polisen under ditt halloweenfirande?"
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Måste man ha en bra dräkt? Så tänker barn om halloweenpressen",
+   "date": "2026-10-30T16:27:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/maste-man-ha-en-bra-drakt-sa-tanker-barn-om-halloweenpressen",
+   "desc": "För många är halloween starkt förknippat med att klä ut sig. Ofta blir det skrämmande klassiker som vampyrer, häxor och skelett. Men hur viktigt är det egentligen att klä ut sig och spelar det någon roll hur bra utklädnaden är?"
   },
   {
    "src": "STHLM",
@@ -87,7 +111,7 @@
    "title": "Nätkampanj uppmanar Järvabor att demonstrera som i Paris",
    "date": "2026-10-30T11:24:05.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/natkampanj-uppmanar-jarvabor-att-demonstrera-som-i-paris",
-   "desc": "Flera okända Tiktok-konton har publicerat eller delat vidare bilder som uppmanar människor till protester i Järva likt de i Paris senaste veckorna. Kontona har även publicerat flera AI-genererade videor med samma uppmaning. Men det är oklart vem eller vilka som står bakom. – Verkar som att de har gjort samma sak i flera EU länder, säger Mustafa Ahmed som är samordnare på fryshuset i Järva"
+   "desc": "Flera okända Tiktok-konton har publicerat eller delat vidare bilder som uppmanar människor till protester i Järva likt de i Paris senaste veckorna. Kontona har även publicerat flera AI-genererade videor med samma uppmaning. Men det är oklart vem eller vilka som står bakom. – Verkar som att de har gjort samma sak i flera EU-länder, säger Mustafa Ahmed som är samordnare på fryshuset i Järva."
   },
   {
    "src": "STHLM",
@@ -98,36 +122,28 @@
    "desc": "E4 fick stängas av efter Kista mot Stockholm, rapporterar Sveriges radio. Anledningen var att en helikopter behövde landa efter ett sjukdomsfall i höjd med Järva krog."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Så maxar du det rabatterade priset på månadskort i SL-trafiken",
-   "date": "2026-10-30T08:00:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-maxar-du-det-rabatterade-priset-pa-manadskort-i-sl-trafiken",
-   "desc": "För att stötta hushållen halverades priset på månadsbiljetter i kollektivtrafiken under en begränsad period. Men nu är rabatten på väg att försvinna, så vad behöver resenärerna göra för att få ut så mycket som möjligt av de sista rabatterade dagarna?"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Politiskt gräl i Sigtuna efter brottsmisstankarna på internatet",
-   "date": "2026-10-30T04:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiskt-gral-i-sigtuna-efter-brottsmisstankarna-pa-internatet",
-   "desc": "De misstänkta händelserna på Sigtunaskolan blev en nyhet i hela landet. Men nu även ett politiskt bråk i kommunen. Och ett samtalsämne bland vanliga Sigtunabor."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 29 oktober",
-   "date": "2026-10-29T17:14:56.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-29-oktober-p2uf1w",
-   "desc": "Här är några utvalda nyheter från SVT Stockholm torsdag 29 oktober."
+   "src": "BBC",
+   "section": "United",
+   "title": "What Howe could bring to Man Utd - and what are the challenges?",
+   "date": "2026-10-30T16:27:13.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?"
   },
   {
    "src": "BBC",
    "section": "United",
    "title": "Items stolen from Man Utd Munich air disaster memorial",
-   "date": "2026-10-30T11:23:55.000Z",
+   "date": "2026-10-30T15:03:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cxly4pqndz57o?at_medium=RSS&at_campaign=rss",
    "desc": "The foundation has urged the return of stolen items, saying they mean so much to bereaved families."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Calvert-Lewin set for new Leeds deal",
+   "date": "2026-10-30T10:26:53.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss",
+   "desc": "England striker Dominic Calvert-Lewin is set to sign a new contract at Leeds United."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-10-30T06:14:19.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United's struggles are pored over more than ever before - not least by former players."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Fernandes to stay as Man Utd captain",
-   "date": "2026-10-29T14:54:16.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c5lyejmdz3nzo?at_medium=RSS&at_campaign=rss",
-   "desc": "'He's the one that's led the team so well for many a game and many a year, and he'll continue to do that.'"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'Fully committed' Fernandes to remain Man Utd captain",
-   "date": "2026-10-29T14:31:52.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea."
   }
  ]
 }
