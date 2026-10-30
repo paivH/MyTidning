@@ -1,11 +1,19 @@
 {
- "updated": "2026-10-30T18:42:06.181Z",
+ "updated": "2026-10-30T22:45:12.112Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "US approves sale of 500 Patriot missiles to Ukraine",
+   "date": "2026-10-30T22:20:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-   "date": "2026-10-30T17:39:43.000Z",
+   "date": "2026-10-30T21:13:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
    "desc": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
   },
@@ -28,18 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-   "date": "2026-10-30T11:23:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-   "desc": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
+   "title": "Police deployed during stand-off over control of top Poland court",
+   "date": "2026-10-30T20:52:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+   "desc": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-   "date": "2026-10-30T15:03:39.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Kanada fördjupar samarbete med EU – vill se ”associerat medlemskap”",
+   "date": "2026-10-30T20:42:34.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/kanada-fordjupar-samarbete-med-eu-vill-se-associerat-medlemskap",
+   "desc": "EU och Kanada fördjupar sitt samarbete och ska arbeta gemensamt på en rad områden, meddelar parterna vid toppmötet i Montreal. Målet är att Kanada ska bli ”EU:s första associerade medlem”, enligt premiärministern Mark Carney."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-10-30T15:47:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/sormland/praktikant-pa-forskola-var-domd-for-barnporrbrott",
    "desc": "Eskilstuna kommun anställde nyligen en praktikant på en förskola. Personen visade sig vara dömd för barnpornografibrott. Domen missades vid registerkontrollen. – Vi ser allvarligt på det inträffade, säger Tomas Karlsson, chef på barn- och utbildningsförvaltningen i kommunen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Tjuvar rekade på Johannes gård i Medle – slog till mitt i natten",
-   "date": "2026-10-30T15:40:38.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/tjuvar-rekade-pa-johannes-gard-i-medle-slog-till-mitt-i-natten",
-   "desc": "Först rekade tjuvarna gården. Två dagar senare slog de till och stal mountainbikes och verktyg från familjen Viklund i Medle utanför Skellefteå. Nu varnar polisen för en våg av verktygsstölder mot både privatpersoner och byggföretag. – Det är känslan av otrygghet som påverkar mest, säger Johannes Viklund."
   },
   {
    "src": "STHLM",
