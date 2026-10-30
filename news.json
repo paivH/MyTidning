@@ -1,21 +1,13 @@
 {
- "updated": "2026-10-30T06:10:04.190Z",
+ "updated": "2026-10-30T13:17:15.000Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-   "date": "2026-10-30T06:02:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Fuel price rises are driving discontent, testing support for Ahmed al-Sharaa's government."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Crypto giant Binance hit by hack suspected to be largest in history",
-   "date": "2026-10-30T05:15:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
+   "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+   "date": "2026-10-30T12:25:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water."
   },
   {
    "src": "BBC",
@@ -28,58 +20,90 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-   "date": "2026-10-29T20:21:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-   "desc": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
+   "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+   "date": "2026-10-30T06:02:23.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+   "desc": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Three dead after two helicopters collide midair near Oregon airport",
-   "date": "2026-10-30T03:05:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
-   "desc": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway."
+   "title": "How Kenyans got caught in $130m US ghost student scam",
+   "date": "2026-10-30T08:32:35.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+   "desc": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+   "date": "2026-10-30T13:03:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Vännerna startade en runclub i Eskilstuna – för att få en ny gemenskap",
-   "date": "2026-10-30T04:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/vannerna-startade-en-runclub-i-eskilstuna-for-att-fa-en-ny-gemenskap-vill-inte-lopa-ensamma",
-   "desc": "Tidiga morgnar i Eskilstuna träffas flera personer före jobbet för att springa tillsammans. SVT:s reporter hängde med på en morgonrunda. – När vi springer med folk så blir det gemenskap och kul, säger Patrick Samba en av grundarna till löpklubben."
+   "title": "Folk svarar: Så vill vi bli begravda",
+   "date": "2026-10-30T12:52:34.000Z",
+   "link": "https://www.svt.se/nyheter/uutiset/svenska/folk-svarar-sa-vill-vi-bli-begravda",
+   "desc": "Gravsten eller minneslund? Kremering eller kistbegravning? Hur vill människor bli begravda? SVT Uutiset besökte Skogskyrkogården i Stockholm och frågade förbipasserande vilka tankar de har kring sin egen begravning."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Pokémonprofessorn Rasmus, 27, ledsnade och sa upp sig – på grund av köphetsen",
-   "date": "2026-10-30T04:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/pokemonprofessorn-rasmus-sade-upp-sig-pa-grund-av-kophetsen",
-   "desc": "För Rasmus Pepponen har det länge varit ett genuint intresse. Men när samlarkorten snarare blev en valuta än en hobby sade han upp sig från sitt heltidsjobb som Pokémonprofessor. – Det är precis som på Wall Street, men nu har du bilder på söta djur i stället."
+   "title": "Allt fler vill sätta sin personliga prägel på gravstenen",
+   "date": "2026-10-30T12:52:18.000Z",
+   "link": "https://www.svt.se/nyheter/uutiset/svenska/allt-fler-vill-satta-sin-personliga-pragel-pa-gravstenen",
+   "desc": "Under Alla helgons dag på lördag besöker många sina anhörigas gravar. Samtidigt visar en ny undersökning att den traditionella gravstenen fortfarande står högt i kurs, även bland unga vuxna. Enligt Maria Vänskä vill många också få sin gravsten färdig just lagom till helgen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Politiskt gräl i Sigtuna efter brottsmisstankarna på internatet",
-   "date": "2026-10-30T04:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiskt-gral-i-sigtuna-efter-brottsmisstankarna-pa-internatet",
-   "desc": "De misstänkta händelserna på Sigtunaskolan blev en nyhet i hela landet. Men nu även ett politiskt bråk i kommunen. Och ett samtalsämne bland vanliga Sigtunabor."
+   "title": "Klättrade uppför stuprör och misshandlade man – döms till fängelse",
+   "date": "2026-10-30T12:34:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/klattrade-uppfor-stupror-och-misshandlade-man-doms-till-fangelse",
+   "desc": "En man i 20-årsåldern blev arg när den före detta flickvännen inte ville svara på hans samtal. Då klättrade han in i huset där hon befann sig och misshandlade mannen som bodde där. Nu döms han av Jönköpings tingsrätt till fängelse i ett år och nio månader för grov misshandel och grovt hemfridsbrott."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "18-åring sköts till döds i Södertälje – misstänkt kvinna skulle ha suttit i fängelse",
-   "date": "2026-10-30T04:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/18-aring-skots-till-dods-i-sodertalje-misstankt-kvinna-skulle-ha-suttit-i-fangelse",
-   "desc": "Kvinnan skulle inställa sig för att börja avtjäna ett tidigare fängelsestraff, men höll sig undan. Under den tiden misstänks hon ha medverkat till mord. I dag faller domen efter dödsskjutningen i Fornhöjden där en 18-årig man dödades."
+   "title": "Polisen varnar inför halloween: Då kan buset bli brottsligt",
+   "date": "2026-10-30T12:25:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/polisen-varnar-infor-halloween-da-kan-buset-bli-brottsligt",
+   "desc": "Bus eller godis – eller rakt av brottsligt? I helgen är det halloween och polisen går nu ut med en skarp uppmaning till föräldrar. Barnens harmlösa bus kan gå för långt – och i värsta fall vara olagligt. – Man kan göra sig skyldig till ett brott, säger polisens presstalesperson Adam Isaksson Samara."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "William vill rädda ett åldrande lantbruk – nästan hälften har nått pensionsåldern",
-   "date": "2026-10-30T04:30:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/william-vill-radda-ett-aldrande-lantbruk-nastan-halften-har-natt-pensionen",
-   "desc": "Svenskt lantbruk står inför en stor generationsutmaning. Förutom att lantbrukarna snabbt blir äldre så saknas det unga som kan eller vill ta över. – Folk vill ha gård men de har inget hemma så det är omöjligt, säger William Thordsson, 21 år."
+   "title": "Nätkampanj uppmanar Järvabor att demonstrera som i Paris",
+   "date": "2026-10-30T11:24:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/natkampanj-uppmanar-jarvabor-att-demonstrera-som-i-paris",
+   "desc": "Flera okända Tiktok-konton har publicerat eller delat vidare bilder som uppmanar människor till protester i Järva likt de i Paris senaste veckorna. Kontona har även publicerat flera AI-genererade videor med samma uppmaning. Men det är oklart vem eller vilka som står bakom. – Verkar som att de har gjort samma sak i flera EU länder, säger Mustafa Ahmed som är samordnare på fryshuset i Järva"
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nätkampanj uppmanar Järvabor att demonstrera som i Paris",
+   "date": "2026-10-30T11:24:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/natkampanj-uppmanar-jarvabor-att-demonstrera-som-i-paris",
+   "desc": "Flera okända Tiktok-konton har publicerat eller delat vidare bilder som uppmanar människor till protester i Järva likt de i Paris senaste veckorna. Kontona har även publicerat flera AI-genererade videor med samma uppmaning. Men det är oklart vem eller vilka som står bakom. – Verkar som att de har gjort samma sak i flera EU länder, säger Mustafa Ahmed som är samordnare på fryshuset i Järva"
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "E4 stängdes av på grund av sjukvårdinsats",
+   "date": "2026-10-30T08:13:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/e4-avstangd-pa-grund-av-sjukvardinsats",
+   "desc": "E4 fick stängas av efter Kista mot Stockholm, rapporterar Sveriges radio. Anledningen var att en helikopter behövde landa efter ett sjukdomsfall i höjd med Järva krog."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Så maxar du det rabatterade priset på månadskort i SL-trafiken",
+   "date": "2026-10-30T08:00:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-maxar-du-det-rabatterade-priset-pa-manadskort-i-sl-trafiken",
+   "desc": "För att stötta hushållen halverades priset på månadsbiljetter i kollektivtrafiken under en begränsad period. Men nu är rabatten på väg att försvinna, så vad behöver resenärerna göra för att få ut så mycket som möjligt av de sista rabatterade dagarna?"
   },
   {
    "src": "STHLM",
@@ -98,28 +122,28 @@
    "desc": "Här är några utvalda nyheter från SVT Stockholm torsdag 29 oktober."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Miljöbovarna på kyrkogården – här är listan",
-   "date": "2026-10-29T16:44:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/miljobovarna-pa-kyrkogarden-har-ar-listan",
-   "desc": "Nu närmar sig allhelgonahelgen, då begravningsplatser fylls med tända ljus. Men att välja rätt sorts ljus och gravdekoration kan ha stor betydelse för miljön. – Det blir ju mycket som lämnas kvar, och det får personalen ta hand om, säger Kristina Segerström, stiftsingenjör vid Svenska kyrkan."
+   "src": "BBC",
+   "section": "United",
+   "title": "Items stolen from Man Utd Munich air disaster memorial",
+   "date": "2026-10-30T11:23:55.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxly4pqndz57o?at_medium=RSS&at_campaign=rss",
+   "desc": "The foundation has urged the return of stolen items, saying they mean so much to bereaved families."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man begärs häktad efter mordet i Bagarmossen",
-   "date": "2026-10-29T13:24:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-begars-haktad-efter-mordet-i-bagarmossen",
-   "desc": "En man har begärts häktad vid Södertörns tingsrätt kopplat till mordet i Bagarmossen fredagen den 23 oktober. – Misstanken är att det är han som skulle vara skytten, min bedömning är att det finns sannolika skäl från bevisningen, säger åklagare Elsa Karlberg."
+   "src": "BBC",
+   "section": "United",
+   "title": "Carrick says there are 'no issues' with captain Fernandes",
+   "date": "2026-10-30T09:58:41.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqj34pjxp7xdo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United manager Michael Carrick says there are \"no issues\" with captain Bruno Fernandes after he was dropped from the team against Bournemouth."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Brinner fortfarande i idrottshall i Tumba: ”Kvar under natten”",
-   "date": "2026-10-29T10:40:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/idrottshall-brinner-i-tumba",
-   "desc": "Två idrottshallar i Tumba förstördes i en brand på torsdagen. Enligt räddningstjänsten var det kraftiga lågor och rökutveckling. – Branden pågår fortfarande men borde snart vara släckt. Vi kommer dock vara kvar hela natten, säger Ludwig Taylor hos Södertörns brandförsvar."
+   "src": "BBC",
+   "section": "United",
+   "title": "How talking about Man Utd's cycle of doom became an industry",
+   "date": "2026-10-30T06:14:19.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United's struggles are pored over more than ever before - not least by former players."
   },
   {
    "src": "BBC",
@@ -136,30 +160,6 @@
    "date": "2026-10-29T14:31:52.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'I don't need any assurances'",
-   "date": "2026-10-29T14:07:13.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmr4y1v24n9no?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United boss Michael Carrick speaks after the club decided to give him the chance to turn things around, despite it being widely anticipated that he'd lose his job earlier this week."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Sometimes managers need sacking for own good - Neville",
-   "date": "2026-10-29T11:00:53.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Sesko ruled out until January with shin injury",
-   "date": "2026-10-28T19:57:04.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury."
   }
  ]
 }
