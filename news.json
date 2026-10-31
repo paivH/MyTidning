@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-31T19:03:16.853Z",
+ "updated": "2026-10-31T22:39:42.791Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+   "date": "2026-10-31T19:22:26.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+   "desc": "One evacuated couple says they crossed minefields in Oleshky in search of food."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,10 +20,18 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Thousands demonstrate in Paris as protests spread across Europe",
+   "date": "2026-10-31T21:29:01.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "date": "2026-10-31T16:32:08.000Z",
+   "date": "2026-10-31T22:11:45.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-   "desc": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
+   "desc": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
   },
   {
    "src": "BBC",
@@ -26,20 +42,12 @@
    "desc": "Government data shows that more than 10,000 people have contracted the rare virus."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Police deployed during stand-off over control of top Poland court",
-   "date": "2026-10-31T01:11:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-   "desc": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ethiopian PM puts ministers through military training",
-   "date": "2026-10-31T14:28:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-   "desc": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Deep Purple-sångare inlagd på sjukhus",
+   "date": "2026-10-31T19:33:09.000Z",
+   "link": "https://www.svt.se/kultur/deep-purple-sangare-inlagd-pa-sjukhus",
+   "desc": "Ian Gillan, sångare i det brittiska rockbandet Deep Purple, har lagts in på sjukhus. Bandet ställer in två konserter på grund av sjukdomsfallet."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-10-31T12:38:43.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/polisen-har-kontrollerat-fartyg-utanfor-gotland",
    "desc": "Natten mot lördagen bordade polis ett fartyg utanför Gotland. – Vi har gått ombord på fartyget och kontrollerat besättningens resehandlingar, säger Carina Skagerlind, presstalesperson vid polisregion Stockholm till SVT Nyheter."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Rustar för nya protester – 70 000 poliser kallas in",
-   "date": "2026-10-31T12:28:34.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/rustar-for-nya-protester-70-000-poliser-kallas-in",
-   "desc": "Frankrike rustar för nya protester under lördagen – och omkring 70 000 poliser och gendarmer har satts in. Samtidigt väntas stora demonstrationer i bland annat Tyskland och Portugal."
   },
   {
    "src": "STHLM",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+   "date": "2026-10-31T22:30:16.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "What questions face Man Utd after Chelsea defeat?",
    "date": "2026-10-31T17:47:02.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6d09mz873xyo?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "date": "2026-10-31T14:35:50.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
    "desc": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "What Howe could bring to Man Utd - and what are the challenges?",
-   "date": "2026-10-30T16:27:13.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?"
   }
  ]
 }
