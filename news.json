@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-31T08:10:05.381Z",
+ "updated": "2026-10-31T14:38:46.034Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US approves sale of 500 Patriot missiles to Ukraine",
-   "date": "2026-10-31T00:40:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+   "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+   "date": "2026-10-31T13:45:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-   "date": "2026-10-30T21:13:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-   "desc": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+   "title": "US approves sale of 500 Patriot missiles to Ukraine",
+   "date": "2026-10-31T12:21:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
   },
   {
    "src": "BBC",
@@ -44,42 +44,58 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man ropade på hjälp från vattnet i Göteborg – allvarligt skadad",
-   "date": "2026-10-31T06:30:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/man-raddades-ur-vattnet-i-goteborg-allvarligt-skadad",
-   "desc": "Polis larmades till Majorna i Göteborg natten till lördagen efter att allmänheten hört rop på hjälp från vattnet. En man kunde lokaliseras och togs upp på land. Han fördes till sjukhus med allvarliga skador."
+   "title": "En allvarligt skadad efter olycka på rallytävling utanför Nässjö",
+   "date": "2026-10-31T14:08:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/en-allvarligt-skadad-efter-olycka-pa-rallytavling-utanfor-nassjo",
+   "desc": "En åskådare har blivit påkörd under en rallytävling utanför Nässjö. Skadeläget bedöms som mycket allvarligt, enligt polisen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Mittuniversitetet ledande i forskningen kring giftbankar: ”Bör återvinnas”",
-   "date": "2026-10-31T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/mittuniversitetet-ledande-i-forskningen-kring-giftbankar-i-havet-bor-atervinnas",
-   "desc": "Bio-alkolhol, vätgas, kompost, byggfyllnad och biokol – och metaller för batteritillverkning. Forskarna på Mittuniversitetet ser en rad möjligheter att göra något användbart av de giftiga fiberbankarna utanför Sundsvall. Nu återstår bara att få upp fibermassorna från havsbotten – på ett miljömässigt och ekonomiskt rimligt sätt."
+   "title": "Polisen bordade fartyg utanför Gotland",
+   "date": "2026-10-31T12:38:43.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/polisen-har-kontrollerat-fartyg-utanfor-gotland",
+   "desc": "Natten mot lördagen bordade polis ett fartyg utanför Gotland. – Vi har gått ombord på fartyget och kontrollerat besättningens resehandlingar, säger Carina Skagerlind, presstalesperson vid polisregion Stockholm till SVT Nyheter."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Farligt mot vid E18 byggs om – så blir nya cykelbanan säkrare",
-   "date": "2026-10-31T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/farligt-mot-vid-e18-byggs-om-sa-blir-nya-cykelbanan-sakrare",
-   "desc": "En cyklist har dött och flera har skadats i olyckor vid Skallbergsmotet i Västerås. Nu görs hela rondellen över E18 om. Se detaljerna som ska göra mötet mellan cyklister och bilister säkrare."
+   "title": "Rustar för nya protester – 70 000 poliser kallas in",
+   "date": "2026-10-31T12:28:34.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/rustar-for-nya-protester-70-000-poliser-kallas-in",
+   "desc": "Frankrike rustar för nya protester under lördagen – och omkring 70 000 poliser och gendarmer har satts in. Samtidigt väntas stora demonstrationer i bland annat Tyskland och Portugal."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvargboom – nu miljonsatsar Norrmejerier: ”Kaotisk efterfrågan”",
-   "date": "2026-10-31T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/kvargboom-nu-miljonsatsar-norrmejerier-kaotisk-efterfragan",
-   "desc": "Hyllorna har gapat tomma på kvarg en längre tid i folks jakt på protein. Nu satsar mejerier hundratals miljoner på att öka produktionen. – Efterfrågan har gått från stark till närmast kaotisk. Jag tror ingen kunnat föreställa sig det, säger Johan Westerlund, strategi- och utvecklingschef på Norrmejerier."
+   "title": "Poliser åkte på larm i Stockholm – krockade med personbil",
+   "date": "2026-10-31T12:16:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/poliser-akte-pa-larm-krockade-med-personbil",
+   "desc": "En polisbil har i samband med en utryckning krockat med en personbil i Riksby i Stockholms kommun. De som färdades i personbilen har kontrollerats av sjukvårdspersonal. – Ingen är allvarligt skadad, säger Carina Skagerlind, presstalesperson hos polisen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Jakten igång i Sörmland – så ska skadeskjutningar undvikas",
-   "date": "2026-10-31T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/jakten-igang-i-sormland-sa-ska-skadeskjutningar-undvikas",
-   "desc": "Skadeskjutningar kan innebära ett stort lidande för djuret. Trots att målet alltid är ett dödande första skott händer det att jägare misslyckas. Nu uppmanar jägaren och skjutledaren Hampus Jansson fler att träna innan jakten."
+   "title": "Misstänkt mordförsök i Örebro – skadad man förd till sjukhus",
+   "date": "2026-10-31T09:24:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/orebro/misstankt-mordforsok-i-orebro-skadad-man-ford-till-sjukhus",
+   "desc": "En man har förts till sjukhus efter ett misstänkt våldsdåd i Örebro. Händelsen utreds som mordförsök alternativt grov misshandel. En kvinna i 25-årsåldern är gripen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Poliser åkte på larm i Stockholm – krockade med personbil",
+   "date": "2026-10-31T12:16:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/poliser-akte-pa-larm-krockade-med-personbil",
+   "desc": "En polisbil har i samband med en utryckning krockat med en personbil i Riksby i Stockholms kommun. De som färdades i personbilen har kontrollerats av sjukvårdspersonal. – Ingen är allvarligt skadad, säger Carina Skagerlind, presstalesperson hos polisen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Telefonkiosken gör comeback på Odenplan – 300 samtal till kyrkan",
+   "date": "2026-10-31T10:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/telefonkiosken-gor-comeback-pa-odenplan-300-samtal-till-kyrkan",
+   "desc": "Från den vita telefonkiosken på Odenplan kan vem som helst ringa. Men den som vill ha valmöjligheter får leta vidare. Härifrån går alla samtal till en och samma plats."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "Högsäsongen för utklädnader, bus och godis är här. Men hur undviker du att hamna i kontakt med polisen under ditt halloweenfirande?"
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Måste man ha en bra dräkt? Så tänker barn om halloweenpressen",
-   "date": "2026-10-30T16:27:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/maste-man-ha-en-bra-drakt-sa-tanker-barn-om-halloweenpressen",
-   "desc": "För många är halloween starkt förknippat med att klä ut sig. Ofta blir det skrämmande klassiker som vampyrer, häxor och skelett. Men hur viktigt är det egentligen att klä ut sig och spelar det någon roll hur bra utklädnaden är?"
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nätkampanj uppmanar Järvabor att demonstrera som i Paris",
-   "date": "2026-10-30T11:24:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/natkampanj-uppmanar-jarvabor-att-demonstrera-som-i-paris",
-   "desc": "Flera okända Tiktok-konton har publicerat eller delat vidare bilder som uppmanar människor till protester i Järva likt de i Paris senaste veckorna. Kontona har även publicerat flera AI-genererade videor med samma uppmaning. Men det är oklart vem eller vilka som står bakom. – Verkar som att de har gjort samma sak i flera EU-länder, säger Mustafa Ahmed som är samordnare på fryshuset i Järva."
+   "src": "BBC",
+   "section": "United",
+   "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+   "date": "2026-10-31T14:35:50.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
+   "desc": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-10-30T09:58:41.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cqj34pjxp7xdo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United manager Michael Carrick says there are \"no issues\" with captain Bruno Fernandes after he was dropped from the team against Bournemouth."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "How talking about Man Utd's cycle of doom became an industry",
-   "date": "2026-10-30T06:14:19.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United's struggles are pored over more than ever before - not least by former players."
   }
  ]
 }
