@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-31T14:38:46.034Z",
+ "updated": "2026-10-31T19:03:16.853Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-   "date": "2026-10-31T13:45:34.000Z",
+   "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+   "date": "2026-10-31T17:53:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump."
+   "desc": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US approves sale of 500 Patriot missiles to Ukraine",
-   "date": "2026-10-31T12:21:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "date": "2026-10-31T16:32:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+   "desc": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-   "date": "2026-10-31T02:12:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-   "desc": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+   "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+   "date": "2026-10-31T15:16:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Government data shows that more than 10,000 people have contracted the rare virus."
   },
   {
    "src": "BBC",
@@ -36,18 +36,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Spain train disaster clouds Sánchez chances of re-election",
-   "date": "2026-10-31T05:44:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+   "title": "Ethiopian PM puts ministers through military training",
+   "date": "2026-10-31T14:28:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "En allvarligt skadad efter olycka på rallytävling utanför Nässjö",
+   "title": "Niklas var på plats vid rallyolyckan utanför Nässjö: ”Helt osannolikt”",
+   "date": "2026-10-31T18:52:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/niklas-var-pa-plats-vid-rallyolyckan-utanfor-nassjo-helt-osannolikt",
+   "desc": "Den allvarliga rallyolyckan där en person dog skedde på Niklas Erikssons mark. – Det är fruktansvärt tragiskt, det är bara tomt, säger han."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "USA:s ambassad i Moskva varnar för våldsdåd",
+   "date": "2026-10-31T15:45:40.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/usas-ambassad-i-moskva-varnar-for-valdsdad",
+   "desc": "Den amerikanska ambassaden i Moskva varnar för ett ”trovärdigt hot” om vad de kallar ”masskadehändelse” i dag i den ryska huvudstaden. Samtidigt uppger Rysslands federala säkerhetstjänst att de har fått information om förberedelser till en terrorattack."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "En död efter olycka på rallytävling utanför Nässjö",
    "date": "2026-10-31T14:08:22.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/en-allvarligt-skadad-efter-olycka-pa-rallytavling-utanfor-nassjo",
-   "desc": "En åskådare har blivit påkörd under en rallytävling utanför Nässjö. Skadeläget bedöms som mycket allvarligt, enligt polisen."
+   "desc": "En åskådare har dött efter att ha blivit påkörd under rallytävlingen Novemberskölden utanför Nässjö."
   },
   {
    "src": "SVT",
@@ -66,20 +82,20 @@
    "desc": "Frankrike rustar för nya protester under lördagen – och omkring 70 000 poliser och gendarmer har satts in. Samtidigt väntas stora demonstrationer i bland annat Tyskland och Portugal."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Poliser åkte på larm i Stockholm – krockade med personbil",
-   "date": "2026-10-31T12:16:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/poliser-akte-pa-larm-krockade-med-personbil",
-   "desc": "En polisbil har i samband med en utryckning krockat med en personbil i Riksby i Stockholms kommun. De som färdades i personbilen har kontrollerats av sjukvårdspersonal. – Ingen är allvarligt skadad, säger Carina Skagerlind, presstalesperson hos polisen."
+   "title": "Nyheter från dagen: 31 oktober",
+   "date": "2026-10-31T16:17:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-31-oktober-ntb6ys",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm lördag 31 oktober."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkt mordförsök i Örebro – skadad man förd till sjukhus",
-   "date": "2026-10-31T09:24:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/orebro/misstankt-mordforsok-i-orebro-skadad-man-ford-till-sjukhus",
-   "desc": "En man har förts till sjukhus efter ett misstänkt våldsdåd i Örebro. Händelsen utreds som mordförsök alternativt grov misshandel. En kvinna i 25-årsåldern är gripen."
+   "title": "Nordens största halloweenparad startar: ”Alltid kul”",
+   "date": "2026-10-31T16:15:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/da-startar-nordens-storsta-halloweenparad-alltid-kul",
+   "desc": "Under lördagskvällen samlas tusentals människor för att tåga genom centrala Stockholm. Anledningen? Nordens största halloweenparad. – Jag vill se människors dräkter. Jag tror de kommer vara kreativa, säger Matylda Kwidzinska, 14, från Polen."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,28 @@
    "desc": "Två personer har skadats med kniv på en restaurang i Stadshagen, Stockholm. En av dem fick allvarligare skador och den andra lindrigare. Polisen utreder händelsen som misstänkt mordförsök och misshandel."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 30 oktober",
-   "date": "2026-10-30T17:59:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-30-oktober-mn5gg2",
-   "desc": "Här är några utvalda nyheter från SVT Stockholm fredag 30 oktober."
+   "src": "BBC",
+   "section": "United",
+   "title": "What questions face Man Utd after Chelsea defeat?",
+   "date": "2026-10-31T17:47:02.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6d09mz873xyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United's defeat at Stamford Bridge leaves them without a win in nine games, in all competitions. BBC Sport's Simon Stone highlights the questions raised by this most recent loss."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Så slipper du få polisen efter dig under halloween",
-   "date": "2026-10-30T16:27:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-slipper-du-fa-polisen-efter-dig-under-halloween",
-   "desc": "Högsäsongen för utklädnader, bus och godis är här. Men hur undviker du att hamna i kontakt med polisen under ditt halloweenfirande?"
+   "src": "BBC",
+   "section": "United",
+   "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+   "date": "2026-10-31T17:27:06.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "'I don't know how Michael Carrick survives this'",
+   "date": "2026-10-31T17:20:34.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ckzd6e1myjz0o?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd fan Jay Motty says the club are coming to the end of the road with Michael Carrick."
   },
   {
    "src": "BBC",
@@ -136,30 +160,6 @@
    "date": "2026-10-30T16:27:13.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
    "desc": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Items stolen from Man Utd Munich air disaster memorial",
-   "date": "2026-10-30T15:03:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxly4pqndz57o?at_medium=RSS&at_campaign=rss",
-   "desc": "The foundation has urged the return of stolen items, saying they mean so much to bereaved families."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Calvert-Lewin set for new Leeds deal",
-   "date": "2026-10-30T10:26:53.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss",
-   "desc": "England striker Dominic Calvert-Lewin is set to sign a new contract at Leeds United."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Carrick says there are 'no issues' with captain Fernandes",
-   "date": "2026-10-30T09:58:41.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqj34pjxp7xdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United manager Michael Carrick says there are \"no issues\" with captain Bruno Fernandes after he was dropped from the team against Bournemouth."
   }
  ]
 }
