@@ -1,42 +1,42 @@
 {
- "updated": "2026-10-31T10:01:54.791Z",
+ "updated": "2026-11-01T10:53:23.892Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färsk kycklingfilet 900g",
-   "price": "59 kr",
+   "item": "Svenska äpplen Aroma 1kg",
+   "price": "19 kr/kg",
    "url": "https://www.ica.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Köttfärs nöt/fläsk 800g",
+   "price": "49 kr",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "ICA",
-   "item": "Halloweenpumpor",
-   "price": "25 kr/st",
+   "item": "Färsk laxfilé Norge",
+   "price": "99 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Äpplen Ingrid Marie 2kg",
-   "price": "25 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
-   "store": "Lidl",
-   "item": "Köttfärs nöt/fläsk 500g",
-   "price": "39 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Stearinljus & värmeljus, blandat",
+   "price": "29 kr",
+   "url": "https://www.rusta.com/se"
   },
   {
    "store": "IKEA",
-   "item": "Köttbullar 1kg (fryst)",
-   "price": "49 kr",
+   "item": "Köttbullar 1kg fryst",
+   "price": "59 kr",
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Rusta",
-   "item": "Stearinljus 6-pack",
-   "price": "39 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Glögg alkoholfri 75cl",
+   "price": "25 kr",
+   "url": "https://www.lidl.se"
   }
  ]
 }
