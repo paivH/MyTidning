@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-01T20:06:40.734Z",
+ "updated": "2026-11-01T23:43:58.016Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
-   "date": "2026-11-01T19:48:17.000Z",
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+   "date": "2026-11-01T21:55:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-   "desc": "A humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky."
+   "desc": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
   },
   {
    "src": "BBC",
@@ -44,10 +44,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Många döda identifierade efter tågolyckan i Spanien",
+   "date": "2026-11-01T20:09:06.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/manga-doda-identifierade-efter-tagolyckan-i-spanien",
+   "desc": "Majoriteten av de döda i tågolyckan i Spanien har identifierats. Men fortfarande saknas tolv personer. Det rapporterar tidningen El Mundo."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Explosion på Rosengård – boende hålls inne",
    "date": "2026-11-01T18:45:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/larm-om-smallar-pa-rosengard",
-   "desc": "Polsen har larmats till Rosengård i Malmö med anledning av en hög smäll. Det ska finnas skador på en port och ett lägenhetsfönster, men inga uppgifter om personskador."
+   "desc": "Polisen har larmats till Rosengård i Malmö med anledning av en hög smäll. Det ska finnas skador på en port och ett lägenhetsfönster, men inga uppgifter om personskador."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-11-01T15:41:11.000Z",
    "link": "https://www.svt.se/kultur/david-druid-tar-paus-fran-morgonpasset-i-p3",
    "desc": "David Druid tar en paus som programledare för ”Morgonpasset” i P3. Detta efter att videoklipp där radioprofilen går till verbalt angrepp mot en person har spridits i sociala medier. ”Jag är verkligen inte stolt över en del av det som jag säger i de klipp som publicerats”, skriver David Druid."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man tog sig in på hotellrum i Eskilstuna – döms till fängelse",
-   "date": "2026-11-01T15:07:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/man-tog-sig-in-pa-hotellrum-i-eskilstuna-doms-till-fangelse",
-   "desc": "En man tog sig olovligen in på ett hotell i Eskilstuna och sov där i två dagar. Nu döms han till fängelse."
   },
   {
    "src": "STHLM",
