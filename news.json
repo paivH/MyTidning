@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-01T15:42:52.412Z",
+ "updated": "2026-11-01T20:06:40.734Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+   "date": "2026-11-01T19:48:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+   "desc": "A humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+   "date": "2026-11-01T17:06:32.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "University of Cambridge scientist among those who died in Spanish train crash",
+   "date": "2026-11-01T17:05:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,34 +36,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-   "date": "2026-11-01T00:41:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
+   "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+   "date": "2026-11-01T17:56:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "India's opposition holds mega rally seeking election chief's resignation",
-   "date": "2026-11-01T07:00:55.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-   "desc": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Explosion på Rosengård – boende hålls inne",
+   "date": "2026-11-01T18:45:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/larm-om-smallar-pa-rosengard",
+   "desc": "Polsen har larmats till Rosengård i Malmö med anledning av en hög smäll. Det ska finnas skador på en port och ett lägenhetsfönster, men inga uppgifter om personskador."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-   "date": "2026-10-31T19:22:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-   "desc": "One evacuated couple says they crossed minefields in Oleshky in search of food."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt mord i Ludvika – kvinna hittad död",
+   "date": "2026-11-01T17:18:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/grovt-valdsbrott-i-ludvika-kvinna-hittad-dod",
+   "desc": "En man i 65-årsåldern har anhållits efter att en kvinna hittats död i en bostad i Ludvika kommun. – Det är tidigt i utredningen men vi har fått information som gör att vi misstänker att det har skett ett mord, säger polisens presstalesperson Christina Hallin."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-   "date": "2026-10-31T17:53:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "En gripen efter hot om våldsdåd i Moskva",
+   "date": "2026-11-01T16:22:10.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/en-gripen-efter-hot-om-valdsdad-i-moskva",
+   "desc": "En minderårig rysk pojke har gripits efter hot om att utföra ett våldsdåd i Moskva, skriver Reuters med hänvisning till Rysslands säkerhetstjänst. Den planerade attacken ska ha riktats mot en park i den ryska huvudstaden."
   },
   {
    "src": "SVT",
@@ -58,28 +82,12 @@
    "desc": "En man tog sig olovligen in på ett hotell i Eskilstuna och sov där i två dagar. Nu döms han till fängelse."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Sveriges reserv av soldater krymper – äventyrar försvarsförmågan",
-   "date": "2026-11-01T14:39:23.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/sveriges-reserv-av-soldater-krymper-aventyrar-forsvarsformagan",
-   "desc": "Sverige behöver snabbt fler soldater i reserv. Men utvecklingen går istället åt motsatt håll. Under flera år har Försvarsmaktens personalreserv minskat – eftersom soldater inte fått sin repetitionsutbildning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Många Olesjkybor valde att stanna – för rädda för att fly",
-   "date": "2026-11-01T12:08:27.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/manga-olesjkybor-valde-att-stanna-for-radda-for-att-fly",
-   "desc": "Under vapenvilan i den ockuperade staden Olesjky kunde invånarna välja att evakuera till områden som kontrolleras av antingen Ryssland eller Ukraina. De flesta valde Ukraina, men många stannade kvar. Nu finns en rädsla för att vapenvilan, som beskrivs som en stor framgång, kommer att övergå i hårdare strider. – Det kommer att trappas upp, säger Zhanna, som precis har återförenats med sin man."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Intagen hotade att slå ner personal i häktet i Nyköping",
-   "date": "2026-11-01T10:40:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/intagen-hotade-att-sla-ner-personal-i-haktet-i-nykoping",
-   "desc": "En intagen vägrade att transporteras till ett annat häkte och hotade därefter personal, det visar en incidentrapport från häktet i Nyköping."
+   "title": "Nyheter från dagen: 1 november",
+   "date": "2026-11-01T19:11:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-1-november-j5zpn0",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm söndag 1 november."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-11-01T06:30:59.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-allvarligt-skadad-efter-trafikolycka-pa-kungsholmen",
    "desc": "En person fick föras till sjukhus med allvarligare skador efter en trafikolycka på Rålambshovsleden på Kungsholmen. Totalt är tre personer drabbade varav de andra två fick lindriga skador."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här städar Naif upp sopkaoset – fåglar och råttor sprider skräpet",
-   "date": "2026-11-01T04:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-stadar-naif-upp-sopkaoset-faglar-och-rattor-sprider-skrapet",
-   "desc": "Varje vardag städar miljövärden Naif Sarhan innergårdar och miljörum i Rinkeby. Ett återkommande problem är hushållssopor som lämnas utanför sopkärlen. När fåglar river upp påsarna sprids skräpet över gårdarna. – Det är mycket jobbigt för oss och vi jobbar mycket extra för att det ska vara rent, säger han."
   },
   {
    "src": "BBC",
