@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:39:42.791Z",
+ "updated": "2026-11-01T01:48:24.009Z",
  "items": [
   {
    "src": "BBC",
@@ -36,10 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-   "date": "2026-10-31T15:16:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-   "desc": "Government data shows that more than 10,000 people have contracted the rare virus."
+   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "date": "2026-11-01T00:12:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+   "desc": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
   },
   {
    "src": "SVT",
@@ -124,6 +124,22 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Has Martinez become a liability for Man Utd?",
+   "date": "2026-10-31T23:59:22.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Are Manchester United really at risk of a relegation scrap?",
+   "date": "2026-10-31T23:52:28.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
    "date": "2026-10-31T22:30:16.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
@@ -144,22 +160,6 @@
    "date": "2026-10-31T17:27:06.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'I don't know how Michael Carrick survives this'",
-   "date": "2026-10-31T17:20:34.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckzd6e1myjz0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd fan Jay Motty says the club are coming to the end of the road with Michael Carrick."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
-   "date": "2026-10-31T14:35:50.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
-   "desc": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off."
   }
  ]
 }
