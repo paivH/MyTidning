@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-01T01:48:24.009Z",
+ "updated": "2026-11-01T08:38:50.389Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Shops looted as German cost of living protests turn violent",
+   "date": "2026-11-01T07:36:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "desc": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,14 +28,6 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Thousands demonstrate in Paris as protests spread across Europe",
-   "date": "2026-10-31T21:29:01.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
    "date": "2026-10-31T22:11:45.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
@@ -36,10 +36,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-   "date": "2026-11-01T00:12:07.000Z",
+   "title": "India's opposition holds mega rally seeking election chief's resignation",
+   "date": "2026-11-01T07:00:55.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
    "desc": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man anhållen efter misstänkt mordförsök i Sigtuna",
+   "date": "2026-11-01T07:40:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-anhallen-efter-misstankt-mordforsok",
+   "desc": "En man har anhållits misstänkt för mordförsök efter att ha knivskadat en person i handen i Sigtuna. Händelsen ska ha inträffat när mannen misstänks ha tagit sig in i brottsoffrets garage och blivit upptäckt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "En till sjukhus efter misshandel i Piteå",
+   "date": "2026-11-01T06:32:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/en-till-sjukhus-efter-misshandel-i-pitea",
+   "desc": "En person fick föras till sjukhus efter ett bråk vid en snabbmatsrestaurang i centrala Piteå. Polisen utreder händelsen som misstänkt misshandel som involverar tre personer."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "En allvarligt skadad efter trafikolycka på Kungsholmen",
+   "date": "2026-11-01T06:30:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-allvarligt-skadad-efter-trafikolycka-pa-kungsholmen",
+   "desc": "En person fick föras till sjukhus med allvarligare skador efter en trafikolycka på Rålambshovsleden på Kungsholmen. Totalt är tre personer drabbade varav de andra två fick lindriga skador."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Alma, 14, från Nyköping har huvudroll i skräckfilm för barn: ”Lite kusligt”",
+   "date": "2026-11-01T04:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/alma-14-fran-nykoping-har-huvudroll-i-skrackfilm-for-barn-lite-kusligt",
+   "desc": "På en herrgård utanför Nyköping har det spelats in en skräckfilm för barn. I huvudrollen finns 14-åriga Nyköpingstjejen Alma Nyberg. – Det är lite komiskt faktiskt. Jag har aldrig varit förtjust i skräckfilmer, säger skådespelerskan."
   },
   {
    "src": "SVT",
@@ -50,36 +82,28 @@
    "desc": "Ian Gillan, sångare i det brittiska rockbandet Deep Purple, har lagts in på sjukhus. Bandet ställer in två konserter på grund av sjukdomsfallet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Niklas var på plats vid rallyolyckan utanför Nässjö: ”Helt osannolikt”",
-   "date": "2026-10-31T18:52:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/niklas-var-pa-plats-vid-rallyolyckan-utanfor-nassjo-helt-osannolikt",
-   "desc": "Den allvarliga rallyolyckan där en person dog skedde på Niklas Erikssons mark. – Det är fruktansvärt tragiskt, det är bara tomt, säger han."
+   "title": "Man anhållen efter misstänkt mordförsök i Sigtuna",
+   "date": "2026-11-01T07:40:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-anhallen-efter-misstankt-mordforsok",
+   "desc": "En man har anhållits misstänkt för mordförsök efter att ha knivskadat en person i handen i Sigtuna. Händelsen ska ha inträffat när mannen misstänks ha tagit sig in i brottsoffrets garage och blivit upptäckt."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "USA:s ambassad i Moskva varnar för våldsdåd",
-   "date": "2026-10-31T15:45:40.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/usas-ambassad-i-moskva-varnar-for-valdsdad",
-   "desc": "Den amerikanska ambassaden i Moskva varnar för ett ”trovärdigt hot” om vad de kallar ”masskadehändelse” i dag i den ryska huvudstaden. Samtidigt uppger Rysslands federala säkerhetstjänst att de har fått information om förberedelser till en terrorattack."
+   "title": "En allvarligt skadad efter trafikolycka på Kungsholmen",
+   "date": "2026-11-01T06:30:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-allvarligt-skadad-efter-trafikolycka-pa-kungsholmen",
+   "desc": "En person fick föras till sjukhus med allvarligare skador efter en trafikolycka på Rålambshovsleden på Kungsholmen. Totalt är tre personer drabbade varav de andra två fick lindriga skador."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "En död efter olycka på rallytävling utanför Nässjö",
-   "date": "2026-10-31T14:08:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/en-allvarligt-skadad-efter-olycka-pa-rallytavling-utanfor-nassjo",
-   "desc": "En åskådare har dött efter att ha blivit påkörd under rallytävlingen Novemberskölden utanför Nässjö."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Polisen bordade fartyg utanför Gotland",
-   "date": "2026-10-31T12:38:43.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/polisen-har-kontrollerat-fartyg-utanfor-gotland",
-   "desc": "Natten mot lördagen bordade polis ett fartyg utanför Gotland. – Vi har gått ombord på fartyget och kontrollerat besättningens resehandlingar, säger Carina Skagerlind, presstalesperson vid polisregion Stockholm till SVT Nyheter."
+   "title": "Här städar Naif upp sopkaoset – fåglar och råttor sprider skräpet",
+   "date": "2026-11-01T04:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-stadar-naif-upp-sopkaoset-faglar-och-rattor-sprider-skrapet",
+   "desc": "Varje vardag städar miljövärden Naif Sarhan innergårdar och miljörum i Rinkeby. Ett återkommande problem är hushållssopor som lämnas utanför sopkärlen. När fåglar river upp påsarna sprids skräpet över gårdarna. – Det är mycket jobbigt för oss och vi jobbar mycket extra för att det ska vara rent, säger han."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-10-31T16:15:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/da-startar-nordens-storsta-halloweenparad-alltid-kul",
    "desc": "Under lördagskvällen samlas tusentals människor för att tåga genom centrala Stockholm. Anledningen? Nordens största halloweenparad. – Jag vill se människors dräkter. Jag tror de kommer vara kreativa, säger Matylda Kwidzinska, 14, från Polen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Poliser åkte på larm i Stockholm – krockade med personbil",
-   "date": "2026-10-31T12:16:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/poliser-akte-pa-larm-krockade-med-personbil",
-   "desc": "En polisbil har i samband med en utryckning krockat med en personbil i Riksby i Stockholms kommun. De som färdades i personbilen har kontrollerats av sjukvårdspersonal. – Ingen är allvarligt skadad, säger Carina Skagerlind, presstalesperson hos polisen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Telefonkiosken gör comeback på Odenplan – 300 samtal till kyrkan",
-   "date": "2026-10-31T10:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/telefonkiosken-gor-comeback-pa-odenplan-300-samtal-till-kyrkan",
-   "desc": "Från den vita telefonkiosken på Odenplan kan vem som helst ringa. Men den som vill ha valmöjligheter får leta vidare. Härifrån går alla samtal till en och samma plats."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt mordförsök på restaurang i Stockholm",
-   "date": "2026-10-31T06:11:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/mordforsok-pa-restaurang-i-stockholm",
-   "desc": "Två personer har skadats med kniv på en restaurang i Stadshagen, Stockholm. En av dem fick allvarligare skador och den andra lindrigare. Polisen utreder händelsen som misstänkt mordförsök och misshandel."
   },
   {
    "src": "BBC",
