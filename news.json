@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-01T23:43:58.016Z",
+ "updated": "2026-11-02T04:11:41.611Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+   "date": "2026-11-02T01:18:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,6 +16,14 @@
    "date": "2026-11-01T21:55:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
    "desc": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+   "date": "2026-11-02T01:45:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+   "desc": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat."
   },
   {
    "src": "BBC",
@@ -20,26 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "University of Cambridge scientist among those who died in Spanish train crash",
-   "date": "2026-11-01T17:05:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Shops looted as German cost-of-living protests turn violent",
-   "date": "2026-11-01T11:57:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "desc": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-   "date": "2026-11-01T17:56:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-   "desc": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival."
+   "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+   "date": "2026-11-02T00:15:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+   "desc": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row."
   },
   {
    "src": "SVT",
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Ungdomar gripna efter eldattack mot bostad i Kallhäll",
+   "date": "2026-11-01T23:44:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tonaringar-gripna-efter-eldattack-mot-bostad-i",
+   "desc": "Två ungdomar har gripits efter att ha kastat en flaska med brandfarlig vätska mot en bostad i Kallhäll, Järfälla kommun."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 1 november",
    "date": "2026-11-01T19:11:20.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-1-november-j5zpn0",
@@ -112,14 +120,6 @@
    "date": "2026-11-01T07:40:56.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-anhallen-efter-misstankt-mordforsok",
    "desc": "En man har anhållits misstänkt för mordförsök efter att ha knivskadat en person i handen i Rosersberg, i Sigtuna kommun. Händelsen ska ha inträffat när mannen misstänks ha tagit sig in i brottsoffrets garage och blivit upptäckt."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "En allvarligt skadad efter trafikolycka på Kungsholmen",
-   "date": "2026-11-01T06:30:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-allvarligt-skadad-efter-trafikolycka-pa-kungsholmen",
-   "desc": "En person fick föras till sjukhus med allvarligare skador efter en trafikolycka på Rålambshovsleden på Kungsholmen. Totalt är tre personer drabbade varav de andra två fick lindriga skador."
   },
   {
    "src": "BBC",
