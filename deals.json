@@ -1,42 +1,42 @@
 {
- "updated": "2026-11-01T10:53:23.892Z",
+ "updated": "2026-11-02T11:49:11.348Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Svenska äpplen Aroma 1kg",
+   "item": "Svensk fläskkarré",
+   "price": "59 kr/kg",
+   "url": "https://www.ica.se"
+  },
+  {
+   "store": "ICA",
+   "item": "Äpplen Aroma, Sverige",
    "price": "19 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Köttfärs nöt/fläsk 800g",
-   "price": "49 kr",
+   "item": "Rotfruktsmix i påse 1kg",
+   "price": "15 kr",
    "url": "https://www.lidl.se"
-  },
-  {
-   "store": "ICA",
-   "item": "Färsk laxfilé Norge",
-   "price": "99 kr/kg",
-   "url": "https://www.ica.se"
-  },
-  {
-   "store": "Rusta",
-   "item": "Stearinljus & värmeljus, blandat",
-   "price": "29 kr",
-   "url": "https://www.rusta.com/se"
-  },
-  {
-   "store": "IKEA",
-   "item": "Köttbullar 1kg fryst",
-   "price": "59 kr",
-   "url": "https://www.ikea.com/se/sv/"
   },
   {
    "store": "Lidl",
-   "item": "Glögg alkoholfri 75cl",
-   "price": "25 kr",
+   "item": "Kvarnbyn Julmust 1,5L",
+   "price": "12 kr",
    "url": "https://www.lidl.se"
+  },
+  {
+   "store": "IKEA",
+   "item": "Köttbullar 1kg (frys)",
+   "price": "49 kr",
+   "url": "https://www.ikea.com/se/sv/"
+  },
+  {
+   "store": "Rusta",
+   "item": "Stearinljus adventsstake 4-pack",
+   "price": "79 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
