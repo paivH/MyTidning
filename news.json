@@ -1,85 +1,109 @@
 {
- "updated": "2026-11-03T03:33:33.643Z",
+ "updated": "2026-11-03T11:34:48.489Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-   "date": "2026-11-03T01:56:27.000Z",
+   "title": "US strikes Iranian island ahead of midterm elections",
+   "date": "2026-11-03T11:33:33.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+   "desc": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+   "date": "2026-11-03T03:32:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+   "desc": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+   "date": "2026-11-03T07:24:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
    "desc": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-   "date": "2026-11-03T00:07:05.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-   "desc": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
+   "title": "Tenerife striker De Miguel dies after on-field collision",
+   "date": "2026-11-03T09:09:18.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+   "desc": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-   "date": "2026-11-03T00:08:14.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-   "desc": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Shop freezers in seven European countries hit by cyber-attack",
-   "date": "2026-11-02T17:38:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-   "desc": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-   "date": "2026-11-02T17:33:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on."
+   "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+   "date": "2026-11-03T10:02:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
+   "desc": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Deep Purple avbryter Europaturné",
-   "date": "2026-11-03T02:01:00.000Z",
-   "link": "https://www.svt.se/kultur/deep-purple-avbryter-europaturne",
-   "desc": "Det brittiska hårdrockbandet Deep Purple avbryter sin Europaturné men lovar att återuppta den längre fram. Orsaken är att sångaren Ian Gillian blev akut sjuk i Leipzig i slutet av förra veckan."
+   "title": "Där sticker Hammarby ut – enligt experten: ”Kopiöst”",
+   "date": "2026-11-03T10:40:09.000Z",
+   "link": "https://www.svt.se/sport/fotboll/dar-sticker-hammarby-ut-enligt-experten-kopiost",
+   "desc": "Hammarby har spetsats under tränare Henrik Rydström. Det är främst en detalj som sticker ut i Bajens spel. – Det är ett kopiöst jobb, säger experten Magnus Eriksson i SVT:s Fotbollsstudion."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Uppgift: USA-attack mot ön Qeshm",
-   "date": "2026-11-03T00:53:46.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/uppgift-usa-attack-mot-on-qeshm",
-   "desc": "USA har anfallit den iranska ön Qeshm i Persiska viken. Det uppger amerikanska källor enligt Wall Street Journal."
+   "title": "Inget besked om kyrkans utredning av Birgitta Ed",
+   "date": "2026-11-03T09:14:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/inget-besked-om-kyrkans-utredningen-av-birgitta-ed",
+   "desc": "Utredningen av Birgitta Eds lämplighet som präst fortsätter. Enligt det senaste protokollet från domkapitlet i Strängnäs stift är ärendet ännu inte avslutat."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Witkoff: Samtal Ryssland-Ukraina nästa vecka",
-   "date": "2026-11-02T23:41:39.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/witkoff-samtal-ryssland-ukraina-nasta-vecka",
-   "desc": "USA kommer att agera medlare i samtal mellan Ryssland och Ukraina nästa vecka. Det skriver USA:s sändebud Steve Witkoff i ett inlägg på plattformen X."
+   "title": "Strömavbrott i Göteborgs skärgård – flera öar drabbade",
+   "date": "2026-11-03T08:47:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/stromavbrott-i-goteborgs-skargard-flera-oar-drabbade",
+   "desc": "Flera öar i Göteborgs södra skärgård har drabbats av ett strömavbrott. Initialt var omkring 1 500 kunder drabbade, bland annat på Styrsö och Brännö."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Natoflyg aktiverat i Baltikum – ”hot i luftrummet”",
-   "date": "2026-11-02T22:39:07.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/natoflyg-aktiverat-i-baltikum-hot-i-luftrummet",
-   "desc": "Invånarna i två kommuner i östra Lettland varnades på måndagskvällen för ett hot i luftrummet och uppmanades att söka skydd, samtidigt som Natoflyg aktiverades."
+   "title": "Myndighet: Lexbase och Krimfup får inte göra personer sökbara",
+   "date": "2026-11-03T08:40:47.000Z",
+   "link": "https://www.svt.se/kultur/mydighet-lexbase-far-inte-gora-personer-sokbara",
+   "desc": "Integritetsskyddsmyndigheten skriver på sin hemsida att rättsdatabaserna Lexbase och Krimfup inte längre får göra det möjligt för användare att söka på personer via namn, personnummer eller adress."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Felicia Schröder dyker upp – mitt i guldfirandet",
-   "date": "2026-11-02T19:46:06.000Z",
-   "link": "https://www.svt.se/sport/fotboll/felicia-schroder-dyker-upp-mitt-i-guldfirandet",
-   "desc": "SM-guldet är säkrat. Då dök superstjärnan Felicia Schröder, 19, plötsligt upp."
+   "title": "Hundar attackerade människor i Umeå – får koppeltvång",
+   "date": "2026-11-03T08:06:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/hundar-attackerade-manniskor-i-umea-far-koppeltvang",
+   "desc": "Två hundar i Umeå har vid upprepade tillfällen varit lösa och bitit människor och andra hundar. Nu kräver länsstyrelsen att ägaren håller hundarna kopplade och att den ena måste bära munkorg."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Skola utrymd efter utsläpp – elever till sjukhus",
+   "date": "2026-11-03T10:54:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skola-utrymd-efter-utslapp",
+   "desc": "En skola i Sollentuna norr om Stockholm har utrymts och två elever ska ha förts till sjukhus för kontroll. Anledningen är ett utsläpp, vilket P4 Stockholm var först att rapportera om."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Inställda pendeltåg efter dubbla växelfel  i morgontrafiken",
+   "date": "2026-11-03T06:22:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/installda-pendeltag-i-morgontrafiken",
+   "desc": "Dubbla växelfel har lett till förseningar och inställda pendeltåg på tisdagsmorgonen. Vid sjutiden var det ena felet lagat men framför allt linjerna 40 och 41 påverkades längre."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Cyklist död efter trafikolycka i Norrtälje",
+   "date": "2026-11-03T04:48:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/cyklist-dod-efter-trafikolycka-i-norrtalje",
+   "desc": "En cyklist som skadades allvarligt i en trafikolycka under måndagskvällen har dött, uppger polisen. Olyckan inträffade på Rådmansö i Norrtälje kommun."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-11-02T16:05:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/ica-baronen-drabbad-av-hackerattack-frysarna-var-jattevarma",
    "desc": "Ica Baronen i Stockholm är en av butikerna som drabbades av en stor hackerattack under natten mot måndagen. Allt som fanns i frysarna fick slängas då temperaturen stigit till 50 plusgrader. – Det känns inte som den typiska cyberattacken, säger kunden Simon."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här planteras de första av 50 000 nya träd – kan ersätta parkeringar",
-   "date": "2026-11-02T14:34:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-planteras-de-forsta-av-50-000-nya-trad-kan-ersatta-parkeringar",
-   "desc": "Nu har de första spadtagen tagits när Miljöpartiet i staden följer vallöftet om att plantera tiotusentals träd i Stockholm."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Golf ska bli mer tillgängligt för barn i socioekonomiskt utsatta områden",
-   "date": "2026-11-02T11:10:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/golf-ska-bli-mer-tillgangligt-for-barn-i-socioekonomiskt-utsatta-omraden",
-   "desc": "Golf ska bli mer tillgängligt för ungdomar. Det är tanken bakom initiativet där elever från Jordbro och Västerhaninge får prova på golf tillsammans med golftränare. – Känslan är att det inte är tillgängligt för alla, säger golfspelaren Jonathan Arvidsson."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "13 åtalas i apotekshärvan – ska ha lurat regioner på miljoner",
-   "date": "2026-11-02T04:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/13-atalas-i-apoteksharvan-ska-ha-lurat-regioner-pa-miljonbelopp",
-   "desc": "Tretton personer, åtta kvinnor och fem män, ska ha lurat skattebetalare i flera regioner på drygt 15 miljoner kronor. Flera av de misstänka är läkare och apotekare. I dag åtalas de inblandade i apotekshärvan – som nystades upp efter SVT Nyheter Stockholms avslöjande i våras."
   },
   {
    "src": "BBC",
