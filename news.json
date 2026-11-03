@@ -1,21 +1,29 @@
 {
- "updated": "2026-11-02T22:05:42.260Z",
+ "updated": "2026-11-03T03:33:33.643Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-   "date": "2026-11-02T21:10:04.000Z",
+   "date": "2026-11-03T01:56:27.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
    "desc": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-   "date": "2026-11-02T19:58:34.000Z",
+   "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+   "date": "2026-11-03T00:07:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+   "desc": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+   "date": "2026-11-03T00:08:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-   "desc": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\""
+   "desc": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause."
   },
   {
    "src": "BBC",
@@ -34,12 +42,36 @@
    "desc": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Legal challenge to Australia's social media ban to start in High Court",
-   "date": "2026-11-02T19:12:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-   "desc": "A rights group will argue the world-leading policy robs under-16s of their right to free communication."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Deep Purple avbryter Europaturné",
+   "date": "2026-11-03T02:01:00.000Z",
+   "link": "https://www.svt.se/kultur/deep-purple-avbryter-europaturne",
+   "desc": "Det brittiska hårdrockbandet Deep Purple avbryter sin Europaturné men lovar att återuppta den längre fram. Orsaken är att sångaren Ian Gillian blev akut sjuk i Leipzig i slutet av förra veckan."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Uppgift: USA-attack mot ön Qeshm",
+   "date": "2026-11-03T00:53:46.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/uppgift-usa-attack-mot-on-qeshm",
+   "desc": "USA har anfallit den iranska ön Qeshm i Persiska viken. Det uppger amerikanska källor enligt Wall Street Journal."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Witkoff: Samtal Ryssland-Ukraina nästa vecka",
+   "date": "2026-11-02T23:41:39.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/witkoff-samtal-ryssland-ukraina-nasta-vecka",
+   "desc": "USA kommer att agera medlare i samtal mellan Ryssland och Ukraina nästa vecka. Det skriver USA:s sändebud Steve Witkoff i ett inlägg på plattformen X."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Natoflyg aktiverat i Baltikum – ”hot i luftrummet”",
+   "date": "2026-11-02T22:39:07.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/natoflyg-aktiverat-i-baltikum-hot-i-luftrummet",
+   "desc": "Invånarna i två kommuner i östra Lettland varnades på måndagskvällen för ett hot i luftrummet och uppmanades att söka skydd, samtidigt som Natoflyg aktiverades."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-11-02T19:46:06.000Z",
    "link": "https://www.svt.se/sport/fotboll/felicia-schroder-dyker-upp-mitt-i-guldfirandet",
    "desc": "SM-guldet är säkrat. Då dök superstjärnan Felicia Schröder, 19, plötsligt upp."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "BK Häcken svenska mästare för andra året i rad",
-   "date": "2026-11-02T17:10:10.000Z",
-   "link": "https://www.svt.se/sport/fotboll/dromstart-hacken-stormar-mot-sm-guld",
-   "desc": "Andra raka. Nu har Häcken säkrat SM-guldet, för första gången på hemmaplan. – Jag vet inte hur man ska beskriva det, säger tvåmålsskytten Maja Bodin till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Marius Borg Høiby ska försättas på fri fot",
-   "date": "2026-11-02T16:15:13.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/marius-borg-hoiby-ska-forsattas-pa-fri-fot",
-   "desc": "Marius Borg Høiby har vid flera tillfällen begärt att slippa sitta häktad. Nu beslutar Oslos tingsrätt att han ska försättas på fri fot och slippa fotboja, rapporterar norska medier. Rättsprocessen mot bonusprinsen pågår fortsatt."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Säkerhetsansvarige: Så gick rallyolyckan utanför Nässjö till",
-   "date": "2026-11-02T16:13:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sakerhetsansvarige-sa-gick-rallyolyckan-till",
-   "desc": "I helgen inträffade en dödsolycka på rallytävlingen Novemberskölden, där en åskådare blev påkörd av en bil. – Hela klubben är i chock, säger tävlingens säkerhetsansvarige Per Ottosson, som har svårt att förstå att olyckan kunde ske just på den platsen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Förälder upptäckte att förskolepraktikant var dömd för barnporrbrott",
-   "date": "2026-11-02T15:38:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/foralder-upptackte-att-forskolepraktikant-var-domd-for-barnporrbrott",
-   "desc": "En praktikant som arbetade på en förskola i Eskilstuna var dömd för barnpornografibrott, något som uppmärksammades av en förälder som själv gjorde en bakgrundskoll på personen. Enligt kommunen beror misstaget på en ny lagstiftning."
   },
   {
    "src": "STHLM",
