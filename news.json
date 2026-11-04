@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-03T23:55:31.763Z",
+ "updated": "2026-11-04T04:47:25.124Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "South Carolina elects Democratic senator for first time in almost three decades",
+   "date": "2026-11-04T03:24:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+   "date": "2026-11-04T02:38:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,26 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-   "date": "2026-11-03T16:19:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-   "desc": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
+   "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+   "date": "2026-11-04T03:46:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+   "desc": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\"."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-   "date": "2026-11-03T21:53:38.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-   "desc": "The NTSB said because the parts were found far from the accident site, they fell off before the crash."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Libya's top religious authority rules against wearing Nike clothes",
-   "date": "2026-11-03T14:56:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-   "desc": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Byggentreprenören: Så ska Ullån skyddas",
+   "date": "2026-11-04T04:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/byggentreprenoren-sa-ska-ullan-skyddas-vi-tanker-pa-ullan-entreprenoren-om-hur-ullan-skyddas-dammar-och-faror-ska-skydda-ullan",
+   "desc": "När Nya Ullådalsstugan nu byggs är fullt fokus på att skydda naturmiljön och inte minst Ullån som rinner intill. Det menar platschef Erik Fritzon. Samtidigt har privatpersoner tagit bilder som visar på hur grått vatten rinner från bygget."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Mjällbys Axel Norén tog emot bollen med handen efter en inspark av målvakten Alexander Lundin – och klarade sig från straffspark. Och det är inte första gången det händer i allsvenskan. – Det finns inga förmildrande omständigheter, säger Jonas Eriksson."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kent fick sms om akut blodbrist – lämnade blod för 98:e gången",
-   "date": "2026-11-03T16:56:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/kent-fick-sms-om-akut-blodbrist-lamnade-blod-for-98e-gangen",
-   "desc": "Det råder akut blodbrist i Västmanland för blodgrupperna 0+ och 0-. Kent Höglund i Sala var en av dem som hörsammade regionens uppmaning – och lämnade blod för 98:e gången. – Det är inte så traumatiskt som folk tror, säger han."
+   "title": "Kisanet lärde sig simma som vuxen – nu lär hon andra",
+   "date": "2026-11-04T04:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kisanet-larde-sig-simma-som-vuxen-nu-lar-hon-andra",
+   "desc": "Regeringen har budgeterat 90 miljoner kronor om året fram till 2028 för att öka simkunnigheten i områden med stort utanförskap. På Husbybadet får vuxna som aldrig lärt sig simma en chans att bli trygga i vattnet. En av simlärarna är Kisanet Kiros, som själv lärde sig simma först som 19-åring. – För vissa finns det jättemycket trauma bakom rädslan, berättar hon."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,20 @@
    "desc": "En skola i Sollentuna norr om Stockholm har utrymts och tre elever fördes till sjukhus för kontroll. Anledningen är ett misstänkt utsläpp, vilket P4 Stockholm var först att rapportera om."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Inställda pendeltåg efter dubbla växelfel  i morgontrafiken",
-   "date": "2026-11-03T06:22:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/installda-pendeltag-i-morgontrafiken",
-   "desc": "Dubbla växelfel har lett till förseningar och inställda pendeltåg på tisdagsmorgonen. Vid sjutiden var det ena felet lagat men framför allt linjerna 40 och 41 påverkades längre."
+   "src": "BBC",
+   "section": "United",
+   "title": "Fernandes critical of media 'lies' about Carrick relationship",
+   "date": "2026-11-04T00:45:33.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
+   "date": "2026-11-04T00:27:37.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
+   "desc": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?"
   },
   {
    "src": "BBC",
@@ -128,14 +144,6 @@
    "date": "2026-11-03T23:25:20.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "We don't need to save anyone's job, says Man Utd captain Fernandes",
-   "date": "2026-11-03T23:25:13.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Bruno Fernandes says Manchester United's players \"don't need to save anyone's job\" after their improbable comeback win against Roma."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-02T16:00:07.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
    "desc": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Carrick 'looking forward' to Roma game despite struggles",
-   "date": "2026-11-02T14:50:11.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6eq3e97lpp3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Michael Carrick says he \"can't wait\" to face Roma in the Champions League despite his club's recent struggles."
   }
  ]
 }
