@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:14:26.033Z",
+ "updated": "2026-11-05T00:57:49.081Z",
  "items": [
   {
    "src": "BBC",
@@ -21,7 +21,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-   "date": "2026-11-04T17:45:58.000Z",
+   "date": "2026-11-04T22:48:43.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
    "desc": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
   },
@@ -44,6 +44,14 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Trump efter valförlusten: Kriget mot Iran värt det",
+   "date": "2026-11-04T20:38:24.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/trump-efter-valforlusten-kriget-mot-iran-vart-det",
+   "desc": "Både president Donald Trump och vicepresident JD Vance skyller det stora nederlaget i mellanårsvalet på kriget i Iran. – Jag hade inget val. Iran kan inte ha kärnvapen, säger Trump till reportrar dagen efter valet."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Besök från Asien i Jönköping – mandarinanden väcker uppmärksamhet",
    "date": "2026-11-04T18:00:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/jonkoping/besok-fran-asien-i-jonkoping-mandarinanden-vacker-uppmarksamhet",
@@ -60,10 +68,10 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stor polisinsats i Sollentuna – misstänkt grovt brott",
+   "title": "Misstänkt mord i Sollentuna – en död och en skadad",
    "date": "2026-11-04T17:39:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-i-sollentuna-misstankt-grovt-brott",
-   "desc": "En stor polisinsats pågår i Sollentuna norr om Stockholm, efter misstanke om ett grovt brott. Larmet kom in strax efter klockan 17 på onsdagskvällen."
+   "desc": "En stor polisinsats pågår på onsdagen i Tureberg i Sollentuna efter att en person dött och en skadats allvarligt. En misstänkt gärningsman har gripits för mord och mordförsök."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-11-04T16:31:47.000Z",
    "link": "https://www.svt.se/nyheter/inrikes/filmen-ska-knyta-gangtopp-till-sprangning-i-linkoping",
    "desc": "En kraftig explosion skakade ett flerfamiljshus i Linköping i september 2023. Nu inleds rättegången mot den utpekade gängtoppen Ildar ”Scar” Galiyev som misstänks ha legat bakom dådet."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Pro-ryska grupper påstår sig ligga bakom flera kylattacker",
-   "date": "2026-11-04T15:34:53.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/pro-ryska-grupper-pastar-sig-ligga-bakom-flera-kylattacker",
-   "desc": "Cyberangreppen mot hundratals matbutiker i Europa kan ha koppling till pro-ryska hackare. På dark web skryter två hackergrupper om sina påstådda angrepp mot butiksfrysar. ”Vi utnyttjade helt enkelt de integrerade systemen”, säger de i en video som publicerats på sociala medier."
   },
   {
    "src": "STHLM",
@@ -92,10 +92,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Stor polisinsats i Sollentuna – misstänkt grovt brott",
+   "title": "Misstänkt mord i Sollentuna – en död och en skadad",
    "date": "2026-11-04T17:39:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-i-sollentuna-misstankt-grovt-brott",
-   "desc": "En stor polisinsats pågår i Sollentuna norr om Stockholm, efter misstanke om ett grovt brott. Larmet kom in strax efter klockan 17 på onsdagskvällen."
+   "desc": "En stor polisinsats pågår på onsdagen i Tureberg i Sollentuna efter att en person dött och en skadats allvarligt. En misstänkt gärningsman har gripits för mord och mordförsök."
   },
   {
    "src": "STHLM",
@@ -120,6 +120,14 @@
    "date": "2026-11-03T18:08:35.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-3-nivember",
    "desc": "Här är några utvalda nyheter från SVT Stockholm tisdag 3 november."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester United beat Roma in epic second-half comeback",
+   "date": "2026-11-04T22:04:05.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United drag themselves up off the canvas to come from two goals down to record a sensational Champions League victory against Roma at Old Trafford."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-04T10:43:18.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c3ewe9kvkv49o?at_medium=RSS&at_campaign=rss",
    "desc": "Kasper Schmeichel calls for Manchester United fans to get behind their team following their 3-2 comeback win over Roma in the Champions League"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'It was the final roll of the dice for Michael Carrick'",
-   "date": "2026-11-04T08:35:05.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c3kgq87yxkp5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd fan Beth Tucker praises Matheus Cunha and Shea Lacey for their roles in the UCL comeback against Roma."
   }
  ]
 }
