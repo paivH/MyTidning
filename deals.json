@@ -1,30 +1,30 @@
 {
- "updated": "2026-11-04T11:44:09.387Z",
+ "updated": "2026-11-05T11:43:02.135Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färsk fläskfilet, Sverige",
+   "item": "Färsk laxfilé Norge",
    "price": "89 kr/kg",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Lidl",
-   "item": "Svenska äpplen Ingrid Marie 1kg",
-   "price": "19,90 kr",
-   "url": "https://www.lidl.se"
-  },
-  {
    "store": "ICA",
-   "item": "Rotfruktsmix i lösvikt",
-   "price": "14,90 kr/kg",
+   "item": "Klyftpotatis frysta 750g",
+   "price": "19 kr",
    "url": "https://www.ica.se"
   },
   {
-   "store": "Rusta",
-   "item": "Doftljus i glas, 3-pack",
-   "price": "49 kr",
-   "url": "https://www.rusta.com/se"
+   "store": "Lidl",
+   "item": "Äpplen Royal Gala 1kg",
+   "price": "17 kr",
+   "url": "https://www.lidl.se"
+  },
+  {
+   "store": "Lidl",
+   "item": "Julskinka Gotland 1,3kg",
+   "price": "69 kr/kg",
+   "url": "https://www.lidl.se"
   },
   {
    "store": "IKEA",
@@ -33,10 +33,10 @@
    "url": "https://www.ikea.com/se/sv/"
   },
   {
-   "store": "Lidl",
-   "item": "Viltfärs älg/nöt 400g",
-   "price": "59 kr",
-   "url": "https://www.lidl.se"
+   "store": "Rusta",
+   "item": "Adventsljusstake LED",
+   "price": "79 kr",
+   "url": "https://www.rusta.com/se"
   }
  ]
 }
