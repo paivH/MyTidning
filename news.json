@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-05T00:57:49.081Z",
+ "updated": "2026-11-05T07:46:42.183Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-   "date": "2026-11-04T13:33:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
+   "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+   "date": "2026-11-05T03:47:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+   "desc": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-   "date": "2026-11-04T18:01:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-   "desc": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal."
+   "title": "What Democrats can and can't do with their new power after taking Congress",
+   "date": "2026-11-04T18:01:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Democrats can vote legislation through. But Trump still has veto power."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-   "date": "2026-11-04T22:48:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-   "desc": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
+   "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+   "date": "2026-11-05T06:35:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+   "desc": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law."
   },
   {
    "src": "BBC",
@@ -36,10 +36,42 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Most difficult days of my life' for keeper Owono",
-   "date": "2026-11-04T16:40:38.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-   "desc": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death."
+   "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+   "date": "2026-11-04T23:12:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+   "desc": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Därför kommer nordiska toppnamn till Göteborg: Nordic compass summit",
+   "date": "2026-11-05T06:46:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/darfor-kommer-nordiska-toppnamn-till-goteborg-nordic-compass-summit",
+   "desc": "Finlands president Alexander Stubb är ett av toppnamnen som besöker Göteborg i veckan. Polisen varnar för kortare trafikstörningar runt Järntorget, när det nordiska toppmötet Nordic compass summit arrangeras för första gången."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Skyltar pekade fel – tio lastbilar fastnade utanför Bollebygd",
+   "date": "2026-11-05T05:40:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/skyltar-pekade-fel-tio-lastbilar-fastnade-utanfor-bollebyggd",
+   "desc": "Ett vägarbete på riksväg 40 gör att trafiken leds om – men omledningsskyltar i Bollebygd pekade plötsligt fel, natten mot torsdag. Skylt-kaoset ledde till att tio lastbilar blev fast."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Tackade ja till spränguppdrag i Södertälje – ångrade sig och ringde mamma",
+   "date": "2026-11-05T04:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/tackade-ja-till-spranguppdrag-angrade-sig-och-ringde-mamma",
+   "desc": "18-åringen har tackat ja till att spränga två adresser i Södertälje. Nu sitter han på ett hotellrum och börjar inse vad han gett sig in på. Han ringer sin mamma – ett samtal som gör att polisen kan stoppa planerna. Nu döms två män till fängelse."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Trasig Strömsundsbro ger högtryck på hotell: ”Många behöver boende”",
+   "date": "2026-11-05T04:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/trasig-stromsundsbro-ger-hogtryck-pa-hotell-manga-behover-boende",
+   "desc": "Mycket folk är i rörelse på Strömsunds hotellverksamheter efter broskadan på E45. Några som känt av trycket är Hotell Nordica, som tillsammans med branschkollegor hela tiden försöker lösa så att alla som vill kan övernatta i Strömsund. – Vi vill att alla ska ha möjlighet att bo i Strömsund, säger Mattias Liljefjäll, ägare."
   },
   {
    "src": "SVT",
@@ -50,36 +82,20 @@
    "desc": "Både president Donald Trump och vicepresident JD Vance skyller det stora nederlaget i mellanårsvalet på kriget i Iran. – Jag hade inget val. Iran kan inte ha kärnvapen, säger Trump till reportrar dagen efter valet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Besök från Asien i Jönköping – mandarinanden väcker uppmärksamhet",
-   "date": "2026-11-04T18:00:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/besok-fran-asien-i-jonkoping-mandarinanden-vacker-uppmarksamhet",
-   "desc": "En ovanlig fågel är på besök i Jönköping. Det handlar om en mandarinand – en färgstark fågelart som inte tillhör de vanligaste inslagen i den svenska naturen. – Den kanske identifierar sig som en gräsand, säger Paulize Holmström, som sett fågeln."
+   "title": "Här är cellerna där 14-åringarna sitter häktade",
+   "date": "2026-11-05T04:30:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-ar-cellerna-dar-14-aringarna-sitter-haktade",
+   "desc": "Den 14-åriga flickan som är misstänkt för medhjälp till mord i Älvsjö i Stockholm sitter här på Kronobergshäktet. Hon är en av de första 14-åringarna i landet som häktats. – Vi måste göra vårt jobb men det väcker tankar, säger Stefan Björnstam, kriminalvårdsinspektör vid Kronobergshäktet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Man tagen av svensk polis för brott i Ukraina",
-   "date": "2026-11-04T17:55:02.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/man-tagen-av-svensk-polis-for-brott-i-ukraina",
-   "desc": "En 55-årig man som är misstänkt för brott i Ukraina greps av gränspolisen då han anlände till Sverige. Nu vill åklagaren pröva om mannen kan anhållas provisoriskt, uppger Åklagarmyndigheten i ett pressmeddelande."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt mord i Sollentuna – en död och en skadad",
-   "date": "2026-11-04T17:39:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-i-sollentuna-misstankt-grovt-brott",
-   "desc": "En stor polisinsats pågår på onsdagen i Tureberg i Sollentuna efter att en person dött och en skadats allvarligt. En misstänkt gärningsman har gripits för mord och mordförsök."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Filmen ska knyta gängtopp till sprängning i Linköping",
-   "date": "2026-11-04T16:31:47.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/filmen-ska-knyta-gangtopp-till-sprangning-i-linkoping",
-   "desc": "En kraftig explosion skakade ett flerfamiljshus i Linköping i september 2023. Nu inleds rättegången mot den utpekade gängtoppen Ildar ”Scar” Galiyev som misstänks ha legat bakom dådet."
+   "title": "Posttåg har kört in i grävmaskin i Stuvsta söder om Stockholm",
+   "date": "2026-11-05T03:06:24.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/posttag-har-kort-in-i-gravmaskin-i-stuvsta",
+   "desc": "Två personer i 30-årsåldern har tagits till sjukhus efter att ett posttåg kolliderat med en grävmaskin söder om Stuvsta station i Huddinge natten mot torsdag. En av personerna är allvarligt skadad. – De har varit vakna och talbara under hela insatsen, säger Mikael Blomberg, vakthavande befäl vid räddningstjänsten. Även tågtrafiken påverkas av olyckan."
   },
   {
    "src": "STHLM",
@@ -95,7 +111,7 @@
    "title": "Misstänkt mord i Sollentuna – en död och en skadad",
    "date": "2026-11-04T17:39:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-i-sollentuna-misstankt-grovt-brott",
-   "desc": "En stor polisinsats pågår på onsdagen i Tureberg i Sollentuna efter att en person dött och en skadats allvarligt. En misstänkt gärningsman har gripits för mord och mordförsök."
+   "desc": "En person är anhållen misstänkt för mord och mordförsök efter att en person dödats och en person skadats i Tureberg i Sollentuna under onsdagskvällen."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-11-04T15:13:11.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/elevassistenten-dennis-om-valdet-i-skolan-det-har-eskalerat",
    "desc": "Under sina år som elevassistent i Stockholm har Dennis Bernhard sett att hot och våld både ökat och blivit grövre i skolan. För SVT berättar han hur vardagen i ett klassrum kan se ut."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Kisanet lärde sig simma som vuxen – nu lär hon andra",
-   "date": "2026-11-04T04:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kisanet-larde-sig-simma-som-vuxen-nu-lar-hon-andra",
-   "desc": "Regeringen har budgeterat 90 miljoner kronor om året fram till 2028 för att öka simkunnigheten i områden med stort utanförskap. På Husbybadet får vuxna som aldrig lärt sig simma en chans att bli trygga i vattnet. En av simlärarna är Kisanet Kiros, som själv lärde sig simma först som 19-åring. – För vissa finns det jättemycket trauma bakom rädslan, berättar hon."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 3 november",
-   "date": "2026-11-03T18:08:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-3-nivember",
-   "desc": "Här är några utvalda nyheter från SVT Stockholm tisdag 3 november."
   },
   {
    "src": "BBC",
