@@ -1,45 +1,77 @@
 {
- "updated": "2026-11-05T16:02:15.021Z",
+ "updated": "2026-11-05T22:09:36.692Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-   "date": "2026-11-05T03:47:56.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-   "desc": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
+   "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+   "date": "2026-11-05T17:39:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+   "desc": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What Democrats can and can't do with their new power after taking Congress",
-   "date": "2026-11-04T18:01:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Democrats can vote legislation through. But Trump still has veto power."
+   "title": "Who could be behind hoax bomb threats to European air travel?",
+   "date": "2026-11-05T19:58:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+   "desc": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "France holds new strikes and protests as unions demand immediate answers",
-   "date": "2026-11-05T15:43:15.000Z",
+   "title": "California governor commutes sentences for state's 548 death row inmates",
+   "date": "2026-11-05T21:25:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+   "desc": "California has historically had the largest population of people on death row in the US."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "French protests see numbers surge as unions join strikes over high cost of living",
+   "date": "2026-11-05T17:59:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-   "desc": "Five of France's unions join a wave of strikes and protests in a national day of action."
+   "desc": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-   "date": "2026-11-05T14:29:40.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-   "desc": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend."
+   "title": "Paraguay President Santiago Peña resigns after bank collapse",
+   "date": "2026-11-05T17:40:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+   "desc": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-   "date": "2026-11-05T13:51:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Sydamerikas Dubai kollapsade”",
+   "date": "2026-11-05T21:45:13.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/sydamerikas-dubai-kollapsade",
+   "desc": "I Paraguay kraschade inte bara landets viktigaste bank utan även bilden av ett framtidsland med stora ekonomiska möjligheter."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Brist på skyddsrum i Kyjiv – här övernattar SVT i tunnelbanan",
+   "date": "2026-11-05T21:32:53.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/brist-pa-skyddsrum-i-kyjiv-har-overnattar-svt-i-tunnelbanan",
+   "desc": "Officiellt har Kyjiv tillräckligt med skyddsrum för hälften av invånarna. I verkligheten är många av dem undermåliga – eller för långt bort. Tiden mellan ett larm och ett nedslag är ibland bara ett par minuter. SVT har besökt ett av stadens hårdast attackerade områden och tillbringat natten i tunnelbanan."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Svenska fångar i Estland straffas efter stök",
+   "date": "2026-11-05T16:34:59.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/svenska-fangar-i-estland-straffas-efter-stok",
+   "desc": "Svenska fångar på Tartufängelset i Estland straffas efter protester och olydnad. Det efter en incident med en intagen. – De har betett sig olämpligt, säger Alina Poduškina, kommunikatör vid den estniska Kriminalvården."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bankkollaps i Paraguay – presidenten avgår",
+   "date": "2026-11-05T16:22:32.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/bankkollaps-i-paraguay-presidenten-avgar",
+   "desc": "Protester har brutit ut runt om i Paraguay sedan storbanken Ueno Bank stängdes mitt i natten på grund av en så kallad solvenskris. Uppskattningsvis 60 procent av landets vuxna befolkning har bankkonton hos Ueno. Nu avgår landets president Santiago Peña."
   },
   {
    "src": "SVT",
@@ -50,36 +82,28 @@
    "desc": "Under natten till torsdagen släpptes dataspelet World of Warcraft Classic Forever. Det nya spelet är en tillbakablick till versionen som släpptes för över 20 år sedan. Någon som varit med och spelat World of Warcraft ända sedan början är 72-åriga Marie Haglund från Karlstad."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Oro för AI-broms sänker Wall Street",
-   "date": "2026-11-05T15:57:09.000Z",
-   "link": "https://www.svt.se/nyheter/ekonomi/oro-for-ai-broms-sanker-wall-street",
-   "desc": "Tekniktunga Nasdaqs kompositindex faller över 5 procent efter ny oro för AI-bolagens värderingar. Oro för att AI-utbyggnaden i USA ska bromsas med mer demokratisk politik nämns som en förklaring."
+   "title": "Nyheter från dagen: 5 november",
+   "date": "2026-11-05T19:31:13.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-5-november-0ijrpo",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm torsdag 5 november."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Axel och Gustave, 9 år, bor i Paris: ”Vår stad är förstörd”",
-   "date": "2026-11-05T15:55:43.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/axel-och-gustave-9-ar-bor-i-paris-var-stad-ar-forstord",
-   "desc": "Krossade rutor, plundrade butiker och nedbrända kiosker. Syskonen Lejdström Arnoult visar spåren av våld från senaste veckornas demonstrationer."
+   "title": "Korttidsboende i Vårberg vågar inte klaga: ”Vi vill inte hamna på gatan”",
+   "date": "2026-11-05T17:15:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/korttidsboende-i-varberg-vagar-inte-klaga-vi-vill-inte-hamna-pa-gatan",
+   "desc": "SVT har tidigare rapporterat om flera hyresgäster som hamnat i kläm i Liljebos lägenheter i Vårberg. Men en stor grupp vill inte prata – trots att deras lägenheter ofta beskrivs vara i sämst skick. De som har korttidskontrakt vill inte riskera att bli av med boendet. – Det är absurt hur långt det här har gått, säger Bengt Öhman, jurist på Hyresgästföreningen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "En dyr höst väntar: ”En strid efter den andra”",
-   "date": "2026-11-05T15:52:55.000Z",
-   "link": "https://www.svt.se/nyheter/ekonomi/en-dyr-host-vantar-en-strid-efter-den-andra",
-   "desc": "Svensken går en dyr höst till mötes. Styrräntan höjs. Elpriserna stiger kraftigt – och flera tillfälliga skattesänkningar försvinner. – Det är verkligen en strid efter den andra, privatekonomiskt, säger ekonomijournalisten Ellen Hagström i SVT:s Morgonstudion."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt för skotten i Hovslätt inte psykiskt sjuk",
-   "date": "2026-11-05T15:31:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/misstankt-for-skotten-i-hovslatt-inte-psykiskt-sjuk",
-   "desc": "Den man som misstänks för skottlossningen och mordförsöken i Hovslätt lider inte av någon allvarlig psykisk störning. Det konstaterar Rättsmedicinalverket, uppger P4 Jönköping."
+   "title": "Fyra till sjukhus efter trafikolyckor vid Rosenkälla",
+   "date": "2026-11-05T16:32:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/e18-avstangd-efter-trafikolycka-vid-rosenkalla",
+   "desc": "Fyra personer har förts till sjukhus efter flera trafikolyckor strax norr om Rosenkälla, norr om Stockholm. Skadeläget är oklart, uppger polisen."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-11-05T14:05:51.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/ung-kvinna-anhallen-for-mordet-i-bagarmossen",
    "desc": "En 19-årig kvinna greps och anhölls på torsdagen, misstänkt för inblandning i mordet i Bagarmossen den 23 oktober, där en man i 25-årsåldern sköts till döds när han satt i sin bil på en innergård. En 36-årig man är sedan tidigare häktad, misstänkt för att ha avlossat skotten."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Riksåklagaren vill att HD prövar om 14-åring ska vara häktad",
-   "date": "2026-11-05T13:08:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/riksaklagaren-vill-att-hd-provar-om-14-aring-ska-vara-haktad",
-   "desc": "En 14-årig flicka är häktad misstänkt för inblandning i mordet i Älvsjö. Riksåklagaren anser att hon bör vara häktad – men vill ändå att Högsta domstolen prövar frågan för vägledning framåt."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Polisövning i centrala Stockholm – varnar för kraftig smäll",
-   "date": "2026-11-05T12:31:29.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisovning-i-centrala-stockholm-varnar-for-kraftig-small",
-   "desc": "Polisen varnar för att en ”kraftig smäll” kan komma att höras i centrala Stockholm under torsdagseftermiddagen. Anledningen är en övning."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Rödgröna styret i Stockholm vill utöka miljözonen",
-   "date": "2026-11-05T12:02:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/rodgrona-styret-i-stockholm-vill-utoka-miljozonen",
-   "desc": "Det rödgröna styret i Stockholms stad vill gå vidare med förslaget att införa miljözon klass 3 i Stockholms city. Styret går nu ett steg längre och vill utöka zonen där de flesta bensin- och dieselbilar ska förbjudas."
   },
   {
    "src": "BBC",
