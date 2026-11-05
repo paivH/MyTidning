@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-04T11:20:09.636Z",
+ "updated": "2026-11-05T11:18:16.486Z",
  "items": [
   {
-   "ingredient": "pumpa",
-   "idea": "Snabb pumpasoppa: tärna pumpa, koka 15 min med lök och curry, mixa slät – klar på 20 minuter."
-  },
-  {
-   "ingredient": "brysselkål",
-   "idea": "Snabbinlagda brysselkål: halvera, koka 2 min, lägg i 1:1 ättika-vatten med socker och senapsfrön, kyl 24 timmar."
-  },
-  {
    "ingredient": "grönkål",
-   "idea": "Fermentera grönkål som kimchi: salta 2%, massera tills saftig, krydda med chili och vitlök, låt stå 5 dagar."
+   "idea": "Massera grönkål med 2% salt, packa i burk, fermentera 5 dagar för snabb kimchi-kål."
   },
   {
    "ingredient": "lök",
-   "idea": "Baka lökbröd: fräs lök gyllenbrun, blanda i surdeg innan andra jäsningen för sötma och djup smak."
+   "idea": "Picklad lök: koka 1 dl ättika 12%, 1 dl socker, 2 dl vatten, häll över skivad lök."
+  },
+  {
+   "ingredient": "pumpa",
+   "idea": "Baka pumpalimpa: blanda 300 g pumpapuré i degen för saftigt, mustigt höstbröd till frukost."
+  },
+  {
+   "ingredient": "kålrot",
+   "idea": "Snabbrätt: strimla kålrot tunt, stek 5 minuter i smör med timjan som snabbt vardagstillbehör."
   }
  ]
 }
