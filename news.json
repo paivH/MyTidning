@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-05T22:09:36.692Z",
+ "updated": "2026-11-06T02:41:28.061Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+   "date": "2026-11-06T01:44:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump signs order preventing future presidents from changing Oval Office",
+   "date": "2026-11-06T01:20:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+   "desc": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+   "date": "2026-11-06T02:08:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+   "date": "2026-11-06T00:02:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+   "desc": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,38 +40,6 @@
    "date": "2026-11-05T17:39:48.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
    "desc": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Who could be behind hoax bomb threats to European air travel?",
-   "date": "2026-11-05T19:58:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-   "desc": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "California governor commutes sentences for state's 548 death row inmates",
-   "date": "2026-11-05T21:25:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-   "desc": "California has historically had the largest population of people on death row in the US."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "French protests see numbers surge as unions join strikes over high cost of living",
-   "date": "2026-11-05T17:59:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-   "desc": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Paraguay President Santiago Peña resigns after bank collapse",
-   "date": "2026-11-05T17:40:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-   "desc": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
   },
   {
    "src": "SVT",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+   "date": "2026-11-05T23:00:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
+   "desc": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
    "date": "2026-11-04T16:12:46.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "date": "2026-11-04T10:43:18.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c3ewe9kvkv49o?at_medium=RSS&at_campaign=rss",
    "desc": "Kasper Schmeichel calls for Manchester United fans to get behind their team following their 3-2 comeback win over Roma in the Champions League"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'It was the final roll of the dice for Michael Carrick'",
-   "date": "2026-11-04T08:35:05.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c3kgq87yxkp5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Man Utd fan Beth Tucker praises Matheus Cunha and Shea Lacey for their roles in the UCL comeback against Roma."
   }
  ]
 }
