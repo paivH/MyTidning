@@ -1,29 +1,21 @@
 {
- "updated": "2026-11-06T17:37:15.162Z",
+ "updated": "2026-11-06T22:40:14.484Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "AI stocks climb after trillions wiped from market values",
-   "date": "2026-11-06T17:03:02.000Z",
+   "date": "2026-11-06T21:06:25.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
    "desc": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump signs order to preserve Oval Office as national monument",
-   "date": "2026-11-06T09:19:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-   "desc": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-   "date": "2026-11-06T16:51:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-   "desc": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff."
+   "title": "Four midterms takeaways for 2028 White House race",
+   "date": "2026-11-06T16:12:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+   "desc": "The buzz about the presidential election is already under way - here's what we learned this week."
   },
   {
    "src": "BBC",
@@ -36,6 +28,14 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "New wave of bomb threats hit European airlines",
+   "date": "2026-11-06T15:25:35.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+   "desc": "No link has been established between the threats against the airlines and those against the media outlets."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
    "date": "2026-11-06T14:46:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
@@ -44,10 +44,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Klåfingrig treåring orsakade stort pådrag i Habo",
-   "date": "2026-11-06T16:21:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/klafingrig-trearing-orsakade-stort-padrag-i-habo",
-   "desc": "Polisen larmades på fredagseftermiddagen om ett överfallslarm från en bank i Habo. Bakom det falska larmet visade det sig ligga en treåring."
+   "title": "Kvinna hittad död på hotell i Norrköping – misstänkt mord",
+   "date": "2026-11-06T19:07:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mord-i-norrkoping-kvinna-hittad-dod-pa-hotell",
+   "desc": "En kvinna i 25-årsåldern har hittats död på ett hotell i Norrköping. Polisen har inlett en mordutredning och en jämnårig man har anhållits."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "UD om sitt agerande kring ”ryska huset”: Ska skyddas",
+   "date": "2026-11-06T18:35:49.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ud-om-sitt-agerande-kring-ryska-huset-ska-skyddas",
+   "desc": "De sista hyresgästerna har lämnat ”ryska huset” på Lidingö – och den decennielånga striden kan nu vara över. Genom åren har UD återkommande anklagats för att ha skyddat ryska intressen. – Enligt Wienkonventionen ska diplomaters bostäder skyddas från intrång och deras frid och värdighet får inte kränkas, skriver UD:s presstjänst."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Flera centerpartister är ”chockade” efter Jimmie Åkessons (SD) nya besked i regeringsfrågan, enligt SVT:s källor. Samtidigt är budskapet från både S och V att ingenting har förändrats. Nu förbereder sig C på hur man ska svara."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "David Druid kommer inte tillbaka nästa vecka",
-   "date": "2026-11-06T13:12:59.000Z",
-   "link": "https://www.svt.se/kultur/david-druid-kommer-inte-tillbaka-nasta-vecka",
-   "desc": "Programledaren David Druid kommer inte att programleda Morgonpasset i P3 nästa vecka heller, rapporterar Aftonbladet."
+   "title": "Nyheter från dagen: 6 november",
+   "date": "2026-11-06T19:03:44.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-6-november-1e7lbb",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm fredag 6 november."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,20 @@
    "desc": "SVT har tidigare rapporterat om flera hyresgäster som hamnat i kläm i Liljebos lägenheter i Vårberg. Men en stor grupp vill inte prata – trots att deras lägenheter ofta beskrivs vara i sämst skick. De som har korttidskontrakt vill inte riskera att bli av med boendet. – Det är absurt hur långt det här har gått, säger Bengt Öhman, jurist på Hyresgästföreningen."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Fyra till sjukhus efter trafikolyckor vid Rosenkälla",
-   "date": "2026-11-05T16:32:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/e18-avstangd-efter-trafikolycka-vid-rosenkalla",
-   "desc": "Fyra personer har förts till sjukhus efter flera trafikolyckor strax norr om Rosenkälla, norr om Stockholm. Skadeläget är oklart, uppger polisen."
+   "src": "BBC",
+   "section": "United",
+   "title": "Paul Robinson: Glazers statement is 'garbage'",
+   "date": "2026-11-06T22:19:08.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmkgkkp85pwdo?at_medium=RSS&at_campaign=rss",
+   "desc": "Paul Robinson says the Avram Glazers' reported statement on Manchester United is 'garbage' after he said the clubs revenues weren't affected by on-pitch results."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Will changing Carrick fix things for Manchester United?",
+   "date": "2026-11-06T19:09:25.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm5ynnk06gdzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United fans have their say on whether sacking Michael Carrick will change things at the club."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-11-04T16:12:46.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
    "desc": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Real Madrid reach verbal agreement to sign Gabriel",
-   "date": "2026-11-04T11:49:23.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-   "desc": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Old Trafford crowd can change games - Carrick",
-   "date": "2026-11-04T10:56:43.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqkgkwrjn2x5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United manager Michael Carrick says the crowd at Old Trafford can change games after his side came back from two goals down to beat roma 3-2 in the Champions League."
   }
  ]
 }
