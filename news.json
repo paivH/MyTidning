@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-06T02:41:28.061Z",
+ "updated": "2026-11-06T10:19:45.995Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-   "date": "2026-11-06T01:44:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Trump signs order preventing future presidents from changing Oval Office",
-   "date": "2026-11-06T01:20:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-   "desc": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington."
-  },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
    "date": "2026-11-06T02:08:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses."
+   "desc": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Trump signs order to preserve Oval Office as national monument",
+   "date": "2026-11-06T09:19:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+   "desc": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Two dead after bus crashes in France, officials say",
+   "date": "2026-11-06T10:17:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+   "desc": "One child and one young adult were killed in the crash, local authorities say, with more injured."
   },
   {
    "src": "BBC",
@@ -36,50 +36,58 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-   "date": "2026-11-05T17:39:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-   "desc": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
+   "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+   "date": "2026-11-06T07:33:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+   "desc": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "”Sydamerikas Dubai kollapsade”",
-   "date": "2026-11-05T21:45:13.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/sydamerikas-dubai-kollapsade",
-   "desc": "I Paraguay kraschade inte bara landets viktigaste bank utan även bilden av ett framtidsland med stora ekonomiska möjligheter."
+   "title": "Skolbuss har krockat i östra Frankrike – två döda",
+   "date": "2026-11-06T09:00:08.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/skolbuss-har-krockat-i-ostra-frankrike-flera-skadade",
+   "desc": "En skolbuss har på fredagsmorgonen krockat i området kring staden Lent i östra Frankrike. Minst två personer har dött i olyckan, enligt ett nytt uttalande från kommunen i Ain, rapporterar BFMTV."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Brist på skyddsrum i Kyjiv – här övernattar SVT i tunnelbanan",
-   "date": "2026-11-05T21:32:53.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/brist-pa-skyddsrum-i-kyjiv-har-overnattar-svt-i-tunnelbanan",
-   "desc": "Officiellt har Kyjiv tillräckligt med skyddsrum för hälften av invånarna. I verkligheten är många av dem undermåliga – eller för långt bort. Tiden mellan ett larm och ett nedslag är ibland bara ett par minuter. SVT har besökt ett av stadens hårdast attackerade områden och tillbringat natten i tunnelbanan."
+   "title": "Man torterades i lägenhet på Haga i Umeå – fyra åtalas",
+   "date": "2026-11-06T08:44:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-torterades-i-lagenhet-pa-haga-i-umea-fyra-atalas",
+   "desc": "En man bands fast i en lägenhet på Haga i Umeå – och utsattes för tortyr. Han fick kokande vatten hällt över sig och injicerades med olika droger. Fyra personer åtalas nu misstänkta för synnerligen grov misshandel och människorov."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Svenska fångar i Estland straffas efter stök",
-   "date": "2026-11-05T16:34:59.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/svenska-fangar-i-estland-straffas-efter-stok",
-   "desc": "Svenska fångar på Tartufängelset i Estland straffas efter protester och olydnad. Det efter en incident med en intagen. – De har betett sig olämpligt, säger Alina Poduškina, kommunikatör vid den estniska Kriminalvården."
+   "title": "Åtal väckt efter dödsskjutningar i Norrköping och Oslo",
+   "date": "2026-11-06T08:41:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/atal-vackt-efter-dodsskjutningar-i-norrkoping-och-oslo",
+   "desc": "Åklagare har nu väckt åtal mot två pojkar misstänkta för mord och grovt vapenbrott efter en skjutning i Norrköping på valborgsmässoafton. De båda, som kommer från Karlstad, åtalas också för ett mord i Oslo den 26 april."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bankkollaps i Paraguay – presidenten avgår",
-   "date": "2026-11-05T16:22:32.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/bankkollaps-i-paraguay-presidenten-avgar",
-   "desc": "Protester har brutit ut runt om i Paraguay sedan storbanken Ueno Bank stängdes mitt i natten på grund av en så kallad solvenskris. Uppskattningsvis 60 procent av landets vuxna befolkning har bankkonton hos Ueno. Nu avgår landets president Santiago Peña."
+   "title": "19-åring åtalas för förberedelse till terroristbrott",
+   "date": "2026-11-06T08:21:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/19-aring-atalas-for-forberedelse-till-terroristbrott",
+   "desc": "En 19-årig man har på fredagen åtalats för förberedelse till terroristbrott, uppger Åklagarmyndigheten i ett pressmeddelande. Enligt åtalet har personen planerat att genomföra ett knivattentat mot en gymnasieskola i Halmstad utifrån ett våldsbejakande islamistiskt motiv."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "72-åriga Marie har spelat World of Warcraft i över 20 år: ”Spelar nästan varje kväll”",
-   "date": "2026-11-05T15:58:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/72-ariga-marie-har-spelat-world-of-warcraft-i-over-20-ar-spelar-nastan-varje-kvall",
-   "desc": "Under natten till torsdagen släpptes dataspelet World of Warcraft Classic Forever. Det nya spelet är en tillbakablick till versionen som släpptes för över 20 år sedan. Någon som varit med och spelat World of Warcraft ända sedan början är 72-åriga Marie Haglund från Karlstad."
+   "title": "Sebastian Samuelsson om bråket med KD-profilen: ”Diskuterar gärna”",
+   "date": "2026-11-06T07:59:19.000Z",
+   "link": "https://www.svt.se/sport/skidskytte/sebastian-samuelsson-om-braket-med-kd-profilen-diskuterar-garna",
+   "desc": "Sebastian Samuelsson hamnade i en het ordväxling med KD-politikern Alice Teodorescu Måwe. Nu berättar stjärnan om det uppmärksammade bråket i SVT:s ”Skavlan och Sverige”. – Jag borde kanske få sonderingsuppdraget av talmannen, säger han."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Fem åtalas efter bussmordet i Tyresö",
+   "date": "2026-11-06T09:00:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fem-atalas-efter-bussmordet-i-tyreso",
+   "desc": "Fem personer har åtalats misstänkta för inblandning i mordet på 18-årige Ghaith i Tyresö i mars. En person är åtalas misstänkt för mord och fyra för medhjälp."
   },
   {
    "src": "STHLM",
@@ -114,18 +122,10 @@
    "desc": "Förundersökningen om valfusket i Tensta, i nordvästra Stockholm, har lagts ner. Utredningen inleddes i oktober efter att Svenska Dagbladet publicerade en ledarartikel med uppgifter om oegentligheter vid valet. Enligt åklagaren har det inte gått att bevisa att något brott har begåtts."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Ung kvinna anhållen efter mordet i Bagarmossen",
-   "date": "2026-11-05T14:05:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/ung-kvinna-anhallen-for-mordet-i-bagarmossen",
-   "desc": "En 19-årig kvinna greps och anhölls på torsdagen, misstänkt för inblandning i mordet i Bagarmossen den 23 oktober, där en man i 25-årsåldern sköts till döds när han satt i sin bil på en innergård. En 36-årig man är sedan tidigare häktad, misstänkt för att ha avlossat skotten."
-  },
-  {
    "src": "BBC",
    "section": "United",
    "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
-   "date": "2026-11-05T23:00:10.000Z",
+   "date": "2026-11-06T06:17:13.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
    "desc": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years."
   },
