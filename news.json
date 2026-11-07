@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-07T02:30:43.613Z",
+ "updated": "2026-11-07T09:34:41.100Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Paraguay's president impeached and under house arrest after bank collapse",
+   "date": "2026-11-07T07:20:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Two dead after bus crashes in France, officials say",
-   "date": "2026-11-06T15:33:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-   "desc": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+   "title": "Pope in 'pretty good health' as he starts Latin America tour",
+   "date": "2026-11-07T06:59:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+   "desc": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
   },
   {
    "src": "BBC",
@@ -34,52 +42,60 @@
    "desc": "No link has been established between the threats against the airlines and those against the media outlets."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-   "date": "2026-11-06T14:46:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Stor trafikpåverkan i Nässjö – krock mellan två personbilar",
+   "date": "2026-11-07T08:40:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/stor-trafikpaverkan-i-nassjo-krock-mellan-tva-personbilar",
+   "desc": "Två personbilar kolliderade vid järvägsövergången i Söräng vid Nässjö. Trafikstopp på järnvägen har begärts."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Paraguays president avsatt – kan åtalas",
-   "date": "2026-11-07T00:03:25.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/paraguays-president-avsatt-kan-atalas",
-   "desc": "Paraguays senat har röstat för att avsätta president Santiago Peña till följd av misskötsel. Beslutet innebär att Peña kan komma att åtalas till följd av den bankkris som drabbat landet."
+   "title": "Totalstopp på E4 efter olycka: ”Fläckvis väldigt halt”",
+   "date": "2026-11-07T07:24:46.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/totalstopp-pa-e4-efter-olycka-flackvis-valdigt-halt",
+   "desc": "E4 fick stängas av i höjd med Nyköping efter att en bil kört in i mitträcket på lördagsmorgonen. – Det är fläckvis väldigt halt, säger Johan Koivisto, vakthavande befäl vid Södertörns brandsförsvarsförbund."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ex-politiker efterlyst i Ukraina frihetsberövad i Sverige",
-   "date": "2026-11-06T22:39:37.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ex-politiker-efterlyst-i-ukraina-frihetsberovad-i-sverige",
-   "desc": "Dmytro Sviatash, som anklagats för ekonomisk brottslighet och landsförräderi, har blivit provisoriskt anhållen i Sverige. Enligt Expressen stoppades den ukrainska ex-politikern i passkontrollen på Arlanda, på väg till en Stevie Wonder-konsert i Stockholm."
+   "title": "Maskerade personer slog sönder fönster på skola och garage",
+   "date": "2026-11-07T06:28:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/maskerade-personer-slog-sonder-fonster-pa-skola-och-garage",
+   "desc": "Flera maskerade personer slog sönder fönster till en skola, ett parkeringsgarage och busskurer i Hisings Backa under fredagsnatten."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kvinna hittad död på hotell i Norrköping – misstänkt mord",
-   "date": "2026-11-06T19:07:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mord-i-norrkoping-kvinna-hittad-dod-pa-hotell",
-   "desc": "En kvinna i 25-årsåldern har hittats död på ett hotell i Norrköping. Polisen har inlett en mordutredning och en jämnårig man har anhållits."
+   "title": "Kaos på tåg från Köpenhamn efter dansk öldag",
+   "date": "2026-11-07T06:18:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/kaos-pa-tag-fran-kopenhamn-efter-dansk-oldag",
+   "desc": "Fredagskvällens tågresa från Köpenhamn till Malmö blev kaotisk. Aftonbladet rapporterar om överfulla perronger och avsvimmade personer på tåget. Skånetrafiken kommer nu utreda händelsen för att vara bättre förberedda nästa år."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "UD om sitt agerande kring ”ryska huset”: Ska skyddas",
-   "date": "2026-11-06T18:35:49.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ud-om-sitt-agerande-kring-ryska-huset-ska-skyddas",
-   "desc": "De sista hyresgästerna har lämnat ”ryska huset” på Lidingö – och den decennielånga striden kan nu vara över. Genom åren har UD återkommande anklagats för att ha skyddat ryska intressen. – Enligt Wienkonventionen ska diplomaters bostäder skyddas från intrång och deras frid och värdighet får inte kränkas, skriver UD:s presstjänst."
+   "title": "Man död efter trafikolycka på Öland",
+   "date": "2026-11-07T05:31:49.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/man-dod-efter-trafikolycka-pa-oland",
+   "desc": "En personbil körde av vägen och in i ett träd vid Böda under fredagen. En man omkom i olyckan."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "SVT-produktion bakom fejkade djurklipp: ”Stresstest”",
-   "date": "2026-11-06T16:20:27.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/svt-produktion-bakom-fejkade-djurklipp-stresstest",
-   "desc": "Tre lokala SVT-redaktioner publicerade fejkade klipp på djur i tron att de var äkta. Men både klippen på djuren och intervjun med tipsaren ”Gustav” var deepfejkade. Det hela visade sig vara ett experiment i en dokumentärserie som produceras för SVT:s programdivision."
+   "title": "Från drogcentral till mötesplats – så har Plattan förändrats",
+   "date": "2026-11-07T04:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fran-drogcentral-till-motesplats-sa-har-plattan-forandrats",
+   "desc": "Sergels torg har nästan sedan dess öppning varit synonymt med öppen droghandel och sociala problem. Men något har tydligt har skett de senast tio åren. I trygghetsmätningar sticker inte längre kvarteren runt Plattan ut."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Person överbord – stor sökinsats i Östersjön",
+   "date": "2026-11-07T02:58:19.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/person-overbord-sokinsats-pagar",
+   "desc": "En sökinsats pågick under natten mot lördag efter att en person fallit överbord från ett kryssningsfartyg nordost om Kapellskär i Norrtälje kommun."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "Fem personer har åtalats misstänkta för inblandning i mordet på 18-årige Ghaith i Tyresö i mars. En person åtalas för mord och fyra för medhjälp till mord. – Skytten erkänner att han har skjutit 18-åringen, säger senior åklagare Thobias Vilhelmsson."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 5 november",
-   "date": "2026-11-05T19:31:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-5-november-0ijrpo",
-   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm torsdag 5 november."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Korttidsboende i Vårberg vågar inte klaga: ”Vi vill inte hamna på gatan”",
-   "date": "2026-11-05T17:15:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/korttidsboende-i-varberg-vagar-inte-klaga-vi-vill-inte-hamna-pa-gatan",
-   "desc": "SVT har tidigare rapporterat om flera hyresgäster som hamnat i kläm i Liljebos lägenheter i Vårberg. Men en stor grupp vill inte prata – trots att deras lägenheter ofta beskrivs vara i sämst skick. De som har korttidskontrakt vill inte riskera att bli av med boendet. – Det är absurt hur långt det här har gått, säger Bengt Öhman, jurist på Hyresgästföreningen."
+   "src": "BBC",
+   "section": "United",
+   "title": "Can we play you every week? The day Southend toppled Man United",
+   "date": "2026-11-07T06:22:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo?at_medium=RSS&at_campaign=rss",
+   "desc": "Southend United's heroes remember their famous victory against Manchester United 20 years on."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-06T06:17:13.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
    "desc": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-   "date": "2026-11-04T16:12:46.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-   "desc": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?"
   }
  ]
 }
