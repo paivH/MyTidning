@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-07T09:34:41.100Z",
+ "updated": "2026-11-07T16:03:33.506Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "No clear winner after tight New Zealand general election",
+   "date": "2026-11-07T15:56:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+   "desc": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "With Stephen Miller pick, Trump readies for a battle",
+   "date": "2026-11-06T23:24:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,18 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "AI stocks climb after trillions wiped from market values",
-   "date": "2026-11-06T21:06:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-   "desc": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Four midterms takeaways for 2028 White House race",
-   "date": "2026-11-06T16:12:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-   "desc": "The buzz about the presidential election is already under way - here's what we learned this week."
+   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+   "date": "2026-11-07T12:49:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+   "desc": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
   },
   {
    "src": "BBC",
@@ -34,12 +42,20 @@
    "desc": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "New wave of bomb threats hit European airlines",
-   "date": "2026-11-06T15:25:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-   "desc": "No link has been established between the threats against the airlines and those against the media outlets."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Slovakisk hockeyspelare förd till sjukhus – skridsko träffade halsen",
+   "date": "2026-11-07T14:28:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/nykoping-slovakisk-hockeyspelare-ford-till-sjukhus-skridsko-traffade-halsen",
+   "desc": "En spelare i Slovakiens U20-landslag har förts till sjukhus efter att ha skadats i samband med en ishockeymatch i Nyköping."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fem bilar inblandade i krock",
+   "date": "2026-11-07T13:35:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fem-bilar-inblandade-i-kokrock",
+   "desc": "En olycka inträffade på E4:an vid Kungens Kurva på lördagseftermiddagen. Fem bilar var inblandade i olyckan, som fick stor påverkan på trafiken. Vid 15-tiden började trafiken rulla igen."
   },
   {
    "src": "SVT",
@@ -66,20 +82,20 @@
    "desc": "Flera maskerade personer slog sönder fönster till en skola, ett parkeringsgarage och busskurer i Hisings Backa under fredagsnatten."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kaos på tåg från Köpenhamn efter dansk öldag",
-   "date": "2026-11-07T06:18:15.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/kaos-pa-tag-fran-kopenhamn-efter-dansk-oldag",
-   "desc": "Fredagskvällens tågresa från Köpenhamn till Malmö blev kaotisk. Aftonbladet rapporterar om överfulla perronger och avsvimmade personer på tåget. Skånetrafiken kommer nu utreda händelsen för att vara bättre förberedda nästa år."
+   "title": "Fem bilar inblandade i krock",
+   "date": "2026-11-07T13:35:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fem-bilar-inblandade-i-kokrock",
+   "desc": "En olycka inträffade på E4:an vid Kungens Kurva på lördagseftermiddagen. Fem bilar var inblandade i olyckan, som fick stor påverkan på trafiken. Vid 15-tiden började trafiken rulla igen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Man död efter trafikolycka på Öland",
-   "date": "2026-11-07T05:31:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/man-dod-efter-trafikolycka-pa-oland",
-   "desc": "En personbil körde av vägen och in i ett träd vid Böda under fredagen. En man omkom i olyckan."
+   "title": "Här flyger hjärtstartare till dödliga situationen – med drönare",
+   "date": "2026-11-07T10:30:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-flyger-hjartstartare-till-dodliga-situationen-med-dronare",
+   "desc": "Nu inför Region Stockholm ambulansdrönare utrustade med hjärtstartare. SVT var på plats för att testa det nya utryckningssystemet som ska underlätta i situationer när ambulans inte hinner fram."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm fredag 6 november."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "400 turkosa taxibilar intar Stockholm: ”Förare spyr galla”",
-   "date": "2026-11-06T10:35:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/400-turkosa-taxibilar-intar-stockholm-forare-spyr-galla",
-   "desc": "2 500 taxibilar från elbilstillverkaren Vinfast håller på att rullas in i Sverige. I Stockholm finns 400 stycken. Men bilarna väcker reaktioner i branschen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Fem åtalas efter bussmordet i Tyresö – skytten erkänner",
-   "date": "2026-11-06T09:00:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fem-atalas-efter-bussmordet-i-tyreso",
-   "desc": "Fem personer har åtalats misstänkta för inblandning i mordet på 18-årige Ghaith i Tyresö i mars. En person åtalas för mord och fyra för medhjälp till mord. – Skytten erkänner att han har skjutit 18-åringen, säger senior åklagare Thobias Vilhelmsson."
+   "src": "BBC",
+   "section": "United",
+   "title": "My dream is to win Ballon d'Or - Gabriel",
+   "date": "2026-11-07T12:25:14.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-06T16:46:01.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c8ly0092kyxvo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United head coach Michael Carrick insists the club can still be held to the standards set by Sir Alex Ferguson 40 years after the Scot took the job."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
-   "date": "2026-11-06T06:17:13.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
-   "desc": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years."
   }
  ]
 }
