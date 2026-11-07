@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-07T16:03:33.506Z",
+ "updated": "2026-11-07T20:23:23.003Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+   "date": "2026-11-07T20:08:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "desc": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,34 +20,34 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "With Stephen Miller pick, Trump readies for a battle",
-   "date": "2026-11-06T23:24:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-   "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+   "title": "US offers $20m reward for information about Iran's nuclear programme",
+   "date": "2026-11-07T18:14:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Paraguay's president impeached and under house arrest after bank collapse",
-   "date": "2026-11-07T07:20:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+   "title": "Houthis say at least 25 killed in Saudi air strike",
+   "date": "2026-11-07T17:09:24.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-   "date": "2026-11-07T12:49:36.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-   "desc": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
+   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+   "date": "2026-11-07T15:19:35.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+   "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Pope in 'pretty good health' as he starts Latin America tour",
-   "date": "2026-11-07T06:59:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-   "desc": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Hackergruppernas mystiska ”bevis” för frysattackerna sågas",
+   "date": "2026-11-07T17:13:05.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/hackergruppernas-mystiska-bevis-for-frysattackerna-sagas",
+   "desc": "”Metoden är enkel och elegant” skriver en prorysk hackergrupp i ett inlägg på Telegram där de tar på sig attackerna mot kylar och frysar i Europa. Men experter är skeptiska till att de verkligen bär ansvaret – och ”beviset” bevisar inte det som påstås, visar SVT:s granskning."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "E4 fick stängas av i höjd med Nyköping efter att en bil kört in i mitträcket på lördagsmorgonen. – Det är fläckvis väldigt halt, säger Johan Koivisto, vakthavande befäl vid Södertörns brandsförsvarsförbund."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Maskerade personer slog sönder fönster på skola och garage",
-   "date": "2026-11-07T06:28:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/maskerade-personer-slog-sonder-fonster-pa-skola-och-garage",
-   "desc": "Flera maskerade personer slog sönder fönster till en skola, ett parkeringsgarage och busskurer i Hisings Backa under fredagsnatten."
+   "title": "Nyheter från dagen: 7 november",
+   "date": "2026-11-07T18:48:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-november-kt362w",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm lördag 7 november."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-11-07T02:58:19.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/person-overbord-sokinsats-pagar",
    "desc": "En sökinsats pågick under natten mot lördag efter att en person fallit överbord från ett kryssningsfartyg nordost om Kapellskär i Norrtälje kommun."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 6 november",
-   "date": "2026-11-06T19:03:44.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-6-november-1e7lbb",
-   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm fredag 6 november."
   },
   {
    "src": "BBC",
