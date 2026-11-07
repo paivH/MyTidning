@@ -1,13 +1,21 @@
 {
- "updated": "2026-11-07T20:23:23.003Z",
+ "updated": "2026-11-07T23:46:52.819Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What we know so far after Polish gunman opens fire in Krakow main square",
-   "date": "2026-11-07T20:08:31.000Z",
+   "title": "What we know so far after Krakow gun attack",
+   "date": "2026-11-07T22:58:49.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "desc": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+   "desc": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+   "date": "2026-11-07T22:19:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+   "desc": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
   },
   {
    "src": "BBC",
@@ -34,12 +42,20 @@
    "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-   "date": "2026-11-07T15:19:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-   "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Finland: Över fyra miljoner kilo potatis förstörd i brand",
+   "date": "2026-11-07T21:48:13.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/finland-over-fyra-miljoner-kilo-potatis-forstord-i-brand",
+   "desc": "En stor lagerfastighet i norra Österbotten i Finland har brunnit ner. I byggnaderna förvarades 4,2 miljoner kilo potatis. Branden innebär att upp till en femtedel av Finlands lager av sättpotatis har gått förlorad."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Detta vet vi om skytten bakom dödsskjutningen i Kraków",
+   "date": "2026-11-07T21:01:03.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/detta-vet-vi-om-skytten-i-krakow",
+   "desc": "Iklädd militärkläder körde den misstänkte gärningsmannen in på det folktäta torget i Krakóws gamla stad och öppnade eld. Från sin bil dödade han sex personer i vad som verkar ha varit ett slumpmässigt urval. I skyttens hem hittades ytterligare tre döda personer."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-11-07T13:35:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/fem-bilar-inblandade-i-kokrock",
    "desc": "En olycka inträffade på E4:an vid Kungens Kurva på lördagseftermiddagen. Fem bilar var inblandade i olyckan, som fick stor påverkan på trafiken. Vid 15-tiden började trafiken rulla igen."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Stor trafikpåverkan i Nässjö – krock mellan två personbilar",
-   "date": "2026-11-07T08:40:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/stor-trafikpaverkan-i-nassjo-krock-mellan-tva-personbilar",
-   "desc": "Två personbilar kolliderade vid järvägsövergången i Söräng vid Nässjö. Trafikstopp på järnvägen har begärts."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Totalstopp på E4 efter olycka: ”Fläckvis väldigt halt”",
-   "date": "2026-11-07T07:24:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/totalstopp-pa-e4-efter-olycka-flackvis-valdigt-halt",
-   "desc": "E4 fick stängas av i höjd med Nyköping efter att en bil kört in i mitträcket på lördagsmorgonen. – Det är fläckvis väldigt halt, säger Johan Koivisto, vakthavande befäl vid Södertörns brandsförsvarsförbund."
   },
   {
    "src": "STHLM",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "'Bruno's as good as ever' - Carrick backs Man Utd captain",
+   "date": "2026-11-07T22:44:20.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is \"undoubted\" and the midfielder is \"as good as ever\"."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "My dream is to win Ballon d'Or - Gabriel",
    "date": "2026-11-07T12:25:14.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "date": "2026-11-06T19:09:25.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cm5ynnk06gdzo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United fans have their say on whether sacking Michael Carrick will change things at the club."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'Success takes time' - Carrick",
-   "date": "2026-11-06T16:46:01.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c8ly0092kyxvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Michael Carrick insists the club can still be held to the standards set by Sir Alex Ferguson 40 years after the Scot took the job."
   }
  ]
 }
