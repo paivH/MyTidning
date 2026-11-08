@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-07T23:46:52.819Z",
+ "updated": "2026-11-08T04:13:51.182Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "What we know so far after Krakow gun attack",
-   "date": "2026-11-07T22:58:49.000Z",
+   "date": "2026-11-08T01:47:41.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
+   "desc": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker."
   },
   {
    "src": "BBC",
@@ -31,13 +31,13 @@
    "title": "US offers $20m reward for information about Iran's nuclear programme",
    "date": "2026-11-07T18:14:38.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
+   "desc": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Houthis say at least 25 killed in Saudi air strike",
-   "date": "2026-11-07T17:09:24.000Z",
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "date": "2026-11-08T04:03:12.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
    "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
   },
@@ -84,6 +84,14 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
+   "title": "Kraftig brand i idrottshall i Tumba",
+   "date": "2026-11-08T03:02:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kraftig-brand-i-idrottshall-i-tumba-for-andra-gangen",
+   "desc": "Det brinner kraftigt i en sporthall i Tumba, söder om Stockholm. Räddningstjänsten har en omfattande insats på platsen. – Vi hade en brand där för cirka nio dagar sen. Nu brinner det i andra delen av sporthallen, säger räddningstjänstens vakthavande befäl Henrik Dewoon-Thorén."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
    "title": "Nyheter från dagen: 7 november",
    "date": "2026-11-07T18:48:47.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-november-kt362w",
@@ -112,14 +120,6 @@
    "date": "2026-11-07T04:30:06.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/fran-drogcentral-till-motesplats-sa-har-plattan-forandrats",
    "desc": "Sergels torg har nästan sedan dess öppning varit synonymt med öppen droghandel och sociala problem. Men något har tydligt har skett de senast tio åren. I trygghetsmätningar sticker inte längre kvarteren runt Plattan ut."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Person överbord – stor sökinsats i Östersjön",
-   "date": "2026-11-07T02:58:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/person-overbord-sokinsats-pagar",
-   "desc": "En sökinsats pågick under natten mot lördag efter att en person fallit överbord från ett kryssningsfartyg nordost om Kapellskär i Norrtälje kommun."
   },
   {
    "src": "BBC",
