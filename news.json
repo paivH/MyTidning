@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T11:25:33.262Z",
+ "updated": "2026-11-08T17:10:19.947Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "What we know so far after Krakow gun attack",
-   "date": "2026-11-08T11:22:17.000Z",
+   "date": "2026-11-08T14:32:52.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
    "desc": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker."
   },
@@ -44,10 +44,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
+   "title": "Blåvitts supportrar i protestmarsch efter polisinsatsen på derbyt",
+   "date": "2026-11-08T12:12:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/blavitts-supportrar-i-protestmarsch-efter-polisinsatsen-pa-derbyt",
+   "desc": "En vecka efter de våldsamma scenerna på läktaren under derbyt mellan BK Häcken och IFK Göteborg samlades Blåvitts supportrar till en protestmarsch genom centrala Göteborg. Missnöjet riktades mot polisens agerande under matchen."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
    "title": "Rökutveckling på tåg – trafikstopp i Laxå kommun",
    "date": "2026-11-08T11:08:48.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/orebro/rokutveckling-pa-tag-trafikstopp-i-laxa-kommun",
-   "desc": "Just nu står ett tåg med fem vagnar still i Tjuvmossen Laxå kommun på grund av rökutveckling i en av vagnarna."
+   "desc": "Ett tåg med fem vagnar tvingades stanna i Tjuvmossen Laxå kommun på grund av rökutveckling i en av vagnarna. Detta har lett till flertalet tågförseningar under söndagen."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-11-08T08:28:50.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/varmland/brand-i-fabrik-utanfor-amotsfors",
    "desc": "Det brann med öppna lågor på Nordic Papers fabrik i Åmotfors. Det finns inga uppgifter om skadade personer."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Jemen: 33 uppges dödade i attacker",
-   "date": "2026-11-08T07:48:03.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/jemen-33-uppges-dodade-i-attacker",
-   "desc": "Den Iranstödda Huthirörelsen uppger att 33 personer dödats i attacker mot en by strax utanför Jemens huvudstad Sanaa. Nyhetsbyrån Reuters har fått en videoklipp som uppges visa delar av luftanfallen."
   },
   {
    "src": "STHLM",
@@ -108,10 +108,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kraftig brand i idrottshall i Tumba",
+   "title": "Tredje branden i rad vid Broängens sporthall i Tumba: ”Bedrövligt”",
    "date": "2026-11-08T03:02:34.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/kraftig-brand-i-idrottshall-i-tumba-for-andra-gangen",
-   "desc": "Idrottshallen vid Broängsskolan i Tumba, söder om Stockholm, kommer inte att gå att rädda. Räddningstjänsten hade en omfattande insats på platsen efter branden som bröt ut natten mot söndagen. – Vi hade en brand där för cirka nio dagar sen. Nu brinner det i andra delen av sporthallen, säger räddningstjänstens vakthavande befäl Henrik Dewoon-Thorén."
+   "desc": "Idrottshallen vid Broängsskolan i Tumba, söder om Stockholm, gick inte att rädda. Räddningstjänsten hade en omfattande insats på platsen efter branden som bröt ut natten mot söndagen. – Vi hade en brand där för cirka nio dagar sen, säger räddningstjänstens vakthavande befäl Henrik Dewoon-Thorén."
   },
   {
    "src": "STHLM",
