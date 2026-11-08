@@ -1,13 +1,37 @@
 {
- "updated": "2026-11-08T17:10:19.947Z",
+ "updated": "2026-11-08T21:16:49.874Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What we know so far after Krakow gun attack",
-   "date": "2026-11-08T14:32:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker."
+   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "date": "2026-11-08T18:22:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+   "date": "2026-11-08T19:58:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+   "desc": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Homes and temples glow across India to mark Diwali",
+   "date": "2026-11-08T14:42:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+   "desc": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Iran executes three men for 'armed unrest' after January protests",
+   "date": "2026-11-08T13:37:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+   "desc": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
   },
   {
    "src": "BBC",
@@ -18,28 +42,12 @@
    "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-   "date": "2026-11-07T21:36:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-   "desc": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-   "date": "2026-11-07T22:19:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US offers $20m reward for information about Iran's nuclear programme",
-   "date": "2026-11-07T18:14:38.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "BP slog nytt poängrekord – trots Zandéns trippla missar",
+   "date": "2026-11-08T17:27:07.000Z",
+   "link": "https://www.svt.se/sport/fotboll/bp-slog-nytt-poangrekord-trots-zandens-trippla-missar",
+   "desc": "Bästa allsvenska säsongen någonsin. BP har slagit nytt poängrekord i högstaserien."
   },
   {
    "src": "SVT",
@@ -68,18 +76,18 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Poliserna stoppade skytten i Krakow – hyllas som hjältar",
+   "title": "Poliserna stoppade skytten i Kraków – hyllas som hjältar",
    "date": "2026-11-08T09:51:00.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/poliserna-stoppade-skytten-i-krakow-hyllas-som-hjaltar",
-   "desc": "Poliserna Jakub Kulik och Artur Moranski stoppade skytten i Krakow, men träffades av skott under konfrontationen. Båda kämpar nu för sina liv på sjukhus. ”Hela Polen håller tummarna för er”, skriver Donald Tusk på X."
+   "desc": "Poliserna Jakub Kulik och Artur Moranski stoppade skytten i Kraków, men träffades av skott under konfrontationen. Båda kämpar nu för sina liv på sjukhus. ”Hela Polen håller tummarna för er”, skriver Donald Tusk på X."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Brand med öppna lågor på Nordic Paper i Åmotfors",
-   "date": "2026-11-08T08:28:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/brand-i-fabrik-utanfor-amotsfors",
-   "desc": "Det brann med öppna lågor på Nordic Papers fabrik i Åmotfors. Det finns inga uppgifter om skadade personer."
+   "title": "Nyheter från dagen: 8 november",
+   "date": "2026-11-08T19:00:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-8-november-g6jc06",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm söndag 8 november."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,28 @@
    "desc": "Idrottshallen vid Broängsskolan i Tumba, söder om Stockholm, gick inte att rädda. Räddningstjänsten hade en omfattande insats på platsen efter branden som bröt ut natten mot söndagen. – Vi hade en brand där för cirka nio dagar sen, säger räddningstjänstens vakthavande befäl Henrik Dewoon-Thorén."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 7 november",
-   "date": "2026-11-07T18:48:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-7-november-kt362w",
-   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm lördag 7 november."
+   "src": "BBC",
+   "section": "United",
+   "title": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
+   "date": "2026-11-08T20:05:53.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?"
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "'We can't count out relegation'",
+   "date": "2026-11-08T19:37:33.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5j9kmdyd33mo?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd fan Jay Motty believes the club are in genuine relegation trouble despite a late comeback draw against Aston Villa at Old Trafford."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
+   "date": "2026-11-08T18:46:45.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?"
   },
   {
    "src": "BBC",
@@ -136,30 +160,6 @@
    "date": "2026-11-07T12:25:14.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Can we play you every week? The day Southend toppled Man United",
-   "date": "2026-11-07T06:22:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo?at_medium=RSS&at_campaign=rss",
-   "desc": "Southend United's heroes remember their famous victory against Manchester United 20 years on."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Paul Robinson: Glazers statement is 'garbage'",
-   "date": "2026-11-06T22:19:08.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmkgkkp85pwdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Paul Robinson says the Avram Glazers' reported statement on Manchester United is 'garbage' after he said the clubs revenues weren't affected by on-pitch results."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Will changing Carrick fix things for Manchester United?",
-   "date": "2026-11-06T19:09:25.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm5ynnk06gdzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United fans have their say on whether sacking Michael Carrick will change things at the club."
   }
  ]
 }
