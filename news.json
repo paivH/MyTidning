@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T21:16:49.874Z",
+ "updated": "2026-11-09T01:05:22.742Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-   "date": "2026-11-08T18:22:53.000Z",
+   "date": "2026-11-08T23:34:18.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
    "desc": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
   },
@@ -36,10 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Houthis say at least 33 killed in Saudi air strike",
-   "date": "2026-11-08T04:03:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+   "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "date": "2026-11-08T21:37:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Fördel Kristersson eller extraval”",
+   "date": "2026-11-08T21:56:15.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/fordel-kristersson-eller-extraval",
+   "desc": "Magdalena Andersson försöker ta tillbaka det politiska initiativet i regeringsbildningen. Men om Vänsterpartiet står fast vid sina ministerkrav kommer det antingen att leda till att Ulf Kristersson blir statsminister eller extraval."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-11-08T10:46:26.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/skane/larm-om-misstankt-farligt-foremal-i-trapphus-i-malmo",
    "desc": "Larmet om ett misstänkt farligt föremål i ett trapphus i Malmö har avblåsts. Enligt polis på plats var det en leksakshandgranat."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Poliserna stoppade skytten i Kraków – hyllas som hjältar",
-   "date": "2026-11-08T09:51:00.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/poliserna-stoppade-skytten-i-krakow-hyllas-som-hjaltar",
-   "desc": "Poliserna Jakub Kulik och Artur Moranski stoppade skytten i Kraków, men träffades av skott under konfrontationen. Båda kämpar nu för sina liv på sjukhus. ”Hela Polen håller tummarna för er”, skriver Donald Tusk på X."
   },
   {
    "src": "STHLM",
@@ -124,6 +124,22 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
+   "date": "2026-11-08T23:53:20.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
+   "desc": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
+   "date": "2026-11-08T21:50:05.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+   "desc": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?"
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
    "date": "2026-11-08T20:05:53.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
@@ -144,22 +160,6 @@
    "date": "2026-11-08T18:46:45.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'Bruno's as good as ever' - Carrick backs Man Utd captain",
-   "date": "2026-11-07T22:44:20.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is \"undoubted\" and the midfielder is \"as good as ever\"."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "My dream is to win Ballon d'Or - Gabriel",
-   "date": "2026-11-07T12:25:14.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid."
   }
  ]
 }
