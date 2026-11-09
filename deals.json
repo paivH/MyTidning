@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-08T10:52:56.173Z",
+ "updated": "2026-11-09T12:18:53.250Z",
  "verified": false,
  "deals": [
   {
    "store": "ICA",
-   "item": "Färsk laxfilé Norge",
-   "price": "99 kr/kg",
+   "item": "Fläskfilé färsk ca 900g",
+   "price": "79 kr/kg",
    "url": "https://www.ica.se"
   },
   {
    "store": "ICA",
-   "item": "Klyftpotatis 1kg",
-   "price": "15 kr",
+   "item": "Klementiner 1kg nät",
+   "price": "19 kr",
    "url": "https://www.ica.se"
   },
   {
    "store": "Lidl",
-   "item": "Köttfärs blandfärs 800g",
-   "price": "49 kr",
+   "item": "Älgfärs 400g",
+   "price": "59 kr",
    "url": "https://www.lidl.se"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "store": "Rusta",
-   "item": "Adventsstake LED",
-   "price": "79 kr",
+   "item": "Stormljus i glas 3-pack",
+   "price": "49 kr",
    "url": "https://www.rusta.com/se"
   }
  ]
