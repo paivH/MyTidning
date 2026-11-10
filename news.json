@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:23:13.918Z",
+ "updated": "2026-11-10T17:11:32.004Z",
  "items": [
   {
    "src": "BBC",
@@ -12,26 +12,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-   "date": "2026-11-10T09:07:00.000Z",
+   "title": "First day of Ukraine peace talks 'very productive', US says",
+   "date": "2026-11-10T14:36:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February."
+   "desc": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump says more US attacks on Iran 'highly unlikely'",
-   "date": "2026-11-10T05:33:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-   "desc": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-   "date": "2026-11-10T00:14:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-   "desc": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
+   "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+   "date": "2026-11-10T08:39:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks."
   },
   {
    "src": "BBC",
@@ -42,44 +34,68 @@
    "desc": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Lycksele BB håller öppet i jul – första gången på sex år",
-   "date": "2026-11-10T08:48:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/lycksele-bb-haller-oppet-i-jul-forsta-gangen-pa-sex-ar",
-   "desc": "Senaste åren har Lycksele BB tvingats hålla stängt över julen på grund av personalbrist. Men nu kommer Lycksele BB kommer att hålla öppet både över jul och nyår – för första gången på sex år. – Det är den överlägset bästa julklappen, säger Linda Långström, avdelningschef på kvinnoklinken i Lycksele."
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+   "date": "2026-11-10T16:19:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Poseidon måste lagas – för miljoner",
-   "date": "2026-11-10T08:44:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/poseidon-maste-lagas-for-miljoner",
-   "desc": "Ett av Göteborgs mest kända landmärken är illa ute. Bronsstatyn Poseidon måste renoveras – för 20 miljoner kronor, skriver Dagens Nyheter."
+   "title": "Unga om adhd-boomen: ”Jag är väl lite sprallig”",
+   "date": "2026-11-10T16:44:53.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/unga-om-adhd-boomen-jag-ar-val-lite-sprallig",
+   "desc": "Det har skett en stor ökning av antalet unga med adhd, enligt Socialstyrelsens senaste rapport. Idag har omkring 116 000 barn och unga fått diagnosen, enligt siffrorna i rapporten. Seth Bohman, 21, har funderat om han är en av dem. – Ja, kanske det. Man är väl lite sprallig av sig ibland."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Irans ambassadör kallas upp efter franska frysattackerna",
-   "date": "2026-11-10T08:42:13.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/irans-ambassador-kallas-upp-efter-franska-frysattackerna",
-   "desc": "Frankrike kommer att kalla upp Irans ambassadör och efterlyser ”europeiska sanktioner”, uppger Frankrikes utrikesminister Jean-Noël Barrot på tisdagen."
+   "title": "Därför har Palantir-vd:n köpt skogen i Härjedalen – det här är beskedet till kommunen",
+   "date": "2026-11-10T16:16:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/darfor-har-palantir-vdn-kopt-skogen-i-harjedalen-det-har-ar-beskedet-till-kommunen",
+   "desc": "Techmiljardären Alex Karps bolag och Bergs kommun hade på tisdagen ett möte om Palantir-vd:ns skogsköp. Ett möte som gav ett par viktiga besked, fastslår kommunalråd Therese Kärngard (S). Kommunen fick bland annat besked om varför Alex Karp valt att köpa skogen utanför just Storsjö."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lägenhetsbrand i Norrköping – person räddad från balkong",
-   "date": "2026-11-10T08:40:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/lagenhetsbrand-i-norrkoping-gbt87f",
-   "desc": "En person har förts till sjukhus efter att en lägenhetsbrand bröt ut i stadsdelen Hageby, Norrköping. Enligt polisen slog det ut öppna lågor från balkongen i ett första skede. Branden är nu släckt."
+   "title": "Höga elpriser i november: ”Man blir orolig”",
+   "date": "2026-11-10T16:00:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/hoga-elpriser-i-november-man-blir-orolig",
+   "desc": "Elpriserna är just nu höga och snittpriset kan vara nära fyra kronor per kilowattimme i Östergötland, för många kan det nu därför bli en dyr elräkning."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Bohlin (M) håller pressträff om cybersäkerhet efter senaste tidens attacker",
-   "date": "2026-11-10T08:32:46.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/bohlin-m-haller-presstraff-om-cybersakerhet-efter-senaste-tidens-attacker",
-   "desc": "Minister för civilt försvar Carl-Oskar Bohlin (M) håller på tisdagsförmiddagen en pressträff om cybersäkerhet med anledning av den senaste tidens cyberattacker. – Det finns risk att vi ser fler cyberincidenter de kommande månaderna, säger Bohlin."
+   "title": "Centerpartister splittrade om vägval – lutar åt olika håll",
+   "date": "2026-11-10T15:39:05.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/centerpartiets-vagval-vacker-delade-asikter-lutar-at-olika-hall",
+   "desc": "Centerpartiet har hamnat i en vågmästarroll inför den stundande regeringsbildningen. Vilken linje de väljer kan avgöra vilken politisk riktning Sverige kommer att få. Åsikterna kring vägvalet skiljer sig åt på kommunal nivå."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "NSD:s reporter om BDX-härvan: ”Då kommer det bränna till ordentligt”",
+   "date": "2026-11-10T15:24:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/nsds-reporter-om-bdx-harvan-da-kommer-det-branna-till-ordentligt",
+   "desc": "Under tisdagen var NSD:s Jonny Vikström en av journalisterna på plats för att bevaka den första dagen i rätten för de fem som misstänks för att ha lurat BDX på närmare 90 miljoner kronor. Han har följt fallet sedan starten 2024. – Vi förstod ganska snabbt att det här kan vara en riktigt stor historia, säger Vikström."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Upplands-Bros tidigare kommundirektör köps ut – får fem miljoner",
+   "date": "2026-11-10T14:46:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kommundirektoren-kops-ut-far-fem-miljoner",
+   "desc": "Upplands-Bro kommun kommer att betala tidigare kommundirektören Ida Texell fem miljoner kronor i en uppgörelse. Det rapporterar Mitt i."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Sigtunaskolan lägger ner sitt veckointernat",
+   "date": "2026-11-10T13:46:45.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sigtunaskolan-avvecklar-veckointernatet",
+   "desc": "Internatskolan i Sigtuna avvecklar veckointernatet, enligt ett meddelande till föräldrarna som SVT tagit del av. ”Det här är en sedan länge planerad förändring som inte har något med utredningen att göra”, skriver Mazdak Sarvari, internatchef i en kommentar till SVT Nyheter Stockholm. Polisen utreder flera brott mellan elever på skolan, där ett flertal har häktats misstänkta för bland annat misshandel och grovt sexuellt ofredande."
   },
   {
    "src": "STHLM",
@@ -106,28 +122,28 @@
    "desc": "En man i 35-årsåldern åtalas misstänkt för grovt hot mot tjänsteman och grovt brott mot knivlagen efter att ha hotat först högvakten och sedan polisen vid Kungliga slottet. Hans förhoppning var att själv bli skjuten."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Skolan i Tumba tvingas hålla stängt efter omfattande bränderna",
-   "date": "2026-11-09T14:44:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/skolan-i-tumba-haller-stangt-efter-branderna",
-   "desc": "Det har inträffat tre bränder vid Broängsskolan i Tumba den senaste tiden, varav den senaste i helgen utreds som grov mordbrand. På grund av hälsorisker kommer skolan vara stängd i väntan på sanering. Över 800 barn hindras nu från att kunna gå till skolan. – Vi måste prioritera elever och medarbetares hälsa, säger rektor Carina Norberg."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Haya flyttade till Schweiz – svårt att få jobb med utländskt namn",
-   "date": "2026-11-09T04:30:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/haya-flyttade-till-schweiz-svart-att-fa-jobb-med-utlandsk-namn",
-   "desc": "Trots hög utbildning och arbetslivserfarenhet står många utrikesfödda akademiker utan jobb. Återkommande avslag har fått arkitekten Haya Alshahel, 30 år, att flytta utomlands. Idag gör hon praktik på en arkitektbyrå i Schweiz. – Jag har förbrukat all min kraft för att försöka hitta jobb eller praktik i Sverige så jag började söka i andra europeiska länder, säger Haya."
+   "src": "BBC",
+   "section": "United",
+   "title": "How close is Carrick to Man United exit?",
+   "date": "2026-11-10T16:59:28.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cr3elell04q1o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Sports editor Dan Roan looks into when a decision about Michael Carrick's Manchester United future could be made."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Man Utd expected to sack head coach Carrick",
-   "date": "2026-11-09T23:13:31.000Z",
+   "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
+   "date": "2026-11-10T16:17:10.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
+   "desc": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?"
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
+   "date": "2026-11-10T11:23:43.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-   "desc": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years."
+   "desc": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-11-09T17:49:05.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Incident-by-incident: Was it a bad weekend for VAR?",
-   "date": "2026-11-09T14:34:19.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
-   "desc": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Why are Manchester United fans wearing green and gold?",
-   "date": "2026-11-09T12:54:09.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwe8l8y2egk2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Our Ask Me Anything team explain why some Manchester United fans are wearing green and gold to matches."
   }
  ]
 }
