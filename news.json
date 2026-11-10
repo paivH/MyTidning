@@ -1,45 +1,69 @@
 {
- "updated": "2026-11-09T18:59:11.069Z",
+ "updated": "2026-11-10T01:57:02.348Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "France accuses Iran of supermarket fridge hacking",
-   "date": "2026-11-09T16:55:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-   "desc": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up."
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "date": "2026-11-10T01:44:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "date": "2026-11-09T18:11:11.000Z",
+   "date": "2026-11-09T19:58:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
    "desc": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump questions midterm elections integrity after previously accepting results",
-   "date": "2026-11-09T17:47:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump made the claims, without evidence, on Truth Social on Monday."
+   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "date": "2026-11-10T00:09:49.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Turkey steel factory blast kills at least 16 people",
-   "date": "2026-11-09T18:04:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga."
+   "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+   "date": "2026-11-10T00:14:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+   "desc": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "date": "2026-11-09T18:19:19.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-   "desc": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process."
+   "title": "France accuses Iran of supermarket fridge hacking",
+   "date": "2026-11-09T20:20:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Bookerpriset till M John Harrison",
+   "date": "2026-11-09T22:46:58.000Z",
+   "link": "https://www.svt.se/kultur/bookerpriset-till-m-john-harrison",
+   "desc": "Bookerpriset – den engelskspråkiga världens mest prestigefulla litterära utmärkelse – går i år till den brittiske författaren M John Harrison för hans postapokalyptiska science fiction-roman ”The end of everything”."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Ida Gabrielsson pressas om ministerkravet: ”Har diskuterats”",
+   "date": "2026-11-09T22:40:25.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ida-gabrielsson-pressas-om-ministerkravet-har-diskuterats",
+   "desc": "I Aktuellt pressas Ida Gabrielsson (V) på kravet om ministerposter. Hon säger att partiet varit redo att förhandla och prata om allt – till och med ministerkravet. – Det där hade vi fått diskutera ordentligt, säger hon. Strax efter förtydligar hon på X att V inte bytt ståndpunkt."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "De stora frågorna efter skandalen kring Nvidia",
+   "date": "2026-11-09T22:16:27.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/de-stora-fragorna-efter-skandalen-kring-nvidia",
+   "desc": "En otrohetsaffär med misstänkta spionkopplingar har satt teknikjätten Nvidia och vd:n Jensen Huang i centrum för en internationell skandal. Hur allvarligt kan det här bli för bolaget – och vad skulle det innebära för den globala AI-utvecklingen om en av branschens allra viktigaste maktspelare dras in i en kris?"
   },
   {
    "src": "SVT",
@@ -58,28 +82,20 @@
    "desc": "Ett propellerblad har skadats på ett vindkraftverk norr om Hökmora utanför Norberg. Orsaken till haveriet är ännu oklart. – Det är för tidigt att säga någonting, säger Alexander Viinikka, drifttekniker på Energy consult Sverige."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Statsvetare: ”Då kan V överge regeringskravet”",
-   "date": "2026-11-09T16:31:37.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/statsvetare-da-kan-v-overge-regeringskravet",
-   "desc": "Vänsterpartiet kan inte ändra sig i regeringsfrågan, hävdar vice partiledaren Ida Gabrielsson med hänvisning till ett kongressbeslut. Men det stämmer inte, menar statsvetare som SVT pratat med. – Jag tror att det finns mycket som talar för att Vänsterpartiet kan överväga att släppa kravet, säger Jenny Madestam."
+   "title": "Nyheter från dagen: 9 november",
+   "date": "2026-11-09T18:58:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-9-november-9rnidt",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm måndag 9 november."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Misstanke om djurplågeri i tjuvjaktshärvan i Gällivare",
-   "date": "2026-11-09T15:53:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/misstanke-om-djurplageri-i-tjuvjaktsharvan-i-gallivare",
-   "desc": "Nu riktas även misstankar om djurplågeri mot en av de misstänkta i den omfattande tjuvjaktshärvan söder om Gällivare. – Man har hanterat djur som varit påskjutet men inte avlivat, säger åklagare Joseph Ricken."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Kärnkraften ingen fråga för det nya minoritetsstyret i Valdemarsvik",
-   "date": "2026-11-09T15:51:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/karnkraften-ingen-fraga-for-det-nya-minoritetsstyret-i-valdemarsvik",
-   "desc": "Det nya politiska styret i Valdemarsvik har presenterat sitt samarbete för de kommande fyra åren. Det är Moderaterna, Centerpartiet och Kristdemokraterna som enats i ett minoritetsstyre, där kärnkraftsfrågan lämnats utanför."
+   "title": "Obehöriga på polisområde i Solna – en gripen",
+   "date": "2026-11-09T18:57:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisinsats-i-ulriksdal-i-solna-obehoriga-pa-polisomrade",
+   "desc": "En man har gripits efter en polisinsats i Ulriksdal i Solna. Han hade tagit sig in på polisens utbildningsplats Sörentorp, som är ett skyddsobjekt. – Man hamnar inte där av misstag, säger Mats Eriksson på polisen."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "Trots hög utbildning och arbetslivserfarenhet står många utrikesfödda akademiker utan jobb. Återkommande avslag har fått arkitekten Haya Alshahel, 30 år, att flytta utomlands. Idag gör hon praktik på en arkitektbyrå i Schweiz. – Jag har förbrukat all min kraft för att försöka hitta jobb eller praktik i Sverige så jag började söka i andra europeiska länder, säger Haya."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 8 november",
-   "date": "2026-11-08T19:00:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-8-november-g6jc06",
-   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm söndag 8 november."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "17-åring lurade äldre – utgav sig för att vara polis",
-   "date": "2026-11-08T06:30:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/17-aring-lurade-aldre-utgav-sig-for-att-vara-polis",
-   "desc": "Tre äldre kvinnor blev lurade att lämna ifrån sig sina värdesaker, när bedragarna utgav sig att vara från polisen. Och det var en 17-årig tjej som planerade det hela. Nu har hon dömts för grovt bedrägeri."
+   "src": "BBC",
+   "section": "United",
+   "title": "Man Utd expected to sack head coach Carrick",
+   "date": "2026-11-09T23:13:31.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+   "desc": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-09T12:54:09.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwe8l8y2egk2o?at_medium=RSS&at_campaign=rss",
    "desc": "Our Ask Me Anything team explain why some Manchester United fans are wearing green and gold to matches."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Has Michael Carrick’s time finally run out?",
-   "date": "2026-11-09T10:11:30.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck3wvwe27y7zo?at_medium=RSS&at_campaign=rss",
-   "desc": "Would Michael Carrick still be at Man Utd if he wasn’t a club legend?"
   }
  ]
 }
