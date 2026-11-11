@@ -1,45 +1,53 @@
 {
- "updated": "2026-11-11T17:39:49.448Z",
+ "updated": "2026-11-11T23:59:11.874Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Spain sees widespread disruption in first general strike for 14 years",
-   "date": "2026-11-11T14:06:27.000Z",
+   "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+   "date": "2026-11-11T22:07:37.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections."
+   "desc": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+   "date": "2026-11-11T23:52:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-   "date": "2026-11-11T15:05:11.000Z",
+   "date": "2026-11-11T18:04:58.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
    "desc": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-   "date": "2026-11-11T16:45:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-   "date": "2026-11-11T12:30:29.000Z",
+   "date": "2026-11-11T18:38:45.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked."
+   "desc": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-   "date": "2026-11-11T16:59:34.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces."
+   "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+   "date": "2026-11-11T16:38:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+   "desc": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Ryssland dribblar bort Europa”",
+   "date": "2026-11-11T21:23:07.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ryssland-dribblar-bort-europa",
+   "desc": "På fredsfronten intet nytt. Förväntningarna på trepartssamtalen i Abu Dhabi var låga och tonen efter att de avslutats försiktigt optimistisk – men vilken part har egentligen flyttat fram sina positioner?"
   },
   {
    "src": "SVT",
@@ -74,12 +82,20 @@
    "desc": "Tränare Jani Honkavaara fick sparken. Beskedet nådde Djurgårdens lagkapten minuter före offentliggörandet. – Det är förvånande, säger SVT Sports expert Magnus Eriksson."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Lessebo Paper tvingas pausa produktionen på grund av elpriserna",
-   "date": "2026-11-11T15:59:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/lessebo-paper-tvingas-pausa-produktionen-pa-grund-av-elpriserna",
-   "desc": "De höga elpriserna får konsekvenser för svensk industri. På Lessebo Paper har elkostnaderna blivit så höga att företaget tvingas pausa produktionen under hittills sex dagar. I måndags hade de ett så pass högt elpris som 390 000 kronor för en dags produktion."
+   "title": "Nyheter från dagen: 11 november",
+   "date": "2026-11-11T19:00:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-11-november-kotdo4",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm onsdagen 11 november."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Man död i MC-olycka",
+   "date": "2026-11-11T18:03:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-i-mc-olycka-l181q2",
+   "desc": "En man i 60-årsåldern har omkommit efter en motorcykelolycka som inträffade vid 13-tiden på onsdagen i Vaxholm."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,20 @@
    "desc": "Tidigt under onsdagsmorgonen fick polisen ett larm gällande en man som tagit sig in i en lägenhet i Haninge."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Sex tonåringar häktade för misstänkt gruppvåldtäkt i Märsta",
-   "date": "2026-11-11T06:25:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-tonaringar-haktad-for-misstankt-gruppvaldtakt-i-marsta",
-   "desc": "Förra veckan häktades sex tonåringar misstänkta för en gruppvåldtäkt som ska ha ägt rum i mars i Märsta."
+   "src": "BBC",
+   "section": "United",
+   "title": "Man Utd job 'always been present' for Pochettino",
+   "date": "2026-11-11T18:54:54.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c8wy5xgnezrxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Spanish football expert Guillem Balague says Manchester United has always been a dream job for Mauricio Pochettino."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Generationsskiftet: Hundratusentals småhus har stora renoveringsbehov",
-   "date": "2026-11-11T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/generationsskiftet-hundratusentals-smahus-har-stora-renoveringsbehov",
-   "desc": "Det pågår ett omfattande generationsskifte på småhusmarknaden – där de yngre köparna kommer att behöva hantera seniorernas stora renoveringsskuld, enligt en ny rapport."
+   "src": "BBC",
+   "section": "United",
+   "title": "Is Carrick to blame for Man Utd's problems?",
+   "date": "2026-11-11T18:24:10.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cvze758n7rx5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United fans outside Old Trafford shared their thoughts on whether Michael Carrick is to blame for problems at the club."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-11-11T12:58:17.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
    "desc": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Matchday urinating raised in views over new Man Utd stadium",
-   "date": "2026-11-11T12:53:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c95y15g244g6o?at_medium=RSS&at_campaign=rss",
-   "desc": "Residents express concerns over current anti-social behaviour amid plans to build a new bigger ground."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Robinson unfazed by Pochettino departure talk",
-   "date": "2026-11-11T09:54:38.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
-   "desc": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign."
   }
  ]
 }
