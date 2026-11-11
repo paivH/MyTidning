@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-10T22:27:27.221Z",
+ "updated": "2026-11-11T02:05:49.914Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+   "date": "2026-11-11T01:01:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+   "desc": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US Army soldier suspected of spying for Russia arrested in UK",
+   "date": "2026-11-10T20:20:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+   "desc": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+   "date": "2026-11-11T01:14:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+   "desc": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,42 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-   "date": "2026-11-10T18:33:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-   "desc": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israel's new parliament sworn in as leaders compete to form government",
-   "date": "2026-11-10T17:03:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-   "date": "2026-11-10T19:26:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-   "desc": "Supporters of Sheikh Hasina want her to return from exile in India."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Spain's king and queen attend memorial service for rail crash victims",
-   "date": "2026-11-10T20:46:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-   "desc": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital."
+   "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+   "date": "2026-11-11T00:18:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+   "desc": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Flyglarm vid Belarusgränsen – invånare i Lettland uppmanas söka skydd",
+   "title": "Larm om lufthot i Baltikum",
    "date": "2026-11-10T22:12:57.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/flyglarm-vid-belarusgransen-invanare-i-lettland-uppmanas-soka-skydd",
-   "desc": "Invånare i Ludza-regionen i östra Lettland, nära gränsen till Belarus, har uppmanats att ta sig till skyddsrum efter ett hot mot landets luftrum, enligt Reuters."
+   "desc": "En oidentifierad drönare flyger i litauiskt luftrum, uppger landets nationella krishanteringscenter. Invånare i regionerna Marijampolė och Kaunas uppmanas att söka skydd."
   },
   {
    "src": "SVT",
