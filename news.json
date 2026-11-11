@@ -1,85 +1,101 @@
 {
- "updated": "2026-11-11T09:41:59.691Z",
+ "updated": "2026-11-11T17:39:49.448Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Spain sees widespread disruption in first general strike for 14 years",
+   "date": "2026-11-11T14:06:27.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+   "date": "2026-11-11T15:05:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+   "date": "2026-11-11T16:45:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+   "date": "2026-11-11T12:30:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-   "date": "2026-11-11T01:01:20.000Z",
+   "date": "2026-11-11T16:59:34.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
    "desc": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-   "date": "2026-11-11T03:26:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-   "date": "2026-11-11T02:41:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-   "desc": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-   "date": "2026-11-11T00:19:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-   "date": "2026-11-11T02:47:59.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-   "desc": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Detta vet vi om Alice Huang",
+   "date": "2026-11-11T17:03:54.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/detta-vet-vi-om-alice-huang",
+   "desc": "Nvidia-vd:ns otrohetsaffär har skakat om techvärlden sedan kvinnan som setts vid hans sida i flera år anklagats av de amerikanska myndigheterna för spioneri. Enligt de senaste uppgifterna går relationen längre bak i tiden än tidigare varit känt."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Larm om explosion i Norrköping",
-   "date": "2026-11-11T08:58:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/larm-om-explosion-i-norrkoping",
-   "desc": "Räddningstjänst, polis och ambulans larmades till Schalegatan i Norrköping efter att en inringare hört en explosion vid ett trapphus och sett rök."
+   "title": "Singlar mår bättre: ”Vänskap är den största kärleken”",
+   "date": "2026-11-11T16:55:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/singlar-mar-battre-vanskap-ar-den-storsta-karleken",
+   "desc": "Den 11/11 är det ”Singeldagen”. En dag som marknadsförs av företag och som har vuxit till en av världens största shoppingdagar, med uppmuntran att ”sätta sig själv först”. – Jag tycker att man måste vara singel emellanåt. Man behöver både relationer och tid som singel för att kunna utvecklas, säger singeln Anna Tibbling."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Aris mäktiga tur i Kiruna – ser botten under skridskorna",
-   "date": "2026-11-11T08:38:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/aris-maktiga-tur-i-kiruna-ser-botten-under-skridskorna",
-   "desc": "Ari Hultqvist är ansvarig för Friluftsfrämjandets skridskoverksamhet i hela Sverige. Och redan för en månad sedan tog han säsongens första skär på sjön Ladtjojaure. – Isen var som en glasskiva, säger han till SVT."
+   "title": "De är bäst i Sverige på hållbarhet – barnen visar vägen",
+   "date": "2026-11-11T16:45:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/de-ar-bast-i-sverige-pa-hallbarhet-barnen-visar-vagen",
+   "desc": "På Hansgårdens förskola står barnen själva i centrum för hållbarhetsarbetet. Genom demokratiska omröstningar, odling och återbruk har de fått lära sig hur små handlingar kan göra skillnad. Nu belönas arbetet med utmärkelsen Årets hållbara förskola."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Så gick misstänkta tortyren på Haga i Umeå till – se motivet bakom",
-   "date": "2026-11-11T08:38:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/sa-gick-misstankta-tortyren-pa-haga-i-umea-till-se-motivet-bakom",
-   "desc": "En man torterades brutalt i en lägenhet på Haga i Umeå en hel natt, enligt åtalet. Han överlevde men misstänks ha utsatts för ett grovt våld med bland annat skendränkningar. I videon ser du vad som misstänkts vara motivet bakom mardrömsnatten."
+   "title": "Magnus Eriksson om spelarchocken i Djurgården: ”Det är förvånande”",
+   "date": "2026-11-11T16:21:12.000Z",
+   "link": "https://www.svt.se/sport/fotboll/magnus-eriksson-om-spelarchocken-i-djurgarden-det-ar-forvanande",
+   "desc": "Tränare Jani Honkavaara fick sparken. Beskedet nådde Djurgårdens lagkapten minuter före offentliggörandet. – Det är förvånande, säger SVT Sports expert Magnus Eriksson."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tåg med farligt gods har spårat ur utanför Norrköping",
-   "date": "2026-11-11T08:06:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/tagursparning-utanfor-norrkoping",
-   "desc": "Ett godståg har spårat ur i Skärblacka utanför Norrköping. – Det farliga godset står kvar på spåret, men det kan bli lite problematiskt vid bärgning, säger Johnny Gustavsson, presstalesperson hos polisregion Öst."
+   "title": "Lessebo Paper tvingas pausa produktionen på grund av elpriserna",
+   "date": "2026-11-11T15:59:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/lessebo-paper-tvingas-pausa-produktionen-pa-grund-av-elpriserna",
+   "desc": "De höga elpriserna får konsekvenser för svensk industri. På Lessebo Paper har elkostnaderna blivit så höga att företaget tvingas pausa produktionen under hittills sex dagar. I måndags hade de ett så pass högt elpris som 390 000 kronor för en dags produktion."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Jättetalangen Philip Lindkvist Flötten väcker reaktioner",
-   "date": "2026-11-11T07:46:14.000Z",
-   "link": "https://www.svt.se/sport/skidskytte/jattetalangen-philip-lindkvist-flotten-vacker-reaktioner",
-   "desc": "Jättetalangen Philip Lindkvist Flötten är redan omtalad i skidskyttevärlden. Han väcker reaktioner även i det svenska landslaget. – Ingenting verkar bekomma honom, säger Anna Magnusson."
+   "title": "Politiker i Tyresö döms för misshandel",
+   "date": "2026-11-11T16:43:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiker-i-tyreso-doms-for-misshandel",
+   "desc": "Lokalpolitikern Erik Kainulainen i Tyresö döms för ringa misshandel av en närstående, rapporterar Mitt i. – Jag tar böterna och så stänger jag dörren till det förflutna och fokuserar framåt, säger han till tidningen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Så påverkas du som stockholmare av stadens nya budget",
+   "date": "2026-11-11T15:47:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-paverkas-du-som-stockholmare-av-stadens-nya-budget",
+   "desc": "SVT har samlat tre av de största förändringarna i Stockholms stads nya budget. Se Miljöpartiets satsning, Vänsterpartiets krav och Socialdemokraternas löfte i klippet."
   },
   {
    "src": "STHLM",
@@ -106,60 +122,44 @@
    "desc": "Det pågår ett omfattande generationsskifte på småhusmarknaden – där de yngre köparna kommer att behöva hantera seniorernas stora renoveringsskuld, enligt en ny rapport."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 10 november",
-   "date": "2026-11-10T18:58:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-10-november-qzdiiy",
-   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm tisdag 10 november."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Polisen gör om sitt sätt att arbeta: ”Ska klara upp fler mängdbrott”",
-   "date": "2026-11-10T18:57:46.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisen-gor-om-sitt-satt-att-arbeta-ska-klara-upp-fler-mangdbrott",
-   "desc": "Polisen ska kunna utreda mer direkt på plats, bland annat genom att säkra bevis, hålla förhör och vidta mer omfattande förstahandsåtgärder. – Det kommer att ge oss en riktigt, riktigt bra start på utredningen, säger Mikael Jonsson, lokalpolisområdeschef på Lidingö och Kungsholmen."
+   "src": "BBC",
+   "section": "United",
+   "title": "'A fantastic coach' - Kane on Pochettino",
+   "date": "2026-11-11T17:18:42.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cw98756j41djo?at_medium=RSS&at_campaign=rss",
+   "desc": "England captain Harry Kane heaped praise on former head coach Mauricio Pochettino following reports the Argentine is ready to accept an offer to become the next Manchester United boss."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Man Utd open talks with Pochettino about replacing Carrick",
-   "date": "2026-11-11T09:11:28.000Z",
+   "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+   "date": "2026-11-11T16:03:02.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job."
+   "desc": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Who makes the decisions at Manchester United?",
-   "date": "2026-11-11T08:26:01.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6y939708zxno?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sport explains who makes the key football and business decisions at Manchester United."
+   "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+   "date": "2026-11-11T12:58:17.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+   "desc": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
-   "date": "2026-11-10T18:12:02.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach"
+   "title": "Matchday urinating raised in views over new Man Utd stadium",
+   "date": "2026-11-11T12:53:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c95y15g244g6o?at_medium=RSS&at_campaign=rss",
+   "desc": "Residents express concerns over current anti-social behaviour amid plans to build a new bigger ground."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "How close is Carrick to Man United exit?",
-   "date": "2026-11-10T16:59:28.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cr3elell04q1o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sports editor Dan Roan looks into when a decision about Michael Carrick's Manchester United future could be made."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
-   "date": "2026-11-10T16:17:10.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
-   "desc": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?"
+   "title": "Robinson unfazed by Pochettino departure talk",
+   "date": "2026-11-11T09:54:38.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
+   "desc": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign."
   }
  ]
 }
