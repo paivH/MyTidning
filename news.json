@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:05:49.914Z",
+ "updated": "2026-11-11T09:41:59.691Z",
  "items": [
   {
    "src": "BBC",
@@ -12,16 +12,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US Army soldier suspected of spying for Russia arrested in UK",
-   "date": "2026-11-10T20:20:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-   "desc": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-   "date": "2026-11-11T01:14:40.000Z",
+   "date": "2026-11-11T03:26:42.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
    "desc": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
   },
@@ -29,57 +21,89 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-   "date": "2026-11-10T22:17:45.000Z",
+   "date": "2026-11-11T02:41:16.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
    "desc": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-   "date": "2026-11-11T00:18:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-   "desc": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
+   "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+   "date": "2026-11-11T00:19:42.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+   "desc": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+   "date": "2026-11-11T02:47:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+   "desc": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Larm om lufthot i Baltikum",
-   "date": "2026-11-10T22:12:57.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/flyglarm-vid-belarusgransen-invanare-i-lettland-uppmanas-soka-skydd",
-   "desc": "En oidentifierad drönare flyger i litauiskt luftrum, uppger landets nationella krishanteringscenter. Invånare i regionerna Marijampolė och Kaunas uppmanas att söka skydd."
+   "title": "Larm om explosion i Norrköping",
+   "date": "2026-11-11T08:58:30.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/larm-om-explosion-i-norrkoping",
+   "desc": "Räddningstjänst, polis och ambulans larmades till Schalegatan i Norrköping efter att en inringare hört en explosion vid ett trapphus och sett rök."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ministern har opererats för bröstcancer",
-   "date": "2026-11-10T21:50:19.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ministern-har-opererats-for-brostcancer",
-   "desc": "Jämställdhetsminister Nina Larsson (L) har drabbats av bröstcancer. Tumören upptäcktes veckan efter valet berättar hon för tidningen Femina."
+   "title": "Aris mäktiga tur i Kiruna – ser botten under skridskorna",
+   "date": "2026-11-11T08:38:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/aris-maktiga-tur-i-kiruna-ser-botten-under-skridskorna",
+   "desc": "Ari Hultqvist är ansvarig för Friluftsfrämjandets skridskoverksamhet i hela Sverige. Och redan för en månad sedan tog han säsongens första skär på sjön Ladtjojaure. – Isen var som en glasskiva, säger han till SVT."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Jimmie Åkesson vill vara oppositionsparti i mitten",
-   "date": "2026-11-10T21:32:35.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-vill-vara-oppositionsparti-i-mitten",
-   "desc": "Jimmie Åkesson vill att Sverigedemokraterna ska vara ett oppositionsparti, men inte utan inflytande. I Aktuellt säger SD-ledaren att partiet kan förhandla med både höger och vänster, men inte ingå budgetavtal i förväg. – Vill man ha stöd för sin politik i riksdagen är vi öppna för att förhandla, säger Åkesson."
+   "title": "Så gick misstänkta tortyren på Haga i Umeå till – se motivet bakom",
+   "date": "2026-11-11T08:38:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/sa-gick-misstankta-tortyren-pa-haga-i-umea-till-se-motivet-bakom",
+   "desc": "En man torterades brutalt i en lägenhet på Haga i Umeå en hel natt, enligt åtalet. Han överlevde men misstänks ha utsatts för ett grovt våld med bland annat skendränkningar. I videon ser du vad som misstänkts vara motivet bakom mardrömsnatten."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "De lämnade Kyjiv för säkerhet på landet – då skakar fönsterrutorna",
-   "date": "2026-11-10T19:03:38.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/de-lamnade-kyjiv-for-sakerhet-pa-landet-da-skakar-fonsterrutorna",
-   "desc": "Attackerna mot Ukrainas energiinfrastruktur riskerar att bli en humanitär katastrof. Och bristen på el och vatten får många Kyjivbor att lämna sina hem och söka trygghet på landet. SVT besöker Dmytro och Jevhenija som flyttade tillsammans med sin bebis – men smällarna tre kilometer bort skakar ändå fönsterrutorna."
+   "title": "Tåg med farligt gods har spårat ur utanför Norrköping",
+   "date": "2026-11-11T08:06:01.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/tagursparning-utanfor-norrkoping",
+   "desc": "Ett godståg har spårat ur i Skärblacka utanför Norrköping. – Det farliga godset står kvar på spåret, men det kan bli lite problematiskt vid bärgning, säger Johnny Gustavsson, presstalesperson hos polisregion Öst."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Lastbil och personbil i kollision på E4 norr om Husum",
-   "date": "2026-11-10T17:54:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/lastbil-och-personbil-i-kollision-pa-e4-i-ornskoldsvik",
-   "desc": "En personbil och en lastbil kolliderade på E4 i höjd med Grundsunda, norr om Husum, på tisdagskvällen. Södergående riktning var blockerad under bärgningsarbetet, och öppnades vid 21-tiden."
+   "title": "Jättetalangen Philip Lindkvist Flötten väcker reaktioner",
+   "date": "2026-11-11T07:46:14.000Z",
+   "link": "https://www.svt.se/sport/skidskytte/jattetalangen-philip-lindkvist-flotten-vacker-reaktioner",
+   "desc": "Jättetalangen Philip Lindkvist Flötten är redan omtalad i skidskyttevärlden. Han väcker reaktioner även i det svenska landslaget. – Ingenting verkar bekomma honom, säger Anna Magnusson."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Man tog sig in i kvinnas lägenhet i Haninge",
+   "date": "2026-11-11T07:00:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-tog-sig-in-i-kvinnas-lagenhet",
+   "desc": "Tidigt under onsdagsmorgonen fick polisen ett larm gällande en man som tagit sig in i en lägenhet i Haninge."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Sex tonåringar häktade för misstänkt gruppvåldtäkt i Märsta",
+   "date": "2026-11-11T06:25:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-tonaringar-haktad-for-misstankt-gruppvaldtakt-i-marsta",
+   "desc": "Förra veckan häktades sex tonåringar misstänkta för en gruppvåldtäkt som ska ha ägt rum i mars i Märsta."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Generationsskiftet: Hundratusentals småhus har stora renoveringsbehov",
+   "date": "2026-11-11T04:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/generationsskiftet-hundratusentals-smahus-har-stora-renoveringsbehov",
+   "desc": "Det pågår ett omfattande generationsskifte på småhusmarknaden – där de yngre köparna kommer att behöva hantera seniorernas stora renoveringsskuld, enligt en ny rapport."
   },
   {
    "src": "STHLM",
@@ -98,28 +122,20 @@
    "desc": "Polisen ska kunna utreda mer direkt på plats, bland annat genom att säkra bevis, hålla förhör och vidta mer omfattande förstahandsåtgärder. – Det kommer att ge oss en riktigt, riktigt bra start på utredningen, säger Mikael Jonsson, lokalpolisområdeschef på Lidingö och Kungsholmen."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Gratis SL-kort till gymnasieungdomar",
-   "date": "2026-11-10T18:26:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/gratis-sl-kort-till-gymnasieungdomar",
-   "desc": "Alla gymnasieelever som bor i Stockholm kommer få ett gratis SL-kort, med start hösten 2027. Det meddelar Socialdemokraterna i den nya budgeten."
+   "src": "BBC",
+   "section": "United",
+   "title": "Man Utd open talks with Pochettino about replacing Carrick",
+   "date": "2026-11-11T09:11:28.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Upplands-Bros tidigare kommundirektör köps ut – får fem miljoner",
-   "date": "2026-11-10T14:46:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kommundirektoren-kops-ut-far-fem-miljoner",
-   "desc": "Upplands-Bro kommun kommer att betala tidigare kommundirektören Ida Texell fem miljoner kronor i en uppgörelse. Det rapporterar Mitt i."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Sigtunaskolan lägger ner sitt veckointernat",
-   "date": "2026-11-10T13:46:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sigtunaskolan-avvecklar-veckointernatet",
-   "desc": "Internatskolan i Sigtuna avvecklar veckointernatet, enligt ett meddelande till föräldrarna som SVT tagit del av. ”Det här är en sedan länge planerad förändring som inte har något med utredningen att göra”, skriver Mazdak Sarvari, internatchef i en kommentar till SVT Nyheter Stockholm. Polisen utreder flera brott mellan elever på skolan, där ett flertal har häktats misstänkta för bland annat misshandel och grovt sexuellt ofredande."
+   "src": "BBC",
+   "section": "United",
+   "title": "Who makes the decisions at Manchester United?",
+   "date": "2026-11-11T08:26:01.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6y939708zxno?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Sport explains who makes the key football and business decisions at Manchester United."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-11-10T16:17:10.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
    "desc": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Carrick's Man Utd future to be decided as Berrada and Wilcox retain support",
-   "date": "2026-11-10T11:23:43.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Michael Carrick's future will be discussed at a meeting on Wednesday, but executives Omar Berrada and Jason Wilcox retain the support of minority owner Sir Jim Ratcliffe."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Commentator reacts to Dorgu's late equaliser",
-   "date": "2026-11-09T18:42:16.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckq5n5309692o?at_medium=RSS&at_campaign=rss",
-   "desc": "Ali Bruce-Ball reacts to Patrick Dorgu's late Manchester United equaliser to give them a point against Aston Villa."
   }
  ]
 }
