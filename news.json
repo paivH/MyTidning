@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-11T23:59:11.874Z",
+ "updated": "2026-11-12T06:54:29.918Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+   "date": "2026-11-12T05:59:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+   "desc": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "date": "2026-11-12T04:00:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+   "date": "2026-11-12T06:12:05.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "desc": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "New York building collapse kills at least two, officials say",
+   "date": "2026-11-12T05:12:56.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+   "desc": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -10,76 +42,60 @@
    "desc": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
-   "date": "2026-11-11T23:52:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-   "date": "2026-11-11T18:04:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-   "date": "2026-11-11T18:38:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-   "date": "2026-11-11T16:38:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-   "desc": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vild kommentering efter Nils Höglanders mål: ”Oj, herregud – vilket avslut”",
+   "date": "2026-11-12T06:41:42.000Z",
+   "link": "https://www.svt.se/sport/ishockey/vild-kommentering-efter-nils-hoglanders-mal-oj-herregud-vilket-avslut",
+   "desc": "Nashville vann i Anaheim med 4–2 – efter ett konstmål av Nils Höglander. Kommentorn blev alldeles vild. – Oj, herregud – vilket avslut, utbrister han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "”Ryssland dribblar bort Europa”",
-   "date": "2026-11-11T21:23:07.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/ryssland-dribblar-bort-europa",
-   "desc": "På fredsfronten intet nytt. Förväntningarna på trepartssamtalen i Abu Dhabi var låga och tonen efter att de avslutats försiktigt optimistisk – men vilken part har egentligen flyttat fram sina positioner?"
+   "title": "Voltad bil och inställda bussturer",
+   "date": "2026-11-12T06:34:23.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/voltad-bil-och-installda-bussturer",
+   "desc": "Det senaste dygnet har bjudit på vinterns första riktiga i större delen av länet – vilket fått konsekvenser i trafiken. Just före klockan 7 onsdag inträffade en singelolycka på E 14 i Optand utanför Östersund. Samtidigt meddelar Länstrafiken att de varit tvungen att ställa in några turer under morgonen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Detta vet vi om Alice Huang",
-   "date": "2026-11-11T17:03:54.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/detta-vet-vi-om-alice-huang",
-   "desc": "Nvidia-vd:ns otrohetsaffär har skakat om techvärlden sedan kvinnan som setts vid hans sida i flera år anklagats av de amerikanska myndigheterna för spioneri. Enligt de senaste uppgifterna går relationen längre bak i tiden än tidigare varit känt."
+   "title": "Filmfestivalen har daddy issues: ”många filmer om pappor i år”",
+   "date": "2026-11-12T06:00:04.000Z",
+   "link": "https://www.svt.se/kultur/filmfestivalen-har-daddy-issues-manga-filmer-om-pappor-i-ar",
+   "desc": "SVT Kulturnyheterna var på plats på invigningen av Stockholms filmfestival. Programchefen Beatrice Karlsson tipsar om filmer man inte får missa."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Singlar mår bättre: ”Vänskap är den största kärleken”",
-   "date": "2026-11-11T16:55:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/singlar-mar-battre-vanskap-ar-den-storsta-karleken",
-   "desc": "Den 11/11 är det ”Singeldagen”. En dag som marknadsförs av företag och som har vuxit till en av världens största shoppingdagar, med uppmuntran att ”sätta sig själv först”. – Jag tycker att man måste vara singel emellanåt. Man behöver både relationer och tid som singel för att kunna utvecklas, säger singeln Anna Tibbling."
+   "title": "Oscarstippad Malkovich morfinberoende spion i öppningsfilmen ”Wild Horse Nine”",
+   "date": "2026-11-12T06:00:04.000Z",
+   "link": "https://www.svt.se/kultur/oscarstippad-malkovich-morfinberoende-spion-i-oppningsfilmen-wild-horse-nine",
+   "desc": "Stockholms filmfestival är igång. Mellan 11-22 november visas över 130 filmer från ett 60-tal länder."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "De är bäst i Sverige på hållbarhet – barnen visar vägen",
-   "date": "2026-11-11T16:45:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/de-ar-bast-i-sverige-pa-hallbarhet-barnen-visar-vagen",
-   "desc": "På Hansgårdens förskola står barnen själva i centrum för hållbarhetsarbetet. Genom demokratiska omröstningar, odling och återbruk har de fått lära sig hur små handlingar kan göra skillnad. Nu belönas arbetet med utmärkelsen Årets hållbara förskola."
+   "title": "Trafikolycka i Fittja – långa köer",
+   "date": "2026-11-12T05:58:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-i-fittja-langa-koer",
+   "desc": "Fyra personbilar har krockat och två körfält är avstängda. En person är lindrigt skadad."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Magnus Eriksson om spelarchocken i Djurgården: ”Det är förvånande”",
-   "date": "2026-11-11T16:21:12.000Z",
-   "link": "https://www.svt.se/sport/fotboll/magnus-eriksson-om-spelarchocken-i-djurgarden-det-ar-forvanande",
-   "desc": "Tränare Jani Honkavaara fick sparken. Beskedet nådde Djurgårdens lagkapten minuter före offentliggörandet. – Det är förvånande, säger SVT Sports expert Magnus Eriksson."
+   "title": "Trafikolycka i Fittja – långa köer",
+   "date": "2026-11-12T05:58:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-i-fittja-langa-koer",
+   "desc": "Fyra personbilar har krockat och två körfält är avstängda. En person är lindrigt skadad."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Personal på hunddagis larmar: ”Skulle ljuga för hundägarna”",
+   "date": "2026-11-12T04:51:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/personal-pa-hunddagis-larmar-skulle-ljuga-for-hundagarna",
+   "desc": "Uteblivna promenader, hundar som lämnas ensamma och problem som döljs för hundägare. Sju tidigare anställda på hunddagisföretaget Dog care vittnar nu om brister i verksamheten. – Vi uppmuntrades att ljuga, säger hundskötaren Hanna Ragne. Företagets vd nekar till uppgifterna."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-11-11T16:43:25.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/politiker-i-tyreso-doms-for-misshandel",
    "desc": "Lokalpolitikern Erik Kainulainen i Tyresö döms för ringa misshandel av en närstående, rapporterar Mitt i. – Jag tar böterna och så stänger jag dörren till det förflutna och fokuserar framåt, säger han till tidningen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Så påverkas du som stockholmare av stadens nya budget",
-   "date": "2026-11-11T15:47:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-paverkas-du-som-stockholmare-av-stadens-nya-budget",
-   "desc": "SVT har samlat tre av de största förändringarna i Stockholms stads nya budget. Se Miljöpartiets satsning, Vänsterpartiets krav och Socialdemokraternas löfte i klippet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man tog sig in i kvinnas lägenhet i Haninge",
-   "date": "2026-11-11T07:00:58.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-tog-sig-in-i-kvinnas-lagenhet",
-   "desc": "Tidigt under onsdagsmorgonen fick polisen ett larm gällande en man som tagit sig in i en lägenhet i Haninge."
   },
   {
    "src": "BBC",
