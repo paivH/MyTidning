@@ -1,27 +1,27 @@
 {
- "updated": "2026-11-12T15:44:29.537Z",
+ "updated": "2026-11-12T22:01:12.660Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-   "date": "2026-11-12T15:16:39.000Z",
+   "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+   "date": "2026-11-12T21:00:42.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "desc": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
+   "desc": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-   "date": "2026-11-12T13:02:46.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-   "desc": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
+   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "date": "2026-11-12T20:09:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+   "desc": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-   "date": "2026-11-12T12:39:39.000Z",
+   "date": "2026-11-12T19:23:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
    "desc": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
   },
@@ -36,50 +36,66 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-   "date": "2026-11-12T15:18:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-   "desc": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
+   "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+   "date": "2026-11-12T18:47:35.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+   "desc": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Unga män är sämst på att donera blod – Omar, 25, ”Aldrig tänkt på det”",
-   "date": "2026-11-12T15:01:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/unga-man-ar-samst-pa-att-donera-blod-aldrig-tankt-pa-det",
-   "desc": "Andelen svenskar som ger blod minskar. I grupperna som donerar blod sticker unga män ut – med sin frånvaro. – Det är inte bara vi här i Västmanland, hela Sverige skriker efter unga killar, säger Gitte Johansson, processledare blodgivarvård i Region Västmanland."
+   "title": "V-väljare: Hellre regering utan Vänsterpartiet än extraval",
+   "date": "2026-11-12T20:07:45.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
+   "desc": "V-väljare ser helst en rödgrön fyrpartiregering – men om valet står mellan ett extraval eller stå utanför en regering med S, MP och C, då föredrar de det senare. Det visar en mätning som Indikator opinion gjort för SVT:s räkning. – Undersökningen visar att det finns en tydlig beredskap att acceptera andra lösningar, säger opinionschefen Per Oleskog-Tryggvason."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Alexander Isak snuvades på straff i stormötet: ”Surt”",
-   "date": "2026-11-12T15:00:56.000Z",
-   "link": "https://www.svt.se/sport/fotboll/alexander-isak-snuvades-pa-straff-i-stormotet-surt",
-   "desc": "Alexander Isak rånades på en straff. Borde han ha lagt sig i samband med situationen? – Man funderar själv på om man kunde gjort något annorlunda, säger han till SVT Sport."
+   "title": "Hjalmar Ekdal om mardrömsstarten: ”Galet”",
+   "date": "2026-11-12T19:15:51.000Z",
+   "link": "https://www.svt.se/sport/fotboll/hjalmar-ekdal-om-mardromsstarten-galet",
+   "desc": "Burnley ramlade ur Premier League. Nu huserar man i botten av Championship. – Det är galet, säger landslagsbacken Hjalmar Ekdal till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Villabrand i Luleå: ”Huset går inte att rädda”",
-   "date": "2026-11-12T14:10:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/villabrand-i-lulea-huset-gar-inte-att-radda",
-   "desc": "En villa står i lågor på Hällbacken i Luleå. – Huset går inte att rädda, säger larmoperatören vid SOS."
+   "title": "Fritidsbåt i sjönöd – räddningsinsats utanför Trelleborg",
+   "date": "2026-11-12T19:11:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/raddningsinsats-for-ensamseglare-soder-om-trelleborg",
+   "desc": "En omfattande räddningsinsats pågår utanför Trelleborg efter en fritidsbåt som befinner sig i sjönöd."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tidigare Guif-ordföranden erkänner brott",
-   "date": "2026-11-12T13:40:23.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/tidigare-guif-ordforanden-erkanner-brott",
-   "desc": "Den tidigare Guif-ordföranden Björn Frössevi står åtalad för att ha förfalskat dokument. Vid rättegången i Eskilstuna tingsrätt erkänner han brott, enligt Eskilstuna-Kuriren."
+   "title": "Taxi körde in i hjullastare i Linköping",
+   "date": "2026-11-12T18:58:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/stor-trafikpaverkan-efter-olycka-i-linkoping",
+   "desc": "Klockan 19.40 på torsdagskvällen inträffade en trafikolycka på Industrigatan nära Rydsrondellen i Linköping."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Gick på rockbar i Luleå med hakkors i pannan – döms",
-   "date": "2026-11-12T13:36:42.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/gick-pa-rockbar-i-lulea-med-hakkors-i-pannan-doms",
-   "desc": "En man i 40-årsåldern gick på en rockbar i Luleå med en svastika ritad i pannan. Han hävdade själv att det var en indisk lyckosymbol men nu döms han för hets mot folkgrupp."
+   "title": "Mjölkbil körde av vägen – 13 000 liter mjölk läckte ut",
+   "date": "2026-11-12T16:31:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/mjolkbil-korde-av-vagen-13-kubik-mjolk-har-lackt-ut",
+   "desc": "En mjölkbil körde av vägen söder om Höreda i Eksjö kommun vid 16.30-tiden på torsdagen. – Det är släpet som vält och ligger ute på en åker. 13 kubik mjölk har läckt ut där, säger räddningstjänstens ledningsoperatör."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 12 november",
+   "date": "2026-11-12T19:00:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-12-november-skd4dn",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm torsdagen 12 november."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Hyresvärd i Vårberg massanmäls – boende fick laga vattenskada själv",
+   "date": "2026-11-12T18:44:53.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hyresvard-i-varberg-massanmals-boende-fick-laga-vattenskada-sjalv",
+   "desc": "Under torsdagen har Hyresgästföreningen massanmält en fastighetsägare i Vårberg till sex olika myndigheter. – När jag fick en vattenskada fick jag renovera det själv. Jag har betalat mycket pengar, säger en boende till SVT."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,28 @@
    "desc": "Fyra personbilar har krockat och två körfält är avstängda. En person är lindrigt skadad."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Personal på hunddagis larmar: ”Skulle ljuga för hundägarna”",
-   "date": "2026-11-12T04:51:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/personal-pa-hunddagis-larmar-skulle-ljuga-for-hundagarna",
-   "desc": "Uteblivna promenader, hundar som lämnas ensamma och problem som döljs för hundägare. Sju tidigare anställda på hunddagisföretaget Dog care Stockholm vittnar nu om brister i verksamheten. – Vi uppmuntrades att ljuga, säger hundskötaren Hanna Ragne. Företagets vd nekar till uppgifterna."
+   "src": "BBC",
+   "section": "United",
+   "title": "Pochettino leads US training",
+   "date": "2026-11-12T18:49:11.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck0jxw824gvwo?at_medium=RSS&at_campaign=rss",
+   "desc": "Mauricio Pochettino, who is set to replace Michael Carrick at Manchester United, leading US men's national team training."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 11 november",
-   "date": "2026-11-11T19:00:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-11-november-kotdo4",
-   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm onsdagen 11 november."
+   "src": "BBC",
+   "section": "United",
+   "title": "Carrick sacking 'a new low for Manchester United'",
+   "date": "2026-11-12T18:04:46.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c98r7dlkz5r8o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Sport's Dan Roan explains why Michael Carrick was sacked as Manchester United manager, and how the fans have reacted to the news."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+   "date": "2026-11-12T16:12:39.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+   "desc": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting."
   },
   {
    "src": "BBC",
@@ -136,30 +160,6 @@
    "date": "2026-11-12T12:06:28.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cq5y15y5z0z1o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United fan Jay Motty understands why Michael Carrick has been sacked, but is baffled by the club's decision to keep Omar Berrada and Jason Wilcox in employment"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Carrick sacked by Manchester United",
-   "date": "2026-11-12T11:42:06.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq742l2yl01po?at_medium=RSS&at_campaign=rss",
-   "desc": "Watch the moment that Michael Carrick's sacking as Manchester United head coach is confirmed by BBC Sport correspondent Andy Swiss."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Carrick leaves Man Utd training ground after sacking",
-   "date": "2026-11-12T10:59:32.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6jd7k7yennvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Michael Carrick leaves Manchester United training ground after being sacked by the club."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Can Manchester United be fixed?",
-   "date": "2026-11-12T10:28:14.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck4gndnwqjx8o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sport reporters discuss whether Manchester United can be fixed under the ownership of the Glazers and management of Sir Jim Ratcliffe."
   }
  ]
 }
