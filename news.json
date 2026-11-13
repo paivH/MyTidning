@@ -1,85 +1,117 @@
 {
- "updated": "2026-11-13T10:28:16.880Z",
+ "updated": "2026-11-13T17:58:19.324Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What we know about the global Microsoft outage",
-   "date": "2026-11-13T09:59:20.000Z",
+   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+   "date": "2026-11-13T17:12:46.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+   "desc": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Watch: How Microsoft services went down around the world",
-   "date": "2026-11-13T07:18:17.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
+   "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+   "date": "2026-11-13T11:43:27.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+   "desc": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-   "date": "2026-11-13T03:57:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-   "desc": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
+   "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+   "date": "2026-11-13T16:40:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+   "desc": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-   "date": "2026-11-13T02:01:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
+   "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+   "date": "2026-11-13T15:40:08.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+   "desc": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-   "date": "2026-11-13T02:48:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
+   "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+   "date": "2026-11-13T15:42:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+   "desc": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kontroversiella Kneecap till SVT: ”Har rätt att vara arga”",
-   "date": "2026-11-13T10:17:51.000Z",
-   "link": "https://www.svt.se/kultur/kontroversiella-kneecap-till-svt-har-ratt-att-vara-arga",
-   "desc": "Nordirländska bandet Kneecaps åsikter om Palestina och Gaza har gjort att de ställts inför rätta i Storbritannien och fått ett flertal konserter inställda. Själva förstår de inte upprördheten. – Jag tycker inte att det är kontroversiellt att kalla det som händer i Palestina för ett folkmord. Det är kontroversiellt att inte prata om det, säger medlemmen Mo Chara."
+   "title": "Varnar för intern splittring i C: ”Vore förödande att släppa in”",
+   "date": "2026-11-13T16:52:34.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/varnar-for-intern-splittring-i-c-vore-forodande-att-slappa-in",
+   "desc": "C-ledaren Elisabeth Thand Ringqvist har tagit emot totalpaketen från S och M. Nu står hennes parti inför ett vägval och flera personer varnar för intern splittring. – Det vore förödande att släppa in V, säger en C-källa."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ett steg mot e-metanolfabrik i Östersund – Uniper ansöker om tillstånd",
-   "date": "2026-11-13T10:15:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ett-steg-mot-e-metanolfabrik-i-ostersund-uniper-ansoker-om-tillstand",
-   "desc": "Nu har en ansökan om att få bygga en fabrik för ett fossilfritt fartygsbränsle i Lugnvik lämnats in till Mark-och miljödomstolen. Energibolaget Uniper hoppas på en snabb process."
+   "title": "Första budgeten för nya styret – så ska Sala få ordning på ekonomin",
+   "date": "2026-11-13T16:11:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/forsta-budgeten-for-nya-styret-sa-ska-sala-fa-ordning-pa-ekonomin",
+   "desc": "Runt 90 miljoner underskott behöver återställas i Sala. Nu har det nya politiska styret presenterat sitt budgetförslag. – Det här är en budget med ett förändringstänk i grunden, säger Erik Hamrin (M), som föreslås bli kommunstyrelsens nya ordförande."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Snöläget värre än befarat i Umeå – gatuchefen: ”Hinner inte med”",
-   "date": "2026-11-13T09:40:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/snolaget-varre-an-befarat-i-umea-gatuchefen-hinner-inte-med",
-   "desc": "Snön vräker ner över Umeå under fredagen. Det har kommit betydligt mer än vad prognosen visade. Kommunen tvingas prioritera om för att kunna hålla vägar öppna. – Läget är ansträngt, säger Per Hilmersson, gatudriftchef hos Umeå kommun."
+   "title": "Deadline för ”totalpaket” har löpt ut – C har tagit emot förslagen",
+   "date": "2026-11-13T16:06:23.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/deadline-for-totalpaket-har-lopt-ut",
+   "desc": "Nu har deadline löpt ut för när Moderaterna och Socialdemokaterna behöver lämna in sina ”totalpaket” till Centerpartiet. Centerpartiet meddelar på fredagskvällen att de har tagit emot båda paketen. ”Nu kommer vi att gå igenom förslagen noggrant i våra interna beslutsprocesser”, skriver Centerledaren på fredagen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stefan Holm åtalas för misshandel av Emil Persson på Bokmässan",
-   "date": "2026-11-13T09:39:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/stefan-holm-atalas-efter-misstankta-misshandel",
-   "desc": "Idrottsprofilen Stefan Holm åtalas efter den misstänkta misshandeln av medieprofilen Emil Persson på Bokmässan i Göteborg. Det meddelar Åklagarmyndigheten i ett pressmeddelande på fredagen."
+   "title": "Svensk man gripen i Jordanien",
+   "date": "2026-11-13T15:32:49.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/svensk-man-gripen-i-jordanien",
+   "desc": "En internationellt efterlyst svensk man har gripits i Jordanien, skriver polisen på sin hemsida. Han ska ha gripits den 12 november och misstänks för bland annat anstiftan av grovt vapenbrott och stämpling till allmänfarlig ödeläggelse."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stefan satt fast på E4 i elva timmar: ”Förstör hela dagen”",
-   "date": "2026-11-13T09:32:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/stefan-satt-fast-i-elva-timmar-forstor-hela-dagen",
-   "desc": "Trafikverket har satt in tungbärgare för att hantera stoppet på E4 söder om Örnsköldsvik. Lastbilschauffören Stefan Nordin har suttit fast i elva timmar. – Det förstör hela dagen, säger lastbilschauffören Stefan Nordin."
+   "title": "Hyllar Alex: ”Annars hade jag haft en lastbil i butiken”",
+   "date": "2026-11-13T15:27:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hyllar-alex-annars-hade-jag-haft-en-lastbil-i-butiken",
+   "desc": "Efter torsdagens händelse där en lastbil med en misstänkt drogpåverkad förare körde in på gågatan i centrala Jönköping så är det många som hyllar Alex Jacobsson som lyckades stoppa chauffören. – Jag känner en enorm tacksamhet att han agerade, säger Ellinore Nydahl."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nu provtas grannarnas tomter kring bullervallen i Upplands-Bro",
+   "date": "2026-11-13T15:43:10.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-provtas-grannarnas-tomter-kring-bullervallen-i-upplands-bro",
+   "desc": "Den omstridda bullervallen i Upplands-Bro ska provtas för farliga gifter. Nu står det klart att även tomterna omkring den ska inkluderas i undersökningarna. – Äntligen kan man börja känna sig lite glad och äta sina päron, säger Heidi Gavelfält, som bor i området."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Långa köer på E4 vid Järva – arbete med avloppsledning",
+   "date": "2026-11-13T15:23:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/langa-koer-pa-e4-vid-jarva-arbete-med-avloppsledning",
+   "desc": "Två körfält är avstängda på E4 vid Trafikplats Järva Krog i riktning mot Stockholm sedan lunch på fredagen. Arbetet kommer hålla på tills imorgon, lördag."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Förde bort sina barn igen – nu får mamman fängelse",
+   "date": "2026-11-13T14:10:11.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forde-bort-sina-barn-igen-nu-far-mamman-fangelse",
+   "desc": "Mamman var med när hennes tre barn fördes bort från en familjehemsplacering i Järfälla under våldsamma former. För det fick hon villkorligt straff. I somras tog hon barnen utomlands igen. Nu döms hon till fängelse."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Man i 25-årsåldern anhållen för mordet i Älvsjö",
+   "date": "2026-11-13T10:30:18.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-i-25-arsaldern-anhallen-for-mordet-i-alvsjo",
+   "desc": "Ytterligare en person är anhållen misstänkt för inblandning i mordet på en kvinna i Älvsjö i oktober. Totalt är sex personer misstänkta i fallet. Mannen som nu anhållits är hemmahörande i Skåne, rapporterar P4 Stockholm."
   },
   {
    "src": "STHLM",
@@ -90,76 +122,44 @@
    "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm torsdagen 12 november."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Hyresvärd i Vårberg massanmäls – boende fick laga vattenskada själv",
-   "date": "2026-11-12T18:44:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hyresvard-i-varberg-massanmals-boende-fick-laga-vattenskada-sjalv",
-   "desc": "Under torsdagen har Hyresgästföreningen massanmält en fastighetsägare i Vårberg till sex olika myndigheter. – När jag fick en vattenskada fick jag renovera det själv. Jag har betalat mycket pengar, säger en boende till SVT."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Gratis TBE-vaccin för alla upp till 18 år och fler fasta läkarkontakter",
-   "date": "2026-11-12T15:32:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/gratis-tbe-vaccin-for-alla-upp-till-18-ar-och-fler-fasta-lakarkontakter",
-   "desc": "Regionen kommer göra stora satsningar på vårdcentralerna, ätstörningsvården och kollektivtrafiken. Det framkom på torsdagen när Stockholmskoalitionen med S, MP, KD, C och L presenterade sin budget för Region Stockholm 2027."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Budgeten presenteras för region Stockholm",
-   "date": "2026-11-12T12:32:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/budgeten-presenteras-for-region-stockholm",
-   "desc": "Satsningar på primärvården och skattesänkning i budgeten för Region Stockholm. Regionen kommer göra satsningar på primärvården, ätstörningsvården och kollektivtrafiken – med fler avgångar."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Trafikolycka i Fittja – långa köer",
-   "date": "2026-11-12T05:58:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-i-fittja-langa-koer",
-   "desc": "Fyra personbilar har krockat och två körfält är avstängda. En person är lindrigt skadad."
+   "src": "BBC",
+   "section": "United",
+   "title": "Pochettino defends USA exit to take Man Utd job",
+   "date": "2026-11-13T16:16:49.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmrrg5x49l7yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Incoming Manchester United head coach Mauricio Pochettino defended his decision to leave his role as USA boss, saying it would have been \"difficult\" to turn down."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Fernandes rejects second Man Utd contract offer",
-   "date": "2026-11-13T09:55:01.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season."
+   "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+   "date": "2026-11-13T15:28:06.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+   "desc": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Emotional Pochettino in tears at USA press conference",
+   "date": "2026-11-13T15:25:31.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c50md0g9ymlyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Incoming Manchester United head coach Mauricio Pochettino was visibly emotional in his USA press conference on Thursday, describing the decision to move as \"one of the most difficult decisions of his career\"."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Man Utd fan thinks Mauricio Pochettino is what club needs",
+   "date": "2026-11-13T12:10:11.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cr0qjz55z9gvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United fan Jay Motty believes Mauricio Pochettino is the right fit for what the club needs at this time"
   },
   {
    "src": "BBC",
    "section": "United",
    "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-   "date": "2026-11-13T09:24:45.000Z",
+   "date": "2026-11-13T12:09:48.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
    "desc": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Pochettino leads US training",
-   "date": "2026-11-12T18:49:11.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck0jxw824gvwo?at_medium=RSS&at_campaign=rss",
-   "desc": "Mauricio Pochettino, who is set to replace Michael Carrick at Manchester United, leading US men's national team training."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Carrick sacking 'a new low for Manchester United'",
-   "date": "2026-11-12T18:04:46.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c98r7dlkz5r8o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sport's Dan Roan explains why Michael Carrick was sacked as Manchester United manager, and how the fans have reacted to the news."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-   "date": "2026-11-12T16:12:39.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
-   "desc": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting."
   }
  ]
 }
