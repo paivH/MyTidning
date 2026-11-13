@@ -1,11 +1,19 @@
 {
- "updated": "2026-11-13T17:58:19.324Z",
+ "updated": "2026-11-13T23:24:34.387Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "date": "2026-11-13T21:14:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+   "desc": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "date": "2026-11-13T17:12:46.000Z",
+   "date": "2026-11-13T18:36:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
    "desc": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
   },
@@ -20,26 +28,42 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "SpaceX to attempt double catch of huge Starship rocket",
+   "date": "2026-11-13T20:12:02.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "desc": "Elon Musk’s company will try to grab both parts of the rocket for the first time."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
    "date": "2026-11-13T16:40:31.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
    "desc": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-   "date": "2026-11-13T15:40:08.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-   "desc": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Totalt flygstopp i USA",
+   "date": "2026-11-13T21:02:46.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/totalt-flygstopp-i-usa",
+   "desc": "Amerikanska myndigheter stoppar all flygtrafik i USA på grund av extraordinära omständigheter och säkerhetsskäl, rapporterar nyhetsbyrån Reuters. Händelsen utreds av federala luftfartsmyndigheten och påverkar nästan 7 000 flygresor."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-   "date": "2026-11-13T15:42:52.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-   "desc": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Fartyg har kolliderat i New Orleans – över 100 ombord",
+   "date": "2026-11-13T20:53:57.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/lastfartyg-har-kolliderat-med-kryssningsfartyg-over-100-ombord",
+   "desc": "Ett lastfartyg har under fredagskvällen kolliderat med ett kryssningsfartyg i hamn utanför New Orleans, rapporterar BBC. – Det var oerhört oroande, säger borgmästaren i New Orleans, Helena Moreno. Tack vare polisens drönare kunde räddningsinsatsen inledas ”inom några ögonblick”, säger polischefen Anne Kirkpatrick under en pressträff."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nederländernas regering räddad – tillfälligt",
+   "date": "2026-11-13T19:53:50.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/nederlandernas-regering-raddad-tillfalligt",
+   "desc": "Fler samtal behövs för att avvärja den överhängande risken för en regeringskollaps i Nederländerna. Det uppger landets premiärminister Rob Jetten efter ett krismöte på fredagskvällen."
   },
   {
    "src": "SVT",
@@ -58,28 +82,28 @@
    "desc": "Runt 90 miljoner underskott behöver återställas i Sala. Nu har det nya politiska styret presenterat sitt budgetförslag. – Det här är en budget med ett förändringstänk i grunden, säger Erik Hamrin (M), som föreslås bli kommunstyrelsens nya ordförande."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Deadline för ”totalpaket” har löpt ut – C har tagit emot förslagen",
-   "date": "2026-11-13T16:06:23.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/deadline-for-totalpaket-har-lopt-ut",
-   "desc": "Nu har deadline löpt ut för när Moderaterna och Socialdemokaterna behöver lämna in sina ”totalpaket” till Centerpartiet. Centerpartiet meddelar på fredagskvällen att de har tagit emot båda paketen. ”Nu kommer vi att gå igenom förslagen noggrant i våra interna beslutsprocesser”, skriver Centerledaren på fredagen."
+   "title": "Skott mot dörr i centrala Stockholm",
+   "date": "2026-11-13T20:11:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/dorrskjutning-i-centrala-stockholm",
+   "desc": "Under fredagskvällen inträffade en skjutning mot en lägenhetsdörr i centrala Stockholm. Ingen person har skadats vid händelsen."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Svensk man gripen i Jordanien",
-   "date": "2026-11-13T15:32:49.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/svensk-man-gripen-i-jordanien",
-   "desc": "En internationellt efterlyst svensk man har gripits i Jordanien, skriver polisen på sin hemsida. Han ska ha gripits den 12 november och misstänks för bland annat anstiftan av grovt vapenbrott och stämpling till allmänfarlig ödeläggelse."
+   "title": "Pojke begärs häktad efter dödsskjutning",
+   "date": "2026-11-13T19:47:51.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/pojke-begars-haktad-efter-dodsskjutning",
+   "desc": "En tonårspojke begärs häktad misstänkt för medhjälp till dödsskjutningen i Bagarmossen i södra Stockholm förra månaden, rapporterar P4 Stockholm."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Hyllar Alex: ”Annars hade jag haft en lastbil i butiken”",
-   "date": "2026-11-13T15:27:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hyllar-alex-annars-hade-jag-haft-en-lastbil-i-butiken",
-   "desc": "Efter torsdagens händelse där en lastbil med en misstänkt drogpåverkad förare körde in på gågatan i centrala Jönköping så är det många som hyllar Alex Jacobsson som lyckades stoppa chauffören. – Jag känner en enorm tacksamhet att han agerade, säger Ellinore Nydahl."
+   "title": "Nyheter från dagen: 13 november",
+   "date": "2026-11-13T19:00:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-13-november-r9q8q4",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm fredagen 13 november."
   },
   {
    "src": "STHLM",
@@ -92,34 +116,18 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Långa köer på E4 vid Järva – arbete med avloppsledning",
+   "title": "Körfält avstängda på E4 vid Järva – arbete med avloppsledning",
    "date": "2026-11-13T15:23:02.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/langa-koer-pa-e4-vid-jarva-arbete-med-avloppsledning",
    "desc": "Två körfält är avstängda på E4 vid Trafikplats Järva Krog i riktning mot Stockholm sedan lunch på fredagen. Arbetet kommer hålla på tills imorgon, lördag."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Förde bort sina barn igen – nu får mamman fängelse",
-   "date": "2026-11-13T14:10:11.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/forde-bort-sina-barn-igen-nu-far-mamman-fangelse",
-   "desc": "Mamman var med när hennes tre barn fördes bort från en familjehemsplacering i Järfälla under våldsamma former. För det fick hon villkorligt straff. I somras tog hon barnen utomlands igen. Nu döms hon till fängelse."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man i 25-årsåldern anhållen för mordet i Älvsjö",
-   "date": "2026-11-13T10:30:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-i-25-arsaldern-anhallen-for-mordet-i-alvsjo",
-   "desc": "Ytterligare en person är anhållen misstänkt för inblandning i mordet på en kvinna i Älvsjö i oktober. Totalt är sex personer misstänkta i fallet. Mannen som nu anhållits är hemmahörande i Skåne, rapporterar P4 Stockholm."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 12 november",
-   "date": "2026-11-12T19:00:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-12-november-skd4dn",
-   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm torsdagen 12 november."
+   "src": "BBC",
+   "section": "United",
+   "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+   "date": "2026-11-13T22:53:17.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+   "desc": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-13T12:10:11.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cr0qjz55z9gvo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United fan Jay Motty believes Mauricio Pochettino is the right fit for what the club needs at this time"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-   "date": "2026-11-13T12:09:48.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
-   "desc": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't."
   }
  ]
 }
