@@ -1,13 +1,29 @@
 {
- "updated": "2026-11-13T02:45:20.394Z",
+ "updated": "2026-11-13T10:28:16.880Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-   "date": "2026-11-13T02:39:00.000Z",
+   "title": "What we know about the global Microsoft outage",
+   "date": "2026-11-13T09:59:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Watch: How Microsoft services went down around the world",
+   "date": "2026-11-13T07:18:17.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+   "date": "2026-11-13T03:57:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-   "desc": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+   "desc": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
   },
   {
    "src": "BBC",
@@ -20,66 +36,50 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-   "date": "2026-11-13T00:20:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-   "desc": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-   "date": "2026-11-12T20:09:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-   "desc": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-   "date": "2026-11-12T19:23:02.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-   "desc": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+   "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+   "date": "2026-11-13T02:48:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Darth Vaders lasersvärd sålt för miljonbelopp",
-   "date": "2026-11-13T01:56:51.000Z",
-   "link": "https://www.svt.se/kultur/darth-vaders-lasersvard-salt-for-miljonbelopp",
-   "desc": "Lasersvärdet från Star Wars-filmerna ”Rymdimperiet slår tillbaka” och ”Jedins återkomst” har sålts för nära 50 miljoner kronor."
+   "title": "Kontroversiella Kneecap till SVT: ”Har rätt att vara arga”",
+   "date": "2026-11-13T10:17:51.000Z",
+   "link": "https://www.svt.se/kultur/kontroversiella-kneecap-till-svt-har-ratt-att-vara-arga",
+   "desc": "Nordirländska bandet Kneecaps åsikter om Palestina och Gaza har gjort att de ställts inför rätta i Storbritannien och fått ett flertal konserter inställda. Själva förstår de inte upprördheten. – Jag tycker inte att det är kontroversiellt att kalla det som händer i Palestina för ett folkmord. Det är kontroversiellt att inte prata om det, säger medlemmen Mo Chara."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "V-väljare: Hellre regering utan Vänsterpartiet än extraval",
-   "date": "2026-11-12T20:07:45.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
-   "desc": "V-väljare ser helst en rödgrön fyrpartiregering – men om valet står mellan ett extraval eller stå utanför en regering med S, MP och C, då föredrar de det senare. Det visar en mätning som Indikator opinion gjort för SVT:s räkning. – Undersökningen visar att det finns en tydlig beredskap att acceptera andra lösningar, säger opinionschefen Per Oleskog-Tryggvason."
+   "title": "Ett steg mot e-metanolfabrik i Östersund – Uniper ansöker om tillstånd",
+   "date": "2026-11-13T10:15:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/ett-steg-mot-e-metanolfabrik-i-ostersund-uniper-ansoker-om-tillstand",
+   "desc": "Nu har en ansökan om att få bygga en fabrik för ett fossilfritt fartygsbränsle i Lugnvik lämnats in till Mark-och miljödomstolen. Energibolaget Uniper hoppas på en snabb process."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hjalmar Ekdal om mardrömsstarten: ”Galet”",
-   "date": "2026-11-12T19:15:51.000Z",
-   "link": "https://www.svt.se/sport/fotboll/hjalmar-ekdal-om-mardromsstarten-galet",
-   "desc": "Burnley ramlade ur Premier League. Nu huserar man i botten av Championship. – Det är galet, säger landslagsbacken Hjalmar Ekdal till SVT Sport."
+   "title": "Snöläget värre än befarat i Umeå – gatuchefen: ”Hinner inte med”",
+   "date": "2026-11-13T09:40:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/snolaget-varre-an-befarat-i-umea-gatuchefen-hinner-inte-med",
+   "desc": "Snön vräker ner över Umeå under fredagen. Det har kommit betydligt mer än vad prognosen visade. Kommunen tvingas prioritera om för att kunna hålla vägar öppna. – Läget är ansträngt, säger Per Hilmersson, gatudriftchef hos Umeå kommun."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fritidsbåt i sjönöd – räddningsinsats utanför Trelleborg",
-   "date": "2026-11-12T19:11:53.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/raddningsinsats-for-ensamseglare-soder-om-trelleborg",
-   "desc": "En omfattande räddningsinsats pågår utanför Trelleborg efter en fritidsbåt som befinner sig i sjönöd."
+   "title": "Stefan Holm åtalas för misshandel av Emil Persson på Bokmässan",
+   "date": "2026-11-13T09:39:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/stefan-holm-atalas-efter-misstankta-misshandel",
+   "desc": "Idrottsprofilen Stefan Holm åtalas efter den misstänkta misshandeln av medieprofilen Emil Persson på Bokmässan i Göteborg. Det meddelar Åklagarmyndigheten i ett pressmeddelande på fredagen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Taxi körde in i hjullastare i Linköping",
-   "date": "2026-11-12T18:58:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/stor-trafikpaverkan-efter-olycka-i-linkoping",
-   "desc": "Klockan 19.40 på torsdagskvällen inträffade en trafikolycka på Industrigatan nära Rydsrondellen i Linköping."
+   "title": "Stefan satt fast på E4 i elva timmar: ”Förstör hela dagen”",
+   "date": "2026-11-13T09:32:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/stefan-satt-fast-i-elva-timmar-forstor-hela-dagen",
+   "desc": "Trafikverket har satt in tungbärgare för att hantera stoppet på E4 söder om Örnsköldsvik. Lastbilschauffören Stefan Nordin har suttit fast i elva timmar. – Det förstör hela dagen, säger lastbilschauffören Stefan Nordin."
   },
   {
    "src": "STHLM",
@@ -124,6 +124,22 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Fernandes rejects second Man Utd contract offer",
+   "date": "2026-11-13T09:55:01.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+   "date": "2026-11-13T09:24:45.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+   "desc": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Pochettino leads US training",
    "date": "2026-11-12T18:49:11.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/ck0jxw824gvwo?at_medium=RSS&at_campaign=rss",
@@ -144,22 +160,6 @@
    "date": "2026-11-12T16:12:39.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
    "desc": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "What does Pochettino need to succeed at Man Utd?",
-   "date": "2026-11-12T14:28:40.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c60qjzel52ygo?at_medium=RSS&at_campaign=rss",
-   "desc": "Raphael Honigstein and Julien Laurens give their views on what Mauricio Pochettino will need to succeed at Manchester United."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Man Utd fan: 'I wish those above Carrick would lose jobs'",
-   "date": "2026-11-12T12:06:28.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq5y15y5z0z1o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United fan Jay Motty understands why Michael Carrick has been sacked, but is baffled by the club's decision to keep Omar Berrada and Jason Wilcox in employment"
   }
  ]
 }
