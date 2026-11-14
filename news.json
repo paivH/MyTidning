@@ -1,45 +1,69 @@
 {
- "updated": "2026-11-14T16:49:44.244Z",
+ "updated": "2026-11-14T21:03:30.130Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What we know about the ground stop and what to do if you're affected",
-   "date": "2026-11-14T14:20:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "desc": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+   "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+   "date": "2026-11-14T19:12:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+   "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "date": "2026-11-14T15:15:57.000Z",
+   "date": "2026-11-14T20:41:45.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+   "desc": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin."
   },
   {
    "src": "BBC",
    "section": "Världen",
    "title": "Italy fines Meta €805m over accessing users' photos",
-   "date": "2026-11-14T16:29:48.000Z",
+   "date": "2026-11-14T18:28:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-   "desc": "The social media giant is accused of not informing about 20 million users it had access to their photos."
+   "desc": "The social media giant is accused of not informing 20 million users it had access to their photos."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-   "date": "2026-11-14T15:42:54.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-   "desc": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa."
+   "title": "Philippines wins first Eurovision Song Contest Asia",
+   "date": "2026-11-14T18:17:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "date": "2026-11-14T15:53:55.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-   "desc": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+   "title": "Second catch attempt for SpaceX Starship rocket",
+   "date": "2026-11-14T14:18:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "desc": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Sveriges drömhalvlek mot Bosnien-Hercegovina",
+   "date": "2026-11-14T20:36:47.000Z",
+   "link": "https://www.svt.se/sport/fotboll/sveriges-dromhalvlek-mot-bosnien-hercegovina",
+   "desc": "Sverige kör över Bosnien-Hercegovina. I halvlek leder Blågult med 3–0."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "BMW återkallar drygt 720 000 bilar: Brandrisk",
+   "date": "2026-11-14T18:07:19.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/bmw-aterkallar-drygt-720-000-bilar-brandrisk",
+   "desc": "Den tyska biltillverkaren BMW återkallar 720 796 fordon i Nordamerika på grund av brandrisk. Innan reparationen utförts bör bilarna parkeras utomhus samt långt från andra fordon och byggnader."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Frustration präglar nya protester i Paris",
+   "date": "2026-11-14T17:11:57.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/frustration-praglar-nya-protester-i-paris",
+   "desc": "Höga levnadskostnader, brister i skolsystemet och polisbrutalitet präglade missnöjet i demonstrationer på lördagen i den franska huvudstaden Paris. Över 100 000 demonstrerar runtom i Frankrike, enligt inrikesdepartementet."
   },
   {
    "src": "SVT",
@@ -47,7 +71,7 @@
    "title": "Full drift efter flygstoppet – men fortsatta förseningar",
    "date": "2026-11-14T16:21:39.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/full-drift-efter-flygstoppet-men-fortsatta-forseningar",
-   "desc": "Ett byte från koppartråd till fiber orsakade kommunikationshaveriet som ledde till att ett totalt flygstopp i USA under fredagen. Felet har nu åtgärdats. – Vi är tillbaka till full drift, säger USA:s transportminister Sean Duffy. Men tusentals passagerare påverkas fortfarande."
+   "desc": "Ett byte från koppartråd till fiber orsakade kommunikationshaveriet som ledde till ett totalt flygstopp i USA under fredagen. Felet har nu åtgärdats. – Vi är tillbaka till full drift, säger USA:s transportminister Sean Duffy. Men tusentals passagerare påverkas fortfarande."
   },
   {
    "src": "SVT",
@@ -58,28 +82,20 @@
    "desc": "Italien bötfäller Facebookägaren Meta med motsvarande nästan nio miljarder kronor för bolagets hantering av användares bilder."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Tufft jobb att leverera mat till äldreboenden i Umeå under snökaoset",
-   "date": "2026-11-14T14:37:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/tufft-jobb-att-leverera-mat-till-aldreboenden-i-umea-under-snokaoset",
-   "desc": "Att få ut rullvagnarna med mat till äldreboendena under snöstormen i norr var tufft. Men det måste göras. – Vi har ett jobb att sköta 365 dagar om året, vi åker i alla väder, säger chauffören Mathias Gerström."
+   "title": "Nyheter från dagen: 14 november",
+   "date": "2026-11-14T18:31:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-14-november-4lvv4l",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm lördagen 14 november."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Tennisslaget i Stockholm Open hyllas: ”Hittar krysset”",
-   "date": "2026-11-14T14:24:26.000Z",
-   "link": "https://www.svt.se/sport/tennis/tennisslaget-i-stockholm-open-hyllas-hittar-krysset",
-   "desc": "Taylor Fritz, 29, vann Stockholm Open. Han stod för ett drömslag i finalen i Kungliga tennishallen. – Där hittar han krysset! utbrister kommentatorn Petter Pettersson i TV4."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Victor Nilsson Lindelöf njuter: ”Så mycket enklare”",
-   "date": "2026-11-14T14:11:46.000Z",
-   "link": "https://www.svt.se/sport/fotboll/victor-nilsson-lindelof-njuter-sa-mycket-enklare",
-   "desc": "Victor Nilsson Lindelöf förlängde nyligen kontraktet med Aston Villa. Den svenske lagkaptenen trivs. – Jag njuter av fotbollen, säger han."
+   "title": "Här tänds julbelysningen i Stockholm",
+   "date": "2026-11-14T16:59:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-tands-julbelysningen-i-stockholm",
+   "desc": "Under lördagen invigdes julbelysningen runtom i Stockholm och i Kungsträdgården samlades många för att vara med när en miljon lampor tändes. – Det är så mörkt, speciellt nu i november, så lite ljus gör bara jättemycket, säger Ellinor Dubbelqvist så hade tagit sig till Kungsträdgården."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-11-14T04:30:09.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/daniele-har-62-mobiltelefoner-alskar-alla-mina-barn",
    "desc": "Det var först när Daniele Polsoni, 32, fick jobb i Sverige som han kunde börja bygga upp sin drömsamling. Nu har han 62 telefoner hemma – och räknar med fler."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Skott mot dörr i centrala Stockholm",
-   "date": "2026-11-13T20:11:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/dorrskjutning-i-centrala-stockholm",
-   "desc": "Under fredagskvällen inträffade en skjutning mot en lägenhetsdörr i centrala Stockholm. Polisen söker fortfarande den som ligger bakom gärningen. Händelsen utreds som misstänkt försök till mord. Ingen person har skadats vid händelsen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Pojke begärs häktad efter dödsskjutning",
-   "date": "2026-11-13T19:47:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/pojke-begars-haktad-efter-dodsskjutning",
-   "desc": "En tonårspojke begärs häktad misstänkt för medhjälp till dödsskjutningen i Bagarmossen i södra Stockholm förra månaden, rapporterar P4 Stockholm."
   },
   {
    "src": "BBC",
