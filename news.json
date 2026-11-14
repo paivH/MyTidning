@@ -1,10 +1,18 @@
 {
- "updated": "2026-11-13T23:24:34.387Z",
+ "updated": "2026-11-14T03:26:29.036Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "date": "2026-11-13T23:40:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
    "date": "2026-11-13T21:14:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "desc": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
@@ -28,18 +36,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "SpaceX to attempt double catch of huge Starship rocket",
-   "date": "2026-11-13T20:12:02.000Z",
+   "title": "Setback for SpaceX Starship rocket's double-catch test",
+   "date": "2026-11-14T00:01:01.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-   "desc": "Elon Musk’s company will try to grab both parts of the rocket for the first time."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-   "date": "2026-11-13T16:40:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-   "desc": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
+   "desc": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
   },
   {
    "src": "SVT",
@@ -47,7 +47,7 @@
    "title": "Totalt flygstopp i USA",
    "date": "2026-11-13T21:02:46.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/totalt-flygstopp-i-usa",
-   "desc": "Amerikanska myndigheter stoppar all flygtrafik i USA på grund av extraordinära omständigheter och säkerhetsskäl, rapporterar nyhetsbyrån Reuters. Händelsen utreds av federala luftfartsmyndigheten och påverkar nästan 7 000 flygresor."
+   "desc": "Amerikanska myndigheter stoppade all flygtrafik i USA på grund av ”extraordinära omständigheter” och ”säkerhetsskäl” under fredagskvällen. Ett överbelastat system ska ligga bakom händelsen, och över 10 000 flyg har påverkats."
   },
   {
    "src": "SVT",
