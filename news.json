@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-14T03:26:29.036Z",
+ "updated": "2026-11-14T10:46:36.082Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "What we know about the ground stop and what to do if you're affected",
+   "date": "2026-11-14T07:42:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "desc": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,26 +20,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-   "date": "2026-11-13T21:14:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "desc": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "date": "2026-11-14T05:52:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+   "desc": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "date": "2026-11-13T18:36:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-   "date": "2026-11-13T11:43:27.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-   "desc": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
+   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "date": "2026-11-14T10:30:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
   },
   {
    "src": "BBC",
@@ -44,42 +44,50 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Totalt flygstopp i USA",
-   "date": "2026-11-13T21:02:46.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/totalt-flygstopp-i-usa",
-   "desc": "Amerikanska myndigheter stoppade all flygtrafik i USA på grund av ”extraordinära omständigheter” och ”säkerhetsskäl” under fredagskvällen. Ett överbelastat system ska ligga bakom händelsen, och över 10 000 flyg har påverkats."
+   "title": "Här bryter hon mot omtalade regeln – diskas direkt",
+   "date": "2026-11-14T10:39:35.000Z",
+   "link": "https://www.svt.se/sport/skidskytte/har-bryter-hon-mot-omtalade-regeln-diskas-direkt",
+   "desc": "Här bryter Susan Külm mot den omtalade nya regeln i skidskyttet. Hon diskades direkt i Sverigepremiären. – Man ser på hennes ansiktsuttryck att hon förstår sitt misstag, säger experten Björn Ferry."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fartyg har kolliderat i New Orleans – över 100 ombord",
-   "date": "2026-11-13T20:53:57.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/lastfartyg-har-kolliderat-med-kryssningsfartyg-over-100-ombord",
-   "desc": "Ett lastfartyg har under fredagskvällen kolliderat med ett kryssningsfartyg i hamn utanför New Orleans, rapporterar BBC. – Det var oerhört oroande, säger borgmästaren i New Orleans, Helena Moreno. Tack vare polisens drönare kunde räddningsinsatsen inledas ”inom några ögonblick”, säger polischefen Anne Kirkpatrick under en pressträff."
+   "title": "Elvira Öbergs uppvisning i Sverigepremiären: ”Helt överlägsen”",
+   "date": "2026-11-14T10:05:15.000Z",
+   "link": "https://www.svt.se/sport/skidskytte/elvira-obergs-uppvisning-i-sverigepremiaren-helt-overlagsen",
+   "desc": "Elvira Öberg är i superform. Storstjärnan krossade allt motstånd i Sverigepremiären. – Jag blev nästan orolig över att jag gick för hårt, säger Öberg."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nederländernas regering räddad – tillfälligt",
-   "date": "2026-11-13T19:53:50.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/nederlandernas-regering-raddad-tillfalligt",
-   "desc": "Fler samtal behövs för att avvärja den överhängande risken för en regeringskollaps i Nederländerna. Det uppger landets premiärminister Rob Jetten efter ett krismöte på fredagskvällen."
+   "title": "Villabrand i Stöde: ”Får brinna ner”",
+   "date": "2026-11-14T08:57:21.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/villabrand-i-stode-e14-avstangd-under-slackningsarbetet",
+   "desc": "Räddningstjänsten i Medelpad arbetar just nu med att släcka en villabrand i Stöde. Branden startade i en carport och spred sig därefter till boningshuset, som enligt räddningstjänsten är övertänt. Trafiken på E14 är helt avstängd."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Varnar för intern splittring i C: ”Vore förödande att släppa in”",
-   "date": "2026-11-13T16:52:34.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/varnar-for-intern-splittring-i-c-vore-forodande-att-slappa-in",
-   "desc": "C-ledaren Elisabeth Thand Ringqvist har tagit emot totalpaketen från S och M. Nu står hennes parti inför ett vägval och flera personer varnar för intern splittring. – Det vore förödande att släppa in V, säger en C-källa."
+   "title": "Kalvklippet väcker ilska: ”Koncentrationsläger för kor”",
+   "date": "2026-11-14T08:24:58.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/kalvklippet-vacker-ilska-koncentrationslager-for-kor",
+   "desc": "”Är detta AI? Man måste vara psykopat för att bygga det här”, skriver en av dem som sett klippet på de tiotusentals kalvarna som hålls ensamma i rader av hyddor. Men videon är äkta – och fenomenet förekommer även i Sverige fast i mindre skala, visar Verifieringshjälpens granskning."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Första budgeten för nya styret – så ska Sala få ordning på ekonomin",
-   "date": "2026-11-13T16:11:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/forsta-budgeten-for-nya-styret-sa-ska-sala-fa-ordning-pa-ekonomin",
-   "desc": "Runt 90 miljoner underskott behöver återställas i Sala. Nu har det nya politiska styret presenterat sitt budgetförslag. – Det här är en budget med ett förändringstänk i grunden, säger Erik Hamrin (M), som föreslås bli kommunstyrelsens nya ordförande."
+   "title": "Totalstopp på Forsmark 3 efter ”kortslutning”",
+   "date": "2026-11-14T07:44:41.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/uppsala/totalstopp-pa-forsmark-3-efter-kortslutning",
+   "desc": "Sedan midnatt är det totalstopp på kärnkraftverket Forsmark 3. Felet beräknas vara åtgärdat först på fredag. Enligt elprisexperten Johan Sigvardsson kommer stoppet inte påverka elpriserna nämnvärt. – Det är ingen dramatik alls i detta, säger han."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Daniele har 62 mobiltelefoner: ”Älskar alla mina barn”",
+   "date": "2026-11-14T04:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/daniele-har-62-mobiltelefoner-alskar-alla-mina-barn",
+   "desc": "Det var först när Daniele Polsoni, 32, fick jobb i Sverige som han kunde börja bygga upp sin drömsamling. Nu har han 62 telefoner hemma – och räknar med fler."
   },
   {
    "src": "STHLM",
@@ -87,7 +95,7 @@
    "title": "Skott mot dörr i centrala Stockholm",
    "date": "2026-11-13T20:11:59.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/dorrskjutning-i-centrala-stockholm",
-   "desc": "Under fredagskvällen inträffade en skjutning mot en lägenhetsdörr i centrala Stockholm. Ingen person har skadats vid händelsen."
+   "desc": "Under fredagskvällen inträffade en skjutning mot en lägenhetsdörr i centrala Stockholm. Polisen söker fortfarande den som ligger bakom gärningen. Händelsen utreds som misstänkt försök till mord. Ingen person har skadats vid händelsen."
   },
   {
    "src": "STHLM",
@@ -112,14 +120,6 @@
    "date": "2026-11-13T15:43:10.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-provtas-grannarnas-tomter-kring-bullervallen-i-upplands-bro",
    "desc": "Den omstridda bullervallen i Upplands-Bro ska provtas för farliga gifter. Nu står det klart att även tomterna omkring den ska inkluderas i undersökningarna. – Äntligen kan man börja känna sig lite glad och äta sina päron, säger Heidi Gavelfält, som bor i området."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Körfält avstängda på E4 vid Järva – arbete med avloppsledning",
-   "date": "2026-11-13T15:23:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/langa-koer-pa-e4-vid-jarva-arbete-med-avloppsledning",
-   "desc": "Två körfält är avstängda på E4 vid Trafikplats Järva Krog i riktning mot Stockholm sedan lunch på fredagen. Arbetet kommer hålla på tills imorgon, lördag."
   },
   {
    "src": "BBC",
