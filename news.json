@@ -1,14 +1,6 @@
 {
- "updated": "2026-11-15T01:09:53.223Z",
+ "updated": "2026-11-15T08:07:38.432Z",
  "items": [
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-   "date": "2026-11-14T19:12:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-   "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,66 +12,98 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+   "date": "2026-11-15T07:10:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+   "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "date": "2026-11-15T02:49:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+   "desc": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "date": "2026-11-15T03:21:04.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+   "desc": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Italy fines Meta €805m over accessing users' photos",
    "date": "2026-11-14T18:28:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
    "desc": "The social media giant is accused of not informing 20 million users it had access to their photos."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-   "date": "2026-11-14T22:09:40.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-   "desc": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Philippines wins first Eurovision Song Contest Asia",
-   "date": "2026-11-14T18:17:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt mordbrand i Norrtälje – villa övertänd",
+   "date": "2026-11-15T07:56:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-norrtalje-villa-overtand",
+   "desc": "Polis och räddningstjänst larmades under lördagsnatten till Norrtälje efter larm om en villabrand. Villan var övertänd och man misstänker att en person kan finnas kvar i huset."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "SpaceX Starship gör historisk landning i Texas",
-   "date": "2026-11-14T22:20:58.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/spacex-starship-gor-historisk-landning-i-texas",
-   "desc": "SpaceX rymdfarkost Starship landade i Texas, USA, under lördagskvällen efter sin längsta flygning hittills. Den lyckade landningen säkrade också den första återvinningen av raketsystemets centrala farkost i företagets historia."
+   "title": "Man påkörd i centrala Stockholm – polisen utreder mordförsök",
+   "date": "2026-11-15T07:46:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-pakord-i-centrala-stockholm-polisen-utreder-mordforsok",
+   "desc": "En man blev påkörd av en bil på Kungsgatan i centrala Stockholm under söndagsmorgonen. Polisen utreder händelsen som mordförsök."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Benjamin Ingrosso till Ullevi i sommar",
-   "date": "2026-11-14T21:44:17.000Z",
-   "link": "https://www.svt.se/kultur/benjamin-ingrosso-till-ullevi-i-sommar",
-   "desc": "Benjamin Ingrosso kommer till Göteborg i sommar. Den 31 juli 2027 spelar han på Ullevi."
+   "title": "Ladugård i lågor i Rättvik",
+   "date": "2026-11-15T07:26:35.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/ladugard-i-lagor-i-rattvik",
+   "desc": "En ladugård norr om Vikarbyn i Rättviks kommun började brinna tidigt på söndagsmorgonen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Sverige klar gruppvinnare efter seger mot Bosnien-Hercegovina",
-   "date": "2026-11-14T21:39:28.000Z",
-   "link": "https://www.svt.se/sport/fotboll/sverige-klar-gruppvinnare-efter-seger-mot-bosnien-hercegovina",
-   "desc": "Sverige spelade två vitt skilda halvlekar mot Bosnien-Hercegovina. Till slut vann Blågult med 3–2 – vilket innebär gruppseger och avancemang till Nations Leagues A-division. – Vi kontrollerar inte matchen som vi vill, säger Victor Nilsson Lindelöf till SVT Sport."
+   "title": "Eva Lund om OS-skandalen: ”Curlingen har gynnats av bråket”",
+   "date": "2026-11-15T06:47:20.000Z",
+   "link": "https://www.svt.se/sport/curling/eva-lund-om-os-skandalen-curlingen-har-gynnats-av-braket",
+   "desc": "Curlingbråket mellan Sverige och Kanada under OS blev en världsnyhet. I årets OS-krönika minna SVT:s expert Eva Lund tillbaka till de omskakande scenerna och efterspelet. – Jag skulle säga att curlingen har gynnats av det här bråket, säger hon."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nytt publikrekord på nationalarenan",
-   "date": "2026-11-14T21:26:01.000Z",
-   "link": "https://www.svt.se/sport/fotboll/nytt-publikrekord-pa-nationalarenan",
-   "desc": "En pangsiffra. Publikrekord i Nations League-mötet mellan Sverige och Bosnien-Hercegovina. Nya noteringen: 51 049."
+   "title": "Misstänkt mordförsök på Gotland – man stickskadad",
+   "date": "2026-11-15T06:40:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mordforsok-pa-gotland-man-stickskadades",
+   "desc": "Polis och ambulans kallades till ett hus söder om Visby efter att en man stickskadats. Två män i 40-45-årsåldern har anhållits."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Sveriges drömhalvlek mot Bosnien-Hercegovina",
-   "date": "2026-11-14T20:36:47.000Z",
-   "link": "https://www.svt.se/sport/fotboll/sveriges-dromhalvlek-mot-bosnien-hercegovina",
-   "desc": "Sverige kör över Bosnien-Hercegovina. I halvtid ledde Blågult med 3–0."
+   "title": "Misstänkt mordbrand i Norrtälje – villa övertänd",
+   "date": "2026-11-15T07:56:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-norrtalje-villa-overtand",
+   "desc": "Polis och räddningstjänst larmades under lördagsnatten till Norrtälje efter larm om en villabrand. Villan var övertänd och man misstänker att en person kan finnas kvar i huset."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Man påkörd i centrala Stockholm – polisen utreder mordförsök",
+   "date": "2026-11-15T07:46:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-pakord-i-centrala-stockholm-polisen-utreder-mordforsok",
+   "desc": "En man blev påkörd av en bil på Kungsgatan i centrala Stockholm under söndagsmorgonen. Polisen utreder händelsen som mordförsök."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Här lär sig Kurt, 98, att våga vara otrevlig mot bedragare: ”Ska bli tuffare”",
+   "date": "2026-11-15T04:30:07.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-lar-sig-kurt-98-att-vaga-vara-otrevlig-mot-bedragare-ska-bli-tuffare",
+   "desc": "Efter att flera seniorer i Sundbyberg har drabbats av bedrägeriförsök under sommaren arrangerar staden en kurs där äldre ska lära sig att stå emot bedragare. – Vi ska lära oss att inte gå på en massa dumheter, säger deltagaren Kurt Hellsén som själv blivit drabbat."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-11-14T16:59:28.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-tands-julbelysningen-i-stockholm",
    "desc": "Under lördagen invigdes julbelysningen runtom i Stockholm och i Kungsträdgården samlades många för att vara med när en miljon lampor tändes. – Det är så mörkt, speciellt nu i november, så lite ljus gör bara jättemycket, säger Ellinor Dubbelqvist så hade tagit sig till Kungsträdgården."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Tonårspojke häktas efter dödsskjutning i Bagarmossen",
-   "date": "2026-11-14T13:07:35.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tonarspojke-haktas-efter-dodsskjutning-i-bagarmossen",
-   "desc": "En pojke i tonåren häktas misstänkt för medhjälp till mord efter dödsskjutningen som ägde rum i Bagarmossen i södra Stockholm i oktober."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Gick på dagen – chefen i Upplands-Bro får årslön",
-   "date": "2026-11-14T12:14:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/gick-pa-dagen-upplands-bro-chefen-far-arslon",
-   "desc": "Efter att Upplands-Bros tidigare kommundirektör fått fem miljoner i en uppgörelse ska det nya styret nu se över framtida avtal. Samtidigt kan SVT berätta att även kommunens presschef, som vi tidigare granskat, också lämnar kommunen – med 13 månadslöner som kompensation. – Framåt kommer vi att se över våra anställningsavtal för högre chefer så att de hamnar i en rimlig nivå, säger Camilla Janson (S), kommunstyrelsens ordförande."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Daniele har 62 mobiltelefoner: ”Älskar alla mina barn”",
-   "date": "2026-11-14T04:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/daniele-har-62-mobiltelefoner-alskar-alla-mina-barn",
-   "desc": "Det var först när Daniele Polsoni, 32, fick jobb i Sverige som han kunde börja bygga upp sin drömsamling. Nu har han 62 telefoner hemma – och räknar med fler."
   },
   {
    "src": "BBC",
