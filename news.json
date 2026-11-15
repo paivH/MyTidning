@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-15T15:45:39.406Z",
+ "updated": "2026-11-15T20:45:58.778Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+   "date": "2026-11-15T19:32:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -28,58 +36,74 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "date": "2026-11-15T14:56:21.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-   "date": "2026-11-15T08:17:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
+   "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+   "date": "2026-11-15T18:38:11.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Estland stänger gränsen mot Ryssland i december",
-   "date": "2026-11-15T15:13:37.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/estlands-stanger-gransen-mot-ryssland-i-december",
-   "desc": "Estland stänger alla gränsövergångar mot Ryssland den första december, rapporterar Reuters. Anledningen är ett ryskt sabotage mot ett estniskt försvarsföretag."
+   "title": "Sverige nollat av Kanada i VM-semifinalen",
+   "date": "2026-11-15T20:29:00.000Z",
+   "link": "https://www.svt.se/sport/ishockey/sverige-nollat-av-kanada-i-vm-semifinalen",
+   "desc": "Kanada nollade Sverige i VM-semifinalen. För Damkronorna väntar nu bronsmatch mot Finland. – Vi trodde på det hela vägen in, säger lagkaptenen Anna Kjellbin till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Rosengård tvingas till nedflyttningskval",
-   "date": "2026-11-15T14:53:20.000Z",
-   "link": "https://www.svt.se/sport/fotboll/rosengard-tvingas-till-nedflyttningskval",
-   "desc": "FC Rosengårds damallsvenska kontrakt hänger på en skör tråd. Nu tvingas laget kvala för att hålla sig kvar i finrummet. – Jättetråkigt, säger Thea Sörbo."
+   "title": "Klart: Centern väljer Socialdemokraterna",
+   "date": "2026-11-15T18:48:11.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/klart-centern-valjer-socialdemokraterna",
+   "desc": "Centerpartiet väljer S totalpaket, säger partiledare till Elisabeth Thand Ringqvist i en kommentar till SVT. – Efter att ha granskat Anderssons totalpaket är vårt besked att Socialdemokraternas alternativ är det vi väljer att förhandla vidare om, säger Thand Ringqvist."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Rån av Pokémon-kort värda över en miljon i Danmark",
-   "date": "2026-11-15T14:32:02.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/ran-av-pokemon-kort-varda-over-en-miljon-i-danmark",
-   "desc": "En stor polisinsats pågår vid köpcentret i danska Lyngby, efter att rånare kommit över Pokémon-kort värda mer än en miljon danska kronor, rapporterar danska medier."
+   "title": "SMHI varnar för plötslig ishalka längs del av Norrlandskusten",
+   "date": "2026-11-15T17:54:24.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/smhi-varnar-for-plotslig-ishalka-langs-del-av-norrlandskusten",
+   "desc": "SMHI gick på söndagskvällen ut med en gul varning för plötslig ishalka på vägarna i kustlandet i Västerbotten och Västernorrland, från 22-tiden och fram till måndag morgon. Orsaken är regn som faller på kalla vägbanor."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Splittring i C inför regeringsbeskedet: ”Spelar ett högt spel”",
-   "date": "2026-11-15T13:53:41.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/splittring-i-c-infor-regeringsbeskedet-spelar-ett-hogt-spel",
-   "desc": "Centerpartiet väntas i dagarna ge besked om vilken regering de kommer stötta. Just nu är partiet splittrat, enligt SVT:s politikreporter Erik Nilsson. – Det är väldigt intensiva dagar, säger han i SVT:s direktsändning."
+   "title": "Bekräftat: Ryssland stoppas från JVM",
+   "date": "2026-11-15T17:51:51.000Z",
+   "link": "https://www.svt.se/sport/ishockey/bekraftat-ryssland-stoppas-fran-jvm",
+   "desc": "Ryssland stoppas från JVM. Det bekräftar det internationella ishockeyförbundet (IIHF). Nu får Norge tillbaka sin plats i turneringen. – Jag är glad att spelarna får uppleva det mästerskap de gjort sig förtjänta av, säger den norska huvudtränaren Kim Veisten till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Dubbla olyckor i Göteborgsbacken i Jönköping – krockade med tappat hjul",
-   "date": "2026-11-15T12:46:31.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/dubbla-olyckor-i-goteborgsbacken-i-jonkoping-krockade-med-tappat-hjul",
-   "desc": "Två olyckor inträffade nästan samtidigt vid trafikplats Haga på riksväg 40 i Jönköping – i varsin riktning. Detta efter att en bil tappat sitt hjul."
+   "title": "Man häktad – misstänks för medhjälp till Älvsjömordet",
+   "date": "2026-11-15T16:37:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-haktad-misstanks-for-medhjalp-till-alvsjomordet",
+   "desc": "Under söndagen häktades en man misstänkt för medhjälp till mordet på en kvinna i Älvsjö. Det rapporterar P4 Stockholm."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 15 november",
+   "date": "2026-11-15T18:16:42.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-15-november-xakeng",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm söndagen 15 november."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Man häktad – misstänks för medhjälp till Älvsjömordet",
+   "date": "2026-11-15T16:37:55.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-haktad-misstanks-for-medhjalp-till-alvsjomordet",
+   "desc": "Under söndagen häktades en man misstänkt för medhjälp till mordet på en kvinna i Älvsjö. Det rapporterar P4 Stockholm."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Tusentals samlades för att jaga Pokémons i Stockholm",
+   "date": "2026-11-15T16:14:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tusentals-samlades-for-att-jaga-pokemons-i-stockholm",
+   "desc": "I år är det 10 år sedan spelet Pokémon GO släpptes. Spelet har fortfarande ett starkt fäste i Stockholm. Med anledning av det samlades under lördagen tusentals stockholmare för att fira – och för att hitta nya Pokémons."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-11-15T07:56:15.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordbrand-i-norrtalje-villa-overtand",
    "desc": "Polis och räddningstjänst larmades under lördagsnatten till Norrtälje efter larm om en villabrand. Villan var övertänd och man misstänker att en person kan finnas kvar i huset."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man påkörd i centrala Stockholm – polisen utreder mordförsök",
-   "date": "2026-11-15T07:46:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-pakord-i-centrala-stockholm-polisen-utreder-mordforsok",
-   "desc": "En man blev påkörd av en bil på Kungsgatan i centrala Stockholm under söndagsmorgonen. Polisen utreder händelsen som mordförsök."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Här lär sig Kurt, 98, att våga vara otrevlig mot bedragare: ”Ska bli tuffare”",
-   "date": "2026-11-15T04:30:07.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-lar-sig-kurt-98-att-vaga-vara-otrevlig-mot-bedragare-ska-bli-tuffare",
-   "desc": "Efter att flera seniorer i Sundbyberg har drabbats av bedrägeriförsök under sommaren arrangerar staden en kurs där äldre ska lära sig att stå emot bedragare. – Vi ska lära oss att inte gå på en massa dumheter, säger deltagaren Kurt Hellsén som själv blivit drabbat."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 14 november",
-   "date": "2026-11-14T18:31:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-14-november-4lvv4l",
-   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm lördagen 14 november."
   },
   {
    "src": "BBC",
