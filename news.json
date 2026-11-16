@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:45:58.778Z",
+ "updated": "2026-11-16T00:41:26.610Z",
  "items": [
   {
    "src": "BBC",
@@ -7,23 +7,23 @@
    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
    "date": "2026-11-15T19:32:39.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+   "desc": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Iran targets US military base in Bahrain with drone attack",
-   "date": "2026-11-15T13:42:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-   "desc": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "date": "2026-11-15T22:24:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-   "date": "2026-11-15T11:06:32.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-   "desc": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month."
+   "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+   "date": "2026-11-15T23:52:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation."
   },
   {
    "src": "BBC",
@@ -40,6 +40,22 @@
    "date": "2026-11-15T18:38:11.000Z",
    "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
    "desc": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Positionerna är lika låsta”",
+   "date": "2026-11-15T21:26:03.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/positionerna-ar-lika-lasta",
+   "desc": "Centerpartiet har inte suddat ut några röda linjer. De stora tvistefrågorna är fortfarande olösta och positionerna är lika låsta. Men om inte Vänsterpartiet eller Centerpartiet ändrar sig kan bollen i något skede komma tillbaka till Ulf Kristersson (M) eller extraval."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "S totalpaket: Vinststopp i skolan och nej till fackligt veto",
+   "date": "2026-11-15T21:04:29.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/s-totalpaket-vinststopp-i-skolan-och-nej-till-fackligt-veto",
+   "desc": "SVT har nu tagit del av Magdalena Andersson (S) totalpaket i sin helhet. S vill bland annat se slopat lönegolv för arbetskraftsinvandring, vinststopp i skolan samt lättnader för jordbruket."
   },
   {
    "src": "SVT",
@@ -64,22 +80,6 @@
    "date": "2026-11-15T17:54:24.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/smhi-varnar-for-plotslig-ishalka-langs-del-av-norrlandskusten",
    "desc": "SMHI gick på söndagskvällen ut med en gul varning för plötslig ishalka på vägarna i kustlandet i Västerbotten och Västernorrland, från 22-tiden och fram till måndag morgon. Orsaken är regn som faller på kalla vägbanor."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Bekräftat: Ryssland stoppas från JVM",
-   "date": "2026-11-15T17:51:51.000Z",
-   "link": "https://www.svt.se/sport/ishockey/bekraftat-ryssland-stoppas-fran-jvm",
-   "desc": "Ryssland stoppas från JVM. Det bekräftar det internationella ishockeyförbundet (IIHF). Nu får Norge tillbaka sin plats i turneringen. – Jag är glad att spelarna får uppleva det mästerskap de gjort sig förtjänta av, säger den norska huvudtränaren Kim Veisten till SVT Sport."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man häktad – misstänks för medhjälp till Älvsjömordet",
-   "date": "2026-11-15T16:37:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-haktad-misstanks-for-medhjalp-till-alvsjomordet",
-   "desc": "Under söndagen häktades en man misstänkt för medhjälp till mordet på en kvinna i Älvsjö. Det rapporterar P4 Stockholm."
   },
   {
    "src": "STHLM",
