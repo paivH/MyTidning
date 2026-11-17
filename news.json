@@ -1,85 +1,101 @@
 {
- "updated": "2026-11-17T01:30:18.214Z",
+ "updated": "2026-11-17T10:05:38.174Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Five EU countries announce migrant deportation centre in Rwanda",
-   "date": "2026-11-16T23:20:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-   "desc": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers."
+   "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+   "date": "2026-11-17T09:27:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "desc": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-   "date": "2026-11-16T21:40:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent."
+   "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+   "date": "2026-11-17T05:59:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+   "desc": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-   "date": "2026-11-16T22:21:27.000Z",
+   "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+   "date": "2026-11-17T01:26:01.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+   "desc": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+   "date": "2026-11-17T02:37:53.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
    "desc": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-   "date": "2026-11-16T14:58:12.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-   "desc": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "When will we see Robert Pattinson as Bond in cinemas?",
-   "date": "2026-11-16T17:18:54.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007."
+   "title": "Body of Melbourne Cup horse found dumped in Sydney skip bin",
+   "date": "2026-11-17T07:01:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fast i timmar på E4 – bärgare  i Skellefteå kritisk mot däcken: ”För små krav”",
-   "date": "2026-11-16T15:52:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/fast-i-timmar-pa-e4-bargare-i-skelleftea-kritisk-mot-dacken-for-sma-krav",
-   "desc": "Bilister blev fast i bilköer hela natten i fredagens snöoväder mellan Umeå och Skellefteå. Bärgaren David Ström vill att det ställs hårdare krav på vilka vinterdäck som godkänns. – Det är för små krav för att få godkännande, säger han."
+   "title": "Nya ägare – pizzakoncern återuppstår efter konkurs",
+   "date": "2026-11-17T09:56:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/nya-agare-pizzakoncern-ateruppstar-efter-konkurs",
+   "desc": "I september gick företaget som driver Pizza Hut i Sverige i konkurs. Nu är det klart att restaurangkoncernen Nordrest tar över som ny franchisepartner och planerar att återöppna flera av kedjans tidigare restauranger."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Polisen varnar för ny farlig narkotika: ”Flera har förlorat medvetandet”",
-   "date": "2026-11-16T15:48:47.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/polisen-varnar-for-ny-farlig-narkotika-flera-har-forlorat-medvetandet",
-   "desc": "Polisen varnar nu för en misstänkt farlig narkotikasubstans som kan finnas i omlopp. Under de senaste veckorna har personer blivit så kraftigt påverkade att de förlorat medvetandet och fått andningsuppehåll."
+   "title": "Dråpmisstänkt i Skellefteå släpps på fri fot",
+   "date": "2026-11-17T09:39:39.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/drapmisstankt-i-skelleftea-slapps-pa-fri-fot",
+   "desc": "Den man som suttit häktad efter ett knivdrama då en man i 50-årsåldern omkom på Erikslid i Skellefteå har försatts på fri fot. – Det som framkommit från de tekniska uppgifterna är att han mycket väl kan ha agerat i en nödvärnssituation, säger åklagaren Anders Norberg."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Familjen har pyntat överallt: ”Vi maxar julen”",
-   "date": "2026-11-16T15:02:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/familjen-har-pyntat-overallt-vi-maxar-julen",
-   "desc": "Familjen Tammo har redan satt upp julpynt i sin trädgård och runt hela huset i Hovslätt utanför Jönköping. – Det kostade 30 000 konor att köpa in allt, och då var det rabatt på det mesta. Annars hade det kostat dubbelt så mycket, säger Asya Tammo."
+   "title": "Misstänkta mördarens försvarare i Rönningemordet begär mer tid – åtal skjuts fram",
+   "date": "2026-11-17T09:25:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/misstankta-mordarens-forsvarare-i-ronningemordet-begar-mer-tid-atal-skjuts-fram",
+   "desc": "Åtal mot den 26-årige man som misstänks för mordet i Rönninge skjuts fram igen. Tidigare har åklagaren begärt mer tid – nu är det den misstänktes försvarare som gör det. Åtalet planeras väckas den 1 december."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "14-årig flicka släppt från häktet – fortsatt misstänkt i Älvsjömordet",
-   "date": "2026-11-16T13:58:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/14-arig-flicka-slappt-fran-haktet-fortsatt-misstankt-i-alvsjomordet",
-   "desc": "Den 14-åriga flicka som misstänks för medhjälp till mord i Älvsjö släpptes från häktet under måndagsförmiddagen, meddelar åklagaren. Hon hanteras nu av socialtjänsten."
+   "title": "Sjuksköterska avstängd efter ”oönskad kontakt” med patient",
+   "date": "2026-11-17T09:23:45.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lakare-avstangd-efter-oonskad-kontakt-med-patient",
+   "desc": "En sjuksköterska vid en klinik inom Region Jönköpings län har stängts av med lön på grund av en privat relation med en patient. Bland annat ska han ha tagit del av patientjournalen utan att ha haft en vårdrelation till patienten."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "13-åring körde trimmad elsparkcykel – mamma döms",
-   "date": "2026-11-16T13:53:52.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/uppsala/13-aring-korde-trimmad-elsparkcykel-mamma-doms",
-   "desc": "Polisen gasade upp i 50 km/h men kom ändå inte ikapp pojken på elsparkcykel. Efter att han kört mot rött i en korsning lyckades polisen få stopp honom. Nu döms pojkens mamma."
+   "title": "Regionanställd stängs av – hade 30 000 sexuella övergreppsbilder på barn",
+   "date": "2026-11-17T08:52:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/regionanstalld-stangs-av-hade-30-000-sexuella-overgreppsbilder-pa-barn",
+   "desc": "Region Jönköpings län har stängt av en medarbetare efter att det framkommit att han dömts till ett långt fängelsestraff. Den anställde, en man i 30-årsåldern, hade närmare 30 000 bilder och filmer med barn som utsätts för sexuella övergrepp."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Klädsajten som anmälts flest gånger – hamnat på varningslistan",
+   "date": "2026-11-17T04:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kladsajten-som-anmalts-flest-ganger-hamnat-pa-varningslistan",
+   "desc": "Saga Stockholm hamnade nyligen på Konsumentverkets varningslista. Företaget är den klädsajt som anmälts flest gånger till myndigheten hittills i år. Konsumenter är missnöjda med kläderna som köpts. – Mina tre beställda klänningar såg helt annorlunda ut i verkligheten, säger Victoria som bor i Stockholm."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Konsumentverket: Så undviker du fällorna under Black Week",
+   "date": "2026-11-17T04:30:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/konsumentverket-sa-undviker-du-fallorna-under-black-week",
+   "desc": "Black Week är en av handelns viktigaste veckor. Den sista veckan i november handlar svenska konsumenter för drygt sju miljarder kronor mer än under en genomsnittlig vecka, enligt SCB. Men det finns fällor att se upp med."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,20 @@
    "desc": "Efter SVT:s granskning av en hunddagisverksamhet i Stockholm var det många hundägare som hörde av sig med frågor. SVT ringde upp professorn Lina Roth för svar och tips. – Det kan ju finnas många välfungerande hunddagis där ute men de kanske måste undersökas lite, säger hon."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Trafiken rullar igen efter stopp på blå linjen",
-   "date": "2026-11-16T15:17:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-pa-blaa-linjen-mellan-rissne-och-sundbybergs-centrum",
-   "desc": "De har varit stopp i trafiken på tunnelbanans blå linje mellan Rissne och Sundbybergs centrum på måndagseftermiddagen på grund av ett tekniskt fel."
+   "src": "BBC",
+   "section": "United",
+   "title": "Pochettino says he would tell Guardiola to take USA job",
+   "date": "2026-11-17T09:48:24.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "14-årig flicka släppt från häktet – fortsatt misstänkt i Älvsjömordet",
-   "date": "2026-11-16T13:58:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/14-arig-flicka-slappt-fran-haktet-fortsatt-misstankt-i-alvsjomordet",
-   "desc": "Den 14-åriga flicka som misstänks för medhjälp till mord i Älvsjö släpptes från häktet under måndagsförmiddagen, meddelar åklagaren. Hon hanteras nu av socialtjänsten."
+   "src": "BBC",
+   "section": "United",
+   "title": "'Inevitable' US players will be linked with Man Utd - McKennie",
+   "date": "2026-11-17T09:38:05.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5j9m0dd9lwxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Juventus midfielder Weston McKennie says it's \"inevitable\" for United States players to be linked with transfers to Manchester United after Mauricio Pochettino takes charge of the club."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-11-13T16:16:49.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cmrrg5x49l7yo?at_medium=RSS&at_campaign=rss",
    "desc": "Incoming Manchester United head coach Mauricio Pochettino defended his decision to leave his role as USA boss, saying it would have been \"difficult\" to turn down."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-   "date": "2026-11-13T15:28:06.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
-   "desc": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Emotional Pochettino in tears at USA press conference",
-   "date": "2026-11-13T15:25:31.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c50md0g9ymlyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Incoming Manchester United head coach Mauricio Pochettino was visibly emotional in his USA press conference on Thursday, describing the decision to move as \"one of the most difficult decisions of his career\"."
   }
  ]
 }
