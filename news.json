@@ -1,125 +1,133 @@
 {
- "updated": "2026-11-17T10:05:38.174Z",
+ "updated": "2026-11-17T19:15:39.621Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
-   "date": "2026-11-17T09:27:41.000Z",
+   "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "date": "2026-11-17T16:56:38.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-   "desc": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed."
+   "desc": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-   "date": "2026-11-17T05:59:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-   "desc": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say."
+   "title": "How the attack on Crimean Bridge unfolded",
+   "date": "2026-11-17T15:38:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+   "desc": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-   "date": "2026-11-17T01:26:01.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-   "desc": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice."
+   "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+   "date": "2026-11-17T18:24:21.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+   "desc": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-   "date": "2026-11-17T02:37:53.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "desc": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
+   "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+   "date": "2026-11-17T12:54:32.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+   "desc": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Body of Melbourne Cup horse found dumped in Sydney skip bin",
-   "date": "2026-11-17T07:01:00.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip."
+   "title": "US loses measles elimination status after 26 years amid record case numbers",
+   "date": "2026-11-17T17:10:03.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+   "desc": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nya ägare – pizzakoncern återuppstår efter konkurs",
-   "date": "2026-11-17T09:56:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/nya-agare-pizzakoncern-ateruppstar-efter-konkurs",
-   "desc": "I september gick företaget som driver Pizza Hut i Sverige i konkurs. Nu är det klart att restaurangkoncernen Nordrest tar över som ny franchisepartner och planerar att återöppna flera av kedjans tidigare restauranger."
+   "title": "”Tydligt att Kristersson inte gett upp hoppet om Centerpartiet”",
+   "date": "2026-11-17T18:11:07.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
+   "desc": "Inget tyder på att Vänsterpartiet kommer att släppa sitt krav på ministerposter. Och om de mot förmodan ändå skulle göra det så kommer det med en sakpolitisk nota som kan bli för hög för Centerpartiet. I det läget har Elisabeth Thand Ringqvist (C) skaffat sig en nödutgång i att välja Ulf Kristersson. Men det kräver att hon lyckas övertyga sitt parti om att en borgerlig minoritetsregering som kan behöva aktivt stöd av SD är bättre för C än ett extraval."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Dråpmisstänkt i Skellefteå släpps på fri fot",
-   "date": "2026-11-17T09:39:39.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/drapmisstankt-i-skelleftea-slapps-pa-fri-fot",
-   "desc": "Den man som suttit häktad efter ett knivdrama då en man i 50-årsåldern omkom på Erikslid i Skellefteå har försatts på fri fot. – Det som framkommit från de tekniska uppgifterna är att han mycket väl kan ha agerat i en nödvärnssituation, säger åklagaren Anders Norberg."
+   "title": "Beslut om tonårsutvisningarna: De påverkas av nya stopplagen",
+   "date": "2026-11-17T17:31:55.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/beslut-om-tonarsutvisningarna-de-paverkas-av-nya-stopplagen",
+   "desc": "Ett beslut om vilka som omfattas av stopplagen för de så kallade tonårsutvisningarna har fattats. – En viktig milstolpe, säger Jennifer Merelaid Hankins (V), ledamot i socialförsäkringsutskottet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Misstänkta mördarens försvarare i Rönningemordet begär mer tid – åtal skjuts fram",
-   "date": "2026-11-17T09:25:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/misstankta-mordarens-forsvarare-i-ronningemordet-begar-mer-tid-atal-skjuts-fram",
-   "desc": "Åtal mot den 26-årige man som misstänks för mordet i Rönninge skjuts fram igen. Tidigare har åklagaren begärt mer tid – nu är det den misstänktes försvarare som gör det. Åtalet planeras väckas den 1 december."
+   "title": "Efter kamphundsattacken – Rebecca tvingades avliva sin häst",
+   "date": "2026-11-17T16:43:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/efter-kamphundsattacken-rebecca-tvingades-avliva-sin-hast",
+   "desc": "SVT träffade Rebecca Tenser och hennes häst Teeni Weenie i oktober efter den allvarliga hundattacken. Då mådde hästen bättre och framtiden såg ljus ut. Men sen förändrades allt. – Det är nog den finaste hästen jag fått äga under en alldeles för kort stund, säger Rebecca Tenser."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Sjuksköterska avstängd efter ”oönskad kontakt” med patient",
-   "date": "2026-11-17T09:23:45.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lakare-avstangd-efter-oonskad-kontakt-med-patient",
-   "desc": "En sjuksköterska vid en klinik inom Region Jönköpings län har stängts av med lön på grund av en privat relation med en patient. Bland annat ska han ha tagit del av patientjournalen utan att ha haft en vårdrelation till patienten."
+   "title": "Centern i fokus i regeringsbildningen – så reagerar C i Östersund",
+   "date": "2026-11-17T16:23:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/centern-i-fokus-i-regeringsbildningen-sa-reagerar-c-i-ostersund",
+   "desc": "I 65 dagar har Sverige varit utan ny regering. I händelsernas centrum står inte minst Centerpartiet som vill se Magdalena Andersson som statsminister men som inte vill att Vänsterpartiet ska få några ministerposter. Så vad tänker då Centerpolitiker i Östersund om det politiska spelet som nu utspelar sig på riksnivå?"
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Regionanställd stängs av – hade 30 000 sexuella övergreppsbilder på barn",
-   "date": "2026-11-17T08:52:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/regionanstalld-stangs-av-hade-30-000-sexuella-overgreppsbilder-pa-barn",
-   "desc": "Region Jönköpings län har stängt av en medarbetare efter att det framkommit att han dömts till ett långt fängelsestraff. Den anställde, en man i 30-årsåldern, hade närmare 30 000 bilder och filmer med barn som utsätts för sexuella övergrepp."
+   "title": "Därför klarar Gnosjöföretagen elchocken: ”Väldigt nöjda just nu”",
+   "date": "2026-11-17T16:03:24.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sa-klarar-gnosjoforetagen-elchocken-valdigt-nojda-just-nu",
+   "desc": "Runt 50 företag har i Gnosjö gått ihop för att köp el. Genom sitt avtal med en elleverantör köper stora och små företag tillsammans el för tre år framåt. – Det gör oss inte lika känsliga för toppar och dalar i elpriset, säger Markus Brunner, ordförande i Gnosjöandans näringsliv."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Klädsajten som anmälts flest gånger – hamnat på varningslistan",
-   "date": "2026-11-17T04:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kladsajten-som-anmalts-flest-ganger-hamnat-pa-varningslistan",
-   "desc": "Saga Stockholm hamnade nyligen på Konsumentverkets varningslista. Företaget är den klädsajt som anmälts flest gånger till myndigheten hittills i år. Konsumenter är missnöjda med kläderna som köpts. – Mina tre beställda klänningar såg helt annorlunda ut i verkligheten, säger Victoria som bor i Stockholm."
+   "title": "Trafikolycka på E4:an – fyra bilar inblandade",
+   "date": "2026-11-17T16:53:06.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/trafikolycka-pa-e4an-fyra-bilar-inblandade",
+   "desc": "Fyra bilar var inblandade i en trafikolycka på E4:an vid Trafikplats Glädjen i riktning mot Stockholm."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Konsumentverket: Så undviker du fällorna under Black Week",
-   "date": "2026-11-17T04:30:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/konsumentverket-sa-undviker-du-fallorna-under-black-week",
-   "desc": "Black Week är en av handelns viktigaste veckor. Den sista veckan i november handlar svenska konsumenter för drygt sju miljarder kronor mer än under en genomsnittlig vecka, enligt SCB. Men det finns fällor att se upp med."
+   "title": "Nyheter från dagen: 17 november",
+   "date": "2026-11-17T16:09:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-17-november-lfvvez",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm tisdagen 17 november."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 16 november",
-   "date": "2026-11-16T17:37:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-16-november-174x04",
-   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm måndagen 16 november."
+   "title": "Busschaufförer i Norrtälje utan julbord: ”Känns som en bestraffning”",
+   "date": "2026-11-17T15:53:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/busschaufforer-i-norrtalje-utan-julbord-kanns-som-en-bestraffning",
+   "desc": "I oktober stannade all busstrafik i Norrtälje kommun efter ett akut skyddsstopp. I förra veckan meddelade bussoperatören Transdev att det inte blir något julbord för de anställda – och refererade till kostnaderna skyddstoppet medfört."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Kalla Fakta: Bröd & Salt startades med bedrägeripengar",
-   "date": "2026-11-16T15:51:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kalla-fakta-brod-och-salt-startades-med-bedrageripengar",
-   "desc": "Kafékedjan som vuxit i snabb takt i Stockholm senaste åren har tidigare i år uppmärksammats för bristande arbetsmiljö och personal som arbetat under dödshot. Nu avslöjar Kalla Fakta att Bröd & Salt grundats på pengar från ekonomisk brottslighet."
+   "title": "Inställda avgångar på gröna linjen",
+   "date": "2026-11-17T14:03:12.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kraftiga-forseningar-pa-grona-linjen",
+   "desc": "Tunnelbanans gröna linje drabbas under tisdagseftermiddagen av kraftiga förseningar och inställda avgångar efter signalfel vid Gullmarsplan."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Hundexperten: Så ska du tänka kring hunddagis",
-   "date": "2026-11-16T15:18:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/hundexperten-sa-ska-du-tanka-kring-hunddagis",
-   "desc": "Efter SVT:s granskning av en hunddagisverksamhet i Stockholm var det många hundägare som hörde av sig med frågor. SVT ringde upp professorn Lina Roth för svar och tips. – Det kan ju finnas många välfungerande hunddagis där ute men de kanske måste undersökas lite, säger hon."
+   "title": "17 000 stockholmare vill ha kvar halverat SL-kort",
+   "date": "2026-11-17T13:15:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/17-000-stockholmare-vill-ha-kvar-halverat-sl-kort-hor-svaret-fran-trafikregionradet",
+   "desc": "På två veckor har fler än 17 000 namnunderskrifter samlats in från stockholmare som vill se fortsatt halverat pris på månadskortet i SL-trafiken. I dag lämnades namnen över till trafikregionrådet Jakop Dalunde (MP). – Det hade varit bättre om vi haft mer tid att prata. Nu blev det lite hastigt, han var tvungen att gå på möte, säger Anna Knutas Blomquist, initiativtagare till namninsamlingen."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Rooney says he considered taking his own life at Man Utd",
+   "date": "2026-11-17T14:09:19.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\"."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-13T22:53:17.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
    "desc": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Pochettino defends USA exit to take Man Utd job",
-   "date": "2026-11-13T16:16:49.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmrrg5x49l7yo?at_medium=RSS&at_campaign=rss",
-   "desc": "Incoming Manchester United head coach Mauricio Pochettino defended his decision to leave his role as USA boss, saying it would have been \"difficult\" to turn down."
   }
  ]
 }
