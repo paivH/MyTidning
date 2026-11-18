@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-18T01:45:24.577Z",
+ "updated": "2026-11-18T09:40:54.541Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "date": "2026-11-17T23:02:12.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+   "desc": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+   "date": "2026-11-18T01:18:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "desc": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+   "date": "2026-11-18T04:57:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+   "date": "2026-11-18T07:00:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -10,76 +42,68 @@
    "desc": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "How the attack on Crimean Bridge unfolded",
-   "date": "2026-11-17T15:38:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-   "desc": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-   "date": "2026-11-18T01:18:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-   "desc": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Thomas Markle charged over child sex abuse material in Philippines",
-   "date": "2026-11-17T22:44:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-   "desc": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-   "date": "2026-11-17T17:19:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-   "desc": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Döda katter hittade i avstängt kylskåp – par åtalas för djurplågeri",
+   "date": "2026-11-18T09:37:51.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/doda-katter-hittade-i-avstangt-kylskap-par-atalas-for-djurplageri",
+   "desc": "Ett par i Ronneby kommun åtalas nu för djurplågeri efter att ha misskött sina katter till en sådan grad att flera behövt avlivas. Under utredningen hittades även flera katter döda i ett avstängt kylskåp i parets garage."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "”Tydligt att Kristersson inte gett upp hoppet om Centerpartiet”",
-   "date": "2026-11-17T18:11:07.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
-   "desc": "Inget tyder på att Vänsterpartiet kommer att släppa sitt krav på ministerposter. Och om de mot förmodan ändå skulle göra det så kommer det med en sakpolitisk nota som kan bli för hög för Centerpartiet. I det läget har Elisabeth Thand Ringqvist (C) skaffat sig en nödutgång i att välja Ulf Kristersson. Men det kräver att hon lyckas övertyga sitt parti om att en borgerlig minoritetsregering som kan behöva aktivt stöd av SD är bättre för C än ett extraval."
+   "title": "Grannarna om kryptorånet: Obehagligt att det kommer så nära",
+   "date": "2026-11-18T09:35:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/grannarna-om-kryptoranet-obehagligt-att-det-kommer-sa-nara",
+   "desc": "Christina och Mona har länge bott i närheten av de två personer som utsattes för ett rån i natt. – Det är obehagligt när det kommer så nära, säger Mona."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Beslut om tonårsutvisningarna: De påverkas av nya stopplagen",
-   "date": "2026-11-17T17:31:55.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/beslut-om-tonarsutvisningarna-de-paverkas-av-nya-stopplagen",
-   "desc": "Ett beslut om vilka som omfattas av stopplagen för de så kallade tonårsutvisningarna har fattats. – En viktig milstolpe, säger Jennifer Merelaid Hankins (V), ledamot i socialförsäkringsutskottet."
+   "title": "Omsorgsbolaget Forenede care vägrar lämna äldreboendena i Nyköping",
+   "date": "2026-11-18T09:24:58.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sormland/omsorgsbolaget-forenede-care-vagrar-lamna-aldreboendena-i-nykoping",
+   "desc": "Omsorgsbolaget Forenede care som har tre särskilda boenden i Nyköping, bestrider nu kommunens hävning av avtalet för företages äldreboende, det skriver Södermanlands nyheter."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter kamphundsattacken – Rebecca tvingades avliva sin häst",
-   "date": "2026-11-17T16:43:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/efter-kamphundsattacken-rebecca-tvingades-avliva-sin-hast",
-   "desc": "SVT träffade Rebecca Tenser och hennes häst Teeni Weenie i oktober efter den allvarliga hundattacken. Då mådde hästen bättre och framtiden såg ljus ut. Men sen förändrades allt. – Det är nog den finaste hästen jag fått äga under en alldeles för kort stund, säger Rebecca Tenser."
+   "title": "”Mänsklig” är årets ord",
+   "date": "2026-11-18T08:25:06.000Z",
+   "link": "https://www.svt.se/kultur/mansklig-ar-arets-ord",
+   "desc": "”Mänsklig” har utsetts till årets ord av Cambridge University Press."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Centern i fokus i regeringsbildningen – så reagerar C i Östersund",
-   "date": "2026-11-17T16:23:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/centern-i-fokus-i-regeringsbildningen-sa-reagerar-c-i-ostersund",
-   "desc": "I 65 dagar har Sverige varit utan ny regering. I händelsernas centrum står inte minst Centerpartiet som vill se Magdalena Andersson som statsminister men som inte vill att Vänsterpartiet ska få några ministerposter. Så vad tänker då Centerpolitiker i Östersund om det politiska spelet som nu utspelar sig på riksnivå?"
+   "title": "Kif Örebro begärs i konkurs",
+   "date": "2026-11-18T06:57:41.000Z",
+   "link": "https://www.svt.se/sport/fotboll/kif-orebro-begars-i-konkurs-dagen-innan-kvalet",
+   "desc": "Kif Örebro slutade trea i elitettan och ska kvala upp till damallsvenskan. Men nu, dagen innan första kvalmatchen mot Rosengård, står det klart att klubben har begärts i konkurs. Det bekräftar klubbens ordförande till P4 Örebro. Det hela kan leda till att klubben utesluts från all tävling. Men kvalet kommer spelas som planerat."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Därför klarar Gnosjöföretagen elchocken: ”Väldigt nöjda just nu”",
-   "date": "2026-11-17T16:03:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sa-klarar-gnosjoforetagen-elchocken-valdigt-nojda-just-nu",
-   "desc": "Runt 50 företag har i Gnosjö gått ihop för att köp el. Genom sitt avtal med en elleverantör köper stora och små företag tillsammans el för tre år framåt. – Det gör oss inte lika känsliga för toppar och dalar i elpriset, säger Markus Brunner, ordförande i Gnosjöandans näringsliv."
+   "title": "Fullt utvecklad brand i lägenhetshus i Upplands-Bro",
+   "date": "2026-11-18T06:18:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fullt-utvecklad-brand-i-lagenhetshus-i-upplands-bro",
+   "desc": "Det har brunnit i ett lägenhetshus i Kungsängen i Upplands-Bro på onsdagsmorgonen. Enligt räddningstjänsten handlade det om en fullt utvecklad brand på åttonde våningen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Köer på E4 norr om Stockholm efter trafikolycka",
+   "date": "2026-11-18T06:02:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/langa-koer-pa-e4-norr-om-stockholm-efter-trafikolycka",
+   "desc": "Flera fordon har krockat på E4 i höjd med trafikplats Bredden norr om Stockholm. Olyckan ledde till långa köer i riktning mot Stockholm på onsdagsmorgonen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Pekas ut som Foxtrots våldskoordinator – kopplas till bussmordet i Tyresö",
+   "date": "2026-11-18T04:30:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/han-sags-vara-foxtrots-valdskoordinator-kopplas-till-bussmordet",
+   "desc": "Ett konto med namnet ”Jihadi John” återkommer i flera utredningar om grova våldsbrott. Bakom aliaset misstänker polisen att en man i 20-årsåldern finns – som enligt uppgifter till SVT pekas ut som Foxtrots nya våldskoordinator. Han kopplas bland annat till mordet på en buss i Tyresö, vars rättegång inleds på onsdagen."
   },
   {
    "src": "STHLM",
@@ -98,28 +122,12 @@
    "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm tisdagen 17 november."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Busschaufförer i Norrtälje utan julbord: ”Känns som en bestraffning”",
-   "date": "2026-11-17T15:53:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/busschaufforer-i-norrtalje-utan-julbord-kanns-som-en-bestraffning",
-   "desc": "I oktober stannade all busstrafik i Norrtälje kommun efter ett akut skyddsstopp. I förra veckan meddelade bussoperatören Transdev att det inte blir något julbord för de anställda – och refererade till kostnaderna skyddstoppet medfört."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Tunnelbanestrul på Gröna linjen – åtgärdat",
-   "date": "2026-11-17T14:03:12.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/kraftiga-forseningar-pa-grona-linjen",
-   "desc": "Tunnelbanans gröna linje drabbades under tisdagseftermiddagen av kraftiga förseningar och inställda avgångar efter signalfel vid Gullmarsplan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "17 000 stockholmare vill ha kvar halverat SL-kort",
-   "date": "2026-11-17T13:15:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/17-000-stockholmare-vill-ha-kvar-halverat-sl-kort-hor-svaret-fran-trafikregionradet",
-   "desc": "På två veckor har fler än 17 000 namnunderskrifter samlats in från stockholmare som vill se fortsatt halverat pris på månadskortet i SL-trafiken. I dag lämnades namnen över till trafikregionrådet Jakop Dalunde (MP). – Det hade varit bättre om vi haft mer tid att prata. Nu blev det lite hastigt, han var tvungen att gå på möte, säger Anna Knutas Blomquist, initiativtagare till namninsamlingen."
+   "src": "BBC",
+   "section": "United",
+   "title": "Manchester won't always be blue - Pochettino",
+   "date": "2026-11-18T08:42:28.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+   "desc": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-17T09:48:24.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
    "desc": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'Inevitable' US players will be linked with Man Utd - McKennie",
-   "date": "2026-11-17T09:38:05.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c5j9m0dd9lwxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Juventus midfielder Weston McKennie says it's \"inevitable\" for United States players to be linked with transfers to Manchester United after Mauricio Pochettino takes charge of the club."
   }
  ]
 }
