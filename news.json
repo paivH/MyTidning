@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-19T00:56:35.841Z",
+ "updated": "2026-11-19T08:26:34.623Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+   "date": "2026-11-19T04:42:52.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,14 +16,6 @@
    "date": "2026-11-18T17:00:40.000Z",
    "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
    "desc": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-   "date": "2026-11-18T17:00:04.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
   },
   {
    "src": "BBC",
@@ -28,10 +28,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-   "date": "2026-11-18T23:44:27.000Z",
+   "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
+   "date": "2026-11-19T02:20:15.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence."
+   "desc": "The company behind the Claude chatbot will become one of the most valuable firms in the world."
   },
   {
    "src": "BBC",
@@ -44,42 +44,66 @@
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Takplatta och byggmaterial föll ner i förlossningsrum på Södersjukhuset",
-   "date": "2026-11-18T19:14:06.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/tak-har-rasat-in-pa-forlossningsavdelning",
-   "desc": "Under onsdagseftermiddagen ramlade byggnadsmaterial ner i ett förlossningsrum på Södersjukhuset i Stockholm. Ingen person skadades med sjukhuset hade ett tillfälligt stopp för nya patienter."
+   "title": "Sex åtalas för våldsbrott på internatet i Sigtuna",
+   "date": "2026-11-19T08:08:35.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-valdsbrott-pa-internatet-i-sigtuna",
+   "desc": "Under hösten har misstankar om misshandel, olaga tvång och sexuellt ofredande mellan elever framkommit på Sigtunaskolan humanistiska läroverket. Nu åtalas sex elever, tre av dem för grovt sexuellt ofredande, grov misshandel och grovt olaga tvång."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Problem med Playstation-nätverket inför GTA 6-släppet",
-   "date": "2026-11-18T18:42:59.000Z",
-   "link": "https://www.svt.se/kultur/problem-med-playstation-infor-gta-6-slappet",
-   "desc": "Inför GTA 6-släppet är det många som vill in på playstation network. Många användare rapporterar just nu att de har problem med uppkopplingen, enligt sajten Downdetector."
+   "title": "Volvo döms att betala 23 miljoner kronor – efter allvarlig olycka",
+   "date": "2026-11-19T08:00:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/volvo-doms-att-betala-23-miljoner-kronor-efter-allvarlig-olycka",
+   "desc": "En anställd på Volvo Personvagnar AB i Olofström höll på att klämmas ihjäl i en olycka förra året. Nu döms Volvo att betala 23,2 miljoner kronor i företagsbot, då det framkommit stora säkerhetsbrister i fabriken."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "35 frågor: Här är de rödgröna partierna överens – och inte",
-   "date": "2026-11-18T17:43:07.000Z",
-   "link": "https://www.svt.se/nyheter/35-fragor-har-ar-de-rodgrona-partierna-overens-och-inte",
-   "desc": "Regeringsförhandlingar pågår just nu mellan de rödgröna partierna. Förutom vilka partier som ska sitta i en eventuell regering behöver de komma överens om en rad sakpolitiska förslag. Se SVT:s genomgång av frågor som förenar – och skiljer dem åt."
+   "title": "Barn påkört av buss i Jämjö – fört till sjukhus",
+   "date": "2026-11-19T07:36:20.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/blekinge/barn-pakort-av-buss-i-jamjo-fort-till-sjukhus",
+   "desc": "Ett cyklande barn har under torsdagsmorgonen blivit påkört av en buss i Jämjö utanför Karlskrona. Barnet har förts till sjukhus med ambulans."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Frida Karlssons stalker ska genomgå sinnesundersökning",
-   "date": "2026-11-18T16:08:24.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/frida-karlssons-stalker-ska-genomga-sinnesundersokning",
-   "desc": "Frida Karlssons stalker ska genomgå en liten sinnesundersökning. Det stod klart efter ondagens förhandlingar i Eskilstuna tingsrätt där Frida Karlsson vittnade. – Jag har en högre grundstress, känner hela tiden ett obehag, sa hon."
+   "title": "Efter sex timmars spelande – så bra är nya GTA 6",
+   "date": "2026-11-19T07:19:44.000Z",
+   "link": "https://www.svt.se/kultur/recension-efter-fem-timmars-spelande-sa-bra-ar-nya-gta-6",
+   "desc": "GTA 6 släpptes vid midnatt. Sedan dess har Kulturnyheternas spelkritiker Kristoffer Viita varit vaken för att testa årets mest omtalade spel. – Jag har älskat varje sekund. Se första recensionen i klippet."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Så ska Södertäljeborna få vatten i en kris",
-   "date": "2026-11-18T15:54:51.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/sa-ska-sodertaljeborna-fa-vatten-i-en-kris",
-   "desc": "Vad händer när det inte längre kommer vatten ur kranen? Det var utgångspunkten när verksamheter i Södertälje kommun övade på kris. – När den vanliga vattenförsörjningen slås ut måste vi snabbt kunna se till att både invånare och samhällsviktiga verksamheter får vatten, säger Viktorija Pesic på Telge nät."
+   "title": "Naturskyddsföreningen överklagar vargjakten: ”Hör hemma i svensk natur”",
+   "date": "2026-11-19T06:33:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/naturskyddsforeningen-overklagar-vargjakten-hor-hemma-i-svensk-natur",
+   "desc": "Naturskyddsföreningen överklagar nästa års licensjakt på varg. – Vargen hör hemma i den svenska naturen. Vi har ett ansvar för att den ska finnas kvar, säger generalsekreterare Beatrice Rindevall till TT."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Sex åtalas för våldsbrott på internatet i Sigtuna",
+   "date": "2026-11-19T08:08:40.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-overgrepp-pa-sigtunaskolan",
+   "desc": "Under hösten har misstankar om misshandel, olaga tvång och sexuellt ofredande mellan elever framkommit på Sigtunaskolan humanistiska läroverket. Nu åtalas sex elever, tre av dem för grovt sexuellt ofredande, grov misshandel och grovt olaga tvång."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Sex åtalas för våldsbrott på internatet i Sigtuna",
+   "date": "2026-11-19T08:08:35.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-valdsbrott-pa-internatet-i-sigtuna",
+   "desc": "Under hösten har misstankar om misshandel, olaga tvång och sexuellt ofredande mellan elever framkommit på Sigtunaskolan humanistiska läroverket. Nu åtalas sex elever, tre av dem för grovt sexuellt ofredande, grov misshandel och grovt olaga tvång."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Staden slår larm om duvorna – folk ramlar i bajset",
+   "date": "2026-11-19T04:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/staden-slar-larm-om-duvorna-folk-ramlar-i-bajset",
+   "desc": "Stockholms stad menar att duvorna på Rinkeby torg orsakar höga kostnader för städning och underhåll. Nu tar trafikkontoret krafttag för att få bukt med matningen av fåglarna. – Det har till och med hänt att folk ramlar för att det är så mycket duvbajs på torget, säger trafikkontorets presstalesperson Malinda Flodman."
   },
   {
    "src": "STHLM",
@@ -98,28 +122,12 @@
    "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm onsdagen 18 november."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Personbil och lastbil krockade i Haninge utanför Stockholm",
-   "date": "2026-11-18T16:14:30.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/personbil-och-lastbil-i-krock-i-haninge-utanfor-stockholm",
-   "desc": "Under onsdagseftermiddagen inträffar en trafikolycka mellan en personbil och lastbil i Haninge."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Handavtrycket avslöjade skytten i bussmordet i Tyresö",
-   "date": "2026-11-18T14:03:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/handavtrycket-avslojade-skytten-i-bussmordet-i-tyreso",
-   "desc": "I dag började rättegången efter mordet på 18-årige Ghaith i Tyresö i mars. Nu står den misstänkte skytten och fyra män inför rätta."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Fullt utvecklad brand i lägenhetshus i Upplands-Bro",
-   "date": "2026-11-18T06:18:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/fullt-utvecklad-brand-i-lagenhetshus-i-upplands-bro",
-   "desc": "Det har brunnit i ett lägenhetshus i Kungsängen i Upplands-Bro på onsdagsmorgonen. Enligt räddningstjänsten handlade det om en fullt utvecklad brand på åttonde våningen."
+   "src": "BBC",
+   "section": "United",
+   "title": "How Premier League's big six keep getting richer",
+   "date": "2026-11-19T07:38:22.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-18T11:24:11.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/ckn80y39384xo?at_medium=RSS&at_campaign=rss",
    "desc": "Nedum Onuoha and Rory Smith on which of the new Premier League bosses has the harder job - Mauricio Pochettino or Thomas Frank"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Former Spain midfielder Mata retires aged 38",
-   "date": "2026-11-18T10:12:46.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38."
   }
  ]
 }
