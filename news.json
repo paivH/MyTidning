@@ -1,11 +1,19 @@
 {
- "updated": "2026-11-19T17:32:32.908Z",
+ "updated": "2026-11-20T00:14:47.604Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "date": "2026-11-19T23:33:51.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "desc": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-   "date": "2026-11-19T16:55:57.000Z",
+   "date": "2026-11-19T20:07:02.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
    "desc": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
   },
@@ -13,73 +21,65 @@
    "src": "BBC",
    "section": "Världen",
    "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-   "date": "2026-11-19T15:23:34.000Z",
+   "date": "2026-11-19T17:38:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
    "desc": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-   "date": "2026-11-19T15:52:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-   "desc": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people."
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "date": "2026-11-19T21:21:43.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "desc": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-   "date": "2026-11-19T13:31:23.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-   "desc": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-   "date": "2026-11-19T13:07:35.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "desc": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week."
+   "title": "California targets Nvidia in China AI chip probe",
+   "date": "2026-11-19T23:04:30.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "desc": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "En person död efter brand i Gnosjö",
-   "date": "2026-11-19T17:21:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/en-person-dod-efter-brand-i-gnosjo",
-   "desc": "En person fördes till sjukhus efter en brand i ett bostadshus i Hillerstorp under torsdagseftermiddagen. Men personens liv gick inte att rädda."
+   "title": "Färjestad tog 15:e raka segern – efter kaxiga draget mot Frölunda",
+   "date": "2026-11-19T20:39:51.000Z",
+   "link": "https://www.svt.se/sport/ishockey/farjestad-tog-15e-raka-segern-efter-kaxiga-draget",
+   "desc": "Färjestad ångar på. I och med segern mot Frölunda tangerade de ett 51 år gammalt rekord. Efter ett kaxigt drag i förlängningen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nya GTA 6 är här: ”Rimligt att skippa skola och jobb”",
-   "date": "2026-11-19T16:45:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/nya-gta-6-ar-har-rimligt-att-skippa-skola-och-jobb",
-   "desc": "I natt släpptes det nya GTA spelet. Ett spel som varit efterlängtat av många och som får folk att skolka. – Det är rimligt att ta ledigt, säger spelentusiasten Andreas Westman i Jönköping."
+   "title": "Över 2 000 hushåll blev utan elström i Jämtland",
+   "date": "2026-11-19T20:17:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jamtland/over-2000-hushall-utan-elstrom-i-jamtland",
+   "desc": "Drygt 2 000 elkunder hos Jämtkraft har varit utan elström sedan 21-tiden, skriver P4 Jämtland. Som mest har 2 726 hushåll drabbats."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ludvig, 24, tog semester för GTA 6 – spelade hela natten",
-   "date": "2026-11-19T15:53:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/ludvig-24-tog-semester-for-gta-6-spelade-hela-natten",
-   "desc": "Fansen har väntat i 13 år – och nu är GTA 6 släppt. 24-årige Ludvig Stenberg från Kalix tog ledigt från jobbet, köpte ny tv och spelkonsol och laddade med kaffe och energidryck. – Jag har spelat från första sekunden det här dygnet, säger han."
+   "title": "Norwegian ber 5 000 kunder spärra sina bankkort efter dataintrång",
+   "date": "2026-11-19T20:03:56.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang",
+   "desc": "Omkring 5 000 kunder hos flygbolaget Norwegian uppmanas att omedelbart spärra sina bankkort efter ett dataintrång hos en extern IT-leverantör, rapporterar VG."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "KD-ministerns skogsvarning till C: ”Ett rent hot”",
-   "date": "2026-11-19T15:41:18.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/kd-ministerns-skogsvarning-till-c-ett-rent-hot",
-   "desc": "Äganderätten till skogen har blivit en het fråga i regeringsförhandlingarna. Nu anklagar landsbygdsminister Peter Kullgren (KD) Magdalena Andersson för att utpressa centerpartisterna i sitt totalpaket. – Det där ser jag som ett rent hot: ”gör som jag vill annars tänker jag göra allt för att jäklas”, säger han."
+   "title": "Kalle får inte bygga badrum – måste tvätta hos barnen i Kiruna",
+   "date": "2026-11-19T18:00:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kalle-far-inte-bygga-badrum-maste-tvatta-hos-barnen-i-kiruna",
+   "desc": "Kalle Modin vill bygga badrum och tvättstuga vid sitt hus på ett statligt arrende i Kalixforsbron utanför Kiruna. Men länsstyrelsen säger nej – och han får varken en motivering eller kan överklaga. – Jag måste åka in till mina barn och tvätta och duscha, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Se Jakobs premäråk på Nydalasjön i Umeå –  i snöyran: ”Skjuts av vinden”",
-   "date": "2026-11-19T15:40:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/se-jakobs-premarak-pa-nydalasjon-i-umea-i-snoyran-skjuts-av-vinden",
-   "desc": "Isen har nätt och jämt lagt sig på Nydalasjön i Umeå. Då passade Jakob Andrén och systern Matilda på att snöra på sig långfärdsskridskorna för en tur – som slutade i snöyra. – Det kan bli första och enda åkturen på Nydalasjön med lite otur, säger skridskoåkaren Jakob Andrén."
+   "title": "SVT-granskningen ”Hatet” får Stora journalistpriset i kategorin ”Årets förnyare”",
+   "date": "2026-11-19T17:35:13.000Z",
+   "link": "https://www.svt.se/kultur/svt-granskningen-hatet-far-stora-journalistpriset-i-kategorin-arets-fornyare",
+   "desc": "SVT-granskningen ”Hatet” om influencern Joakim Lundell får Stora journalistpriset i kategorin ”Årets förnyare”. – Ingen annan granskning har väckt lika mycket debatt som den här i år, konstaterar Essy Klingberg när hon delade ut priset till SVT-journalisten Bo-Göran Bodin."
   },
   {
    "src": "STHLM",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Pochettino's first Man Utd training session filmed by drone operator",
+   "date": "2026-11-19T18:45:56.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+   "desc": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
    "date": "2026-11-19T15:05:21.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "date": "2026-11-18T16:59:49.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cm4gnxr7rj0jo?at_medium=RSS&at_campaign=rss",
    "desc": "Why does new Manchester United manager Mauricio Pochettino keep lemons in his office?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "The longest commute for the first day of a new job?",
-   "date": "2026-11-18T15:44:28.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6dx1nejrpvno?at_medium=RSS&at_campaign=rss",
-   "desc": "Mauricio Pochettino arrives for his first day as Manchester United head coach after an overnight journey from Cincinnati to Manchester."
   }
  ]
 }
