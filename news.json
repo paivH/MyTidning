@@ -1,45 +1,61 @@
 {
- "updated": "2026-11-20T16:39:22.957Z",
+ "updated": "2026-11-20T22:56:28.026Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+   "date": "2026-11-20T17:49:48.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+   "desc": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "date": "2026-11-20T21:57:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+   "desc": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "French police officers sentenced for beating of music producer Michel Zecler",
+   "date": "2026-11-20T22:37:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+   "desc": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Gérard Depardieu and French author investigated over sexual allegations",
+   "date": "2026-11-20T19:45:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+   "desc": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "date": "2026-11-20T13:52:04.000Z",
+   "date": "2026-11-20T16:54:29.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
    "desc": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-   "date": "2026-11-20T13:01:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Experten häpnar över detaljen vid Rasmus Dahlins solomål",
+   "date": "2026-11-20T22:27:58.000Z",
+   "link": "https://www.svt.se/sport/ishockey/experten-hapnar-over-detaljen-vid-rasmus-dahlins-solomal",
+   "desc": "Rasmus Dahlin, 26, fortsätter att göra uppmärksammade solomål. Experten menar att det finns en detalj i den svenska stjärnans spel som förklarar hur han kan göra det."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Anthropic shares fall a day after blockbuster opening",
-   "date": "2026-11-20T16:27:47.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "desc": "Other tech companies have also taken a hit as share markets broadly slump."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Nearly 600 women killed in South Africa within three months",
-   "date": "2026-11-20T15:55:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-   "desc": "Police officials called for \"greater efforts to prevent... violence\" against women and children."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Texas death-row inmate screams as execution takes more than one hour",
-   "date": "2026-11-20T12:42:37.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-   "desc": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Splittringen i norska damlandslaget – en dök upp på lägret: ”Extremt dåligt”",
+   "date": "2026-11-20T22:04:48.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/splittringen-i-norska-damlandslaget-en-dok-upp-pa-lagret-extremt-daligt",
+   "desc": "Milla Grosberghaugen Andreassen, 21, är debutant i norska längdlandslaget. På ett försäsongsläger i Idre var hon den enda åkaren som dök upp. – Jag tycker det är extremt dåligt, säger hon till NRK."
   },
   {
    "src": "SVT",
@@ -66,20 +82,12 @@
    "desc": "I somras fick ett grabbgängs årliga fyllegolfsturnering ett snöpligt slut. Vad som skulle blivit en avslutning i klubbhuset blev i stället en voltad golfbil i diket."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Uppgifter: V nobbar S-bud om tjänstemän på regeringskansliet",
-   "date": "2026-11-20T15:30:11.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/uppgifter-v-nobbar-s-bud-om-tjansteman-pa-regeringskansliet",
-   "desc": "Efter att ha förhandlat och övernattat tillsammans är läget fortsatt låst bland de rödgröna partierna. Enligt SVT:s uppgifter har V fått ett bud från S som innehåller tjänstemän på regeringskansliet. – Jag hoppas det finns en gemensam vilja att hitta lösningar, säger Mikael Damberg (S)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Nu sitter Värmekyrkans adventsljus på plats",
-   "date": "2026-11-20T15:06:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/nu-sitter-varmekyrkans-adventsljus-pa-plats",
-   "desc": "Under fredagsförmiddagen monterades adventsljusen på Värmekyrkans tak i Norrköping. Ett populärt landmärke som lyst upp staden i juletid sedan millennieskiftet."
+   "title": "Nyheter från dagen: 20 november",
+   "date": "2026-11-20T16:42:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-20-november-5b7luf",
+   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm fredagen 20 november."
   },
   {
    "src": "STHLM",
@@ -114,28 +122,20 @@
    "desc": "En taxichaufför hotades och attackerades med kniv av en passagerare i Huddinge under tidiga fredagsmorgonen. Chauffören lyckades undkomma attacken och klarade sig utan fysiska skador."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "20-åring åtalas efter dödskörningen på Östermalm",
-   "date": "2026-11-20T08:25:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/20-aring-atalas-efter-dodskorningen-pa-ostermalm",
-   "desc": "En 20-årig man åtalas efter dödsolyckan på Östermalm i september, då en 57-årig kvinna omkom efter att mannen körde in i hennes bil i hög hastighet."
+   "src": "BBC",
+   "section": "United",
+   "title": "'That's not just about Arteta, Klopp or Pep' - Ferdinand on Man Utd public outbursts",
+   "date": "2026-11-20T22:22:03.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ckn809wgvgvpo?at_medium=RSS&at_campaign=rss",
+   "desc": "Rio Ferdinand speaking on 5 Live Sport's Premier League Kick-Off, addresses recent public outbursts from Manchester United's Bruno Fernandes and Lisandro Martinez"
   },
   {
    "src": "BBC",
    "section": "United",
    "title": "Man Utd fan criticism has gone too far at times - Berrada",
-   "date": "2026-11-20T16:24:46.000Z",
+   "date": "2026-11-20T16:55:11.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\"."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "We want to have a positive impact - Pochettino",
-   "date": "2026-11-20T16:01:53.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cw20xd2zgl0xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Mauricio Pochettino talks for the first time about his arrival at Manchester United and what his goals are ahead of his first game."
   },
   {
    "src": "BBC",
