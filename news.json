@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-20T00:14:47.604Z",
+ "updated": "2026-11-20T07:36:18.582Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "UK and EU to agree youth mobility scheme, BBC understands",
+   "date": "2026-11-20T07:14:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+   "desc": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -8,6 +16,14 @@
    "date": "2026-11-19T23:33:51.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
    "desc": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+   "date": "2026-11-20T00:13:21.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
   },
   {
    "src": "BBC",
@@ -20,66 +36,66 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-   "date": "2026-11-19T17:38:22.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-   "desc": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "date": "2026-11-19T21:21:43.000Z",
+   "date": "2026-11-20T00:50:24.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
    "desc": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "California targets Nvidia in China AI chip probe",
-   "date": "2026-11-19T23:04:30.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-   "desc": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Beskedet: Redan stopp för visum till ryska idrottare",
+   "date": "2026-11-20T07:08:58.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/beskedet-redan-stopp-for-visum-till-ryska-idrottare",
+   "desc": "Ryska idrottare kommer inte att beviljas visum till Sverige. Och de har inte beviljats det tidigare heller, enligt Migrationsverket."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Färjestad tog 15:e raka segern – efter kaxiga draget mot Frölunda",
-   "date": "2026-11-19T20:39:51.000Z",
-   "link": "https://www.svt.se/sport/ishockey/farjestad-tog-15e-raka-segern-efter-kaxiga-draget",
-   "desc": "Färjestad ångar på. I och med segern mot Frölunda tangerade de ett 51 år gammalt rekord. Efter ett kaxigt drag i förlängningen."
+   "title": "Efter dödsolycka på Södra – åtal väckt",
+   "date": "2026-11-20T06:45:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/halland/efter-dodsolycka-pa-sodra-atal-vackt",
+   "desc": "Södra skogsägarna krävs på en företagsbot på drygt 7 miljoner kronor efter dödsolyckan 2022 vid Södra cell Värö i Varbergs kommun då en lokförare omkom i en olycka. Enligt Haverikommissionen hade Södra brustit i sin riskhantering."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Över 2 000 hushåll blev utan elström i Jämtland",
-   "date": "2026-11-19T20:17:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jamtland/over-2000-hushall-utan-elstrom-i-jamtland",
-   "desc": "Drygt 2 000 elkunder hos Jämtkraft har varit utan elström sedan 21-tiden, skriver P4 Jämtland. Som mest har 2 726 hushåll drabbats."
+   "title": "Rasmus Dahlin med drömmål mot Washington",
+   "date": "2026-11-20T06:02:07.000Z",
+   "link": "https://www.svt.se/sport/ishockey/rasmus-dahlin-med-drommal-mot-washington",
+   "desc": "Han har gjort det igen. I natt stod Rasmus Dahlin för ett drömmål – efter soloåkning över hela isen. – Ett magiskt mål, säger kommentatorn Dan Dunleavy."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Norwegian ber 5 000 kunder spärra sina bankkort efter dataintrång",
-   "date": "2026-11-19T20:03:56.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang",
-   "desc": "Omkring 5 000 kunder hos flygbolaget Norwegian uppmanas att omedelbart spärra sina bankkort efter ett dataintrång hos en extern IT-leverantör, rapporterar VG."
+   "title": "Larmen inifrån socialtjänsten: ”Krig mot föräldrar”",
+   "date": "2026-11-20T05:04:02.000Z",
+   "link": "https://www.svt.se/nyheter/granskning/ug/larmen-inifran-socialtjansten-krig-mot-foraldrar",
+   "desc": "Två barn har omhändertagits av Örebros socialtjänst på felaktiga grunder. Ett av barnen är Malins son ”Leo”. Nu utreds samtliga 244 tvångsplacerade barn i kommunen, visar dokument som SVT tagit del av."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kalle får inte bygga badrum – måste tvätta hos barnen i Kiruna",
-   "date": "2026-11-19T18:00:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kalle-far-inte-bygga-badrum-maste-tvatta-hos-barnen-i-kiruna",
-   "desc": "Kalle Modin vill bygga badrum och tvättstuga vid sitt hus på ett statligt arrende i Kalixforsbron utanför Kiruna. Men länsstyrelsen säger nej – och han får varken en motivering eller kan överklaga. – Jag måste åka in till mina barn och tvätta och duscha, säger han."
+   "title": "Recension: ”Primetime” i regi av Lance Oppenheim",
+   "date": "2026-11-20T04:30:00.000Z",
+   "link": "https://www.svt.se/kultur/recension-primetime-i-regi-av-lance-oppenheim",
+   "desc": "”Primetime” är en stiliserad version om det skandalösa tv-programmet ”To catch a predator”. Ett snyggt och motbjudande tidsdokument tycker filmkritiker Kristoffer Viita."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "SVT-granskningen ”Hatet” får Stora journalistpriset i kategorin ”Årets förnyare”",
-   "date": "2026-11-19T17:35:13.000Z",
-   "link": "https://www.svt.se/kultur/svt-granskningen-hatet-far-stora-journalistpriset-i-kategorin-arets-fornyare",
-   "desc": "SVT-granskningen ”Hatet” om influencern Joakim Lundell får Stora journalistpriset i kategorin ”Årets förnyare”. – Ingen annan granskning har väckt lika mycket debatt som den här i år, konstaterar Essy Klingberg när hon delade ut priset till SVT-journalisten Bo-Göran Bodin."
+   "title": "Förseningar i pendeltågstrafiken efter växelfel",
+   "date": "2026-11-20T05:25:32.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/vaxelfel-i-haggvik-tag-stannar-inte",
+   "desc": "Ett tidigare växelfel i Häggvik, norr om Stockholm, orsakade förseningar och gjorde att pendeltåg mot Märsta och Uppsala inte kunde stanna vid flera stationer. Tågen stannade inte mellan Ulriksdal och Upplands Väsby och stationerna som drabbas är Helenelund, Sollentuna, Häggvik, Norrviken och Rotebro."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Seanser marknadsförs på Norrtälje kommuns hemsida",
+   "date": "2026-11-20T04:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-marknadsfors-seanser-pa-kommunens-hemsida",
+   "desc": "I Norrtälje kommuns evenemangskalender finns förutom bokcirklar och spelnördshäng även seanser och mediumkurser där bland annat kontakt med anhöriga som gått bort utlovas. – Det är inte kommunens uppgift att ifrågasätta riktigheten i det som berättas, säger kommunens presschef Lars Lindberger."
   },
   {
    "src": "STHLM",
@@ -104,22 +120,6 @@
    "date": "2026-11-19T10:20:39.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisen-undersoker-tag-efter-misstankt-grovt-olaga-hot",
    "desc": "Polisen stoppade under torsdagsmorgonen ett tåg i Katrineholm, på väg mellan Stockholm och Göteborg, efter att ha fått in uppgifter om ett hot."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Åklagaren om Sigtuna: Tortyrliknande och förnedrande handlingar",
-   "date": "2026-11-19T09:39:43.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/aklagaren-om-sigtuna-man-har-utdelat-slag-med-skohorn-och-balte",
-   "desc": "Förnedringar, slag mot kroppen med föremål, och olika former av tvång – det är vad äldre elever på Sigtunaskolans Humanistiska Läroverk ska ha utsatt yngre elever för, enligt det åtal som åklagaren Lisa dos Santos lämnade in på torsdagen. – Man har använt diverse tillhyggen när man har utövat våld, säger Lisa Dos Santos, senior åklagare."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Sex åtalas för våldsbrott på internatet i Sigtuna",
-   "date": "2026-11-19T08:08:40.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sex-atalas-for-overgrepp-pa-sigtunaskolan",
-   "desc": "Under hösten har misstankar om misshandel, olaga tvång och sexuellt ofredande mellan elever framkommit på Sigtunaskolan humanistiska läroverket. Nu åtalas sex elever, två av dem för grovt sexuellt ofredande, grov misshandel och grovt olaga tvång."
   },
   {
    "src": "BBC",
