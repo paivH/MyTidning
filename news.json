@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:46:06.569Z",
+ "updated": "2026-11-21T12:01:54.869Z",
  "items": [
   {
    "src": "BBC",
@@ -12,18 +12,26 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-   "date": "2026-11-20T17:49:48.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-   "desc": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+   "date": "2026-11-21T08:10:25.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+   "desc": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "date": "2026-11-21T02:09:46.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "desc": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "date": "2026-11-21T09:52:11.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "desc": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "date": "2026-11-21T09:34:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "desc": "The National Crime Information Center database is used by federal and local law enforcement to share information."
   },
   {
    "src": "BBC",
@@ -34,52 +42,68 @@
    "desc": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-   "date": "2026-11-20T23:08:57.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-   "desc": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Edvin Anger besviken efter ny missräkning: ”Klart jag blir orolig”",
+   "date": "2026-11-21T11:03:35.000Z",
+   "link": "https://www.svt.se/sport/vintersport/edvin-anger-besviken-efter-ny-missrakning-klart-jag-blir-orolig",
+   "desc": "Ny dag, ny missräkning för Edvin Anger. Nu överväger svensken att lämna Bruksvallarna i förtid, och fortsätta ladda för världscupspremiären. – Det är klart att jag blir orolig, säger han."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Jordbävning vid Perus huvudstad Lima",
-   "date": "2026-11-21T00:29:15.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-perus-huvudstad-lima",
-   "desc": "En kraftig jordbävning med magnituden 6,7 skakade Anderna i Peru på fredagskvällen lokal tid. Skalvet kändes även i huvudstaden Lima, uppger ett vittne från nyhetsbyrån Reuters."
+   "title": "Efter sjukdomen – Alvar Myhlback vann i Bruksvallarna",
+   "date": "2026-11-21T10:47:29.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/efter-sjukdomen-alvar-myhlback-vann-i-bruksvallarna",
+   "desc": "Alvar Myhlback låter sig inte hindras av lite klassisk vinterförkylning. Svensken var tillbaka efter sjukdomsbekymmer och vann direkt 10 kilometer klassiskt i Bruksvallarna. – Jag andas väl på 80 procent där ute, säger han till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Experten häpnar över detaljen vid Rasmus Dahlins solomål",
-   "date": "2026-11-20T22:27:58.000Z",
-   "link": "https://www.svt.se/sport/ishockey/experten-hapnar-over-detaljen-vid-rasmus-dahlins-solomal",
-   "desc": "Rasmus Dahlin, 26, fortsätter att göra uppmärksammade solomål. Experten menar att det finns en detalj i den svenska stjärnans spel som förklarar hur han kan göra det."
+   "title": "Alvar Myhlbacks glädjebesked: Kör 10 kilometer klassiskt",
+   "date": "2026-11-21T09:23:50.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/alvar-myhlbacks-gladjebesked-kor-10-kilometer-klassiskt",
+   "desc": "Under fredagen kastade Alvar Myhlback in handduken till sprinten, på grund av sjukdom. Men nu får det vara färdigvilat – 20-åringen kommer till start under 10 kilometer klassiskt i Bruksvallarna. – Han mår bättre idag och kommer att testa, säger hans pappa Petter Myhlback till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Splittringen i norska damlandslaget – en dök upp på lägret: ”Extremt dåligt”",
-   "date": "2026-11-20T22:04:48.000Z",
-   "link": "https://www.svt.se/sport/langdskidor/splittringen-i-norska-damlandslaget-en-dok-upp-pa-lagret-extremt-daligt",
-   "desc": "Milla Grosberghaugen Andreassen, 21, är debutant i norska längdlandslaget. På ett försäsongsläger i Idre var hon den enda åkaren som dök upp. – Jag tycker det är extremt dåligt, säger hon till NRK."
+   "title": "Därför backar inte V",
+   "date": "2026-11-21T05:13:07.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v",
+   "desc": "Vänsterpartiet kräver att få sitta i en rödgrön regering – men pressen att de ska backa ökar. Varför är det så viktigt för V med ministerposter? Och finns det något som talar för att de kommer vika ner sig? – Det är nu eller aldrig för Vänsterpartiet, säger SVT:s inrikespolitiska kommentator Elisabeth Marmorstein."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Fast på balkongen i brinnande hus – räddades av grannarna i Piteå",
-   "date": "2026-11-20T16:09:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/fast-pa-balkongen-i-brinnande-hus-raddades-av-grannarna-i-pitea",
-   "desc": "När Sofia Wellborg såg sin granne i 90-årsåldern stå trängd på balkongen till den brinnande villan förstod hon att varje sekund kunde vara avgörande. Tillsammans med två andra grannar lyckades hon få ned honom från huset. – Jag tänkte: Antingen räddar vi honom eller så får vi se honom lida så enormt, säger hon."
+   "title": "Klackbergstunneln i Norberg öppen igen efter fyra år",
+   "date": "2026-11-21T04:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/klackbergstunneln-i-norberg-oppen-igen-efter-fyra-ar",
+   "desc": "Efter stenras spärrades gruvtunneln i Klackberg utanför Norberg av sommaren 2022. Nu har den tio meter långa tunneln öppnat igen – fyra år senare. – Det betyder jättemycket. Det blir lättare att naturligt röra sig i området, säger Ida Långbacka på Norbergs kommun."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Carina Bergfeldt hjälpte adhd-expert att anmäla SVT",
-   "date": "2026-11-20T15:44:36.000Z",
-   "link": "https://www.svt.se/nyheter/granskning/ug/carina-bergfeldt-hjalpte-adhd-expert-att-anmala-svt",
-   "desc": "Carina Bergfeldts SVT-serie ”Alla mina bokstäver” kritiserades för att inte redovisa den medverkande experten Lotta Borg Skoglunds kopplingar till läkemedelsindustrin. Nu kan Uppdrag granskning berätta att Carina Bergfeldt hjälpt Skoglund att anmäla SVT. Och seriens producent, Bergfeldts man, hjälper experten när hon ska intervjuas av Uppdrag granskning för ett kommande reportage."
+   "title": "Man misstänkt för inblandning i dödsskjutning i Bagarmossen",
+   "date": "2026-11-21T12:01:37.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-misstankt-for-inblandning-i-dodsskjutning-i-bagarmossen",
+   "desc": "Ytterligare en person har gripits och anhållits misstänkt för medhjälp till mord i Bagarmossen, Sedan tidigare är flera andra personer misstänkta för inblandning i mordet."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Flera olyckor efter snöväder – polisens uppmaning: ”Tänk på hastigheten”",
+   "date": "2026-11-21T09:57:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/flera-olyckor-efter-snovader-polisens-uppmaning-tank-pa-hastigheten",
+   "desc": "Flera larm om trafikolyckor har löpande kommit in under lördagsmorgonen i Stockholm. Enligt polisen tros de bero på snö och halka."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nya 3D-vapen sprids – oroar polisen",
+   "date": "2026-11-21T04:30:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nya-3d-vapen-sprids-oroar-polisen",
+   "desc": "Nya halvautomatiska varianter av 3D-printade vapen har dykt upp på den svenska marknaden. Ritningar sprids öppet på nätet med videoguider och information om var extra delar kan köpas. – Den kan skjuta om och om väldig farlig vapen, säger Stephen James, chef vid nationellt forensiskt centrum."
   },
   {
    "src": "STHLM",
@@ -96,30 +120,6 @@
    "date": "2026-11-20T15:53:18.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/byter-dack-i-sista-stund-har-kan-mest-sno-falla-i-stockholms-lan",
    "desc": "Snön är på väg in över länet och för många bilister gäller det att hinna förbereda sig. För Gustav Söderberg blev det en kamp mot klockan. – Alla tider var bokade. Jag skulle inte kunna komma iväg om det inte vore för däckbytet, säger han."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man körde på parkeringsvakts bil efter böter",
-   "date": "2026-11-20T12:58:20.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-korde-pa-parkeringsvakts-bil-efter-boter",
-   "desc": "En man har kört på en parkeringsvakts bil i Rinkeby efter att ha fått böter. – Han var uppenbarligen upprörd, säger Carina Skagerlind på Stockholmspolisen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "19-åring döms till tolv års fängelse efter polisens Signal-fälla",
-   "date": "2026-11-20T12:06:36.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/19-aring-doms-till-tolv-ars-fangelse-efter-polisens-signal-falla",
-   "desc": "En pistol, ett magasin och 5 000 kronor skulle placeras i en påse bakom en parkbänk på Södermalm. Det den 19-årige utföraren inte visste var att den han hade kontakt med på den krypterade chatten Signal var polis."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Taxichaufför knivhotad i Huddinge – man gripen för mordförsök",
-   "date": "2026-11-20T09:49:33.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/taxichauffor-knivhotad-i-huddinge-man-gripen-for-mordforsok",
-   "desc": "En taxichaufför hotades och attackerades med kniv av en passagerare i Huddinge under tidiga fredagsmorgonen. Chauffören lyckades undkomma attacken och klarade sig utan fysiska skador."
   },
   {
    "src": "BBC",
