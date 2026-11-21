@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-21T12:01:54.869Z",
+ "updated": "2026-11-21T19:37:12.300Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "date": "2026-11-21T13:17:38.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russia-bound ship attacked in Gulf of Finland",
+   "date": "2026-11-21T19:20:22.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "desc": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,16 +28,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-   "date": "2026-11-21T08:10:25.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-   "desc": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "date": "2026-11-21T09:52:11.000Z",
+   "date": "2026-11-21T19:33:49.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
    "desc": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
   },
@@ -29,57 +37,57 @@
    "src": "BBC",
    "section": "Världen",
    "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "date": "2026-11-21T09:34:20.000Z",
+   "date": "2026-11-21T16:35:15.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
    "desc": "The National Crime Information Center database is used by federal and local law enforcement to share information."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "French police officers sentenced for beating of music producer Michel Zecler",
-   "date": "2026-11-20T22:37:09.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-   "desc": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Radioamatörer kan hjälpa kommuners krisberedskap: ”Dold resurs”",
+   "date": "2026-11-21T18:58:36.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/radioamatorer-kan-hjalpa-kommuners-krisberedskap-dold-resurs",
+   "desc": "I händelse av kris eller krig kan radioamatörer vara viktiga och flera kommuner har inlett samarbeten med dem. I Gnesta arbetar kommunen och radioamatörer tillsammans i ett projekt för att kunna skicka mejl utan internet. – Den förmågan vi har med kunskap och teknik är en dold resurs, säger radioamatören Christer Sandström."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Edvin Anger besviken efter ny missräkning: ”Klart jag blir orolig”",
-   "date": "2026-11-21T11:03:35.000Z",
-   "link": "https://www.svt.se/sport/vintersport/edvin-anger-besviken-efter-ny-missrakning-klart-jag-blir-orolig",
-   "desc": "Ny dag, ny missräkning för Edvin Anger. Nu överväger svensken att lämna Bruksvallarna i förtid, och fortsätta ladda för världscupspremiären. – Det är klart att jag blir orolig, säger han."
+   "title": "Professorn: ”Allting pekar på ukrainska drönare”",
+   "date": "2026-11-21T18:17:33.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/professorn-allting-pekar-pa-ukrainska-dronare",
+   "desc": "Det ryska lastfartyget Sparta II träffades av drönare i Finska viken – och började brinna. Fartyget har evakuerats. Enligt Hans Liwång, professor vid Försvarshögskolan, pekar mycket på att Ukraina ligger bakom attacken. – Allting pekar på att det är ukrainska drönare som har riktat in sig mot den här, säger han till SVT Nyheter."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Efter sjukdomen – Alvar Myhlback vann i Bruksvallarna",
-   "date": "2026-11-21T10:47:29.000Z",
-   "link": "https://www.svt.se/sport/langdskidor/efter-sjukdomen-alvar-myhlback-vann-i-bruksvallarna",
-   "desc": "Alvar Myhlback låter sig inte hindras av lite klassisk vinterförkylning. Svensken var tillbaka efter sjukdomsbekymmer och vann direkt 10 kilometer klassiskt i Bruksvallarna. – Jag andas väl på 80 procent där ute, säger han till SVT Sport."
+   "title": "Skadad Carlos Alcaraz vände underläge – till final i ATP-slutspelet",
+   "date": "2026-11-21T17:46:06.000Z",
+   "link": "https://www.svt.se/sport/tennis/skadad-carlos-alcaraz-vande-underlage-till-final-i-atp-slutspelet",
+   "desc": "Lindat lår och underläge med 1–0 i set. Vad gör väl det om du heter Carlos Alcaraz. Spanjoren bjöd på en läcker lobb när han vann med 2–1 i set, 6–3, 7–6 (1), mot Ben Shelton. – En helt perfekt lobb, säger ATP:s kommentator."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Alvar Myhlbacks glädjebesked: Kör 10 kilometer klassiskt",
-   "date": "2026-11-21T09:23:50.000Z",
-   "link": "https://www.svt.se/sport/langdskidor/alvar-myhlbacks-gladjebesked-kor-10-kilometer-klassiskt",
-   "desc": "Under fredagen kastade Alvar Myhlback in handduken till sprinten, på grund av sjukdom. Men nu får det vara färdigvilat – 20-åringen kommer till start under 10 kilometer klassiskt i Bruksvallarna. – Han mår bättre idag och kommer att testa, säger hans pappa Petter Myhlback till SVT Sport."
+   "title": "Tågstopp i Falun på grund av polisinsats",
+   "date": "2026-11-21T17:03:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/tagstopp-i-falun-pa-grund-av-polisinsats",
+   "desc": "Tåg mellan Falun och Borlänge har ställts in till följd av en polisinsats, meddelar SJ."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Därför backar inte V",
-   "date": "2026-11-21T05:13:07.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v",
-   "desc": "Vänsterpartiet kräver att få sitta i en rödgrön regering – men pressen att de ska backa ökar. Varför är det så viktigt för V med ministerposter? Och finns det något som talar för att de kommer vika ner sig? – Det är nu eller aldrig för Vänsterpartiet, säger SVT:s inrikespolitiska kommentator Elisabeth Marmorstein."
+   "title": "Dijan Vukojevic ilska mot domslutet: ”Solklar straff”",
+   "date": "2026-11-21T16:36:21.000Z",
+   "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-ilska-mot-domslutet-solklar-straff",
+   "desc": "Dijan Vukojevic, 31, ville ha straff mot AIK – men fick det inte. – Stryptag av tröjan. Solklar straff, herregud, säger Degerfors-anfallaren till SVT Sport."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Klackbergstunneln i Norberg öppen igen efter fyra år",
-   "date": "2026-11-21T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/klackbergstunneln-i-norberg-oppen-igen-efter-fyra-ar",
-   "desc": "Efter stenras spärrades gruvtunneln i Klackberg utanför Norberg av sommaren 2022. Nu har den tio meter långa tunneln öppnat igen – fyra år senare. – Det betyder jättemycket. Det blir lättare att naturligt röra sig i området, säger Ida Långbacka på Norbergs kommun."
+   "title": "Nyheter från dagen: 21 november",
+   "date": "2026-11-21T17:53:54.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-21-november-zae0f6",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm lördag 21 november."
   },
   {
    "src": "STHLM",
@@ -87,15 +95,15 @@
    "title": "Man misstänkt för inblandning i dödsskjutning i Bagarmossen",
    "date": "2026-11-21T12:01:37.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-misstankt-for-inblandning-i-dodsskjutning-i-bagarmossen",
-   "desc": "Ytterligare en person har gripits och anhållits misstänkt för medhjälp till mord i Bagarmossen, Sedan tidigare är flera andra personer misstänkta för inblandning i mordet."
+   "desc": "Ytterligare en person har gripits och anhållits misstänkt för medhjälp till mord i Bagarmossen. Sedan tidigare är flera andra personer misstänkta för inblandning i mordet."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Flera olyckor efter snöväder – polisens uppmaning: ”Tänk på hastigheten”",
+   "title": "Flera olyckor efter snöväder – nya gula varningar väntar",
    "date": "2026-11-21T09:57:22.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/flera-olyckor-efter-snovader-polisens-uppmaning-tank-pa-hastigheten",
-   "desc": "Flera larm om trafikolyckor har löpande kommit in under lördagsmorgonen i Stockholm. Enligt polisen tros de bero på snö och halka."
+   "desc": "Flera larm om trafikolyckor har löpande kommit in under lördagen i Stockholm. Enligt polisen tros olyckorna bero på snö och halka."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm fredagen 20 november."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Byter däck i sista stund – här kan mest snö falla i Stockholms län",
-   "date": "2026-11-20T15:53:18.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/byter-dack-i-sista-stund-har-kan-mest-sno-falla-i-stockholms-lan",
-   "desc": "Snön är på väg in över länet och för många bilister gäller det att hinna förbereda sig. För Gustav Söderberg blev det en kamp mot klockan. – Alla tider var bokade. Jag skulle inte kunna komma iväg om det inte vore för däckbytet, säger han."
+   "src": "BBC",
+   "section": "United",
+   "title": "Rio Ferdinand: Anfield is a cauldron for United",
+   "date": "2026-11-21T15:15:10.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwp80vv6y23mo?at_medium=RSS&at_campaign=rss",
+   "desc": "Rio Ferdinand: Anfield is a cauldron for United"
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-20T15:51:22.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cq62p5rd023mo?at_medium=RSS&at_campaign=rss",
    "desc": "New Manchester United boss Mauricio Pochettino underlines the importance of time on the pitch with his players having spent the last two years in international football as manager of the United States."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Filming training by drones should be illegal - Iraola",
-   "date": "2026-11-20T15:08:51.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal."
   }
  ]
 }
