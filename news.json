@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-20T22:56:28.026Z",
+ "updated": "2026-11-21T03:46:06.569Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+   "date": "2026-11-20T22:42:47.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "desc": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,10 +20,10 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-   "date": "2026-11-20T21:57:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-   "desc": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "date": "2026-11-21T02:09:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "desc": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
   },
   {
    "src": "BBC",
@@ -28,18 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Gérard Depardieu and French author investigated over sexual allegations",
-   "date": "2026-11-20T19:45:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-   "desc": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
+   "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+   "date": "2026-11-20T23:08:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+   "desc": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "date": "2026-11-20T16:54:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "desc": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Jordbävning vid Perus huvudstad Lima",
+   "date": "2026-11-21T00:29:15.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-perus-huvudstad-lima",
+   "desc": "En kraftig jordbävning med magnituden 6,7 skakade Anderna i Peru på fredagskvällen lokal tid. Skalvet kändes även i huvudstaden Lima, uppger ett vittne från nyhetsbyrån Reuters."
   },
   {
    "src": "SVT",
@@ -72,14 +80,6 @@
    "date": "2026-11-20T15:44:36.000Z",
    "link": "https://www.svt.se/nyheter/granskning/ug/carina-bergfeldt-hjalpte-adhd-expert-att-anmala-svt",
    "desc": "Carina Bergfeldts SVT-serie ”Alla mina bokstäver” kritiserades för att inte redovisa den medverkande experten Lotta Borg Skoglunds kopplingar till läkemedelsindustrin. Nu kan Uppdrag granskning berätta att Carina Bergfeldt hjälpt Skoglund att anmäla SVT. Och seriens producent, Bergfeldts man, hjälper experten när hon ska intervjuas av Uppdrag granskning för ett kommande reportage."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Fyllegolf slutade med dikeskörning i Trosa",
-   "date": "2026-11-20T15:43:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sormland/fyllegolf-slutade-med-dikeskorning-i-trosa",
-   "desc": "I somras fick ett grabbgängs årliga fyllegolfsturnering ett snöpligt slut. Vad som skulle blivit en avslutning i klubbhuset blev i stället en voltad golfbil i diket."
   },
   {
    "src": "STHLM",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Cost of Man Utd hiring and firing managers nears £100m",
+   "date": "2026-11-20T23:18:16.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "'That's not just about Arteta, Klopp or Pep' - Ferdinand on Man Utd public outbursts",
    "date": "2026-11-20T22:22:03.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/ckn809wgvgvpo?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "date": "2026-11-20T15:08:51.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
    "desc": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'My first target is to sleep'",
-   "date": "2026-11-20T15:05:13.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cr3wg12q6940o?at_medium=RSS&at_campaign=rss",
-   "desc": "The new Man Utd boss shares what he's focused on ahead of the side's first game with him in charge."
   }
  ]
 }
