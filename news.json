@@ -1,27 +1,19 @@
 {
- "updated": "2026-11-22T07:13:12.624Z",
+ "updated": "2026-11-22T15:30:57.346Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "New draft deal aims to avert collapse of talks at climate summit",
-   "date": "2026-11-22T06:54:06.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-   "desc": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement."
+   "title": "South Korea education minister resigns over exam cheating scandal",
+   "date": "2026-11-22T09:20:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+   "desc": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-   "date": "2026-11-21T13:17:38.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia-bound ship attacked in Gulf of Finland",
-   "date": "2026-11-21T19:20:22.000Z",
+   "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+   "date": "2026-11-22T11:25:14.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
    "desc": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
   },
@@ -36,50 +28,74 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "date": "2026-11-22T00:10:44.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "desc": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+   "title": "Three killed and dozens missing after fire at Indonesian factory",
+   "date": "2026-11-22T14:05:20.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+   "desc": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "date": "2026-11-22T07:12:41.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+   "desc": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Ex-generalens kritik: Europa inte redo för Rysslands luftkrig",
-   "date": "2026-11-22T05:17:22.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/ex-generalens-kritik-europa-inte-redo-for-rysslands-luftkrig",
-   "desc": "Natos och Sveriges luftförsvar är oförberett inför det ryska luftkriget som väntas vid en väpnad konflikt. Det säger tidigare chefen för USA:s armé i Europa – i en minidokumentär på SVT Play: – De kommer att använda missiler, drönare och glidbomber för att förstöra vår infrastruktur och jag tror inte vi är redo för det, säger Ben Hodges."
+   "title": "Här får finskan revansch på svenska succémålvakten",
+   "date": "2026-11-22T14:43:49.000Z",
+   "link": "https://www.svt.se/sport/ishockey/har-far-finskan-revansch-pa-svenska-succemalvakten",
+   "desc": "Ebba Svensson Träff såg till att Sverige tog VM-medalj när hon räddade Emmi Juuselas straff i bronsmatchen. Men i SDHL fick Juusela revansch – när hon avgjorde matchen för sitt SDE mot Svensson Träffs Linköping. – Kul, hon är en fantastisk målvakt, säger Juusela efteråt."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Från fiasko till succé – hundratals kilo frukt donerades i Säffle",
-   "date": "2026-11-22T04:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/varmland/fran-fiasko-till-succe-hundratals-kilo-frukt-donerades-i-saffle",
-   "desc": "Efter en trög start med knappt någon som donerade frukt vände det. Efter att september övergått i oktober lämnades över totalt 300 kilo frukt in till kommunens kök runtom i Säffle. – Nu känns det mycket bättre, säger kocken Sandra som först var besviken över att så lite frukt lämnades in."
+   "title": "Klimatmötet misslyckas – det kan hända nu",
+   "date": "2026-11-22T14:39:58.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/klimatmotet-misslyckas-det-kan-handa-nu",
+   "desc": "Förhandlingarna på FN:s klimatmöte COP31 har brutit samman efter att EU valt att inte acceptera slutdeklarationen. Vad som händer nu vet ingen säkert, men enligt experterna lär fler röster höjas för att reformera hela processen."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Stor brist på äggdonatorer i norra Sverige – Sara en av få: ”Vill hjälpa”",
-   "date": "2026-11-22T04:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/stor-brist-pa-aggdonatorer-i-norra-sverige-sara-en-av-fa-vill-hjalpa",
-   "desc": "Det är brist på kvinnor som vill donera ägg till någon annan som vill bli förälder i norra Sverige. Detta gör att par som vill ha en svensk donator kan få vänta upp till två år. En av dem som valt att donera ägg är Sara. – Jag gör det för att kunna hjälpa någon annan på den här fantastiska resan, säger hon."
+   "title": "Skickade hotfullt julkort till sig själv – kvinna från Luleå döms",
+   "date": "2026-11-22T14:37:28.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/skickade-hotfullt-julkort-till-sig-sjalv-kvinna-fran-lulea-doms",
+   "desc": "En kvinna i 35-årsåldern polisanmälde ett julkort innehållande dödshot. Men det ska senare visa sig att hon själv författat kortet och nu döms kvinnan till villkorlig dom för bevisförvanskning och falsk angivelse. – Det var ett ovanligt ärende, säger åklagaren Moa Grahn."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Recension: Maffia med Peshang Rad",
-   "date": "2026-11-22T04:30:00.000Z",
-   "link": "https://www.svt.se/kultur/recension-maffia",
-   "desc": "Viaplays ekonomiska krash försenade krimdramat Maffia rejält. Men nu, ett och ett halvt år efter att den haft premiär utomlands, är det vår tur – och det är en serie värd att vänta på."
+   "title": "Gränsbevakningen: ”Måste utgå från att lasten kan vara explosiv”",
+   "date": "2026-11-22T14:31:56.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/gransbevakningen-maste-utga-fran-att-lasten-kan-vara-explosiv",
+   "desc": "Alla personer har evakuerats från fraktfartyget som attackerades med drönare i Finska viken. Släckningsarbetet pågår – finns risk för omfattande miljöskador om branden ej fås under kontroll. ”Fartyget har haft militär last tidigare och man måste utgå ifrån att det kan vara explosivt”, enligt Gränsbevakning."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nya Södertäljestyrets första budget sågas: ”Tunt”",
-   "date": "2026-11-22T04:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/nya-sodertaljestyrets-forsta-budget-sagas-tunt",
-   "desc": "Länstidningens politiska redaktör, Tomas Karlsson, tycker att Södertäljes nya högerstyre inte levererade tillräckligt i sin första budget. – De känns väldigt sugna på att styra kommunen, men rent konkret så var det tunt, säger han."
+   "title": "Matilda Vinberg med läckert mål mot Manchester City",
+   "date": "2026-11-22T14:27:29.000Z",
+   "link": "https://www.svt.se/sport/fotboll/matilda-vinberg-med-lackert-mal-mot-manchester-city",
+   "desc": "Matilda Vinberg visar fin form inför Sveriges avgörande VM-playoff. 23-åringen svarade för en assist och ett läckert mål när Tottenham besegrade ligatvåan Manchester City. – Här gör hon allting rätt, säger SVT Sports kommentator Linus Eklund."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Trafik på gröna linjen vid Alvik igång igen efter en  trafikincident",
+   "date": "2026-11-22T12:49:17.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stopp-pa-grona-linje-vid-alvik-efter-trafikshandelse",
+   "desc": "Tunnelbanetrafiken rullar igen efter att det ha varit stopp på gröna linjenunder söndagseftermiddagen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "E18 öppen igen mellan Bålsta och Bro efter olycka",
+   "date": "2026-11-22T10:37:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/e18-stangd-i-riktning-mot-stockholm",
+   "desc": "Fyra bilar krockade på E18 Enköpingsvägen i riktning mot Stockholm. – Det är extremt halt på vägen och fyra bilar har kanat in i varandra, sa Fredrik Dackland från Räddningstjänsten under söndagsmorgonen."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,20 @@
    "desc": "Ytterligare en person har gripits och anhållits misstänkt för medhjälp till mord i Bagarmossen. Sedan tidigare är flera andra personer misstänkta för inblandning i mordet."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Flera olyckor efter snöväder – nya gula varningar väntar",
-   "date": "2026-11-21T09:57:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/flera-olyckor-efter-snovader-polisens-uppmaning-tank-pa-hastigheten",
-   "desc": "Flera larm om trafikolyckor har löpande kommit in under lördagen i Stockholm. Enligt polisen tros olyckorna bero på snö och halka."
+   "src": "BBC",
+   "section": "United",
+   "title": "Which three players who will thrive the most under Pochettino?",
+   "date": "2026-11-22T14:52:48.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq4gn851xkzzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Which three players who will thrive the most under Pochettino?"
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nya 3D-vapen sprids – oroar polisen",
-   "date": "2026-11-21T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nya-3d-vapen-sprids-oroar-polisen",
-   "desc": "Nya halvautomatiska varianter av 3D-printade vapen har dykt upp på den svenska marknaden. Ritningar sprids öppet på nätet med videoguider och information om var extra delar kan köpas. – Den kan skjuta om och om väldig farlig vapen, säger Stephen James, chef vid nationellt forensiskt centrum."
+   "src": "BBC",
+   "section": "United",
+   "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+   "date": "2026-11-22T08:41:20.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future."
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "date": "2026-11-20T23:18:16.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'That's not just about Arteta, Klopp or Pep' - Ferdinand on Man Utd public outbursts",
-   "date": "2026-11-20T22:22:03.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckn809wgvgvpo?at_medium=RSS&at_campaign=rss",
-   "desc": "Rio Ferdinand speaking on 5 Live Sport's Premier League Kick-Off, addresses recent public outbursts from Manchester United's Bruno Fernandes and Lisandro Martinez"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Man Utd fan criticism has gone too far at times - Berrada",
-   "date": "2026-11-20T16:55:11.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\"."
   }
  ]
 }
