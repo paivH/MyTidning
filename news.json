@@ -1,45 +1,77 @@
 {
- "updated": "2026-11-22T15:30:57.346Z",
+ "updated": "2026-11-22T21:29:23.783Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "South Korea education minister resigns over exam cheating scandal",
-   "date": "2026-11-22T09:20:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-   "desc": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos."
+   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+   "date": "2026-11-22T18:17:59.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "desc": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-   "date": "2026-11-22T11:25:14.000Z",
+   "title": "What's next after no deal at COP31 climate talks?",
+   "date": "2026-11-22T18:57:24.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+   "desc": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "date": "2026-11-22T20:28:09.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+   "date": "2026-11-22T17:57:43.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+   "date": "2026-11-22T17:18:26.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "desc": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
+   "desc": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "date": "2026-11-22T01:25:03.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "desc": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Andersson söker ett sista halmstrå”",
+   "date": "2026-11-22T19:08:07.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/andersson-soker-ett-sista-halmstra",
+   "desc": "S-ledaren Magdalena Anderssons utspel på söndagskvällen är ett sista försök att sätta press på Vänsterpartiet. Men det framstår som alltmer utsiktslöst. Vänsterpartiet håller benhårt fast vid sina krav på ministerposter."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Three killed and dozens missing after fire at Indonesian factory",
-   "date": "2026-11-22T14:05:20.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-   "desc": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "”Upptrappade läget på Östersjön kan skapa nytt Hormuz”",
+   "date": "2026-11-22T18:59:44.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/upptrappade-laget-pa-ostersjon-kan-skapa-nytt-hormuz",
+   "desc": "Finland fick plötsligt en brinnande rysk vapenfraktare på halsen. Myndigheterna här i Finland både säger och visar att de har läget under kontroll. Men fortsätter utvecklingen så riskerar Östersjön att förvandlas till ett nytt Svarta havet – eller Hormuzsundet."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "date": "2026-11-22T07:12:41.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-   "desc": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Julia Walentowicz: ”Ska fira på Sturehof med Bosse”",
+   "date": "2026-11-22T16:37:37.000Z",
+   "link": "https://www.svt.se/sport/fotboll/julia-walentowicz-ska-fira-pa-sturehof-med-bosse",
+   "desc": "Trots konkurshot firade Kif Örebro det allsvenska avancemanget som att de vunnit SM-guld. – Vi har sju timmar på bussen nu så det kommer vara som en rullande nattklubb, säger lagkapten Julia Walentowicz till SVT Sport."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Rosengårds mardröm – åker ur damallsvenskan",
+   "date": "2026-11-22T15:56:42.000Z",
+   "link": "https://www.svt.se/sport/fotboll/rosengards-mardrom-aker-ur-damallsvenskan",
+   "desc": "Rosengård åker ur damallsvenskan. Konkurshotade Kif Örebro vann kvalet och är – just nu – tillbaka i den högsta ligan. – Jag tror inte att det finns så mycket ord, det är mest en tomhet, säger Rosengårds assisterande tränare Robin Lindroos till SVT Sport."
   },
   {
    "src": "SVT",
@@ -50,36 +82,20 @@
    "desc": "Ebba Svensson Träff såg till att Sverige tog VM-medalj när hon räddade Emmi Juuselas straff i bronsmatchen. Men i SDHL fick Juusela revansch – när hon avgjorde matchen för sitt SDE mot Svensson Träffs Linköping. – Kul, hon är en fantastisk målvakt, säger Juusela efteråt."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Klimatmötet misslyckas – det kan hända nu",
-   "date": "2026-11-22T14:39:58.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/klimatmotet-misslyckas-det-kan-handa-nu",
-   "desc": "Förhandlingarna på FN:s klimatmöte COP31 har brutit samman efter att EU valt att inte acceptera slutdeklarationen. Vad som händer nu vet ingen säkert, men enligt experterna lär fler röster höjas för att reformera hela processen."
+   "title": "Uppgifter: Svensk gripen i Kroatien – för inblandning i Älvsjömordet",
+   "date": "2026-11-22T20:06:14.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-tonarspojke-gripen-i-kroatien-efter-alvsjomordet",
+   "desc": "Enligt den kroatiska tidningen Slobodna Dalmacija ska en svensk ung man ha gripits i fredags. Mannen ska vara misstänkt för inblandning i mordet på en kvinna i Älvsjö i oktober."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Skickade hotfullt julkort till sig själv – kvinna från Luleå döms",
-   "date": "2026-11-22T14:37:28.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/skickade-hotfullt-julkort-till-sig-sjalv-kvinna-fran-lulea-doms",
-   "desc": "En kvinna i 35-årsåldern polisanmälde ett julkort innehållande dödshot. Men det ska senare visa sig att hon själv författat kortet och nu döms kvinnan till villkorlig dom för bevisförvanskning och falsk angivelse. – Det var ett ovanligt ärende, säger åklagaren Moa Grahn."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Gränsbevakningen: ”Måste utgå från att lasten kan vara explosiv”",
-   "date": "2026-11-22T14:31:56.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/gransbevakningen-maste-utga-fran-att-lasten-kan-vara-explosiv",
-   "desc": "Alla personer har evakuerats från fraktfartyget som attackerades med drönare i Finska viken. Släckningsarbetet pågår – finns risk för omfattande miljöskador om branden ej fås under kontroll. ”Fartyget har haft militär last tidigare och man måste utgå ifrån att det kan vara explosivt”, enligt Gränsbevakning."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Matilda Vinberg med läckert mål mot Manchester City",
-   "date": "2026-11-22T14:27:29.000Z",
-   "link": "https://www.svt.se/sport/fotboll/matilda-vinberg-med-lackert-mal-mot-manchester-city",
-   "desc": "Matilda Vinberg visar fin form inför Sveriges avgörande VM-playoff. 23-åringen svarade för en assist och ett läckert mål när Tottenham besegrade ligatvåan Manchester City. – Här gör hon allting rätt, säger SVT Sports kommentator Linus Eklund."
+   "title": "Nyheter från dagen: 22 november",
+   "date": "2026-11-22T18:46:47.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-22-november-wqfade",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm söndag 22 november."
   },
   {
    "src": "STHLM",
@@ -106,60 +122,44 @@
    "desc": "Efter över två decennier på torget riskerar Abdullah Kursun att tvingas minska sin verksamhet. Nu har han fått över 4 000 personer att skriva under hans namninsamling. – Hela området är beroende av det här stället, säger torghandlaren Abdullah Kursun."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 21 november",
-   "date": "2026-11-21T17:53:54.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-21-november-zae0f6",
-   "desc": "Här är några utvalda nyheter från SVT Stockholm lördag 21 november."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man misstänkt för inblandning i dödsskjutning i Bagarmossen",
-   "date": "2026-11-21T12:01:37.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-misstankt-for-inblandning-i-dodsskjutning-i-bagarmossen",
-   "desc": "Ytterligare en person har gripits och anhållits misstänkt för medhjälp till mord i Bagarmossen. Sedan tidigare är flera andra personer misstänkta för inblandning i mordet."
+   "src": "BBC",
+   "section": "United",
+   "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+   "date": "2026-11-22T21:22:10.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+   "desc": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Which three players who will thrive the most under Pochettino?",
-   "date": "2026-11-22T14:52:48.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq4gn851xkzzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Which three players who will thrive the most under Pochettino?"
+   "title": "'As bad as it gets' - Man Utd fan on Pochettino's first game",
+   "date": "2026-11-22T20:13:06.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmregqe44w4no?at_medium=RSS&at_campaign=rss",
+   "desc": "Man Utd fan Jay Motty has warned fellow supporters that Man Utd could be dragged into a relegation fight if the club doesn't start picking up wins soon."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
-   "date": "2026-11-22T08:41:20.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future."
+   "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+   "date": "2026-11-22T18:28:51.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+   "desc": "How Liverpool and Manchester United's players rated following their Premier League match."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
-   "date": "2026-11-22T06:21:55.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad."
+   "title": "The red card that changed Liverpool-Man Utd: correct call?",
+   "date": "2026-11-22T17:55:54.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?"
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Rio Ferdinand: Anfield is a cauldron for United",
-   "date": "2026-11-21T15:15:10.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cwp80vv6y23mo?at_medium=RSS&at_campaign=rss",
-   "desc": "Rio Ferdinand: Anfield is a cauldron for United"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Cost of Man Utd hiring and firing managers nears £100m",
-   "date": "2026-11-20T23:18:16.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer."
+   "title": "Man Utd score dramatic late winner to extend record run",
+   "date": "2026-11-22T17:54:32.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm0rkzzyl2ego?at_medium=RSS&at_campaign=rss",
+   "desc": "Simi Awujo's last-gasp winner caps a remarkable Manchester United comeback at Birmingham, securing a dramatic victory and stretching the club's record unbeaten run to 14 matches."
   }
  ]
 }
