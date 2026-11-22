@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-22T00:03:32.762Z",
+ "updated": "2026-11-22T07:13:12.624Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "New draft deal aims to avert collapse of talks at climate summit",
+   "date": "2026-11-22T06:54:06.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+   "desc": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,16 +28,8 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "date": "2026-11-21T22:19:43.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "desc": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "date": "2026-11-21T23:31:17.000Z",
+   "date": "2026-11-22T01:25:03.000Z",
    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
    "desc": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
   },
@@ -37,49 +37,57 @@
    "src": "BBC",
    "section": "Världen",
    "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "date": "2026-11-21T16:35:15.000Z",
+   "date": "2026-11-22T00:10:44.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
    "desc": "The National Crime Information Center database is used by federal and local law enforcement to share information."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Radioamatörer kan hjälpa kommuners krisberedskap: ”Dold resurs”",
-   "date": "2026-11-21T18:58:36.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/radioamatorer-kan-hjalpa-kommuners-krisberedskap-dold-resurs",
-   "desc": "I händelse av kris eller krig kan radioamatörer vara viktiga och flera kommuner har inlett samarbeten med dem. I Gnesta arbetar kommunen och radioamatörer tillsammans i ett projekt för att kunna skicka mejl utan internet. – Den förmågan vi har med kunskap och teknik är en dold resurs, säger radioamatören Christer Sandström."
+   "title": "Ex-generalens kritik: Europa inte redo för Rysslands luftkrig",
+   "date": "2026-11-22T05:17:22.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/ex-generalens-kritik-europa-inte-redo-for-rysslands-luftkrig",
+   "desc": "Natos och Sveriges luftförsvar är oförberett inför det ryska luftkriget som väntas vid en väpnad konflikt. Det säger tidigare chefen för USA:s armé i Europa – i en minidokumentär på SVT Play: – De kommer att använda missiler, drönare och glidbomber för att förstöra vår infrastruktur och jag tror inte vi är redo för det, säger Ben Hodges."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Professorn: ”Allting pekar på ukrainska drönare”",
-   "date": "2026-11-21T18:17:33.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/professorn-allting-pekar-pa-ukrainska-dronare",
-   "desc": "Det ryska lastfartyget Sparta II träffades av drönare i Finska viken – och började brinna. Fartyget har evakuerats. Enligt Hans Liwång, professor vid Försvarshögskolan, pekar mycket på att Ukraina ligger bakom attacken. – Allting pekar på att det är ukrainska drönare som har riktat in sig mot den här, säger han till SVT Nyheter."
+   "title": "Från fiasko till succé – hundratals kilo frukt donerades i Säffle",
+   "date": "2026-11-22T04:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/fran-fiasko-till-succe-hundratals-kilo-frukt-donerades-i-saffle",
+   "desc": "Efter en trög start med knappt någon som donerade frukt vände det. Efter att september övergått i oktober lämnades över totalt 300 kilo frukt in till kommunens kök runtom i Säffle. – Nu känns det mycket bättre, säger kocken Sandra som först var besviken över att så lite frukt lämnades in."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Skadad Carlos Alcaraz vände underläge – till final i ATP-slutspelet",
-   "date": "2026-11-21T17:46:06.000Z",
-   "link": "https://www.svt.se/sport/tennis/skadad-carlos-alcaraz-vande-underlage-till-final-i-atp-slutspelet",
-   "desc": "Lindat lår och underläge med 1–0 i set. Vad gör väl det om du heter Carlos Alcaraz. Spanjoren bjöd på en läcker lobb när han vann med 2–1 i set, 6–3, 7–6 (1), mot Ben Shelton. – En helt perfekt lobb, säger ATP:s kommentator."
+   "title": "Stor brist på äggdonatorer i norra Sverige – Sara en av få: ”Vill hjälpa”",
+   "date": "2026-11-22T04:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/stor-brist-pa-aggdonatorer-i-norra-sverige-sara-en-av-fa-vill-hjalpa",
+   "desc": "Det är brist på kvinnor som vill donera ägg till någon annan som vill bli förälder i norra Sverige. Detta gör att par som vill ha en svensk donator kan få vänta upp till två år. En av dem som valt att donera ägg är Sara. – Jag gör det för att kunna hjälpa någon annan på den här fantastiska resan, säger hon."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Tågstopp i Falun på grund av polisinsats",
-   "date": "2026-11-21T17:03:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/dalarna/tagstopp-i-falun-pa-grund-av-polisinsats",
-   "desc": "Alla tåg genom Falun stoppades tidigt på lördagskvällen till följd av en polisinsats."
+   "title": "Recension: Maffia med Peshang Rad",
+   "date": "2026-11-22T04:30:00.000Z",
+   "link": "https://www.svt.se/kultur/recension-maffia",
+   "desc": "Viaplays ekonomiska krash försenade krimdramat Maffia rejält. Men nu, ett och ett halvt år efter att den haft premiär utomlands, är det vår tur – och det är en serie värd att vänta på."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Dijan Vukojevic ilska mot domslutet: ”Solklar straff”",
-   "date": "2026-11-21T16:36:21.000Z",
-   "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-ilska-mot-domslutet-solklar-straff",
-   "desc": "Dijan Vukojevic, 31, ville ha straff mot AIK – men fick det inte. – Stryptag av tröjan. Solklar straff, herregud, säger Degerfors-anfallaren till SVT Sport."
+   "title": "Nya Södertäljestyrets första budget sågas: ”Tunt”",
+   "date": "2026-11-22T04:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/nya-sodertaljestyrets-forsta-budget-sagas-tunt",
+   "desc": "Länstidningens politiska redaktör, Tomas Karlsson, tycker att Södertäljes nya högerstyre inte levererade tillräckligt i sin första budget. – De känns väldigt sugna på att styra kommunen, men rent konkret så var det tunt, säger han."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Har sålt frukt i Skärholmen i 26 år – nu dras hans tillstånd in",
+   "date": "2026-11-22T04:30:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-salt-frukt-i-skarholmen-i-26-ar-nu-dras-hans-tillstand-in",
+   "desc": "Efter över två decennier på torget riskerar Abdullah Kursun att tvingas minska sin verksamhet. Nu har han fått över 4 000 personer att skriva under hans namninsamling. – Hela området är beroende av det här stället, säger torghandlaren Abdullah Kursun."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Nya halvautomatiska varianter av 3D-printade vapen har dykt upp på den svenska marknaden. Ritningar sprids öppet på nätet med videoguider och information om var extra delar kan köpas. – Den kan skjuta om och om väldig farlig vapen, säger Stephen James, chef vid nationellt forensiskt centrum."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 20 november",
-   "date": "2026-11-20T16:42:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-20-november-5b7luf",
-   "desc": "Här är några utvalda nyheter från SVT Nyheter Stockholm fredagen 20 november."
+   "src": "BBC",
+   "section": "United",
+   "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+   "date": "2026-11-22T06:21:55.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-20T16:55:11.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\"."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'We are animals of the grass' - Pochettino missed club football",
-   "date": "2026-11-20T15:51:22.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq62p5rd023mo?at_medium=RSS&at_campaign=rss",
-   "desc": "New Manchester United boss Mauricio Pochettino underlines the importance of time on the pitch with his players having spent the last two years in international football as manager of the United States."
   }
  ]
 }
