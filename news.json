@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-22T21:29:23.783Z",
+ "updated": "2026-11-23T01:55:22.593Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-   "date": "2026-11-22T18:17:59.000Z",
+   "date": "2026-11-23T00:50:35.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "desc": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels."
+   "desc": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
   },
   {
    "src": "BBC",
@@ -29,7 +29,7 @@
    "src": "BBC",
    "section": "Världen",
    "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "date": "2026-11-22T17:57:43.000Z",
+   "date": "2026-11-22T22:37:43.000Z",
    "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
    "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
   },
@@ -124,6 +124,30 @@
   {
    "src": "BBC",
    "section": "United",
+   "title": "Did Liverpool 'get lucky' with red card decision?",
+   "date": "2026-11-22T23:59:59.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+   "desc": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Robinson: It will take Poch time to fix United",
+   "date": "2026-11-22T23:39:02.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cw62pnmx8l0yo?at_medium=RSS&at_campaign=rss",
+   "desc": "Robinson: It will take Poch time to fix United"
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+   "date": "2026-11-22T21:36:00.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+   "desc": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?"
+  },
+  {
+   "src": "BBC",
+   "section": "United",
    "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
    "date": "2026-11-22T21:22:10.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
@@ -136,30 +160,6 @@
    "date": "2026-11-22T20:13:06.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cmregqe44w4no?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd fan Jay Motty has warned fellow supporters that Man Utd could be dragged into a relegation fight if the club doesn't start picking up wins soon."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-   "date": "2026-11-22T18:28:51.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
-   "desc": "How Liverpool and Manchester United's players rated following their Premier League match."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "The red card that changed Liverpool-Man Utd: correct call?",
-   "date": "2026-11-22T17:55:54.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Man Utd score dramatic late winner to extend record run",
-   "date": "2026-11-22T17:54:32.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm0rkzzyl2ego?at_medium=RSS&at_campaign=rss",
-   "desc": "Simi Awujo's last-gasp winner caps a remarkable Manchester United comeback at Birmingham, securing a dramatic victory and stretching the club's record unbeaten run to 14 matches."
   }
  ]
 }
