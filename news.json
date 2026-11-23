@@ -1,93 +1,109 @@
 {
- "updated": "2026-11-23T01:55:22.593Z",
+ "updated": "2026-11-23T10:15:11.742Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-   "date": "2026-11-23T00:50:35.000Z",
+   "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+   "date": "2026-11-23T05:15:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "desc": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
+   "desc": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\"."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What's next after no deal at COP31 climate talks?",
-   "date": "2026-11-22T18:57:24.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-   "desc": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+   "title": "Five takeaways from the failed climate talks COP31",
+   "date": "2026-11-23T06:33:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+   "desc": "The COP31 summit in Antalya was the longest-running climate talks in UN history."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "date": "2026-11-22T20:28:09.000Z",
+   "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+   "date": "2026-11-23T05:33:17.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+   "desc": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+   "date": "2026-11-23T08:36:57.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "desc": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+   "desc": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "date": "2026-11-22T22:37:43.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-   "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-   "date": "2026-11-22T17:18:26.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "desc": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
+   "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "date": "2026-11-23T00:08:00.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+   "desc": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "”Andersson söker ett sista halmstrå”",
-   "date": "2026-11-22T19:08:07.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/andersson-soker-ett-sista-halmstra",
-   "desc": "S-ledaren Magdalena Anderssons utspel på söndagskvällen är ett sista försök att sätta press på Vänsterpartiet. Men det framstår som alltmer utsiktslöst. Vänsterpartiet håller benhårt fast vid sina krav på ministerposter."
+   "title": "Sirius-spelarna kommer inte se Hammarby-matchen: ”Bryr mig inte”",
+   "date": "2026-11-23T09:58:02.000Z",
+   "link": "https://www.svt.se/sport/fotboll/sirius-spelarna-kommer-inte-se-hammarby-matchen-bryr-mig-inte",
+   "desc": "Hammarby behöver vinna för att återta serieledningen. Då avstår flera Sirius-spelare från att kolla konkurrentens match. – Jag bryr mig inte om hur de spelar, vi behöver vinna sista matchen ändå, säger David Celic."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "”Upptrappade läget på Östersjön kan skapa nytt Hormuz”",
-   "date": "2026-11-22T18:59:44.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/upptrappade-laget-pa-ostersjon-kan-skapa-nytt-hormuz",
-   "desc": "Finland fick plötsligt en brinnande rysk vapenfraktare på halsen. Myndigheterna här i Finland både säger och visar att de har läget under kontroll. Men fortsätter utvecklingen så riskerar Östersjön att förvandlas till ett nytt Svarta havet – eller Hormuzsundet."
+   "title": "Bombhot mot flera skolor i Danmark",
+   "date": "2026-11-23T09:41:20.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
+   "desc": "Flera skolor runtom i Danmark har mottagit bombhot via mejl, uppger Fyns polis för SVT. Samtidigt betonar polisen att det just nu inte finns anledning till oro. – Vi skickar ut uniformerad polis för att skapa säkerhet, men i nuläget har vi inga indikationer på ett verkligt hot, säger Mads Boel, kommunikationsrådgivare på Fyns polis."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Julia Walentowicz: ”Ska fira på Sturehof med Bosse”",
-   "date": "2026-11-22T16:37:37.000Z",
-   "link": "https://www.svt.se/sport/fotboll/julia-walentowicz-ska-fira-pa-sturehof-med-bosse",
-   "desc": "Trots konkurshot firade Kif Örebro det allsvenska avancemanget som att de vunnit SM-guld. – Vi har sju timmar på bussen nu så det kommer vara som en rullande nattklubb, säger lagkapten Julia Walentowicz till SVT Sport."
+   "title": "Chatt: Vem blir statsminister – och när är det klart?",
+   "date": "2026-11-23T09:23:25.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/chatt-vem-blir-statsminister-och-nar-ar-det-klart",
+   "desc": "Över 70 dagar utan regering. Förhandlingar inför öppen ridå. Andersson vs. Kristersson. Hur ska regeringsbildningen sluta? Och när? Ställ dina frågor till SVT:s politikreporter Kristeroffer Törnmalm – som svarar i chatt och livesändning."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Rosengårds mardröm – åker ur damallsvenskan",
-   "date": "2026-11-22T15:56:42.000Z",
-   "link": "https://www.svt.se/sport/fotboll/rosengards-mardrom-aker-ur-damallsvenskan",
-   "desc": "Rosengård åker ur damallsvenskan. Konkurshotade Kif Örebro vann kvalet och är – just nu – tillbaka i den högsta ligan. – Jag tror inte att det finns så mycket ord, det är mest en tomhet, säger Rosengårds assisterande tränare Robin Lindroos till SVT Sport."
+   "title": "Man i 25-årsåldern hittad död i Kristianstad – misstänkt anhållen",
+   "date": "2026-11-23T09:11:02.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/skane/25-aring-hittad-dod-i-kristianstad-misstankt-man-anhallen",
+   "desc": "En man i 25-årsåldern hittades död i en lägenhet under kvällen i lördags. På söndagen greps och anhölls en man i 30-årsåldern misstänkt för mord."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här får finskan revansch på svenska succémålvakten",
-   "date": "2026-11-22T14:43:49.000Z",
-   "link": "https://www.svt.se/sport/ishockey/har-far-finskan-revansch-pa-svenska-succemalvakten",
-   "desc": "Ebba Svensson Träff såg till att Sverige tog VM-medalj när hon räddade Emmi Juuselas straff i bronsmatchen. Men i SDHL fick Juusela revansch – när hon avgjorde matchen för sitt SDE mot Svensson Träffs Linköping. – Kul, hon är en fantastisk målvakt, säger Juusela efteråt."
+   "title": "Misstänkt utbrott av mässling i Stockholm",
+   "date": "2026-11-23T08:45:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-utbrott-av-massling-i-stockholm",
+   "desc": "Hundratals personer ska smittspåras efter ett misstänkt utbrott av mässling i Stockholm. En smittad person ska ha befunnit sig på akutmottagningen på Södersjukhuset under flera timmar tillsammans med flera andra personer."
   },
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Uppgifter: Svensk gripen i Kroatien – för inblandning i Älvsjömordet",
+   "title": "Misstänkt utbrott av mässling i Stockholm",
+   "date": "2026-11-23T08:45:26.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-utbrott-av-massling-i-stockholm",
+   "desc": "Hundratals personer ska smittspåras efter ett misstänkt utbrott av mässling i Stockholm. En smittad person ska ha befunnit sig på akutmottagningen på Södersjukhuset under flera timmar tillsammans med flera andra personer."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Stora förseningar och inställda tåg",
+   "date": "2026-11-23T07:17:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/stora-forseningar-och-installda-tag",
+   "desc": "Flera tåg ställs in efter signalfel på måndagsförmiddagen. Ett spår har stängts av mellan Stockholm och Göteborg, via Västerås. Samtliga tåg på sträckan tvingas dela på ett enkelspår. – Det medför stora förseningar, säger Denny Josefsson på presstalesperson på Trafikverket."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Svensk gripen i Kroatien – för inblandning i Älvsjömordet",
    "date": "2026-11-22T20:06:14.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-tonarspojke-gripen-i-kroatien-efter-alvsjomordet",
-   "desc": "Enligt den kroatiska tidningen Slobodna Dalmacija ska en svensk ung man ha gripits i fredags. Mannen ska vara misstänkt för inblandning i mordet på en kvinna i Älvsjö i oktober."
+   "desc": "En 18-årig man som misstänks för inblandning i mordet på en kvinna i Älvsjö har gripits i Kroatien. Mannen greps efter att Sverige utfärdat en internationell arresteringsorder. – Efter att vi hade gjort det greps han av kroatisk polis, säger åklagaren, Lukas Tigerstrand, till SVT."
   },
   {
    "src": "STHLM",
@@ -106,28 +122,12 @@
    "desc": "Tunnelbanetrafiken rullar igen efter att det ha varit stopp på gröna linjenunder söndagseftermiddagen."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "E18 öppen igen mellan Bålsta och Bro efter olycka",
-   "date": "2026-11-22T10:37:26.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/e18-stangd-i-riktning-mot-stockholm",
-   "desc": "Fyra bilar krockade på E18 Enköpingsvägen i riktning mot Stockholm. – Det är extremt halt på vägen och fyra bilar har kanat in i varandra, sa Fredrik Dackland från Räddningstjänsten under söndagsmorgonen."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Har sålt frukt i Skärholmen i 26 år – nu dras hans tillstånd in",
-   "date": "2026-11-22T04:30:00.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-salt-frukt-i-skarholmen-i-26-ar-nu-dras-hans-tillstand-in",
-   "desc": "Efter över två decennier på torget riskerar Abdullah Kursun att tvingas minska sin verksamhet. Nu har han fått över 4 000 personer att skriva under hans namninsamling. – Hela området är beroende av det här stället, säger torghandlaren Abdullah Kursun."
-  },
-  {
    "src": "BBC",
    "section": "United",
-   "title": "Did Liverpool 'get lucky' with red card decision?",
-   "date": "2026-11-22T23:59:59.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
-   "desc": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield."
+   "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+   "date": "2026-11-23T06:17:59.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir."
   },
   {
    "src": "BBC",
