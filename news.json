@@ -1,85 +1,101 @@
 {
- "updated": "2026-11-25T12:03:34.210Z",
+ "updated": "2026-11-25T21:53:15.674Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
-   "date": "2026-11-25T00:56:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
+   "title": "US announces new tariffs on host of countries including China",
+   "date": "2026-11-25T16:21:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "desc": "The new levies would hit many of America's biggest trading partners, including China and the EU."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-   "date": "2026-11-25T00:54:13.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "date": "2026-11-25T03:44:07.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-   "date": "2026-11-25T06:00:36.000Z",
+   "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+   "date": "2026-11-25T17:30:16.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-   "desc": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft."
+   "desc": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago"
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Thomas Markle charged in US for possessing child sex abuse images",
-   "date": "2026-11-25T01:40:42.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-   "desc": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material."
+   "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+   "date": "2026-11-25T21:25:14.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+   "desc": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+   "date": "2026-11-25T19:47:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "US stocks fall further as fears over AI intensify",
+   "date": "2026-11-25T21:43:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "desc": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Officerare har svårt att få ihop yrkesliv och familjeliv",
-   "date": "2026-11-25T11:53:16.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/officerare-har-svart-att-fa-ihop-yrkesliv-och-familjeliv",
-   "desc": "Militärfamiljer har svårigheter att få ihop privatliv och yrkesliv, det visar en ny rapport från Officersförbundet. Förbundet vill se en förändring för att säkerställa en bättre balans. – Försvarsmakten behöver arbeta med ett systematiserat anhörigstöd, säger ordförande Stefan Morin."
+   "title": "Alexander Isak tvåmålsskytt i Champions League",
+   "date": "2026-11-25T20:15:29.000Z",
+   "link": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
+   "desc": "Alexander Isak, 27, är stekhet. Anfallsstjärnan gjorde två mål för Liverpool borta mot Club Brügge i Champions League."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Anteckningsbok avslöjade hemliga straffmetoderna på skolan i Sigtuna",
-   "date": "2026-11-25T11:51:01.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/anteckningsbok-avslojade-hemliga-straffmetoderna-pa-skolan-i-sigtuna",
-   "desc": "En natt med ”tortyrliknande” övergrepp får en elev på internatet i Sigtuna att gå till skolledningen. Polisutredningen som följer avslöjar till synes hemliga straffmetoder och en nedärvd våldskultur. I en chattgrupp syns de brottsmisstänkta eleverna reagera på den växande utredningen: ”Vi har några golare.”"
+   "title": "Nytt fall av älgsjuka i Sverige",
+   "date": "2026-11-25T20:03:00.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/dalarna/nytt-fall-av-algsjuka-i-sverige",
+   "desc": "Ett nytt misstänkt fall av avmagringssjuka hos älg har konstaterats i Dalarna, enligt Statens veterinärmedicinska anstalt (SVA)."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Cuf vill ha S-C-MP-regering: ”Inget samarbete med SD”",
-   "date": "2026-11-25T11:22:49.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/skane/cuf-vill-ha-s-c-mp-regering-inget-samarbete-med-sd",
-   "desc": "Centerpartiet hade på tisdagskvällen ett extrainsatt möte. Där ska C-ledaren ha presenterat två alternativ, enligt vad SVT erfar: Ulf Kristersson eller extraval. Men partiets ungdomsförbund vill istället se en S-C-MP-regering eller extraval. – Vi vill inte sätta oss i något beroende av Sverigedemokraterna, säger förbundsordföranden Emelie Rossheim."
+   "title": "Spricka mellan C-topparna inför vägvalet: ”Slöseri”",
+   "date": "2026-11-25T19:19:00.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
+   "desc": "Inom C pågår interna strider om vägvalet i regeringsfrågan. Motståndare till en Kristersson-lösning mobiliserar för ett annat alternativ – och källor varnar för en framtid med partisplittring och avhopp."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hilda, 20 är butikschef: ”Jag var jätterädd i början”",
-   "date": "2026-11-25T10:50:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/hilda-20-ar-butikschef-jag-var-jatteradd-i-borjan",
-   "desc": "Hilda Nilsbeck är 20 år gammal och blev nyligen anställd som butikschef på en klädaffär mitt i Ljungby. Sedan gymnasiet har hon jobbat i affärer och samlat på sig erfarenhet ”från golvet”."
+   "title": "Här är C överens med de forna allianspartierna – och inte",
+   "date": "2026-11-25T19:18:58.000Z",
+   "link": "https://www.svt.se/nyheter/har-ar-c-overens-med-de-forna-allianspartierna-och-inte",
+   "desc": "På måndag röstar riksdagen om en borgerlig fyrpartiregering – de forna allianspartierna. Men hur lika tycker de i sakfrågor idag?"
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Separatistledaren Carles Puigdemont återvänder till Katalonien",
-   "date": "2026-11-25T10:42:41.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/puigdemont-atervander-till-katalonien",
-   "desc": "Den katalanske separatistledaren Carles Puigdemont meddelar att han kommer att återvända till Katalonien den 12 december. En spansk domare hävde i oktober en arresteringsorder mot honom."
+   "title": "Hot mot skola i Härnösand",
+   "date": "2026-11-25T18:34:04.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/hot-mot-skola-i-harnosand",
+   "desc": "Ett hot har riktats mot skolan i Härnösand genom ett klotter på en vägg i Landgrenshallen. Hotet gäller nu på fredag – och kommunen har beslutat att inte ha någon undervisning i lokalerna under dagen."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 25 november",
+   "date": "2026-11-25T18:49:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-25-november-udwze6",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm onsdag 25 november."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nästan dubbelt så många barn skadas i elsparkcykelolyckor i Stockholms län",
+   "date": "2026-11-25T15:26:16.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nastan-dubbelt-sa-manga-barn-skadas-i-elsparkcykelolyckor-i-stockholms-lan",
+   "desc": "Antalet barn och unga som skadas i elsparkcykelolyckor i Stockholms län har nästan fördubblats på ett år. Under första halvåret 2026 skadades 198 personer under 18 år – jämfört med 104 under samma period i fjol."
   },
   {
    "src": "STHLM",
@@ -92,10 +108,10 @@
   {
    "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "En person anhållen misstänkt för grov våldtäkt – greps på äldreboende",
+   "title": "Efter misstänkta grova våldtäkten på äldreboende – Attendo startar utredning",
    "date": "2026-11-25T11:43:33.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/stockholm/en-person-anhallen-misstankt-for-grov-valdtakt-greps-pa-aldreboende",
-   "desc": "En person är misstänkt för grov våldtäkt på ett äldreboende, det var Mitt i, först med att rapportera."
+   "desc": "En person är misstänkt för grov våldtäkt på ett äldreboende på Lidingö. Nu startar Attendo en egen utredning. – Ett standardförfarande, säger företagets presschef."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,12 @@
    "desc": "En man har blivit påkörd på Ringvägen på Södermalm under onsdagsmorgonen. Polis och ambulans är på plats."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Turkosa taxibilar rullar redan i Köpenhamn – SVT på plats för att se hur det gått",
-   "date": "2026-11-25T04:30:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/turkosa-taxibilar-rullar-redan-i-kopenhamn-svt-pa-plats-for-att-se-hur-det-gatt",
-   "desc": "Uppmärksamheten kring den vietnamesiske mångmiljardärens turkosa elbilar och deras intåg i Stockholm har blivit en snackis. SVT Nyheter Stockholm reste till Köpenhamn, där taxibilarna redan rullar på gatorna, för att ta reda på om etableringen ritat om taxikartan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 24 november",
-   "date": "2026-11-24T18:12:48.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-24-november-b1d0lb",
-   "desc": "Här är några utvalda nyheter från SVT Stockholm tisdag 24 november."
+   "src": "BBC",
+   "section": "United",
+   "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
+   "date": "2026-11-25T16:28:10.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
+   "desc": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-24T21:56:20.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6lywn479rxeo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United head coach Mauricio Pochettino criticises VAR after Leny Yoro had the red card shown to him at Anfield overturned by the Football Association."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Why was Yoro's red card overturned?",
-   "date": "2026-11-24T19:52:10.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck987j3jgndjo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United's Leny Yoro has had the red card he received against Liverpool overturned, but referees' chief Howard Webb has backed the decision to dismiss the defender."
   }
  ]
 }
