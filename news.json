@@ -1,29 +1,37 @@
 {
- "updated": "2026-11-24T18:04:03.604Z",
+ "updated": "2026-11-25T02:41:17.366Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-   "date": "2026-11-24T17:04:20.000Z",
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "date": "2026-11-24T21:19:42.000Z",
    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading."
+   "desc": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "What Jensen Huang's return teaches China's Xi about Trump",
-   "date": "2026-11-24T07:26:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-   "desc": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing."
+   "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+   "date": "2026-11-24T16:49:07.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+   "desc": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-   "date": "2026-11-24T10:58:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-   "desc": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
+   "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+   "date": "2026-11-24T18:07:46.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "date": "2026-11-25T01:11:57.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "desc": "The verdict follows a months-long trial in New York."
   },
   {
    "src": "BBC",
@@ -34,52 +42,60 @@
    "desc": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-   "date": "2026-11-24T18:02:27.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Pakistanier ombord på kinesisk raket",
+   "date": "2026-11-25T01:57:59.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/pakistanier-ombord-pa-kinesisk-raket",
+   "desc": "Kina har för första gången skjutit upp en raket med en utländsk astronaut ombord."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Här är M:s totalpaket till C: ”Hade högre förväntningar”",
-   "date": "2026-11-24T17:46:39.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
-   "desc": "Centerpartiet går nu in i nya regeringssamtal med Moderaterna. SVT har tagit del av M:s totalpaket som ligger till grund för samtalen. – Jag hade ärligt talat högre förväntningar, säger en C-källa."
+   "title": "Översvämmade gator i Kalifornien – El Niño förvärrar",
+   "date": "2026-11-25T00:26:06.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/oversvammade-gator-i-kalifornien-el-nino-forvarrar",
+   "desc": "Gator i San Francisco och Alameda i Kalifornien svämmade över på tisdagen – då högvatten längs Stillahavskusten försvårade resandet under Thanksgiving-veckan. Och det kan förvärras av stundande kraftiga regn."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "ChatGPT gav råd om svensk skolattack i test",
-   "date": "2026-11-24T16:56:34.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/chatgpt-gav-rad-om-svensk-skolattack-i-test",
-   "desc": "Ekots reportrar lyckades få hjälp med att planera en fiktiv svensk skolattack genom ChatGPT. Detta trots att företaget bakom AI-verktyget tidigare uppgett att man skärpt säkerheten."
+   "title": "Huawei döms i USA",
+   "date": "2026-11-25T00:06:16.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/huawei-doms-i-usa",
+   "desc": ""
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Evy Palm är död – löparen blev 84 år",
-   "date": "2026-11-24T16:53:05.000Z",
-   "link": "https://www.svt.se/sport/friidrott/evy-palm-ar-dod-loparen-blev-84-ar",
-   "desc": "Evy Palm är död. Den svenska långdistans- och maratonlöparen blev 84 år. – Hon har gett oss så mycket trygghet och kärlek, säger dottern Anneli Magnusson till SVT Sport."
+   "title": "Uppgifter: C-ledaren pekar ut två möjliga lösningar – på internt möte",
+   "date": "2026-11-24T22:42:38.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/uppgifter-c-ledaren-pekar-ut-tva-mojliga-losningar-pa-internt-mote",
+   "desc": "Centerpartiet samlades under tisdagskvällen för ett extrainsatt möte. Där ska C-ledaren, enligt vad SVT erfar, målat upp två alternativ. Antingen väljer man Ulf Kristersson – eller så går man till extraval – vilket Elisabeth Thand Ringqvist varnar för."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Kritik mot Trump efter Nvidia-vd:n Jensen Huangs comeback",
-   "date": "2026-11-24T16:13:25.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/kritik-mot-trump-efter-nvidia-vdn-jensen-huangs-comeback",
-   "desc": "Jensen Huang är tillbaka som vd för Nvidia efter att ”styrelsen beslöt att göra som vi ville”, enligt Donald Trump. Nu riktar kongressledamöter från båda partierna kritik mot den amerikanska presidenten. – Det är tydligt att Donald Trump har involverat sig i det här direkt själv, säger USA-korrespondenten Carl Fridh Kleberg."
+   "title": "Andersson: V har inte ”rört sig en centimeter”",
+   "date": "2026-11-24T22:31:31.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/andersson-v-har-inte-rort-sig-en-millimeter",
+   "desc": "Klockan tickar inför statsministeromröstningen om Ulf Kristersson (M). På den rödgröna sidan säger S-ledaren Magdalena Andersson att Vänsterpartiet inte ”rört sig en centimeter”, men Miljöpartiet har inte gett upp hoppet om en rödgrön regering. – Vi kan konstatera att skulle Centerpartiet byta sida, ja då är det ett stort svek mot sina väljare, säger MP:s språkrör Amanda Lind i Aktuellt."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Talmannen: Kristersson prövas som statsminister på måndag",
-   "date": "2026-11-24T15:59:56.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/talmannen-kristersson-provas-som-statsminister-pa-mandag",
-   "desc": "Moderaternas partiledare Ulf Kristersson kommer att prövas som statsminister på måndag nästa vecka. Det meddelar talman Andreas Norlén. – Han har varit noga med att understryka att han inte vet i dag hur Centerpartiet kommer ställa sig, säger Norlén."
+   "title": "Nyheter från dagen: 24 november",
+   "date": "2026-11-24T18:12:48.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-24-november-b1d0lb",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm tisdag 24 november."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Flyttstädning på Operahuset – stänger efter helgen",
+   "date": "2026-11-24T18:06:56.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/flyttstadning-pa-operahuset-stanger-efter-helgen",
+   "desc": "I 128 år har det sjungits i Operahuset vid Gustav Adolfs torg. Men efter helgen blir det mest borrljud och hammarslag som kommer att eka över platsen."
   },
   {
    "src": "STHLM",
@@ -106,20 +122,28 @@
    "desc": "Polisen är på plats på Lidingö efter larm om ett grovt brott. Enligt polisen har en brukare på ett äldreboende gripits. – Vi misstänker ett grovt brott, säger Susanna Rinaldo, polisens presstalesperson."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Så skapar Lion musik – trots cp-skadan",
-   "date": "2026-11-24T04:30:09.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sa-skapar-lion-musik-trots-cp-skadan",
-   "desc": "19-årige Lion Valente föddes med en cp-skada som påverkar hans rörlighet och talförmåga. Det har gjort det svårt att fullt ut följa hans stora passion: Musiken."
+   "src": "BBC",
+   "section": "United",
+   "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+   "date": "2026-11-24T22:05:31.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb"
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 23 november",
-   "date": "2026-11-23T18:55:02.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-23-november-fojw21",
-   "desc": "Här är några utvalda nyheter från SVT Stockholm måndag 23 november."
+   "src": "BBC",
+   "section": "United",
+   "title": "'And the three points?' - Pochettino after Yoro red overturned",
+   "date": "2026-11-24T21:56:20.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6lywn479rxeo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United head coach Mauricio Pochettino criticises VAR after Leny Yoro had the red card shown to him at Anfield overturned by the Football Association."
+  },
+  {
+   "src": "BBC",
+   "section": "United",
+   "title": "Why was Yoro's red card overturned?",
+   "date": "2026-11-24T19:52:10.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck987j3jgndjo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United's Leny Yoro has had the red card he received against Liverpool overturned, but referees' chief Howard Webb has backed the decision to dismiss the defender."
   },
   {
    "src": "BBC",
@@ -136,30 +160,6 @@
    "date": "2026-11-24T15:56:55.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United defender Ayden Heaven is open to a loan move in January amid concerns over his game time as his side battles in the Premier League relegation zone."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Luke Shaw back in Man Utd training",
-   "date": "2026-11-24T13:37:49.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c63rgprgywe8o?at_medium=RSS&at_campaign=rss",
-   "desc": "Defender Luke Shaw has returned to Manchester United training ahead of their Champions League fixture against Sporting."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Comm Cam - Liverpool thrash Manchester United",
-   "date": "2026-11-23T16:56:00.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm1wr3lgpeglo?at_medium=RSS&at_campaign=rss",
-   "desc": "Watch John Murray react to all four of Liverpool's goals against Manchester United in Mauricio Pochettino's first game in charge."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-   "date": "2026-11-23T16:30:59.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
-   "desc": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League"
   }
  ]
 }
