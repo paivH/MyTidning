@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-25T21:53:15.674Z",
+ "updated": "2026-11-26T03:55:00.969Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
    "title": "US announces new tariffs on host of countries including China",
-   "date": "2026-11-25T16:21:34.000Z",
+   "date": "2026-11-26T03:01:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
    "desc": "The new levies would hit many of America's biggest trading partners, including China and the EU."
   },
@@ -20,10 +20,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-   "date": "2026-11-25T21:25:14.000Z",
+   "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+   "date": "2026-11-25T22:18:06.000Z",
    "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-   "desc": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
+   "desc": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Has global jihadism failed, or is it simply changing shape?",
+   "date": "2026-11-26T00:22:18.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+   "desc": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?"
   },
   {
    "src": "BBC",
@@ -34,12 +42,28 @@
    "desc": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "US stocks fall further as fears over AI intensify",
-   "date": "2026-11-25T21:43:18.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-   "desc": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Nordkorea: Producera mer kärnvapen",
+   "date": "2026-11-26T02:40:09.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/nordkorea-producera-mer-karnvapen",
+   "desc": "Nordkorea bör bygga ut sin kärnvapenarsenal ytterligare, anser landets ledare Kim Jong-Un."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Minst 31 döda efter olycka i Egypten",
+   "date": "2026-11-25T23:03:56.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/minst-31-doda-efter-olycka-i-egypten",
+   "desc": "En tankbil kraschade på en motorväg i utkanten av Kairo på onsdagen. Det ledde till en stor brand där minst 31 personer omkommit, rapporter nyhetsbyrån AP."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Duran Duran-gitarristen Andy Taylor är död",
+   "date": "2026-11-25T21:54:17.000Z",
+   "link": "https://www.svt.se/kultur/duran-duran-gitarristen-andy-taylor-ar-dod",
+   "desc": "Gitarristen i ikoniska Duran Duran, Andy Taylor, är död. Han blev 65 år."
   },
   {
    "src": "SVT",
@@ -47,7 +71,7 @@
    "title": "Alexander Isak tvåmålsskytt i Champions League",
    "date": "2026-11-25T20:15:29.000Z",
    "link": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league",
-   "desc": "Alexander Isak, 27, är stekhet. Anfallsstjärnan gjorde två mål för Liverpool borta mot Club Brügge i Champions League."
+   "desc": "Alexander Isak, 27, är stekhet. Anfallsstjärnan gjorde två mål i Liverpools seger borta mot Club Brügge i Champions League. – Det är ett underbart avslut från Isak, säger BBC-experten Chris Sutton om 3–0-målet."
   },
   {
    "src": "SVT",
@@ -56,30 +80,6 @@
    "date": "2026-11-25T20:03:00.000Z",
    "link": "https://www.svt.se/nyheter/lokalt/dalarna/nytt-fall-av-algsjuka-i-sverige",
    "desc": "Ett nytt misstänkt fall av avmagringssjuka hos älg har konstaterats i Dalarna, enligt Statens veterinärmedicinska anstalt (SVA)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Spricka mellan C-topparna inför vägvalet: ”Slöseri”",
-   "date": "2026-11-25T19:19:00.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
-   "desc": "Inom C pågår interna strider om vägvalet i regeringsfrågan. Motståndare till en Kristersson-lösning mobiliserar för ett annat alternativ – och källor varnar för en framtid med partisplittring och avhopp."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Här är C överens med de forna allianspartierna – och inte",
-   "date": "2026-11-25T19:18:58.000Z",
-   "link": "https://www.svt.se/nyheter/har-ar-c-overens-med-de-forna-allianspartierna-och-inte",
-   "desc": "På måndag röstar riksdagen om en borgerlig fyrpartiregering – de forna allianspartierna. Men hur lika tycker de i sakfrågor idag?"
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Hot mot skola i Härnösand",
-   "date": "2026-11-25T18:34:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/hot-mot-skola-i-harnosand",
-   "desc": "Ett hot har riktats mot skolan i Härnösand genom ett klotter på en vägg i Landgrenshallen. Hotet gäller nu på fredag – och kommunen har beslutat att inte ha någon undervisning i lokalerna under dagen."
   },
   {
    "src": "STHLM",
@@ -124,42 +124,42 @@
   {
    "src": "BBC",
    "section": "United",
-   "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
-   "date": "2026-11-25T16:28:10.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
-   "desc": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref."
+   "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+   "date": "2026-11-26T00:24:48.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
+   "desc": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?"
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "'We need to start winning games' before any new contract talks",
-   "date": "2026-11-25T10:54:29.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c34gn8pdx85xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United captain says he will not hold talks about a new contract until the team starts winning games."
+   "title": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
+   "date": "2026-11-26T00:22:28.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Sport breaks down the chaos amid Manchester United's rollercoaster Champions League draw against Sporting in Lisbon."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Are Manchester United this season's Tottenham?",
-   "date": "2026-11-25T06:22:36.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
-   "desc": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?"
+   "title": "Pochettino prefers not to speak over referee decisions",
+   "date": "2026-11-26T00:09:47.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6d9174dlwxqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United head coach Mauricio Pochettino stays silent when asked about referee decisions in the 2-2 draw with Sporting CP in the Champions League."
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
-   "date": "2026-11-24T22:05:31.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb"
+   "title": "Ashley Young: Referee's was \"nothing short of a disgrace\"",
+   "date": "2026-11-25T22:49:54.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmgrex7dppvyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ashley Young: Referee's was \"nothing short of a disgrace\""
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "'And the three points?' - Pochettino after Yoro red overturned",
-   "date": "2026-11-24T21:56:20.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6lywn479rxeo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Mauricio Pochettino criticises VAR after Leny Yoro had the red card shown to him at Anfield overturned by the Football Association."
+   "title": "Ashley Young: United should sell Bruno in January",
+   "date": "2026-11-25T21:56:50.000Z",
+   "link": "https://www.bbc.co.uk/sport/videos/c6wy4eq1e395o?at_medium=RSS&at_campaign=rss",
+   "desc": "Ashley Young: United should sell Bruno in January"
   }
  ]
 }
