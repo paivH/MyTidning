@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-26T13:30:02.179Z",
+ "updated": "2026-11-26T22:31:37.678Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+   "date": "2026-11-26T19:26:16.000Z",
+   "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+   "desc": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -20,66 +28,74 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-   "date": "2026-11-26T10:25:51.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-   "desc": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Desperate appeals from women on death row in Iran after protests",
-   "date": "2026-11-26T06:01:58.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-   "desc": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-   "date": "2026-11-26T11:27:42.000Z",
+   "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+   "date": "2026-11-26T22:01:22.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
    "desc": "The possible environmental damage is still being assessed by Spain's sea rescue service."
   },
   {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Katterna bajsade på golvet – lägenheten var täckt av sopor",
-   "date": "2026-11-26T13:26:05.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/katterna-bajsade-pa-golvet-lagenheten-var-tackt-av-sopor",
-   "desc": "Ett par vräks från sin lägenhet i centrala Jönköping efter att ha vanvårdat lägenheten de bott i. Efter att problemen uppdagats och paret uppmanats att städa blev problemen ännu värre och nu vräks de, skriver tidningen Hem och Hyra."
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+   "date": "2026-11-26T14:44:26.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+   "desc": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Se stora snöskillnaderna i Skellefteå – från gräsmatta till snösmocka",
-   "date": "2026-11-26T12:55:13.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/se-stora-snoskillnaderna-i-skelleftea-fran-grasmatta-till-snosmocka",
-   "desc": "Snödjupet skiljer sig kraftigt åt i Skellefteå efter förra helgens snösmocka. Enligt SMHI har Östra Falmark mest snö i landet, medan gräsmattor är gröna i byn Burvik – bara drygt en mil därifrån. – Det är lugnt, snön kommer nog sen, säger Lennart Wikström som sköter snöskottningen i delar av byn."
+   "title": "Här slår stjärnan till domaren när Djurgården förlorade femte raka",
+   "date": "2026-11-26T20:21:05.000Z",
+   "link": "https://www.svt.se/sport/ishockey/har-slar-stjarnan-till-domaren-nar-djurgarden-forlorade-femte-raka",
+   "desc": "Femte raka förlusten för Djurgården – då blev det ordentligt irriterat i slutminuterna borta mot Växjö. Djurgårdskaptenen Marcus Krüger blev utvisad – efter att ha slagit till domaren. – Det var absolut inte meningen, säger Krüger till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Krav i EU: Släpp Dawit Isaak",
-   "date": "2026-11-26T12:43:17.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/krav-i-eu-slapp-dawit-isaak",
-   "desc": "EU-parlamentet kräver återigen att den i Eritrea fängslade journalisten Dawit Isaak ska släppas."
+   "title": "Prisas efter att ha hjälpt löpare som kollapsade på Boston Marathon",
+   "date": "2026-11-26T19:47:28.000Z",
+   "link": "https://www.svt.se/sport/friidrott/prisas-efter-att-ha-hjalpt-lopare-som-kollapsade-pa-boston-marathon",
+   "desc": "Ajay Haridasse kollapsade 300 meter från målgång i Boston Marathon. Då fick han hjälp av två medlöpare – nu prisas duon av det internationella friidrottsförbundet för sin insats. – Jag trodde aldrig i livet att vi skulle vinna, säger Aaron Beggs."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Mordåtalade 16-åringar riskerar tolv års fängelse",
-   "date": "2026-11-26T12:42:32.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/mordatalade-16-aringar-riskerar-tolv-ars-fangelse",
-   "desc": "Åklagaren yrkar på tolv års fängelse för två 16-åriga pojkar som står åtalade för mord i Oslo och Norrköping i våras."
+   "title": "C-ledamot ska rösta nej till Kristersson: ”Oerhört upprörd”",
+   "date": "2026-11-26T18:17:01.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/c-toppen-ska-rosta-nej-till-kristersson-oerhort-upprord",
+   "desc": "C-ledamoten Anna Lasses går emot sin partiledare. Hon kommer att rösta nej till en Kristersson-ledd regering – och säger att fler partikollegor kan göra samma sak. – Det kanske rör sig om en tredjedel, säger hon i Aktuellt."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man gick emellan vid bråk på ungdomshem – blev nedslagen",
-   "date": "2026-11-26T12:31:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/man-gick-emellan-vid-brak-pa-ungdomshem-blev-nedslagen",
-   "desc": "På tisdagskvällen gick en i personalen emellan vid ett bråk mellan ungdomar på Sundbo ungdomshem i Fagersta. Mannen blev själv nedslagen, och fördes med ambulans till sjukhus."
+   "title": "C-ledningen säger ja till Ulf Kristersson",
+   "date": "2026-11-26T17:51:21.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/c-ledningen-sager-ja-till-ulf-kristersson",
+   "desc": "Centerpartiets ledning vill rösta ja till Ulf Kristersson (M) på måndag och ingå i en minoritetsregering. Det meddelar partiledaren Elisabeth Thand Ringqvist under en pressträff. – Vi kommer att ta oss igenom detta tillsammans, säger hon."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Man knivskuren i Helsingborg – förd till sjukhus",
+   "date": "2026-11-26T17:01:15.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/helsingborg/man-knivskuren-i-helsingborg-ford-till-sjukhus",
+   "desc": "En konflikt mellan två män vid en matvagn på Sundstorget i Helsingborg slutade med att en av dem skars i armen och fördes sedan till sjukhus."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 26 november",
+   "date": "2026-11-26T18:55:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-26-november-y04xnv",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm torsdag 26 november."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Man häktad för mord i Skärholmen",
+   "date": "2026-11-26T15:34:22.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-haktad-for-mord-i-skarholmen-pongl2",
+   "desc": "En man i 30-årsåldern har häktats som skäligen misstänkt för ett mord i Skärholmen förra veckan."
   },
   {
    "src": "STHLM",
@@ -106,25 +122,17 @@
    "desc": "Ashkan Badie var på spa när en halkolycka lämnade honom orörlig med flera benbrott i nollgradigt väder. Vänner ringde SOS Alarm sex gånger, men ingen ambulans kom. – Hade inte mina vänner varit där vet jag inte hur det hade slutat, säger Ashkan Badie, vars vänner till slut efter några timmar körde honom till sjukhus."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Sigtunaskola i konkurs – 168 elever måste byta skola",
-   "date": "2026-11-26T09:56:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/sigtunaskola-i-konkurs-168-elever-maste-byta-skola",
-   "desc": "Friskolan Josefinaskolan i Sigtuna kommun har gått i konkurs. Verksamheten upphör efter höstterminen och 168 elever måste nu byta skola. – Självklart är det en svår situation för eleverna att byta skola under ett läsår, säger Sandra Lundberg, chef på utbildningsförvaltningen i Sigtuna kommun."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "81-årig man åtalas för olaga hot mot V-profilen i Järva",
-   "date": "2026-11-26T08:19:14.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/81-arig-man-atalas-for-olaga-hot-mot-v-profilen-i-jarva",
-   "desc": "Efter att V-profilen i Järva, Mohamed Nuur, skrev om Tidöpartierna på sociala medier fick han motta en våg av hot och hat. Nu åtalas en 81-årig man för olaga hot. Det rapporterar Expo."
+   "src": "BBC",
+   "section": "United",
+   "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+   "date": "2026-11-26T14:56:30.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United goalkeeper Senne Lammens made two major mistakes in the 2-2 draw with Sporting - could Mauricio Pochettino drop his goalkeeper?"
   },
   {
    "src": "BBC",
    "section": "United",
-   "title": "Senne Lammens 'one mistake from being dropped' - Ashley Young",
+   "title": "Lammens one mistake from being dropped -  Young",
    "date": "2026-11-26T11:29:50.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c3qj5y08848po?at_medium=RSS&at_campaign=rss",
    "desc": "Ashley Young says Senne Lammen's position could be at risk if he doesn't improve his current form."
@@ -152,14 +160,6 @@
    "date": "2026-11-26T00:22:28.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o?at_medium=RSS&at_campaign=rss",
    "desc": "BBC Sport breaks down the chaos amid Manchester United's rollercoaster Champions League draw against Sporting in Lisbon."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Pochettino prefers not to speak over referee decisions",
-   "date": "2026-11-26T00:09:47.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6d9174dlwxqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Mauricio Pochettino stays silent when asked about referee decisions in the 2-2 draw with Sporting CP in the Champions League."
   }
  ]
 }
