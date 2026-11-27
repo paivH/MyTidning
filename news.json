@@ -1,85 +1,109 @@
 {
- "updated": "2026-11-27T04:44:38.474Z",
+ "updated": "2026-11-27T14:39:12.530Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-   "date": "2026-11-26T22:49:27.000Z",
+   "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "date": "2026-11-27T09:07:48.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
+   "desc": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-   "date": "2026-11-27T00:52:11.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-   "desc": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding."
+   "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+   "date": "2026-11-27T10:26:28.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+   "desc": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-   "date": "2026-11-26T19:26:16.000Z",
-   "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-   "desc": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
+   "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+   "date": "2026-11-27T06:03:39.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+   "desc": "The struggle many face in buying a home has been the biggest issue of a bitter campaign."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-   "date": "2026-11-27T03:28:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-   "desc": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern."
+   "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+   "date": "2026-11-27T07:28:10.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+   "desc": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-   "date": "2026-11-26T05:00:24.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-   "desc": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm."
+   "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+   "date": "2026-11-27T11:44:40.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+   "desc": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Linköpingsforskaren hoppfull trots kraschad klimatförhandling",
-   "date": "2026-11-27T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/ost/linkopingsforskaren-hoppfull-trots-kraschad-forhandling",
-   "desc": "Efter att orden fossila bränslen tagits bort ur sluttexten kraschade FN:s klimatmöte COP31. Men Linköpingsforskaren Maria Jernnäs är fortfarande hoppfull. – Det här kan vara ett sätt att röra om i grytan, säger hon."
+   "title": "Antalet paket ökar kraftigt i Umeå – redan innan Black Friday: ”Mer utspritt”",
+   "date": "2026-11-27T14:10:57.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/antalet-paket-okar-kraftigt-i-umea-infor-black-friday-mer-utspritt",
+   "desc": "Antalet paket har ökat med nära 30 procent hittills i november jämfört med i fjol, enligt Bring. Det är den största ökningen företaget har sett inför Black Friday. – Jag vet inte ens vart jag ska ställa paketen, säger Frida Gregorsson, på Monkey Business i Umeå."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nils, 2, kan dö av mjölk – mamman vill se allergiförskola i Umeå",
-   "date": "2026-11-27T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/nils-2-kan-do-av-mjolk-mamman-vill-se-allergiforskola-i-umea",
-   "desc": "Tvåårige Nils kan dö om han får i sig mjölkprotein. Allergin är så allvarlig att han kan drabbas av anafylaktisk chock. Familjen vill nu se en riktig allergiförskola i Umeå. – Jag tycker att det är anmärkningsvärt att en så stor stad inte tillhandahåller en specialiserad allergiförskola, säger Anna Alm, läkare och mamma till Nils."
+   "title": "”Vi lever i en allt farligare fred”",
+   "date": "2026-11-27T14:01:45.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/vi-lever-i-en-allt-farligare-fred",
+   "desc": "De mystiska incidenterna som drabbar Sverige och Europa blir allt fler – och allt värre. Nu finns tecken på att situationen skärpts och Sverige ses inte längre som lågprioriterat av Ryssland, enligt Säpo."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Nu lanseras Sveriges nya e-legitimation – kommer bara fungera hos polisen",
-   "date": "2026-11-27T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/smaland/polisen-borjar-utfarda-digitalt-sverigeid-men-anvandningen-ar-begransad",
-   "desc": "Den 1 december lanseras den nya statliga e-legitimationen Sverige-ID, som utfärdas av Polismyndigheten. Men när den lanseras kommer den knappt gå att använda någonstans – endast polisen själv kommer acceptera den nya e-legitimationen."
+   "title": "Man höggs ihjäl i Kungsör – kvinna åtalas för mord",
+   "date": "2026-11-27T12:50:25.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/man-hoggs-ihjal-i-kungsor-kvinna-atalas-for-mord",
+   "desc": "Den 21 juli höggs en 60-årig man ihjäl med kniv i en lägenhet i Kungsör. Nu åtalas en kvinna i 40-årsåldern för mord."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Hade bombförråd i källaren till lägenhetshus – döms till långt straff",
-   "date": "2026-11-27T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/sodertalje/hade-bombforrad-i-kallaren-till-lagenhetshus-doms-till-langt-straff",
-   "desc": "Det blev nio års fängelse för en byggföretagare i Södertälje som upplät sitt källarförråd åt Södertäljenätverkets bombtillverkning. Polisen lyckades spåra bomber som använts till lokalen."
+   "title": "William Poromaa vurpade under världscuppremiären i Ruka",
+   "date": "2026-11-27T12:44:59.000Z",
+   "link": "https://www.svt.se/sport/langdskidor/william-poromaa-vurpade-under-varldscuppremiaren-i-ruka",
+   "desc": "Tungt för William Poromaa. Svensken vurpade under premiärloppet i Ruka. – Jag höll på att flyga av banan, säger Poromaa till SVT Sport."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "60 sekunder: Misstänkta grannmordet i Luleå",
-   "date": "2026-11-27T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/norrbotten/60-sekunder-misstankta-grannmordet-i-lulea",
-   "desc": "I december 2025 hittades mänskliga kvarlevor i en utbrunnen bil. I dag inleds rättegången mot ett par i 50- respektive 60-årsåldern som misstänks för att ha mördat och bränt upp sin hyresvärd."
+   "title": "Busschaufför filmades med mobil under färd – har lämnat jobbet",
+   "date": "2026-11-27T11:42:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/rattsurfande-busschaufforen-har-fatt-sparken",
+   "desc": "Den busschaufför som i onsdags satt och scrollade på sin mobil medan han körde en fullsatt buss mellan Brandstorp och Habo har lämnat sitt arbete – det meddelar JLT idag."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Framtiden tar form i pepparkaksdeg – årets pepparkakshus ska utses",
+   "date": "2026-11-27T09:53:59.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/framtiden-tar-form-i-pepparkaksdeg-arets-pepparkakshus-ska-utses",
+   "desc": "Det är mindre än en månad kvar till julafton och på ArkDes slås dörrarna upp för tävlingen om vem som bakat årets pepparkakshus."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Stora störningar i pendeltågstrafiken efter signalfel",
+   "date": "2026-11-27T06:06:34.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/problem-i-pendeltagstrafiken-efter-signalfel",
+   "desc": "Det är förseningar och inställda tåg i pendeltågstrafiken på fredagsmorgonen på grund av ett tidigare omfattande signalfel."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Varningen: Mässling på flyg från Thailand till Stockholm",
+   "date": "2026-11-27T05:33:27.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/varningen-massling-upptackt-pa-flyg-fran-thailand-till-stockholm",
+   "desc": "Folkhälsomyndigheten varnar flygpassagerare efter ett misstänkt mässlingsutbrott på ett plan från Bangkok till Stockholm, rapporterar Aftonbladet."
   },
   {
    "src": "STHLM",
@@ -98,28 +122,12 @@
    "desc": "Här är några utvalda nyheter från SVT Stockholm torsdag 26 november."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man häktad för mord i Skärholmen",
-   "date": "2026-11-26T15:34:22.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-haktad-for-mord-i-skarholmen-pongl2",
-   "desc": "En man i 30-årsåldern har häktats som skäligen misstänkt för ett mord i Skärholmen förra veckan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Man hittad utomhus i Gröndal – allvarligt skadad",
-   "date": "2026-11-26T11:53:55.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-hittad-utomhus-i-grondal-allvarligt-skadad",
-   "desc": "Under torsdagsmorgonen anträffades en medvetslös man utomhus i Gröndal i södra Stockholm. Polisen misstänker att mannen blivit misshandlad. – Vi vet inte hur länge han legat där ute, säger Ola Österling, polisens presstalesperson."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Intagen på häktet anträffad död i sin cell",
-   "date": "2026-11-26T11:44:19.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/intagen-pa-haktet-antraffad-dod-i-sin-cell",
-   "desc": "En intagen på häktet i Flemingsberg i Huddinge har anträffats död i sin cell under torsdagsmorgonen. – Det kommer att göras en dödsfallsundersökning, säger polisens presstalesperson Ola Österling."
+   "src": "BBC",
+   "section": "United",
+   "title": "Man Utd trigger Fernandes' one-year contract extension",
+   "date": "2026-11-27T14:37:07.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028."
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "date": "2026-11-26T00:24:48.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
    "desc": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?"
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
-   "date": "2026-11-26T00:22:28.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Sport breaks down the chaos amid Manchester United's rollercoaster Champions League draw against Sporting in Lisbon."
   }
  ]
 }
