@@ -1,85 +1,117 @@
 {
- "updated": "2026-11-27T14:39:12.530Z",
+ "updated": "2026-11-27T23:10:47.322Z",
  "items": [
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+   "date": "2026-11-27T21:55:53.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\"."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-   "date": "2026-11-27T09:07:48.000Z",
+   "date": "2026-11-27T18:00:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
    "desc": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-   "date": "2026-11-27T10:26:28.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-   "desc": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain."
+   "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+   "date": "2026-11-27T18:42:50.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?"
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-   "date": "2026-11-27T06:03:39.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-   "desc": "The struggle many face in buying a home has been the biggest issue of a bitter campaign."
+   "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+   "date": "2026-11-27T20:06:31.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck."
   },
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Italy's former police chief rejected mafia inquiry allegations before death",
-   "date": "2026-11-27T07:28:10.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
-   "desc": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-   "date": "2026-11-27T11:44:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-   "desc": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed."
+   "title": "Brazil pushes back on Macron calling its meat 'doped'",
+   "date": "2026-11-27T15:54:15.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+   "desc": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Antalet paket ökar kraftigt i Umeå – redan innan Black Friday: ”Mer utspritt”",
-   "date": "2026-11-27T14:10:57.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/antalet-paket-okar-kraftigt-i-umea-infor-black-friday-mer-utspritt",
-   "desc": "Antalet paket har ökat med nära 30 procent hittills i november jämfört med i fjol, enligt Bring. Det är den största ökningen företaget har sett inför Black Friday. – Jag vet inte ens vart jag ska ställa paketen, säger Frida Gregorsson, på Monkey Business i Umeå."
+   "title": "Ukraina försöker strypa Rysslands väg till Krim",
+   "date": "2026-11-27T19:04:22.000Z",
+   "link": "https://www.svt.se/nyheter/utrikes/ukraina-forsoker-strypa-rysslands-vag-till-krym",
+   "desc": "Sedan Ukraina sprängde bilbron mellan Ryssland och ockuperade Krim-halvön har de ryska förbanden där allt svårare att få försörjning. Genom utökade drönarattacker längs den enda landförbindelsen försöker Ukraina nu strypa viktiga militära transporter dit och isolera Krim."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "”Vi lever i en allt farligare fred”",
-   "date": "2026-11-27T14:01:45.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/vi-lever-i-en-allt-farligare-fred",
-   "desc": "De mystiska incidenterna som drabbar Sverige och Europa blir allt fler – och allt värre. Nu finns tecken på att situationen skärpts och Sverige ses inte längre som lågprioriterat av Ryssland, enligt Säpo."
+   "title": "Misstänkt för våldtäkt på äldreboende på Lidingö släppt",
+   "date": "2026-11-27T17:42:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-for-valdtakt-pa-aldreboende-pa-lidingo-slappt",
+   "desc": "En man som suttit anhållen misstänkt för grov våldtäkt på ett äldreboende på Lidingö utanför Stockholm har försatts på fri fot."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Man höggs ihjäl i Kungsör – kvinna åtalas för mord",
-   "date": "2026-11-27T12:50:25.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/man-hoggs-ihjal-i-kungsor-kvinna-atalas-for-mord",
-   "desc": "Den 21 juli höggs en 60-årig man ihjäl med kniv i en lägenhet i Kungsör. Nu åtalas en kvinna i 40-årsåldern för mord."
+   "title": "Man kopplas till Gamlestadsmordet – ställs inför rätta i Kap Verde",
+   "date": "2026-11-27T17:01:08.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vast/man-kopplas-till-gamlestadsmordet-stalls-infor-ratta-i-kap-verde",
+   "desc": "Under fredagen inleddes en rättegång i västafrikanska Kap Verde mot en 41-årig man från Göteborg. Mannen greps i slutet av 2025 efter att ha varit efterlyst i flera år. Han misstänks bland annat för inblandning i det uppmärksammade Gamlestadsmordet i Göteborg, 2020."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "William Poromaa vurpade under världscuppremiären i Ruka",
-   "date": "2026-11-27T12:44:59.000Z",
-   "link": "https://www.svt.se/sport/langdskidor/william-poromaa-vurpade-under-varldscuppremiaren-i-ruka",
-   "desc": "Tungt för William Poromaa. Svensken vurpade under premiärloppet i Ruka. – Jag höll på att flyga av banan, säger Poromaa till SVT Sport."
+   "title": "Så påverkar BAE:s jätteaffär Örnsköldsvik",
+   "date": "2026-11-27T16:39:03.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-paverkar-baes-jatteaffar-ornskoldsvik",
+   "desc": "BAE Systems Hägglunds har landat sin största affär genom tiderna. En affär värd över 60 miljarder kronor. Men även om affären välkomnas i Örnsköldsvik ser kommunalrådet utmaningar när det gäller till exempel kommunikation med flyg och tåg. – Här kan vi inte ensamma ta ansvar, säger kommunstyrelsens ordförande Anna Britta Åkerlund (C)."
   },
   {
    "src": "SVT",
    "section": "Sverige · Stockholm",
-   "title": "Busschaufför filmades med mobil under färd – har lämnat jobbet",
-   "date": "2026-11-27T11:42:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/jonkoping/rattsurfande-busschaufforen-har-fatt-sparken",
-   "desc": "Den busschaufför som i onsdags satt och scrollade på sin mobil medan han körde en fullsatt buss mellan Brandstorp och Habo har lämnat sitt arbete – det meddelar JLT idag."
+   "title": "C-toppen: Kommer bli ett ganska nära SD-samarbete",
+   "date": "2026-11-27T16:36:38.000Z",
+   "link": "https://www.svt.se/nyheter/inrikes/c-toppen-kommer-bli-ett-ganska-nara-sd-samarbete",
+   "desc": "C-toppen Martin Ådahl hoppas att partiet säger nej till att släppa fram en Kristersson-ledd regering. Han menar att en sådan i praktiken kommer att behöva ha ett ”ganska nära samarbete” med SD. – Om vi har lovat väljarna att hålla gränsen mot SD så ska vi göra det, säger han."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Nyheter från dagen: 27 november",
+   "date": "2026-11-27T18:53:43.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-27-november-84nv3c",
+   "desc": "Här är några utvalda nyheter från SVT Stockholm fredag 27 november."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Dreamhack i Stockholm slopar lan – satsar på schack",
+   "date": "2026-11-27T18:45:36.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/dreamhack-i-stockholm-slopar-lan-satsar-pa-schack",
+   "desc": "Dreamhack är tillbaka på Stockholmsmässan i Älvsjö. Men årets upplaga innebär slutet på en era. Efter 32 år försvinner festivalens klassiska lan-party."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Misstänkt för våldtäkt på äldreboende på Lidingö släppt",
+   "date": "2026-11-27T17:42:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-for-valdtakt-pa-aldreboende-pa-lidingo-slappt",
+   "desc": "En man som suttit anhållen misstänkt för grov våldtäkt på ett äldreboende på Lidingö utanför Stockholm har försatts på fri fot."
+  },
+  {
+   "src": "STHLM",
+   "section": "Sverige · Stockholm",
+   "title": "Patienter har fått vänta i timmar på ambulans – politikerna reagerar",
+   "date": "2026-11-27T14:55:50.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/patienter-har-fatt-vanta-i-timmar-pa-ambulans-politikerna-reagerar",
+   "desc": "Flera patienter har fått vänta uppemot fem timmar på ambulans i Region Stockholm, visar SVT:s genomgång av den senaste tidens avvikelserapporter. – Ser det ut så här nu är man ju orolig för hur ambulanssjukvården ska se ut under jul- och nyårshelgerna, säger oppositionsregionrådet Axel Conradi (M)."
   },
   {
    "src": "STHLM",
@@ -90,42 +122,18 @@
    "desc": "Det är mindre än en månad kvar till julafton och på ArkDes slås dörrarna upp för tävlingen om vem som bakat årets pepparkakshus."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Stora störningar i pendeltågstrafiken efter signalfel",
-   "date": "2026-11-27T06:06:34.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/problem-i-pendeltagstrafiken-efter-signalfel",
-   "desc": "Det är förseningar och inställda tåg i pendeltågstrafiken på fredagsmorgonen på grund av ett tidigare omfattande signalfel."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Varningen: Mässling på flyg från Thailand till Stockholm",
-   "date": "2026-11-27T05:33:27.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/varningen-massling-upptackt-pa-flyg-fran-thailand-till-stockholm",
-   "desc": "Folkhälsomyndigheten varnar flygpassagerare efter ett misstänkt mässlingsutbrott på ett plan från Bangkok till Stockholm, rapporterar Aftonbladet."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nytt torg och hundratals bostäder när Sätra görs om",
-   "date": "2026-11-27T04:30:04.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nytt-torg-och-hundratals-bostader-nar-satra-gors-om",
-   "desc": "Sätra centrum ska jämnas med marken för att ge plats åt ett öppet torg och hundratals nya bostäder. Efter flera års förseningar fattar Kommunfullmäktige nu beslut i frågan."
-  },
-  {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Nyheter från dagen: 26 november",
-   "date": "2026-11-26T18:55:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/nyheter-fran-dagen-26-november-y04xnv",
-   "desc": "Här är några utvalda nyheter från SVT Stockholm torsdag 26 november."
+   "src": "BBC",
+   "section": "United",
+   "title": "Pochettino: 'I am not nice'",
+   "date": "2026-11-27T16:30:20.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq4gnzdyz30eo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United head coach Mauricio Pochettino says he 'is not nice' as he hits back at criticism of his management style from former Liverpool and England midfielder Jamie Redknapp."
   },
   {
    "src": "BBC",
    "section": "United",
    "title": "Man Utd trigger Fernandes' one-year contract extension",
-   "date": "2026-11-27T14:37:07.000Z",
+   "date": "2026-11-27T15:08:41.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028."
   },
@@ -152,14 +160,6 @@
    "date": "2026-11-26T08:55:09.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/c58j4p79mzdko?at_medium=RSS&at_campaign=rss",
    "desc": "Man Utd fan Jay Motty questions key calls against Sporting but remains optimistic about new manager Mauricio Pochettino."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
-   "date": "2026-11-26T00:24:48.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
-   "desc": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?"
   }
  ]
 }
