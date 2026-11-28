@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:10:47.322Z",
+ "updated": "2026-11-28T04:50:13.150Z",
  "items": [
   {
    "src": "BBC",
@@ -12,34 +12,66 @@
   {
    "src": "BBC",
    "section": "Världen",
+   "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+   "date": "2026-11-28T04:13:45.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+   "desc": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Eight killed in Peruvian military helicopter crash",
+   "date": "2026-11-28T04:19:16.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+   "desc": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+   "date": "2026-11-28T00:56:55.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
    "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
    "date": "2026-11-27T18:00:40.000Z",
    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
    "desc": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-   "date": "2026-11-27T18:42:50.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?"
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Polisen växlar upp – när Hammarby möter VSK",
+   "date": "2026-11-28T04:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vastmanland/polisen-vaxlar-upp-nar-hammarby-moter-vsk",
+   "desc": "Det blir en grönvit folkfest på söndag. För att klara av publiktrycket får polisen förstärkning från Stockholm och Bergslagen. Med en större fanzone för Hammarbys fans, extra bussar i trafiken och fler entréer ska högriskmatchen i Västerås bli en trygg publikfest. – Det är klart det kommer vara heta känslor, men jag tror att det kommer gå i idrottens tecken, säger polisinsatschefen Mats Kjellmodin och tipsar om att lämna bilen hemma."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-   "date": "2026-11-27T20:06:31.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-   "desc": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Mjällby måste rädda Degerfors – efter bortamatch i Kazakstan",
+   "date": "2026-11-28T04:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/varmland/mjallby-maste-radda-degerfors-efter-bortamatch-i-kazakstan",
+   "desc": "På söndag får Mjällby inte förlora mot Halmstad – om Degerfors ska hålla sig kvar i allsvenskan. Men bara tre dagar innan spelar det blekingska laget match 20 mil från den kinesiska gränsen. – Missa inte flyget hem, hälsar Degerforsstjärnan Nahom Netabay."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Brazil pushes back on Macron calling its meat 'doped'",
-   "date": "2026-11-27T15:54:15.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-   "desc": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Caroline vill rädda skadade igelkottar: ”Min barndomsdröm”",
+   "date": "2026-11-28T04:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/ost/caroline-vill-radda-skadade-igelkottar-min-barndomsdrom",
+   "desc": "Nyligen hölls en kurs på Kolmårdens djurpark för de som vill bli viltrehabiliterare. Arrangör var den rikstäckande ideella organisationen KFV, vilket står för Katastrofhjälp – Fåglar och Vilt, som hoppas att fler ska öppna anläggningar i Östergötland, där behovet av hjälp för vilda djur är stort."
+  },
+  {
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Emil satsar på Ironman 2027 – med AI som personlig tränare",
+   "date": "2026-11-28T04:30:09.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/smaland/emil-satsar-pa-ironman-2027-med-ai-som-personlig-tranare",
+   "desc": "Den 20-årige Nybrobon Emil Kämpfer har siktet inställt på Ironman 2027. I stället för en personlig tränare som kostar pengar har han byggt en egen AI-modul som ger personliga träningsråd – och håller stenkoll på hans utveckling mot målet."
   },
   {
    "src": "SVT",
@@ -48,38 +80,6 @@
    "date": "2026-11-27T19:04:22.000Z",
    "link": "https://www.svt.se/nyheter/utrikes/ukraina-forsoker-strypa-rysslands-vag-till-krym",
    "desc": "Sedan Ukraina sprängde bilbron mellan Ryssland och ockuperade Krim-halvön har de ryska förbanden där allt svårare att få försörjning. Genom utökade drönarattacker längs den enda landförbindelsen försöker Ukraina nu strypa viktiga militära transporter dit och isolera Krim."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Misstänkt för våldtäkt på äldreboende på Lidingö släppt",
-   "date": "2026-11-27T17:42:50.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-for-valdtakt-pa-aldreboende-pa-lidingo-slappt",
-   "desc": "En man som suttit anhållen misstänkt för grov våldtäkt på ett äldreboende på Lidingö utanför Stockholm har försatts på fri fot."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Man kopplas till Gamlestadsmordet – ställs inför rätta i Kap Verde",
-   "date": "2026-11-27T17:01:08.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vast/man-kopplas-till-gamlestadsmordet-stalls-infor-ratta-i-kap-verde",
-   "desc": "Under fredagen inleddes en rättegång i västafrikanska Kap Verde mot en 41-årig man från Göteborg. Mannen greps i slutet av 2025 efter att ha varit efterlyst i flera år. Han misstänks bland annat för inblandning i det uppmärksammade Gamlestadsmordet i Göteborg, 2020."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "Så påverkar BAE:s jätteaffär Örnsköldsvik",
-   "date": "2026-11-27T16:39:03.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-paverkar-baes-jatteaffar-ornskoldsvik",
-   "desc": "BAE Systems Hägglunds har landat sin största affär genom tiderna. En affär värd över 60 miljarder kronor. Men även om affären välkomnas i Örnsköldsvik ser kommunalrådet utmaningar när det gäller till exempel kommunikation med flyg och tåg. – Här kan vi inte ensamma ta ansvar, säger kommunstyrelsens ordförande Anna Britta Åkerlund (C)."
-  },
-  {
-   "src": "SVT",
-   "section": "Sverige · Stockholm",
-   "title": "C-toppen: Kommer bli ett ganska nära SD-samarbete",
-   "date": "2026-11-27T16:36:38.000Z",
-   "link": "https://www.svt.se/nyheter/inrikes/c-toppen-kommer-bli-ett-ganska-nara-sd-samarbete",
-   "desc": "C-toppen Martin Ådahl hoppas att partiet säger nej till att släppa fram en Kristersson-ledd regering. Han menar att en sådan i praktiken kommer att behöva ha ett ”ganska nära samarbete” med SD. – Om vi har lovat väljarna att hålla gränsen mot SD så ska vi göra det, säger han."
   },
   {
    "src": "STHLM",
