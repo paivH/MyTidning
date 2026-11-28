@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-28T04:50:13.150Z",
+ "updated": "2026-11-28T13:50:46.469Z",
  "items": [
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Argentina's bid to stop Falklands oil drilling rejected",
+   "date": "2026-11-28T13:36:36.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+   "desc": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "date": "2026-11-28T10:34:58.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
+  },
+  {
+   "src": "BBC",
+   "section": "Världen",
+   "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+   "date": "2026-11-28T12:49:44.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "desc": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby."
+  },
   {
    "src": "BBC",
    "section": "Världen",
@@ -12,34 +36,18 @@
   {
    "src": "BBC",
    "section": "Världen",
-   "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
-   "date": "2026-11-28T04:13:45.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
-   "desc": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government."
+   "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+   "date": "2026-11-28T11:35:34.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+   "desc": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee."
   },
   {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Eight killed in Peruvian military helicopter crash",
-   "date": "2026-11-28T04:19:16.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
-   "desc": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-   "date": "2026-11-28T00:56:55.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
-  },
-  {
-   "src": "BBC",
-   "section": "Världen",
-   "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-   "date": "2026-11-27T18:00:40.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
+   "src": "SVT",
+   "section": "Sverige · Stockholm",
+   "title": "Vittnen slog larm om balkongsex i Vindeln – par frias från sexofredande",
+   "date": "2026-11-28T11:20:33.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vittnen-slog-larm-om-balkongsex-i-vindeln-par-frias-fran-sexofredande",
+   "desc": "Fler personer larmade polis om att en sexakt pågick på en balkong i Vindeln. Men balkongsnusket är inte brottsligt enligt Umeå tingsrätt. Sexuellt ofredande måste riktas mot en specifik person – inte allmänhet."
   },
   {
    "src": "SVT",
@@ -74,12 +82,12 @@
    "desc": "Den 20-årige Nybrobon Emil Kämpfer har siktet inställt på Ironman 2027. I stället för en personlig tränare som kostar pengar har han byggt en egen AI-modul som ger personliga träningsråd – och håller stenkoll på hans utveckling mot målet."
   },
   {
-   "src": "SVT",
+   "src": "STHLM",
    "section": "Sverige · Stockholm",
-   "title": "Ukraina försöker strypa Rysslands väg till Krim",
-   "date": "2026-11-27T19:04:22.000Z",
-   "link": "https://www.svt.se/nyheter/utrikes/ukraina-forsoker-strypa-rysslands-vag-till-krym",
-   "desc": "Sedan Ukraina sprängde bilbron mellan Ryssland och ockuperade Krim-halvön har de ryska förbanden där allt svårare att få försörjning. Genom utökade drönarattacker längs den enda landförbindelsen försöker Ukraina nu strypa viktiga militära transporter dit och isolera Krim."
+   "title": "Bil har kört in i fasad i centrala Stockholm – tre till sjukhus",
+   "date": "2026-11-28T09:47:31.000Z",
+   "link": "https://www.svt.se/nyheter/lokalt/stockholm/bil-har-kort-in-i-fasad",
+   "desc": "En bil har kört in i en fasad i centrala Stockholm. Ett stort räddningspådrag har pågått på platsen. Totalt är fem personer inblandade i olyckan, varav tre personer har förts till sjukhus."
   },
   {
    "src": "STHLM",
@@ -114,12 +122,12 @@
    "desc": "Flera patienter har fått vänta uppemot fem timmar på ambulans i Region Stockholm, visar SVT:s genomgång av den senaste tidens avvikelserapporter. – Ser det ut så här nu är man ju orolig för hur ambulanssjukvården ska se ut under jul- och nyårshelgerna, säger oppositionsregionrådet Axel Conradi (M)."
   },
   {
-   "src": "STHLM",
-   "section": "Sverige · Stockholm",
-   "title": "Framtiden tar form i pepparkaksdeg – årets pepparkakshus ska utses",
-   "date": "2026-11-27T09:53:59.000Z",
-   "link": "https://www.svt.se/nyheter/lokalt/stockholm/framtiden-tar-form-i-pepparkaksdeg-arets-pepparkakshus-ska-utses",
-   "desc": "Det är mindre än en månad kvar till julafton och på ArkDes slås dörrarna upp för tävlingen om vem som bakat årets pepparkakshus."
+   "src": "BBC",
+   "section": "United",
+   "title": "Man Utd trigger Fernandes' one-year contract extension",
+   "date": "2026-11-28T10:28:36.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+   "desc": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028."
   },
   {
    "src": "BBC",
@@ -128,14 +136,6 @@
    "date": "2026-11-27T16:30:20.000Z",
    "link": "https://www.bbc.co.uk/sport/football/videos/cq4gnzdyz30eo?at_medium=RSS&at_campaign=rss",
    "desc": "Manchester United head coach Mauricio Pochettino says he 'is not nice' as he hits back at criticism of his management style from former Liverpool and England midfielder Jamie Redknapp."
-  },
-  {
-   "src": "BBC",
-   "section": "United",
-   "title": "Man Utd trigger Fernandes' one-year contract extension",
-   "date": "2026-11-27T15:08:41.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028."
   },
   {
    "src": "BBC",
